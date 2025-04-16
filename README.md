@@ -4,7 +4,7 @@ Welcome to the inofficial data repository for the Skull and Bones game by Ubisof
 
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format.
 
-As the move to a public repository (see #history) includes several changes the following things are planned:
+As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
 - [ ] Extract events, locations, contracts into own data files
   - Those are currently only stored in the translation files
 - [ ] Crowdin workflow integration
