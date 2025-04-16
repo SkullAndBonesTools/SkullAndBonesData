@@ -1,5 +1,5 @@
 # Skull and Bones Data
----
+
 Welcome to the inofficial data repository for the Skull and Bones game by Ubisoft.
 
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format.
