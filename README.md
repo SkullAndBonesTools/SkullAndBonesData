@@ -13,7 +13,7 @@ As the move to a public repository (see #history) includes several changes the f
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
 ## History
-The data available in the repository was originally put together for [Skull and Bones Tools]() and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
+The data available in the repository was originally put together for [Skull and Bones Tools](https://skullandbonestools.de) and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
 
 ## Contribute
 If you like the project please give it a ⭐ here on Github.
