@@ -10,7 +10,7 @@ As the move to a public repository (see #history) includes several changes the f
 - [ ] Crowdin workflow integration
 - [ ] npm packages with generated types for the different data (events, cosmetics, items, ...)
 
-For each update of the game a new release is provided containing the updated files. It can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
+For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
 ## History
 The data available in the repository was originally put together for [Skull and Bones Tools]() and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
