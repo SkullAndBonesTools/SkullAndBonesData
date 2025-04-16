@@ -5,10 +5,10 @@ Welcome to the inofficial data repository for the Skull and Bones game by Ubisof
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format.
 
 As the move to a public repository (see #history) includes several changes the following things are planned:
-- Extract events, locations, contracts into own data files
+- [ ] Extract events, locations, contracts into own data files
   - Those are currently only stored in the translation files
-- Crowdin workflow integration
-- npm packages with generated types for the different data (events, cosmetics, items, ...)
+- [ ] Crowdin workflow integration
+- [ ] npm packages with generated types for the different data (events, cosmetics, items, ...)
 
 For each update of the game a new release is provided containing the updated files. It can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
