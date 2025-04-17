@@ -1,1 +1,1 @@
-export { Seasons } from "../data_providers/seasons";
+export { Seasons } from "./data_providers/seasons";

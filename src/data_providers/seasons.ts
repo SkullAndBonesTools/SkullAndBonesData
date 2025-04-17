@@ -1,4 +1,4 @@
-import seasonsData from "./../data/seasons.json";
+import seasonsData from "../../data/seasons.json";
 
 export default class Season {
     constructor(
