@@ -2,7 +2,7 @@ import shipsData from '../../data/ships.json';
 
 type SlotWithGunports = [number, { top: number; lower?: number }];
 
-export class Ship {
+class Ship {
     constructor(
         public readonly id: string,
         public readonly size: string,
@@ -81,4 +81,8 @@ export class Ship {
     }
 }
 
-export const Ships = Ship.loadShips();
+type ShipsType = {
+    [K in keyof typeof shipsData]: Ship;
+};
+
+export const Ships: ShipsType = Ship.loadShips() as ShipsType;
