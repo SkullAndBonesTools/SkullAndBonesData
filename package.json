@@ -20,7 +20,7 @@
     "@skullandbonestools:registry": "https://npm.pkg.github.com"
   },
   "license": "AGPL-3.0",
-  "author": "herby2212",
+  "author": "Skull and Bones Tools",
   "type": "module",
   "main": "dist/index.js",
   "module": "dist/index.js",
