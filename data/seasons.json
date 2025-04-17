@@ -1,0 +1,44 @@
+{
+    "release": {
+        "index": 0,
+        "id": "release",
+        "startDate": "2024-02-13",
+        "endDate": "2024-02-26",
+        "color": "#F2F235"
+    },
+    "ragingTides": {
+        "index": 1,
+        "id": "ragingTides",
+        "startDate": "2024-02-27",
+        "endDate": "2024-05-27",
+        "color": "#81F91D"
+    },
+    "chorusOfHavoc": {
+        "index": 2,
+        "id": "chorusOfHavoc",
+        "startDate": "2024-05-28",
+        "endDate": "2024-08-21",
+        "color": "#35BEF2"
+    },
+    "intoTheDragonsWake": {
+        "index": 3,
+        "id": "intoTheDragonsWake",
+        "startDate": "2024-08-22",
+        "endDate": "2024-11-18",
+        "color": "#eb1804"
+    },
+    "shadowsOfTheDeep": {
+        "index": 4,
+        "id": "shadowsOfTheDeep",
+        "startDate": "2024-11-19",
+        "endDate": "2025-04-14",
+        "color": "#e4a106"
+    },
+    "ascentIntoChaos": {
+        "index": 5,
+        "id": "ascentIntoChaos",
+        "startDate": "2025-04-15",
+        "endDate": "2025-07-14",
+        "color": "#f06e1d"
+    }
+}
