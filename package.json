@@ -22,8 +22,20 @@
   "license": "AGPL-3.0",
   "author": "herby2212",
   "type": "module",
-  "main": "src/index.ts",
+  "main": "dist/index.js",
+  "module": "dist/index.js",
+  "types": "dist/index.d.ts",
   "scripts": {
+    "build": "tsc",
+    "prepare": "npm run build",
     "test": "exit 0"
+  },
+  "files": [
+    "dist",
+    "README.md",
+    "LICENSE"
+  ],
+  "dependencies": {
+    "typescript": "^5.8.3"
   }
 }
