@@ -1,0 +1,681 @@
+{
+    "dhow": {
+        "id": "dhow",
+        "size": "extraSmall",
+        "type": "ships",
+        "hitpoints": 7000,
+        "braceStrength": 0,
+        "baseRank": 1,
+        "sailSpeed": {
+            "halfSail": 2,
+            "fullSail": 4,
+            "travelSail": 6
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 10000
+        },
+        "limit": 0,
+        "required": {},
+        "slots": {
+            "furniture": 1
+        },
+        "perks": ["hunter","outOfSight"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-06-18"
+    },
+    "bedar": {
+        "id": "bedar",
+        "size": "small",
+        "type": "ships",
+        "hitpoints": 22000,
+        "braceStrength": 4400,
+        "blueprint": "contractReward",
+        "contract": "aSeaworthyShip",
+        "stamina": 100,
+        "baseRank": 1,
+        "sailSpeed": {
+            "halfSail": 5,
+            "fullSail": 8,
+            "travelSail": 12
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 20000
+        },
+        "required": {
+            "silver": 360,
+            "jute": 20,
+            "acacia": 10,
+            "bogIron": 8
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "rightSideWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "furniture": 2
+        },
+        "perks": ["lancer"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "hulk": {
+        "id": "hulk",
+        "size": "small",
+        "type": "ships",
+        "hitpoints": 30000,
+        "requiredRank": "rover1",
+        "blueprint": "outpostSacredTree",
+        "braceStrength": 24000,
+        "stamina": 100,
+        "baseRank": 2,
+        "sailSpeed": {
+            "halfSail": 5,
+            "fullSail": 8,
+            "travelSail": 10
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 46000
+        },
+        "required": {
+            "silver": 1080,
+            "fineJute": 12,
+            "bronzeIngot": 6,
+            "irokoPlank": 6
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "rightSideWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "furniture": 2
+        },
+        "perks": ["ironclad"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "cutter": {
+        "id": "cutter",
+        "size": "small",
+        "type": "ships",
+        "hitpoints": 21000,
+        "requiredRank": "rover1",
+        "blueprint": ["contractReward","seaPeopleHunterMasterOutpostLanitra"],
+        "contact": "dressedToKill",
+        "braceStrength": 4200,
+        "stamina": 100,
+        "baseRank": 2,
+        "sailSpeed": {
+            "halfSail": 6,
+            "fullSail": 9,
+            "travelSail": 13
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 26000
+        },
+        "required": {
+            "silver": 1080,
+            "bronzeIngot": 6,
+            "irokoPlank": 6,
+            "fineJute": 12
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 2,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 2,
+                "lower": 3
+            }],
+            "furniture": 2
+        },
+        "perks": ["unburden"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-08-22"
+    },
+    "barge": {
+        "id": "barge",
+        "size": "small",
+        "type": "ships",
+        "requiredRank": "buccaneer1",
+        "blueprint": "outpostKaaMangrove",
+        "hitpoints": 27000,
+        "braceStrength": 5400,
+        "stamina": 100,
+        "baseRank": 3,
+        "sailSpeed": {
+            "halfSail": 6,
+            "fullSail": 9,
+            "travelSail": 12
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 30000
+        },
+        "required": {
+            "silver": 2700,
+            "fineHemp": 8,
+            "mopanePlank": 8,
+            "cobaltIngot": 4,
+            "fineLinen": 4
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 2,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 2,
+                "lower": 3
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "furniture": 3
+        },
+        "perks": ["wildfire"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "sloop": {
+        "id": "sloop",
+        "size": "small",
+        "type": "ships",
+        "requiredRank": "buccaneer1",
+        "blueprint": "outpostSunkenGoldmine",
+        "hitpoints": 25000,
+        "braceStrength": 5000,
+        "stamina": 100,
+        "baseRank": 3,
+        "sailSpeed": {
+            "halfSail": 6,
+            "fullSail": 9,
+            "travelSail": 12
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 40000
+        },
+        "required": {
+            "silver": 2700,
+            "cobaltIngot": 8,
+            "fineHemp": 8,
+            "castingSand": 4,
+            "lime": 4
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 3,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 3,
+                "lower": 3
+            }],
+            "furniture": 3
+        },
+        "perks": ["outburst"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "padewakang": {
+        "id": "padewakang",
+        "size": "medium",
+        "type": "ships",
+        "requiredRank": "brigand1",
+        "blueprint": "denTelokPenjarah",
+        "hitpoints": 37000,
+        "braceStrength": 7400,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 7,
+            "fullSail": 11,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 70000
+        },
+        "required": {
+            "silver": 2880,
+            "ironwoodPlank": 18,
+            "steelIngot": 15,
+            "fineRamie": 15,
+            "shellac": 4,
+            "crudeSaltpeter": 4
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 3,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 3,
+                "lower": 3
+            }],
+            "aftWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 4
+        },
+        "perks": ["detonate"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "snow": {
+        "id": "snow",
+        "size": "medium",
+        "type": "ships",
+        "requiredRank": "corsair1",
+        "blueprint": "outpostKhmoyEstate",
+        "hitpoints": 50000,
+        "braceStrength": 25000,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 7,
+            "fullSail": 10,
+            "travelSail": 13
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 80000
+        },
+        "required": {
+            "silver": 57660,
+            "juniperPlank": 12,
+            "zincIngot": 12,
+            "fineAbaka": 12,
+            "ironwoodPlank": 13,
+            "steelIngot": 12,
+            "sheetGlass": 2,
+            "screwMechanism": 2
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 3,
+                "lower": 4
+            }],
+            "rightSideWeapon": [1,{
+                "top": 3,
+                "lower": 4
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 4
+        },
+        "perks": ["tenacity"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "brigantine": {
+        "id": "brigantine",
+        "size": "medium",
+        "type": "ships",
+        "requiredRank": "cutthroat1",
+        "blueprint": "outpostTheRuinedLighthouse",
+        "hitpoints": 40000,
+        "braceStrength": 8000,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 9,
+            "fullSail": 12,
+            "travelSail": 18
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 45000
+        },
+        "required": {
+            "silver": 8640,
+            "roselleCloth": 14,
+            "greenheartPlank": 13,
+            "magnetiteIngot": 12,
+            "shellac": 4,
+            "crudeSaltpeter": 4,
+            "sheetGlass": 2,
+            "torsionSpring": 2
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1, {
+                "top": 4,
+                "lower": 4
+            }],
+            "rightSideWeapon": [1, {
+                "top": 4,
+                "lower": 4
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["bullhorn"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "sambuk": {
+        "id": "sambuk",
+        "size": "medium",
+        "type": "ships",
+        "requiredRank": "cutthroat1",
+        "blueprint": "helmSaintAnne",
+        "hitpoints": 35000,
+        "braceStrength": 7000,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 8,
+            "fullSail": 11,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 70000
+        },
+        "required": {
+            "silver": 12000,
+            "greenheartPlank": 15,
+            "magnetiteIngot": 15,
+            "roselleCloth": 12,
+            "woodTar": 4,
+            "cogwheel": 4,
+            "torsionSpring": 2,
+            "eelsTwine": 2
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 4
+            }],
+            "leftSideWeapon": [1,{
+                "top": 4,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 4,
+                "lower": 3
+            }],
+            "aftWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["scorched"],
+        "dateAdded": "2024-02-05",
+        "lastUpdated": "2024-05-13"
+    },
+    "barque": {
+        "id": "barque",
+        "size": "medium",
+        "type": "ships",
+        "season": "ragingTides",
+        "blueprint": "theHelm",
+        "hitpoints": 36000,
+        "braceStrength": 7200,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 8,
+            "fullSail": 11,
+            "travelSail": 15
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 36000
+        },
+        "required": {
+            "silver": 12000,
+            "magnetiteIngot": 12,
+            "roselleCloth": 12,
+            "greenheartPlank": 12,
+            "zincIngot": 18,
+            "screwMechanism": 2,
+            "cogwheel": 3,
+            "precisionDrillingBit": 1
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 3,
+                "lower": 4
+            }],
+            "rightSideWeapon": [1,{
+                "top": 3,
+                "lower": 4
+            }],
+            "aftWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["revitalized"],
+        "dateAdded": "2024-02-27",
+        "lastUpdated": "2024-05-29"
+    },
+    "brig": {
+        "id": "brig",
+        "size": "medium",
+        "type": "ships",
+        "blueprint": "smugglerPass45Reward",
+        "season": "chorusOfHavoc",
+        "hitpoints": 35000,
+        "braceStrength": 7000,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 9,
+            "fullSail": 12,
+            "travelSail": 17
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 70000
+        },
+        "required": {
+            "magnetiteIngot": 14,
+            "roselleCloth": 14,
+            "shellac": 6,
+            "lime": 6,
+            "torsionSpring": 2,
+            "precisionDrillingBit": 2,
+            "eelsTwine": 1,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 1
+            }],
+            "leftSideWeapon": [1,{
+                "top": 4,
+                "lower": 4
+            }],
+            "rightSideWeapon": [1,{
+                "top": 4,
+                "lower": 4
+            }],
+            "aftWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["artificer"],
+        "dateAdded": "2024-05-28",
+        "lastUpdated": "2024-06-08"
+    },
+    "battleJunk": {
+        "id": "battleJunk",
+        "size": "medium",
+        "type": "ships",
+        "blueprint": "smugglerPass45Reward",
+        "season": "intoTheDragonsWake",
+        "hitpoints": 48000,
+        "braceStrength": 24000,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 7,
+            "fullSail": 11,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 70000
+        },
+        "required": {
+            "quicklime": 5,
+            "planetaryGearset": 5,
+            "purifiedSaltpeter": 5,
+            "wormDrive": 5,
+            "naphtha": 3,
+            "sinewString": 3,
+            "eelSturdyRopes": 1,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 4,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 4,
+                "lower": 3
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["provoke"],
+        "dateAdded": "2024-08-22",
+        "lastUpdated": "2024-08-22"
+    },
+    "garuda": {
+        "id": "garuda",
+        "size": "medium",
+        "type": "ships",
+        "blueprint": "smugglerPass45Reward",
+        "season": "shadowsOfTheDeep",
+        "hitpoints": 32000,
+        "braceStrength": 6400,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 7,
+            "fullSail": 11,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 45000
+        },
+        "required": {
+            "greenheartPlank": 8,
+            "wormDrive": 6,
+            "woodPitch": 6,
+            "naphtha": 4,
+            "rubber": 4,
+            "orcasMechanism": 2,
+            "wyrmsBreath": 2,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": 1,
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 4
+            }],
+            "leftSideWeapon": [1,{
+                "top": 4,
+                "lower": 4
+            }],
+            "rightSideWeapon": [1,{
+                "top": 4,
+                "lower": 4
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": 1,
+            "furniture": 5
+        },
+        "perks": ["deadeye"],
+        "dateAdded": "2024-11-19",
+        "lastUpdated": "2024-11-19"
+    }
+}
