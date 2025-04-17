@@ -1,0 +1,26 @@
+{
+  "name": "@skullandbonestools/snbdata",
+  "version": "1.0.0",
+  "description": "Inofficial data package for the Skull and Bones game by Ubisoft.",
+  "keywords": [
+    "ubisoft",
+    "ubisoft-game",
+    "skull-and-bones",
+    "skull-and-bones-tools"
+  ],
+  "homepage": "https://github.com/SkullAndBonesTools/SkullAndBonesData#readme",
+  "bugs": {
+    "url": "https://github.com/SkullAndBonesTools/SkullAndBonesData/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SkullAndBonesTools/SkullAndBonesData.git"
+  },
+  "license": "AGPL-3.0",
+  "author": "herby2212",
+  "type": "module",
+  "main": "src/index.ts",
+  "scripts": {
+    "test": "exit 0"
+  }
+}
