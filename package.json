@@ -17,7 +17,7 @@
     "url": "git+https://github.com/SkullAndBonesTools/SkullAndBonesData.git"
   },
   "publishConfig": {
-    "@skullandbonestools:registry": "https://npm.pkg.github.com"
+    "@skullandbonestools:registry": "https://registry.npmjs.org"
   },
   "license": "AGPL-3.0",
   "author": "Skull and Bones Tools",
