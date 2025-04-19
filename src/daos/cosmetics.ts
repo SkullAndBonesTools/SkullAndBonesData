@@ -23,11 +23,9 @@ export class Cosmetic {
     public static fromRawData(rawData: any): Cosmetic {
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if(required) {
-            for (const [requiredKey, quantity] of Object.entries(required)) {
+            for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
                 const requiredMaterial = requiredKey as keyof typeof Materials;
-                if (requiredMaterial) {
-                    required.set(Materials[requiredMaterial], quantity as number);
-                }
+                required.set(Materials[requiredMaterial], quantity as number);
             }
         }
         
