@@ -22,7 +22,7 @@ The version number of the release is tied to the Skull and Bones version the dat
 This represents the SnB game version Y2S1.2.X
 ```
 
-*Because the first published version of the package was for Y1S2, so season 5 of Skull and Bones, the first release was the 5.0.0.*
+*Because the first published version of the package was for Y2S1, so season 5 of Skull and Bones, the first release was the 5.0.0.*
 
 ## How to Use
 ### Raw Data
