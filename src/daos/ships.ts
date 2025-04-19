@@ -1,4 +1,5 @@
 import shipsData from '../../data/ships.json';
+import { ShipSize, SlotWithGunports } from '../types/ShipProperties';
 import { Season, Seasons } from './seasons';
 
 export class Ship {
