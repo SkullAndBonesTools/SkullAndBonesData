@@ -42,7 +42,7 @@ export class Ship {
 
     // Static method to create a Ship instance from raw data
     public static fromRawData(rawData: any): Ship {
-        const season = rawData.season as keyof typeof Seasons | undefined;
+        const season = rawData.season as keyof typeof Seasons;
         return new Ship(
             rawData.id,
             rawData.size,
