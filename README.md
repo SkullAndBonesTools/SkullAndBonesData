@@ -12,6 +12,38 @@ As the move to a public repository (see [History](#history)) includes several ch
 
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
+The version number of the release is tied to the Skull and Bones version the data represents and put together like so:\
+**Example**: snbdata@5.2.4
+```
+5 - Season
+2 - Patch Level
+4 - Bug Fixes / Minor Changes
+
+This represent the SnB game version Y2S1.2.X
+```
+
+*Because the first published version of the package was for Y1S2, so season 5 of Skull and Bones, the first release was the 5.0.0.*
+
+## How to Use
+### Raw Data
+You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/master/data) folder for the different types.
+
+### Package
+Based on the raw data is the `snbdata` npm package available, featuring access to the data as typescript objects with type safety and autocompletion.
+
+#### Guide
+**Install the Package**
+`TODO`
+
+**Access the Data**
+```
+import { Ships } from "@skullandbonestools/snbdata";
+import { Season } from '@skullandbonestools/snbdata/dist/daos/seasons';
+
+const season:Season = Ships.barque.season; // Retrieves the season object for the barque
+console.log(season.id); // Returns ragingTides
+```
+
 ## History
 The data available in the repository was originally put together for [Skull and Bones Tools](https://skullandbonestools.de) and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
 
