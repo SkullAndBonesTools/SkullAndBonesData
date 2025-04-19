@@ -1,16 +1,16 @@
 import shipsData from '../../data/ships.json';
-
-type SlotWithGunports = [number, { top: number; lower?: number }];
+import { Season, Seasons } from './seasons';
 
 class Ship {
     constructor(
         public readonly id: string,
-        public readonly size: string,
+        public readonly size: ShipSize,
         public readonly type: string,
         public readonly blueprint: string | string[] | undefined,
-        public readonly season: string | undefined,
+        public readonly season: Season | undefined,
         public readonly hitpoints: number,
         public readonly braceStrength: number,
+        public readonly braceStrengthRecovery: number,
         public readonly stamina: number | undefined,
         public readonly baseRank: number,
         public readonly requiredRank: string | undefined,
@@ -35,20 +35,22 @@ class Ship {
             furniture?: number;
         },
         public readonly perks: string[],
-        public readonly dateAdded: string,
-        public readonly lastUpdated: string
+        public readonly dateAdded: Date,
+        public readonly lastUpdated: Date
     ) {}
 
     // Static method to create a Ship instance from raw data
     public static fromRawData(rawData: any): Ship {
+        const season = rawData.season as keyof typeof Seasons | undefined;
         return new Ship(
             rawData.id,
             rawData.size,
             rawData.type,
             rawData.blueprint ?? undefined,
-            rawData.season ?? undefined,
+            season ? Seasons[season] : undefined,
             rawData.hitpoints,
             rawData.braceStrength,
+            rawData.braceStrengthRecovery,
             rawData.stamina ?? undefined,
             rawData.baseRank,
             rawData.requiredRank ?? undefined,
@@ -66,8 +68,8 @@ class Ship {
                 furniture: rawData.slots.furniture ?? undefined,
             },
             rawData.perks,
-            rawData.dateAdded,
-            rawData.lastUpdated
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated)
         );
     }
 
@@ -81,8 +83,8 @@ class Ship {
     }
 }
 
-type ShipsType = {
+type Ships = {
     [K in keyof typeof shipsData]: Ship;
 };
 
-export const Ships: ShipsType = Ship.loadShips() as ShipsType;
+export const Ships: Ships = Ship.loadShips() as Ships;

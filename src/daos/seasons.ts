@@ -1,6 +1,6 @@
 import seasonsData from "../../data/seasons.json";
 
-class Season {
+export class Season {
     constructor(
         public readonly index: number,
         public readonly id: string,
@@ -24,8 +24,8 @@ class Season {
     }
 }
 
-type SeasonsType = {
+export type Seasons = {
     [K in keyof typeof seasonsData]: Season;
 };
 
-export const Seasons: SeasonsType = Season.loadSeasons() as SeasonsType;
+export const Seasons: Seasons = Season.loadSeasons() as Seasons;

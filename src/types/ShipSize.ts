@@ -1,0 +1,1 @@
+type ShipSize = "extraSmall" | "small" | "medium" | "large"
