@@ -4,6 +4,7 @@ export { Ships } from "./daos/ships";
 export { Materials } from "./daos/materials";
 export { Commodities } from "./daos/commodities";
 export { Cosmetics } from "./daos/cosmetics";
+export { Items } from "./daos/items";
 export { Sets } from "./daos/sets";
 
 // Types
