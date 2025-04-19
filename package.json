@@ -27,7 +27,8 @@
   "types": "dist/index.d.ts",
   "scripts": {
     "prepare": "npm run build",
-    "build": "tsc"
+    "build": "tsc",
+    "test": "exit 0"
   },
   "files": [
     "dist",
