@@ -8,7 +8,7 @@ As the move to a public repository (see [History](#history)) includes several ch
 - [ ] Extract events, locations, contracts into own data files
   - Those are currently only stored in the translation files
 - [ ] Crowdin workflow integration
-- [ ] npm packages with generated types for the different data (events, cosmetics, items, ...)
+- [x] npm packages with generated types for the different data (events, cosmetics, items, ...)
 
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
@@ -19,7 +19,7 @@ The version number of the release is tied to the Skull and Bones version the dat
 2 - Patch Level
 4 - Bug Fixes / Minor Changes
 
-This represent the SnB game version Y2S1.2.X
+This represents the SnB game version Y2S1.2.X
 ```
 
 *Because the first published version of the package was for Y1S2, so season 5 of Skull and Bones, the first release was the 5.0.0.*
@@ -33,9 +33,12 @@ Based on the raw data is the `snbdata` npm package available, featuring access t
 
 #### Guide
 **Install the Package**
-`TODO`
+```
+npm i @skullandbonestools/snbdata
+```
 
 **Access the Data**
+
 Getting the season of the `Barque` (TS):
 ```typescript
 import { Ships } from "@skullandbonestools/snbdata";
