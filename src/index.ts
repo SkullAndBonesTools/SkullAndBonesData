@@ -1,2 +1,2 @@
-export { Seasons } from "./data_providers/seasons";
-export { Ships } from "./data_providers/ships";
+export { Seasons } from "./daos/seasons";
+export { Ships } from "./daos/ships";
