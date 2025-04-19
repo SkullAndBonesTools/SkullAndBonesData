@@ -1,0 +1,1 @@
+export type CommodityCategory = "localFaction" | "megacorp" | "kingpin" | "theHelm";

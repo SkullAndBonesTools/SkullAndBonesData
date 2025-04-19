@@ -1,0 +1,250 @@
+{
+    "lambaCloth": {
+        "rarity": "rare",
+        "category": "localFaction"
+    },
+    "uncutGarnet": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "fineSeaPeopleRelic": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "capitalSeaPeopleRelic": {
+        "rarity": "legendary",
+        "category": "localFaction"
+    },
+    "cloves": {
+        "rarity": "common",
+        "category": "localFaction"
+    },
+    "frankincense": {
+        "rarity": "uncommon",
+        "category": "localFaction"
+    },
+    "uncutSapphire": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "fineFaraRelic": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "capitalFaraRelic": {
+        "rarity": "legendary",
+        "category": "localFaction"
+    },
+    "snuff": {
+        "rarity": "uncommon",
+        "category": "localFaction"
+    },
+    "ivory": {
+        "rarity": "rare",
+        "category": "localFaction"
+    },
+    "uncutDiamond": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "fineUngwanaRelic": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "capitalUngwanaRelic": {
+        "rarity": "legendary",
+        "category": "localFaction"
+    },
+    "spice": {
+        "rarity": "common",
+        "category": "localFaction"
+    },
+    "batik": {
+        "rarity": "rare",
+        "category": "localFaction"
+    },
+    "uncutRuby": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "fineRempahRelic": {
+        "rarity": "epic",
+        "category": "localFaction"
+    },
+    "capitalRempahRelic": {
+        "rarity": "legendary",
+        "category": "localFaction"
+    },
+    "ale": {
+        "rarity": "common",
+        "category": "megacorp"
+    },
+    "tobacco": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "ambergris": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "vanilla": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "wine": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "brandy": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "ornatePistols": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "militaryCompagnieRelic": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "fineCompagnieRelic": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "basicCompagnieRelic": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "capitalCompagnieRelic": {
+        "rarity": "legendary",
+        "category": "megacorp"
+    },
+    "nutmeg": {
+        "rarity": "common",
+        "category": "megacorp"
+    },
+    "cacao": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "camphor": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "gin": {
+        "rarity": "uncommon",
+        "category": "megacorp"
+    },
+    "painting": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "militaryDmcRelic": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "fineDmcRelic": {
+        "rarity": "epic",
+        "category": "megacorp"
+    },
+    "capitalDmcRelic": {
+        "rarity": "legendary",
+        "category": "megacorp"
+    },
+    "rum": {
+        "rarity": "uncommon",
+        "category": "kingpin"
+    },
+    "cannonPowder": {
+        "rarity": "rare",
+        "category": "kingpin"
+    },
+    "firearms": {
+        "rarity": "rare",
+        "category": "kingpin"
+    },
+    "ginseng": {
+        "rarity": "rare",
+        "category": "kingpin"
+    },
+    "jade": {
+        "rarity": "epic",
+        "category": "kingpin"
+    },
+    "porcelain": {
+        "rarity": "epic",
+        "category": "kingpin"
+    },
+    "poppy": {
+        "rarity": "rare",
+        "category": "theHelm"
+    },
+    "sugarCane": {
+        "rarity": "rare",
+        "category": "theHelm"
+    },
+    "juniperBerries": {
+        "rarity": "rare",
+        "category": "theHelm"
+    },
+    "tobaccoLeaves": {
+        "rarity": "rare",
+        "category": "theHelm"
+    },
+    "rawImperialJade": {
+        "rarity": "rare",
+        "category": "theHelm"
+    },
+    "blackSnuff": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "blueLotusOpium": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "whiteSkullRum": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "whiteSkullGin": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "imperialJade": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "copperBars": {
+        "rarity": "epic",
+        "category": "theHelm"
+    },
+    "crystalizedTaintedWood": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "silverSnuff": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "blackLotusOpium": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "goldSkullRum": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "goldSkullGin": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "carvedImperialJade": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    },
+    "helmLeaseOpen": {
+        "rarity": "legendary",
+        "category": "theHelm"
+    }
+}
