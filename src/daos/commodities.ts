@@ -1,5 +1,5 @@
 import commoditiesData from "../../data/commodities.json";
-import { CommodityCategory } from "../types/CommodityCategory";
+import { CommodityCategory } from "../types/Category";
 import { Rarity } from "../types/Rarity";
 
 export class Commodity {
