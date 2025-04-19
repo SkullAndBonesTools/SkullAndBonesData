@@ -1,0 +1,814 @@
+{
+    "silver": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "piecesOfEight": {
+        "rarity": "legendary",
+        "category": "raw"
+    },
+    "sovereigns": {
+        "rarity": "legendary",
+        "category": "raw"
+    },
+    "reapersToll": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "azuriteGem": {
+        "rarity": "rare",
+        "category": "raw"
+    },
+    "halfTaels": {
+        "rarity": "legendary",
+        "category": "raw"
+    },
+    "silverLions": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "copperBars": {
+        "rarity": "epic",
+        "category": "helm"
+    },
+    "units": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "cork": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "gold": {
+        "rarity": "legendary",
+        "category": "raw"
+    },
+    "jute": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "sisal": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "linen": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "hemp": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "ramie": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "abaka": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "roselle": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "bogIron": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "nickel": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "pureIron": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "copper": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "cobalt": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "zinc": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "magnetite": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "acacia": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "teak": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "iroko": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "mopane": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "ironwood": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "juniper": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "greenheart": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "crocodileHide": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "hippoHide": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "sharkSkin": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "thickCrocodileHide": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "apexCrocodileHide": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "apexHippoHide": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "coconut": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "fish": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "ndizi": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "crocodileMeat": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "sharkMeat": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "rawMutton": {
+        "rarity": "common",
+        "category": "raw",
+        "requiredRank": "scoundrel1"
+    },
+    "rawChicken": {
+        "rarity": "common",
+        "category": "raw",
+        "requiredRank": "scoundrel1"
+    },
+    "flour": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "primeHippoMeat": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "durian": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "primeCrocodileMeat": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "tylosaurusFlesh": {
+        "rarity": "rare",
+        "category": "raw"
+    },
+    "screwpine": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "rawBeef": {
+        "rarity": "common",
+        "category": "raw",
+        "requiredRank": "scoundrel1"
+    },
+    "rawVegetables": {
+        "rarity": "common",
+        "category": "raw",
+        "requiredRank": "scoundrel1"
+    },
+    "hippoMeat": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "waterFlask": {
+        "rarity": "common",
+        "category": "raw"
+    },
+    "waterBarrel": {
+        "rarity": "rare",
+        "category": "raw"
+    },
+    "repairKit1": {
+        "rarity": "common",
+        "category": "refined",
+        "raw": {
+            "metalSalvage": 1,
+            "scavengedWood": 1
+        }
+    },
+    "repairKit2": {
+        "rarity": "common",
+        "category": "refined",
+        "raw": {
+            "scavengedWood": 3,
+            "rustyNail": 3
+        }
+    },
+    "repairKit3": {
+        "rarity": "common",
+        "category": "refined",
+        "raw": {
+            "metalSalvage": 2,
+            "brokenPlank": 2,
+            "tornSail": 3
+        }
+    },
+    "fineJute": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "jute": 5
+        }
+    },
+    "fineSisal": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "sisal": 5
+        }
+    },
+    "fineLinen": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "linen": 5
+        }
+    },
+    "fineHemp": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "hemp": 5
+        }
+    },
+    "fineRamie": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "ramie": 5
+        }
+    },
+    "fineAbaka": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "abaka": 5
+        }
+    },
+    "roselleCloth": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "roselle": 5
+        }
+    },
+    "castIronIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "bogIron": 3
+        }
+    },
+    "nickelIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "nickel": 3
+        }
+    },
+    "steelIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "pureIron": 3
+        }
+    },
+    "bronzeIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "copper": 3
+        }
+    },
+    "cobaltIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "cobalt": 3
+        }
+    },
+    "zincIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "zinc": 3
+        }
+    },
+    "magnetiteIngot": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "magnetite": 3
+        }
+    },
+    "acaciaPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "acacia": 5
+        }
+    },
+    "teakPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "teak": 5
+        }
+    },
+    "irokoPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "iroko": 5
+        }
+    },
+    "mopanePlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "mopane": 5
+        }
+    },
+    "ironwoodPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "ironwood": 5
+        }
+    },
+    "juniperPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "juniper": 5
+        }
+    },
+    "greenheartPlank": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "greenheart": 5
+        }
+    },
+    "crocodileLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "crocodileHide": 1
+        }
+    },
+    "hippoLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "hippoHide": 1
+        }
+    },
+    "sharkLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "sharkSkin": 1
+        }
+    },
+    "thickCrocodileLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "thickCrocodileHide": 1
+        }
+    },
+    "apexCrocodileLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "apexCrocodileHide": 1
+        }
+    },
+    "apexHippoLeather": {
+        "rarity": "uncommon",
+        "category": "refined",
+        "raw": {
+            "apexHippoHide": 1
+        }
+    },
+    "castingSand": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "teakPlank": 5,
+            "nickelIngot": 5,
+            "fineSisal": 5
+        }
+    },
+    "shellac": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "fineRamie": 5,
+            "ironwoodPlank": 5,
+            "steelIngot": 5
+        }
+    },
+    "woodTar": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "mopanePlank": 5,
+            "cobaltIngot": 5,
+            "fineHemp": 5
+        }
+    },
+    "sheetGlass": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "zincIngot": 5,
+            "fineAbaka": 5,
+            "juniperPlank": 5
+        }
+    },
+    "lime": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "teakPlank": 5,
+            "nickelIngot": 5,
+            "fineSisal": 5
+        }
+    },
+    "crudeSaltpeter": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "fineRamie": 5,
+            "ironwoodPlank": 5,
+            "steelIngot": 5
+        }
+    },
+    "cogwheel": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "mopanePlank": 5,
+            "cobaltIngot": 5,
+            "fineHemp": 5
+        }
+    },
+    "screwMechanism": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "zincIngot": 5,
+            "fineAbaka": 5,
+            "juniperPlank": 5
+        }
+    },
+    "torsionSpring": {
+        "rarity": "legendary",
+        "category": "exotic",
+        "raw": {
+            "planetaryGearset": 3,
+            "woodPitch": 5
+        }
+    },
+    "rubber": {
+        "rarity": "legendary",
+        "category": "exotic",
+        "raw": {
+            "lacquer": 3,
+            "purifiedSaltpeter": 3
+        }
+    },
+    "precisionDrillingBit": {
+        "rarity": "legendary",
+        "category": "exotic",
+        "raw": {
+            "plateGlass": 3,
+            "wormDrive": 3
+        }
+    },
+    "tornSail": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "brokenPlank": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "scavengedWood": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "rustyNail": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "metalSalvage": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "charcoal": {
+        "rarity": "common",
+        "category": "scrap"
+    },
+    "eelsTwine": {
+        "rarity": "legendary",
+        "category": "helm"
+    },
+    "wyrmsBreath": {
+        "rarity": "legendary",
+        "category": "helm"
+    },
+    "orcasMechanism": {
+        "rarity": "legendary",
+        "category": "helm"
+    },
+    "gannetsSaltpeter": {
+        "rarity": "legendary",
+        "category": "helm"
+    },
+    "etherealAshes": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "vengefulEssence": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "monstrousTooth": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "woodPitch": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "woodTar": 5
+        }
+    },
+    "plateGlass": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "sheetGlass": 5
+        }
+    },
+    "dryCastingSand": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "castingSand": 5
+        }
+    },
+    "lacquer": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "shellac": 5
+        }
+    },
+    "sinewString": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "fineHemp": 2,
+            "fineSisal": 3,
+            "fineLinen": 2,
+            "fineJute": 3
+        }
+    },
+    "upgradeParts": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "zamaharibuScales": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "lestarisSkin": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "hubacHeirloom": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "whiteAriaShipPart": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "blackAriaShipPart": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "ice": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "lestarisMeat": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "naphtha": {
+        "rarity": "legendary",
+        "category": "exotic",
+        "raw": {
+            "quicklime": 3,
+            "dryCastingSand": 3
+        }
+    },
+    "quicklime": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "lime": 5
+        }
+    },
+    "purifiedSaltpeter": {
+        "rarity": "rare",
+        "category": "specialized",
+        "raw": {
+            "crudeSaltpeter": 5
+        }
+    },
+    "planetaryGearset": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "cogwheel": 5
+        }
+    },
+    "wormDrive": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "screwMechanism": 5
+        }
+    },
+    "lightningDragonClaw": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "lightningDragonScale": {
+        "rarity": "rare",
+        "category": "specialized"
+    },
+    "phoenixBeak": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "phoenixPinion": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "azureDragonHead": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "plagueDust": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "blightedFuel": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "yellowDragonBanner": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "jadePhoenixStatue": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "eelSturdyRopes": {
+        "rarity": "legendary",
+        "category": "helm",
+        "raw": {
+            "eelsTwine": 5,
+            "sinewString": 3,
+            "wormDrive": 2,
+            "plateGlass": 2
+        }
+    },
+    "wyrmVolatileNapalm": {
+        "rarity": "legendary",
+        "category": "helm",
+        "raw": {
+            "wyrmsBreath": 5,
+            "naphtha": 3,
+            "quicklime": 2,
+            "dryCastingSand": 2
+        }
+    },
+    "orcaIntricateApparatus": {
+        "rarity": "legendary",
+        "category": "helm",
+        "raw": {
+            "orcasMechanism": 5,
+            "torsionSpring": 3,
+            "planetaryGearset": 2,
+            "woodPitch": 2
+        }
+    },
+    "gannetDenseNiter": {
+        "rarity": "legendary",
+        "category": "helm",
+        "raw": {
+            "gannetsSaltpeter": 5,
+            "rubber": 3,
+            "purifiedSaltpeter": 2,
+            "lacquer": 2
+        }
+    },
+    "xanthousStone": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "putrefiedZamaharibuScale": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "zamaharibuScales": 3,
+            "xanthousStone": 2
+        }
+    },
+    "putrefiedLestariSkin": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "lestarisSkin": 3,
+            "xanthousStone": 2
+        }
+    },
+    "artisansRefinementPack": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "xanthousGemstone": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "primevalFang": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "ascensionModule": {
+        "rarity": "legendary",
+        "category": "exotic"
+    },
+    "masterworkKit": {
+        "rarity": "legendary",
+        "category": "exotic"
+    }
+}
