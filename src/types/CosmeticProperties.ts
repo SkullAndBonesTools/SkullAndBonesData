@@ -1,0 +1,1 @@
+export type Effect = "emissive" | "combatReactive" | "killReactive" | "bossKillReactive" | "animated";
