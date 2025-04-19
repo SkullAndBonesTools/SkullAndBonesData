@@ -36,12 +36,28 @@ Based on the raw data is the `snbdata` npm package available, featuring access t
 `TODO`
 
 **Access the Data**
-```
+Getting the season of the `Barque` (TS):
+```typescript
 import { Ships } from "@skullandbonestools/snbdata";
 import { Season } from '@skullandbonestools/snbdata/dist/daos/seasons';
 
 const season:Season = Ships.barque.season; // Retrieves the season object for the barque
 console.log(season.id); // Returns ragingTides
+```
+
+Getting the required materials for `Orca Intricate Apparatus` (JS):
+```javascript
+import { Materials } from "@skullandbonestools/snbdata";
+
+Materials.orcaIntricateApparatus.required.keys().forEach(material => {
+  console.log("Id: %s - Required: %s", material.id, material.required?.keys().map((m) => m.id).toArray().join(", "));
+});
+
+// Output
+Id: orcasMechanism - Required: undefined
+Id: torsionSpring - Required: planetaryGearset, woodPitch
+Id: planetaryGearset - Required: cogwheel
+Id: woodPitch - Required: woodTar
 ```
 
 ## History
