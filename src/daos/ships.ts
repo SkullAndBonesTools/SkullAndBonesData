@@ -1,7 +1,7 @@
 import shipsData from '../../data/ships.json';
 import { Season, Seasons } from './seasons';
 
-class Ship {
+export class Ship {
     constructor(
         public readonly id: string,
         public readonly size: ShipSize,
@@ -83,7 +83,7 @@ class Ship {
     }
 }
 
-type Ships = {
+export type Ships = {
     [K in keyof typeof shipsData]: Ship;
 };
 
