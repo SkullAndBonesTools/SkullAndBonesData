@@ -8,17 +8,11 @@ export class Material {
     required?: Map<Material, number>;
     requiredRank?: string;
 
-    constructor(id: string, rarity: Rarity, category: string, raw?: Record<string, number>, requiredRank?: string) {
+    constructor(id: string, rarity: Rarity, category: string, requiredRank?: string) {
         this.id = id;
         this.rarity = rarity;
         this.category = category;
         this.requiredRank = requiredRank;
-        if(raw) {
-            this.required = new Map(Object.entries(raw).map(([key, value]) => {
-                const material = key as keyof typeof Materials;
-                return [Materials[material], value]
-            }));
-        }
     }
 
     public static fromRawData(key: string, rawData: any): Material {
@@ -26,15 +20,32 @@ export class Material {
                 key,
                 rawData.rarity,
                 rawData.category,
-                rawData.raw ?? undefined,
                 rawData.requiredRank ?? undefined
             );
         }
 
+    public static updateMaterialWithRequired(key:string, rawData:any, materials: Record<string, Material>) {
+        if(!rawData.raw) return;
+        const required = new Map<Material, number>();
+        for (const [requiredKey, quantity] of Object.entries(rawData.raw)) {
+            const requiredMaterial = materials[requiredKey];
+            if (requiredMaterial) {
+                required.set(requiredMaterial, quantity as number);
+            }
+        }
+        materials[key].required = required;
+    }
+
     public static loadMaterials(): Record<string, Material> {
         const materials: Record<string, Material> = {};
+        // Load all materials without their required materials
         for (const [key, value] of Object.entries(materialsData)) {
             materials[key] = Material.fromRawData(key, value);
+        }
+
+        // Load the required materials for each material
+        for (const [key, value] of Object.entries(materialsData)) {
+            Material.updateMaterialWithRequired(key, value, materials);
         }
         return materials;
     }
