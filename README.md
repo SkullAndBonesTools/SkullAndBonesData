@@ -2,7 +2,7 @@
 
 Welcome to the inofficial data repository for the Skull and Bones game by Ubisoft.
 
-This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format.
+This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format and provides a npm package to access the data in typescript and javascript.
 
 As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
 - [ ] Extract events, locations, contracts into own data files
@@ -12,10 +12,10 @@ As the move to a public repository (see [History](#history)) includes several ch
 
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
-The version number of the release is tied to the Skull and Bones version the data represents and put together like so:\
+The version schema of the release is tied to the Skull and Bones version the data represents and put together like so:\
 **Example**: snbdata@5.2.4
 ```
-5 - Season
+5 - Season (a year has 4 seasons, so season 5 = Y2S1)
 2 - Patch Level
 4 - Bug Fixes / Minor Changes
 
@@ -26,10 +26,10 @@ This represents the SnB game version Y2S1.2.X
 
 ## How to Use
 ### Raw Data
-You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/master/data) folder for the different types.
+You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/master/data) folder.
 
 ### Package
-Based on the raw data is the `snbdata` npm package available, featuring access to the data as typescript objects with type safety and autocompletion.
+Based on the raw data is the `snbdata` npm package available, featuring access to the data as objects with type safety and autocompletion.
 
 #### Guide
 **Install the Package**
@@ -52,6 +52,7 @@ Getting the required materials for `Orca Intricate Apparatus` (JS):
 ```javascript
 import { Materials } from "@skullandbonestools/snbdata";
 
+// Only check required materials not their amount
 Materials.orcaIntricateApparatus.required.keys().forEach(material => {
   console.log("Id: %s - Required: %s", material.id, material.required?.keys().map((m) => m.id).toArray().join(", "));
 });
