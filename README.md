@@ -32,10 +32,8 @@ You can find the raw data files as JSON in the [data](https://github.com/SkullAn
 Based on the raw data is the `snbdata` npm package available, featuring access to the data as objects with type safety and autocompletion.
 
 #### Guide
-**Install the Package**
-```
-npm i @skullandbonestools/snbdata
-```
+**Install the Package**\
+~~`npm i @skullandbonestools/snbdata`~~`  // Package will be available in the coming days`
 
 **Access the Data**
 
