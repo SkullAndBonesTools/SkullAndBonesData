@@ -10236,7 +10236,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 175,
-        "perks": ["mortarSecondaryDamage19"],
+        "perks": ["mortarProjectileSpeed15"],
         "required": {
             "roselleCloth": 10,
             "woodTar": 4,
