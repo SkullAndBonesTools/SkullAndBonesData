@@ -11003,7 +11003,7 @@
     "nightfallSash": {
         "id": "nightfallSash",
         "type": "waist",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 500
@@ -11015,7 +11015,7 @@
     "duskbracers": {
         "id": "duskbracers",
         "type": "forearm",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 250
@@ -11027,7 +11027,7 @@
     "seadogsBane": {
         "id": "seadogsBane",
         "type": "faceAccessory",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 500
@@ -11039,7 +11039,7 @@
     "highTricorne": {
         "id": "highTricorne",
         "type": "headwear",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 500
@@ -11051,7 +11051,7 @@
     "gildedPauldrons": {
         "id": "gildedPauldrons",
         "type": "neck",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 250
@@ -11063,7 +11063,7 @@
     "sundownBreeches": {
         "id": "sundownBreeches",
         "type": "bottom",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 500
@@ -11075,7 +11075,7 @@
     "gloomstriders": {
         "id": "gloomstriders",
         "type": "footwear",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 500
@@ -11087,7 +11087,7 @@
     "duelistsTunic": {
         "id": "duelistsTunic",
         "type": "torso",
-        "set": "darkSwashbuckler",
+        "set": "duskSwashbuckler",
         "season": "chorusOfHavoc",
         "required": {
             "piecesOfEight": 750
@@ -16520,7 +16520,7 @@
     "hellKnightTop": {
         "id": "hellKnightTop",
         "type": "torso",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16528,7 +16528,7 @@
     "silverSkull": {
         "id": "silverSkull",
         "type": "headwear",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16536,7 +16536,7 @@
     "sableCollar": {
         "id": "sableCollar",
         "type": "neck",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16544,7 +16544,7 @@
     "moonlitGreaves": {
         "id": "moonlitGreaves",
         "type": "forearm",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16552,7 +16552,7 @@
     "ashAndSteel": {
         "id": "ashAndSteel",
         "type": "waist",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16560,7 +16560,7 @@
     "midnightMail": {
         "id": "midnightMail",
         "type": "bottom",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
@@ -16568,7 +16568,7 @@
     "steelWingBoots": {
         "id": "steelWingBoots",
         "type": "footwear",
-        "set": "steelAndMighty",
+        "set": "steelyAndMighty",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-17",
         "lastUpdated": "2024-09-17"
