@@ -30,6 +30,7 @@
     "build": "tsc"
   },
   "files": [
+    "data",
     "dist",
     "README.md",
     "LICENSE"
