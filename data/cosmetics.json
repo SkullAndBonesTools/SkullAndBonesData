@@ -22990,5 +22990,19 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
+    },
+    "sayMyName": {
+        "id": "sayMyName",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-15",
+        "lastUpdated": "2025-04-15"
+    },
+    "onlyYou": {
+        "id": "onlyYou",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-15",
+        "lastUpdated": "2025-04-15"
     }
 }
