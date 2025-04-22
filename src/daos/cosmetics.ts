@@ -1,7 +1,7 @@
 import cosmeticsData from '../../data/cosmetics.json';
 import { Effect } from '../types/CosmeticProperties';
 import { Material, Materials } from './materials';
-import { Season } from './seasons';
+import { Season, Seasons } from './seasons';
 
 export class Cosmetic {
     constructor(
@@ -21,6 +21,7 @@ export class Cosmetic {
     ) {}
 
     public static fromRawData(rawData: any): Cosmetic {
+        const season = rawData.season as keyof typeof Seasons;
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if(required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
@@ -37,7 +38,7 @@ export class Cosmetic {
             rawData.set ?? undefined,
             rawData.obtainable ?? undefined,
             rawData.effect ?? undefined,
-            rawData.season ?? undefined,
+            rawData.season ? Seasons[season] : undefined,
             rawData.contract ?? undefined,
             required,
             rawData.requiredRank ?? undefined,
