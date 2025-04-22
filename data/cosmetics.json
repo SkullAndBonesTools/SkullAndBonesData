@@ -22995,14 +22995,14 @@
         "id": "sayMyName",
         "type": "emote",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "dateAdded": "2025-04-22",
+        "lastUpdated": "2025-04-22"
     },
     "onlyYou": {
         "id": "onlyYou",
         "type": "emote",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "dateAdded": "2025-04-22",
+        "lastUpdated": "2025-04-22"
     }
 }
