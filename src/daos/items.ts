@@ -81,7 +81,7 @@ export class Item {
     }
 }
 
-export type Items = {
+type Items = {
     [K in keyof typeof itemsData]: Item;
 };
 

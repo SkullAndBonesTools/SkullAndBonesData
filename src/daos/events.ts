@@ -23,7 +23,7 @@ export class Event {
     }
 }
 
-export type Events = {
+type Events = {
     [K in keyof typeof eventsData]: Event;
 };
 

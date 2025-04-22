@@ -16,7 +16,7 @@ export class WorldEvent {
     }
 }
 
-export type WorldEvents = {
+type WorldEvents = {
     [K in keyof typeof worldEventsData]: WorldEvent;
 };
 

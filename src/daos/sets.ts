@@ -19,7 +19,7 @@ export class Set {
     }
 }
 
-export type Sets = {
+type Sets = {
     [K in keyof typeof setsData]: Set;
 };
 

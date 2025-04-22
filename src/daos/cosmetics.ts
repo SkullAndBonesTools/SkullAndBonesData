@@ -55,7 +55,7 @@ export class Cosmetic {
     }
 }
 
-export type Cosmetics = {
+type Cosmetics = {
     [K in keyof typeof cosmeticsData]: Cosmetic;
 };
 

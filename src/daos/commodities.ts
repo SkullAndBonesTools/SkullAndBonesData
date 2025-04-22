@@ -22,7 +22,7 @@ export class Commodity {
     }
 }
 
-export type Commodities = {
+type Commodities = {
     [K in keyof typeof commoditiesData]: Commodity;
 };
 

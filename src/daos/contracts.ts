@@ -16,7 +16,7 @@ export class Contract {
     }
 }
 
-export type Contracts = {
+type Contracts = {
     [K in keyof typeof contractsData]: Contract;
 };
 

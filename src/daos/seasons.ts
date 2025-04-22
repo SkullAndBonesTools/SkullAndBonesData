@@ -24,7 +24,7 @@ export class Season {
     }
 }
 
-export type Seasons = {
+type Seasons = {
     [K in keyof typeof seasonsData]: Season;
 };
 

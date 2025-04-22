@@ -51,7 +51,7 @@ export class Material {
     }
 }
 
-export type Materials = {
+type Materials = {
     [K in keyof typeof materialsData]: Material;
 };
 
