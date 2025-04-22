@@ -14,6 +14,8 @@ export class Cosmetic {
         public readonly effect?: Effect | Effect[],
         public readonly season?: Season,
         public readonly contract?: string,
+        public basic?: Cosmetic,
+        public upgrades?: Cosmetic[],
         public readonly required?: Map<Material, number>,
         public readonly requiredRank?: string,
         public readonly bounty?: string,
@@ -40,6 +42,8 @@ export class Cosmetic {
             rawData.effect ?? undefined,
             rawData.season ? Seasons[season] : undefined,
             rawData.contract ?? undefined,
+            undefined,
+            undefined,
             required,
             rawData.requiredRank ?? undefined,
             rawData.bounty ?? undefined,
@@ -47,10 +51,24 @@ export class Cosmetic {
         );
     }
 
+    public static updateCosmeticWithUpgrades(key: string, rawData: any, cosmetics: Record<string, Cosmetic>) {
+        if(rawData.basic) {
+            const basic = cosmetics[rawData.basic];
+            if (basic) cosmetics[key].basic = basic;
+        }
+        if(rawData.upgrades) {
+            const upgrades = rawData.upgrades.map((upgradeCosmetic: string) => cosmetics[upgradeCosmetic]);
+            cosmetics[key].upgrades = upgrades;
+        }
+    }
+
     public static loadCosmetics(): Record<string, Cosmetic> {
         const cosmetics: Record<string, Cosmetic> = {};
         for (const [key, value] of Object.entries(cosmeticsData)) {
             cosmetics[key] = Cosmetic.fromRawData(value);
+        }
+        for (const [key, value] of Object.entries(cosmeticsData)) {
+            Cosmetic.updateCosmeticWithUpgrades(key, value, cosmetics);
         }
         return cosmetics;
     }
