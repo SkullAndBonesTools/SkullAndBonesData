@@ -1142,5 +1142,9 @@
     "brillianceBegets": {
         "id": "brillianceBegets",
         "type": "player"
+    },
+    "lostBastion": {
+        "id": "lostBastion",
+        "type": "ship"
     }
 }
