@@ -1,29 +1,38 @@
 {
     "plagueKingLaPeste": {
-        "id": "plagueKingLaPeste"
+        "id": "plagueKingLaPeste",
+        "seasons": ["ragingTides"]
     },
     "dragonsRegatta": {
-        "id": "dragonsRegatta"
+        "id": "dragonsRegatta",
+        "seasons": ["chorusOfHavoc"]
     },
     "summerFiesta": {
-        "id": "summerFiesta"
+        "id": "summerFiesta",
+        "seasons": ["chorusOfHavoc"]
     },
     "mooncakeRegatta": {
-        "id": "mooncakeRegatta"
+        "id": "mooncakeRegatta",
+        "seasons": ["intoTheDragonsWake"]
     },
     "requiemOfTheLost": {
-        "id": "requiemOfTheLost"
+        "id": "requiemOfTheLost",
+        "seasons": ["intoTheDragonsWake"]
     },
     "azureSolstice": {
-        "id": "azureSolstice"
+        "id": "azureSolstice",
+        "seasons": ["shadowsOfTheDeep"]
     },
     "enterTheNian": {
-        "id": "enterTheNian"
+        "id": "enterTheNian",
+        "seasons": ["shadowsOfTheDeep"]
     },
     "theFounding": {
-        "id": "theFounding"
+        "id": "theFounding",
+        "seasons": ["shadowsOfTheDeep"]
     },
     "theHonorless": {
-        "id": "theHonorless"
+        "id": "theHonorless",
+        "seasons": ["ascentIntoChaos"]
     }
 }
