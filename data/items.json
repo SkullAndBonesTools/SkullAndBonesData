@@ -10228,15 +10228,15 @@
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
     },
-    "grindstoneMortar1": {
-        "id": "grindstoneMortar1",
+    "mortarGrinder1": {
+        "id": "mortarGrinder1",
         "tier": 1,
         "blueprint": ["corruptDmcOfficerOutpost","outpostTheRuinedLighthouse"],
         "type": "offensiveFurniture",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
-        "perks": ["mortarProjectileSpeed15"],
+        "perks": ["mortarSecondaryDamage19"],
         "required": {
             "roselleCloth": 10,
             "woodTar": 4,
