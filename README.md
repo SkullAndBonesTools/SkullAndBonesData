@@ -5,8 +5,11 @@ Welcome to the inofficial data repository for the Skull and Bones game by Ubisof
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format and provides a npm package to access the data in typescript and javascript.
 
 As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
-- [ ] Extract events, locations, contracts into own data files
-  - Those are currently only stored in the translation files
+- [ ] Extract data stored in translation files into own data files
+  - [x] Sets
+  - [x] Events
+  - [x] World Events
+  - [ ] Locations
 - [ ] Crowdin workflow integration
 - [x] npm packages with generated types for the different data (events, cosmetics, items, ...)
 
@@ -17,7 +20,7 @@ The version schema of the release is tied to the Skull and Bones version the dat
 ```
 5 - Season (a year has 4 seasons, so season 5 = Y2S1)
 2 - Patch Level
-4 - Bug Fixes / Minor Changes
+4 - Bug Fixes / Minor Changes (this one is related to releases of this repository)
 
 This represents the SnB game version Y2S1.2.X
 ```
