@@ -67,7 +67,7 @@ export class Item {
             rawData.obtainable ?? undefined,
             rawData.worldEvent ?? undefined,
             rawData.armor ?? undefined,
-            rawData.damageMitigation ?? {},
+            rawData.damageMitigation ?? undefined,
             rawData.contract ?? undefined
         );
     }
