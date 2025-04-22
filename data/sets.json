@@ -1,0 +1,1146 @@
+{
+    "crownedPrince": {
+        "id": "crownedPrince",
+        "type": "ship"
+    },
+    "easternTiger": {
+        "id": "easternTiger",
+        "type": "ship"
+    },
+    "ashenCorsair": {
+        "id": "ashenCorsair",
+        "type": "ship"
+    },
+    "contentCreator": {
+        "id": "contentCreator",
+        "type": "ship"
+    },
+    "welcomeBundle": {
+        "id": "welcomeBundle",
+        "type": "ship"
+    },
+    "wrecker": {
+        "id": "wrecker",
+        "type": "ship"
+    },
+    "elDorado": {
+        "id": "elDorado",
+        "type": "ship"
+    },
+    "despoiler": {
+        "id": "despoiler",
+        "type": "ship"
+    },
+    "oceanReavers": {
+        "id": "oceanReavers",
+        "type": "ship"
+    },
+    "ashenLady": {
+        "id": "ashenLady",
+        "type": "ship"
+    },
+    "pillager": {
+        "id": "pillager",
+        "type": "ship"
+    },
+    "theLongDark": {
+        "id": "theLongDark",
+        "type": "ship"
+    },
+    "suaveSeadog": {
+        "id": "suaveSeadog",
+        "type": "player"
+    },
+    "caliban": {
+        "id": "caliban",
+        "type": "ship"
+    },
+    "ironWill": {
+        "id": "ironWill",
+        "type": "ship"
+    },
+    "europeanLuxuryCosmetics": {
+        "id": "europeanLuxuryCosmetics",
+        "type": "ship"
+    },
+    "seaPeoplesWays": {
+        "id": "seaPeoplesWays",
+        "type": "ship"
+    },
+    "ungwanaHunter": {
+        "id": "ungwanaHunter",
+        "type": "ship"
+    },
+    "sacredPlumage": {
+        "id": "sacredPlumage",
+        "type": "ship"
+    },
+    "rempahCosmetics": {
+        "id": "rempahCosmetics",
+        "type": "ship"
+    },
+    "compagnieCosmetics": {
+        "id": "compagnieCosmetics",
+        "type": "ship"
+    },
+    "fara": {
+        "id": "fara",
+        "type": "ship"
+    },
+    "pathfinder": {
+        "id": "pathfinder",
+        "type": "ship"
+    },
+    "scurlocks": {
+        "id": "scurlocks",
+        "type": "ship"
+    },
+    "pioneer": {
+        "id": "pioneer",
+        "type": "ship"
+    },
+    "dmcCosmetics": {
+        "id": "dmcCosmetics",
+        "type": "ship"
+    },
+    "sainteAnneCosmetics": {
+        "id": "sainteAnneCosmetics",
+        "type": "ship"
+    },
+    "twitchDrop": {
+        "id": "twitchDrop",
+        "type": "ship"
+    },
+    "theAvowed": {
+        "id": "theAvowed",
+        "type": "ship"
+    },
+    "insider": {
+        "id": "insider",
+        "type": "ship"
+    },
+    "callOfTheHydra": {
+        "id": "callOfTheHydra",
+        "type": "ship"
+    },
+    "theFoolTarot": {
+        "id": "theFoolTarot",
+        "type": "ship"
+    },
+    "eyeOfHorror": {
+        "id": "eyeOfHorror",
+        "type": "ship"
+    },
+    "compagniesLament": {
+        "id": "compagniesLament",
+        "type": "ship"
+    },
+    "theLionsDuty": {
+        "id": "theLionsDuty",
+        "type": "ship"
+    },
+    "lastDawn": {
+        "id": "lastDawn",
+        "type": "ship"
+    },
+    "anpakasRot": {
+        "id": "anpakasRot",
+        "type": "ship"
+    },
+    "opulentScion": {
+        "id": "opulentScion",
+        "type": "ship"
+    },
+    "crowPrince": {
+        "id": "crowPrince",
+        "type": "ship"
+    },
+    "mutuallyAssured": {
+        "id": "mutuallyAssured",
+        "type": "ship"
+    },
+    "serpentsDue": {
+        "id": "serpentsDue",
+        "type": "ship"
+    },
+    "divineIntervention": {
+        "id": "divineIntervention",
+        "type": "ship"
+    },
+    "theMagicianTarot": {
+        "id": "theMagicianTarot",
+        "type": "ship"
+    },
+    "risenDregs": {
+        "id": "risenDregs",
+        "type": "ship"
+    },
+    "bloodyAngel": {
+        "id": "bloodyAngel",
+        "type": "ship"
+    },
+    "theBrazenHealer": {
+        "id": "theBrazenHealer",
+        "type": "ship"
+    },
+    "fishersOfMen": {
+        "id": "fishersOfMen",
+        "type": "ship"
+    },
+    "darkDescent": {
+        "id": "darkDescent",
+        "type": "ship"
+    },
+    "predator": {
+        "id": "predator",
+        "type": "ship"
+    },
+    "ghostShip": {
+        "id": "ghostShip",
+        "type": "ship"
+    },
+    "primordialBeast": {
+        "id": "primordialBeast",
+        "type": "player"
+    },
+    "hessels": {
+        "id": "hessels",
+        "type": "ship"
+    },
+    "viciousJackal": {
+        "id": "viciousJackal",
+        "type": "ship"
+    },
+    "springWhisper": {
+        "id": "springWhisper",
+        "type": "ship"
+    },
+    "threeDragonSecret": {
+        "id": "threeDragonSecret",
+        "type": "ship"
+    },
+    "servantOfHades": {
+        "id": "servantOfHades",
+        "type": "ship"
+    },
+    "moonstruck": {
+        "id": "moonstruck",
+        "type": "ship"
+    },
+    "theOgreKingsGlory": {
+        "id": "theOgreKingsGlory",
+        "type": "ship"
+    },
+    "ogreKingsRegalia": {
+        "id": "ogreKingsRegalia",
+        "type": "player"
+    },
+    "feastOfAncestors": {
+        "id": "feastOfAncestors",
+        "type": "ship"
+    },
+    "thePriestessTarot": {
+        "id": "thePriestessTarot",
+        "type": "ship"
+    },
+    "scionOfDagon": {
+        "id": "scionOfDagon",
+        "type": "player"
+    },
+    "libertine": {
+        "id": "libertine",
+        "type": "player"
+    },
+    "paramour": {
+        "id": "paramour",
+        "type": "ship"
+    },
+    "bloodAndFortune": {
+        "id": "bloodAndFortune",
+        "type": "ship"
+    },
+    "springBlossom": {
+        "id": "springBlossom",
+        "type": "ship"
+    },
+    "nobleEnvoy": {
+        "id": "nobleEnvoy",
+        "type": "player"
+    },
+    "indigoGlory": {
+        "id": "indigoGlory",
+        "type": "player"
+    },
+    "balladOfBloodyBones": {
+        "id": "balladOfBloodyBones",
+        "type": "player"
+    },
+    "oceanReaversPlayer": {
+        "id": "oceanReaversPlayer",
+        "type": "player"
+    },
+    "notorietyGarb": {
+        "id": "notorietyGarb",
+        "type": "player"
+    },
+    "prosperoPlayer": {
+        "id": "prosperoPlayer",
+        "type": "player"
+    },
+    "niceToMeatYou": {
+        "id": "niceToMeatYou",
+        "type": "player"
+    },
+    "mariniere": {
+        "id": "mariniere",
+        "type": "player"
+    },
+    "anpakasDespair": {
+        "id": "anpakasDespair",
+        "type": "ship"
+    },
+    "eastIndiesBrigand": {
+        "id": "eastIndiesBrigand",
+        "type": "player"
+    },
+    "compagnieElite": {
+        "id": "compagnieElite",
+        "type": "player"
+    },
+    "captainMustard": {
+        "id": "captainMustard",
+        "type": "player"
+    },
+    "saberRattler": {
+        "id": "saberRattler",
+        "type": "player"
+    },
+    "savvyCaptain": {
+        "id": "savvyCaptain",
+        "type": "player"
+    },
+    "sanguine": {
+        "id": "sanguine",
+        "type": "player"
+    },
+    "blockadeRunner": {
+        "id": "blockadeRunner",
+        "type": "player"
+    },
+    "theTrickster": {
+        "id": "theTrickster",
+        "type": "player"
+    },
+    "kayaRaya": {
+        "id": "kayaRaya",
+        "type": "player"
+    },
+    "faraFury": {
+        "id": "faraFury",
+        "type": "player"
+    },
+    "rempahRaider": {
+        "id": "rempahRaider",
+        "type": "player"
+    },
+    "untamedFury": {
+        "id": "untamedFury",
+        "type": "player"
+    },
+    "masina": {
+        "id": "masina",
+        "type": "player"
+    },
+    "imara": {
+        "id": "imara",
+        "type": "player"
+    },
+    "carmineLord": {
+        "id": "carmineLord",
+        "type": "player"
+    },
+    "predatorPrey": {
+        "id": "predatorPrey",
+        "type": "player"
+    },
+    "deepSlayer": {
+        "id": "deepSlayer",
+        "type": "player"
+    },
+    "bountyHunter": {
+        "id": "bountyHunter",
+        "type": "player"
+    },
+    "pinkysRevenge": {
+        "id": "pinkysRevenge",
+        "type": "player"
+    },
+    "calibanPlayer": {
+        "id": "calibanPlayer",
+        "type": "player"
+    },
+    "shadowSeeker": {
+        "id": "shadowSeeker",
+        "type": "player"
+    },
+    "abyssalRaider": {
+        "id": "abyssalRaider",
+        "type": "player"
+    },
+    "crystalline": {
+        "id": "crystalline",
+        "type": "ship"
+    },
+    "laPotence": {
+        "id": "laPotence",
+        "type": "ship"
+    },
+    "cadaverFleet": {
+        "id": "cadaverFleet",
+        "type": "player"
+    },
+    "heartOfThorns": {
+        "id": "heartOfThorns",
+        "type": "ship"
+    },
+    "statig": {
+        "id": "statig",
+        "type": "player"
+    },
+    "treasureKeeper": {
+        "id": "treasureKeeper",
+        "type": "ship"
+    },
+    "treasureHunter": {
+        "id": "treasureHunter",
+        "type": "player"
+    },
+    "ironReaver": {
+        "id": "ironReaver",
+        "type": "player"
+    },
+    "suaveSeadogPlayer": {
+        "id": "suaveSeadogPlayer",
+        "type": "ship"
+    },
+    "legendOfLestari": {
+        "id": "legendOfLestari",
+        "type": "ship"
+    },
+    "lestariHunter": {
+        "id": "lestariHunter",
+        "type": "player"
+    },
+    "gildedSin": {
+        "id": "gildedSin",
+        "type": "player"
+    },
+    "crimsonCorsair": {
+        "id": "crimsonCorsair",
+        "type": "ship"
+    },
+    "seaTiger": {
+        "id": "seaTiger",
+        "type": "ship"
+    },
+    "doomsdayKingpin": {
+        "id": "doomsdayKingpin",
+        "type": "player"
+    },
+    "mythicalBeast": {
+        "id": "mythicalBeast",
+        "type": "ship"
+    },
+    "ebonVessel": {
+        "id": "ebonVessel",
+        "type": "ship"
+    },
+    "wickedsRest": {
+        "id": "wickedsRest",
+        "type": "ship"
+    },
+    "theWorldTarot": {
+        "id": "theWorldTarot",
+        "type": "ship"
+    },
+    "duanYangShip": {
+        "id": "duanYangShip",
+        "type": "ship"
+    },
+    "demiseWrought": {
+        "id": "demiseWrought",
+        "type": "ship"
+    },
+    "demiseBringer": {
+        "id": "demiseBringer",
+        "type": "player"
+    },
+    "crabbyBonnet": {
+        "id": "crabbyBonnet",
+        "type": "ship"
+    },
+    "duanYangRogue": {
+        "id": "duanYangRogue",
+        "type": "player"
+    },
+    "royaleWarmaster": {
+        "id": "royaleWarmaster",
+        "type": "player"
+    },
+    "darkSwindler": {
+        "id": "darkSwindler",
+        "type": "player"
+    },
+    "luxeTiger": {
+        "id": "luxeTiger",
+        "type": "player"
+    },
+    "duskSwashbuckler": {
+        "id": "duskSwashbuckler",
+        "type": "player"
+    },
+    "musique": {
+        "id": "musique",
+        "type": "ship"
+    },
+    "engineer": {
+        "id": "engineer",
+        "type": "ship"
+    },
+    "versailles": {
+        "id": "versailles",
+        "type": "ship"
+    },
+    "versaillesPlayer": {
+        "id": "versaillesPlayer",
+        "type": "player"
+    },
+    "wanderingBlade": {
+        "id": "wanderingBlade",
+        "type": "player"
+    },
+    "sunWukong": {
+        "id": "sunWukong",
+        "type": "player"
+    },
+    "roninRaiders": {
+        "id": "roninRaiders",
+        "type": "player"
+    },
+    "ebonPirate": {
+        "id": "ebonPirate",
+        "type": "player"
+    },
+    "journeyToTheWest": {
+        "id": "journeyToTheWest",
+        "type": "ship"
+    },
+    "silverPhantomShip": {
+        "id": "silverPhantomShip",
+        "type": "ship"
+    },
+    "theEmpressTarot": {
+        "id": "theEmpressTarot",
+        "type": "ship"
+    },
+    "hellfestShip": {
+        "id": "hellfestShip",
+        "type": "ship"
+    },
+    "hellfestFiend": {
+        "id": "hellfestFiend",
+        "type": "player"
+    },
+    "jestersShip": {
+        "id": "jestersShip",
+        "type": "ship"
+    },
+    "dragonWave": {
+        "id": "dragonWave",
+        "type": "ship"
+    },
+    "jestersGarb": {
+        "id": "jestersGarb",
+        "type": "player"
+    },
+    "darknessBeckons": {
+        "id": "darknessBeckons",
+        "type": "player"
+    },
+    "tropicana": {
+        "id": "tropicana",
+        "type": "player"
+    },
+    "summerSun": {
+        "id": "summerSun",
+        "type": "player"
+    },
+    "midsummerShip": {
+        "id": "midsummerShip",
+        "type": "ship"
+    },
+    "leopardKing": {
+        "id": "leopardKing",
+        "type": "player"
+    },
+    "legendaryLivery": {
+        "id": "legendaryLivery",
+        "type": "player"
+    },
+    "captainCrank": {
+        "id": "captainCrank",
+        "type": "ship"
+    },
+    "hubrisAndFolly": {
+        "id": "hubrisAndFolly",
+        "type": "ship"
+    },
+    "exaltedVessel": {
+        "id": "exaltedVessel",
+        "type": "ship"
+    },
+    "exaltedCaptain": {
+        "id": "exaltedCaptain",
+        "type": "player"
+    },
+    "yulongSteers": {
+        "id": "yulongSteers",
+        "type": "ship"
+    },
+    "roninShip": {
+        "id": "roninShip",
+        "type": "ship"
+    },
+    "jioTheLemur": {
+        "id": "jioTheLemur",
+        "type": "ship"
+    },
+    "grandGameShip": {
+        "id": "grandGameShip",
+        "type": "ship"
+    },
+    "divineDragon": {
+        "id": "divineDragon",
+        "type": "ship"
+    },
+    "clawHunter": {
+        "id": "clawHunter",
+        "type": "player"
+    },
+    "grandGamemaster": {
+        "id": "grandGamemaster",
+        "type": "player"
+    },
+    "horridClutches": {
+        "id": "horridClutches",
+        "type": "ship"
+    },
+    "skullTrio": {
+        "id": "skullTrio",
+        "type": "ship"
+    },
+    "theDevilLurks": {
+        "id": "theDevilLurks",
+        "type": "ship"
+    },
+    "midAutumnAtSea": {
+        "id": "midAutumnAtSea",
+        "type": "ship"
+    },
+    "shipOfDragons": {
+        "id": "shipOfDragons",
+        "type": "ship"
+    },
+    "theEmperorTarot": {
+        "id": "theEmperorTarot",
+        "type": "ship"
+    },
+    "skullpiercer": {
+        "id": "skullpiercer",
+        "type": "ship"
+    },
+    "pointedFate": {
+        "id": "pointedFate",
+        "type": "ship"
+    },
+    "almightyBeast": {
+        "id": "almightyBeast",
+        "type": "ship"
+    },
+    "deadlyCurrents": {
+        "id": "deadlyCurrents",
+        "type": "ship"
+    },
+    "dragonShrine": {
+        "id": "dragonShrine",
+        "type": "ship"
+    },
+    "scyllaScorned": {
+        "id": "scyllaScorned",
+        "type": "player"
+    },
+    "dragonChaser": {
+        "id": "dragonChaser",
+        "type": "player"
+    },
+    "captainDeath": {
+        "id": "captainDeath",
+        "type": "ship"
+    },
+    "theBattleJunk": {
+        "id": "theBattleJunk",
+        "type": "ship"
+    },
+    "blackBazaar": {
+        "id": "blackBazaar",
+        "type": "ship"
+    },
+    "medusaScorned": {
+        "id": "medusaScorned",
+        "type": "ship"
+    },
+    "flamingFuryShip": {
+        "id": "flamingFuryShip",
+        "type": "ship"
+    },
+    "flamingFuryGarb": {
+        "id": "flamingFuryGarb",
+        "type": "player"
+    },
+    "starsAbove": {
+        "id": "starsAbove",
+        "type": "ship"
+    },
+    "bitterNotes": {
+        "id": "bitterNotes",
+        "type": "ship"
+    },
+    "spawnOfCarcinus": {
+        "id": "spawnOfCarcinus",
+        "type": "ship"
+    },
+    "burntMetal": {
+        "id": "burntMetal",
+        "type": "ship"
+    },
+    "devilInDisguise": {
+        "id": "devilInDisguise",
+        "type": "ship"
+    },
+    "phoenixWings": {
+        "id": "phoenixWings",
+        "type": "ship"
+    },
+    "theSkyGoddess": {
+        "id": "theSkyGoddess",
+        "type": "player"
+    },
+    "twistedDuality": {
+        "id": "twistedDuality",
+        "type": "player"
+    },
+    "justiceTarot": {
+        "id": "justiceTarot",
+        "type": "ship"
+    },
+    "twoFacedSnake": {
+        "id": "twoFacedSnake",
+        "type": "ship"
+    },
+    "eyeOfTheBeholder": {
+        "id": "eyeOfTheBeholder",
+        "type": "ship"
+    },
+    "pompousChicken": {
+        "id": "pompousChicken",
+        "type": "ship"
+    },
+    "celticArtifice": {
+        "id": "celticArtifice",
+        "type": "ship"
+    },
+    "anneBonny": {
+        "id": "anneBonny",
+        "type": "ship"
+    },
+    "casablancaShip": {
+        "id": "casablancaShip",
+        "type": "ship"
+    },
+    "taintedDepths": {
+        "id": "taintedDepths",
+        "type": "ship"
+    },
+    "steelMightShip": {
+        "id": "steelMightShip",
+        "type": "ship"
+    },
+    "skyPhoenix": {
+        "id": "skyPhoenix",
+        "type": "ship"
+    },
+    "imperialSeer": {
+        "id": "imperialSeer",
+        "type": "player"
+    },
+    "legendOfAnne": {
+        "id": "legendOfAnne",
+        "type": "player"
+    },
+    "steelyAndMighty": {
+        "id": "steelyAndMighty",
+        "type": "player"
+    },
+    "depthsForged": {
+        "id": "depthsForged",
+        "type": "player"
+    },
+    "kumihoShip": {
+        "id": "kumihoShip",
+        "type": "ship"
+    },
+    "gladiusShip": {
+        "id": "gladiusShip",
+        "type": "ship"
+    },
+    "agaricKingdomShip": {
+        "id": "agaricKingdomShip",
+        "type": "ship"
+    },
+    "seamistKumiho": {
+        "id": "seamistKumiho",
+        "type": "player"
+    },
+    "gladius": {
+        "id": "gladius",
+        "type": "player"
+    },
+    "jianOfDestiny": {
+        "id": "jianOfDestiny",
+        "type": "ship"
+    },
+    "hallowsEveGarb": {
+        "id": "hallowsEveGarb",
+        "type": "player"
+    },
+    "hallowsEveShip": {
+        "id": "hallowsEveShip",
+        "type": "ship"
+    },
+    "wintersBite": {
+        "id": "wintersBite",
+        "type": "ship"
+    },
+    "madCollectorShip": {
+        "id": "madCollectorShip",
+        "type": "player"
+    },
+    "zeussChariot": {
+        "id": "zeussChariot",
+        "type": "ship"
+    },
+    "gingerbreadShip": {
+        "id": "gingerbreadShip",
+        "type": "ship"
+    },
+    "sailingSeraphim": {
+        "id": "sailingSeraphim",
+        "type": "ship"
+    },
+    "lordGaruda": {
+        "id": "lordGaruda",
+        "type": "ship"
+    },
+    "zeussFavored": {
+        "id": "zeussFavored",
+        "type": "player"
+    },
+    "madCollector": {
+        "id": "madCollector",
+        "type": "ship"
+    },
+    "azureTouched": {
+        "id": "azureTouched",
+        "type": "player"
+    },
+    "maharaja": {
+        "id": "maharaja",
+        "type": "player"
+    },
+    "maharajaShip": {
+        "id": "maharajaShip",
+        "type": "ship"
+    },
+    "vortigernsDragon": {
+        "id": "vortigernsDragon",
+        "type": "ship"
+    },
+    "theSchaduw": {
+        "id": "theSchaduw",
+        "type": "ship"
+    },
+    "risenZamaharibu": {
+        "id": "risenZamaharibu",
+        "type": "ship"
+    },
+    "theWolvenjager": {
+        "id": "theWolvenjager",
+        "type": "ship"
+    },
+    "vikramRajan": {
+        "id": "vikramRajan",
+        "type": "player"
+    },
+    "violetAftermath": {
+        "id": "violetAftermath",
+        "type": "ship"
+    },
+    "soulOfDarkness": {
+        "id": "soulOfDarkness",
+        "type": "ship"
+    },
+    "satisfaction": {
+        "id": "satisfaction",
+        "type": "ship"
+    },
+    "deadeye": {
+        "id": "deadeye",
+        "type": "ship"
+    },
+    "blackguard": {
+        "id": "blackguard",
+        "type": "player"
+    },
+    "rajputShip": {
+        "id": "rajputShip",
+        "type": "ship"
+    },
+    "rakshasa": {
+        "id": "rakshasa",
+        "type": "ship"
+    },
+    "rakshasaCaptain": {
+        "id": "rakshasaCaptain",
+        "type": "player"
+    },
+    "gildedSinShip": {
+        "id": "gildedSinShip",
+        "type": "ship"
+    },
+    "theDevilTarot": {
+        "id": "theDevilTarot",
+        "type": "ship"
+    },
+    "theStrengthTarot": {
+        "id": "theStrengthTarot",
+        "type": "ship"
+    },
+    "mythicDragonheart": {
+        "id": "mythicDragonheart",
+        "type": "player"
+    },
+    "fragnantDead": {
+        "id": "fragnantDead",
+        "type": "ship"
+    },
+    "goddessOfRuin": {
+        "id": "goddessOfRuin",
+        "type": "ship"
+    },
+    "hasanuddinsShip": {
+        "id": "hasanuddinsShip",
+        "type": "ship"
+    },
+    "sultanOfGowa": {
+        "id": "sultanOfGowa",
+        "type": "player"
+    },
+    "nautilian": {
+        "id": "nautilian",
+        "type": "ship"
+    },
+    "theShadowArk": {
+        "id": "theShadowArk",
+        "type": "ship"
+    },
+    "nanaChitra": {
+        "id": "nanaChitra",
+        "type": "ship"
+    },
+    "nobleDaku": {
+        "id": "nobleDaku",
+        "type": "player"
+    },
+    "theGreatShadow": {
+        "id": "theGreatShadow",
+        "type": "player"
+    },
+    "nautilianRogue": {
+        "id": "nautilianRogue",
+        "type": "player"
+    },
+    "hantuBelangkas": {
+        "id": "hantuBelangkas",
+        "type": "ship"
+    },
+    "seeingHeart": {
+        "id": "seeingHeart",
+        "type": "ship"
+    },
+    "rajaUdang": {
+        "id": "rajaUdang",
+        "type": "ship"
+    },
+    "soulOfLight": {
+        "id": "soulOfLight",
+        "type": "ship"
+    },
+    "insectManiaShip": {
+        "id": "insectManiaShip",
+        "type": "ship"
+    },
+    "theNianAwakens": {
+        "id": "theNianAwakens",
+        "type": "ship"
+    },
+    "lunarSnake": {
+        "id": "lunarSnake",
+        "type": "player"
+    },
+    "jiangshisQuest": {
+        "id": "jiangshisQuest",
+        "type": "ship"
+    },
+    "risenMegaLestari": {
+        "id": "risenMegaLestari",
+        "type": "ship"
+    },
+    "phantomHalo": {
+        "id": "phantomHalo",
+        "type": "ship"
+    },
+    "illustriousFounding": {
+        "id": "illustriousFounding",
+        "type": "ship"
+    },
+    "monsoonWarlord": {
+        "id": "monsoonWarlord",
+        "type": "ship"
+    },
+    "eternalWill": {
+        "id": "eternalWill",
+        "type": "ship"
+    },
+    "firesOfIndustry": {
+        "id": "firesOfIndustry",
+        "type": "ship"
+    },
+    "dreadnought": {
+        "id": "dreadnought",
+        "type": "ship"
+    },
+    "danceOfDeath": {
+        "id": "danceOfDeath",
+        "type": "ship"
+    },
+    "oranjeFury": {
+        "id": "oranjeFury",
+        "type": "ship"
+    },
+    "goddessOfWar": {
+        "id": "goddessOfWar",
+        "type": "ship"
+    },
+    "warbringer": {
+        "id": "warbringer",
+        "type": "ship"
+    },
+    "bloodScavenger": {
+        "id": "bloodScavenger",
+        "type": "ship"
+    },
+    "dreadhunter": {
+        "id": "dreadhunter",
+        "type": "player"
+    },
+    "ladyOfTheVeil": {
+        "id": "ladyOfTheVeil",
+        "type": "player"
+    },
+    "corsairsFolly": {
+        "id": "corsairsFolly",
+        "type": "player"
+    },
+    "honorAndJudgment": {
+        "id": "honorAndJudgment",
+        "type": "ship"
+    },
+    "uponMyHonor": {
+        "id": "uponMyHonor",
+        "type": "ship"
+    },
+    "fateWaits": {
+        "id": "fateWaits",
+        "type": "ship"
+    },
+    "graceFromAfar": {
+        "id": "graceFromAfar",
+        "type": "ship"
+    },
+    "astralTrails": {
+        "id": "astralTrails",
+        "type": "ship"
+    },
+    "blackTorch": {
+        "id": "blackTorch",
+        "type": "ship"
+    },
+    "fallenOfficier": {
+        "id": "fallenOfficier",
+        "type": "ship"
+    },
+    "gloryOfEmpires": {
+        "id": "gloryOfEmpires",
+        "type": "player"
+    },
+    "spectralHour": {
+        "id": "spectralHour",
+        "type": "ship"
+    },
+    "arkOfTheGrotesque": {
+        "id": "arkOfTheGrotesque",
+        "type": "ship"
+    },
+    "cursedMasquerade": {
+        "id": "cursedMasquerade",
+        "type": "player"
+    },
+    "innerDepths": {
+        "id": "innerDepths",
+        "type": "ship"
+    },
+    "depthDweller": {
+        "id": "depthDweller",
+        "type": "player"
+    },
+    "buccaneersBones": {
+        "id": "buccaneersBones",
+        "type": "ship"
+    },
+    "sharkRider": {
+        "id": "sharkRider",
+        "type": "ship"
+    },
+    "maneater": {
+        "id": "maneater",
+        "type": "player"
+    },
+    "fortuneFounders": {
+        "id": "fortuneFounders",
+        "type": "ship"
+    },
+    "brillianceBegets": {
+        "id": "brillianceBegets",
+        "type": "player"
+    }
+}

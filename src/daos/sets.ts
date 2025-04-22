@@ -1,29 +1,26 @@
-import cosmeticsData from '../../data/cosmetics.json';
-import { Cosmetic } from './cosmetics';
+import setsData from '../../data/sets.json';
+import { SetType } from '../types/SetProperties';
 
 export class Set {
     constructor(
-        public readonly id: string
+        public readonly id: string,
+        public readonly type: SetType
     ) {}
-
-    public static fromRawData(rawData: any): Set {
-        return new Set(
-            rawData.set,
-        );
-    }
 
     public static loadSets(): Record<string, Set> {
         const sets: Record<string, Set> = {};
-        for (const [key, value] of Object.entries(cosmeticsData)) {
-            const cosmetic = value as Cosmetic;
-            const set = cosmetic.set as string | undefined;
-            if(!set || sets[set]) continue;
-            sets[set] = Set.fromRawData(value);
+        for (const [key, value] of Object.entries(setsData)) {
+            sets[key] = new Set(
+                value.id,
+                value.type as SetType
+            );
         }
         return sets;
     }
 }
 
-// TODO: Add auto completion for set names
+export type Sets = {
+    [K in keyof typeof setsData]: Set;
+};
 
-export const Sets = Set.loadSets();
+export const Sets = Set.loadSets() as Sets;
