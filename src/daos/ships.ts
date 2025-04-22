@@ -1,5 +1,6 @@
 import shipsData from '../../data/ships.json';
 import { ShipSize, SlotWithGunports } from '../types/ShipProperties';
+import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
 
 export class Ship {
@@ -25,7 +26,7 @@ export class Ship {
             cargoSlots: number;
             cargoMaxWeight: number;
         },
-        public readonly required: Record<string, number> | undefined,
+        public readonly required: Map<Material, number> | undefined,
         public readonly slots: {
             attachement?: number;
             frontWeapon?: SlotWithGunports;
@@ -43,6 +44,14 @@ export class Ship {
     // Static method to create a Ship instance from raw data
     public static fromRawData(rawData: any): Ship {
         const season = rawData.season as keyof typeof Seasons;
+        const required = rawData.required ? new Map<Material, number>() : undefined;
+        if(required) {
+            for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
+                const requiredMaterial = requiredKey as keyof typeof Materials;
+                required.set(Materials[requiredMaterial], quantity as number);
+            }
+        }
+
         return new Ship(
             rawData.id,
             rawData.size,
@@ -58,7 +67,7 @@ export class Ship {
             rawData.contact ?? undefined,
             rawData.sailSpeed,
             rawData.cargo,
-            rawData.required,
+            required,
             {
                 attachement: rawData.slots.attachement ?? undefined,
                 frontWeapon: rawData.slots.frontWeapon ?? undefined,
