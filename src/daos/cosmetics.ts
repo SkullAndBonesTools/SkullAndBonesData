@@ -1,5 +1,6 @@
 import cosmeticsData from '../../data/cosmetics.json';
 import { Effect } from '../types/CosmeticProperties';
+import { Rarity } from '../types/Rarity';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
 
@@ -9,6 +10,8 @@ export class Cosmetic {
         public readonly type: string,
         public readonly dateAdded: string,
         public readonly lastUpdated: string,
+        public readonly rarity?: Rarity,
+        public readonly tier?: number,
         public readonly set?: string,
         public readonly obtainable?: string | string[] | Array<string | string[]>,
         public readonly effect?: Effect | Effect[],
@@ -37,6 +40,8 @@ export class Cosmetic {
             rawData.type,
             rawData.dateAdded,
             rawData.lastUpdated,
+            rawData.rarity as Rarity ?? undefined,
+            rawData.tier ?? undefined,
             rawData.set ?? undefined,
             rawData.obtainable ?? undefined,
             rawData.effect ?? undefined,
