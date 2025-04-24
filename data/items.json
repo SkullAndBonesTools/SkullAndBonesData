@@ -6078,6 +6078,13 @@
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03
+        },
         "perks": ["bedarUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6089,6 +6096,13 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05
+        },
         "perks": ["bedarUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6099,6 +6113,13 @@
         "tier": 6,
         "value": 1,
         "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.10
         },
         "perks": ["bedarUpgrade6", "jousting"],
         "dateAdded": "2024-06-11",
@@ -6114,6 +6135,13 @@
             "upgradeParts": 8,
             "piecesOfEight": 12000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.20,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.15
         },
         "perks": ["bedarUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6159,6 +6187,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.03,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0.03
+        },
         "perks": ["hulkUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6170,6 +6206,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.05
+        },
         "perks": ["hulkUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6180,6 +6224,14 @@
         "tier": 6,
         "value": 1,
         "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.05,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0.10
         },
         "perks": ["hulkUpgrade6", "ironwill"],
         "dateAdded": "2024-06-11",
@@ -6198,6 +6250,14 @@
             "upgradeParts": 8,
             "piecesOfEight": 12000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.05,
+            "fire": 0.20,
+            "tearing": 0,
+            "piercing": 0.15,
+            "electric": 0.15
         },
         "perks": ["hulkUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6255,6 +6315,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.02,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0.02
+        },
         "perks": ["cutterUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6266,6 +6334,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.05
+        },
         "perks": ["cutterUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-15"
@@ -6276,6 +6352,14 @@
         "tier": 6,
         "value": 1,
         "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0.10
         },
         "perks": ["cutterUpgrade6", "unsparing"],
         "dateAdded": "2024-06-11",
@@ -6291,6 +6375,14 @@
             "upgradeParts": 8,
             "piecesOfEight": 12000,
             "silver": 12000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.20,
+            "electric": 0.15
         },
         "perks": ["cutterUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6348,6 +6440,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.03,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["bargeUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-23"
@@ -6359,6 +6459,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["bargeUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-23"
@@ -6369,6 +6477,14 @@
         "tier": 6,
         "value": 1,
         "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["bargeUpgrade6", "devouring"],
         "dateAdded": "2024-06-11",
@@ -6387,6 +6503,14 @@
             "upgradeParts": 8,
             "piecesOfEight": 12000,
             "silver": 12000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0.20,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["bargeUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6432,6 +6556,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0
+        },
         "perks": ["sloopUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-23"
@@ -6443,6 +6575,14 @@
         "value": 1,
         "required": {
         },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0
+        },
         "perks": ["sloopUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2024-06-23"
@@ -6453,6 +6593,14 @@
         "tier": 6,
         "value": 1,
         "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0
         },
         "perks": ["sloopUpgrade6", "ruin"],
         "dateAdded": "2024-06-11",
@@ -6471,6 +6619,14 @@
             "upgradeParts": 8,
             "piecesOfEight": 12000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.20,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.15,
+            "electric": 0
         },
         "perks": ["sloopUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6532,6 +6688,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0.03,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["padewakangUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6545,6 +6709,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["padewakangUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6557,6 +6729,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["padewakangUpgrade6", "padewakangSiegeUpgrade"],
         "dateAdded": "2024-06-11",
@@ -6572,6 +6752,14 @@
             "upgradeParts": 12,
             "piecesOfEight": 15000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.20,
+            "flooding": 0,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["padewakangUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6633,6 +6821,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0.03,
+            "flooding": 0.03,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0
+        },
         "perks": ["snowUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6646,6 +6842,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0
+        },
         "perks": ["snowUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6658,6 +6862,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0.10,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0.05
         },
         "perks": ["snowUpgrade6", "vindictive"],
         "dateAdded": "2024-06-11",
@@ -6677,6 +6889,14 @@
             "precisionDrillingBit": 7,
             "orcasMechanism": 5,
             "masterworkKit": 1
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0.15,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.20,
+            "electric": 0.05
         },
         "perks": ["snowUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6738,6 +6958,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0.03,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["brigantineUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6751,6 +6979,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
         "perks": ["brigantineUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6763,6 +6999,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["brigantineUpgrade6", "headstrong"],
         "dateAdded": "2024-06-11",
@@ -6782,6 +7026,14 @@
             "torsionSpring": 8,
             "masterworkKit": 1,
             "gannetsSaltpeter": 5
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.20,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
         },
         "perks": ["brigantineUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6835,6 +7087,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.03,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03
+        },
         "perks": ["sambukUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6848,6 +7108,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05
+        },
         "perks": ["sambukUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6860,6 +7128,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.10
         },
         "perks": ["sambukUpgrade6", "firebug"],
         "dateAdded": "2024-06-11",
@@ -6879,6 +7155,14 @@
             "naphtha": 12,
             "eelsTwine": 7,
             "masterworkKit": 1
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0.20,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.15
         },
         "perks": ["sambukUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -6932,6 +7216,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0.02,
+            "flooding": 0,
+            "fire": 0.02,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03
+        },
         "perks": ["barqueUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6945,6 +7237,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05
+        },
         "perks": ["barqueUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -6957,6 +7257,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.10
         },
         "perks": ["barqueUpgrade6", "mend"],
         "dateAdded": "2024-06-11",
@@ -6972,6 +7280,14 @@
             "upgradeParts": 12,
             "piecesOfEight": 15000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.20
         },
         "perks": ["barqueUpgrade7"],
         "dateAdded": "2024-04-25",
@@ -7025,6 +7341,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.02,
+            "fire": 0.02,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0
+        },
         "perks": ["brigUpgrade4"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -7038,6 +7362,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0
+        },
         "perks": ["brigUpgrade5"],
         "dateAdded": "2024-06-11",
         "lastUpdated": "2025-04-15"
@@ -7050,6 +7382,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0
         },
         "perks": ["brigUpgrade6", "evolved"],
         "dateAdded": "2024-06-11",
@@ -7069,6 +7409,14 @@
             "hubacHeirloom": 1,
             "lestarisSkin": 1,
             "masterworkKit": 1
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0.20,
+            "electric": 0
         },
         "perks": ["brigUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -8254,6 +8602,14 @@
         "tier": 4,
         "value": 1,
         "required": {},
+        "damageMitigation": {
+            "explosive": 0.03,
+            "flooding": 0.03,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03
+        },
         "perks": ["battleJunkUpgrade4"],
         "dateAdded": "2024-08-22",
         "lastUpdated": "2024-08-22"
@@ -8264,6 +8620,14 @@
         "tier": 5,
         "value": 1,
         "required": {},
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05
+        },
         "perks": ["battleJunkUpgrade5"],
         "dateAdded": "2024-08-22",
         "lastUpdated": "2024-08-22"
@@ -8274,6 +8638,14 @@
         "tier": 6,
         "value": 1,
         "required": {},
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0.10,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.10
+        },
         "perks": ["battleJunkUpgrade6", "endure"],
         "dateAdded": "2024-08-22",
         "lastUpdated": "2024-08-22"
@@ -8292,6 +8664,14 @@
             "upgradeParts": 12,
             "piecesOfEight": 15000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0.15,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.20
         },
         "perks": ["battleJunkUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -8473,6 +8853,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.03,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0
+        },
         "perks": ["garudaUpgrade4"],
         "dateAdded": "2024-11-19",
         "lastUpdated": "2025-04-15"
@@ -8486,6 +8874,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0
+        },
         "perks": ["garudaUpgrade5"],
         "dateAdded": "2024-11-19",
         "lastUpdated": "2025-04-15"
@@ -8498,6 +8894,14 @@
         "required": {
             "upgradeParts": 6,
             "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.10,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.15,
+            "electric": 0
         },
         "perks": ["garudaUpgrade6", "revolver"],
         "dateAdded": "2024-11-19",
@@ -8517,6 +8921,14 @@
             "upgradeParts": 12,
             "piecesOfEight": 15000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.20,
+            "electric": 0
         },
         "perks": ["garudaUpgrade7"],
         "dateAdded": "2025-04-15",
@@ -9280,6 +9692,14 @@
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03
+        },
         "perks": ["schoonerUpgrade4"],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
@@ -9296,6 +9716,14 @@
             "gannetsSaltpeter": 5,
             "upgradeParts": 5,
             "piecesOfEight": 6500
+        },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05
         },
         "perks": ["schoonerUpgrade5"],
         "dateAdded": "2025-04-15",
@@ -9315,6 +9743,14 @@
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.10
+        },
         "perks": ["schoonerUpgrade6", "volatile"],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
@@ -9333,6 +9769,14 @@
             "upgradeParts": 12,
             "piecesOfEight": 15000,
             "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.20,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.15
         },
         "perks": ["schoonerUpgrade7"],
         "dateAdded": "2025-04-15",
