@@ -3379,6 +3379,7 @@
     "repairKit1": {
         "id": "repairKit1",
         "blueprint": "denSaintAnne",
+        "type": "consumable",
         "weight": 10,
         "required": {
             "metalSalvage": 1,
@@ -3390,6 +3391,7 @@
     "repairKit2": {
         "id": "repairKit2",
         "requiredRank": "rover1",
+        "type": "consumable",
         "blueprint": "outpostVoronaFalls",
         "weight": 30,
         "required": {
@@ -3402,6 +3404,7 @@
     "repairKit3": {
         "id": "repairKit3",
         "requiredRank": "brigand1",
+        "type": "consumable",
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3415,6 +3418,7 @@
     "enhancedRepairKit1": {
         "id": "enhancedRepairKit1",
         "requiredRank": "marauder1",
+        "type": "consumable",
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3426,6 +3430,7 @@
     "enhancedRepairKit2": {
         "id": "enhancedRepairKit2",
         "requiredRank": "corsair1",
+        "type": "consumable",
         "blueprint": "outpostKarstLookout",
         "weight": 150,
         "required": {
@@ -3437,6 +3442,7 @@
     "enhancedRepairKit3": {
         "id": "enhancedRepairKit3",
         "requiredRank": "cutthroat1",
+        "type": "consumable",
         "blueprint": "outpostGrandeFalaise",
         "weight": 250,
         "required": {
@@ -3447,6 +3453,7 @@
     },
     "restorationKit": {
         "id": "restorationKit",
+        "type": "consumable",
         "blueprint": "contractReward",
         "contract": "unwelcomeAboard",
         "rarity": "uncommon",
