@@ -1,0 +1,154 @@
+{
+    "template": {
+        "id": "template",
+        "itemType": ["example"],
+        "effectType": "numberIncrease",
+        "damageType": "fire",
+        "range": [0, 1],
+        "luckRange": [0, 1],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "direPiercing": {
+        "id": "direPiercing",
+        "itemType": ["longGun"],
+        "effectType": "ignoreResistance",
+        "damageType": "piercing",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "incendiary": {
+        "id": "incendiary",
+        "itemType": ["longGun"],
+        "effectType": "bonusElementalDamage",
+        "damageType": "fire",
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "direBurning": {
+        "id": "direBurning",
+        "itemType": ["longGun"],
+        "effectType": "ignoreResistance",
+        "damageType": "fire",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "firepower": {
+        "id": "firepower",
+        "itemType": ["longGun"],
+        "effectType": "increaseDamage",
+        "damageType": "overall",
+        "range": [0.088, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "shock": {
+        "id": "shock",
+        "itemType": ["longGun"],
+        "effectType": "bonusElementalDamage",
+        "damageType": "electric",
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "rapidReload": {
+        "id": "rapidReload",
+        "itemType": ["longGun"],
+        "effectType": "increaseReloadSpeed",
+        "range": [0.07, 0.102],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "combust": {
+        "id": "combust",
+        "itemType": ["longGun"],
+        "effectType": "extraElementalDamage",
+        "damageType": "explosive",
+        "range": [39, 57],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "flood": {
+        "id": "flood",
+        "itemType": ["longGun"],
+        "effectType": "extraElementalDamage",
+        "damageType": "flooding",
+        "range": [39, 57],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "sparks": {
+        "id": "sparks",
+        "itemType": ["longGun"],
+        "effectType": "extraElementalDamage",
+        "damageType": "electric",
+        "range": [39, 57],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "damage": {
+        "id": "damage",
+        "itemType": ["longGun"],
+        "effectType": "extraDamage",
+        "damageType": "base",
+        "range": [46, 67],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "burn": {
+        "id": "combust",
+        "itemType": ["longGun"],
+        "effectType": "extraElementalDamage",
+        "damageType": "burn",
+        "range": [39, 57],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "swift": {
+        "id": "swift",
+        "itemType": ["longGun"],
+        "effectType": "increaseProjectileSpeed",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "sharpened": {
+        "id": "sharpened",
+        "itemType": ["longGun"],
+        "effectType": "bonusElementalDamage",
+        "damageType": "piercing",
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "combustion": {
+        "id": "combustion",
+        "itemType": ["longGun"],
+        "effectType": "bonusElementalDamage",
+        "damageType": "explosive",
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "pierce": {
+        "id": "combust",
+        "itemType": ["longGun"],
+        "effectType": "extraElementalDamage",
+        "damageType": "piercing",
+        "range": [39, 57],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "rupturing": {
+        "id": "rupturing",
+        "itemType": ["longGun"],
+        "effectType": "bonusElementalDamage",
+        "damageType": "flooding",
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "grade": "basic"
+    }
+}
