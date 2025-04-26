@@ -11,16 +11,34 @@
     },
     "direPiercing": {
         "id": "direPiercing",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "ignoreResistance",
         "damageType": "piercing",
         "range": [0.093, 0.135],
         "dropOnly": false,
         "grade": "basic"
     },
+    "direElectric": {
+        "id": "direElectric",
+        "itemType": ["longGun","culverin"],
+        "effectType": "ignoreResistance",
+        "damageType": "electric",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "grade": "basic"
+    },
+    "direExplosive": {
+        "id": "direExplosive",
+        "itemType": ["longGun","culverin"],
+        "effectType": "ignoreResistance",
+        "damageType": "explosive",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "grade": "basic"
+    },
     "incendiary": {
         "id": "incendiary",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "range": [0.077, 0.112],
@@ -29,7 +47,7 @@
     },
     "direBurning": {
         "id": "direBurning",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "ignoreResistance",
         "damageType": "fire",
         "range": [0.093, 0.135],
@@ -38,7 +56,7 @@
     },
     "firepower": {
         "id": "firepower",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "increaseDamage",
         "damageType": "overall",
         "range": [0.088, 0.112],
@@ -47,7 +65,7 @@
     },
     "shock": {
         "id": "shock",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "range": [0.077, 0.112],
@@ -56,7 +74,7 @@
     },
     "rapidReload": {
         "id": "rapidReload",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "increaseReloadSpeed",
         "range": [0.07, 0.102],
         "dropOnly": false,
@@ -64,7 +82,7 @@
     },
     "combust": {
         "id": "combust",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
         "range": [39, 57],
@@ -73,7 +91,7 @@
     },
     "flood": {
         "id": "flood",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
         "range": [39, 57],
@@ -82,7 +100,7 @@
     },
     "sparks": {
         "id": "sparks",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraElementalDamage",
         "damageType": "electric",
         "range": [39, 57],
@@ -91,7 +109,7 @@
     },
     "damage": {
         "id": "damage",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraDamage",
         "damageType": "base",
         "range": [46, 67],
@@ -100,7 +118,7 @@
     },
     "burn": {
         "id": "combust",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraElementalDamage",
         "damageType": "burn",
         "range": [39, 57],
@@ -109,7 +127,7 @@
     },
     "swift": {
         "id": "swift",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "increaseProjectileSpeed",
         "range": [0.093, 0.135],
         "dropOnly": false,
@@ -117,7 +135,7 @@
     },
     "sharpened": {
         "id": "sharpened",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "range": [0.077, 0.112],
@@ -126,7 +144,7 @@
     },
     "combustion": {
         "id": "combustion",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "range": [0.077, 0.112],
@@ -135,7 +153,7 @@
     },
     "pierce": {
         "id": "combust",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
         "range": [39, 57],
@@ -144,7 +162,7 @@
     },
     "rupturing": {
         "id": "rupturing",
-        "itemType": ["longGun"],
+        "itemType": ["longGun","culverin"],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "range": [0.077, 0.112],
