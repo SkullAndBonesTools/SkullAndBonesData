@@ -170,7 +170,7 @@
     "haste": {
         "id": "haste",
         "itemType": ["rocket","mortar","springloader"],
-        "effectType": "reducesTimeToTarget",
+        "effectType": "reduceTimeToTarget",
         "range": [0.083, 0.12],
         "dropOnly": false,
         "grade": "basic"
