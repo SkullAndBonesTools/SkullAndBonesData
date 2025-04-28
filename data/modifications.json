@@ -1,17 +1,7 @@
 {
-    "template": {
-        "id": "template",
-        "itemType": ["example"],
-        "effectType": "numberIncrease",
-        "damageType": "fire",
-        "range": [0, 1],
-        "luckRange": [0, 1],
-        "dropOnly": false,
-        "grade": "basic"
-    },
     "direPiercing": {
         "id": "direPiercing",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "ignoreResistance",
         "damageType": "piercing",
         "range": [0.093, 0.144],
@@ -20,7 +10,7 @@
     },
     "direElectric": {
         "id": "direElectric",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "ignoreResistance",
         "damageType": "electric",
         "range": [0.093, 0.144],
@@ -29,7 +19,7 @@
     },
     "direExplosive": {
         "id": "direExplosive",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "ignoreResistance",
         "damageType": "explosive",
         "range": [0.093, 0.144],
@@ -38,7 +28,7 @@
     },
     "incendiary": {
         "id": "incendiary",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "range": [0.077, 0.12],
@@ -47,7 +37,7 @@
     },
     "direBurning": {
         "id": "direBurning",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "ignoreResistance",
         "damageType": "fire",
         "range": [0.093, 0.144],
@@ -56,7 +46,7 @@
     },
     "firepower": {
         "id": "firepower",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "increaseDamage",
         "damageType": "overall",
         "range": [0.088, 0.12],
@@ -65,7 +55,7 @@
     },
     "shock": {
         "id": "shock",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "range": [0.077, 0.12],
@@ -74,7 +64,7 @@
     },
     "rapidReload": {
         "id": "rapidReload",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "increaseReloadSpeed",
         "range": [0.07, 0.108],
         "dropOnly": false,
@@ -82,7 +72,7 @@
     },
     "combust": {
         "id": "combust",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
         "range": [39, 60],
@@ -91,7 +81,7 @@
     },
     "flood": {
         "id": "flood",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
         "range": [39, 60],
@@ -100,7 +90,7 @@
     },
     "sparks": {
         "id": "sparks",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraElementalDamage",
         "damageType": "electric",
         "range": [39, 60],
@@ -109,7 +99,7 @@
     },
     "damage": {
         "id": "damage",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraDamage",
         "damageType": "base",
         "range": [46, 72],
@@ -117,10 +107,10 @@
         "grade": "basic"
     },
     "burn": {
-        "id": "combust",
-        "itemType": ["longGun","culverin","rocket"],
+        "id": "burn",
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraElementalDamage",
-        "damageType": "burn",
+        "damageType": "fire",
         "range": [39, 60],
         "dropOnly": false,
         "grade": "basic"
@@ -135,7 +125,7 @@
     },
     "reach": {
         "id": "reach",
-        "itemType": ["demicannon","rocket"],
+        "itemType": ["demicannon","rocket","seaFire"],
         "effectType": "increaseProjectileRange",
         "range": [0.117, 0.144],
         "dropOnly": false,
@@ -143,7 +133,7 @@
     },
     "sharpened": {
         "id": "sharpened",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "range": [0.077, 0.12],
@@ -152,7 +142,7 @@
     },
     "combustion": {
         "id": "combustion",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "range": [0.077, 0.12],
@@ -161,7 +151,7 @@
     },
     "pierce": {
         "id": "combust",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
         "range": [39, 60],
@@ -170,7 +160,7 @@
     },
     "rupturing": {
         "id": "rupturing",
-        "itemType": ["longGun","culverin","rocket"],
+        "itemType": ["longGun","culverin","rocket","seaFire"],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "range": [0.077, 0.12],
