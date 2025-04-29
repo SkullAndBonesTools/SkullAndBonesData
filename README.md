@@ -1,5 +1,5 @@
 # Skull and Bones Data
-[![GitHub Release](https://img.shields.io/github/v/release/SkullAndBonesTools/SkullAndBonesData?include_prereleases&sort=semver&display_name=release&style=for-the-badge&logo=github&labelColor=gray&color=aliceblue)](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases/latest) [![NPM Version](https://img.shields.io/npm/v/%40skullandbonestools%2Fsnbdata?style=for-the-badge&logo=npm&color=%23c60000)](https://www.npmjs.com/package/@skullandbonestools/snbdata)
+[![GitHub Release](https://img.shields.io/github/v/release/SkullAndBonesTools/SkullAndBonesData?include_prereleases&sort=semver&display_name=release&style=for-the-badge&logo=github&labelColor=1f2328&color=aliceblue)](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases/latest) [![NPM Version](https://img.shields.io/npm/v/%40skullandbonestools%2Fsnbdata?style=for-the-badge&logo=npm&color=%23c60000&labelColor=1f2328)](https://www.npmjs.com/package/@skullandbonestools/snbdata) [![Crowdin](https://img.shields.io/badge/Crowdin-green?style=for-the-badge&logo=crowdin&labelColor=1f2328)](https://crowdin.com/project/skull-and-bones-tools)
 
 Welcome to the inofficial data repository for the Skull and Bones game by Ubisoft.
 
