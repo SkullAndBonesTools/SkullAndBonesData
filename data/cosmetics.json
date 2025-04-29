@@ -23054,8 +23054,8 @@
         "dateAdded": "2025-04-29",
         "lastUpdated": "2025-04-29"
     },
-    "belovedQueen": {
-        "id": "belovedQueen",
+    "belovedOcean": {
+        "id": "belovedOcean",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "envyFreedom",
