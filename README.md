@@ -1,4 +1,5 @@
 # Skull and Bones Data
+![GitHub Release](https://img.shields.io/github/v/release/SkullAndBonesTools/SkullAndBonesData?include_prereleases&sort=semver&display_name=release&style=for-the-badge&logo=github&labelColor=gray&color=aliceblue) ![NPM Version](https://img.shields.io/npm/v/%40skullandbonestools%2Fsnbdata?style=for-the-badge&logo=npm&color=%23c60000)
 
 Welcome to the inofficial data repository for the Skull and Bones game by Ubisoft.
 
