@@ -1146,5 +1146,13 @@
     "lostBastion": {
         "id": "lostBastion",
         "type": "ship"
+    },
+    "sengokuNights": {
+        "id": "sengokuNights",
+        "type": "ship"
+    },
+    "envyFreedom": {
+        "id": "envyFreedom",
+        "type": "ship"
     }
 }

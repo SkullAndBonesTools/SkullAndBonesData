@@ -22033,9 +22033,9 @@
         "id": "crownedCads",
         "type": "sailsPattern",
         "set": "honorAndJudgment",
-        "obtainable": "",
+        "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-04-29"
     },
     "theFinalWord": {
         "id": "theFinalWord",
@@ -23004,5 +23004,85 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-22",
         "lastUpdated": "2025-04-22"
+    },
+    "creedOfTheLoyal": {
+        "id": "creedOfTheLoyal",
+        "type": "sailsEmblem",
+        "set": "sengokuNights",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "bladesAndShadows": {
+        "id": "bladesAndShadows",
+        "type": "sailsColor",
+        "set": "sengokuNights",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "loneSamurai": {
+        "id": "loneSamurai",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "sengokuNights",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "standYourGround": {
+        "id": "standYourGround",
+        "type": "hull",
+        "set": "sengokuNights",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "villainsAtHeart": {
+        "id": "villainsAtHeart",
+        "type": "sailsEmblem",
+        "set": "envyFreedom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "bandOfRakes": {
+        "id": "bandOfRakes",
+        "type": "sailsPattern",
+        "set": "envyFreedom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "belovedQueen": {
+        "id": "belovedQueen",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "envyFreedom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "edgeOfTheWorld": {
+        "id": "edgeOfTheWorld",
+        "type": "hull",
+        "set": "envyFreedom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "goPoof": {
+        "id": "goPoof",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
+    },
+    "sinisterSchemer": {
+        "id": "sinisterSchemer",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-04-29",
+        "lastUpdated": "2025-04-29"
     }
 }
