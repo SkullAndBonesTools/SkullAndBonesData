@@ -3380,6 +3380,7 @@
         "id": "repairKit1",
         "blueprint": "denSaintAnne",
         "type": "consumable",
+        "tier": 1,
         "weight": 10,
         "required": {
             "metalSalvage": 1,
@@ -3392,6 +3393,7 @@
         "id": "repairKit2",
         "requiredRank": "rover1",
         "type": "consumable",
+        "tier": 2,
         "blueprint": "outpostVoronaFalls",
         "weight": 30,
         "required": {
@@ -3405,6 +3407,7 @@
         "id": "repairKit3",
         "requiredRank": "brigand1",
         "type": "consumable",
+        "tier": 3,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3419,6 +3422,7 @@
         "id": "enhancedRepairKit1",
         "requiredRank": "marauder1",
         "type": "consumable",
+        "tier": 1,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3431,6 +3435,7 @@
         "id": "enhancedRepairKit2",
         "requiredRank": "corsair1",
         "type": "consumable",
+        "tier": 2,
         "blueprint": "outpostKarstLookout",
         "weight": 150,
         "required": {
@@ -3443,6 +3448,7 @@
         "id": "enhancedRepairKit3",
         "requiredRank": "cutthroat1",
         "type": "consumable",
+        "tier": 3,
         "blueprint": "outpostGrandeFalaise",
         "weight": 250,
         "required": {
