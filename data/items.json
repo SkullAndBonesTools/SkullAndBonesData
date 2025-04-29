@@ -6484,6 +6484,9 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "fineAbaka": 20,
+            "sheetGlass": 7,
+            "screwMechanism": 7,
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
