@@ -23026,7 +23026,7 @@
         "type": "figureHead",
         "effect": "emissive",
         "set": "sengokuNights",
-        "obtainable": ["ubisoftStore","setCosmeticsChest"],
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-29",
         "lastUpdated": "2025-04-29"
     },
