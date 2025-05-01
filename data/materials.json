@@ -1,31 +1,31 @@
 {
     "silver": {
         "rarity": "common",
-        "category": "raw"
+        "category": "currency"
     },
     "piecesOfEight": {
         "rarity": "legendary",
-        "category": "raw"
+        "category": "currency"
     },
     "sovereigns": {
         "rarity": "legendary",
-        "category": "raw"
+        "category": "currency"
     },
     "reapersToll": {
         "rarity": "common",
-        "category": "raw"
+        "category": "currency"
     },
     "azuriteGem": {
         "rarity": "rare",
-        "category": "raw"
+        "category": "currency"
     },
     "halfTaels": {
         "rarity": "legendary",
-        "category": "raw"
+        "category": "currency"
     },
     "silverLions": {
         "rarity": "common",
-        "category": "raw"
+        "category": "currency"
     },
     "copperBars": {
         "rarity": "epic",
@@ -33,15 +33,15 @@
     },
     "units": {
         "rarity": "common",
-        "category": "raw"
+        "category": "currency"
     },
     "cork": {
         "rarity": "common",
-        "category": "raw"
+        "category": "currency"
     },
     "gold": {
         "rarity": "legendary",
-        "category": "raw"
+        "category": "currency"
     },
     "jute": {
         "rarity": "common",
