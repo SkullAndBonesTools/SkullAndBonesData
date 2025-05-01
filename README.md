@@ -43,6 +43,7 @@ npm i @skullandbonestools/snbdata
 
 **Access the Data**
 
+**Ships**\
 Getting the season of the `Barque` (TS):
 ```typescript
 import { Ships } from "@skullandbonestools/snbdata";
@@ -52,6 +53,7 @@ const season:Season = Ships.barque.season; // Retrieves the season object for th
 console.log(season.id); // Returns ragingTides
 ```
 
+**Materials**\
 Getting the required materials for `Orca Intricate Apparatus` (JS):
 ```javascript
 import { Materials } from "@skullandbonestools/snbdata";
@@ -66,6 +68,27 @@ Id: orcasMechanism - Required: undefined
 Id: torsionSpring - Required: planetaryGearset, woodPitch
 Id: planetaryGearset - Required: cogwheel
 Id: woodPitch - Required: woodTar
+```
+
+**Cosmetics / Items**\
+Getting the `aBloodyPromise` sails emblem and printing all its properties.
+```javascript
+import { Cosmetics, Items } from '@skullandbonestools/snbdata';
+import { Cosmetic } from '@skullandbonestools/snbdata/dist/daos/cosmetics'; //TS type if you're using typescript
+
+const aBloodyPromise = Cosmetics.aBloodyPromise; // Works the same for items e.g. Items.heydensGuard
+Object.entries(aBloodyPromise).forEach(([key, value]) => {
+  if(!value) return;
+  console.log(`${key}: ${value}`);
+});
+
+// Output
+id: aBloodyPromise
+type: sailsEmblem
+dateAdded: 2024-03-16
+lastUpdated: 2024-03-30
+set: ashenCorsair
+obtainable: premiumEdition
 ```
 
 ## History
