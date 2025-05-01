@@ -7279,6 +7279,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "magnetiteIngot": 15,
+            "castingSand": 5,
+            "lime": 5,
+            "naphtha": 7,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -7300,6 +7304,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "magnetiteIngot": 10,
+            "roselleCloth": 10,
+            "plagueDust": 1,
+            "blightedFuel": 1,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
