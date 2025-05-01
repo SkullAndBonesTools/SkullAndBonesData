@@ -74,7 +74,7 @@ Id: woodPitch - Required: woodTar
 Getting the `aBloodyPromise` sails emblem and printing all its properties.
 ```javascript
 import { Cosmetics, Items } from '@skullandbonestools/snbdata';
-import { Cosmetic } from '@skullandbonestools/snbdata/dist/daos/cosmetics'; //TS type if you're using typescript
+import { Cosmetic } from '@skullandbonestools/snbdata/dist/daos/cosmetics'; //TS type
 
 const aBloodyPromise = Cosmetics.aBloodyPromise; // Works the same for items e.g. Items.heydensGuard
 Object.entries(aBloodyPromise).forEach(([key, value]) => {
