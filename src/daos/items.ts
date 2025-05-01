@@ -1,8 +1,10 @@
 import itemsData from '../../data/items.json';
 import { Tier } from '../types/ItemProperties';
 import { Rarity } from '../types/Rarity';
+import { Event, Events } from './events';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
+import { WorldEvent, WorldEvents } from './worldEvents';
 
 export class Item {
     constructor(
@@ -27,7 +29,8 @@ export class Item {
         public readonly rarity?: Rarity,
         public readonly season?: Season,
         public readonly obtainable?: string | string[],
-        public readonly worldEvent?: string,
+        public readonly event?: Event,
+        public readonly worldEvent?: WorldEvent,
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
         public readonly contract?: string
@@ -35,6 +38,8 @@ export class Item {
 
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
+        const event = rawData.event as keyof typeof Events;
+        const worldEvent = rawData.worldEvent as keyof typeof WorldEvents;
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if (required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
@@ -65,7 +70,8 @@ export class Item {
             rawData.rarity ?? undefined,
             rawData.season ? Seasons[season] : undefined,
             rawData.obtainable ?? undefined,
-            rawData.worldEvent ?? undefined,
+            rawData.event ? Events[event] : undefined,
+            rawData.worldEvent ? WorldEvents[worldEvent] : undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
             rawData.contract ?? undefined
