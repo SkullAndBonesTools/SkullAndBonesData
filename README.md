@@ -5,6 +5,8 @@ Welcome to the inofficial data repository for the Skull and Bones game by Ubisof
 
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format and provides a npm package to access the data in typescript and javascript.
 
+This project is also compliant with the Terms of Service of Skull and Bones and approved by Ubisoft, as the data was/is collected and written down by hand and not acquired in other ways. 
+
 As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
 - [ ] Extract data stored in translation files into own data files
   - [x] Sets
