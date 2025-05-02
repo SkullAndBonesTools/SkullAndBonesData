@@ -1,0 +1,600 @@
+{
+    "materials": {
+        "silver": {
+            "name": "Silver",
+            "description": ""
+        },
+        "piecesOfEight": {
+            "name": "Pieces of Eight",
+            "description": "An exclusive currency minted by the Helm. Deliver these to a haven to stash them for use in the Black Market, or your Helm Empire."
+        },
+        "sovereigns": {
+            "name": "Sovereigns",
+            "description": ""
+        },
+        "reapersToll": {
+            "name": "Reaper's Toll",
+            "description": ""
+        },
+        "gold": {
+            "name": "Gold",
+            "description": ""
+        },
+        "copperBars": {
+            "name": "Kupfer Bars",
+            "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
+        },
+        "azuriteGem": {
+            "name": "Azurite Gem",
+            "description": ""
+        },
+        "halfTaels": {
+            "name": "Half-Taels",
+            "description": ""
+        },
+        "silverLions": {
+            "name": "Silver Lions",
+            "description": "Silver coins designed personally by Scurlock, minted and shipped from their home countries. Perhaps they are intended currency for when Scurlock one day rules the Indian Ocean, or so he believes."
+        },
+        "coconut": {
+            "name": "Coconut",
+            "description": ""
+        },
+        "fish": {
+            "name": "Fish",
+            "description": ""
+        },
+        "ndizi": {
+            "name": "Ndizi",
+            "description": ""
+        },
+        "crocodileMeat": {
+            "name": "Crocodile Meat",
+            "description": ""
+        },
+        "primeCrocodileMeat": {
+            "name": "Prime Crocodile Meat",
+            "description": ""
+        },
+        "sharkMeat": {
+            "name": "Shark Meat",
+            "description": ""
+        },
+        "rawMutton": {
+            "name": "Raw Mutton",
+            "description": ""
+        },
+        "rawChicken": {
+            "name": "Raw Chicken",
+            "description": ""
+        },
+        "flour": {
+            "name": "Flour",
+            "description": ""
+        },
+        "primeHippoMeat": {
+            "name": "Prime Hippo Meat",
+            "description": ""
+        },
+        "screwpine": {
+            "name": "Screwpine",
+            "description": ""
+        },
+        "rawBeef": {
+            "name": "Raw Beef",
+            "description": ""
+        },
+        "rawVegetables": {
+            "name": "Raw Vegetables",
+            "description": ""
+        },
+        "hippoMeat": {
+            "name": "Hippo Meat",
+            "description": ""
+        },
+        "waterFlask": {
+            "name": "Water Flask",
+            "description": ""
+        },
+        "waterBarrel": {
+            "name": "Water Barrel",
+            "description": ""
+        },
+        "durian": {
+            "name": "Durian",
+            "description": ""
+        },
+        "tylosaurusFlesh": {
+            "name": "Tylosaurus Flesh",
+            "description": ""
+        },
+        "pureIron": {
+            "name": "Pure Iron",
+            "description": ""
+        },
+        "ironwood": {
+            "name": "Ironwood",
+            "description": ""
+        },
+        "tornSail": {
+            "name": "Torn Sail",
+            "description": ""
+        },
+        "scavengedWood": {
+            "name": "Scavenged Wood",
+            "description": ""
+        },
+        "metalSalvage": {
+            "name": "Metal Salvage",
+            "description": ""
+        },
+        "ironwoodPlank": {
+            "name": "Ironwood Plank",
+            "description": ""
+        },
+        "crudeSaltpeter": {
+            "name": "Crude Saltpeter",
+            "description": ""
+        },
+        "shellac": {
+            "name": "Shellac",
+            "description": ""
+        },
+        "rustyNail": {
+            "name": "Rusty Nail",
+            "description": ""
+        },
+        "copper": {
+            "name": "Copper",
+            "description": ""
+        },
+        "castIronIngot": {
+            "name": "Cast Iron Ingot",
+            "description": ""
+        },
+        "acacia": {
+            "name": "Acacia",
+            "description": ""
+        },
+        "sharkSkin": {
+            "name": "Shark Skin",
+            "description": ""
+        },
+        "jute": {
+            "name": "Jute",
+            "description": ""
+        },
+        "cobaltIngot": {
+            "name": "Cobalt Ingot",
+            "description": ""
+        },
+        "teakPlank": {
+            "name": "Teak Plank",
+            "description": ""
+        },
+        "iroko": {
+            "name": "Iroko",
+            "description": ""
+        },
+        "lime": {
+            "name": "Lime",
+            "description": ""
+        },
+        "nickel": {
+            "name": "Nickel",
+            "description": ""
+        },
+        "steelIngot": {
+            "name": "Steel Ingot",
+            "description": ""
+        },
+        "cobalt": {
+            "name": "Cobalt",
+            "description": ""
+        },
+        "irokoPlank": {
+            "name": "Iroko Plank",
+            "description": ""
+        },
+        "sisal": {
+            "name": "Sisal",
+            "description": ""
+        },
+        "castingSand": {
+            "name": "Casting Sand",
+            "description": ""
+        },
+        "acaciaPlank": {
+            "name": "Acacia Plank",
+            "description": ""
+        },
+        "nickelIngot": {
+            "name": "Nickel Ingot",
+            "description": ""
+        },
+        "bogIron": {
+            "name": "Bog Iron",
+            "description": ""
+        },
+        "juniperPlank": {
+            "name": "Juniper Plank",
+            "description": ""
+        },
+        "fineAbaka": {
+            "name": "Fine Abaka",
+            "description": ""
+        },
+        "screwMechanism": {
+            "name": "Screw Mechanism",
+            "description": ""
+        },
+        "mopanePlank": {
+            "name": "Mopane Plank",
+            "description": ""
+        },
+        "fineLinen": {
+            "name": "Fine Linen",
+            "description": ""
+        },
+        "cogwheel": {
+            "name": "Cogwheel",
+            "description": ""
+        },
+        "woodTar": {
+            "name": "Wood Tar",
+            "description": ""
+        },
+        "fineJute": {
+            "name": "Fine Jute",
+            "description": ""
+        },
+        "fineSisal": {
+            "name": "Fine Sisal",
+            "description": ""
+        },
+        "sharkLeather": {
+            "name": "Shark Leather",
+            "description": ""
+        },
+        "thickCrocodileHide": {
+            "name": "Thick Crocodile Hide",
+            "description": ""
+        },
+        "thickCrocodileLeather": {
+            "name": "Thick Crocodile Leather",
+            "description": ""
+        },
+        "crocodileHide": {
+            "name": "Crocodile Hide",
+            "description": ""
+        },
+        "crocodileLeather": {
+            "name": "Crocodile Leather",
+            "description": ""
+        },
+        "zincIngot": {
+            "name": "Zinc Ingot",
+            "description": ""
+        },
+        "brokenPlank": {
+            "name": "Broken Plank",
+            "description": ""
+        },
+        "sheetGlass": {
+            "name": "Sheet Glass",
+            "description": ""
+        },
+        "fineHemp": {
+            "name": "Fine Hemp",
+            "description": ""
+        },
+        "hippoHide": {
+            "name": "Hippo Hide",
+            "description": ""
+        },
+        "hippoLeather": {
+            "name": "Hippo Leather",
+            "description": ""
+        },
+        "greenheartPlank": {
+            "name": "Greenheart Plank",
+            "description": ""
+        },
+        "roselleCloth": {
+            "name": "Roselle Cloth",
+            "description": ""
+        },
+        "precisionDrillingBit": {
+            "name": "Precision Drilling Bit",
+            "description": ""
+        },
+        "greenheart": {
+            "name": "Greenheart",
+            "description": ""
+        },
+        "roselle": {
+            "name": "Roselle",
+            "description": ""
+        },
+        "fineRamie": {
+            "name": "Fine Ramie",
+            "description": ""
+        },
+        "ramie": {
+            "name": "Ramie",
+            "description": ""
+        },
+        "teak": {
+            "name": "Teak",
+            "description": ""
+        },
+        "hemp": {
+            "name": "Hemp",
+            "description": ""
+        },
+        "abaka": {
+            "name": "Abaka",
+            "description": ""
+        },
+        "juniper": {
+            "name": "Juniper",
+            "description": ""
+        },
+        "apexCrocodileHide": {
+            "name": "Apex Crocodile Hide",
+            "description": ""
+        },
+        "apexCrocodileLeather": {
+            "name": "Apex Crocodile Leather",
+            "description": ""
+        },
+        "apexHippoHide": {
+            "name": "Apex Hippo Hide",
+            "description": ""
+        },
+        "apexHippoLeather": {
+            "name": "Apex Hippo Leather",
+            "description": ""
+        },
+        "rubber": {
+            "name": "Rubber",
+            "description": ""
+        },
+        "magnetite": {
+            "name": "Magnetite",
+            "description": ""
+        },
+        "magnetiteIngot": {
+            "name": "Magnetite Ingot",
+            "description": ""
+        },
+        "mopane": {
+            "name": "Mopane",
+            "description": ""
+        },
+        "linen": {
+            "name": "Linen",
+            "description": ""
+        },
+        "torsionSpring": {
+            "name": "Torsion Spring",
+            "description": ""
+        },
+        "bronzeIngot": {
+            "name": "Bronze Ingot",
+            "description": ""
+        },
+        "zinc": {
+            "name": "Zinc",
+            "description": ""
+        },
+        "repairKit1": {
+            "name": "Repair Kit I",
+            "description": ""
+        },
+        "repairKit2": {
+            "name": "Repair Kit II",
+            "description": ""
+        },
+        "repairKit3": {
+            "name": "Repair Kit III",
+            "description": ""
+        },
+        "monstrousTooth": {
+            "name": "Monstrous Tooth",
+            "description": ""
+        },
+        "vengefulEssence": {
+            "name": "Vengeful Essence",
+            "description": ""
+        },
+        "etherealAshes": {
+            "name": "Ethereal Ashes",
+            "description": ""
+        },
+        "eelsTwine": {
+            "name": "Eels' Twine",
+            "description": ""
+        },
+        "wyrmsBreath": {
+            "name": "Wyrm's Breath",
+            "description": ""
+        },
+        "orcasMechanism": {
+            "name": "Orcas' Mechanism",
+            "description": ""
+        },
+        "gannetsSaltpeter": {
+            "name": "Gannets' Saltpeter",
+            "description": ""
+        },
+        "dryCastingSand": {
+            "name": "Dry Sand",
+            "description": ""
+        },
+        "lacquer": {
+            "name": "Lacquer",
+            "description": ""
+        },
+        "woodPitch": {
+            "name": "Wood Pitch",
+            "description": ""
+        },
+        "plateGlass": {
+            "name": "Plate Glass",
+            "description": ""
+        },
+        "sinewString": {
+            "name": "Sinew String",
+            "description": ""
+        },
+        "upgradeParts": {
+            "name": "Upgrade Parts",
+            "description": ""
+        },
+        "lestarisSkin": {
+            "name": "Lestari's Skin",
+            "description": ""
+        },
+        "hubacHeirloom": {
+            "name": "Hubac Heirloom",
+            "description": ""
+        },
+        "units": {
+            "name": "Units",
+            "description": ""
+        },
+        "blackAriaShipPart": {
+            "name": "Black Aria Sword",
+            "description": ""
+        },
+        "whiteAriaShipPart": {
+            "name": "White Aria Shield",
+            "description": ""
+        },
+        "cork": {
+            "name": "Cork",
+            "description": ""
+        },
+        "ice": {
+            "name": "Ice",
+            "description": ""
+        },
+        "lestarisMeat": {
+            "name": "Lestari's Meat",
+            "description": ""
+        },
+        "jadeDragon": {
+            "name": "Jade Dragon",
+            "description": ""
+        },
+        "naphtha": {
+            "name": "Naphtha",
+            "description": ""
+        },
+        "zamaharibuScales": {
+            "name": "Zamaharibu Scales",
+            "description": ""
+        },
+        "quicklime": {
+            "name": "Quicklime",
+            "description": ""
+        },
+        "purifiedSaltpeter": {
+            "name": "Purified Saltpeter",
+            "description": ""
+        },
+        "planetaryGearset": {
+            "name": "Planetary Gearset",
+            "description": ""
+        },
+        "wormDrive": {
+            "name": "Worm Drive",
+            "description": ""
+        },
+        "lightningDragonClaw": {
+            "name": "Lightning Dragon Claw",
+            "description": ""
+        },
+        "lightningDragonScale": {
+            "name": "Lightning Dragon Scale",
+            "description": ""
+        },
+        "phoenixBeak": {
+            "name": "Phoenix Beak",
+            "description": ""
+        },
+        "phoenixPinion": {
+            "name": "Phoenix Pinion",
+            "description": ""
+        },
+        "azureDragonHead": {
+            "name": "Azure Dragon Head",
+            "description": ""
+        },
+        "plagueDust": {
+            "name": "Plague Dust",
+            "description": ""
+        },
+        "blightedFuel": {
+            "name": "Blighted Fuel",
+            "description": ""
+        },
+        "yellowDragonBanner": {
+            "name": "Yellow Dragon Banner",
+            "description": ""
+        },
+        "jadePhoenixStatue": {
+            "name": "Jade Phoenix Statue",
+            "description": ""
+        },
+        "eelSturdyRopes": {
+            "name": "Eel Sturdy Ropes",
+            "description": ""
+        },
+        "wyrmVolatileNapalm": {
+            "name": "Wyrm Volatile Napalm",
+            "description": ""
+        },
+        "orcaIntricateApparatus": {
+            "name": "Orca Intricate Apparatus",
+            "description": ""
+        },
+        "gannetDenseNiter": {
+            "name": "Gannet Dense Niter",
+            "description": ""
+        },
+        "xanthousStone": {
+            "name": "Xanthous Stone",
+            "description": ""
+        },
+        "putrefiedZamaharibuScale": {
+            "name": "Putrefied Zamaharibu Scale",
+            "description": ""
+        },
+        "putrefiedLestariSkin": {
+            "name": "Putrefied Lestari Skin",
+            "description": ""
+        },
+        "artisansRefinementPack": {
+            "name": "Artisan's Refinement Pack",
+            "description": ""
+        },
+        "xanthousGemstone": {
+            "name": "Xanthous Gemstone",
+            "description": ""
+        },
+        "masterworkKit": {
+            "name": "Masterwork Kit",
+            "description": "A set of master-forged tools used to fully upgrade ship and equipment."
+        },
+        "ascensionModule": {
+            "name": "Ascension Module",
+            "description": "An advanced device that upgrades items, adding graded modification slots for customization with powerful and unique modifications."
+        },
+        "primevalFang": {
+            "name": "Primeval Fang",
+            "description": "A monstrous fang from a beast from the depths. Whoever possesses one must have braved its jaws."
+        }
+    }
+}
