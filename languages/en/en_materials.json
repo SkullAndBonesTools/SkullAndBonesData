@@ -306,7 +306,7 @@
         },
         "precisionDrillingBit": {
             "name": "Precision Drilling Bit",
-            "description": ""
+            "description": "Hand-forged metal drill bit for accurate engineering work."
         },
         "greenheart": {
             "name": "Greenheart",
@@ -358,7 +358,7 @@
         },
         "rubber": {
             "name": "Rubber",
-            "description": ""
+            "description": "A natural compound that is both stretchy and water-resistant."
         },
         "magnetite": {
             "name": "Magnetite",
@@ -378,7 +378,7 @@
         },
         "torsionSpring": {
             "name": "Torsion Spring",
-            "description": ""
+            "description": "An inhumanly large spring normally meant for industrial sites."
         },
         "bronzeIngot": {
             "name": "Bronze Ingot",
@@ -446,11 +446,11 @@
         },
         "sinewString": {
             "name": "Sinew String",
-            "description": ""
+            "description": "An extremely tough string made by the Clan of Fara that can be used for crafting complex items. Generally found in the Red Isle."
         },
         "upgradeParts": {
             "name": "Upgrade Parts",
-            "description": ""
+            "description": "A set of master-crafted parts that can be used for upgrading."
         },
         "lestarisSkin": {
             "name": "Lestari's Skin",
@@ -458,7 +458,7 @@
         },
         "hubacHeirloom": {
             "name": "Hubac Heirloom",
-            "description": ""
+            "description": "Relic that has been passed down for generations within the Hubac family."
         },
         "units": {
             "name": "Units",
@@ -490,7 +490,7 @@
         },
         "naphtha": {
             "name": "Naphtha",
-            "description": ""
+            "description": "A powerful solvent used to dissolve stubborn substances, including one's foes."
         },
         "zamaharibuScales": {
             "name": "Zamaharibu Scales",
@@ -538,15 +538,15 @@
         },
         "blightedFuel": {
             "name": "Blighted Fuel",
-            "description": ""
+            "description": "A toxic elixir harvested from the bowels of La Peste's flagship, which exudes a malevolent energy."
         },
         "yellowDragonBanner": {
             "name": "Yellow Dragon Banner",
-            "description": ""
+            "description": "A banner ripped from Commander Zhang's flagship. It features a yellow dragon soaring high in the clouds."
         },
         "jadePhoenixStatue": {
             "name": "Jade Phoenix Statue",
-            "description": ""
+            "description": "A statue of a phoenix made of pure jade. One of the few prized possessions of Li Tian Ning."
         },
         "eelSturdyRopes": {
             "name": "Eel Sturdy Ropes",
@@ -578,11 +578,11 @@
         },
         "artisansRefinementPack": {
             "name": "Artisan's Refinement Pack",
-            "description": ""
+            "description": "A curated collection of rare tools and materials designed to upgrade cosmetic items to have more intricate details."
         },
         "xanthousGemstone": {
             "name": "Xanthous Gemstone",
-            "description": ""
+            "description": "A gem of brilliance that emits a mesmerizing radiance. You can't quite place its shape and form."
         },
         "masterworkKit": {
             "name": "Masterwork Kit",
