@@ -1,0 +1,252 @@
+{
+    "commodities": {
+        "lambaCloth": {
+            "name": "Lamba Cloth",
+            "description": ""
+        },
+        "uncutGarnet": {
+            "name": "Uncut Garnet",
+            "description": ""
+        },
+        "fineSeaPeopleRelic": {
+            "name": "Fine Sea People Relic",
+            "description": ""
+        },
+        "capitalSeaPeopleRelic": {
+            "name": "Capital Sea People Relic",
+            "description": ""
+        },
+        "cloves": {
+            "name": "Cloves",
+            "description": ""
+        },
+        "frankincense": {
+            "name": "Frankincense",
+            "description": ""
+        },
+        "uncutSapphire": {
+            "name": "Uncut Sapphire",
+            "description": ""
+        },
+        "fineFaraRelic": {
+            "name": "Fine Fara Relic",
+            "description": ""
+        },
+        "capitalFaraRelic": {
+            "name": "Capital Fara Relic",
+            "description": ""
+        },
+        "snuff": {
+            "name": "Snuff",
+            "description": ""
+        },
+        "ivory": {
+            "name": "Ivory",
+            "description": ""
+        },
+        "uncutDiamond": {
+            "name": "Uncut Diamond",
+            "description": ""
+        },
+        "fineUngwanaRelic": {
+            "name": "Fine Ungwana Relic",
+            "description": ""
+        },
+        "capitalUngwanaRelic": {
+            "name": "Capital Ungwana Relic",
+            "description": ""
+        },
+        "spice": {
+            "name": "Spice",
+            "description": ""
+        },
+        "batik": {
+            "name": "Batik",
+            "description": ""
+        },
+        "uncutRuby": {
+            "name": "Uncut Ruby",
+            "description": ""
+        },
+        "fineRempahRelic": {
+            "name": "Fine Rempah Relic",
+            "description": ""
+        },
+        "capitalRempahRelic": {
+            "name": "Capital Rempah Relic",
+            "description": ""
+        },
+        "ale": {
+            "name": "Ale",
+            "description": ""
+        },
+        "tobacco": {
+            "name": "Tobacco",
+            "description": ""
+        },
+        "ambergris": {
+            "name": "Ambergris",
+            "description": ""
+        },
+        "vanilla": {
+            "name": "Vanilla",
+            "description": ""
+        },
+        "wine": {
+            "name": "Wine",
+            "description": ""
+        },
+        "brandy": {
+            "name": "Brandy",
+            "description": ""
+        },
+        "ornatePistols": {
+            "name": "Ornate Pistols",
+            "description": ""
+        },
+        "militaryCompagnieRelic": {
+            "name": "Military Compagnie Relic",
+            "description": ""
+        },
+        "fineCompagnieRelic": {
+            "name": "Fine Compagnie Relic",
+            "description": ""
+        },
+        "basicCompagnieRelic": {
+            "name": "Basic Compagnie Relic",
+            "description": ""
+        },
+        "capitalCompagnieRelic": {
+            "name": "Capital Compagnie Relic",
+            "description": ""
+        },
+        "nutmeg": {
+            "name": "Nutmeg",
+            "description": ""
+        },
+        "cacao": {
+            "name": "Cacao",
+            "description": ""
+        },
+        "camphor": {
+            "name": "Camphor",
+            "description": ""
+        },
+        "gin": {
+            "name": "Gin",
+            "description": ""
+        },
+        "painting": {
+            "name": "Painting",
+            "description": ""
+        },
+        "militaryDmcRelic": {
+            "name": "Military DMC Relic",
+            "description": ""
+        },
+        "fineDmcRelic": {
+            "name": "Fine DMC Relic",
+            "description": ""
+        },
+        "capitalDmcRelic": {
+            "name": "Capital DMC Relic",
+            "description": ""
+        },
+        "rum": {
+            "name": "Rum",
+            "description": ""
+        },
+        "cannonPowder": {
+            "name": "Cannon Powder",
+            "description": ""
+        },
+        "firearms": {
+            "name": "Firearms",
+            "description": ""
+        },
+        "ginseng": {
+            "name": "Ginseng",
+            "description": ""
+        },
+        "jade": {
+            "name": "Jade",
+            "description": ""
+        },
+        "porcelain": {
+            "name": "Porcelain",
+            "description": ""
+        },
+        "poppy": {
+            "name": "Poppy",
+            "description": ""
+        },
+        "sugarCane": {
+            "name": "Sugar Cane",
+            "description": ""
+        },
+        "juniperBerries": {
+            "name": "Juniper Berries",
+            "description": ""
+        },
+        "tobaccoLeaves": {
+            "name": "Tobacco Leaves",
+            "description": ""
+        },
+        "rawImperialJade": {
+            "name": "Raw Imperial Jade",
+            "description": ""
+        },
+        "blackSnuff": {
+            "name": "Black Snuff",
+            "description": ""
+        },
+        "blueLotusOpium": {
+            "name": "Blue Lotus Opium",
+            "description": ""
+        },
+        "whiteSkullRum": {
+            "name": "White Skull Rum",
+            "description": ""
+        },
+        "whiteSkullGin": {
+            "name": "White Skull Gin",
+            "description": ""
+        },
+        "imperialJade": {
+            "name": "Imperial Jade",
+            "description": ""
+        },
+        "silverSnuff": {
+            "name": "Silver Snuff",
+            "description": ""
+        },
+        "blackLotusOpium": {
+            "name": "Black Lotus Opium",
+            "description": ""
+        },
+        "goldSkullRum": {
+            "name": "Gold Skull Rum",
+            "description": ""
+        },
+        "goldSkullGin": {
+            "name": "Gold Skull Gin",
+            "description": ""
+        },
+        "carvedImperialJade": {
+            "name": "Carved Imperial Jade",
+            "description": ""
+        },
+        "copperBars": {
+            "name": "Copper Bars",
+            "description": ""
+        },
+        "helmLeaseOpen": {
+            "name": "Helm Lease (Open)",
+            "description": ""
+        },
+        "crystalizedTaintedWood": {
+            "name": "Crystalized Tainted Wood",
+            "description": ""
+        }
+    }
+}
