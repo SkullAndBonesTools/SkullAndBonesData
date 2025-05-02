@@ -18,8 +18,6 @@ jobs:
           upload_sources: true
           upload_translations: false
           download_translations: false
-          source: languages/en/en_*.json
-          translation: languages/%two_letters_code%/%two_letters_code%_%original_file_name%
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
