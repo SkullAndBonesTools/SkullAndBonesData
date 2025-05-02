@@ -113,6 +113,14 @@ If you want to add to or update informations of the dataset, the general open so
 Which consits of creating a **Fork**, adding/updating the code in the forked repository and then creating a **Pull Request** in this repository to merge the changes of your fork into this one.
 
 
+## Sponsor
+### Crowdin
+Skull and Bones Data is, as part of the Skull and Bones Tools project, supported by Crowdin ❤️
+
+<img src="https://support.crowdin.com/assets/logos/symbol/png/crowdin-symbol-cDark.png" alt="Crowdin" style="max-height: 120px; width: auto;" />
+
+Allowing me to provide a direct integration into this github project, an overview of all translations and an easy way for everyone to participate in the translation of the project.
+
 ## Support
 For general questions or support of any kind you can use the official Skull and Bones Tools Discord (https://discord.gg/fTgvPxR7eR) or the support@skullandbonestools.de email.
 
