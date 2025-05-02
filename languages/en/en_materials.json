@@ -414,19 +414,19 @@
         },
         "eelsTwine": {
             "name": "Eels' Twine",
-            "description": ""
+            "description": "Sturdy strings woven by the Eels, useful in crafting Ballistas."
         },
         "wyrmsBreath": {
             "name": "Wyrm's Breath",
-            "description": ""
+            "description": "A highly flammable pitch and solvent for explosives concocted by the Wyrms."
         },
         "orcasMechanism": {
             "name": "Orcas' Mechanism",
-            "description": ""
+            "description": "A circular linchpin designed by the Orcas. Used in construction where high tension is required."
         },
         "gannetsSaltpeter": {
             "name": "Gannets' Saltpeter",
-            "description": ""
+            "description": "An immensely powerful chemical for gunpowder used in modern weapons, refined by the Gannets."
         },
         "dryCastingSand": {
             "name": "Dry Sand",
@@ -550,19 +550,19 @@
         },
         "eelSturdyRopes": {
             "name": "Eel Sturdy Ropes",
-            "description": ""
+            "description": "Made by weaving twine together and processing it with other materials. Known for its reliability and resilience."
         },
         "wyrmVolatileNapalm": {
             "name": "Wyrm Volatile Napalm",
-            "description": ""
+            "description": "A highly combustible fluid made from a long and complicated distillation process. A tiny spark can lead to mass destruction."
         },
         "orcaIntricateApparatus": {
             "name": "Orca Intricate Apparatus",
-            "description": ""
+            "description": "A system of complex mechanisms formed from gears and pieces. Put together, it achieves maximum efficiency."
         },
         "gannetDenseNiter": {
             "name": "Gannet Dense Niter",
-            "description": ""
+            "description": "Saltpeter refined further to achieve its purest state. Can be used as an ingredient for weapons and ammo."
         },
         "xanthousStone": {
             "name": "Xanthous Stone",
