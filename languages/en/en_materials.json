@@ -2,7 +2,7 @@
     "materials": {
         "silver": {
             "name": "Silver",
-            "description": "A precious metal used for crafting and trade. It is often used to create jewelry, coins, and other decorative items."
+            "description": "A very precious metal used for crafting and trade. It is often used to create jewelry, coins, and other decorative items."
         },
         "piecesOfEight": {
             "name": "Pieces of Eight",
