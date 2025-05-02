@@ -30,7 +30,7 @@ export class Item {
         public readonly season?: Season,
         public readonly obtainable?: string | string[],
         public readonly event?: Event,
-        public readonly worldEvent?: WorldEvent,
+        public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
         public readonly contract?: string
@@ -39,7 +39,9 @@ export class Item {
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
         const event = rawData.event as keyof typeof Events;
-        const worldEvent = rawData.worldEvent as keyof typeof WorldEvents;
+        const worldEvent = Array.isArray(rawData.worldEvent)
+            ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
+            : WorldEvents[rawData.worldEvent as keyof typeof WorldEvents];
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if (required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
@@ -71,7 +73,7 @@ export class Item {
             rawData.season ? Seasons[season] : undefined,
             rawData.obtainable ?? undefined,
             rawData.event ? Events[event] : undefined,
-            rawData.worldEvent ? WorldEvents[worldEvent] : undefined,
+            worldEvent ?? undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
             rawData.contract ?? undefined

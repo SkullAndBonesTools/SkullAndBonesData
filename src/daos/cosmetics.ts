@@ -26,14 +26,16 @@ export class Cosmetic {
         public readonly requiredRank?: string,
         public readonly bounty?: string,
         public readonly event?: Event,
-        public readonly worldEvent?: WorldEvent
+        public readonly worldEvent?: WorldEvent | WorldEvent[]
     ) {}
 
     public static fromRawData(rawData: any): Cosmetic {
         const season = rawData.season as keyof typeof Seasons;
         const set = rawData.set as keyof typeof Sets;
         const event = rawData.event as keyof typeof Events;
-        const worldEvent = rawData.worldEvent as keyof typeof WorldEvents;
+        const worldEvent = Array.isArray(rawData.worldEvent)
+            ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
+            : WorldEvents[rawData.worldEvent as keyof typeof WorldEvents];
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if(required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
@@ -60,7 +62,7 @@ export class Cosmetic {
             rawData.requiredRank ?? undefined,
             rawData.bounty ?? undefined,
             rawData.event ? Events[event] : undefined,
-            rawData.worldEvent ? WorldEvents[worldEvent] : undefined
+            worldEvent ?? undefined
         );
     }
 
