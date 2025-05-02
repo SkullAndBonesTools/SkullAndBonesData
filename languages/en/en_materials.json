@@ -134,11 +134,11 @@
         },
         "crudeSaltpeter": {
             "name": "Crude Saltpeter",
-            "description": ""
+            "description": "Natural, muddy agent that is critical for gunpowder."
         },
         "shellac": {
             "name": "Shellac",
-            "description": ""
+            "description": "Coating agent for wooden structures."
         },
         "rustyNail": {
             "name": "Rusty Nail",
@@ -178,7 +178,7 @@
         },
         "lime": {
             "name": "Lime",
-            "description": ""
+            "description": "A strong building material which can be molded into bricks and mortar."
         },
         "nickel": {
             "name": "Nickel",
@@ -202,7 +202,7 @@
         },
         "castingSand": {
             "name": "Casting Sand",
-            "description": ""
+            "description": "Metal sand for casting shapes in a blacksmith's foundry."
         },
         "acaciaPlank": {
             "name": "Acacia Plank",
@@ -226,7 +226,7 @@
         },
         "screwMechanism": {
             "name": "Screw Mechanism",
-            "description": ""
+            "description": "A basic winding screw for binding metal and wood frames together."
         },
         "mopanePlank": {
             "name": "Mopane Plank",
@@ -238,11 +238,11 @@
         },
         "cogwheel": {
             "name": "Cogwheel",
-            "description": ""
+            "description": "Simple turning wheel that can be slotted into wooden supports."
         },
         "woodTar": {
             "name": "Wood Tar",
-            "description": ""
+            "description": "Crude water sealant for ships, sails, and everything on them."
         },
         "fineJute": {
             "name": "Fine Jute",
@@ -282,7 +282,7 @@
         },
         "sheetGlass": {
             "name": "Sheet Glass",
-            "description": ""
+            "description": "Thick glass for items that need sight-lines."
         },
         "fineHemp": {
             "name": "Fine Hemp",
@@ -402,15 +402,15 @@
         },
         "monstrousTooth": {
             "name": "Monstrous Tooth",
-            "description": ""
+            "description": "Yanked from the maw of a beast dubbed \"Jaws of Vengeance\" by the Ungwana."
         },
         "vengefulEssence": {
             "name": "Vengeful Essence",
-            "description": ""
+            "description": "An otherworldly fuel that releases constant waves of ominous energy. Touching it makes you feel as if you are being scorched by hellish flames, but they leave no trace on your skin after leaving your hands."
         },
         "etherealAshes": {
             "name": "Ethereal Ashes",
-            "description": ""
+            "description": "A mound of nearly translucent ash that pulses with a spectral glow. You are unable to feel the fine grains with your fingers, but they send an inexplicable chill down your spine."
         },
         "eelsTwine": {
             "name": "Eels' Twine",
@@ -430,19 +430,19 @@
         },
         "dryCastingSand": {
             "name": "Dry Sand",
-            "description": ""
+            "description": "casting sand that has been compacted to forge dense, heavy shapes."
         },
         "lacquer": {
             "name": "Lacquer",
-            "description": ""
+            "description": "A stronger mix of shellac that is used to bind wood together and waterproofing."
         },
         "woodPitch": {
             "name": "Wood Pitch",
-            "description": ""
+            "description": "A purified sealent for hulls, sails, and anything exposed to the ocean."
         },
         "plateGlass": {
             "name": "Plate Glass",
-            "description": ""
+            "description": "Sealed and sheeted glass, which forms a nearly shatterproof bond."
         },
         "sinewString": {
             "name": "Sinew String",
@@ -454,7 +454,7 @@
         },
         "lestarisSkin": {
             "name": "Lestari's Skin",
-            "description": ""
+            "description": "Tough hide hewn from the slain Lestari."
         },
         "hubacHeirloom": {
             "name": "Hubac Heirloom",
@@ -466,11 +466,11 @@
         },
         "blackAriaShipPart": {
             "name": "Black Aria Sword",
-            "description": ""
+            "description": "A broken part taken from Armand Hubac's Black Aria. Looks like a sword."
         },
         "whiteAriaShipPart": {
             "name": "White Aria Shield",
-            "description": ""
+            "description": "A part of Bertrand Hubac's White Aria flagship. Looks like a shield."
         },
         "cork": {
             "name": "Cork",
@@ -494,47 +494,47 @@
         },
         "zamaharibuScales": {
             "name": "Zamaharibu Scales",
-            "description": ""
+            "description": "The tough, leathery hide of a beast that's hard to kill and ferocious as a sea storm."
         },
         "quicklime": {
             "name": "Quicklime",
-            "description": ""
+            "description": "Purified from coarse lime, which is far quicker to act and bond to different surfaces."
         },
         "purifiedSaltpeter": {
             "name": "Purified Saltpeter",
-            "description": ""
+            "description": "A pure and potent form of Saltpeter known for its versatility and reliability. Remember to handle with care and respect."
         },
         "planetaryGearset": {
             "name": "Planetary Gearset",
-            "description": ""
+            "description": "A clock-like arrangement of cogwheels, common in construction of advanced turning mechanisms."
         },
         "wormDrive": {
             "name": "Worm Drive",
-            "description": ""
+            "description": "A compact gear system that translates rotations into smooth, precise movements."
         },
         "lightningDragonClaw": {
             "name": "Lightning Dragon Claw",
-            "description": ""
+            "description": "A claw left behind by a lightning dragon. It oozes electrifying energy even in a dormant state."
         },
         "lightningDragonScale": {
             "name": "Lightning Dragon Scale",
-            "description": ""
+            "description": "A magnificent scale left behind by a lightning dragon. It retains its radiance and luminosity even in a dormant state."
         },
         "phoenixBeak": {
             "name": "Phoenix Beak",
-            "description": ""
+            "description": "A broken piece from the ram of Li Tian Ning's flagship. Can be repurposed due to its incredible resilience."
         },
         "phoenixPinion": {
             "name": "Phoenix Pinion",
-            "description": ""
+            "description": "The studded sails from Li Tian Ning's flagship. It is capable of mending other objects due to its versatility."
         },
         "azureDragonHead": {
             "name": "Azure Dragon Head",
-            "description": ""
+            "description": "The head of a dragon from COmmander Zhang's flagship. Such a mighty beast beheaded signals the Emperor's coming wrath."
         },
         "plagueDust": {
             "name": "Plague Dust",
-            "description": ""
+            "description": "A sinister, powdery substance, infused with the essence of venom and malice."
         },
         "blightedFuel": {
             "name": "Blighted Fuel",
@@ -570,11 +570,11 @@
         },
         "putrefiedZamaharibuScale": {
             "name": "Putrefied Zamaharibu Scale",
-            "description": ""
+            "description": "Decayed scale of Zamaharibu. Gives off a putrid odor, with scars all over is surface. Possibly resurrected by a mysterious power."
         },
         "putrefiedLestariSkin": {
             "name": "Putrefied Lestari Skin",
-            "description": ""
+            "description": "Decayed hide of Lestari. Marked by wounds that refuse to heal. Possibly resurrected by a mysterious power."
         },
         "artisansRefinementPack": {
             "name": "Artisan's Refinement Pack",
