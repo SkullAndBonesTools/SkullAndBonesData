@@ -118,15 +118,15 @@
         },
         "tornSail": {
             "name": "Torn Sail",
-            "description": ""
+            "description": "A piece of cloth that was torn off from a sail. Requires Crowbar to harvest from shipwrecks."
         },
         "scavengedWood": {
             "name": "Scavenged Wood",
-            "description": ""
+            "description": "A piece of wood removed from a ship hull. Requires Crowbar to harvest from shipwrecks."
         },
         "metalSalvage": {
             "name": "Metal Salvage",
-            "description": ""
+            "description": "Sheet of metal that has been ripped from its ship hoardings. Requires Crowbar to harvest from shipwrecks."
         },
         "ironwoodPlank": {
             "name": "Ironwood Plank",
@@ -142,7 +142,7 @@
         },
         "rustyNail": {
             "name": "Rusty Nail",
-            "description": ""
+            "description": "Pieces of nails that have rusted. Requires Crowbar to harvest from shipwrecks."
         },
         "copper": {
             "name": "Copper",
@@ -278,7 +278,7 @@
         },
         "brokenPlank": {
             "name": "Broken Plank",
-            "description": ""
+            "description": "A piece of wood that has come loose from a hull. Requires Crowbar to harvest from shipwrecks."
         },
         "sheetGlass": {
             "name": "Sheet Glass",
