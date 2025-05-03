@@ -38,75 +38,75 @@
         },
         "coconut": {
             "name": "Coconut",
-            "description": ""
+            "description": "A stranded-island staple."
         },
         "fish": {
             "name": "Fish",
-            "description": ""
+            "description": "Mild flavor with a soft texture."
         },
         "ndizi": {
             "name": "Ndizi",
-            "description": ""
+            "description": "Popular for its sweet taste, those used for cooking are often called plantains."
         },
         "crocodileMeat": {
             "name": "Crocodile Meat",
-            "description": ""
+            "description": "Barely edible if eaten raw."
         },
         "primeCrocodileMeat": {
             "name": "Prime Crocodile Meat",
-            "description": ""
+            "description": "Best cut of meat from a Crocodile."
         },
         "sharkMeat": {
             "name": "Shark Meat",
-            "description": ""
+            "description": "Strong, sour smell. Would taste better cooked."
         },
         "rawMutton": {
             "name": "Raw Mutton",
-            "description": ""
+            "description": "Cooking the mutton will reduce its strongly bitter taste."
         },
         "rawChicken": {
             "name": "Raw Chicken",
-            "description": ""
+            "description": "Bland and viscous."
         },
         "flour": {
             "name": "Flour",
-            "description": ""
+            "description": "Crucial ingredient for many dishes."
         },
         "primeHippoMeat": {
             "name": "Prime Hippo Meat",
-            "description": ""
+            "description": "Best cut of meat from a Hippo."
         },
         "screwpine": {
             "name": "Screwpine",
-            "description": ""
+            "description": "The fruit can be boiled and ground into an edible, highly nutritious paste."
         },
         "rawBeef": {
             "name": "Raw Beef",
-            "description": ""
+            "description": "Would taste better cooked."
         },
         "rawVegetables": {
             "name": "Raw Vegetables",
-            "description": ""
+            "description": "Plain and unassuming."
         },
         "hippoMeat": {
             "name": "Hippo Meat",
-            "description": ""
+            "description": "Bitter flavor and strong texture."
         },
         "waterFlask": {
             "name": "Water Flask",
-            "description": ""
+            "description": "Essential drink for a pirate."
         },
         "waterBarrel": {
             "name": "Water Barrel",
-            "description": ""
+            "description": "Refreshing drinking water."
         },
         "durian": {
             "name": "Durian",
-            "description": ""
+            "description": "A large fruit with a strong odor and covered with thorns."
         },
         "tylosaurusFlesh": {
             "name": "Tylosaurus Flesh",
-            "description": ""
+            "description": "The meat of a beast that stalks the African Coast, feasting on unfortunate seafarers."
         },
         "pureIron": {
             "name": "Pure Iron",
@@ -390,15 +390,15 @@
         },
         "repairKit1": {
             "name": "Repair Kit I",
-            "description": ""
+            "description": "Mends a minimal amount of the ship's hull."
         },
         "repairKit2": {
             "name": "Repair Kit II",
-            "description": ""
+            "description": "Mends a modest amount of the ship's hull."
         },
         "repairKit3": {
             "name": "Repair Kit III",
-            "description": ""
+            "description": "Mends a moderate amount of the ship's hull."
         },
         "monstrousTooth": {
             "name": "Monstrous Tooth",
@@ -482,7 +482,7 @@
         },
         "lestarisMeat": {
             "name": "Lestari's Meat",
-            "description": ""
+            "description": "Meat obtained from the sea monster Lestari."
         },
         "jadeDragon": {
             "name": "Jade Dragon",
@@ -566,7 +566,7 @@
         },
         "xanthousStone": {
             "name": "Xanthous Stone",
-            "description": ""
+            "description": "A luminous golden shard that pulses with a spectral glow. You can almost hear faint echoes and voices up close."
         },
         "putrefiedZamaharibuScale": {
             "name": "Putrefied Zamaharibu Scale",
