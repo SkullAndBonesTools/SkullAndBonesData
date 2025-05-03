@@ -474,11 +474,11 @@
         },
         "cork": {
             "name": "Cork",
-            "description": ""
+            "description": "Left over from Yanita's concoctions. Highly valuable to some."
         },
         "ice": {
             "name": "Ice",
-            "description": ""
+            "description": "A tropical wonder that's cold to the touch."
         },
         "lestarisMeat": {
             "name": "Lestari's Meat",
@@ -486,7 +486,7 @@
         },
         "jadeDragon": {
             "name": "Jade Dragon",
-            "description": ""
+            "description": "An ornate token that can be used in the store for a special occasion."
         },
         "naphtha": {
             "name": "Naphtha",
