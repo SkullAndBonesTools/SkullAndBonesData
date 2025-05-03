@@ -178,67 +178,67 @@
         },
         "poppy": {
             "name": "Poppy",
-            "description": ""
+            "description": "Refined into Blue Lotus Opium at the laboratory in Telok Penjarah."
         },
         "sugarCane": {
             "name": "Sugar Cane",
-            "description": ""
+            "description": "Refines into White Skull Rum in Sainte-Anne's Helm office."
         },
         "juniperBerries": {
             "name": "Juniper Berries",
-            "description": ""
+            "description": "Refined into White Skull Gin in Sainte-Anne's Helm office."
         },
         "tobaccoLeaves": {
             "name": "Tobacco Leaves",
-            "description": ""
+            "description": "Refined into Black Snuff in Telok Penjarah's Helm office."
         },
         "rawImperialJade": {
             "name": "Raw Imperial Jade",
-            "description": ""
+            "description": "A raw form of Imperial Jade, a valuable piece of contraband from the East. Refines into Imperial Jade at the Telok Penjarah Office."
         },
         "blackSnuff": {
             "name": "Black Snuff",
-            "description": ""
+            "description": "High-quality black snuff refined from Tobacco Leaves by Helm members."
         },
         "blueLotusOpium": {
             "name": "Blue Lotus Opium",
-            "description": ""
+            "description": "High-quality opium refined from Poppy by the Helm members."
         },
         "whiteSkullRum": {
             "name": "White Skull Rum",
-            "description": ""
+            "description": "High-quality white rum refined from Sugar Cane by the Helm members."
         },
         "whiteSkullGin": {
             "name": "White Skull Gin",
-            "description": ""
+            "description": "High-quality white gin refined from Juniper Berries by the Helm members."
         },
         "imperialJade": {
             "name": "Imperial Jade",
-            "description": ""
+            "description": "Imperial Jade is a precious, highly valuable form of jade from the Far East, also known as the Middle Kingdom."
         },
         "silverSnuff": {
             "name": "Silver Snuff",
-            "description": ""
+            "description": "The highest-quality white snuff obtainable from Black Snuff by Helm members."
         },
         "blackLotusOpium": {
             "name": "Black Lotus Opium",
-            "description": ""
+            "description": "The highest-quality opium obtainable from Blue Lotus Opium by Helm members."
         },
         "goldSkullRum": {
             "name": "Gold Skull Rum",
-            "description": ""
+            "description": "The highest-quality gold rum obtainable from White Skull Rum by Helm members."
         },
         "goldSkullGin": {
             "name": "Gold Skull Gin",
-            "description": ""
+            "description": "The highest-quality gold gin obtainable from White Skull Gin by Helm members."
         },
         "carvedImperialJade": {
             "name": "Carved Imperial Jade",
-            "description": ""
+            "description": "An artful carving of Imperial Jade from the East, coveted by collectors. Obtainable from Imperial Jade and members of the Helm."
         },
         "copperBars": {
-            "name": "Copper Bars",
-            "description": ""
+            "name": "Kupfer Bars",
+            "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
         },
         "helmLeaseOpen": {
             "name": "Helm Lease (Open)",
