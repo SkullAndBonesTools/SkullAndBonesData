@@ -130,7 +130,7 @@
         },
         "ironwoodPlank": {
             "name": "Ironwood Plank",
-            "description": ""
+            "description": "Flimsy, basic planks used to craft basic ships and equipment."
         },
         "crudeSaltpeter": {
             "name": "Crude Saltpeter",
@@ -150,7 +150,7 @@
         },
         "castIronIngot": {
             "name": "Cast Iron Ingot",
-            "description": ""
+            "description": "Sturdy but impure metal used to craft basic ships and equipment."
         },
         "acacia": {
             "name": "Acacia",
@@ -166,11 +166,11 @@
         },
         "cobaltIngot": {
             "name": "Cobalt Ingot",
-            "description": ""
+            "description": "Refined Cobalt ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
         },
         "teakPlank": {
             "name": "Teak Plank",
-            "description": ""
+            "description": "Incredibly strong wood used to craft the finest ships and equipment."
         },
         "iroko": {
             "name": "Iroko",
@@ -186,7 +186,7 @@
         },
         "steelIngot": {
             "name": "Steel Ingot",
-            "description": ""
+            "description": "Incredibly strong metal to craft the finest ships and equipment."
         },
         "cobalt": {
             "name": "Cobalt",
@@ -194,7 +194,7 @@
         },
         "irokoPlank": {
             "name": "Iroko Plank",
-            "description": ""
+            "description": "Stronger, pliable wood used to craft advanced ships and equipment."
         },
         "sisal": {
             "name": "Sisal",
@@ -206,11 +206,11 @@
         },
         "acaciaPlank": {
             "name": "Acacia Plank",
-            "description": ""
+            "description": "Flimsy, basic planks used to craft basic ships and equipment."
         },
         "nickelIngot": {
             "name": "Nickel Ingot",
-            "description": ""
+            "description": "Refined Nickel ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
         },
         "bogIron": {
             "name": "Bog Iron",
@@ -218,11 +218,11 @@
         },
         "juniperPlank": {
             "name": "Juniper Plank",
-            "description": ""
+            "description": "Stronger, pliable wood used to craft advanced ships and equipment."
         },
         "fineAbaka": {
             "name": "Fine Abaka",
-            "description": ""
+            "description": "Refined fabric from Abaka plants. It is used in crafting ships, weapons, and furniture."
         },
         "screwMechanism": {
             "name": "Screw Mechanism",
@@ -230,11 +230,11 @@
         },
         "mopanePlank": {
             "name": "Mopane Plank",
-            "description": ""
+            "description": "Wood planks used to craft basic ships and equipment."
         },
         "fineLinen": {
             "name": "Fine Linen",
-            "description": ""
+            "description": "Flexible and smooth fabric used to craft advanced ships and equipment."
         },
         "cogwheel": {
             "name": "Cogwheel",
@@ -246,15 +246,15 @@
         },
         "fineJute": {
             "name": "Fine Jute",
-            "description": ""
+            "description": "Flexible but ugly fabric used to craft basic ships and equipment."
         },
         "fineSisal": {
             "name": "Fine Sisal",
-            "description": ""
+            "description": "Refined fabric from Sisal plants. It is used in crafting ships, weapons, and furniture."
         },
         "sharkLeather": {
             "name": "Shark Leather",
-            "description": ""
+            "description": "Very durable leather refined from Shark Skin. Can be used for crafting a variety of items."
         },
         "thickCrocodileHide": {
             "name": "Thick Crocodile Hide",
@@ -262,7 +262,7 @@
         },
         "thickCrocodileLeather": {
             "name": "Thick Crocodile Leather",
-            "description": ""
+            "description": "Extremely strong and sturdy leather refined from Thick Crocodile Skin. Can be used for crafting a variety of items."
         },
         "crocodileHide": {
             "name": "Crocodile Hide",
@@ -270,11 +270,11 @@
         },
         "crocodileLeather": {
             "name": "Crocodile Leather",
-            "description": ""
+            "description": "Highly strong and sturdy leather refined from Crocodile Skin. Can be used for crafting a variety of items."
         },
         "zincIngot": {
             "name": "Zinc Ingot",
-            "description": ""
+            "description": "Refined Zinc ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
         },
         "brokenPlank": {
             "name": "Broken Plank",
@@ -286,7 +286,7 @@
         },
         "fineHemp": {
             "name": "Fine Hemp",
-            "description": ""
+            "description": "Incredibly strong fabric used to craft the finest ships and equipment."
         },
         "hippoHide": {
             "name": "Hippo Hide",
@@ -294,15 +294,15 @@
         },
         "hippoLeather": {
             "name": "Hippo Leather",
-            "description": ""
+            "description": "Incredibly tough leather refined from Hippo Skin. Can be used for crafting a variety of items."
         },
         "greenheartPlank": {
             "name": "Greenheart Plank",
-            "description": ""
+            "description": "Incredibly strong wood used to craft advanced ships and equipment."
         },
         "roselleCloth": {
             "name": "Roselle Cloth",
-            "description": ""
+            "description": "Incredibly strong fabric used to craft the finest ships and equipment."
         },
         "precisionDrillingBit": {
             "name": "Precision Drilling Bit",
@@ -318,7 +318,7 @@
         },
         "fineRamie": {
             "name": "Fine Ramie",
-            "description": ""
+            "description": "Refined fabric from ramie plants. It is used in crafting ships, weapons, and furniture."
         },
         "ramie": {
             "name": "Ramie",
@@ -346,7 +346,7 @@
         },
         "apexCrocodileLeather": {
             "name": "Apex Crocodile Leather",
-            "description": ""
+            "description": "Strong and sturdy leather refined from Apex Crocodile Skin. Can be used for crafting a variety of items."
         },
         "apexHippoHide": {
             "name": "Apex Hippo Hide",
@@ -354,7 +354,7 @@
         },
         "apexHippoLeather": {
             "name": "Apex Hippo Leather",
-            "description": ""
+            "description": "Durable leather refined from Apex Hippo Skin. Can be used for crafting a variety of items."
         },
         "rubber": {
             "name": "Rubber",
@@ -366,7 +366,7 @@
         },
         "magnetiteIngot": {
             "name": "Magnetite Ingot",
-            "description": ""
+            "description": "Incredibly strong metal to craft the finest ships and equipment."
         },
         "mopane": {
             "name": "Mopane",
@@ -382,7 +382,7 @@
         },
         "bronzeIngot": {
             "name": "Bronze Ingot",
-            "description": ""
+            "description": "Stronger, heavier metal used to craft advanced ships and equipment."
         },
         "zinc": {
             "name": "Zinc",
