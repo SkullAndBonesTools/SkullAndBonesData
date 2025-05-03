@@ -32,7 +32,7 @@ This represents the SnB game version Y2S1.2.X
 
 ## How to Use
 ### Raw Data
-You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/master/data) folder.
+You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/data) folder.
 
 ### Package
 Based on the raw data is the `snbdata` npm package available, featuring access to the data as objects with type safety and autocompletion.
@@ -92,6 +92,12 @@ lastUpdated: 2024-03-30
 set: ashenCorsair
 obtainable: premiumEdition
 ```
+
+### Translation
+You can find the english translation of the data in the [languages](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/languages/en) folder.\
+The translations for other languages can currently be found on [Crowdin](#adding-translations-for-the-data).
+
+*It is planned that at some point the translations will also be present as files in the languages folder.*
 
 ## History
 The data available in the repository was originally put together for [Skull and Bones Tools](https://skullandbonestools.de) and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
