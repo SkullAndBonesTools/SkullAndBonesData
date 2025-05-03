@@ -110,11 +110,11 @@
         },
         "pureIron": {
             "name": "Pure Iron",
-            "description": ""
+            "description": "Metal ore that contains much greater amounts of iron."
         },
         "ironwood": {
             "name": "Ironwood",
-            "description": ""
+            "description": "One of the hardest and heaviest woods."
         },
         "tornSail": {
             "name": "Torn Sail",
@@ -146,7 +146,7 @@
         },
         "copper": {
             "name": "Copper",
-            "description": ""
+            "description": "Reddish, malleable metal that has a variety of uses."
         },
         "castIronIngot": {
             "name": "Cast Iron Ingot",
@@ -154,7 +154,7 @@
         },
         "acacia": {
             "name": "Acacia",
-            "description": ""
+            "description": "A durable and rot-resistant wood."
         },
         "sharkSkin": {
             "name": "Shark Skin",
@@ -162,7 +162,7 @@
         },
         "jute": {
             "name": "Jute",
-            "description": ""
+            "description": "A soft, shiny fiber that has a variety of uses."
         },
         "cobaltIngot": {
             "name": "Cobalt Ingot",
@@ -174,7 +174,7 @@
         },
         "iroko": {
             "name": "Iroko",
-            "description": ""
+            "description": "A type of wood believed to have healing properties."
         },
         "lime": {
             "name": "Lime",
@@ -182,7 +182,7 @@
         },
         "nickel": {
             "name": "Nickel",
-            "description": ""
+            "description": "Lustrous silver metal that is corrosion resistant."
         },
         "steelIngot": {
             "name": "Steel Ingot",
@@ -190,7 +190,7 @@
         },
         "cobalt": {
             "name": "Cobalt",
-            "description": ""
+            "description": "Rare metal used since ancient times to add a blue tinge to glass and ceramics."
         },
         "irokoPlank": {
             "name": "Iroko Plank",
@@ -198,7 +198,7 @@
         },
         "sisal": {
             "name": "Sisal",
-            "description": ""
+            "description": "A stiff, saltwater-resistant fiber that is very durable."
         },
         "castingSand": {
             "name": "Casting Sand",
@@ -214,7 +214,7 @@
         },
         "bogIron": {
             "name": "Bog Iron",
-            "description": ""
+            "description": "Iron ore typically found in low-lying areas."
         },
         "juniperPlank": {
             "name": "Juniper Plank",
@@ -310,11 +310,11 @@
         },
         "greenheart": {
             "name": "Greenheart",
-            "description": ""
+            "description": "Olive-colored wood resistant to rot and insect attacks."
         },
         "roselle": {
             "name": "Roselle",
-            "description": ""
+            "description": "Fiber that has a high strength-to-weight ratio."
         },
         "fineRamie": {
             "name": "Fine Ramie",
@@ -322,23 +322,23 @@
         },
         "ramie": {
             "name": "Ramie",
-            "description": ""
+            "description": "A strong, absorbent textile made from the fibers of the flax plant."
         },
         "teak": {
             "name": "Teak",
-            "description": ""
+            "description": "A type o f wood known for its durability and water resistance."
         },
         "hemp": {
             "name": "Hemp",
-            "description": ""
+            "description": "One of the first plants to be turned into usable fiber."
         },
         "abaka": {
             "name": "Abaka",
-            "description": ""
+            "description": "Hard fiber obtained from a species of banana plant."
         },
         "juniper": {
             "name": "Juniper",
-            "description": ""
+            "description": "A type of wood extremely strong for its weight."
         },
         "apexCrocodileHide": {
             "name": "Apex Crocodile Hide",
@@ -362,7 +362,7 @@
         },
         "magnetite": {
             "name": "Magnetite",
-            "description": ""
+            "description": "Iron ore that led to the discovery of magnetism in ancient times."
         },
         "magnetiteIngot": {
             "name": "Magnetite Ingot",
@@ -370,11 +370,11 @@
         },
         "mopane": {
             "name": "Mopane",
-            "description": ""
+            "description": "Exceptionally tough and dense wood."
         },
         "linen": {
             "name": "Linen",
-            "description": ""
+            "description": "A strong, absorbent textile made from the fibers of the flax plant."
         },
         "torsionSpring": {
             "name": "Torsion Spring",
@@ -386,7 +386,7 @@
         },
         "zinc": {
             "name": "Zinc",
-            "description": ""
+            "description": "Rare metal used since ancient times for alloying."
         },
         "repairKit1": {
             "name": "Repair Kit I",
