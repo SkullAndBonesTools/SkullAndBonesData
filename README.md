@@ -121,7 +121,7 @@ Which consits of creating a **Fork**, adding/updating the code in the forked rep
 
 ## Sponsor
 ### Crowdin
-Skull and Bones Data is, as part of the Skull and Bones Tools project, supported by Crowdin ❤️
+Skull and Bones Data is, as part of the Skull and Bones Tools project, supported by Crowdin 💚
 
 [![Crowdin](/assets/crowdin-logo-dark.png)](https://crowdin.com/)
 
