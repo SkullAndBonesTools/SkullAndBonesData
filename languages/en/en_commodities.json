@@ -154,27 +154,27 @@
         },
         "rum": {
             "name": "Rum",
-            "description": ""
+            "description": "Distilled from sugarcane molasses. Truly the pirate's drink of choice. Imported by Scurlock to be traded in the region."
         },
         "cannonPowder": {
             "name": "Cannon Powder",
-            "description": ""
+            "description": "The sheer explosive power of this chemical concoction means your enemies won't just be leaving with a bruised ego. Imported by Scurlock to be traded in the region."
         },
         "firearms": {
             "name": "Firearms",
-            "description": ""
+            "description": "A cache of illegally procured weapons to bolster any pirate's arsenal. Imported by Scurlock to be traded in the region."
         },
         "ginseng": {
             "name": "Ginseng",
-            "description": ""
+            "description": "One of the most famous herbs in the world. Often used by Rahma for its medicinal benefits. Imported by Rahma to be traded in the region."
         },
         "jade": {
             "name": "Jade",
-            "description": ""
+            "description": "Prized mineral from the East, Jade is worn as jewelry and ornaments in certain cultures. Imported by Rahma to be traded in the region."
         },
         "porcelain": {
             "name": "Porcelain",
-            "description": ""
+            "description": "Priceless ceramic artifacts originating from the Far East. Imported by Rahma to be traded in the region."
         },
         "poppy": {
             "name": "Poppy",
