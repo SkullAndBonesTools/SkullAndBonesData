@@ -2,79 +2,79 @@
     "commodities": {
         "lambaCloth": {
             "name": "Lamba Cloth",
-            "description": ""
+            "description": "Traditional garment from the Red Isle. Has value to the right buyer. Produced by the Sea People to be traded in the region."
         },
         "uncutGarnet": {
             "name": "Uncut Garnet",
-            "description": ""
+            "description": "A deep maroon hints at its value. It is prized as a gem by many. Produced by the Sea People to be exported from the region."
         },
         "fineSeaPeopleRelic": {
             "name": "Fine Sea People Relic",
-            "description": ""
+            "description": "A precious article from the Sea People. They could be sold for a good amount of silver."
         },
         "capitalSeaPeopleRelic": {
             "name": "Capital Sea People Relic",
-            "description": ""
+            "description": "An invaluable article from the Sea People. They could be sold for a huge amount of silver."
         },
         "cloves": {
             "name": "Cloves",
-            "description": ""
+            "description": "Cloves are dried flower buds used both as a spice and a medicinal ingredient. Produced and traded by the Fara in the region of the Red Isle."
         },
         "frankincense": {
             "name": "Frankincense",
-            "description": ""
+            "description": "An aromatic resin obtained from a shrub that grows in the region of the Arabian Straits. It is burnt in various rituals, both in the East and West. Produced by the Fara to be exported out of the region."
         },
         "uncutSapphire": {
             "name": "Uncut Sapphire",
-            "description": ""
+            "description": "A crude, valuable blue gem that can be found in the Red Isle. Unearthed by the Fara for trades beyond the Indian Ocean."
         },
         "fineFaraRelic": {
             "name": "Fine Fara Relic",
-            "description": ""
+            "description": "A precious article from the Fara. They could be sold for a good amount of silver."
         },
         "capitalFaraRelic": {
             "name": "Capital Fara Relic",
-            "description": ""
+            "description": "An invaluable article from the Fara. They could be sold for a huge amount of silver."
         },
         "snuff": {
             "name": "Snuff",
-            "description": ""
+            "description": "In the hands of a connoisseur, it brings joy for its flavor. produced by the Ungwana to be traded in the region."
         },
         "ivory": {
             "name": "Ivory",
-            "description": ""
+            "description": "A priceless commodity prized by artisans for its beauty and range of items that can be crafted from it. Produced by the Ungwana to be exported out of the region."
         },
         "uncutDiamond": {
             "name": "Uncut Diamond",
-            "description": ""
+            "description": "Prized by many, this commodity is valued for its beauty and price in the hands of the right person. Produced by the Ungwana to be exported out of the region."
         },
         "fineUngwanaRelic": {
             "name": "Fine Ungwana Relic",
-            "description": ""
+            "description": "A precious article from the Ungwana. They could be sold for a good amount of silver."
         },
         "capitalUngwanaRelic": {
             "name": "Capital Ungwana Relic",
-            "description": ""
+            "description": "An invaluable article from the Ungwana. They could be sold for a huge amount of silver."
         },
         "spice": {
             "name": "Spice",
-            "description": ""
+            "description": "Ground spices highly valued for its culinary and medical utility. Wars have been fought over them. Produced by the Rempah to be exported from the region."
         },
         "batik": {
             "name": "Batik",
-            "description": ""
+            "description": "Intricate dyed cloth manufactured by the Rempah. Produced to be traded in the region."
         },
         "uncutRuby": {
             "name": "Uncut Ruby",
-            "description": ""
+            "description": "An unprocessed gem of fire red to be fitted into the cane of a nobleman or the ring of a Kingpin. Produced by the Rempah to be exported from the region."
         },
         "fineRempahRelic": {
             "name": "Fine Rempah Relic",
-            "description": ""
+            "description": "A precious article from the Rempah. They could be sold for a good amount of silver."
         },
         "capitalRempahRelic": {
             "name": "Capital Rempah Relic",
-            "description": ""
+            "description": "An invaluable article from the Rempah. They could be sold for a huge amount of silver."
         },
         "ale": {
             "name": "Ale",
