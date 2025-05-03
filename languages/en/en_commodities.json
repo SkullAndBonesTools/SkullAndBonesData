@@ -78,79 +78,79 @@
         },
         "ale": {
             "name": "Ale",
-            "description": ""
+            "description": "More stuff to make people drunk. A pirate's favorite drink."
         },
         "tobacco": {
             "name": "Tobacco",
-            "description": ""
+            "description": "Dried leaves from a plant in the West Indies. Highly addictive, it is smoked, chewed, or snuffed as a leisure drug, and mistakenly considered beneficial for health. Produced by the Compagnie to be exported out of the region."
         },
         "ambergris": {
             "name": "Ambergris",
-            "description": ""
+            "description": "Found ashore or floating at sea near the Red Isle, ambergris is a fragrant substance used in perfumery and a byproduct of digesting giant squids by sperm whales. Produced  by the Compagnie to be exported out of the region."
         },
         "vanilla": {
             "name": "Vanilla",
-            "description": ""
+            "description": "A sweet spice for flavoring and medicine. Produced by the Compagnie to be exported out of the region."
         },
         "wine": {
             "name": "Wine",
-            "description": ""
+            "description": "A classic alcoholic beverage made from fermented grapes and enjoyed by people from all continents. Imported by the Compagnie to be traded in the region."
         },
         "brandy": {
             "name": "Brandy",
-            "description": ""
+            "description": "A strong liquor distilled from wine and aged in wooden casks, which give it a distinct flavor and scent. Imported by the Compagnie to be traded in the region."
         },
         "ornatePistols": {
             "name": "Ornate Pistols",
-            "description": ""
+            "description": "Pistols desirable for officers and pirates who like to be conspicuous with their wealth."
         },
         "militaryCompagnieRelic": {
             "name": "Military Compagnie Relic",
-            "description": ""
+            "description": "A fortification component from the Compagnie. They could be sold for a huge amount of silver."
         },
         "fineCompagnieRelic": {
             "name": "Fine Compagnie Relic",
-            "description": ""
+            "description": "A precious article from the Compagnie. They could be sold for a good amount of silver."
         },
         "basicCompagnieRelic": {
             "name": "Basic Compagnie Relic",
-            "description": ""
+            "description": "An article from the Compagnie. They could be sold for a decent amount of silver."
         },
         "capitalCompagnieRelic": {
             "name": "Capital Compagnie Relic",
-            "description": ""
+            "description": "An invaluable article from the Compagnie. They could be sold for a huge amount of silver."
         },
         "nutmeg": {
             "name": "Nutmeg",
-            "description": ""
+            "description": "The fruit of a rare tree that only grows in the islands of the East Indies. Nutmeg is a priceless spice produced by the DMC to be traded in the region."
         },
         "cacao": {
             "name": "Cacao",
-            "description": ""
+            "description": "A popular bean used in a variety of food and beverages, and imported from Europe. Has value to the right buyer. Produced by the DMC to be traded in the region."
         },
         "camphor": {
             "name": "Camphor",
-            "description": ""
+            "description": "A fragrant substance contained in the vapors from burning trees in the East Indies. It is used both in perfumery and as a medicinal ingredient. Produced by the DMC to be traded in the region."
         },
         "gin": {
             "name": "Gin",
-            "description": ""
+            "description": "Originally created as a medicinal liquor by monks and alchemists in Europe. Imported by the DMC to be traded in the region."
         },
         "painting": {
             "name": "Painting",
-            "description": ""
+            "description": "A beautiful oil canvas painting framed by mahogany. This will fetch the right price from the right buyer. Imported by the DMC to be traded in the region."
         },
         "militaryDmcRelic": {
             "name": "Military DMC Relic",
-            "description": ""
+            "description": "A fortification component from the DMC. They could be sold for a huge amount of silver."
         },
         "fineDmcRelic": {
             "name": "Fine DMC Relic",
-            "description": ""
+            "description": "A precious article from the DMC. They could be sold for a good amount of silver."
         },
         "capitalDmcRelic": {
             "name": "Capital DMC Relic",
-            "description": ""
+            "description": "An invaluable article from the DMC. They could be sold for a huge amount of silver."
         },
         "rum": {
             "name": "Rum",
