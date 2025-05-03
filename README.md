@@ -123,7 +123,7 @@ Which consits of creating a **Fork**, adding/updating the code in the forked rep
 ### Crowdin
 Skull and Bones Data is, as part of the Skull and Bones Tools project, supported by Crowdin ❤️
 
-![Crowdin](/assets/crowdin-logo-dark.png)
+[![Crowdin](/assets/crowdin-logo-dark.png)](https://crowdin.com/)
 
 Allowing me to provide a direct integration into this github project, an overview of all translations and an easy way for everyone to participate in the translation of the project.
 
