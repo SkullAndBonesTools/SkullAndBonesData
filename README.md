@@ -7,15 +7,6 @@ This repository hosts data for the several elements in the game like **Materials
 
 This project is also compliant with the Terms of Service of Skull and Bones and approved by Ubisoft, as the data was/is collected and written down by hand and not acquired in other ways. 
 
-As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
-- [ ] Extract data stored in translation files into own data files
-  - [x] Sets
-  - [x] Events
-  - [x] World Events
-  - [ ] Locations
-- [ ] Crowdin workflow integration
-- [x] npm packages with generated types for the different data (events, cosmetics, items, ...)
-
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
 The version schema of the release is tied to the Skull and Bones version the data represents and put together like so:\
