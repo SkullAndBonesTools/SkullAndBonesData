@@ -3380,6 +3380,7 @@
         "id": "repairKit1",
         "blueprint": "denSaintAnne",
         "type": "consumable",
+        "tier": 1,
         "weight": 10,
         "required": {
             "metalSalvage": 1,
@@ -3392,6 +3393,7 @@
         "id": "repairKit2",
         "requiredRank": "rover1",
         "type": "consumable",
+        "tier": 2,
         "blueprint": "outpostVoronaFalls",
         "weight": 30,
         "required": {
@@ -3405,6 +3407,7 @@
         "id": "repairKit3",
         "requiredRank": "brigand1",
         "type": "consumable",
+        "tier": 3,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3419,6 +3422,7 @@
         "id": "enhancedRepairKit1",
         "requiredRank": "marauder1",
         "type": "consumable",
+        "tier": 1,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
         "required": {
@@ -3431,6 +3435,7 @@
         "id": "enhancedRepairKit2",
         "requiredRank": "corsair1",
         "type": "consumable",
+        "tier": 2,
         "blueprint": "outpostKarstLookout",
         "weight": 150,
         "required": {
@@ -3443,6 +3448,7 @@
         "id": "enhancedRepairKit3",
         "requiredRank": "cutthroat1",
         "type": "consumable",
+        "tier": 3,
         "blueprint": "outpostGrandeFalaise",
         "weight": 250,
         "required": {
@@ -6102,6 +6108,11 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "fineAbaka": 10,
+            "juniperPlank": 10,
+            "orcasMechanism": 4,
+            "upgradeParts": 3,
+            "piecesOfEight": 5000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6120,6 +6131,12 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "fineAbaka": 15,
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "orcasMechanism": 4,
+            "upgradeParts": 4,
+            "piecesOfEight": 8000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6160,6 +6177,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "upgradeParts": 1,
+            "silver": 18000
         },
         "perks": ["hulkUpgrade1", "stationsUpgrade"],
         "dateAdded": "2024-06-11",
@@ -6171,6 +6190,8 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "upgradeParts": 2,
+            "silver": 25000
         },
         "perks": ["hulkUpgrade2"],
         "dateAdded": "2024-06-11",
@@ -6182,6 +6203,8 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "upgradeParts": 2,
+            "piecesOfEight": 1000
         },
         "perks": ["hulkUpgrade3", "bigGuns"],
         "dateAdded": "2024-06-11",
@@ -6193,6 +6216,8 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 3000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6212,6 +6237,8 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 5000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6231,6 +6258,8 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "upgradeParts": 4,
+            "piecesOfEight": 8000
         },
         "damageMitigation": {
             "explosive": 0.05,
@@ -6321,6 +6350,11 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "cobaltIngot": 20,
+            "woodTar": 7,
+            "cogwheel": 7,
+            "upgradeParts": 3,
+            "piecesOfEight": 3000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6340,6 +6374,8 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 5000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6359,6 +6395,8 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "upgradeParts": 4,
+            "piecesOfEight": 8000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6446,6 +6484,11 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "fineAbaka": 20,
+            "sheetGlass": 7,
+            "screwMechanism": 7,
+            "upgradeParts": 3,
+            "piecesOfEight": 3000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6465,6 +6508,8 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 5000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6484,6 +6529,8 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "upgradeParts": 4,
+            "piecesOfEight": 8000
         },
         "damageMitigation": {
             "explosive": 0,
@@ -6529,6 +6576,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "upgradeParts": 1,
+            "silver": 18000
         },
         "perks": ["sloopUpgrade1", "gunportsUpgrade"],
         "dateAdded": "2024-06-11",
@@ -6540,6 +6589,8 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "upgradeParts": 2,
+            "silver": 25000
         },
         "perks": ["sloopUpgrade2"],
         "dateAdded": "2024-06-11",
@@ -6551,6 +6602,8 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "upgradeParts": 2,
+            "piecesOfEight": 1000
         },
         "perks": ["sloopUpgrade3", "heavyArsenal"],
         "dateAdded": "2024-06-11",
@@ -6562,6 +6615,8 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 3000
         },
         "damageMitigation": {
             "explosive": 0.05,
@@ -6581,6 +6636,8 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "upgradeParts": 3,
+            "piecesOfEight": 5000
         },
         "damageMitigation": {
             "explosive": 0.10,
@@ -6600,6 +6657,8 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "upgradeParts": 4,
+            "piecesOfEight": 8000
         },
         "damageMitigation": {
             "explosive": 0.15,
@@ -7220,6 +7279,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "magnetiteIngot": 15,
+            "castingSand": 5,
+            "lime": 5,
+            "naphtha": 7,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -7241,6 +7304,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "magnetiteIngot": 10,
+            "roselleCloth": 10,
+            "plagueDust": 1,
+            "blightedFuel": 1,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },

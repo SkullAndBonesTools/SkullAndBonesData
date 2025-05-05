@@ -1,14 +1,15 @@
 import materialsData from "../../data/materials.json";
+import { MaterialCategory } from "../types/Category";
 import { Rarity } from "../types/Rarity";
 
 export class Material {
     id!: string;
     rarity!: Rarity;
-    category!: string;
+    category!: MaterialCategory;
     required?: Map<Material, number>;
     requiredRank?: string;
 
-    constructor(id: string, rarity: Rarity, category: string, requiredRank?: string) {
+    constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string) {
         this.id = id;
         this.rarity = rarity;
         this.category = category;
@@ -19,7 +20,7 @@ export class Material {
             return new Material(
                 key,
                 rawData.rarity,
-                rawData.category,
+                rawData.category as MaterialCategory,
                 rawData.requiredRank ?? undefined
             );
         }

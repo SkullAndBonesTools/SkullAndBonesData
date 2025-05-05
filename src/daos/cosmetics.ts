@@ -1,8 +1,11 @@
 import cosmeticsData from '../../data/cosmetics.json';
 import { Effect } from '../types/CosmeticProperties';
 import { Rarity } from '../types/Rarity';
+import { Event, Events } from './events';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
+import { Set, Sets } from './sets';
+import { WorldEvent, WorldEvents } from './worldEvents';
 
 export class Cosmetic {
     constructor(
@@ -12,7 +15,7 @@ export class Cosmetic {
         public readonly lastUpdated: string,
         public readonly rarity?: Rarity,
         public readonly tier?: number,
-        public readonly set?: string,
+        public readonly set?: Set,
         public readonly obtainable?: string | string[] | Array<string | string[]>,
         public readonly effect?: Effect | Effect[],
         public readonly season?: Season,
@@ -22,11 +25,17 @@ export class Cosmetic {
         public readonly required?: Map<Material, number>,
         public readonly requiredRank?: string,
         public readonly bounty?: string,
-        public readonly worldEvent?: string
+        public readonly event?: Event,
+        public readonly worldEvent?: WorldEvent | WorldEvent[]
     ) {}
 
     public static fromRawData(rawData: any): Cosmetic {
         const season = rawData.season as keyof typeof Seasons;
+        const set = rawData.set as keyof typeof Sets;
+        const event = rawData.event as keyof typeof Events;
+        const worldEvent = Array.isArray(rawData.worldEvent)
+            ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
+            : WorldEvents[rawData.worldEvent as keyof typeof WorldEvents];
         const required = rawData.required ? new Map<Material, number>() : undefined;
         if(required) {
             for (const [requiredKey, quantity] of Object.entries(rawData.required)) {
@@ -42,7 +51,7 @@ export class Cosmetic {
             rawData.lastUpdated,
             rawData.rarity as Rarity ?? undefined,
             rawData.tier ?? undefined,
-            rawData.set ?? undefined,
+            rawData.set ? Sets[set] : undefined,
             rawData.obtainable ?? undefined,
             rawData.effect ?? undefined,
             rawData.season ? Seasons[season] : undefined,
@@ -52,7 +61,8 @@ export class Cosmetic {
             required,
             rawData.requiredRank ?? undefined,
             rawData.bounty ?? undefined,
-            rawData.worldEvent ?? undefined
+            rawData.event ? Events[event] : undefined,
+            worldEvent ?? undefined
         );
     }
 

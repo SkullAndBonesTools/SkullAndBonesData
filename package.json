@@ -1,6 +1,6 @@
 {
   "name": "@skullandbonestools/snbdata",
-  "version": "5.0.7",
+  "version": "5.0.11",
   "description": "Inofficial data package for the Skull and Bones game by Ubisoft.",
   "keywords": [
     "ubisoft",
@@ -35,7 +35,7 @@
     "README.md",
     "LICENSE"
   ],
-  "dependencies": {
+  "devDependencies": {
     "typescript": "^5.8.3"
   }
 }

@@ -1,17 +1,11 @@
 # Skull and Bones Data
+[![GitHub Release](https://img.shields.io/github/v/release/SkullAndBonesTools/SkullAndBonesData?include_prereleases&sort=semver&display_name=release&style=for-the-badge&logo=github&labelColor=1f2328&color=aliceblue)](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases/latest) [![NPM Version](https://img.shields.io/npm/v/%40skullandbonestools%2Fsnbdata?style=for-the-badge&logo=npm&color=%23c60000&labelColor=1f2328)](https://www.npmjs.com/package/@skullandbonestools/snbdata) [![Crowdin](https://img.shields.io/badge/Crowdin-green?style=for-the-badge&logo=crowdin&labelColor=1f2328)](https://crowdin.com/project/skull-and-bones-tools)
 
 Welcome to the inofficial data repository for the Skull and Bones game by Ubisoft.
 
 This repository hosts data for the several elements in the game like **Materials**, **Items**, **Cosmetics** and more in a JSON format and provides a npm package to access the data in typescript and javascript.
 
-As the move to a public repository (see [History](#history)) includes several changes the following things are planned:
-- [ ] Extract data stored in translation files into own data files
-  - [x] Sets
-  - [x] Events
-  - [x] World Events
-  - [ ] Locations
-- [ ] Crowdin workflow integration
-- [x] npm packages with generated types for the different data (events, cosmetics, items, ...)
+This project is also compliant with the Terms of Service of Skull and Bones and approved by Ubisoft, as the data was/is collected and written down by hand and not acquired in other ways. 
 
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
@@ -29,7 +23,7 @@ This represents the SnB game version Y2S1.2.X
 
 ## How to Use
 ### Raw Data
-You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/master/data) folder.
+You can find the raw data files as JSON in the [data](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/data) folder.
 
 ### Package
 Based on the raw data is the `snbdata` npm package available, featuring access to the data as objects with type safety and autocompletion.
@@ -42,6 +36,7 @@ npm i @skullandbonestools/snbdata
 
 **Access the Data**
 
+**Ships**\
 Getting the season of the `Barque` (TS):
 ```typescript
 import { Ships } from "@skullandbonestools/snbdata";
@@ -51,6 +46,7 @@ const season:Season = Ships.barque.season; // Retrieves the season object for th
 console.log(season.id); // Returns ragingTides
 ```
 
+**Materials**\
 Getting the required materials for `Orca Intricate Apparatus` (JS):
 ```javascript
 import { Materials } from "@skullandbonestools/snbdata";
@@ -66,6 +62,33 @@ Id: torsionSpring - Required: planetaryGearset, woodPitch
 Id: planetaryGearset - Required: cogwheel
 Id: woodPitch - Required: woodTar
 ```
+
+**Cosmetics / Items**\
+Getting the `aBloodyPromise` sails emblem and printing all its properties.
+```javascript
+import { Cosmetics, Items } from '@skullandbonestools/snbdata';
+import { Cosmetic } from '@skullandbonestools/snbdata/dist/daos/cosmetics'; //TS type
+
+const aBloodyPromise = Cosmetics.aBloodyPromise; // Works the same for items e.g. Items.heydensGuard
+Object.entries(aBloodyPromise).forEach(([key, value]) => {
+  if(!value) return;
+  console.log(`${key}: ${value}`);
+});
+
+// Output
+id: aBloodyPromise
+type: sailsEmblem
+dateAdded: 2024-03-16
+lastUpdated: 2024-03-30
+set: ashenCorsair
+obtainable: premiumEdition
+```
+
+### Translation
+You can find the english translation of the data in the [languages](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/languages/en) folder.\
+The translations for other languages can currently be found on [Crowdin](#adding-translations-for-the-data).
+
+*It is planned that at some point the translations will also be present as files in the languages folder.*
 
 ## History
 The data available in the repository was originally put together for [Skull and Bones Tools](https://skullandbonestools.de) and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
@@ -86,6 +109,14 @@ You can find it here: https://crowdin.com/project/skull-and-bones-tools
 If you want to add to or update informations of the dataset, the general open source approach of a Pull Request is used.
 Which consits of creating a **Fork**, adding/updating the code in the forked repository and then creating a **Pull Request** in this repository to merge the changes of your fork into this one.
 
+
+## Sponsor
+### Crowdin
+Skull and Bones Data is, as part of the Skull and Bones Tools project, supported by Crowdin 💚
+
+[![Crowdin](/assets/crowdin-logo-dark.png)](https://crowdin.com/)
+
+Allowing me to provide a direct integration into this github project, an overview of all translations and an easy way for everyone to participate in the translation of the project.
 
 ## Support
 For general questions or support of any kind you can use the official Skull and Bones Tools Discord (https://discord.gg/fTgvPxR7eR) or the support@skullandbonestools.de email.
