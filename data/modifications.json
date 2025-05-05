@@ -517,5 +517,53 @@
         "range": [0.41, 0.55],
         "dropOnly": false,
         "grade": "special"
+    },
+    "providence": {
+        "id": "providence",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.232, 0.337],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
+    },
+    "jointSupply": {
+        "id": "jointSupply",
+        "itemType": ["longGun","cannon","mortar","bombard"],
+        "range": [0.29, 0.38],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
+    },
+    "preemptiveDefence": {
+        "id": "preemptiveDefence",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.049, 0.066],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
+    },
+    "empower": {
+        "id": "empower",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.033, 0.044],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
+    },
+    "longArmRepair": {
+        "id": "longArmRepair",
+        "itemType": ["longGun","cannon","mortar","bombard"],
+        "range": [0.41, 0.55],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
+    },
+    "winningStreakRepair": {
+        "id": "winningStreakRepair",
+        "itemType": ["longGun","cannon"],
+        "range": [0.21, 0.36],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "special"
     }
 }
