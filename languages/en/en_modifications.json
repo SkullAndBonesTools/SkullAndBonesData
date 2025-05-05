@@ -106,5 +106,128 @@
     "reinforcer": {
         "name": "Reinforcer",
         "description": "Hits also reduce the target's build up of the Punctured status effect by %s-%s%"
+    },
+    "brute": {
+        "name": "Brute",
+        "description": "Hits have a 16% chance to restore 285-385 Brace Strength to this ship"
+    },
+    "severity": {
+        "name": "Severity",
+        "description": "Hits have a 12% chance of dealing additional %s-%s% damage as Severe Damage"
+    },
+    "victorsRally": {
+        "name": "Victor's Rally",
+        "description": "Destroying a target restores %s-%s brace Strength to this ship"
+    },
+    "graceOfTheWinds": {
+        "name": "Grace of the Winds",
+        "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 5 times"
+    },
+    "lethal": {
+        "name": "Lethal",
+        "description": "Increases Weakpoint Damage by %s-%s%"
+    },
+    "energize": {
+        "name": "Energize",
+        "description": "Hits have a 16% chance to restore %s-%s% Crew Stamina to this ship"
+    },
+    "bloodthirst": {
+        "name": "Bloodthirst",
+        "description": "Destroying a target restores %s-%s% Crew Stamina to this ship"
+    },
+    "raider": {
+        "name": "Raider",
+        "description": "Increases build-up of the Vulnerable status effect by %s-%s%"
+    },
+    "deathblow": {
+        "name": "Deathblow",
+        "description": [
+            "For targets with 25% Hull Health or less, hits have a %s-%s% chance to instantly destroy them",
+            "For Elite targets, the effect reduces remaining Hull Health by 3% instead of instant destruction"
+        ]
+    },
+    "repairReadiness": {
+        "name": "Repair Readiness",
+        "description": "Hits have a %s-%s% chance to reduce any repair kit cooldown by 3 seconds"
+    },
+    "precisePatchwork": {
+        "name": "Precise Patchwork",
+        "description": "Destroying a weakpoint restores %s-%s Severe Damage to this ship"
+    },
+    "amplifiedBurning": {
+        "name": "Amplified Burning",
+        "description": "Increases existing Burning Damage by %s-%s%"
+    },
+    "siege": {
+        "name": "Siege",
+        "description": "Increases damage to structures by %s-%s%"
+    },
+    "restoreReadiness": {
+        "name": "Restore Readiness",
+        "description": "Hits have a %s-%s% chance to reduce Restoration Kit cooldown by 3 seconds"
+    },
+    "amplifiedPiercing": {
+        "name": "Amplified Piercing",
+        "description": "Increases existing Piercing Damage by %s-%s%"
+    },
+    "amplifiedElectric": {
+        "name": "Amplified Electric",
+        "description": "Increases existing Electric Damage by %s-%s%"
+    },
+    "amplifiedExplosive": {
+        "name": "Amplified Explosive",
+        "description": "Increases existing Explosive Damage by %s-%s%"
+    },
+    "amplifiedFlooding": {
+        "name": "Amplified Flooding",
+        "description": "Increases existing Flooding Damage by %s-%s%"
+    },
+    "tearing": {
+        "name": "Tearing",
+        "description": "Increases damage by %s-%s% when hitting sails"
+    },
+    "roar": {
+        "name": "Roar",
+        "description": "%s-%s% of base damage builds up the Taunted status effect on targets"
+    },
+    "soulMending": {
+        "name": "Soul Mending",
+        "description": "%s-%s% of damage dealt by this weapon restores Hull Health"
+    },
+    "blastRange": {
+        "name": "Blast Range",
+        "description": "Increases Blast Radius by %s-%s%"
+    },
+    "durableBuoys": {
+        "name": "Durable Buoys",
+        "description": "Increases Operation Time of buoys by %s-%s%"
+    },
+    "hardyBuoys": {
+        "name": "Hardy Buoys",
+        "description": "Increases Buoy Health by %s-%s%"
+    },
+    "restorative": {
+        "name": "Restorative",
+        "description": "%s-%s% of Repair Amount also restores Severe Damage"
+    },
+    "invigorate": {
+        "name": "Invigorate",
+        "description": "%s-%s% of Repair Amount also restores Crew Stamina"
+    },
+    "tranquility": {
+        "name": "Tranquility",
+        "description": "Hits also reduce the target's build up of the Taunted status effect by %s-%s%"
+    },
+    "sailorsRespite": {
+        "name": "Sailor's Respite",
+        "description": "Hits have a 7% chance to repair target for %s-%s% the amount"
+    },
+    "strengthen": {
+        "name": "Strengthen",
+        "description": "%s-%s% of Repair Amount also restores target's Brace Strength"
+    },
+    "sailMender": {
+        "name": "Sail Mender",
+        "description": "Hits also reduce the target's build up of the Torn Sails status effect by %s-%s%"
     }
 }
