@@ -229,5 +229,78 @@
     "sailMender": {
         "name": "Sail Mender",
         "description": "Hits also reduce the target's build up of the Torn Sails status effect by %s-%s%"
+    },
+    "secondStorm": {
+        "name": "Second Storm",
+        "description": [
+            "All Electric Damage dealt by this weapon is also dealt to a nearby target",
+            "Adds %s-%s% damage as Electric Damage"
+        ]
+    },
+    "overflow": {
+        "name": "Overflow",
+        "description": [
+            "All Flooding Damage dealt by this weapon is applied as Severe Damage",
+            "Adds %s-%s% damage as Flooding Damage"
+        ]
+    },
+    "sailRipper": {
+        "name": "Sail Ripper",
+        "description": "The hit that triggers the Torn Sails status effect deals %s-%s% damage"
+    },
+    "winningStreak": {
+        "name": "Winning Streak",
+        "description": [
+            "Every successful hit increases the damage of the next shot from this weapon by 3%, up to a maximum of %s-%s%",
+            "missing a shot resets the effect"
+        ]
+    },
+    "deadlyStrike": {
+        "name": "Deadly Strike",
+        "description": [
+            "Shots have a 10% chance of dealing increased damage from any damage to weakpoint bonuses, even if the shot does not hit a weakpoint",
+            "Increases damage to weakpoints by %s-%s%"
+        ]
+    },
+    "highPressure": {
+        "name": "High Pressure",
+        "description": "Sea Fire weapons have 50m longer range and deal %s-%s% more damage"
+    },
+    "longArm": {
+        "name": "Long Arm",
+        "description": "Hits that land at 70% of Maximum Range or further also deal %s-%s% more damage"
+    },
+    "providence": {
+        "name": "Providence",
+        "description": "%s-%s% of amount repaired by this weapon also repairs your ship"
+    },
+    "jointSupply": {
+        "name": "Joint Supply",
+        "description": "Hits also repair the nearest allied ship for %s-%s% of the original Repair Amount"
+    },
+    "winningStreakRepair": {
+        "name": "Winning Streak (Repair)",
+        "description": [
+            "Every successful hit increases the Repair Amount of the next shot from this weapon by 3%, up to a maximum of %s-%s%",
+            "Missing a shot resets the effect"
+        ]
+    },
+    "preemptiveDefence": {
+        "name": "Preemptive Defence",
+        "description": [
+            "Hits also grant 50 extra armor on the target for 10s. Effect can be stacked up to 5 times",
+            "Also increases Repair Amount by %s-%s%"
+        ]
+    },
+    "empower": {
+        "name": "Empower",
+        "description": [
+            "Hits also grant 3% extra Weapon Damage on the target for 10s. Effect can be stacked up to 5 times",
+            "Also reduces Reload Time by %s-%s%"
+        ]
+    },
+    "longArmRepair": {
+        "name": "Long Arm (Repair)",
+        "description": "Hits that land at 70% of Maximum Range or further also restores %s-%s% more Repair Amount"
     }
 }
