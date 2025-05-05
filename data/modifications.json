@@ -175,6 +175,64 @@
         "dropOnly": false,
         "grade": "basic"
     },
+    "fix": {
+        "id": "fix",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "effectType": "increaseRepairAmountPerShot",
+        "range": [117, 169],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "antiBlast": {
+        "id": "antiBlast",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "insulator": {
+        "id": "insulator",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "service": {
+        "id": "service",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "effectType": "increaseRepairAmount",
+        "range": [0.093, 0.135],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "douser": {
+        "id": "douser",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "sealant": {
+        "id": "sealant",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
+    "reinforcer": {
+        "id": "reinforcer",
+        "itemType": ["springloader","longGun","cannon","mortar"],
+        "range": [0.077, 0.112],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "basic"
+    },
     "brute": {
         "id": "brute",
         "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
