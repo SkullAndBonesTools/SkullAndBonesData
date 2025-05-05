@@ -446,7 +446,7 @@
         "grade": "advanced"
     },
     "sailorsRespite": {
-        "id": "sailorsRespire",
+        "id": "sailorsRespite",
         "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [2.32, 3.37],
         "dropOnly": false,
