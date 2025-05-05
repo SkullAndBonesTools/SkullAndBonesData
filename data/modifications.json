@@ -421,6 +421,54 @@
         "dropOnly": false,
         "grade": "advanced"
     },
+    "restorative": {
+        "id": "restorative",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.155, 0.225],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
+    "invigorate": {
+        "id": "invigorate",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.0039, 0.0057],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
+    "tranquility": {
+        "id": "tranquility",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.117, 0.169],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
+    "sailorsRespite": {
+        "id": "sailorsRespire",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [2.32, 3.37],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
+    "strengthen": {
+        "id": "strengthen",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.155, 0.225],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
+    "sailMender": {
+        "id": "sailMender",
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+        "range": [0.117, 0.169],
+        "dropOnly": false,
+        "repairOnly": true,
+        "grade": "advanced"
+    },
     "secondStorm": {
         "id": "secondStorm",
         "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
