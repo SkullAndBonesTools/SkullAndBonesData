@@ -19,7 +19,7 @@
     },
     "direExplosive": {
         "id": "direExplosive",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "ignoreResistance",
         "damageType": "explosive",
         "range": [0.093, 0.144],
@@ -28,7 +28,7 @@
     },
     "incendiary": {
         "id": "incendiary",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "range": [0.077, 0.12],
@@ -37,7 +37,7 @@
     },
     "direBurning": {
         "id": "direBurning",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "ignoreResistance",
         "damageType": "fire",
         "range": [0.093, 0.144],
@@ -46,7 +46,7 @@
     },
     "firepower": {
         "id": "firepower",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "increaseDamage",
         "damageType": "overall",
         "range": [0.088, 0.12],
@@ -55,7 +55,7 @@
     },
     "shock": {
         "id": "shock",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "range": [0.077, 0.12],
@@ -64,7 +64,7 @@
     },
     "rapidReload": {
         "id": "rapidReload",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "increaseReloadSpeed",
         "range": [0.07, 0.108],
         "dropOnly": false,
@@ -72,7 +72,7 @@
     },
     "combust": {
         "id": "combust",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
         "range": [39, 60],
@@ -81,7 +81,7 @@
     },
     "flood": {
         "id": "flood",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
         "range": [39, 60],
@@ -90,7 +90,7 @@
     },
     "sparks": {
         "id": "sparks",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraElementalDamage",
         "damageType": "electric",
         "range": [39, 60],
@@ -99,7 +99,7 @@
     },
     "damage": {
         "id": "damage",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraDamage",
         "damageType": "base",
         "range": [46, 72],
@@ -108,7 +108,7 @@
     },
     "burn": {
         "id": "burn",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraElementalDamage",
         "damageType": "fire",
         "range": [39, 60],
@@ -117,7 +117,7 @@
     },
     "swift": {
         "id": "swift",
-        "itemType": ["longGun","culverin","bombard","torpedo","ballista"],
+        "itemType": ["longGun","culverin","demicannon","bombard","torpedo","ballista"],
         "effectType": "increaseProjectileSpeed",
         "range": [0.093, 0.144],
         "dropOnly": false,
@@ -133,7 +133,7 @@
     },
     "sharpened": {
         "id": "sharpened",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "range": [0.077, 0.12],
@@ -142,7 +142,7 @@
     },
     "combustion": {
         "id": "combustion",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "range": [0.077, 0.12],
@@ -151,7 +151,7 @@
     },
     "pierce": {
         "id": "combust",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
         "range": [39, 60],
@@ -160,7 +160,7 @@
     },
     "rupturing": {
         "id": "rupturing",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "range": [0.077, 0.12],
@@ -177,35 +177,35 @@
     },
     "brute": {
         "id": "brute",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [285, 385],
         "dropOnly": false,
         "grade": "advanced"
     },
     "severity": {
         "id": "severity",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.77, 1.12],
         "dropOnly": false,
         "grade": "advanced"
     },
     "victorsRally": {
         "id": "victorsRally",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [1430, 1920],
         "dropOnly": false,
         "grade": "advanced"
     },
     "graceOfTheWinds": {
         "id": "graceOfTheWinds",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.062, 0.09],
         "dropOnly": false,
         "grade": "advanced"
     },
     "lethal": {
         "id": "lethal",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "increaseCritDamage",
         "damageType": "overall",
         "range": [0.26, 0.37],
@@ -214,49 +214,49 @@
     },
     "energize": {
         "id": "energize",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.046, 0.067],
         "dropOnly": false,
         "grade": "advanced"
     },
     "bloodthirst": {
         "id": "bloodthirst",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.232, 0.337],
         "dropOnly": false,
         "grade": "advanced"
     },
     "raider": {
         "id": "raider",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.26, 0.37],
         "dropOnly": false,
         "grade": "advanced"
     },
     "deathblow": {
         "id": "deathblow",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.093, 0.135],
         "dropOnly": false,
         "grade": "advanced"
     },
     "repairReadiness": {
         "id": "repairReadiness",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.093, 0.135],
         "dropOnly": false,
         "grade": "advanced"
     },
     "precisePatchwork": {
         "id": "precisePatchwork",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [155, 225],
         "dropOnly": false,
         "grade": "advanced"
     },
     "amplifiedBurning": {
         "id": "amplifiedBurning",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "range": [0.232, 0.337],
@@ -265,7 +265,7 @@
     },
     "siege": {
         "id": "siege",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "increaseSiegeDamage",
         "damageType": "overall",
         "range": [0.26, 0.37],
@@ -274,14 +274,14 @@
     },
     "restoreReadiness": {
         "id": "restoreReadiness",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.093, 0.135],
         "dropOnly": false,
         "grade": "advanced"
     },
     "amplifiedPiercing": {
         "id": "amplifiedPiercing",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "range": [0.232, 0.337],
@@ -299,7 +299,7 @@
     },
     "amplifiedExplosive": {
         "id": "amplifiedExplosive",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "range": [0.232, 0.337],
@@ -308,7 +308,7 @@
     },
     "amplifiedFlooding": {
         "id": "amplifiedFlooding",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "range": [0.232, 0.337],
@@ -317,7 +317,7 @@
     },
     "tearing": {
         "id": "tearing",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "effectType": "increaseSailDamage",
         "damageType": "overall",
         "range": [0.26, 0.37],
@@ -326,14 +326,14 @@
     },
     "roar": {
         "id": "roar",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.055, 0.079],
         "dropOnly": false,
         "grade": "advanced"
     },
     "soulMending": {
         "id": "soulMending",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.046, 0.067],
         "dropOnly": false,
         "grade": "advanced"
@@ -365,21 +365,21 @@
     },
     "secondStorm": {
         "id": "secondStorm",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.062, 0.09],
         "dropOnly": false,
         "grade": "special"
     },
     "overflow": {
         "id": "overflow",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
         "range": [0.062, 0.09],
         "dropOnly": false,
         "grade": "special"
     },
     "sailRipper": {
         "id": "sailRipper",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","torpedo","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","torpedo","ballista"],
         "range": [4.1, 5.5],
         "dropOnly": false,
         "grade": "special"
@@ -393,7 +393,7 @@
     },
     "deadlyStrike": {
         "id": "deadlyStrike",
-        "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","ballista"],
+        "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","ballista"],
         "range": [0.31, 0.45],
         "dropOnly": false,
         "grade": "special"
