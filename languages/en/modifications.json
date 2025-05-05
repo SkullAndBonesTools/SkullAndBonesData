@@ -1,0 +1,110 @@
+{
+    "direPiercing": {
+        "name": "Dire Piercing",
+        "description": "Hits ignore %s-%s% of the target's Piercing resistance"
+    },
+    "direElectric": {
+        "name": "Dire Electric",
+        "description": "Hits ignore %s-%s% of the target's Electric resistance"
+    },
+    "direExplosive": {
+        "name": "Dire Explosive",
+        "description": "Hits ignore %s-%s% of the target's Explosive resistance"
+    },
+    "incendiary": {
+        "name": "Incendiary",
+        "description": "Adds %s-%s% damage as Burning Damage"
+    },
+    "direBurning": {
+        "name": "Dire Burning",
+        "description": "Hits ignore %s-%s% of the target's Burning resistance"
+    },
+    "firepower": {
+        "name": "Firepower",
+        "description": "Increases damage by %s-%s%"
+    },
+    "shock": {
+        "name": "Shock",
+        "description": "Adds %s-%s% damage as Electric Damage"
+    },
+    "rapidReload": {
+        "name": "Rapid Reload",
+        "description": "Reduces Reload Time by %s-%s%"
+    },
+    "combust": {
+        "name": "Combust",
+        "description": "Every hit deals an extra burst of %s-%s Explosive Damage"
+    },
+    "flood": {
+        "name": "Flood",
+        "description": "Every hit deals an extra burst of %s-%s Flooding Damage"
+    },
+    "sparks": {
+        "name": "Sparks",
+        "description": "Every hit deals an extra burst of %s-%s Electric Damage"
+    },
+    "damage": {
+        "name": "Damage",
+        "description": "Adds %s-%s damage per shot"
+    },
+    "burn": {
+        "name": "Burn",
+        "description": "Every hit deals an extra burst of %s-%s Burning Damage"
+    },
+    "swift": {
+        "name": "Swift",
+        "description": "Increases Projectile Speed by %s-%s%"
+    },
+    "reach": {
+        "name": "Reach",
+        "description": "Increases Range by %s-%s%"
+    },
+    "sharpened": {
+        "name": "Sharpened",
+        "description": "Adds %s-%s% damage as Piercing Damage"
+    },
+    "combustion": {
+        "name": "Combustion",
+        "description": "Adds %s-%s% damage as Explosive Damage"
+    },
+    "pierce": {
+        "name": "Pierce",
+        "description": "Every hit deals an extra burst of %s-%s Piercing Damage"
+    },
+    "rupturing": {
+        "name": "Rupturing",
+        "description": "Adds %s-%s% damage as Flooding Damage"
+    },
+    "haste": {
+        "name": "Haste",
+        "description": "Reduces Time-to-Target by %s-%s%"
+    },
+    "fix": {
+        "name": "Fix",
+        "description": "Increases Repair Amount by %s-%s per shot"
+    },
+    "antiBlast": {
+        "name": "Anti-Blast",
+        "description": "Hits also reduce the target's build up of the Shell-shocked status effect by %s-%s%"
+    },
+    "insulator": {
+        "name": "Insulator",
+        "description": "Hits also reduce the target's build up of the Stormstruck status effect by %s-%s%"
+    },
+    "service": {
+        "name": "Service",
+        "description": "Increases Repair Amount by %s-%s%"
+    },
+    "douser": {
+        "name": "Douser",
+        "description": "Hits also reduce the target's build up of the Ablaze status effect by %s-%s%"
+    },
+    "sealant": {
+        "name": "Sealant",
+        "description": "Hits also reduce the target's build up of the Flooded status effect by %s-%s%"
+    },
+    "reinforcer": {
+        "name": "Reinforcer",
+        "description": "Hits also reduce the target's build up of the Punctured status effect by %s-%s%"
+    }
+}
