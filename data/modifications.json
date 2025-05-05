@@ -177,7 +177,7 @@
     },
     "fix": {
         "id": "fix",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "effectType": "increaseRepairAmountPerShot",
         "range": [117, 169],
         "dropOnly": false,
@@ -186,7 +186,7 @@
     },
     "antiBlast": {
         "id": "antiBlast",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [0.077, 0.112],
         "dropOnly": false,
         "repairOnly": true,
@@ -194,7 +194,7 @@
     },
     "insulator": {
         "id": "insulator",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [0.077, 0.112],
         "dropOnly": false,
         "repairOnly": true,
@@ -202,7 +202,7 @@
     },
     "service": {
         "id": "service",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "effectType": "increaseRepairAmount",
         "range": [0.093, 0.135],
         "dropOnly": false,
@@ -211,7 +211,7 @@
     },
     "douser": {
         "id": "douser",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [0.077, 0.112],
         "dropOnly": false,
         "repairOnly": true,
@@ -219,7 +219,7 @@
     },
     "sealant": {
         "id": "sealant",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [0.077, 0.112],
         "dropOnly": false,
         "repairOnly": true,
@@ -227,7 +227,7 @@
     },
     "reinforcer": {
         "id": "reinforcer",
-        "itemType": ["springloader","longGun","cannon","mortar"],
+        "itemType": ["springloader","longGun","cannon","mortar","bombard"],
         "range": [0.077, 0.112],
         "dropOnly": false,
         "repairOnly": true,
