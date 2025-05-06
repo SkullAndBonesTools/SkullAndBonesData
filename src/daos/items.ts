@@ -1,5 +1,5 @@
 import itemsData from '../../data/items.json';
-import { Tier } from '../types/ItemProperties';
+import { FurnitureType, GeneralType, Tier, WeaponType } from '../types/ItemProperties';
 import { Rarity } from '../types/Rarity';
 import { Event, Events } from './events';
 import { Material, Materials } from './materials';
@@ -9,7 +9,7 @@ import { WorldEvent, WorldEvents } from './worldEvents';
 export class Item {
     constructor(
         public readonly id: string,
-        public readonly type: string,
+        public readonly type: GeneralType | WeaponType | FurnitureType,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly tier?: Tier,
