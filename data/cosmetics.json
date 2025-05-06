@@ -23084,5 +23084,158 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-29",
         "lastUpdated": "2025-04-29"
+    },
+    "warWagers": {
+        "id": "warWagers",
+        "type": "sailsEmblem",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "bornBrutal": {
+        "id": "bornBrutal",
+        "type": "sailsPattern",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "bitterEnds": {
+        "id": "bitterEnds",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "harbingerOfAres": {
+        "id": "harbingerOfAres",
+        "type": "figureHead",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "stainedSeas": {
+        "id": "stainedSeas",
+        "type": "hull",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "sanguivore": {
+        "id": "sanguivore",
+        "type": "nameplate",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "shardDance": {
+        "id": "shardDance",
+        "type": "wheel",
+        "event": "theHonorless",
+        "set": "theRedHorseman",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "crimsonPlumes": {
+        "id": "crimsonPlumes",
+        "type": "headwear",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "oneForsaken": {
+        "id": "oneForsaken",
+        "type": "faceAccessory",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "oathkeeper": {
+        "id": "oathkeeper",
+        "type": "torso",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "scarletFrills": {
+        "id": "scarletFrills",
+        "type": "neck",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "bracersOfFinality": {
+        "id": "bracersOfFinality",
+        "type": "forearm",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "inquisitorsSash": {
+        "id": "inquisitorsSash",
+        "type": "waist",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "stitchedTrousers": {
+        "id": "stitchedTrousers",
+        "type": "bottom",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "stepsOfJudgment": {
+        "id": "stepsOfJudgment",
+        "type": "footwear",
+        "event": "theHonorless",
+        "set": "inquisitiveDawn",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "apocalyptic": {
+        "id": "apocalyptic",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "event": "theHonorless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "redbeard": {
+        "id": "redbeard",
+        "type": "pet",
+        "event": "theHonorless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
     }
 }

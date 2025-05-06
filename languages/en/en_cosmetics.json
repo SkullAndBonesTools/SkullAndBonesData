@@ -16163,6 +16163,108 @@
             "description": {
                 "general": "Trouble's afoot, alright"
             }
+        },
+        "warWagers": {
+            "name": "War Wagers",
+            "description": {
+                "general": "\"We test their mettle against our own.\""
+            }
+        },
+        "bornBrutal": {
+            "name": "Born Brutal",
+            "description": {
+                "general": "\"This madness is what we were meant for.\""
+            }
+        },
+        "bitterEnds": {
+            "name": "Bitter Ends",
+            "description": {
+                "general": "\"The seabed is littered with sorry fools.\""
+            }
+        },
+        "harbingerOfAres": {
+            "name": "Harbinger of Ares",
+            "description": {
+                "general": "\"It is in our nature to fight, even if we lose it all.\""
+            }
+        },
+        "stainedSeas": {
+            "name": "Stained Seas",
+            "description": {
+                "general": "The Indian Ocean is forever at war with itself"
+            }
+        },
+        "sanguivore": {
+            "name": "Sanguivore",
+            "description": {
+                "general": "How you long to draw blood and seed chaos"
+            }
+        },
+        "shardDance": {
+            "name": "Shard Dance",
+            "description": {
+                "general": "Turn your agony and hatred on the enemy"
+            }
+        },
+        "crimsonPlumes": {
+            "name": "Crimson Plumes",
+            "description": {
+                "general": "To see the crest is to know the scales are tipped against you"
+            }
+        },
+        "oneForsaken": {
+            "name": "One Forsaken",
+            "description": {
+                "general": "Behind this, lies truth"
+            }
+        },
+        "oathkeeper": {
+            "name": "Oathkeeper",
+            "description": {
+                "general": "A tapestry of sworn judgment"
+            }
+        },
+        "scarletFrills": {
+            "name": "Scarlet Frills",
+            "description": {
+                "general": "Mercy is not among their tools"
+            }
+        },
+        "bracersOfFinality": {
+            "name": "Bracers of Finality",
+            "description": {
+                "general": "The end comes without warning"
+            }
+        },
+        "inquisitorsSash": {
+            "name": "Inquisitor's Sash",
+            "description": {
+                "general": "The arbiter's word is swift, decisive, final"
+            }
+        },
+        "stitchedTrousers": {
+            "name": "Stitched Trousers",
+            "description": {
+                "general": "Each stitching a life cut short"
+            }
+        },
+        "stepsOfJudgment": {
+            "name": "Steps of Judgment",
+            "description": {
+                "general": "Every stride a statement, he notes"
+            }
+        },
+        "apocalyptic": {
+            "name": "Apocalyptic",
+            "description": {
+                "general": "\"My ship ain't on fire. But yours will be.\""
+            }
+        },
+        "redbeard": {
+            "name": "Redbeard",
+            "description": {
+                "general": "Some say he slit the skull of the previous occupant"
+            }
         }
     }
 }
