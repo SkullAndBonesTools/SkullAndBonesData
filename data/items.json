@@ -10054,7 +10054,9 @@
         "projectileSpeed": 135,
         "blastRadius": 35,
         "obtainable": "theHelmEvent",
-        "required": {},
+        "required": {
+            "bloodiedDoubloon": 1000
+        },
         "perks": ["afterShock","explosive2","electric1"],
         "dateAdded": "2025-05-06",
         "lastUpdated": "2025-05-06"
@@ -10428,7 +10430,9 @@
         "reloadSpeed": 3500,
         "optimalRange": 250,
         "projectileSpeed": 400,
-        "required": {},
+        "required": {
+            "bloodiedDoubloon": 1000
+        },
         "perks": ["imminentBang","combustion3"],
         "dateAdded": "2025-05-06",
         "lastUpdated": "2025-05-16"
@@ -10697,7 +10701,9 @@
         "weight": 80,
         "obtainable": ["theHelmEvent","bloodiedStrongbox"],
         "perks": ["fuseFusingStation"],
-        "required": {},
+        "required": {
+            "bloodiedDoubloon": 450
+        },
         "dateAdded": "2025-05-06",
         "lastUpdated": "2025-05-06"
     },
