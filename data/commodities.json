@@ -246,5 +246,9 @@
     "helmLeaseOpen": {
         "rarity": "legendary",
         "category": "theHelm"
+    },
+    "sigilFlare": {
+        "rarity": "epic",
+        "category": "event"
     }
 }
