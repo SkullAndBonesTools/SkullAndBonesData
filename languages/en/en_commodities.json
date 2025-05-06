@@ -242,7 +242,7 @@
         },
         "helmLeaseOpen": {
             "name": "Helm Lease (Open)",
-            "description": ""
+            "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."
         },
         "crystalizedTaintedWood": {
             "name": "Crystalized Tainted Wood",
