@@ -2,7 +2,7 @@
     "materials": {
         "silver": {
             "name": "Silver",
-            "description": ""
+            "description": "Silver coins used by all for trade and commerce."
         },
         "piecesOfEight": {
             "name": "Pieces of Eight",
