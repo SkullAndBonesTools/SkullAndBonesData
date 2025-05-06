@@ -97,5 +97,14 @@
     },
     "gloryAdorned": {
         "id": "gloryAdorned"
+    },
+    "theHonorlessMizerja": {
+        "id": "theHonorlessMizerja"
+    },
+    "theHonorlessDianSinaga": {
+        "id": "theHonorlessDianSinaga"
+    },
+    "theHonorlessAhPak": {
+        "id": "theHonorlessAhPak"
     }
 }
