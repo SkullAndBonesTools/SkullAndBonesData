@@ -47,6 +47,10 @@
         "rarity": "legendary",
         "category": "currency"
     },
+    "bloodiedDoubloon": {
+        "rarity": "common",
+        "category": "currency"
+    },
     "jute": {
         "rarity": "common",
         "category": "raw"
