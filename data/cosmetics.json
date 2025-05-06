@@ -23237,5 +23237,26 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-05-06",
         "lastUpdated": "2025-05-06"
+    },
+    "pissDrunk": {
+        "id": "pissDrunk",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "bigwigDance": {
+        "id": "bigwigDance",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
+    },
+    "justClowningAround": {
+        "id": "justClowningAround",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
     }
 }

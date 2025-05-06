@@ -16265,6 +16265,24 @@
             "description": {
                 "general": "Some say he slit the skull of the previous occupant"
             }
+        },
+        "pissDrunk": {
+            "name": "Piss Drunk",
+            "description": {
+                "general": "\"Hic...\""
+            }
+        },
+        "bigwigDance": {
+            "name": "Bigwig Dance",
+            "description": {
+                "general": "What's gotten into you, Captain?"
+            }
+        },
+        "justClowningAround": {
+            "name": "Just Clowning Around",
+            "description": {
+                "general": "Captains can have fun too"
+            }
         }
     }
 }
