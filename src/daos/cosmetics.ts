@@ -1,6 +1,7 @@
 import cosmeticsData from '../../data/cosmetics.json';
 import { Effect, PlayerAppearanceType, PlayerOutfitType, ShipType } from '../types/CosmeticProperties';
 import { Rarity } from '../types/Rarity';
+import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
@@ -19,7 +20,7 @@ export class Cosmetic {
         public readonly obtainable?: string | string[] | Array<string | string[]>,
         public readonly effect?: Effect | Effect[],
         public readonly season?: Season,
-        public readonly contract?: string,
+        public readonly contract?: Contract,
         public basic?: Cosmetic,
         public upgrades?: Cosmetic[],
         public readonly required?: Map<Material, number>,
@@ -32,6 +33,7 @@ export class Cosmetic {
     public static fromRawData(rawData: any): Cosmetic {
         const season = rawData.season as keyof typeof Seasons;
         const set = rawData.set as keyof typeof Sets;
+        const contract = rawData.contract as keyof typeof Contracts;
         const event = rawData.event as keyof typeof Events;
         const worldEvent = Array.isArray(rawData.worldEvent)
             ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
@@ -55,7 +57,7 @@ export class Cosmetic {
             rawData.obtainable ?? undefined,
             rawData.effect ?? undefined,
             rawData.season ? Seasons[season] : undefined,
-            rawData.contract ?? undefined,
+            rawData.contract ? Contracts[contract] : undefined,
             undefined,
             undefined,
             required,
