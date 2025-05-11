@@ -2047,6 +2047,222 @@
             "description": {
                 "general": "A specialized station used to hone mortar barrels, resulting in faster shots."
             }
+        },
+        "infamyChest": {
+            "name": "Infamy Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor"
+            }
+        },
+        "kingpinCHest": {
+            "name": "Kingpin Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor"
+            }
+        },
+        "silveryRaiderCache": {
+            "name": "Silvery Raider Cache",
+            "description": {
+                "general": "A worthy prize for any seafarer. It speaks volumes of a pirate's daring adventures and deeds."
+            }
+        },
+        "gildedRaiderCache": {
+            "name": "Gilded Raider Cache",
+            "description": {
+                "general": "This is the ultimate symbol of prosperity and triumph. It's the mark of a true rogue on the high seas."
+            }
+        },
+        "summerStashChest": {
+            "name": "Summer Stash Chest",
+            "description": {
+                "general": "Reward for turning in Ice to Yanita."
+            }
+        },
+        "azureCache": {
+            "name": "Azure Cache",
+            "description": {
+                "general": "A cache a merchant ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+            }
+        },
+        "azureStrongbox": {
+            "name": "Azure Strongbox",
+            "description": {
+                "general": "A strongbox from an elite ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+            }
+        },
+        "ogreKingCosmeticsChest": {
+            "name": "Ogre King Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics from the The Ogre King Glory Set"
+            }
+        },
+        "rodeMaangodinChest": {
+            "name": "Mysterious Chest (Rode Maangodin)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "bloodiedStrongbox": {
+            "name": "Bloodied Strongbox",
+            "description": {
+                "general": "The price of turning your backs on your kin goes beyond the material."
+            }
+        },
+        "recoveredExeterChest": {
+            "name": "Recovered Exeter Chest",
+            "description": {
+                "general": "A chest of valuables recovered from the wreck of the Exeter."
+            }
+        },
+        "aGiftInReturn": {
+            "name": "A Gift in Return",
+            "description": {
+                "general": "A token of appreciation from someone you bestowed a thoughtful gift upon. They won't soon forget it."
+            }
+        },
+        "maangodinChest": {
+            "name": "Mysterious Chest (Maangodin)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "reapersCache": {
+            "name": "Reaper's Cache",
+            "description": {
+                "general": "An ornate chest containing unknown treasures."
+            }
+        },
+        "legacyCache": {
+            "name": "Legacy Cache",
+            "description": {
+                "general": "A collection of rare equipment, including items from the previous Season."
+            }
+        },
+        "smugglersSupplies": {
+            "name": "Smuggler's Supplies",
+            "description": {
+                "general": "Contains some of Teuling's provisions, specialized or Helm materials, and a good chunk of silver."
+            }
+        },
+        "soleilRoyalTreasureChest": {
+            "name": "Treasure Chest (Soleil Royal)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "whiteAriaChest": {
+            "name": "White Aria Chest",
+            "description": {
+                "general": "A treasure chest seized from Bertrand Hubac's flagship."
+            }
+        },
+        "blackAriaChest": {
+            "name": "Black Aria Chest",
+            "description": {
+                "general": "A treasure chest seized from Armand Hubac's flagship."
+            }
+        },
+        "chorusFleetStrongbox": {
+            "name": "Chorus Fleet Strongbox",
+            "description": {
+                "general": "A rightly sealed strongbox containing items that once belonged to the Hubac Twins."
+            }
+        },
+        "nianStrongbox": {
+            "name": "Nian Strongbox",
+            "description": {
+                "general": "A chest from the ship that used the local legend of the Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+            }
+        },
+        "opwellingTreasureChest": {
+            "name": "Treasure Chest (Opwelling)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "vanderkillsLocker": {
+            "name": "Vanderkill's Locker",
+            "description": {
+                "general": "Chest looted from infamous Vanderkill."
+            }
+        },
+        "sengokuNightsCosmeticsChest": {
+            "name": "Sengoku Nights Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics from the The Sengoku Nights Set"
+            }
+        },
+        "risenZamaharibuChest": {
+            "name": "Mysterious Chest (Risen Zamaharibu)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "risenMegaLestariChest": {
+            "name": "Mysterious Chest (Risen Mega Lestari)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "elderShadowbeastChest": {
+            "name": "Mysterious Chest (Elder Shadowbeast)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "regattaChest": {
+            "name": "Regatta Chest",
+            "description": {
+                "general": "Rewards for those who are fast on the seas."
+            }
+        },
+        "mooncakeRegattaChest": {
+            "name": "Mooncake Regatta Chest",
+            "description": {
+                "general": "Rewards for those who are fast on the seas."
+            }
+        },
+        "vikramsStash": {
+            "name": "Vikram's Stash",
+            "description": {
+                "general": ""
+            }
+        },
+        "vikramsLocker": {
+            "name": "Vikram's Locker",
+            "description": {
+                "general": "A chest from Vikram's ship. Contains a modest amount of loot."
+            }
+        },
+        "vikramsStrongbox": {
+            "name": "Vikram's Strongbox",
+            "description": {
+                "general": ""
+            }
+        },
+        "silverChest": {
+            "name": "Silver Chest",
+            "description": {
+                "general": "Contains a large amount of silver."
+            }
+        },
+        "commanderZhangsChest": {
+            "name": "Commander Zhang's Chest",
+            "description": {
+                "general": "A treasure chest seized from Commander Zhang's flagship"
+            }
+        },
+        "phoenixsTalonChest": {
+            "name": "Phoenix's Talon Chest",
+            "description": {
+                "general": "A treasure chest seized from the Phoenix's Talon Ship"
+            }
+        },
+        "phoenixsTalonStrongbox": {
+            "name": "Phoenix's Talon Strongbox",
+            "description": {
+                "general": "Phoenix's Talon Strongbox"
+            }
         }
     }
 }
