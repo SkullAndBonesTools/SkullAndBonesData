@@ -10808,7 +10808,7 @@
         "rarity": "common",
         "type": "chest",
         "value": 1,
-        "weight": 50,
+        "weight": 100,
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
@@ -10822,9 +10822,19 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
+    "azureCache": {
+        "id": "azureCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "event": "azureSolstice",
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
     "azureStrongbox": {
         "id": "azureStrongbox",
-        "rarity": "legendary",
+        "rarity": "epic",
         "type": "chest",
         "value": 1,
         "event": "azureSolstice",
@@ -10985,6 +10995,143 @@
         "rarity": "legendary",
         "type": "chest",
         "event": "enterTheNian",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "opwellingTreasureChest": {
+        "id": "opwellingTreasureChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 1000,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "vanderkillsLocker": {
+        "id": "vanderkillsLocker",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "sengokuNightsCosmeticsChest": {
+        "id": "sengokuNightsCosmeticsChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "risenZamaharibuChest": {
+        "id": "risenZamaharibuChest",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "risenMegaLestariChest": {
+        "id": "risenMegaLestariChest",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "elderShadowbeastChest": {
+        "id": "elderShadowbeastChest",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "regattaChest": {
+        "id": "regattaChest",
+        "rarity": "common",
+        "type": "chest",
+        "event": "dragonsRegatta",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "mooncakeRegattaChest": {
+        "id": "mooncakeRegattaChest",
+        "rarity": "common",
+        "type": "chest",
+        "event": "mooncakeRegatta",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "vikramsStash": {
+        "id": "vikramsStash",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 1,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "vikramsLocker": {
+        "id": "vikramsLocker",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 1500,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "vikramsStrongbox": {
+        "id": "vikramsStrongbox",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 1,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "silverChest": {
+        "id": "silverChest",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "commanderZhangsChest": {
+        "id": "commanderZhangsChest",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "phoenixsTalonChest": {
+        "id": "phoenixsTalonChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "phoenixsTalonStrongbox": {
+        "id": "phoenixsTalonStrongbox",
+        "rarity": "legendary",
+        "type": "chest",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-05-11",
