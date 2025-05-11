@@ -2263,6 +2263,12 @@
             "description": {
                 "general": "Phoenix's Talon Strongbox"
             }
+        },
+        "ascensionChest": {
+            "name": "Ascension Chest",
+            "description": {
+                "general": "Advanced materials used for ascending and reforging items."
+            }
         }
     }
 }

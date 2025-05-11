@@ -11136,5 +11136,14 @@
         "weight": 100,
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
+    },
+    "ascensionChest": {
+        "id": "ascensionChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 750,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
     }
 }
