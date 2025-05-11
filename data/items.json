@@ -10775,5 +10775,219 @@
         },
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
+    },
+    "infamyChest": {
+        "id": "infamyChest",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "kingpinChest": {
+        "id": "kingpinChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "silveryRaiderCache": {
+        "id": "silveryRaiderCache",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 50,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "gildedRaiderCache": {
+        "id": "gildedRaiderCache",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 50,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "summerStashChest": {
+        "id": "summerStashChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "event": "summerFiesta",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "azureStrongbox": {
+        "id": "azureStrongbox",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "event": "azureSolstice",
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "ogreKingsCosmeticsChest": {
+        "id": "ogreKingsCosmeticsChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "rodeMaangodinChest": {
+        "id": "rodeMaangodinChest",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "bloodiedStrongbox1": {
+        "id": "bloodiedStrongbox1",
+        "rarity": "epic",
+        "type": "chest",
+        "tier": 1,
+        "event": "theHonorless",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "bloodiedStrongbox2": {
+        "id": "bloodiedStrongbox2",
+        "rarity": "epic",
+        "type": "chest",
+        "tier": 2,
+        "event": "theHonorless",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "recoveredExeterChest": {
+        "id": "recoveredExeterChest",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "theFounding",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "aGiftInReturn": {
+        "id": "aGiftInReturn",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "azureSolstice",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "maangodinChest": {
+        "id": "maangodinChest",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "reapersCache": {
+        "id": "reapersCache",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "requiemOfTheLost",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "legacyCache1": {
+        "id": "legacyCache1",
+        "rarity": "epic",
+        "type": "chest",
+        "tier": 1,
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "legacyCache3": {
+        "id": "legacyCache3",
+        "rarity": "epic",
+        "type": "chest",
+        "tier": 3,
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "smugglerSupplies": {
+        "id": "smugglerSupplies",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "soleilRoyalTreasureChest": {
+        "id": "soleilRoyalTreasureChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "worldEvent": "symphonieMortelle",
+        "value": 1,
+        "weight": 1000,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "whiteAriaChest": {
+        "id": "whiteAriaChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "worldEvent": ["verseOfVengeance","chorusOfHavoc"],
+        "value": 1,
+        "weight": 6000,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "blackAriaChest": {
+        "id": "blackAriaChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "worldEvent": ["verseOfVengeance","chorusOfHavoc"],
+        "value": 1,
+        "weight": 6000,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "chorusFleetStrongbox": {
+        "id": "chorusFleetStrongbox",
+        "rarity": "legendary",
+        "type": "chest",
+        "worldEvent": "chorusOfHavoc",
+        "value": 1,
+        "weight": 6000,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
+    },
+    "nianStrongbox": {
+        "id": "nianStrongbox",
+        "rarity": "legendary",
+        "type": "chest",
+        "event": "enterTheNian",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-05-11",
+        "lastUpdated": "2025-05-11"
     }
 }
