@@ -8,7 +8,7 @@ export class Modification {
         public readonly effectType: EffectType | undefined,
         public readonly range: number[],
         public readonly dropOnly: boolean,
-        public readonly repairOnly: boolean | undefined,
+        public readonly repairOnly: boolean,
         public readonly grade: Grade,
     ) {}
 
