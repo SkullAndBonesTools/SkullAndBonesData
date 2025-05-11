@@ -1154,5 +1154,13 @@
     "envyFreedom": {
         "id": "envyFreedom",
         "type": "ship"
+    },
+    "theRedHorseman": {
+        "id": "theRedHorseman",
+        "type": "ship"
+    },
+    "inquisitiveDawn": {
+        "id": "inquisitiveDawn",
+        "type": "player"
     }
 }

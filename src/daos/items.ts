@@ -1,6 +1,7 @@
 import itemsData from '../../data/items.json';
-import { Tier } from '../types/ItemProperties';
+import { FurnitureType, GeneralType, Tier, WeaponType } from '../types/ItemProperties';
 import { Rarity } from '../types/Rarity';
+import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
@@ -9,7 +10,7 @@ import { WorldEvent, WorldEvents } from './worldEvents';
 export class Item {
     constructor(
         public readonly id: string,
-        public readonly type: string,
+        public readonly type: GeneralType | WeaponType | FurnitureType,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly tier?: Tier,
@@ -33,12 +34,13 @@ export class Item {
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
-        public readonly contract?: string
+        public readonly contract?: Contract
     ) {}
 
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
         const event = rawData.event as keyof typeof Events;
+        const contract = rawData.contract as keyof typeof Contracts;
         const worldEvent = Array.isArray(rawData.worldEvent)
             ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
             : WorldEvents[rawData.worldEvent as keyof typeof WorldEvents];
@@ -76,7 +78,7 @@ export class Item {
             worldEvent ?? undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
-            rawData.contract ?? undefined
+            rawData.contract ? Contracts[contract] : undefined
         );
     }
 

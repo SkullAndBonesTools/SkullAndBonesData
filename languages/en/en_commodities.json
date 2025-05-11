@@ -242,11 +242,15 @@
         },
         "helmLeaseOpen": {
             "name": "Helm Lease (Open)",
-            "description": ""
+            "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."
         },
         "crystalizedTaintedWood": {
             "name": "Crystalized Tainted Wood",
             "description": "Rumored to be from Sathanur, the wood has been hardened by petrification and the undying passage of time."
+        },
+        "sigilFlare": {
+            "name": "Sigil Flare",
+            "description": "An ornate flare that shines brightly when ignited. This is the calling card of the Honorless for their hallucinogen supply drops."
         }
     }
 }

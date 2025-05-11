@@ -9700,11 +9700,11 @@
         "buffDuration": 20,
         "event": "theHonorless",
         "season": "ascentIntoChaos",
-        "obtainable": "",
+        "obtainable": "defeatingHonorless",
         "required": {},
         "perks": ["libertyCap"],
-        "dateAdded": "2025-05-13",
-        "lastUpdated": "2025-05-13"
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
     },
     "schoonerUpgrade1": {
         "id": "schoonerUpgrade1",
@@ -10041,6 +10041,7 @@
         "id": "divineWind",
         "type": "bombard",
         "rarity": "epic",
+        "event": "theHonorless",
         "season": "ascentIntoChaos",
         "value": 1,
         "weight": 500,
@@ -10052,10 +10053,13 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 35,
-        "required": {},
+        "obtainable": "theHelmEvent",
+        "required": {
+            "bloodiedDoubloon": 1000
+        },
         "perks": ["afterShock","explosive2","electric1"],
-        "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
     },
     "tearingLongGun1": {
         "id": "tearingLongGun1",
@@ -10415,7 +10419,7 @@
         "id": "kleineKartouwe",
         "type": "demicannon",
         "rarity": "epic",
-        "obtainable": "theHelm",
+        "obtainable": "theHelmEvent",
         "event": "theHonorless",
         "value": 1,
         "weight": 500,
@@ -10426,10 +10430,12 @@
         "reloadSpeed": 3500,
         "optimalRange": 250,
         "projectileSpeed": 400,
-        "required": {},
+        "required": {
+            "bloodiedDoubloon": 1000
+        },
         "perks": ["imminentBang","combustion3"],
-        "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-16"
     },
     "fireCulverin1": {
         "id": "fireCulverin1",
@@ -10689,14 +10695,17 @@
         "id": "fuseFusingStation",
         "rarity": "rare",
         "type": "offensiveFurniture",
+        "event": "theHonorless",
         "gearScore": 20,
         "value": 1,
         "weight": 80,
-        "obtainable": "",
+        "obtainable": ["theHelmEvent","bloodiedStrongbox"],
         "perks": ["fuseFusingStation"],
-        "required": {},
-        "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "required": {
+            "bloodiedDoubloon": 450
+        },
+        "dateAdded": "2025-05-06",
+        "lastUpdated": "2025-05-06"
     },
     "ramrodWorkshop": {
         "id": "ramrodWorkshop",

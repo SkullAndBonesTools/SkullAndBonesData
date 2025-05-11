@@ -2,7 +2,7 @@
     "materials": {
         "silver": {
             "name": "Silver",
-            "description": ""
+            "description": "Silver coins used by all for trade and commerce."
         },
         "piecesOfEight": {
             "name": "Pieces of Eight",
@@ -35,6 +35,10 @@
         "silverLions": {
             "name": "Silver Lions",
             "description": "Silver coins designed personally by Scurlock, minted and shipped from their home countries. Perhaps they are intended currency for when Scurlock one day rules the Indian Ocean, or so he believes."
+        },
+        "bloodiedDoubloon": {
+            "name": "Bloodied Doubloon",
+            "description": ""
         },
         "coconut": {
             "name": "Coconut",
