@@ -10941,8 +10941,8 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
-    "smugglerSupplies": {
-        "id": "smugglerSupplies",
+    "smugglersSupplies": {
+        "id": "smugglersSupplies",
         "rarity": "common",
         "type": "chest",
         "value": 1,
