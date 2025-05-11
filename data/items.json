@@ -10053,7 +10053,7 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 35,
-        "obtainable": "theHelmEvent",
+        "obtainable": ["theHelmEvent","bloodiedStrongbox"],
         "required": {
             "bloodiedDoubloon": 1000
         },
@@ -10419,7 +10419,7 @@
         "id": "kleineKartouwe",
         "type": "demicannon",
         "rarity": "epic",
-        "obtainable": "theHelmEvent",
+        "obtainable": ["theHelmEvent","bloodiedStrongbox"],
         "event": "theHonorless",
         "value": 1,
         "weight": 500,
