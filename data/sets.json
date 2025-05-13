@@ -1162,5 +1162,13 @@
     "inquisitiveDawn": {
         "id": "inquisitiveDawn",
         "type": "player"
+    },
+    "emberWolf": {
+        "id": "emberWolf",
+        "type": "ship"
+    },
+    "sinfulNature": {
+        "id": "sinfulNature",
+        "type": "player"
     }
 }

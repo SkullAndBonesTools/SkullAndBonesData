@@ -16283,6 +16283,102 @@
             "description": {
                 "general": "Captains can have fun too"
             }
+        },
+        "wolfsShield": {
+            "name": "Wolf's Shield",
+            "description": {
+                "general": "Never let your guard down, or the world will devour you"
+            }
+        },
+        "ruthlessReckoning": {
+            "name": "Ruthless Reckoning",
+            "description": {
+                "general": "Horrible fates await your rivals"
+            }
+        },
+        "sacrilegiousPast": {
+            "name": "Sacrilegious Past",
+            "description": {
+                "general": "Do gods exist, or is it all for naught?"
+            }
+        },
+        "flamingGuardian": {
+            "name": "Flaming Guardian",
+            "description": {
+                "general": "Like some sort of hell watcher"
+            }
+        },
+        "bornFromAshes": {
+            "name": "Born from Ashes",
+            "description": {
+                "general": "May this be your true calling"
+            }
+        },
+        "seawolf": {
+            "name": "Seawolf",
+            "description": {
+                "general": "A grand hunt is afoot"
+            }
+        },
+        "smiteTheDark": {
+            "name": "Smite the Dark",
+            "description": {
+                "general": "Only fire can save the unworthy"
+            }
+        },
+        "regalCommand": {
+            "name": "Regal Command",
+            "description": {
+                "general": "\"Power isn't about taking what you want -- it's about making others give it to you willingly.\""
+            }
+        },
+        "chainsOfDominion": {
+            "name": "Chains of Dominion",
+            "description": {
+                "general": "\"By the time you see my teeth, it shall be too late.\""
+            }
+        },
+        "sovereignsLash": {
+            "name": "Sovereign's Lash",
+            "description": {
+                "general": "\"My father used to say evil could be beaten out of a man. He was wrong.\""
+            }
+        },
+        "twinWolves": {
+            "name": "Twin Wolves",
+            "description": {
+                "general": "\"Ever watchful, ever ready.\""
+            }
+        },
+        "eyesOfTheCommodore": {
+            "name": "Eyes of the Commodore",
+            "description": {
+                "general": "\"Everyone's a sheep till they bare their teeth.\""
+            }
+        },
+        "nightwindTrousers": {
+            "name": "Nightwind Trousers",
+            "description": {
+                "general": "\"A bite here, a feint there. When our prey stumbles, it's over.\""
+            }
+        },
+        "ironstepSabatons": {
+            "name": "Ironstep Sabatons",
+            "description": {
+                "general": "\"A wolf waits, watches, finds the one too slow to keep up.\""
+            }
+        },
+        "comeGetSome": {
+            "name": "Come Get Some",
+            "description": {
+                "general": "You have been warned..."
+            }
+        },
+        "hadEnough": {
+            "name": "Had Enough",
+            "description": {
+                "general": "It's not the heat that's got your blood boiling"
+            }
         }
     }
 }
