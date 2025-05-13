@@ -6,6 +6,7 @@ export { Commodities } from "./daos/commodities";
 export { Cosmetics } from "./daos/cosmetics";
 export { Items } from "./daos/items";
 export { Sets } from "./daos/sets";
+export { Modifications } from "./daos/modifications";
 
 // Types
 export { Rarity } from "./types/Rarity";
