@@ -16368,6 +16368,12 @@
                 "general": "\"A wolf waits, watches, finds the one too slow to keep up.\""
             }
         },
+        "embermarked": {
+            "name": "Embermarked",
+            "description": {
+                "general": "\"I've seen the men it's touched. Their eyes burn with madness, their hands shake like leaves.\""
+            }
+        },
         "comeGetSome": {
             "name": "Come Get Some",
             "description": {
