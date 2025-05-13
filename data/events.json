@@ -31,6 +31,10 @@
         "id": "theFounding",
         "seasons": ["shadowsOfTheDeep"]
     },
+    "gloryAdorned": {
+        "id": "gloryAdorned",
+        "seasons": ["ascentIntoChaos"]
+    },
     "theHonorless": {
         "id": "theHonorless",
         "seasons": ["ascentIntoChaos"]
