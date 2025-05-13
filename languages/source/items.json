@@ -1,0 +1,2052 @@
+{
+    "items": {
+        "other": {
+            "name": "Other"
+        },
+        "huntingSpear": {
+            "name": "Hunting Spear",
+            "description": {
+                "general": "A spear to take down animals or sharks.",
+                "2": "An improved spear that can quickly take down animals or sharks.",
+                "3": "An improved spear that can quickly take down animals or sharks even faster.",
+                "4": "An improved spear that does more damage to wildlife.",
+                "5": "A fully improved spear that does even more damage to wildlife."
+            }
+        },
+        "crowbar": {
+            "name": "Crowbar",
+            "description": {
+                "general": "Scavenges shipwrecks.",
+                "2": "Scavenges shipwrecks faster. Ideal for medium shipwrecks.",
+                "3": "Scavenges shipwrecks even faster. Ideal for large shipwrecks.",
+                "4": "A tool that is used for harvesting shipwrecks of any size while producing more yield.",
+                "5": "A better tool that is used for harvesting shipwrecks of any size while producing more yield."
+            }
+        },
+        "spyglass": {
+            "name": "Spyglass",
+            "description": {
+                "general": "A spyglass.",
+                "1": "A basic spyglass with one zoom level.",
+                "2": "An improved spyglass with an additional zoom level as it has two lenses in it.",
+                "3": "A more improved spyglass that can see much further away as it has three lenses in it."
+            }
+        },
+        "sickle": {
+            "name": "Sickle",
+            "description": {
+                "general": "Allows harvesting from plants.",
+                "2": "Harvests plants with slightly increased efficiency.",
+                "3": "Harvests plants with moderately increased efficiency.",
+                "4": "Harvests plants with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
+                "5": "Harvests plants with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+            }
+        },
+        "saw": {
+            "name": "Saw",
+            "description": {
+                "general": "Allows harvesting from trees.",
+                "2": "Harvests trees with slightly increased efficiency.",
+                "3": "Harvests trees with moderately increased efficiency.",
+                "4": "Harvests trees with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
+                "5": "Harvests trees with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+            }
+        },
+        "pickaxe": {
+            "name": "Pickaxe",
+            "description": {
+                "general": "Allows harvesting from deposits.",
+                "2": "Harvests deposits with slightly increased efficiency.",
+                "3": "Harvests deposits with moderately increased efficiency.",
+                "4": "Harvests deposits with greatly increased efficiency. Grants the opportunity for an extra bonus yield.",
+                "5": "Harvests deposits with significant increased efficiency. Grants the opportunity for an extra bonus yield."
+            }
+        },
+        "cannonballCrate": {
+            "name": "Cannonball Crate",
+            "description": {
+                "general": "Contains 100 cannonballs that can be used in Cannon weapons."
+            }
+        },
+        "bombardBombCrate": {
+            "name": "Bombard Bomd Crate",
+            "description": {
+                "general": "Contains 60 bombard bombs that can be used in Bombard weapons."
+            }
+        },
+        "ballistaBoltCrate": {
+            "name": "Ballista Bolt Crate",
+            "description": {
+                "general": "Contains 20 ballista bolts that can be used in Ballista weapons."
+            }
+        },
+        "seaFireOilCrate": {
+            "name": "Sea Fire Oil Crate",
+            "description": {
+                "general": "Contains 60 oil canisters that can be used in Sea Fire weapons."
+            }
+        },
+        "mortarBombCrate": {
+            "name": "Mortar Bomb Crate",
+            "description": {
+                "general": "Contains 20 mortar bombs that can be used in Mortar weapons."
+            }
+        },
+        "rocketCrate": {
+            "name": "Rocket Crate",
+            "description": {
+                "general": "Contains 100 rockets that can be used in Rocket Launcher weapons."
+            }
+        },
+        "torpedoCrate": {
+            "name": "Torpedo Crate",
+            "description": {
+                "general": "Contains 60 torpedoes that can be used in Torpedo Launcher weapons."
+            }
+        },
+        "ironHusk": {
+            "name": "Iron Husk",
+            "description": {
+                "general": "Dark hues on interlocking plates; a rudimentary yet impenetrable marriage of steel and might."
+            }
+        },
+        "layeredScales": {
+            "name": "Layered Scales",
+            "description": {
+                "general": "Red-brown scales meld with black iron; a fusion of nature and craft against the depths."
+            }
+        },
+        "laForteresse": {
+            "name": "La Forteresse",
+            "description": {
+                "general": "La Fortresse is liky stormy seas -- dark blue and gold signify reliability against the chaos of the deep blue."
+            }
+        },
+        "theBastion": {
+            "name": "The Bastion",
+            "description": {
+                "general": "Woven wood merges with a metallic sheen, a testament in roguish toughness and intricate defense."
+            }
+        },
+        "gambaKobe": {
+            "name": "Gamba Kobe",
+            "description": {
+                "general": "Layered planks seal off any breaks in the hull, making the ship airtight and sturdy."
+            }
+        },
+        "kawaca": {
+            "name": "Kawaca",
+            "description": {
+                "general": "Adorned in teal and mustard, the design echoes the stalwart longboats of yore."
+            }
+        },
+        "blackPrince": {
+            "name": "Black Prince",
+            "description": {
+                "general": "Fit for Scurlock himself, the red and golden plates were forged to be the strongest when they are at their weakest point."
+            }
+        },
+        "ouroboros": {
+            "name": "Ouroboros",
+            "description": {
+                "general": "Sewn together from the hide of Kuharibu, a sea monster fabled to possess powerful, regenerative properties."
+            }
+        },
+        "wailingWard": {
+            "name": "Wailing Ward",
+            "description": {
+                "general": "Engineered by La Peste's cronies. Its surface is coated to be resistant to their own toxic arsenal."
+            }
+        },
+        "wrathfulWard": {
+            "name": "Wrathful Ward",
+            "description": {
+                "general": "Smeared with toxic chemicals and effuses putrid fumes with every crest of the waves."
+            }
+        },
+        "royalCustodian": {
+            "name": "Royal Custodian",
+            "description": {
+                "general": "Glamorous and golden. An invitation to all pirates to pursue their own riches."
+            }
+        },
+        "mortar": {
+            "name": "Mortar",
+            "description": {
+                "general": "Massive artillery that delivers a single devastating shell, dealing immense damage over a large area."
+            }
+        },
+        "leopold": {
+            "name": "Leopold",
+            "description": {
+                "general": "Massive artillery that fires shrapnel-bearing shells. Remarkable at ripping holes into hulls and causing ships to be Flooded."
+            }
+        },
+        "leFleau": {
+            "name": "Le Fléau",
+            "description": {
+                "general": "Philippe La Peste's signature artillery that launches putrid projectiles unto his hapless foes, releasing fumes that damage targets and drain Crew Stamina."
+            }
+        },
+        "repairMortar": {
+            "name": "Repair Mortar",
+            "description": {
+                "general": "Delivers adhesive packs that expand on impact over a wide area, filling holes between the broken beams of allied ships."
+            }
+        },
+        "rocket": {
+            "name": "Rocket",
+            "description": {
+                "general": "Rapid firing rocket launcher that sends barrages of fiery missiles."
+            }
+        },
+        "theTermitesRocket": {
+            "name": "The Termites",
+            "description": {
+                "general": "Rocket launcher originating from the Far East with a higher angle of aiming to attack taller structures more easily. Delivers a barrage of fiery missiles that deals increased damage to structures."
+            }
+        },
+        "bombard": {
+            "name": "Bombard",
+            "description": {
+                "general": "Rains destructive shells and is able to damage multiple foes within its radius."
+            }
+        },
+        "monsMeg": {
+            "name": "Mons Meg",
+            "description": {
+                "general": "A grandiose Scottish bombard constructed to shatter castle walls. The perfect weapon against structures."
+            }
+        },
+        "dardanellesGun": {
+            "name": "Dardanelles Gun",
+            "description": {
+                "general": "Massive Ottoman weapon of terrifiying might. The guns are fired in unison for maximum devastation."
+            }
+        },
+        "fireBombard": {
+            "name": "Fire Bombard",
+            "description": {
+                "general": "Rains destructive shells and is able to damage multiple foes within its radius. Incendiary shells set targets Ablaze."
+            }
+        },
+        "repairBombard": {
+            "name": "Repair Bombard",
+            "description": {
+                "general": "Launches adhesive packs that expand on impact, filling holes between the broken beams of allied ships."
+            }
+        },
+        "torpedo": {
+            "name": "Torpedo",
+            "description": {
+                "general": "Fires devastating torpedos that deal double damage after being armed. Cannot target structures."
+            }
+        },
+        "shalei": {
+            "name": "Shalei",
+            "description": {
+                "general": "Fires high-explosive torpedos that can damage multiple targets. Torpedos deal double damage after being armed. Cannot target structures."
+            }
+        },
+        "rahmasAmbition": {
+            "name": "Rahma's Ambition",
+            "description": {
+                "general": "A refinement of Rahma's original torpedo design. Increasingly destructive when multiple torpedos hit at the same time."
+            }
+        },
+        "rahmasLegacy": {
+            "name": "Rahma's Legacy",
+            "description": {
+                "general": "A refinement of Rahma's original torpedo design. Increasingly destructive when multiple torpedos hit at the same time."
+            }
+        },
+        "ballista": {
+            "name": "Ballista",
+            "description": {
+                "general": "Launches giant bolts with great precision. Draw the ballista for greater power and range."
+            }
+        },
+        "greatSpringald": {
+            "name": "Great Springald",
+            "description": {
+                "general": "Launches giant bolts that are designed to rip sails apart. Draw the ballista for greater power and range."
+            }
+        },
+        "twinWinchBallista": {
+            "name": "Twin Winch Ballista",
+            "description": {
+                "general": "The double-winches of this ballista can be further cranked for greater draw weight and power."
+            }
+        },
+        "seaFire": {
+            "name": "Sea Fire",
+            "description": {
+                "general": "Spews liquid fire over a short range, immolating everything within distance."
+            }
+        },
+        "kallinikosFlame": {
+            "name": "Kallinikos Flame",
+            "description": {
+                "general": "This modified Sea Fire is exceptional at rendering ships vulnerable to Crew Attacks."
+            }
+        },
+        "blueSpecter": {
+            "name": "Blue Specter",
+            "description": {
+                "general": "Hellish weapon of mysterious origins. Emits bluish flames of otherwordly temperatures."
+            }
+        },
+        "culverin": {
+            "name": "Culverin",
+            "description": {
+                "general": "Versatile cannon with good range, damage and reload speed."
+            }
+        },
+        "tearingCulverin": {
+            "name": "Tearing Culverin",
+            "description": {
+                "general": "Versatile cannon with good range, damage and reload speed. Great at tearing enemy sails and leaving them immobile."
+            }
+        },
+        "basilisk": {
+            "name": "Basilisk",
+            "description": {
+                "general": "Heavy bronze culverin aptly named after the deadly mythic serpent. Designed to render ships vulnerable to Crew Attacks."
+            }
+        },
+        "longGun": {
+            "name": "Long Gun",
+            "description": {
+                "general": "Long-barrel cannons adept at hitting faraway targets."
+            }
+        },
+        "fireLongGun": {
+            "name": "Fire Long Gun",
+            "description": {
+                "general": "Long-barrel cannons adept at hitting faraway targets. Incendiary shots set targets Ablaze."
+            }
+        },
+        "repairLongGun": {
+            "name": "Repair Long Gun",
+            "description": {
+                "general": "Fires casings filled with adhesive goo that repair gaps in allied ships."
+            }
+        },
+        "scurlocksChasers": {
+            "name": "Scurlock's Chasers",
+            "description": {
+                "general": "Infamous long guns that Scurlock has used to cripple many a ship, dismantling their masts before the Kingpin charges in for the kill."
+            }
+        },
+        "scurlocksLongNines": {
+            "name": "Scurlock's Long Nines",
+            "description": {
+                "general": "Infamous long guns that Scurlock has used to cripple many a ship, dismantling their masts before the Kingpin charges in for the kill."
+            }
+        },
+        "demicannon": {
+            "name": "Demi-Cannon",
+            "description": {
+                "general": "Fires deadly shrapnel that rips ships apart at short range."
+            }
+        },
+        "floodingDemicannon": {
+            "name": "Flooding Demi-Cannon",
+            "description": {
+                "general": "Fires deadly shrapnel that rips ships apart at short range. Great at ripping holes in enemy hulls and causing them to be Flooded."
+            }
+        },
+        "carronade": {
+            "name": "Carronade",
+            "description": {
+                "general": "A revolutionary, lightweight cannon. The advanced design boasts power, accuracy, and low recoil, at the expense of range."
+            }
+        },
+        "zamzama": {
+            "name": "Zamzama",
+            "description": {
+                "general": "Short ranged, large-bore cannon that fires with thunderous power. Adept at rendering ships vulnerable to Crew Attacks."
+            }
+        },
+        "repairKit": {
+            "name": "Repair Kit",
+            "description": {
+                "general": "Mends a amount of the ship's hull",
+                "1": "Mends a minimal amount of the ship's hull.",
+                "2": "Mends a modest amount of the ship's hull.",
+                "3": "Mends a moderate amount of the ship's hull."
+            }
+        },
+        "enhancedRepairKit": {
+            "name": "Enhanced Repair Kit",
+            "description": {
+                "general": "Mends a percentage of the ship's hull",
+                "1": "Mends a modest percentage of the ship's hull.",
+                "2": "Mends a moderate percentage of the ship's hull.",
+                "3": "Mends a greater percentage of the ship's hull."
+            }
+        },
+        "restorationKit": {
+            "name": "Restoration Kit",
+            "description": {
+                "general": "Removes all status effects from the ship."
+            }
+        },
+        "grilledBeef": {
+            "name": "Grilled Beef",
+            "description": {
+                "general": "A popular meat dish seasoned with spices, skewered on a stick, and then grilled."
+            }
+        },
+        "grilledCoconut": {
+            "name": "Grilled Coconut",
+            "description": {
+                "general": "These coconut balls are grilled golden brown and then coated with grated coconut flakes."
+            }
+        },
+        "grilledFish": {
+            "name": "Grilled Fish",
+            "description": {
+                "general": "A staple for any sailor: stick a fish over a flame and watch it turn moist and crispy."
+            }
+        },
+        "grilledCrocodile": {
+            "name": "Grilled Crocodile",
+            "description": {
+                "general": "Firm and tender in texture while mild in flavor. Taste is not far from fish."
+            }
+        },
+        "grilledShark": {
+            "name": "Grilled Shark",
+            "description": {
+                "general": "The predator has become the prey. When grilled, its meat exudes a pungent smell, but fills the belly."
+            }
+        },
+        "grilledMutton": {
+            "name": "Grilled Mutton",
+            "description": {
+                "general": "Soft, tender mutton that has been spiced, slow-grilled, and left simmering for hours."
+            }
+        },
+        "grilledChicken": {
+            "name": "Grilled Chicken",
+            "description": {
+                "general": "A whole chicken grilled till golden brown. A simple meal for the weary seafarer."
+            }
+        },
+        "grilledBread": {
+            "name": "Grilled Bread",
+            "description": {
+                "general": "One of the oldest foods that can be traced back to the beginnings of agriculture."
+            }
+        },
+        "grilledBanana": {
+            "name": "Grilled Banana",
+            "description": {
+                "general": "These grilled plantains make for a sweet and savory snack."
+            }
+        },
+        "grilledPrimeHippo": {
+            "name": "Grilled Prime Hippo",
+            "description": {
+                "general": "Freshly grilled prime cut from a Hippo. Its meat is gamey but flavorful."
+            }
+        },
+        "grilledPrimeCrocodile": {
+            "name": "Grilled Prime Crocodile",
+            "description": {
+                "general": "Freshly grilled prime cut from a crocodile. Its meat is firm, tender, and stringy."
+            }
+        },
+        "tylosaurusSteak": {
+            "name": "Tylosaurus Steak",
+            "description": {
+                "general": "Grilled meat from an ancient predator known to stalk the African Coast. Firm and slightly sweet."
+            }
+        },
+        "grilledScrewpine": {
+            "name": "Grilled Screwpine",
+            "description": {
+                "general": "These sweet cakes are filled with screwpine and the grilled in pandan leaves to give their green color."
+            }
+        },
+        "grilledVegetables": {
+            "name": "Grilled Vegetables",
+            "description": {
+                "general": "Herbs, leaves and vegetables scrunched up from the Indian Ocean and grilled over a fire. A simple but hearty meal."
+            }
+        },
+        "grilledDurian": {
+            "name": "Grilled Durian",
+            "description": {
+                "general": "Durian slices that are dried, then grilled. Pungent on its own, these crisps are sweet and smokey."
+            }
+        },
+        "grilledHippo": {
+            "name": "Grilled Hippo",
+            "description": {
+                "general": "Tastes slightly sweet with a tough texture."
+            }
+        },
+        "varyBeMenaka": {
+            "name": "Vary Be Menaka",
+            "description": {
+                "general": "Rice served with fatty chunks of meat."
+            }
+        },
+        "godrogodro": {
+            "name": "Godrogodro",
+            "description": {
+                "general": "Traditional coconut cake made with the 'cocotte' kettle over a charcoal cooker."
+            }
+        },
+        "trondroGasy": {
+            "name": "Trondro Gasy",
+            "description": {
+                "general": "Succulent fish cooked with vegetables and eaten with rice."
+            }
+        },
+        "ndiziNaNyama": {
+            "name": "Ndizi Na Nyama",
+            "description": {
+                "general": "A plantains-based stwe with chicken. A fragant meshing of the sweet and savory."
+            }
+        },
+        "ragout": {
+            "name": "Ragout",
+            "description": {
+                "general": "A stew of many meats, spiced and seasoned well."
+            }
+        },
+        "sateKambing": {
+            "name": "Sate Kambing",
+            "description": {
+                "general": "Mutton, seasoned, skewered and grilled on charcoal. Sweet, savory and juicy."
+            }
+        },
+        "bitterballen": {
+            "name": "Bitterballen",
+            "description": {
+                "general": "Made from a thick meat stew, the cooled, rolled into a ball, breaded and finally cooked."
+            }
+        },
+        "ronakoho": {
+            "name": "Ron'akoho",
+            "description": {
+                "general": "Whole chicken broth prepared with fresh ingredients."
+            }
+        },
+        "mchuziWaKuharibu": {
+            "name": "Mchuzi wa Kuharibu",
+            "description": {
+                "general": "The meat of Kuharibu, carefully wrapped in a blend of tomatoes and spies, and then baked in sweet coconut milk with local roots."
+            }
+        },
+        "otakOtak": {
+            "name": "Otak-Otak",
+            "description": {
+                "general": "Consists of fish and spices wrapped in a leaf parcel and either grilled or steamed."
+            }
+        },
+        "firstAidStation": {
+            "name": "First Aid Station",
+            "description": {
+                "general": "Well, wouldn't need to patch ya up if you'd shot at the bastards first, now would I?"
+            }
+        },
+        "ironCapstan": {
+            "name": "Iron Capstan",
+            "description": {
+                "general": "Release the anchor, Captain! Those gutter swabs won't be able to hit us!"
+            }
+        },
+        "ropeLocker": {
+            "name": "Rope Locker",
+            "description": {
+                "general": "Oi, lad! Use a spoon to wipe your ass? That's the trim rope, not the anchor line!"
+            }
+        },
+        "scopingStation": {
+            "name": "Scoping Station",
+            "description": {
+                "general": "Keep yer eye on that enemy ship, lad! Don't let me catch ya sneaking winks at them mermaids!"
+            }
+        },
+        "scrapperStation": {
+            "name": "Scrapper Station",
+            "description": {
+                "general": "A pickaxe, butter knife, or your damned left shoe! Patch the hull, me hearties!"
+            }
+        },
+        "signalGong": {
+            "name": "Signal Gong",
+            "description": {
+                "general": "Hear that, scallywags? That ain't the fucking dinner bell!"
+            }
+        },
+        "warDrums": {
+            "name": "War Drums",
+            "description": {
+                "general": "Here they come, sea dogs! And if Davy Jones comes knocking, tell 'im we ain't ready for his locker yet!"
+            }
+        },
+        "megaphone": {
+            "name": "Megaphone",
+            "description": {
+                "general": "With each blast of the horn, our cannons barked louder."
+            }
+        },
+        "munitionsMixer": {
+            "name": "Munitions Mixer",
+            "description": {
+                "general": "Careful with that mix, you bastards! I'm not having my other brow seared off!"
+            }
+        },
+        "riggingStation": {
+            "name": "Rigging Station",
+            "description": {
+                "general": "Grab yer tools, sea rats! We'll mend the hull faster than they make holes in it!"
+            }
+        },
+        "gunnersQuadrant": {
+            "name": "Gunner´s Quadrant",
+            "description": {
+                "general": "Captain, are we counting fleas on their coats? Can we fucking shoot yet?!"
+            }
+        },
+        "waterTank": {
+            "name": "Water Tank",
+            "description": {
+                "general": "Three days without water, you say? Bah. A day without rum is its own hell."
+            }
+        },
+        "maintenanceForge": {
+            "name": "Maintenance Forge",
+            "description": {
+                "general": "Who repairs the forge when the forge needs repairs?"
+            }
+        },
+        "doublePlankedHull": {
+            "name": "Double-planked Hull",
+            "description": {
+                "general": "A thicker hull means we're tougher, but we'll also sink faster than a drunkard's dreams!"
+            }
+        },
+        "boatswainsCall": {
+            "name": "Boatswain's Call",
+            "description": {
+                "general": "This ain't tea time, arsetits! To your battle stations!"
+            }
+        },
+        "chainsLocker": {
+            "name": "Chains Locker",
+            "description": {
+                "general": "Load the chains, boys! We've leave their sails limp in the wind!"
+            }
+        },
+        "joineryWorkshop": {
+            "name": "Joinery Workshop",
+            "description": {
+                "general": "Don't fret if you lose a limb, lads. We've got spare pegs at the shop!"
+            }
+        },
+        "gunpowderBench": {
+            "name": "Gunpowder Bench",
+            "description": {
+                "general": "A pinch of this, a little dash of that, and voilà! A fiery delight for our foes!"
+            }
+        },
+        "leadKettle": {
+            "name": "Lead Kettle",
+            "description": {
+                "general": "The lead's for their throats, lads, not your fucking afternoon tea!"
+            }
+        },
+        "spikedWarHorn": {
+            "name": "Spiked War Horn",
+            "description": {
+                "general": "To arms, me hearties! And while we're at it, let's take a few of theirs!"
+            }
+        },
+        "stickyFuelStation": {
+            "name": "Sticky Fuel Station",
+            "description": {
+                "general": "Aye, thick and nasty, lads! Want it clinging to the hull like a lover's bum in a lap!"
+            }
+        },
+        "storageCompartment": {
+            "name": "Storage Compartment",
+            "description": {
+                "general": "This spot's for goods, not your goodies! I'd better not find hidden grog or lady portraits back here!"
+            }
+        },
+        "toolSmithy": {
+            "name": "Tool Smithy",
+            "description": {
+                "general": "Which came first, the wood or the wood that chopped the wood?"
+            }
+        },
+        "flagPaintingStation": {
+            "name": "Flag Painting Station",
+            "description": {
+                "general": "Every raunchy crew's got an artist, y'know? And ours? Well, he's an expert at drawing... certain symbols."
+            }
+        },
+        "volatileFuel": {
+            "name": "Volatile Fuel",
+            "description": {
+                "general": "Cap'ain's got a death wish, keeping these barrels out in the open? One spark and we're a fucking bonfire!"
+            }
+        },
+        "leatherRopeGrips": {
+            "name": "Leather Rope Grips",
+            "description": {
+                "general": "Pull, boys! We'll have those sails trimmed faster than a blade on a bald's crown!"
+            }
+        },
+        "balancedMast": {
+            "name": "Balanced Mast",
+            "description": {
+                "general": "General and all purpose -- and no, sea rats, this doesn't mean I can't make up my fucking mind."
+            }
+        },
+        "sterileGalley": {
+            "name": "Sterile Galley",
+            "description": {
+                "general": "Oi, you filthy lot! Wipe that much off your boots before stepping in!"
+            }
+        },
+        "rumPantry": {
+            "name": "Rum Pantry",
+            "description": {
+                "general": "Now that's more like it."
+            }
+        },
+        "lightenedMast": {
+            "name": "Lightened Mast",
+            "description": {
+                "general": "Head about the races in the East Indies, the stragglers sneaking past Megafort Oosten's cannons..."
+            }
+        },
+        "longGunWorks": {
+            "name": "Long Gun Works",
+            "description": {
+                "general": "It just works. It kills fucks faster."
+            }
+        },
+        "demicannonWorks": {
+            "name": "Demi-cannon Works",
+            "description": {
+                "general": "Daman always wanted to spit fire at his foes. Until one day, they spat back..."
+            }
+        },
+        "culverinWorks": {
+            "name": "Culverin Works",
+            "description": {
+                "general": "Beneath Maja's prayers and angelic grace, lurked a darkness, a secret space."
+            }
+        },
+        "vatOfVolatiles": {
+            "name": "Vat of Volatiles",
+            "description": {
+                "general": "Danny wantetd to wash his face. Now, he has no face."
+            }
+        },
+        "ironCladdingStation": {
+            "name": "Iron Cladding Station",
+            "description": {
+                "general": "Steel yourselves, lads! We'll plow through 'em like piss and paper!"
+            }
+        },
+        "prismaticPowderFront": {
+            "name": "Front Powder Kegs",
+            "description": {
+                "general": "That ain't fairy dust, boys, but it'll still make your foes go 'poof!"
+            }
+        },
+        "prismaticPowderPort": {
+            "name": "Port Powder Kegs",
+            "description": {
+                "general": "Think it's snuff, eh? Go on, take a sniff! Get ready for a real mind-blowing experience. Heh heh heh."
+            }
+        },
+        "prismaticPowderStarboard": {
+            "name": "Starboard Powder Kegs",
+            "description": {
+                "general": "Don't be fooled by its pretty name, lads. Its beauty is in its destruction!"
+            }
+        },
+        "ballistaWorks": {
+            "name": "Ballista Works",
+            "description": {
+                "general": "Oh, Isabelle, silent as the deep. With bolts she strikes where sea monsters creep."
+            }
+        },
+        "bombardWorks": {
+            "name": "Bombard Works",
+            "description": {
+                "general": "Balrai yearned for his native hearth. In battle's chaos, his heart cried out in spicy mirth."
+            }
+        },
+        "flamethrowerWorks": {
+            "name": "Sea Fire Works",
+            "description": {
+                "general": "Smog was his fiery name, barking smoke and spewing tepid flames."
+            }
+        },
+        "maintainedArsenal": {
+            "name": "Maintained Arsenal",
+            "description": {
+                "general": "Time to do things the old-fashioned way."
+            }
+        },
+        "torpedoWorks": {
+            "name": "Torpedo Works",
+            "description": {
+                "general": "Amara's wit, once a spark so bright, but stillness fell during the failed heist's blight."
+            }
+        },
+        "mortarWorks": {
+            "name": "Mortar Works",
+            "description": {
+                "general": "Big Martha marked the seas, her wit and scorn for all to see."
+            }
+        },
+        "rocketWorks": {
+            "name": "Rocket Works",
+            "description": {
+                "general": "Shiro, as white as purest snow. Innocence veiled, blood's tale yet to show."
+            }
+        },
+        "grindstoneBallista": {
+            "name": "Ballista Grinder",
+            "description": {
+                "general": "I've seen a bolt pierce three men in a row. Let's aim for four!"
+            }
+        },
+        "grindstoneBombard": {
+            "name": "Bombard Grinder",
+            "description": {
+                "general": "Not just blades that need grinding, mate. Remember an ex-lover getting an intimate look, the cheating bastard..."
+            }
+        },
+        "grindstoneCulverin": {
+            "name": "Culverin Grinder",
+            "description": {
+                "general": "What's a grindstone good for 'sides sharpening weapons? Can't remove curses, can it?"
+            }
+        },
+        "grindstoneLongGun": {
+            "name": "Long Gun Grinder",
+            "description": {
+                "general": "Heard of Captain Longarm? Was sharpening his cannons one day when his hand got a little too close..."
+            }
+        },
+        "grindstoneTorpedo": {
+            "name": "Torpedo Grinder",
+            "description": {
+                "general": "Sharpen those barrels, boys! Those 'pedos need to slice like a drunken sailor's purse strings."
+            }
+        },
+        "grindstone": {
+            "name": "Grindstone",
+            "description": {
+                "general": "What's a grindstone good for 'sides sharpening weapons? Can't remove curses, can it?"
+            }
+        },
+        "brazingFurnaceFlamethrower": {
+            "name": "Sea Fire Furnace",
+            "description": {
+                "general": "How'd you fucking like THIS for a naked flame?!"
+            }
+        },
+        "brazingFurnace": {
+            "name": "Brazing Furnace",
+            "description": {
+                "general": "Aye, the blaze. Reminds me of the night dear Kat was claimed, and when I hoisted the colors tto feel her soft fur again."
+            }
+        },
+        "brazingFurnaceMortar": {
+            "name": "Mortar Furnace",
+            "description": {
+                "general": "Aye, make those shells scorching hot! We'll let loose on 'em like a belly full of bad oysters!"
+            }
+        },
+        "brazingFurnaceTorpedo": {
+            "name": "Torpedo Furnace",
+            "description": {
+                "general": "Stick the tubes in the furnace! Let our foes boil in their wake!"
+            }
+        },
+        "brazingFurnaceRocket": {
+            "name": "Rocket Furnace",
+            "description": {
+                "general": "Matt always wore white, each splotch of black a badge of honor."
+            }
+        },
+        "brazingFurnaceDemicannon": {
+            "name": "Demi-cannon Furnace",
+            "description": {
+                "general": "Aye, the blaze. Reminds me of the might dear Kat was claimed, and when I hoisted the colors to feel her soft fur again."
+            }
+        },
+        "powderHouseBombard": {
+            "name": "Bombard Powderhouse",
+            "description": {
+                "general": "No naked flames, please! No, like, seriously."
+            }
+        },
+        "powderHouseMortar": {
+            "name": "Mortar Powderhouse",
+            "description": {
+                "general": "For fuck's sake! I said no, naked, flames!"
+            }
+        },
+        "laPotenceSchematics": {
+            "name": "La Potence Schematics",
+            "description": {
+                "general": "I see a drop of green spreading, till the entire ocean is an emerald death."
+            }
+        },
+        "fauleIlse": {
+            "name": "Faule Ilse",
+            "description": {
+                "general": "Shrapnel fired from this demi-cannon is designed to cause collateral damage. On impact, iron pieces ricochet to nearby targets, making this weapon adept against a crowded fleet of ships."
+            }
+        },
+        "theWarhammer": {
+            "name": "The Warhammer",
+            "description": {
+                "general": "This destructive weapon quite literally levels the playing field by raining large, explosive rockets from above."
+            }
+        },
+        "endlessRequiem": {
+            "name": "Endless Requiem",
+            "description": {
+                "general": "Unique and highly-advanced torpedoes employed by Armand and Bertrand Hubac. Their target-seeking capabilities make them a challenge to evade."
+            }
+        },
+        "laPiqure": {
+            "name": "La Piqúre",
+            "description": {
+                "general": "A malicious weapon wielded by La Peste's cronies. Fires tainted shells that drain Crew Stamina. These toxic gases also cannot be blocked by bracing."
+            }
+        },
+        "dummySpringloader": {
+            "name": "Dummy Springloader",
+            "description": {
+                "general": "They won't tell the difference. Ha ha ha!"
+            }
+        },
+        "fatanaStation": {
+            "name": "Fatana Station",
+            "description": {
+                "general": "A flash of spice, a dash of powder. No, this ain't an explosion out yer' arse, mate."
+            }
+        },
+        "tuningStation": {
+            "name": "Tuning Station",
+            "description": {
+                "general": "Get those tubes loaded! Or I'll stuff you in myself."
+            }
+        },
+        "stormwovenSymphony": {
+            "name": "Stormwoven Symphony",
+            "description": {
+                "general": "A full orchestra upon the waves. May their voices be your shield."
+            }
+        },
+        "buccaneersOath": {
+            "name": "Buccaneer's Oath",
+            "description": {
+                "general": "Promises etched into the hull prove sturdier than any piercing shot."
+            }
+        },
+        "mineSpringloader": {
+            "name": "Mine Springloader",
+            "description": {
+                "general": "Launches Minefield Buoys using a complex system of springs and gears. These buoys deploy a field of deadly naval mines, as traps against unsuspecting victims."
+            }
+        },
+        "infernalMaw": {
+            "name": "Infernal Maw",
+            "description": {
+                "general": "An advanced modification of the Mine Springloader that launches Fire Minefield Buoys. Apart from releasing fiery mines, these buoys carry volatile Sea Fire liqued that conflargrates when destroyed. A minefield acts as defense against torpedos."
+            }
+        },
+        "littleGrace": {
+            "name": "Little Grace",
+            "description": {
+                "general": "Launches Repair Buoys using a complex system of spring and gears. When deployed, Repair Buoys restore the integrity of damaged hulls and masts."
+            }
+        },
+        "abyssal": {
+            "name": "Abyssal",
+            "description": {
+                "general": "Dark navy and gleaming silver, the burnished steel repels the fiercest of fires."
+            }
+        },
+        "buoyShellsCrate": {
+            "name": "Buoy Shells Crate",
+            "description": {
+                "general": "Contains 20 buoy shells that can be used in Springloader weapons"
+            }
+        },
+        "leviathanArmor": {
+            "name": "Leviathan",
+            "description": {
+                "general": "A tough yet sleek armor crafted from the mighty Lestari. Improves sailing speed."
+            }
+        },
+        "springloaderFurnace": {
+            "name": "Springloader Furnace",
+            "description": {
+                "general": "Careful, or you'll singe the wood. Same as your brows!"
+            }
+        },
+        "springloaderPowderhouse": {
+            "name": "Buoy Powderhouse",
+            "description": {
+                "general": "Another naked flame and I'll load yer' into the Loader itself!"
+            }
+        },
+        "machinistStationRepair": {
+            "name": "Machinist Table (Repair)",
+            "description": {
+                "general": "These buoys are meant for our friends! Don't spend too much time on 'em."
+            }
+        },
+        "raisedQuarterdeck": {
+            "name": "Raised Quarterdeck",
+            "description": {
+                "general": "Ughh. Wet stockings. The worst thing in the world."
+            }
+        },
+        "buoyLocker": {
+            "name": "Buoy Locker",
+            "description": {
+                "general": "Wonder where those fancy wigs've been hiding these buoys."
+            }
+        },
+        "brouwersPowderhouse": {
+            "name": "Brouwer's Powderhouse",
+            "description": {
+                "general": "So this is where the butcher made his powder, eh? Let's use it to butcher some of his lads."
+            }
+        },
+        "compagnieScreens": {
+            "name": "Compagnie Screens",
+            "description": {
+                "general": "Oi, you lot! Those things aren't for napping!"
+            }
+        },
+        "medicineCabinet": {
+            "name": "Medicine Cabinet",
+            "description": {
+                "general": "I don't think that pox's from La Peste, my lad."
+            }
+        },
+        "compagnieSpiritsLocker": {
+            "name": "Compagnie Spirits Locker",
+            "description": {
+                "general": "Which one of you lot took a swig of my Bourgogne 1650?"
+            }
+        },
+        "secretCache": {
+            "name": "Secret Cache",
+            "description": {
+                "general": "We expect to be well paid. We'#re in it for the silver, lads."
+            }
+        },
+        "bombardMenuiserie": {
+            "name": "Bombard Menuiserie",
+            "description": {
+                "general": "Yes, join this, attach that. Remember, lad, or I'll join your head to the deck!"
+            }
+        },
+        "rhapsodyOfTheDeep": {
+            "name": "Rhapsody of the Deep",
+            "description": {
+                "general": "None may harm a captain of such extravagant tastes."
+            }
+        },
+        "cursedBanner": {
+            "name": "Cursed Banner",
+            "description": {
+                "general": "The banner... it calls..."
+            }
+        },
+        "lemariMakanan": {
+            "name": "Lemari Makanan",
+            "description": {
+                "general": "Have you eaten yet? Plenty of asinan and salted fish to go around."
+            }
+        },
+        "bedarUpgrade": {
+            "name": "Bedar Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Bedar.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "hulkUpgrade": {
+            "name": "Hulk Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Hulk.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "cutterUpgrade": {
+            "name": "Cutter Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Cutter.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "bargeUpgrade": {
+            "name": "Barge Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Barge.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "sloopUpgrade": {
+            "name": "Sloop Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Sloop.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "padewakangUpgrade": {
+            "name": "Padewakang Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Padewakang.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "snowUpgrade": {
+            "name": "Snow Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Snow.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "brigantineUpgrade": {
+            "name": "Brigantine Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Brigantine.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "sambukUpgrade": {
+            "name": "Sambuk Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Sambuk.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "barqueUpgrade": {
+            "name": "Barque Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Barque.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "brigUpgrade": {
+            "name": "Brig Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Brig.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "battleJunkUpgrade": {
+            "name": "Battle Junk Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Battle Junk.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "garudaUpgrade": {
+            "name": "Garuda Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Garuda.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "boatswainsToll": {
+            "name": "Boatswain's Toll",
+            "description": {
+                "general": "Bigger and better, lads! That means you'd best blasted get moving!"
+            }
+        },
+        "scupperStation": {
+            "name": "Scupper Station",
+            "description": {
+                "general": "And don't let me catch yer' sticking your head in there!"
+            }
+        },
+        "waterFlask": {
+            "name": "Water Flask",
+            "description": {
+                "general": "Essential drink for a pirate."
+            }
+        },
+        "waterBarrel": {
+            "name": "Water Barrel",
+            "description": {
+                "general": "Refreshing drinking water."
+            }
+        },
+        "teulingsCoffee": {
+            "name": "Teulings Coffee",
+            "description": {
+                "general": "Coffee brewed from Teuling's favorite beans."
+            }
+        },
+        "zongZi": {
+            "name": "Zong Zi",
+            "description": {
+                "general": "Delicious rice dumplings wrapped with pandan leaves. Also a favorite among fish."
+            }
+        },
+        "teulingsSpecialSteakDinner": {
+            "name": "Teuling's Special Steak Dinner",
+            "description": {
+                "general": "Steak and sides, prepared to Teuling's tastes."
+            }
+        },
+        "mermaidsTears": {
+            "name": "Mermaid's Tears",
+            "description": {
+                "general": "As close as one can get to a mermaid"
+            }
+        },
+        "darkNStormy": {
+            "name": "Dark 'n Stormy",
+            "description": {
+                "general": "Calms the nerves, perfect for those Open Seas storms"
+            }
+        },
+        "scallyGrog": {
+            "name": "Scally Grog",
+            "description": {
+                "general": "Cheers to the Govenor!"
+            }
+        },
+        "bloodyAnnie": {
+            "name": "Bloody Annie",
+            "description": {
+                "general": "A sweet reminder to thee, for tis' lonely out at sea"
+            }
+        },
+        "lestarisMeat": {
+            "name": "Lestari's Meat",
+            "description": {
+                "general": "Meat obtained from the sea monster Lestari."
+            }
+        },
+        "grilledLestariMeat": {
+            "name": "Grilled Lestari Meat",
+            "description": {
+                "general": "Grilled meat from the sea monster Lestari. Tastes like chicken."
+            }
+        },
+        "leatherFashioningStation": {
+            "name": "Leather Station",
+            "description": {
+                "general": "Ever tried setting a cow on fire? That's why."
+            }
+        },
+        "lestariTrophy": {
+            "name": "Lestari Trophy",
+            "description": {
+                "general": "\"Half the crew's limbs for its fuckin' head!\""
+            }
+        },
+        "hubacTuningRack": {
+            "name": "Hubac Tuning Rack",
+            "description": {
+                "general": "\"The wheels and cogs seem to sing harmoniously.\""
+            }
+        },
+        "machinistStationMines": {
+            "name": "Machinist Table (Mines)",
+            "description": {
+                "general": "\"Polish those plugs up, lads. We've got French wigs to blow up!\""
+            }
+        },
+        "deluxeBallistaBoltCrate": {
+            "name": "Deluxe Ballista Bolt Crate",
+            "description": {
+                "general": "Contains ballista bolts that can be used in Ballista weapons",
+                "1": "Contains 40 ballista bolts that can be used in Ballista weapons",
+                "2": "Contains 60 ballista bolts that can be used in Ballista weapons"
+            }
+        },
+        "deluxeSeaFireOilCrate": {
+            "name": "Deluxe Sea Fire Oil Crate",
+            "description": {
+                "general": "Contains oil canisters that can be used in Sea Fire weapons",
+                "1": "Contains 120 oil canisters that can be used in Sea Fire weapons",
+                "2": "Contains 180 oil canisters that can be used in Sea Fire weapons"
+            }
+        },
+        "deluxeCannonballCrate": {
+            "name": "Deluxe Cannonball Crate",
+            "description": {
+                "general": "Contains cannonballs that can be used in Cannon weapons",
+                "1": "Contains 200 cannonballs that can be used in Cannon weapons",
+                "2": "Contains 300 cannonballs that can be used in Cannon weapons"
+            }
+        },
+        "deluxeMortarBombCrate": {
+            "name": "Deluxe Mortar Bomb Crate",
+            "description": {
+                "general": "Contains mortar bombs that can be used in Mortar weapons",
+                "1": "Contains 40 mortar bombs that can be used in Mortar weapons",
+                "2": "Contains 60 mortar bombs that can be used in Mortar weapons"
+            }
+        },
+        "deluxeRocketCrate": {
+            "name": "Deluxe Rocket Crate",
+            "description": {
+                "general": "Contains rockets that can be used in Rocket Launcher weapons",
+                "1": "Contains 200 rockets that can be used in Rocket Launcher weapons",
+                "2": "Contains 300 rockets that can be used in Rocket Launcher weapons"
+            }
+        },
+        "deluxeBuoyShellsCrate": {
+            "name": "Deluxe Buoy Shells Crate",
+            "description": {
+                "general": "Contains buoy shells that can be used in Springloader weapons",
+                "1": "Contains 40 buoy shells that can be used in Springloader weapons",
+                "2": "Contains 60 buoy shells that can be used in Springloader weapons"
+            }
+        },
+        "deluxeBombardBombCrate": {
+            "name": "Deluxe Bombard Bomb Crate",
+            "description": {
+                "general": "Contains bombard bombs that can be used in Bombard weapons",
+                "1": "Contains 120 bombard bombs that can be used in Bombard weapons",
+                "2": "Contains 180 bombard bombs that can be used in Bombard weapons"
+            }
+        },
+        "deluxeTorpedoCrate": {
+            "name": "Deluxe Torpedo Crate",
+            "description": {
+                "general": "Contains torpedoes that can be used in Torpedo Launcher weapons",
+                "1": "Contains 120 torpedoes that can be used in Torpedo Launcher weapons",
+                "2": "Contains 180 torpedoes that can be used in Torpedo Launcher weapons"
+            }
+        },
+        "whiteJade": {
+            "name": "White Jade",
+            "description": {
+                "general": "Designed with the ability to repair fleets, this treasured cannon is coveted by admirals and merchants alike."
+            }
+        },
+        "thousandYearMonsoon": {
+            "name": "Thousand-Year Monsoon",
+            "description": {
+                "general": "Like a century-old storm unleashed at sea, each blast renders keel and hull irreparable."
+            }
+        },
+        "crouchingTiger": {
+            "name": "Crouching Tiger",
+            "description": {
+                "general": "A tiger poised to strike with boisterous fury. It infuses incense from the Far East into its shells that trigger agression when inhaled."
+            }
+        },
+        "spitefulSpikesStation": {
+            "name": "Spikes Station",
+            "description": {
+                "general": "\"I'll stuff some of these in your traps if yer' keep yappin'!\""
+            }
+        },
+        "emergencySails": {
+            "name": "Emergency Sails",
+            "description": {
+                "general": "\"After the bastards! They took out poor Bob!\""
+            }
+        },
+        "celestialDance": {
+            "name": "Celestial Dance",
+            "description": {
+                "general": "The electricity arcs gracefully from foe to foe. It's almost beautiful... except for the stench after."
+            }
+        },
+        "hongYiPao": {
+            "name": "Hong Yi Pao",
+            "description": {
+                "general": "These Imperial guns of Portuguese design infuse incense from the Far East into their shells, triggering agression when inhaled."
+            }
+        },
+        "heavensMandate": {
+            "name": "Heaven's Mandate",
+            "description": {
+                "general": "Its roar echoes the death of a celestial beast, its very heart a tempest of divine fury."
+            }
+        },
+        "phoenixTalons": {
+            "name": "Phoenix Talons",
+            "description": {
+                "general": "Spews beautiful death and fanfare, daring those who would oppose the legendary pirate queen."
+            }
+        },
+        "baneOfTenSuns": {
+            "name": "Bane of Ten Suns",
+            "description": {
+                "general": "Its clockwork bolts puncture hull and steel, sundering the very skies."
+            }
+        },
+        "phoenixCrest": {
+            "name": "Phoenix Crest",
+            "description": {
+                "general": "Your beauty masks cruel intent. The vibrant colors appear to shift and swirl, creating a display that disorients and enrages."
+            }
+        },
+        "organHarvestingStation": {
+            "name": "Organ Harvesting Station",
+            "description": {
+                "general": "\"Poor Bob tried to sneak a taste of monster stew.\""
+            }
+        },
+        "bracedGunwales": {
+            "name": "Braced Gunwales",
+            "description": {
+                "general": "\"I'm not hiding! You are!\""
+            }
+        },
+        "heavenlyLance": {
+            "name": "Heavenly Lance",
+            "description": {
+                "general": "Launches shimmering scales that slice through the seas, leaving thunder in their wake."
+            }
+        },
+        "lestariStew": {
+            "name": "Lestari Stew",
+            "description": {
+                "general": "Meat from the Lestari that has been sliced thinly and stir-fried with fresh vegetables and served with a side of rice."
+            }
+        },
+        "firstMatesLedger": {
+            "name": "First Mate's Ledger",
+            "description": {
+                "general": "\"How the hell did she get the job?!\""
+            }
+        },
+        "kinckelsLaboratory": {
+            "name": "Kinckel's Laboratory",
+            "description": {
+                "general": "\"Here, the General concorted devious ways for the Rempah rebels to burn.\""
+            }
+        },
+        "shellPackingStation": {
+            "name": "Shell Packing Station",
+            "description": {
+                "general": "\"Lucky! You won't need to see your ugly mug in a mirror no more.\""
+            }
+        },
+        "densityFurnace": {
+            "name": "Density Furnace",
+            "description": {
+                "general": "\"Sorry, Cap'n. I accidentally dropped one. It went vertical.\""
+            }
+        },
+        "langrageBarrels": {
+            "name": "Langrage Barrels",
+            "description": {
+                "general": "\"Where's Peg Leg's peg! Anything pointy goes in the barrel!\""
+            }
+        },
+        "gearsWorkshop": {
+            "name": "Gears Workshop",
+            "description": {
+                "general": "\"Hammer and tongs! They're gonna get a bolt through their skull!\""
+            }
+        },
+        "smokedCanisters": {
+            "name": "Smoked Canisters",
+            "description": {
+                "general": "\"Anyone seen Mr. Arrow?!\""
+            }
+        },
+        "beamSupports": {
+            "name": "Beam Supports",
+            "description": {
+                "general": "\"This fortress shall not be sunk. I vow it!\""
+            }
+        },
+        "divineThunder": {
+            "name": "Divine Thunder",
+            "description": {
+                "general": "Its muzzle, shaped like a maw, crackles with the essence of a storm."
+            }
+        },
+        "immortalVessel": {
+            "name": "Immortal Vessel",
+            "description": {
+                "general": "It is said that this armor is blessed by the eight divines and will preserve a ship at the most dire times."
+            }
+        },
+        "voltasWard": {
+            "name": "Volta's Ward",
+            "description": {
+                "general": "Copper wires have been woven into the hull, channeling the storm's fury into harmless flickers of light."
+            }
+        },
+        "amberCoatingStation": {
+            "name": "Amber Coating Station",
+            "description": {
+                "general": "\"Bloody blood-suckers.\""
+            }
+        },
+        "chargeStores": {
+            "name": "Charge Stores",
+            "description": {
+                "general": "\"Eh, why's our hair standing on end?\""
+            }
+        },
+        "lotusMooncake": {
+            "name": "Lotus Mooncake",
+            "description": {
+                "general": "A delicious dessert stamped with an insignia on top. It is typically presented as a gift to family and friends."
+            }
+        },
+        "hellepoort": {
+            "name": "Hellepoort",
+            "description": {
+                "general": "A blackened metal frame groaning with tales of lost souls."
+            }
+        },
+        "freemansEmbrace": {
+            "name": "Freeman's Embrace",
+            "description": {
+                "general": "\"I swear, Captain, them eyes followin' me about...\""
+            }
+        },
+        "cannonballCarvingStation": {
+            "name": "Cannonball Carving Station",
+            "description": {
+                "general": "\"Yer kiss your mother with those cannons?!\""
+            }
+        },
+        "bloodyRed": {
+            "name": "Bloody Red",
+            "description": {
+                "general": "\"Oi, lads! Hoist the colors! We're after blood this day!\""
+            }
+        },
+        "plaguebringersWard": {
+            "name": "Plaguebringer's Ward",
+            "description": {
+                "general": "\"That bottle ain't filled with brandy, lad.\""
+            }
+        },
+        "quickIgnitingPowder": {
+            "name": "Quick-Igniting Powder",
+            "description": {
+                "general": "\"Smoke over there and I'll have one less ass to shove my boot up.\""
+            }
+        },
+        "ballistaFurnace": {
+            "name": "Ballista Furnace",
+            "description": {
+                "general": "\"Aye, we want them hot, lads! Hot enough to pierce through your stone-cold hearties!\""
+            }
+        },
+        "nagasCall": {
+            "name": "Naga's Call",
+            "description": {
+                "general": "Each spark of the cannon calls on the strength of the beast."
+            }
+        },
+        "agnisFury": {
+            "name": "Agni's Fury",
+            "description": {
+                "general": "Its delicate nozzle reduces foes to ash and dust."
+            }
+        },
+        "eyeOfHeaven": {
+            "name": "Eye of Heaven",
+            "description": {
+                "general": "The heavens watch over all, as does a night sky lit by fire and lightning."
+            }
+        },
+        "blightkeeper": {
+            "name": "Blightkeeper",
+            "description": {
+                "general": "This engineering marvel fires buoys that channel the life force of the vanquished."
+            }
+        },
+        "crimsonLotus": {
+            "name": "Crimson Lotus",
+            "description": {
+                "general": "May yours be a vessel of divine fervor and pure purpose."
+            }
+        },
+        "pishacha": {
+            "name": "Pishacha",
+            "description": {
+                "general": "Forged from the flesh of those long thought to have passed into the divine."
+            }
+        },
+        "tanashah": {
+            "name": "Tanashah",
+            "description": {
+                "general": "Golden crowns dip from a firm girdle, guarding an indomitable will."
+            }
+        },
+        "painPiper": {
+            "name": "Pain Piper",
+            "description": {
+                "general": "\"Get some of this, you pigeon-loving loons!\""
+            }
+        },
+        "drownedOnesToll": {
+            "name": "Drowned One's Toll",
+            "description": {
+                "general": "\"The cap't can pledge his soul to whoever he freakin' wants. I'm more worried about the rest of us...\""
+            }
+        },
+        "chainedLinks": {
+            "name": "Chained Links",
+            "description": {
+                "general": "\"Would you rather be a slowpoke or poked in your eye?\""
+            }
+        },
+        "teulingsGuidance": {
+            "name": "Teuling's Guidance",
+            "description": {
+                "general": "\"That Mr. Teuling ain't half-bad for a cockney, silver-haired bastard who prefers his coattails clean!\""
+            }
+        },
+        "strangeElixir": {
+            "name": "Strange Elixir",
+            "description": {
+                "general": "\"I... I feel like I can fling the whole ship at our foes!\""
+            }
+        },
+        "decoyDeck": {
+            "name": "Decoy Deck",
+            "description": {
+                "general": "\"Thank 'ee, mongrels, for your cannonballs!\""
+            }
+        },
+        "floatCollars": {
+            "name": "Float Collars",
+            "description": {
+                "general": "\"Grab them pillows, lads. Those buoys need more cushioning than your sorry heads!\""
+            }
+        },
+        "mineClearingLocker": {
+            "name": "Mine Clearing Locker",
+            "description": {
+                "general": "\"What the hell are ya doing, sea dogs, kicking that around like a bladder ball?!\""
+            }
+        },
+        "devilsConcoction": {
+            "name": "Devil's Concoction",
+            "description": {
+                "general": "\"Lads, that yellowish liquid had better not come from 'tween 'yer legs!\""
+            }
+        },
+        "debrisLocker": {
+            "name": "Debris Locker",
+            "description": {
+                "general": "\"I'll stuff you in myself if I find one of yer' slackin' off!\""
+            }
+        },
+        "expandingCorkscrewStation": {
+            "name": "Expanding Corkscrew Station",
+            "description": {
+                "general": "\"Here, Bob, wanna see a magic trick?\""
+            }
+        },
+        "cannonballChargingStation": {
+            "name": "Cannonball Charging Station",
+            "description": {
+                "general": "\"Easy. All we need to do is connect this end to that e--\""
+            }
+        },
+        "copperFasteningStation": {
+            "name": "Copper-Fastening Station",
+            "description": {
+                "general": "\"Here's a pretty prune all wrapped up for 'yer ass-puckers!\""
+            }
+        },
+        "rifledBarrelWorkshop": {
+            "name": "Rifled Barrel Workshop",
+            "description": {
+                "general": "\"Captain! Should we use the rifle to rifle the rifled barrels?\""
+            }
+        },
+        "highVelocityKegs": {
+            "name": "High-Velocity Kegs",
+            "description": {
+                "general": "\"Who's the fecker who last filled the pepper pouch?\""
+            }
+        },
+        "nashkar": {
+            "name": "Nashkar",
+            "description": {
+                "general": "Unknowable runes are carved onto the barrel surface. Best left unspoken."
+            }
+        },
+        "dahaaka": {
+            "name": "Dahaaka",
+            "description": {
+                "general": "Like the ancient water serpent, this launcher ensures your wrath snakes through the waves unimpeded."
+            }
+        },
+        "rumFruitcake": {
+            "name": "Rum Fruitcake",
+            "description": {
+                "general": "A rich, decadent fruitcake that happens to be a favorite of Scurlock's."
+            }
+        },
+        "crocodileMeat": {
+            "name": "Crocodile Meat",
+            "description": {
+                "general": "Barely edible if eaten raw."
+            }
+        },
+        "tylosaurusFlesh": {
+            "name": "Tylosaurus Flesh",
+            "description": {
+                "general": "The meat of a beast that stalks the African Coast, feasting on unfortunate seafarers"
+            }
+        },
+        "fish": {
+            "name": "Fish",
+            "description": {
+                "general": "Mild flavor with a soft texture."
+            }
+        },
+        "durian": {
+            "name": "Durian",
+            "description": {
+                "general": "A large fruit with a strong odor and covered with thorns."
+            }
+        },
+        "coconut": {
+            "name": "Coconut",
+            "description": {
+                "general": "A stranded-island staple."
+            }
+        },
+        "ndizi": {
+            "name": "Ndizi",
+            "description": {
+                "general": "Popular for its sweet taste, those used for cooking are often called plantains."
+            }
+        },
+        "rawChicken": {
+            "name": "Raw Chicken",
+            "description": {
+                "general": "Bland and viscous."
+            }
+        },
+        "flour": {
+            "name": "Flour",
+            "description": {
+                "general": "Crucial ingredient for many dishes."
+            }
+        },
+        "rawMutton": {
+            "name": "Raw Mutton",
+            "description": {
+                "general": "Cooking the mutton will reduce its strongly bitter taste."
+            }
+        },
+        "rawVegetables": {
+            "name": "Raw Vegetables",
+            "description": {
+                "general": "Plain and unassuming."
+            }
+        },
+        "screwpine": {
+            "name": "Screwpine",
+            "description": {
+                "general": "The fruit can be boiled and ground into an edible, highly nutritious paste."
+            }
+        },
+        "hippoMeat": {
+            "name": "Hippo Meat",
+            "description": {
+                "general": "Bitter flavor and strong texture."
+            }
+        },
+        "sharkMeat": {
+            "name": "Shark Meat",
+            "description": {
+                "general": "Strong, sour smell. Would taste better cooked."
+            }
+        },
+        "rawBeef": {
+            "name": "Raw Beef",
+            "description": {
+                "general": "Would taste better cooked."
+            }
+        },
+        "primeCrocodileMeat": {
+            "name": "Prime Crocodile Meat",
+            "description": {
+                "general": "Best cut of meat from a Crocodile."
+            }
+        },
+        "primeHippoMeat": {
+            "name": "Prime Hippo Meat",
+            "description": {
+                "general": "Best cut of meat from a Hippo."
+            }
+        },
+        "libertyCap": {
+            "name": "Liberty Cap",
+            "description": {
+                "general": "Highly potent, just one bite is enough to make any person go mad."
+            }
+        },
+        "schoonerUpgrade": {
+            "name": "Schooner Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Schooner.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "titansCuirass": {
+            "name": "Titan's Cuirass",
+            "description": {
+                "general": "Reduces the strength of the Shell-Shocked status effect and offers exceptional resistance against Explosive damage. Inspired by the enduring might of ancient gods."
+            }
+        },
+        "heydensGuard": {
+            "name": "Heyden's Guard",
+            "description": {
+                "general": "Nullifies all damage of the Ablaze status effect while Bracing, and fortifies against burning weapons. Designed to stand against the Ungwana in all their fury."
+            }
+        },
+        "nocturneHeart": {
+            "name": "Nocturne Heart",
+            "description": {
+                "general": "Increases weapon damage while at the height of Hull Health. Favored among Sainte-Anne raiders who are known for striking and vanishing untouched."
+            }
+        },
+        "silverSentinel": {
+            "name": "Silver Sentinel",
+            "description": {
+                "general": "Enhances Bracing which nullifies some damage, especially when well-timed."
+            }
+        },
+        "divineWind": {
+            "name": "Divine Wind",
+            "description": {
+                "general": "Encased in a storm-dark scales, this bombard summons a lightning strike seconds after a shot lands, electrifying nearby foes."
+            }
+        },
+        "floodingBombard": {
+            "name": "Flooding Bombard",
+            "description": {
+                "general": "Rains a hail of destructive shells, damaging multiple foes in an area. Suited to blasting holes in enemy hulls and causing them to be Flooded."
+            }
+        },
+        "tearingLongGun": {
+            "name": "Tearing Long Gun",
+            "description": {
+                "general": "Long-barrel cannons adept at destroying targets at long range. Great at tearing enemy sails and leaving them immobile."
+            }
+        },
+        "farscourge": {
+            "name": "Farscourge",
+            "description": {
+                "general": "A weapon torged by dishonorable scallywags, striking from afar to leave hulls Punctured and decks Flooded. Also adept at rendering ships vulnerable to Crew Attacks."
+            }
+        },
+        "langeKartouwe": {
+            "name": "Lange Kartouwe",
+            "description": {
+                "general": "A marvel of Dutch engineering that shoots off explosive flares, culminating in a delayed explosion. Its shots also deal increased damage to enemy fortifications."
+            }
+        },
+        "alecto": {
+            "name": "Alecto",
+            "description": {
+                "general": "This crimson-coated ballista fires three bolts at once. Should all three bolts hit the same mark, they erupt in flames in a devastating follow-up."
+            }
+        },
+        "explosiveDemicannon": {
+            "name": "Explosive Demicannon",
+            "description": {
+                "general": "A medium-sized cannon that rips targets apart at close range. Its shots deliver concussive blasts, causing the crew to be Shell-Shocked and unable to fire weapons for a short period."
+            }
+        },
+        "piercingDemicannon": {
+            "name": "Piercing Demicannon",
+            "description": {
+                "general": "A medium-sized cannon that rips targets apart at close range by firing deadly shrapnel. Also weakens their armor by leaving their hulls Punctured."
+            }
+        },
+        "kleineKartouwe": {
+            "name": "Kleine Kartouwe",
+            "description": {
+                "general": "Compact yet deadly, this bronze cannon delivers explosive rounds that can trigger a second, delayed explosion."
+            }
+        },
+        "fireCulverin": {
+            "name": "Fire Culverin",
+            "description": {
+                "general": "A versatile cannon that offers good range, damage, and reload speed. Its incendiary shots set targets Ablaze."
+            }
+        },
+        "brickbreaker": {
+            "name": "Brickbreaker",
+            "description": {
+                "general": "The steel bores of this hardened cannon deliver explosive shells that excel at destroying fortifications."
+            }
+        },
+        "urbansGreatGun": {
+            "name": "Urban's Great Gun",
+            "description": {
+                "general": "The mighty guns speak but once, unleashing a devastating flurry in unison. Its immense power tears through sails, leaving enemies crippled and vulnerable."
+            }
+        },
+        "bilgefireBarrels": {
+            "name": "Bilgefire Barrels",
+            "description": {
+                "general": "\"Sweep the guns good, lads. We'll coat the bastards with their own insides.\""
+            }
+        },
+        "emergencyLocker": {
+            "name": "Emergency Locker",
+            "description": {
+                "general": "\"Get the mallet and planks! Or I'll use your arse to plug that hole.\""
+            }
+        },
+        "wyrmsBreathChurner": {
+            "name": "Wyrm's Breath Chruner",
+            "description": {
+                "general": "\"Sugar, spice, and everything not-so-nice.\""
+            }
+        },
+        "markOfTheWolf": {
+            "name": "Mark of the Wolf",
+            "description": {
+                "general": "\"The wolf hunts us. Its eyes follow us through the fog, like death.\""
+            }
+        },
+        "fuseFusingStation": {
+            "name": "Fuse-Fusing Station",
+            "description": {
+                "general": "\"Those tips need to stay dry, lads! Or our foes gonna do the lightin'.\""
+            }
+        },
+        "ramrodWorkshop": {
+            "name": "Ramrod Workshop",
+            "description": {
+                "general": "\"Stick that arm in there and pray your friend doesn't light the fuse.\""
+            }
+        },
+        "breechlockFurnace": {
+            "name": "Breechlock Furnace",
+            "description": {
+                "general": "\"Ha! What a shot! In one end and clean out the other!\""
+            }
+        },
+        "dynamicBallastControl": {
+            "name": "Dynamic Ballast Control",
+            "description": {
+                "general": "\"Poor Jimmy. Told him not to nap in the log room.\""
+            }
+        },
+        "mortarGrinder": {
+            "name": "Mortar Grinder",
+            "description": {
+                "general": "A specialized station used to hone mortar barrels, resulting in faster shots."
+            }
+        }
+    }
+}

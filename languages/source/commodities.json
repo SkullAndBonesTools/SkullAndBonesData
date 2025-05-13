@@ -1,0 +1,256 @@
+{
+    "commodities": {
+        "lambaCloth": {
+            "name": "Lamba Cloth",
+            "description": "Traditional garment from the Red Isle. Has value to the right buyer. Produced by the Sea People to be traded in the region."
+        },
+        "uncutGarnet": {
+            "name": "Uncut Garnet",
+            "description": "A deep maroon hints at its value. It is prized as a gem by many. Produced by the Sea People to be exported from the region."
+        },
+        "fineSeaPeopleRelic": {
+            "name": "Fine Sea People Relic",
+            "description": "A precious article from the Sea People. They could be sold for a good amount of silver."
+        },
+        "capitalSeaPeopleRelic": {
+            "name": "Capital Sea People Relic",
+            "description": "An invaluable article from the Sea People. They could be sold for a huge amount of silver."
+        },
+        "cloves": {
+            "name": "Cloves",
+            "description": "Cloves are dried flower buds used both as a spice and a medicinal ingredient. Produced and traded by the Fara in the region of the Red Isle."
+        },
+        "frankincense": {
+            "name": "Frankincense",
+            "description": "An aromatic resin obtained from a shrub that grows in the region of the Arabian Straits. It is burnt in various rituals, both in the East and West. Produced by the Fara to be exported out of the region."
+        },
+        "uncutSapphire": {
+            "name": "Uncut Sapphire",
+            "description": "A crude, valuable blue gem that can be found in the Red Isle. Unearthed by the Fara for trades beyond the Indian Ocean."
+        },
+        "fineFaraRelic": {
+            "name": "Fine Fara Relic",
+            "description": "A precious article from the Fara. They could be sold for a good amount of silver."
+        },
+        "capitalFaraRelic": {
+            "name": "Capital Fara Relic",
+            "description": "An invaluable article from the Fara. They could be sold for a huge amount of silver."
+        },
+        "snuff": {
+            "name": "Snuff",
+            "description": "In the hands of a connoisseur, it brings joy for its flavor. produced by the Ungwana to be traded in the region."
+        },
+        "ivory": {
+            "name": "Ivory",
+            "description": "A priceless commodity prized by artisans for its beauty and range of items that can be crafted from it. Produced by the Ungwana to be exported out of the region."
+        },
+        "uncutDiamond": {
+            "name": "Uncut Diamond",
+            "description": "Prized by many, this commodity is valued for its beauty and price in the hands of the right person. Produced by the Ungwana to be exported out of the region."
+        },
+        "fineUngwanaRelic": {
+            "name": "Fine Ungwana Relic",
+            "description": "A precious article from the Ungwana. They could be sold for a good amount of silver."
+        },
+        "capitalUngwanaRelic": {
+            "name": "Capital Ungwana Relic",
+            "description": "An invaluable article from the Ungwana. They could be sold for a huge amount of silver."
+        },
+        "spice": {
+            "name": "Spice",
+            "description": "Ground spices highly valued for its culinary and medical utility. Wars have been fought over them. Produced by the Rempah to be exported from the region."
+        },
+        "batik": {
+            "name": "Batik",
+            "description": "Intricate dyed cloth manufactured by the Rempah. Produced to be traded in the region."
+        },
+        "uncutRuby": {
+            "name": "Uncut Ruby",
+            "description": "An unprocessed gem of fire red to be fitted into the cane of a nobleman or the ring of a Kingpin. Produced by the Rempah to be exported from the region."
+        },
+        "fineRempahRelic": {
+            "name": "Fine Rempah Relic",
+            "description": "A precious article from the Rempah. They could be sold for a good amount of silver."
+        },
+        "capitalRempahRelic": {
+            "name": "Capital Rempah Relic",
+            "description": "An invaluable article from the Rempah. They could be sold for a huge amount of silver."
+        },
+        "ale": {
+            "name": "Ale",
+            "description": "More stuff to make people drunk. A pirate's favorite drink."
+        },
+        "tobacco": {
+            "name": "Tobacco",
+            "description": "Dried leaves from a plant in the West Indies. Highly addictive, it is smoked, chewed, or snuffed as a leisure drug, and mistakenly considered beneficial for health. Produced by the Compagnie to be exported out of the region."
+        },
+        "ambergris": {
+            "name": "Ambergris",
+            "description": "Found ashore or floating at sea near the Red Isle, ambergris is a fragrant substance used in perfumery and a byproduct of digesting giant squids by sperm whales. Produced  by the Compagnie to be exported out of the region."
+        },
+        "vanilla": {
+            "name": "Vanilla",
+            "description": "A sweet spice for flavoring and medicine. Produced by the Compagnie to be exported out of the region."
+        },
+        "wine": {
+            "name": "Wine",
+            "description": "A classic alcoholic beverage made from fermented grapes and enjoyed by people from all continents. Imported by the Compagnie to be traded in the region."
+        },
+        "brandy": {
+            "name": "Brandy",
+            "description": "A strong liquor distilled from wine and aged in wooden casks, which give it a distinct flavor and scent. Imported by the Compagnie to be traded in the region."
+        },
+        "ornatePistols": {
+            "name": "Ornate Pistols",
+            "description": "Pistols desirable for officers and pirates who like to be conspicuous with their wealth."
+        },
+        "militaryCompagnieRelic": {
+            "name": "Military Compagnie Relic",
+            "description": "A fortification component from the Compagnie. They could be sold for a huge amount of silver."
+        },
+        "fineCompagnieRelic": {
+            "name": "Fine Compagnie Relic",
+            "description": "A precious article from the Compagnie. They could be sold for a good amount of silver."
+        },
+        "basicCompagnieRelic": {
+            "name": "Basic Compagnie Relic",
+            "description": "An article from the Compagnie. They could be sold for a decent amount of silver."
+        },
+        "capitalCompagnieRelic": {
+            "name": "Capital Compagnie Relic",
+            "description": "An invaluable article from the Compagnie. They could be sold for a huge amount of silver."
+        },
+        "nutmeg": {
+            "name": "Nutmeg",
+            "description": "The fruit of a rare tree that only grows in the islands of the East Indies. Nutmeg is a priceless spice produced by the DMC to be traded in the region."
+        },
+        "cacao": {
+            "name": "Cacao",
+            "description": "A popular bean used in a variety of food and beverages, and imported from Europe. Has value to the right buyer. Produced by the DMC to be traded in the region."
+        },
+        "camphor": {
+            "name": "Camphor",
+            "description": "A fragrant substance contained in the vapors from burning trees in the East Indies. It is used both in perfumery and as a medicinal ingredient. Produced by the DMC to be traded in the region."
+        },
+        "gin": {
+            "name": "Gin",
+            "description": "Originally created as a medicinal liquor by monks and alchemists in Europe. Imported by the DMC to be traded in the region."
+        },
+        "painting": {
+            "name": "Painting",
+            "description": "A beautiful oil canvas painting framed by mahogany. This will fetch the right price from the right buyer. Imported by the DMC to be traded in the region."
+        },
+        "militaryDmcRelic": {
+            "name": "Military DMC Relic",
+            "description": "A fortification component from the DMC. They could be sold for a huge amount of silver."
+        },
+        "fineDmcRelic": {
+            "name": "Fine DMC Relic",
+            "description": "A precious article from the DMC. They could be sold for a good amount of silver."
+        },
+        "capitalDmcRelic": {
+            "name": "Capital DMC Relic",
+            "description": "An invaluable article from the DMC. They could be sold for a huge amount of silver."
+        },
+        "rum": {
+            "name": "Rum",
+            "description": "Distilled from sugarcane molasses. Truly the pirate's drink of choice. Imported by Scurlock to be traded in the region."
+        },
+        "cannonPowder": {
+            "name": "Cannon Powder",
+            "description": "The sheer explosive power of this chemical concoction means your enemies won't just be leaving with a bruised ego. Imported by Scurlock to be traded in the region."
+        },
+        "firearms": {
+            "name": "Firearms",
+            "description": "A cache of illegally procured weapons to bolster any pirate's arsenal. Imported by Scurlock to be traded in the region."
+        },
+        "ginseng": {
+            "name": "Ginseng",
+            "description": "One of the most famous herbs in the world. Often used by Rahma for its medicinal benefits. Imported by Rahma to be traded in the region."
+        },
+        "jade": {
+            "name": "Jade",
+            "description": "Prized mineral from the East, Jade is worn as jewelry and ornaments in certain cultures. Imported by Rahma to be traded in the region."
+        },
+        "porcelain": {
+            "name": "Porcelain",
+            "description": "Priceless ceramic artifacts originating from the Far East. Imported by Rahma to be traded in the region."
+        },
+        "poppy": {
+            "name": "Poppy",
+            "description": "Refined into Blue Lotus Opium at the laboratory in Telok Penjarah."
+        },
+        "sugarCane": {
+            "name": "Sugar Cane",
+            "description": "Refines into White Skull Rum in Sainte-Anne's Helm office."
+        },
+        "juniperBerries": {
+            "name": "Juniper Berries",
+            "description": "Refined into White Skull Gin in Sainte-Anne's Helm office."
+        },
+        "tobaccoLeaves": {
+            "name": "Tobacco Leaves",
+            "description": "Refined into Black Snuff in Telok Penjarah's Helm office."
+        },
+        "rawImperialJade": {
+            "name": "Raw Imperial Jade",
+            "description": "A raw form of Imperial Jade, a valuable piece of contraband from the East. Refines into Imperial Jade at the Telok Penjarah Office."
+        },
+        "blackSnuff": {
+            "name": "Black Snuff",
+            "description": "High-quality black snuff refined from Tobacco Leaves by Helm members."
+        },
+        "blueLotusOpium": {
+            "name": "Blue Lotus Opium",
+            "description": "High-quality opium refined from Poppy by the Helm members."
+        },
+        "whiteSkullRum": {
+            "name": "White Skull Rum",
+            "description": "High-quality white rum refined from Sugar Cane by the Helm members."
+        },
+        "whiteSkullGin": {
+            "name": "White Skull Gin",
+            "description": "High-quality white gin refined from Juniper Berries by the Helm members."
+        },
+        "imperialJade": {
+            "name": "Imperial Jade",
+            "description": "Imperial Jade is a precious, highly valuable form of jade from the Far East, also known as the Middle Kingdom."
+        },
+        "silverSnuff": {
+            "name": "Silver Snuff",
+            "description": "The highest-quality white snuff obtainable from Black Snuff by Helm members."
+        },
+        "blackLotusOpium": {
+            "name": "Black Lotus Opium",
+            "description": "The highest-quality opium obtainable from Blue Lotus Opium by Helm members."
+        },
+        "goldSkullRum": {
+            "name": "Gold Skull Rum",
+            "description": "The highest-quality gold rum obtainable from White Skull Rum by Helm members."
+        },
+        "goldSkullGin": {
+            "name": "Gold Skull Gin",
+            "description": "The highest-quality gold gin obtainable from White Skull Gin by Helm members."
+        },
+        "carvedImperialJade": {
+            "name": "Carved Imperial Jade",
+            "description": "An artful carving of Imperial Jade from the East, coveted by collectors. Obtainable from Imperial Jade and members of the Helm."
+        },
+        "copperBars": {
+            "name": "Kupfer Bars",
+            "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
+        },
+        "helmLeaseOpen": {
+            "name": "Helm Lease (Open)",
+            "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."
+        },
+        "crystalizedTaintedWood": {
+            "name": "Crystalized Tainted Wood",
+            "description": "Rumored to be from Sathanur, the wood has been hardened by petrification and the undying passage of time."
+        },
+        "sigilFlare": {
+            "name": "Sigil Flare",
+            "description": "An ornate flare that shines brightly when ignited. This is the calling card of the Honorless for their hallucinogen supply drops."
+        }
+    }
+}
