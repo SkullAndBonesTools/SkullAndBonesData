@@ -2,7 +2,7 @@ name: Upload Sources to Crowdin
 
 on:
   push:
-    paths: [ 'languages/en/**']
+    paths: [ 'languages/source/**']
     branches: [ preview ]
 
 jobs:
