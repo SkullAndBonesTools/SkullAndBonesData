@@ -22041,9 +22041,9 @@
         "id": "theFinalWord",
         "type": "sailsEmblem",
         "set": "honorAndJudgment",
-        "obtainable": "",
+        "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-13"
     },
     "stolenLegacies": {
         "id": "stolenLegacies",
