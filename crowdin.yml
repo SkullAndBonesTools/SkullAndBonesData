@@ -7,7 +7,7 @@
 
 "files": [
   {
-    "source": "languages/en/en_*.json",
+    "source": "languages/source/*.json",
     "dest": "Skull and Bones Data/%original_file_name%",
     "translation": "languages/%two_letters_code%/%two_letters_code%_%original_file_name%"
   },

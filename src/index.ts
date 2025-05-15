@@ -1,11 +1,15 @@
 // DAOs
-export { Seasons } from "./daos/seasons";
-export { Ships } from "./daos/ships";
-export { Materials } from "./daos/materials";
 export { Commodities } from "./daos/commodities";
+export { Contracts } from "./daos/contracts";
 export { Cosmetics } from "./daos/cosmetics";
+export { Events } from "./daos/events";
 export { Items } from "./daos/items";
+export { Materials } from "./daos/materials";
+export { Modifications } from "./daos/modifications";
+export { Seasons } from "./daos/seasons";
 export { Sets } from "./daos/sets";
+export { Ships } from "./daos/ships";
+export { WorldEvents } from "./daos/worldEvents";
 
 // Types
 export { Rarity } from "./types/Rarity";

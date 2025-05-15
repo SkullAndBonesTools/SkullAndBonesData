@@ -22041,9 +22041,9 @@
         "id": "theFinalWord",
         "type": "sailsEmblem",
         "set": "honorAndJudgment",
-        "obtainable": "",
+        "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-13"
     },
     "stolenLegacies": {
         "id": "stolenLegacies",
@@ -23258,5 +23258,143 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-05-06",
         "lastUpdated": "2025-05-06"
+    },
+    "wolfsShield": {
+        "id": "wolfsShield",
+        "type": "sailsEmblem",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "ruthlessReckoning": {
+        "id": "ruthlessReckoning",
+        "type": "sailsPattern",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "sacrilegiousPast": {
+        "id": "sacrilegiousPast",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "flamingGuardian": {
+        "id": "flamingGuardian",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "bornFromAshes": {
+        "id": "bornFromAshes",
+        "type": "hull",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "seawolf": {
+        "id": "seawolf",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "smiteTheDark": {
+        "id": "smiteTheDark",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "emberWolf",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "regalCommand": {
+        "id": "regalCommand",
+        "type": "torso",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "chainsOfDominion": {
+        "id": "chainsOfDominion",
+        "type": "neck",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "sovereignsLash": {
+        "id": "sovereignsLash",
+        "type": "forearm",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "twinWolves": {
+        "id": "twinWolves",
+        "type": "waist",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "eyesOfTheCommodore": {
+        "id": "eyesOfTheCommodore",
+        "type": "hand",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "nightwindTrousers": {
+        "id": "nightwindTrousers",
+        "type": "bottom",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "ironstepSabatons": {
+        "id": "ironstepSabatons",
+        "type": "footwear",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "embermarked": {
+        "id": "embermarked",
+        "type": "bodyCosmetics",
+        "set": "sinfulNature",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "comeGetSome": {
+        "id": "comeGetSome",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
+    },
+    "hadEnough": {
+        "id": "hadEnough",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-05-13",
+        "lastUpdated": "2025-05-13"
     }
 }
