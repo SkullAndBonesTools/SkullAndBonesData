@@ -265,15 +265,16 @@
     },
     "graceOfTheWinds": {
         "id": "graceOfTheWinds",
-        "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-        "range": [0.062, 0.09],
-        "dropOnly": false,
-        "grade": "advanced"
-    },
-    "graceOfTheWindsMassProjectiles": {
-        "id": "graceOfTheWindsMassProjectiles",
-        "itemType": ["demicannon","rocket"],
-        "range": [0.0015, 0.0025],
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.062, 0.09]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.0015, 0.0025]
+            }
+        ],
         "dropOnly": false,
         "grade": "advanced"
     },
@@ -309,29 +310,31 @@
     },
     "deathblow": {
         "id": "deathblow",
-        "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-        "range": [0.09, 0.15],
-        "dropOnly": false,
-        "grade": "advanced"
-    },
-    "deathblowMassProjectiles": {
-        "id": "deathblowMassProjectiles",
-        "itemType": ["demicannon","rocket"],
-        "range": [0.0023, 0.0038],
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.0023, 0.0038]
+            }
+        ],
         "dropOnly": false,
         "grade": "advanced"
     },
     "repairReadiness": {
         "id": "repairReadiness",
-        "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-        "range": [0.093, 0.135],
-        "dropOnly": false,
-        "grade": "advanced"
-    },
-    "repairReadinessMassProjectiles": {
-        "id": "repairReadinessMassProjectiles",
-        "itemType": ["demicannon","rocket"],
-        "range": [0.00225, 0.00375],
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.093, 0.135]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.00225, 0.00375]
+            }
+        ],
         "dropOnly": false,
         "grade": "advanced"
     },
@@ -362,15 +365,16 @@
     },
     "restoreReadiness": {
         "id": "restoreReadiness",
-        "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-        "range": [0.093, 0.135],
-        "dropOnly": false,
-        "grade": "advanced"
-    },
-    "restoreReadinessMassProjectiles": {
-        "id": "restoreReadinessMassProjectiles",
-        "itemType": ["demicannon","rocket"],
-        "range": [0.00225, 0.00375],
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.093, 0.135]
+            },
+            {
+                "itemType": ["demicannon","rocket"],
+                "range": [0.00225, 0.00375]
+            }
+        ],
         "dropOnly": false,
         "grade": "advanced"
     },

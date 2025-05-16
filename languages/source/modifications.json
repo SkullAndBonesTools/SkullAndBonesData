@@ -127,10 +127,6 @@
         "name": "Grace of the Winds",
         "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 5 times"
     },
-    "graceOfTheWindsMassProjectiles": {
-        "name": "Grace of the Winds",
-        "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 5 times"
-    },
     "lethal": {
         "name": "Lethal",
         "description": "Increases Weakpoint Damage by %s-%s%"
@@ -154,18 +150,7 @@
             "For Elite targets, the effect reduces remaining Hull Health by 3% instead of instant destruction"
         ]
     },
-    "deathblowMassProjectiles": {
-        "name": "Deathblow",
-        "description": [
-            "For targets with 25% Hull Health or less, hits have a %s-%s% chance to instantly destroy them",
-            "For Elite targets, the effect reduces remaining Hull Health by 3% instead of instant destruction"
-        ]
-    },
     "repairReadiness": {
-        "name": "Repair Readiness",
-        "description": "Hits have a %s-%s% chance to reduce any repair kit cooldown by 3 seconds"
-    },
-    "repairReadinessMassProjectiles": {
         "name": "Repair Readiness",
         "description": "Hits have a %s-%s% chance to reduce any repair kit cooldown by 3 seconds"
     },
@@ -182,10 +167,6 @@
         "description": "Increases damage to structures by %s-%s%"
     },
     "restoreReadiness": {
-        "name": "Restore Readiness",
-        "description": "Hits have a %s-%s% chance to reduce Restoration Kit cooldown by 3 seconds"
-    },
-    "restoreReadinessMassProjectiles": {
         "name": "Restore Readiness",
         "description": "Hits have a %s-%s% chance to reduce Restoration Kit cooldown by 3 seconds"
     },
