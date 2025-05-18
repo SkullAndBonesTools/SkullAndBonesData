@@ -262,5 +262,30 @@
         "tier": 1,
         "category": "cooperative",
         "goal": 1337
+    },
+    "handOfJudgment": {
+        "id": "handOfJudgment",
+        "category": "seasonal",
+        "goal": 20
+    },
+    "azureTidings": {
+        "id": "azureTidings",
+        "category": "seasonal",
+        "goal": 50
+    },
+    "claimToFame": {
+        "id": "claimToFame",
+        "category": "seasonal",
+        "goal": 200000
+    },
+    "enterTheNian": {
+        "id": "enterTheNian",
+        "category": "seasonal",
+        "goal": 20
+    },
+    "ghoulsBane": {
+        "id": "ghoulsBane",
+        "category": "seasonal",
+        "goal": 20
     }
 }

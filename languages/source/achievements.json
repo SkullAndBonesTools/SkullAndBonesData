@@ -123,6 +123,26 @@
         "wolfpack": {
             "name": "Wolfpack",
             "description": "Land the final hit on %s ships while sailing in a group."
+        },
+        "handOfJudgment": {
+            "name": "Hand of Judgment",
+            "description": "Use %s Bloodied Strongbox"
+        },
+        "azureTidings": {
+            "name": "Azure Tidings",
+            "description": "Use %s Azure Cache"
+        },
+        "claimToFame": {
+            "name": "Claim to Fame",
+            "description": "Gain %s Infamy in Year 2 Season 1"
+        },
+        "enterTheNian": {
+            "name": "Enter the Nian",
+            "description": "Use %s Nian Strongbox"
+        },
+        "ghoulsBane": {
+            "name": "Ghoul's Bane",
+            "description": "Use %s Reaper's Cache"
         }
     }
 }
