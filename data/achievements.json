@@ -1,0 +1,157 @@
+{
+    "ballistaMastery1": {
+        "id": "ballistaMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "ballistaMastery2": {
+        "id": "ballistaMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "mortarMastery1": {
+        "id": "mortarMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "mortarMastery2": {
+        "id": "mortarMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "seaFireMastery1": {
+        "id": "seaFireMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "seaFireMastery2": {
+        "id": "seaFireMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "springloaderMastery1": {
+        "id": "springloaderMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "springloaderMastery2": {
+        "id": "springloaderMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "torpedoMastery1": {
+        "id": "torpedoMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "torpedoMastery2": {
+        "id": "torpedoMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "bombardMastery1": {
+        "id": "bombardMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "bombardMastery2": {
+        "id": "bombardMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "culverinMastery1": {
+        "id": "culverinMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "culverinMastery2": {
+        "id": "culverinMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "demicannonMastery1": {
+        "id": "demiCannonMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "demicannonMastery2": {
+        "id": "demiCannonMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "longGunMastery1": {
+        "id": "longGunMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "longGunMastery2": {
+        "id": "longGunMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "rocketMastery1": {
+        "id": "rocketMastery1",
+        "category": "mastery",
+        "tier": 1,
+        "goal": 1000000
+    },
+    "rocketMastery2": {
+        "id": "rocketMastery2",
+        "category": "mastery",
+        "tier": 2,
+        "goal": 10000000
+    },
+    "explosiveLongGunMastery": {
+        "id": "explosiveLongGunMastery",
+        "category": "mastery",
+        "goal": 500000000
+    },
+    "unisonCulverinMastery": {
+        "id": "unisonCulverinMastery",
+        "category": "mastery",
+        "goal": 500000000
+    },
+    "explosiveDemicannonMastery": {
+        "id": "explosiveDemicannonMastery",
+        "category": "mastery",
+        "goal": 1000000
+    },
+    "weaponAscension": {
+        "id": "weaponAscension",
+        "category": "mastery",
+        "goal": 20
+    },
+    "weaponModification": {
+        "id": "weaponModification",
+        "category": "mastery",
+        "goal": 20
+    },
+    "burningBallistaMastery": {
+        "id": "burningBallistaMastery",
+        "category": "mastery",
+        "goal": 500000000
+    },
+    "lightningBombardMastery": {
+        "id": "lightningBombardMastery",
+        "category": "mastery",
+        "goal": 500000000
+    }
+}

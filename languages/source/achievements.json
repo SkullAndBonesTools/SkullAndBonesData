@@ -1,0 +1,72 @@
+{
+    "achievements": {
+        "ballistaMastery": {
+            "name": "Ballista Mastery",
+            "description": "Deal %s damage using Ballista."
+        },
+        "mortarMastery": {
+            "name": "Mortar Mastery",
+            "description": "Deal %s damage using Mortar."
+        },
+        "seaFireMastery": {
+            "name": "Sea Fire Mastery",
+            "description": "Deal %s damage using Sea Fire."
+        },
+        "springloaderMastery": {
+            "name": "Springloader Mastery",
+            "description": "Deal %s damage using Springloader."
+        },
+        "torpedoMastery": {
+            "name": "Torpedo Mastery",
+            "description": "Deal %s damage using Torpedoes."
+        },
+        "bombardMastery": {
+            "name": "Bombard Mastery",
+            "description": "Deal %s damage using Bombard."
+        },
+        "culverinMastery": {
+            "name": "Culverin Mastery",
+            "description": "Deal %s damage using Culverin."
+        },
+        "demicannonMastery": {
+            "name": "Demi-Cannon Mastery",
+            "description": "Deal %s damage using Demi-Cannon."
+        },
+        "longGunMastery": {
+            "name": "Long Gun Mastery",
+            "description": "Deal %s damage using Long Gun."
+        },
+        "rocketMastery": {
+            "name": "Rocket Mastery",
+            "description": "Deal %s damage using Rocket."
+        },
+        "explosiveLongGunMastery": {
+            "name": "Explosive Long Gun Mastery",
+            "description": "Deal %s damage using Lange Kartouwe."
+        },
+        "unisonCulverinMastery": {
+            "name": "Unison Culverin Mastery",
+            "description": "Deal %s damage using Urban's Great Gun."
+        },
+        "explosiveDemicannonMastery": {
+            "name": "Explosive Demi-Cannon Mastery",
+            "description": "Deal %s damage using Kleine Kartouwe."
+        },
+        "weaponAscension": {
+            "name": "Weapon Ascension",
+            "description": "Ascend %s weapons."
+        },
+        "weaponModification": {
+            "name": "Weapon Modification",
+            "description": "Modify %s weapons."
+        },
+        "burningBallistaMastery": {
+            "name": "Burning Ballista Mastery",
+            "description": "Deal %s damage using Alecto."
+        },
+        "lightningBombardMastery": {
+            "name": "Lightning Bombard Mastery",
+            "description": "Deal %s damage using Divine Wind."
+        }
+    }
+}
