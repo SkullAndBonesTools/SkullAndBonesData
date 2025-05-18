@@ -115,6 +115,14 @@
         "unsighted": {
             "name": "Unsighted",
             "description": "Complete the \"The Glorious Phoenix\" world event %s times."
+        },
+        "plunderer": {
+            "name": "Plunderer",
+            "description": "Complete %s plunders while in a group."
+        },
+        "wolfpack": {
+            "name": "Wolfpack",
+            "description": "Land the final hit on %s ships while sailing in a group."
         }
     }
 }

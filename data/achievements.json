@@ -250,5 +250,17 @@
         "id": "unsighted",
         "category": "legends",
         "goal": 5
+    },
+    "plunderer1": {
+        "id": "plunderer1",
+        "tier": 1,
+        "category": "cooperative",
+        "goal": 50
+    },
+    "wolfpack1": {
+        "id": "wolfpack",
+        "tier": 1,
+        "category": "cooperative",
+        "goal": 1337
     }
 }
