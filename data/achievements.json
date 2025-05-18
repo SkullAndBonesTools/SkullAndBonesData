@@ -153,5 +153,77 @@
         "id": "lightningBombardMastery",
         "category": "mastery",
         "goal": 500000000
+    },
+    "lumberjack1": {
+        "id": "lumberjack1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 10000
+    },
+    "lumberjack2": {
+        "id": "lumberjack2",
+        "tier": 2,
+        "category": "enterprise",
+        "goal": 50000
+    },
+    "masterChef1": {
+        "id": "masterChef1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 10000
+    },
+    "masterChef2": {
+        "id": "masterChef2",
+        "tier": 2,
+        "category": "enterprise",
+        "goal": 50000
+    },
+    "masterHarvester1": {
+        "id": "masterHarvester1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 10000
+    },
+    "masterHarvester2": {
+        "id": "masterHarvester2",
+        "tier": 2,
+        "category": "enterprise",
+        "goal": 50000
+    },
+    "masterSmith1": {
+        "id": "masterSmith1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 10000
+    },
+    "masterSmith2": {
+        "id": "masterSmith2",
+        "tier": 2,
+        "category": "enterprise",
+        "goal": 50000
+    },
+    "silversmith1": {
+        "id": "silversmith1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 1000000
+    },
+    "silversmith2": {
+        "id": "silversmith2",
+        "tier": 2,
+        "category": "enterprise",
+        "goal": 10000000
+    },
+    "fortuneFinder1": {
+        "id": "fortuneFinder1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 25
+    },
+    "keeperOfEights1": {
+        "id": "keeperOfEights1",
+        "tier": 1,
+        "category": "enterprise",
+        "goal": 1000000
     }
 }

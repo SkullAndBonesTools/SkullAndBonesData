@@ -67,6 +67,34 @@
         "lightningBombardMastery": {
             "name": "Lightning Bombard Mastery",
             "description": "Deal %s damage using Divine Wind."
+        },
+        "lumberjack": {
+            "name": "Lumberjack",
+            "description": "Gather %s Wood."
+        },
+        "masterChef": {
+            "name": "Master Chef",
+            "description": "Gather %s Food."
+        },
+        "masterHarvester": {
+            "name": "Master Harvester",
+            "description": "Gather %s Fiber."
+        },
+        "masterSmith": {
+            "name": "Master Smith",
+            "description": "Craft %s Metal."
+        },
+        "silversmith": {
+            "name": "Silversmith",
+            "description": "Earn %s Silver."
+        },
+        "fortuneFinder": {
+            "name": "Fortune Finder",
+            "description": "Complete %s Treasure Maps."
+        },
+        "keeperOfEights": {
+            "name": "Keeper of Eights",
+            "description": "Earn %s Pieces of Eight."
         }
     }
 }
