@@ -10847,8 +10847,8 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
-    "ogreKingsCosmeticsChest": {
-        "id": "ogreKingsCosmeticsChest",
+    "ogreKingCosmeticsChest": {
+        "id": "ogreKingCosmeticsChest",
         "rarity": "legendary",
         "type": "chest",
         "value": 1,
