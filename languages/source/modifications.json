@@ -11,6 +11,10 @@
         "name": "Dire Explosive",
         "description": "Hits ignore %s-%s% of the target's Explosive resistance"
     },
+    "direFlooding": {
+        "name": "Dire Flooding",
+        "description": "Hits ignore %s-%s% of the target's Flooding resistance"
+    },
     "incendiary": {
         "name": "Incendiary",
         "description": "Adds %s-%s% damage as Burning Damage"

@@ -1,8 +1,4 @@
 {
-    "plagueKingLaPeste": {
-        "id": "plagueKingLaPeste",
-        "seasons": ["ragingTides"]
-    },
     "dragonsRegatta": {
         "id": "dragonsRegatta",
         "seasons": ["chorusOfHavoc"]
