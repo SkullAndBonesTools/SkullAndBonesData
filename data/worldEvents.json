@@ -92,8 +92,14 @@
     "undyingMaw": {
         "id": "undyingMaw"
     },
+    "payingDues": {
+        "id": "payingDues"
+    },
     "scurlocksPrecious": {
         "id": "scurlocksPrecious"
+    },
+    "thickAsThieves": {
+        "id": "thickAsThieves"
     },
     "gloryAdorned": {
         "id": "gloryAdorned"
