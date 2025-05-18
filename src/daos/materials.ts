@@ -17,13 +17,13 @@ export class Material {
     }
 
     public static fromRawData(key: string, rawData: any): Material {
-            return new Material(
-                key,
-                rawData.rarity,
-                rawData.category as MaterialCategory,
-                rawData.requiredRank ?? undefined
-            );
-        }
+        return new Material(
+            key,
+            rawData.rarity,
+            rawData.category as MaterialCategory,
+            rawData.requiredRank ?? undefined
+        );
+    }
 
     public static updateMaterialWithRequired(key:string, rawData:any, materials: Record<string, Material>) {
         if(!rawData.raw) return;
