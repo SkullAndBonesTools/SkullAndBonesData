@@ -2240,6 +2240,12 @@
                 "general": ""
             }
         },
+        "silverPouch": {
+            "name": "Silver Pouch",
+            "description": {
+                "general": "Contains a small amount of silver."
+            }
+        },
         "silverBox": {
             "name": "Silver Box",
             "description": {

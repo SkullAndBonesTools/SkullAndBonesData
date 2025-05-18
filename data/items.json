@@ -11121,6 +11121,15 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
+    "silverPouch": {
+        "id": "silverPouch",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 25,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
+    },
     "silverBox": {
         "id": "silverBox",
         "rarity": "common",
