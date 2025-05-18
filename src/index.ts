@@ -1,4 +1,5 @@
 // DAOs
+export { Achievements } from "./daos/achievements";
 export { Commodities } from "./daos/commodities";
 export { Contracts } from "./daos/contracts";
 export { Cosmetics } from "./daos/cosmetics";
