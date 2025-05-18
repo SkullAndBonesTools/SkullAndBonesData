@@ -225,5 +225,30 @@
         "tier": 1,
         "category": "enterprise",
         "goal": 1000000
+    },
+    "plagueEnder": {
+        "id": "plagueEnder",
+        "category": "legends",
+        "goal": 5
+    },
+    "cursebreaker": {
+        "id": "cursebreaker",
+        "category": "legends",
+        "goal": 5
+    },
+    "redeemer": {
+        "id": "redeemer",
+        "category": "legends",
+        "goal": 5
+    },
+    "showstopper": {
+        "id": "showstopper",
+        "category": "legends",
+        "goal": 5
+    },
+    "unsighted": {
+        "id": "unsighted",
+        "category": "legends",
+        "goal": 5
     }
 }

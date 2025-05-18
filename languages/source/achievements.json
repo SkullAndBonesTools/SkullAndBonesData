@@ -95,6 +95,26 @@
         "keeperOfEights": {
             "name": "Keeper of Eights",
             "description": "Earn %s Pieces of Eight."
+        },
+        "plagueEnder": {
+            "name": "Plague Ender",
+            "description": "Complete the \"The Plague King\" world event %s times."
+        },
+        "cursebreaker": {
+            "name": "Cursebreaker",
+            "description": "Complete the \"The Looming Schadow\" world event %s times."
+        },
+        "redeemer": {
+            "name": "Redeemer",
+            "description": "Complete the \"The Great Schadow\" world event %s times."
+        },
+        "showstopper": {
+            "name": "Showstopper",
+            "description": "Complete the \"Chorus of Havoc\" world event %s times."
+        },
+        "unsighted": {
+            "name": "Unsighted",
+            "description": "Complete the \"The Glorious Phoenix\" world event %s times."
         }
     }
 }
