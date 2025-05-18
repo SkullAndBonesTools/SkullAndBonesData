@@ -200,6 +200,7 @@
         "seaPeopleMerchant": "Sea People Merchant",
         "setCosmeticsChest": "Possible drop from the Set's Cosmetics Chest",
         "bloodiedStrongbox": "Possible drop from Bloodied Strongbox",
-        "defeatingHonorless": "Obtained when defeating enemies of the Honorless faction"
+        "defeatingHonorless": "Obtained when defeating enemies of the Honorless faction",
+        "rewardEvery100InfamyLevel": "Reward received each 100 infamy level"
     }
 }
