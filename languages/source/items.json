@@ -2240,6 +2240,12 @@
                 "general": ""
             }
         },
+        "silverBox": {
+            "name": "Silver Box",
+            "description": {
+                "general": "Contains a good amount of silver."
+            }
+        },
         "silverChest": {
             "name": "Silver Chest",
             "description": {
