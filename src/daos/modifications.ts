@@ -1,23 +1,30 @@
 import modificationsData from '../../data/modifications.json';
 import { EffectType, Grade } from '../types/ModificationProperties';
 
+export type ModificationVariant = {
+    itemType: string[],
+    range: number[]
+}
+
 export class Modification {
     constructor(
         public readonly id: string,
-        public readonly itemType: string[],
         public readonly effectType: EffectType | undefined,
-        public readonly range: number[],
+        public readonly variants: ModificationVariant[],
         public readonly dropOnly: boolean,
         public readonly repairOnly: boolean,
         public readonly grade: Grade,
     ) {}
 
     public static fromRawData(rawData: any): Modification {
+        const variants: ModificationVariant[] = rawData.variants.map((variant: any) => ({
+            itemType: variant.itemType,
+            range: variant.range,
+        }));
         return new Modification(
             rawData.id,
-            rawData.itemType,
             rawData.effectType ?? undefined,
-            rawData.range,
+            variants,
             rawData.dropOnly,
             rawData.repairOnly ?? false,
             rawData.grade as Grade,
