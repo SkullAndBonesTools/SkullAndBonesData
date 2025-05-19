@@ -257,7 +257,7 @@
             "name": "Winning Streak",
             "description": [
                 "Every successful hit increases the damage of the next shot from this weapon by 3%, up to a maximum of %s-%s%",
-                "missing a shot resets the effect"
+                "Missing a shot resets the effect"
             ]
         },
         "deadlyStrike": {
