@@ -7,6 +7,8 @@ export class Achievement {
         public readonly tier: number | undefined,
         public readonly category: AchievementCategory,
         public readonly goal: number,
+        public readonly dateAdded: Date,
+        public readonly lastUpdated: Date,
     ) {}
 
     public static fromRawData(key: string, rawData: any): Achievement {
@@ -14,7 +16,9 @@ export class Achievement {
             key,
             rawData.tier ?? undefined,
             rawData.category as AchievementCategory,
-            rawData.goal
+            rawData.goal,
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated)
         );
     }
 

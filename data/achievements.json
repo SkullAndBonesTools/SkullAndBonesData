@@ -3,289 +3,391 @@
         "id": "ballistaMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "ballistaMastery2": {
         "id": "ballistaMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "mortarMastery1": {
         "id": "mortarMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "mortarMastery2": {
         "id": "mortarMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "seaFireMastery1": {
         "id": "seaFireMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "seaFireMastery2": {
         "id": "seaFireMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "springloaderMastery1": {
         "id": "springloaderMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "springloaderMastery2": {
         "id": "springloaderMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "torpedoMastery1": {
         "id": "torpedoMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "torpedoMastery2": {
         "id": "torpedoMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "bombardMastery1": {
         "id": "bombardMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "bombardMastery2": {
         "id": "bombardMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "culverinMastery1": {
         "id": "culverinMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "culverinMastery2": {
         "id": "culverinMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "demicannonMastery1": {
         "id": "demiCannonMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "demicannonMastery2": {
         "id": "demiCannonMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "longGunMastery1": {
         "id": "longGunMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "longGunMastery2": {
         "id": "longGunMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "rocketMastery1": {
         "id": "rocketMastery1",
         "category": "mastery",
         "tier": 1,
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "rocketMastery2": {
         "id": "rocketMastery2",
         "category": "mastery",
         "tier": 2,
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "explosiveLongGunMastery": {
         "id": "explosiveLongGunMastery",
         "category": "mastery",
-        "goal": 500000000
+        "goal": 500000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "unisonCulverinMastery": {
         "id": "unisonCulverinMastery",
         "category": "mastery",
-        "goal": 500000000
+        "goal": 500000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "explosiveDemicannonMastery": {
         "id": "explosiveDemicannonMastery",
         "category": "mastery",
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "weaponAscension": {
         "id": "weaponAscension",
         "category": "mastery",
-        "goal": 20
+        "goal": 20,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "weaponModification": {
         "id": "weaponModification",
         "category": "mastery",
-        "goal": 20
+        "goal": 20,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "burningBallistaMastery": {
         "id": "burningBallistaMastery",
         "category": "mastery",
-        "goal": 500000000
+        "goal": 500000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "lightningBombardMastery": {
         "id": "lightningBombardMastery",
         "category": "mastery",
-        "goal": 500000000
+        "goal": 500000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "lumberjack1": {
         "id": "lumberjack1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 10000
+        "goal": 10000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "lumberjack2": {
         "id": "lumberjack2",
         "tier": 2,
         "category": "enterprise",
-        "goal": 50000
+        "goal": 50000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterChef1": {
         "id": "masterChef1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 10000
+        "goal": 10000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterChef2": {
         "id": "masterChef2",
         "tier": 2,
         "category": "enterprise",
-        "goal": 50000
+        "goal": 50000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterHarvester1": {
         "id": "masterHarvester1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 10000
+        "goal": 10000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterHarvester2": {
         "id": "masterHarvester2",
         "tier": 2,
         "category": "enterprise",
-        "goal": 50000
+        "goal": 50000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterSmith1": {
         "id": "masterSmith1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 10000
+        "goal": 10000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "masterSmith2": {
         "id": "masterSmith2",
         "tier": 2,
         "category": "enterprise",
-        "goal": 50000
+        "goal": 50000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "silversmith1": {
         "id": "silversmith1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "silversmith2": {
         "id": "silversmith2",
         "tier": 2,
         "category": "enterprise",
-        "goal": 10000000
+        "goal": 10000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "fortuneFinder1": {
         "id": "fortuneFinder1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 25
+        "goal": 25,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "keeperOfEights1": {
         "id": "keeperOfEights1",
         "tier": 1,
         "category": "enterprise",
-        "goal": 1000000
+        "goal": 1000000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "plagueEnder": {
         "id": "plagueEnder",
         "category": "legends",
-        "goal": 5
+        "goal": 5,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "cursebreaker": {
         "id": "cursebreaker",
         "category": "legends",
-        "goal": 5
+        "goal": 5,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "redeemer": {
         "id": "redeemer",
         "category": "legends",
-        "goal": 5
+        "goal": 5,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "showstopper": {
         "id": "showstopper",
         "category": "legends",
-        "goal": 5
+        "goal": 5,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "unsighted": {
         "id": "unsighted",
         "category": "legends",
-        "goal": 5
+        "goal": 5,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "plunderer1": {
         "id": "plunderer1",
         "tier": 1,
         "category": "cooperative",
-        "goal": 50
+        "goal": 50,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "wolfpack1": {
         "id": "wolfpack",
         "tier": 1,
         "category": "cooperative",
-        "goal": 1337
+        "goal": 1337,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "handOfJudgment": {
         "id": "handOfJudgment",
         "category": "seasonal",
-        "goal": 20
+        "goal": 20,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "azureTidings": {
         "id": "azureTidings",
         "category": "seasonal",
-        "goal": 50
+        "goal": 50,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "claimToFame": {
         "id": "claimToFame",
         "category": "seasonal",
-        "goal": 200000
+        "goal": 200000,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "enterTheNian": {
         "id": "enterTheNian",
         "category": "seasonal",
-        "goal": 20
+        "goal": 20,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     },
     "ghoulsBane": {
         "id": "ghoulsBane",
         "category": "seasonal",
-        "goal": 20
+        "goal": 20,
+        "dateAdded": "2025-05-18",
+        "lastUpdated": "2025-05-18"
     }
 }
