@@ -12,8 +12,8 @@ export class Cosmetic {
     constructor(
         public readonly id: string,
         public readonly type: ShipType | PlayerOutfitType | PlayerAppearanceType,
-        public readonly dateAdded: string,
-        public readonly lastUpdated: string,
+        public readonly dateAdded: Date,
+        public readonly lastUpdated: Date,
         public readonly rarity?: Rarity,
         public readonly tier?: number,
         public readonly set?: Set,
@@ -49,8 +49,8 @@ export class Cosmetic {
         return new Cosmetic(
             rawData.id,
             rawData.type,
-            rawData.dateAdded,
-            rawData.lastUpdated,
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated),
             rawData.rarity as Rarity ?? undefined,
             rawData.tier ?? undefined,
             rawData.set ? Sets[set] : undefined,
