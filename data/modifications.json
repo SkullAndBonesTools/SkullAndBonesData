@@ -10,7 +10,9 @@
         "effectType": "ignoreResistance",
         "damageType": "piercing",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "direElectric": {
         "id": "direElectric",
@@ -23,7 +25,9 @@
         "effectType": "ignoreResistance",
         "damageType": "electric",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "direExplosive": {
         "id": "direExplosive",
@@ -36,7 +40,9 @@
         "effectType": "ignoreResistance",
         "damageType": "explosive",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "direFlooding": {
         "id": "direFlooding",
@@ -49,7 +55,9 @@
         "effectType": "ignoreResistance",
         "damageType": "flooding",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "incendiary": {
         "id": "incendiary",
@@ -62,7 +70,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "direBurning": {
         "id": "direBurning",
@@ -75,7 +85,9 @@
         "effectType": "ignoreResistance",
         "damageType": "fire",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "firepower": {
         "id": "firepower",
@@ -88,7 +100,9 @@
         "effectType": "increaseDamage",
         "damageType": "overall",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "shock": {
         "id": "shock",
@@ -101,7 +115,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "rapidReload": {
         "id": "rapidReload",
@@ -113,7 +129,9 @@
         ],
         "effectType": "increaseReloadSpeed",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "combust": {
         "id": "combust",
@@ -126,7 +144,9 @@
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "flood": {
         "id": "flood",
@@ -139,7 +159,9 @@
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sparks": {
         "id": "sparks",
@@ -152,7 +174,9 @@
         "effectType": "extraElementalDamage",
         "damageType": "electric",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "damage": {
         "id": "damage",
@@ -165,7 +189,9 @@
         "effectType": "extraDamage",
         "damageType": "base",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "burn": {
         "id": "burn",
@@ -178,7 +204,9 @@
         "effectType": "extraElementalDamage",
         "damageType": "fire",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "swift": {
         "id": "swift",
@@ -190,7 +218,9 @@
         ],
         "effectType": "increaseProjectileSpeed",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "reach": {
         "id": "reach",
@@ -202,7 +232,9 @@
         ],
         "effectType": "increaseProjectileRange",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sharpened": {
         "id": "sharpened",
@@ -215,7 +247,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "combustion": {
         "id": "combustion",
@@ -228,7 +262,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "pierce": {
         "id": "combust",
@@ -241,7 +277,9 @@
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "rupturing": {
         "id": "rupturing",
@@ -254,7 +292,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "haste": {
         "id": "haste",
@@ -266,7 +306,9 @@
         ],
         "effectType": "reduceTimeToTarget",
         "dropOnly": false,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "fix": {
         "id": "fix",
@@ -279,7 +321,9 @@
         "effectType": "increaseRepairAmountPerShot",
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "antiBlast": {
         "id": "antiBlast",
@@ -291,7 +335,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "insulator": {
         "id": "insulator",
@@ -303,7 +349,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "service": {
         "id": "service",
@@ -316,7 +364,9 @@
         "effectType": "increaseRepairAmount",
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "douser": {
         "id": "douser",
@@ -328,7 +378,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sealant": {
         "id": "sealant",
@@ -340,7 +392,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "reinforcer": {
         "id": "reinforcer",
@@ -352,7 +406,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "basic"
+        "grade": "basic",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "brute": {
         "id": "brute",
@@ -363,7 +419,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "severity": {
         "id": "severity",
@@ -374,7 +432,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "victorsRally": {
         "id": "victorsRally",
@@ -385,7 +445,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "graceOfTheWinds": {
         "id": "graceOfTheWinds",
@@ -400,7 +462,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "lethal": {
         "id": "lethal",
@@ -413,7 +477,9 @@
         "effectType": "increaseCritDamage",
         "damageType": "overall",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "energize": {
         "id": "energize",
@@ -424,7 +490,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "bloodthirst": {
         "id": "bloodthirst",
@@ -435,7 +503,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "raider": {
         "id": "raider",
@@ -446,7 +516,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "deathblow": {
         "id": "deathblow",
@@ -461,7 +533,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "repairReadiness": {
         "id": "repairReadiness",
@@ -476,7 +550,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "precisePatchwork": {
         "id": "precisePatchwork",
@@ -487,7 +563,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "amplifiedBurning": {
         "id": "amplifiedBurning",
@@ -500,7 +578,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "fire",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "siege": {
         "id": "siege",
@@ -513,7 +593,9 @@
         "effectType": "increaseSiegeDamage",
         "damageType": "overall",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "restoreReadiness": {
         "id": "restoreReadiness",
@@ -528,7 +610,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "amplifiedPiercing": {
         "id": "amplifiedPiercing",
@@ -541,7 +625,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "amplifiedElectric": {
         "id": "amplifiedElectric",
@@ -554,7 +640,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "amplifiedExplosive": {
         "id": "amplifiedExplosive",
@@ -567,7 +655,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "amplifiedFlooding": {
         "id": "amplifiedFlooding",
@@ -580,7 +670,9 @@
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "tearing": {
         "id": "tearing",
@@ -593,7 +685,9 @@
         "effectType": "increaseSailDamage",
         "damageType": "overall",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "roar": {
         "id": "roar",
@@ -604,7 +698,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "soulMending": {
         "id": "soulMending",
@@ -615,7 +711,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "blastRange": {
         "id": "blastRange",
@@ -628,7 +726,9 @@
         "effectType": "increaseBlastRadius",
         "damageType": "overall",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "durableBuoys": {
         "id": "durableBuoys",
@@ -640,7 +740,9 @@
         ],
         "effectType": "increaseBuoyOperationTime",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "hardyBuoys": {
         "id": "hardyBuoys",
@@ -652,7 +754,9 @@
         ],
         "effectType": "increaseBuoyHealth",
         "dropOnly": false,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "restorative": {
         "id": "restorative",
@@ -664,7 +768,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "invigorate": {
         "id": "invigorate",
@@ -676,7 +782,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "tranquility": {
         "id": "tranquility",
@@ -688,7 +796,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sailorsRespite": {
         "id": "sailorsRespite",
@@ -700,7 +810,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "strengthen": {
         "id": "strengthen",
@@ -712,7 +824,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sailMender": {
         "id": "sailMender",
@@ -724,7 +838,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "advanced"
+        "grade": "advanced",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "secondStorm": {
         "id": "secondStorm",
@@ -735,7 +851,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "overflow": {
         "id": "overflow",
@@ -746,7 +864,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "sailRipper": {
         "id": "sailRipper",
@@ -757,7 +877,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "winningStreak": {
         "id": "winningStreak",
@@ -768,7 +890,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "deadlyStrike": {
         "id": "deadlyStrike",
@@ -779,7 +903,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "highPressure": {
         "id": "highPressure",
@@ -790,7 +916,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "longArm": {
         "id": "longArm",
@@ -801,7 +929,9 @@
             }
         ],
         "dropOnly": false,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "providence": {
         "id": "providence",
@@ -813,7 +943,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "jointSupply": {
         "id": "jointSupply",
@@ -825,7 +957,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "preemptiveDefence": {
         "id": "preemptiveDefence",
@@ -837,7 +971,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "empower": {
         "id": "empower",
@@ -849,7 +985,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "longArmRepair": {
         "id": "longArmRepair",
@@ -861,7 +999,9 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     },
     "winningStreakRepair": {
         "id": "winningStreakRepair",
@@ -873,6 +1013,8 @@
         ],
         "dropOnly": false,
         "repairOnly": true,
-        "grade": "special"
+        "grade": "special",
+        "dateAdded": "2025-05-05",
+        "lastUpdated": "2025-05-19"
     }
 }

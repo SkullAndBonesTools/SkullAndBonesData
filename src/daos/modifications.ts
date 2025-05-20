@@ -14,6 +14,8 @@ export class Modification {
         public readonly dropOnly: boolean,
         public readonly repairOnly: boolean,
         public readonly grade: Grade,
+        public readonly dateAdded: Date,
+        public readonly lastUpdated: Date,
     ) {}
 
     public static fromRawData(rawData: any): Modification {
@@ -28,6 +30,8 @@ export class Modification {
             rawData.dropOnly,
             rawData.repairOnly ?? false,
             rawData.grade as Grade,
+            new Date(rawData.dateAdded),
+            new Date(rawData.lastUpdated)
         );
     }
 
