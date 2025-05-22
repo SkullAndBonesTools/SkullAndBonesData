@@ -10865,23 +10865,10 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
-    "bloodiedStrongbox1": {
-        "id": "bloodiedStrongbox1",
+    "bloodiedStrongbox": {
+        "id": "bloodiedStrongbox",
         "rarity": "epic",
         "type": "chest",
-        "tier": 1,
-        "event": "theHonorless",
-        "worldEvent": ["theHonorlessMizerja","theHonorlessDianSinaga","theHonorlessAhPak"],
-        "value": 1,
-        "weight": 100,
-        "dateAdded": "2025-05-11",
-        "lastUpdated": "2025-05-11"
-    },
-    "bloodiedStrongbox2": {
-        "id": "bloodiedStrongbox2",
-        "rarity": "epic",
-        "type": "chest",
-        "tier": 2,
         "event": "theHonorless",
         "worldEvent": ["theHonorlessMizerja","theHonorlessDianSinaga","theHonorlessAhPak"],
         "value": 1,
