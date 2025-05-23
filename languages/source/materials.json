@@ -599,10 +599,6 @@
         "primevalFang": {
             "name": "Primeval Fang",
             "description": "A monstrous fang from a beast from the depths. Whoever possesses one must have braved its jaws."
-        },
-        "phoenixPouch": {
-            "name": "Phoenix Pouch",
-            "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
         }
     }
 }

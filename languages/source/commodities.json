@@ -267,6 +267,14 @@
         "luxuryDice": {
             "name": "Luxury Dice",
             "description": "An exotic set marked for a passion of randomness."
+        },
+        "phoenixPouch": {
+            "name": "Phoenix Pouch",
+            "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
+        },
+        "pulsingSchaduwRemnant": {
+            "name": "Pulsing Schaduw Remnant",
+            "description": "Debris of the Schaduw, powered by Vikram's influence."
         }
     }
 }

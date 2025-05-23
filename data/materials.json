@@ -851,10 +851,5 @@
     "masterworkKit": {
         "rarity": "legendary",
         "category": "exotic"
-    },
-    "phoenixPouch": {
-        "rarity": "epic",
-        "category": "specialized",
-        "faction": "phoenixsTalon"
     }
 }
