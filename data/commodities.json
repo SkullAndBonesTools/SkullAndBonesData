@@ -249,22 +249,27 @@
     },
     "sigilFlare": {
         "rarity": "epic",
-        "category": "event"
+        "category": "event",
+        "event": "theHonorless"
     },
     "roseWater": {
         "rarity": "epic",
-        "category": "event"
+        "category": "event",
+        "event": "azureSolstice"
     },
     "soothingBalm": {
         "rarity": "epic",
-        "category": "event"
+        "category": "event",
+        "event": "azureSolstice"
     },
     "shipInABottle": {
         "rarity": "epic",
-        "category": "event"
+        "category": "event",
+        "event": "azureSolstice"
     },
     "luxuryDice": {
         "rarity": "epic",
-        "category": "event"
+        "category": "event",
+        "event": "azureSolstice"
     }
 }
