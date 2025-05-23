@@ -665,15 +665,18 @@
     },
     "hubacHeirloom": {
         "rarity": "legendary",
-        "category": "exotic"
+        "category": "exotic",
+        "faction": "chorusFleet"
     },
     "whiteAriaShipPart": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "chorusFleet"
     },
     "blackAriaShipPart": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "chorusFleet"
     },
     "ice": {
         "rarity": "rare",
@@ -734,31 +737,38 @@
     },
     "phoenixBeak": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "phoenixsTalon"
     },
     "phoenixPinion": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "phoenixsTalon"
     },
     "azureDragonHead": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "dragonsClaw"
     },
     "plagueDust": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "fleetOfPestilence"
     },
     "blightedFuel": {
         "rarity": "legendary",
-        "category": "exotic"
+        "category": "exotic",
+        "faction": "fleetOfPestilence"
     },
     "yellowDragonBanner": {
         "rarity": "legendary",
-        "category": "exotic"
+        "category": "exotic",
+        "faction": "dragonsClaw"
     },
     "jadePhoenixStatue": {
         "rarity": "legendary",
-        "category": "exotic"
+        "category": "exotic",
+        "faction": "phoenixsTalon"
     },
     "eelSturdyRopes": {
         "rarity": "legendary",
@@ -802,7 +812,8 @@
     },
     "xanthousStone": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "shadowLegion"
     },
     "putrefiedZamaharibuScale": {
         "rarity": "epic",
@@ -826,7 +837,8 @@
     },
     "xanthousGemstone": {
         "rarity": "legendary",
-        "category": "exotic"
+        "category": "exotic",
+        "faction": "shadowLegion"
     },
     "primevalFang": {
         "rarity": "epic",
@@ -842,6 +854,7 @@
     },
     "phoenixPouch": {
         "rarity": "epic",
-        "category": "specialized"
+        "category": "specialized",
+        "faction": "phoenixsTalon"
     }
 }
