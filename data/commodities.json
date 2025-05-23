@@ -215,75 +215,93 @@
     },
     "poppy": {
         "rarity": "rare",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "sugarCane": {
         "rarity": "rare",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "juniperBerries": {
         "rarity": "rare",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "tobaccoLeaves": {
         "rarity": "rare",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "rawImperialJade": {
         "rarity": "rare",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "blackSnuff": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "blueLotusOpium": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "whiteSkullRum": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "whiteSkullGin": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "imperialJade": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "phoenixsTalon"
     },
     "copperBars": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "crystalizedTaintedWood": {
         "rarity": "epic",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "shadowLegion"
     },
     "silverSnuff": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "blackLotusOpium": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "goldSkullRum": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "goldSkullGin": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "carvedImperialJade": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "helmLeaseOpen": {
         "rarity": "legendary",
-        "category": "theHelm"
+        "category": "theHelm",
+        "faction": "theHelm"
     },
     "sigilFlare": {
         "rarity": "epic",
