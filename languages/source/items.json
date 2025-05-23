@@ -2186,6 +2186,12 @@
                 "general": "Chest looted from infamous Vanderkill."
             }
         },
+        "roninCosmeticsChest": {
+            "name": "Ronin Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics from the Ronin Ship Set"
+            }
+        },
         "sengokuNightsCosmeticsChest": {
             "name": "Sengoku Nights Cosmetics Chest",
             "description": {

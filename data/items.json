@@ -11018,6 +11018,16 @@
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
+    "roninCosmeticsChest": {
+        "id": "roninCosmeticsChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "worldEvent": "shadesOfTheRonin",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2024-11-16",
+        "lastUpdated": "2025-05-23"
+    },
     "sengokuNightsCosmeticsChest": {
         "id": "sengokuNightsCosmeticsChest",
         "rarity": "legendary",
