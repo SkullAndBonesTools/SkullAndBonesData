@@ -4,6 +4,7 @@ export { Commodities } from "./daos/commodities";
 export { Contracts } from "./daos/contracts";
 export { Cosmetics } from "./daos/cosmetics";
 export { Events } from "./daos/events";
+export { Factions } from "./daos/factions";
 export { Items } from "./daos/items";
 export { Materials } from "./daos/materials";
 export { Modifications } from "./daos/modifications";
