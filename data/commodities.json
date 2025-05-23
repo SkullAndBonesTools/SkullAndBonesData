@@ -250,5 +250,21 @@
     "sigilFlare": {
         "rarity": "epic",
         "category": "event"
+    },
+    "roseWater": {
+        "rarity": "epic",
+        "category": "event"
+    },
+    "soothingBalm": {
+        "rarity": "epic",
+        "category": "event"
+    },
+    "shipInABottle": {
+        "rarity": "epic",
+        "category": "event"
+    },
+    "luxuryDice": {
+        "rarity": "epic",
+        "category": "event"
     }
 }

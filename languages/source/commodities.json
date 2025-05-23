@@ -251,6 +251,22 @@
         "sigilFlare": {
             "name": "Sigil Flare",
             "description": "An ornate flare that shines brightly when ignited. This is the calling card of the Honorless for their hallucinogen supply drops."
+        },
+        "roseWater": {
+            "name": "Rose Water",
+            "description": "The flavor of love, empathy, attraction, and femininity."
+        },
+        "soothingBalm": {
+            "name": "Soothing Balm",
+            "description": "A fragrant oilment guaranteed to relief sores and aches."
+        },
+        "shipInABottle": {
+            "name": "Ship in a Bottle",
+            "description": "An intricate miniature of a ship in a bottle."
+        },
+        "luxuryDice": {
+            "name": "Luxury Dice",
+            "description": "An exotic set marked for a passion of randomness."
         }
     }
 }
