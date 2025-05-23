@@ -96,5 +96,17 @@
         "firstAppearingSeason": "release",
         "dateAdded": "2025-05-23",
         "lastUpdated": "2025-05-23"
+    },
+    "rogues": {
+        "id": "rogues",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "theHelm": {
+        "id": "theHelm",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
     }
 }

@@ -47,6 +47,12 @@
         },
         "seaPeople": {
             "name": "Sea People"
+        },
+        "rogues": {
+            "name": "Rogues"
+        },
+        "theHelm": {
+            "name": "The Helm"
         }
     }
 }
