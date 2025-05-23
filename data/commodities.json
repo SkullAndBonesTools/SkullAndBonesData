@@ -1,155 +1,193 @@
 {
     "lambaCloth": {
         "rarity": "rare",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "seaPeople"
     },
     "uncutGarnet": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "seaPeople"
     },
     "fineSeaPeopleRelic": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "seaPeople"
     },
     "capitalSeaPeopleRelic": {
         "rarity": "legendary",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "seaPeople"
     },
     "cloves": {
         "rarity": "common",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "clanOfFara"
     },
     "frankincense": {
         "rarity": "uncommon",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "clanOfFara"
     },
     "uncutSapphire": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "clanOfFara"
     },
     "fineFaraRelic": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "clanOfFara"
     },
     "capitalFaraRelic": {
         "rarity": "legendary",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "clanOfFara"
     },
     "snuff": {
         "rarity": "uncommon",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "confederationOfUngwana"
     },
     "ivory": {
         "rarity": "rare",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "confederationOfUngwana"
     },
     "uncutDiamond": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "confederationOfUngwana"
     },
     "fineUngwanaRelic": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "confederationOfUngwana"
     },
     "capitalUngwanaRelic": {
         "rarity": "legendary",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "confederationOfUngwana"
     },
     "spice": {
         "rarity": "common",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "dominionOfRempah"
     },
     "batik": {
         "rarity": "rare",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "dominionOfRempah"
     },
     "uncutRuby": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "dominionOfRempah"
     },
     "fineRempahRelic": {
         "rarity": "epic",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "dominionOfRempah"
     },
     "capitalRempahRelic": {
         "rarity": "legendary",
-        "category": "localFaction"
+        "category": "localFaction",
+        "faction": "dominionOfRempah"
     },
     "ale": {
         "rarity": "common",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "tobacco": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "ambergris": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "vanilla": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "wine": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "brandy": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "ornatePistols": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "militaryCompagnieRelic": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "fineCompagnieRelic": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "basicCompagnieRelic": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "capitalCompagnieRelic": {
         "rarity": "legendary",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "compagnieRoyale"
     },
     "nutmeg": {
         "rarity": "common",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "cacao": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "camphor": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "gin": {
         "rarity": "uncommon",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "painting": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "militaryDmcRelic": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "fineDmcRelic": {
         "rarity": "epic",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "capitalDmcRelic": {
         "rarity": "legendary",
-        "category": "megacorp"
+        "category": "megacorp",
+        "faction": "dutchMerchantCompany"
     },
     "rum": {
         "rarity": "uncommon",
