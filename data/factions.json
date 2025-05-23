@@ -90,5 +90,11 @@
         "event": "requiemOfTheLost",
         "dateAdded": "2025-05-23",
         "lastUpdated": "2025-05-23"
+    },
+    "seaPeople": {
+        "id": "seaPeople",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
     }
 }
