@@ -582,19 +582,23 @@
     },
     "eelsTwine": {
         "rarity": "legendary",
-        "category": "helm"
+        "category": "helm",
+        "faction": "rogues"
     },
     "wyrmsBreath": {
         "rarity": "legendary",
-        "category": "helm"
+        "category": "helm",
+        "faction": "rogues"
     },
     "orcasMechanism": {
         "rarity": "legendary",
-        "category": "helm"
+        "category": "helm",
+        "faction": "rogues"
     },
     "gannetsSaltpeter": {
         "rarity": "legendary",
-        "category": "helm"
+        "category": "helm",
+        "faction": "rogues"
     },
     "etherealAshes": {
         "rarity": "rare",
@@ -773,6 +777,7 @@
     "eelSturdyRopes": {
         "rarity": "legendary",
         "category": "helm",
+        "faction": "rogues",
         "raw": {
             "eelsTwine": 5,
             "sinewString": 3,
@@ -783,6 +788,7 @@
     "wyrmVolatileNapalm": {
         "rarity": "legendary",
         "category": "helm",
+        "faction": "rogues",
         "raw": {
             "wyrmsBreath": 5,
             "naphtha": 3,
@@ -793,6 +799,7 @@
     "orcaIntricateApparatus": {
         "rarity": "legendary",
         "category": "helm",
+        "faction": "rogues",
         "raw": {
             "orcasMechanism": 5,
             "torsionSpring": 3,
@@ -803,6 +810,7 @@
     "gannetDenseNiter": {
         "rarity": "legendary",
         "category": "helm",
+        "faction": "rogues",
         "raw": {
             "gannetsSaltpeter": 5,
             "rubber": 3,
