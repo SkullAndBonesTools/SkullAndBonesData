@@ -114,7 +114,7 @@
         },
         "brute": {
             "name": "Brute",
-            "description": "Hits have a 16% chance to restore 285-385 Brace Strength to this ship"
+            "description": "Hits have a 16% chance to restore %s-%s Brace Strength to this ship"
         },
         "severity": {
             "name": "Severity",
