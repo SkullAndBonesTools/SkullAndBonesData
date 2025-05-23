@@ -1,0 +1,94 @@
+{
+    "compagnieRoyale": {
+        "id": "compagnieRoyale",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "dutchMerchantCompany": {
+        "id": "dutchMerchantCompany",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "britishTradingAlliance": {
+        "id": "britishTradingAlliance",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "confederationOfUngwana": {
+        "id": "confederationOfUngwana",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "clanOfFara": {
+        "id": "clanOfFara",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "chorusFleet": {
+        "id": "chorusFleet",
+        "firstAppearingSeason": "chorusOfHavoc",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "pirates": {
+        "id": "pirates",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "phoenixsTalon": {
+        "id": "phoenixsTalons",
+        "firstAppearingSeason": "intoTheDragonsWake",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "dragonsClaw": {
+        "id": "dragonsClaw",
+        "firstAppearingSeason": "intoTheDragonsWake",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "privateers": {
+        "id": "privateers",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "shadowLegion": {
+        "id": "shadowLegion",
+        "firstAppearingSeason": "shadowsOfTheDeep",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "dominionOfRempah": {
+        "id": "dominionOfRempah",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "fleetOfPestilence": {
+        "id": "fleetOfPestilence",
+        "firstAppearingSeason": "ragingTides",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "azureFleet": {
+        "id": "azureFleet",
+        "firstAppearingSeason": "shadowsOfTheDeep",
+        "event": "azureSolstice",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    },
+    "theUnhallowed": {
+        "id": "theUnhallowed",
+        "firstAppearingSeason": "intoTheDragonsWake",
+        "event": "requiemOfTheLost",
+        "dateAdded": "2025-05-23",
+        "lastUpdated": "2025-05-23"
+    }
+}
