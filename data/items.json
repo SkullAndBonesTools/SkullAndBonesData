@@ -6803,6 +6803,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "shellac": 7,
+            "rubber": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -6816,7 +6820,7 @@
         },
         "perks": ["padewakangUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "padewakangUpgrade5": {
         "id": "padewakangUpgrade5",
@@ -6824,6 +6828,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "shellac": 15,
+            "crudeSaltpeter": 15,
+            "rubber": 10,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -6837,7 +6845,7 @@
         },
         "perks": ["padewakangUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "padewakangUpgrade6": {
         "id": "padewakangUpgrade6",
@@ -6936,6 +6944,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "screwMechanism": 7,
+            "precisionDrillingBit": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -6949,7 +6961,7 @@
         },
         "perks": ["snowUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "snowUpgrade5": {
         "id": "snowUpgrade5",
