@@ -267,7 +267,7 @@
         "lastUpdated": "2025-05-19"
     },
     "pierce": {
-        "id": "combust",
+        "id": "pierce",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
