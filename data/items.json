@@ -6172,7 +6172,7 @@
         },
         "perks": ["bedarUpgrade7"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade1": {
         "id": "hulkUpgrade1",
@@ -6187,7 +6187,7 @@
         },
         "perks": ["hulkUpgrade1", "stationsUpgrade"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade2": {
         "id": "hulkUpgrade2",
@@ -6202,7 +6202,7 @@
         },
         "perks": ["hulkUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade3": {
         "id": "hulkUpgrade3",
@@ -6217,7 +6217,7 @@
         },
         "perks": ["hulkUpgrade3", "bigGuns"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade4": {
         "id": "hulkUpgrade4",
@@ -6241,7 +6241,7 @@
         },
         "perks": ["hulkUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade5": {
         "id": "hulkUpgrade5",
@@ -6265,7 +6265,7 @@
         },
         "perks": ["hulkUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade6": {
         "id": "hulkUpgrade6",
@@ -6290,7 +6290,7 @@
         },
         "perks": ["hulkUpgrade6", "ironwill"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-11"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade7": {
         "id": "hulkUpgrade7",
@@ -6409,7 +6409,7 @@
         },
         "perks": ["cutterUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "cutterUpgrade6": {
         "id": "cutterUpgrade6",
@@ -6434,7 +6434,7 @@
         },
         "perks": ["cutterUpgrade6", "unsparing"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "cutterUpgrade7": {
         "id": "cutterUpgrade7",
@@ -6460,7 +6460,7 @@
         },
         "perks": ["cutterUpgrade7"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade1": {
         "id": "bargeUpgrade1",
@@ -6553,7 +6553,7 @@
         },
         "perks": ["bargeUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade6": {
         "id": "bargeUpgrade6",
@@ -6578,7 +6578,7 @@
         },
         "perks": ["bargeUpgrade6", "devouring"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade7": {
         "id": "bargeUpgrade7",
