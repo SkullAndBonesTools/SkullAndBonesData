@@ -11183,5 +11183,126 @@
         "weight": 750,
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
+    },
+    "materialsChest": {
+        "id": "materialsChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "darkDescentSetChest": {
+        "id": "darkDescentSetChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgressionLevel40",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "legacyCache4": {
+        "id": "legacyCache4",
+        "rarity": "epic",
+        "type": "chest",
+        "tier": 4,
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "mutuallyAssuredSetChest": {
+        "id": "mutuallyAssuredSetChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgressionLevel50",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "ascendedCache": {
+        "id": "ascendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "serpentsDueSetChest": {
+        "id": "serpentsDueSetChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgressionLevel60",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "divineInterventionSetChest": {
+        "id": "divineInterventionSetChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgressionLevel70",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "topDeckWeaponsAscendedCache": {
+        "id": "topDeckWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "auxiliaryWeaponsAscendedCache": {
+        "id": "auxiliaryWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "frontWeaponsAscendedCache": {
+        "id": "frontWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "allDeckWeaponsAscendedCache": {
+        "id": "allDeckWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "deathTidesChest": {
+        "id": "deathTidesChest",
+        "rarity": "legendary",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "deathTidesProgression",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
     }
 }

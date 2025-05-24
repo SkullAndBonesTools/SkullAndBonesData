@@ -2287,6 +2287,54 @@
             "description": {
                 "general": "Advanced materials used for ascending and reforging items."
             }
+        },
+        "materialsChest": {
+            "name": "Materials Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
+        },
+        "darkDescentSetChest": {
+            "name": "Dark Descent Set Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
+        },
+        "ascendedCache": {
+            "name": "Ascended Cache",
+            "description": {
+                "general": "A collection of items that will be ascended upon opening the cache"
+            }
+        },
+        "topDeckWeaponsAscendedCache": {
+            "name": "Top Deck Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Top Deck Weapons that will be ascended upon opening"
+            }
+        },
+        "auxiliaryWeaponsAscendedCache": {
+            "name": "Auxiliary Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Auxiliary Weapons that will be ascended upon opening"
+            }
+        },
+        "frontWeaponsAscendedCache": {
+            "name": "Front Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Front Weapons that will be ascended upon opening"
+            }
+        },
+        "allDeckWeaponsAscendedCache": {
+            "name": "All Deck Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of All Deck Weapons that will be ascended upon opening"
+            }
+        },
+        "deathTidesChest": {
+            "name": "Death Tides Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
         }
     }
 }

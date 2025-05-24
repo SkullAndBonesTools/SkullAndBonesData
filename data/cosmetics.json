@@ -1530,9 +1530,9 @@
         "id": "shadeOfVinegar",
         "type": "hull",
         "set": "serpentsDue",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","serpentsDueSetChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-23"
+        "lastUpdated": "2025-05-27"
     },
     "sulphurShade": {
         "id": "sulphurShade",
@@ -1623,9 +1623,9 @@
         "id": "inPlainSight",
         "type": "hull",
         "set": "divineIntervention",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","divineInterventionSetChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "huntersResolve": {
         "id": "huntersResolve",
@@ -1638,9 +1638,9 @@
         "id": "thickPriceToPay",
         "type": "hull",
         "set": "mutuallyAssured",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","mutuallyAssuredSetChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "slateHorizon": {
         "id": "slateHorizon",
@@ -2043,9 +2043,9 @@
         "id": "bloodWithWine",
         "type": "sailsColor",
         "set": "mutuallyAssured",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","mutuallyAssuredSetChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "sievedTithings": {
         "id": "sievedTithings",
@@ -2129,9 +2129,9 @@
         "id": "venomAndBile",
         "type": "sailsColor",
         "set": "serpentsDue",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","serpentsDueSetChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "rustAndSky": {
         "id": "rustAndSky",
@@ -2304,9 +2304,9 @@
         "id": "ominousTidings",
         "type": "sailsColor",
         "set": "divineIntervention",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","divineInterventionSetChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "rideTheTempest": {
         "id": "rideTheTempest",
@@ -2468,9 +2468,9 @@
         "id": "yourSkullTheirHome",
         "type": "sailsPattern",
         "set": "serpentsDue",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","serpentsDueSetChest"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "unfettered": {
         "id": "unfettered",
@@ -2651,9 +2651,9 @@
         "id": "biliousIntent",
         "type": "sailsPattern",
         "set": "divineIntervention",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","divineInterventionSetChest"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "sunkenSailor": {
         "id": "sunkenSailor",
@@ -2678,9 +2678,9 @@
         "id": "parleyWithBones",
         "type": "sailsPattern",
         "set": "mutuallyAssured",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","mutuallyAssuredSetChest"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "calicoTrim": {
         "id": "calicoTrim",
@@ -2877,9 +2877,9 @@
         "id": "judgment",
         "type": "sailsEmblem",
         "set": "divineIntervention",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","divineInterventionSetChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "melusinesTorrent": {
         "id": "melusinesTorrent",
@@ -3087,9 +3087,9 @@
         "id": "cruelDance",
         "type": "sailsEmblem",
         "set": "mutuallyAssured",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","mutuallyAssuredSetChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "villainousIntent": {
         "id": "villainousIntent",
@@ -3145,9 +3145,9 @@
         "id": "serpentineResolve",
         "type": "sailsEmblem",
         "set": "serpentsDue",
-        "obtainable": "shipwright",
+        "obtainable": ["shipwright","serpentsDueSetChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-05-27"
     },
     "theRampant": {
         "id": "theRampant",
@@ -3342,9 +3342,9 @@
         "type": "hull",
         "set": "darkDescent",
         "saison": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","darkDescentSetChest"],
         "dateAdded": "2024-03-23",
-        "lastUpdated": "2024-03-23"
+        "lastUpdated": "2025-05-27"
     },
     "jaws": {
         "id": "jaws",
@@ -3374,28 +3374,28 @@
         "id": "toTheDepths",
         "type": "sailsEmblem",
         "set": "darkDescent",
-        "obtainable": "smugglerPass",
         "season": "ragingTides",
+        "obtainable": ["smugglerPass","darkDescentSetChest"],
         "dateAdded": "2024-03-23",
-        "lastUpdated": "2024-03-23"
+        "lastUpdated": "2025-05-27"
     },
     "lastSkyWitnessed": {
         "id": "lastSkyWitnessed",
         "type": "sailsPattern",
         "set": "darkDescent",
         "season": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","darkDescentSetChest"],
         "dateAdded": "2024-03-23",
-        "lastUpdated": "2024-03-23"
+        "lastUpdated": "2025-05-27"
     },
     "atDusksLimit": {
         "id": "atDusksLimit",
         "type": "sailsColor",
         "set": "darkDescent",
         "season": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","darkDescentSetChest"],
         "dateAdded": "2024-03-23",
-        "lastUpdated": "2024-03-23"
+        "lastUpdated": "2025-05-27"
     },
     "majiHeadgear": {
         "id": "majiHeadgear",
