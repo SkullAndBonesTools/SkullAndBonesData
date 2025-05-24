@@ -1,7 +1,7 @@
 {
     "hunter": {
         "id": "hunter",
-        "type": "",
+        "type": "combatSkill",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 50,
@@ -10,7 +10,7 @@
     },
     "laPesteSignalLauncher": {
         "id": "laPesteSignalLauncher",
-        "type": "",
+        "type": "legendaryEntity",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 110,
@@ -19,7 +19,7 @@
     },
     "laPlusGrandeFleur": {
         "id": "laPlusGrandeFleur",
-        "type": "",
+        "type": "powerWeapon",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 70,
@@ -28,7 +28,7 @@
     },
     "trueEndlessRequiem": {
         "id": "trueEndlessRequiem",
-        "type": "",
+        "type": "powerWeapon",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 65,
@@ -38,7 +38,7 @@
     },
     "bastion": {
         "id": "bastion",
-        "type": "",
+        "type": "combatSkill",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 65,
@@ -48,7 +48,7 @@
     },
     "ghostShipSignalLauncher": {
         "id": "ghostShipSignalLauncher",
-        "type": "",
+        "type": "legendaryEntity",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 110,
@@ -58,7 +58,7 @@
     },
     "hailstormLongGuns": {
         "id": "hailstormLongGuns",
-        "type": "",
+        "type": "powerWeapon",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 45,
@@ -68,7 +68,7 @@
     },
     "massRevitalization": {
         "id": "massRevitalization",
-        "type": "",
+        "type": "combatSkill",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 75,
@@ -78,7 +78,7 @@
     },
     "impederBallista": {
         "id": "impederBallista",
-        "type": "",
+        "type": "powerWeapon",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 45,
@@ -88,7 +88,7 @@
     },
     "combatFury": {
         "id": "combatFury",
-        "type": "",
+        "type": "combatSkill",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 70,
@@ -98,7 +98,7 @@
     },
     "zamaharibuBaitLauncher": {
         "id": "zamaharibuBaitLauncher",
-        "type": "",
+        "type": "legendaryEntity",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "chargeRequired": 110,
