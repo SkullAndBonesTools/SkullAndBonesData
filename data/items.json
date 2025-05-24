@@ -6393,6 +6393,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "woodTar": 15,
+            "cogwheel": 15,
+            "torsionSpring": 10,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6414,6 +6417,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "zincIngot": 15,
+            "woodPitch": 3,
+            "torsionSpring": 5,
+            "orcasMechanism": 4,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6435,6 +6442,9 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "planetaryGearset": 2,
+            "torsionSpring": 7,
+            "orcasMechanism": 5,
             "masterworkKit": 1,
             "upgradeParts": 8,
             "piecesOfEight": 12000,
@@ -6527,6 +6537,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "sheetGlass": 10,
+            "screwMechanism": 10,
+            "precisionDrillingBit": 7,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6548,6 +6561,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "fineAbaka": 15,
+            "plateGlass": 5,
+            "precisionDrillingBit": 7,
+            "orcasMechanism": 6,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
