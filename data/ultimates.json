@@ -1,0 +1,109 @@
+{
+    "hunter": {
+        "id": "hunter",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 50,
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "laPesteSignalLauncher": {
+        "id": "laPesteSignalLauncher",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 110,
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "laPlusGrandeFleur": {
+        "id": "laPlusGrandeFleur",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 70,
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "trueEndlessRequiem": {
+        "id": "trueEndlessRequiem",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 65,
+        "obtainable": "deathTidesProgressionLevel5",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "bastion": {
+        "id": "bastion",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 65,
+        "obtainable": "deathTidesProgressionLevel10",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "ghostShipSignalLauncher": {
+        "id": "ghostShipSignalLauncher",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 110,
+        "obtainable": "deathTidesProgressionLevel15",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "hailstormLongGuns": {
+        "id": "hailstormLongGuns",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 45,
+        "obtainable": "deathTidesProgressionLevel20",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "massRevitalization": {
+        "id": "massRevitalization",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 75,
+        "obtainable": "deathTidesProgressionLevel25",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "impederBallista": {
+        "id": "impederBallista",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 45,
+        "obtainable": "deathTidesProgressionLevel30",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "combatFury": {
+        "id": "combatFury",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 70,
+        "obtainable": "deathTidesProgressionLevel35",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    },
+    "zamaharibuBaitLauncher": {
+        "id": "zamaharibuBaitLauncher",
+        "type": "",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "chargeRequired": 110,
+        "obtainable": "deathTidesProgressionLevel45",
+        "dateAdded": "2025-05-27",
+        "lastUpdated": "2025-05-27"
+    }
+}

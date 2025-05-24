@@ -201,6 +201,14 @@
         "setCosmeticsChest": "Possible drop from the Set's Cosmetics Chest",
         "bloodiedStrongbox": "Possible drop from Bloodied Strongbox",
         "defeatingHonorless": "Obtained when defeating enemies of the Honorless faction",
-        "rewardEvery100InfamyLevel": "Reward received each 100 infamy level"
+        "rewardEvery100InfamyLevel": "Reward received each 100 infamy level",
+        "deathTidesProgressionLevel5": "Obtained when reaching Death Tides Progression Level 5",
+        "deathTidesProgressionLevel10": "Obtained when reaching Death Tides Progression Level 10",
+        "deathTidesProgressionLevel15": "Obtained when reaching Death Tides Progression Level 15",
+        "deathTidesProgressionLevel20": "Obtained when reaching Death Tides Progression Level 20",
+        "deathTidesProgressionLevel25": "Obtained when reaching Death Tides Progression Level 25",
+        "deathTidesProgressionLevel30": "Obtained when reaching Death Tides Progression Level 30",
+        "deathTidesProgressionLevel35": "Obtained when reaching Death Tides Progression Level 35",
+        "deathTidesProgressionLevel45": "Obtained when reaching Death Tides Progression Level 45"
     }
 }
