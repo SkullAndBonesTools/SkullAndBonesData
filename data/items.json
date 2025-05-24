@@ -6612,12 +6612,14 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "cobaltIngot": 10,
+            "castingSand": 5,
             "upgradeParts": 1,
             "silver": 18000
         },
         "perks": ["sloopUpgrade1", "gunportsUpgrade"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade2": {
         "id": "sloopUpgrade2",
@@ -6625,12 +6627,14 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "steelIngot": 15,
+            "lime": 7,
             "upgradeParts": 2,
             "silver": 25000
         },
         "perks": ["sloopUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade3": {
         "id": "sloopUpgrade3",
@@ -6638,12 +6642,14 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "castingSand": 15,
+            "lime": 15,
             "upgradeParts": 2,
             "piecesOfEight": 1000
         },
         "perks": ["sloopUpgrade3", "heavyArsenal"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade4": {
         "id": "sloopUpgrade4",
@@ -6651,6 +6657,9 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "zincIngot": 25,
+            "castingSand": 10,
+            "lime": 10,
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
@@ -6664,7 +6673,7 @@
         },
         "perks": ["sloopUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade5": {
         "id": "sloopUpgrade5",
@@ -6672,6 +6681,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "castingSand": 10,
+            "lime": 10,
+            "naphtha": 7,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6685,7 +6697,7 @@
         },
         "perks": ["sloopUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade6": {
         "id": "sloopUpgrade6",
@@ -6693,6 +6705,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "zincIngot": 15,
+            "dryCastingSand": 4,
+            "naphtha": 7,
+            "gannetsSaltpeter": 5,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6706,7 +6722,7 @@
         },
         "perks": ["sloopUpgrade6", "ruin"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade7": {
         "id": "sloopUpgrade7",
