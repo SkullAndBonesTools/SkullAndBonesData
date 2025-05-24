@@ -6155,6 +6155,9 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "roselleCloth": 20,
+            "greenheartPlank": 20,
+            "eelsTwine": 5,
             "masterworkKit": 1,
             "upgradeParts": 8,
             "piecesOfEight": 12000,
@@ -6177,6 +6180,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "fineSisal": 10,
+            "shellac": 5,
             "upgradeParts": 1,
             "silver": 18000
         },
@@ -6190,6 +6195,8 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "fineLinen": 15,
+            "crudeSaltpeter": 7,
             "upgradeParts": 2,
             "silver": 25000
         },
@@ -6203,6 +6210,8 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "shellac": 15,
+            "crudeSaltpeter": 15,
             "upgradeParts": 2,
             "piecesOfEight": 1000
         },
@@ -6216,6 +6225,9 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "fineRamie": 15,
+            "shellac": 7,
+            "crudeSaltpeter": 7,
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
@@ -6237,6 +6249,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "shellac": 15,
+            "crudeSaltpeter": 15,
+            "rubber": 10,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6258,6 +6273,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "fineAbaka": 20,
+            "lacquer": 5,
+            "crudeSaltpeter": 10,
+            "wyrmsBreath": 7,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
