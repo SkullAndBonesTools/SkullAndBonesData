@@ -6123,7 +6123,7 @@
         },
         "perks": ["bedarUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-04-29"
     },
     "bedarUpgrade6": {
         "id": "bedarUpgrade6",
@@ -6147,7 +6147,7 @@
         },
         "perks": ["bedarUpgrade6", "jousting"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-04-29"
     },
     "bedarUpgrade7": {
         "id": "bedarUpgrade7",
