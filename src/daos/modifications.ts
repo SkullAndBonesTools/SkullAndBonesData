@@ -1,8 +1,9 @@
 import modificationsData from '../../data/modifications.json';
+import { WeaponType } from '../types/ItemProperties';
 import { DamageType, EffectType, Grade, RepairAccess } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
-    itemType: string[],
+    itemType: WeaponType[],
     range: number[]
 }
 
