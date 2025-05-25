@@ -126,7 +126,7 @@
         },
         "graceOfTheWinds": {
             "name": "Grace of the Winds",
-            "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 5 times"
+            "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 3 times"
         },
         "lethal": {
             "name": "Lethal",

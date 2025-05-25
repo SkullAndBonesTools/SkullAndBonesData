@@ -434,7 +434,7 @@
         },
         "dryCastingSand": {
             "name": "Dry Sand",
-            "description": "casting sand that has been compacted to forge dense, heavy shapes."
+            "description": "Casting sand that has been compacted to forge dense, heavy shapes."
         },
         "lacquer": {
             "name": "Lacquer",
@@ -534,7 +534,7 @@
         },
         "azureDragonHead": {
             "name": "Azure Dragon Head",
-            "description": "The head of a dragon from COmmander Zhang's flagship. Such a mighty beast beheaded signals the Emperor's coming wrath."
+            "description": "The head of a dragon from Commander Zhang's flagship. Such a mighty beast beheaded signals the Emperor's coming wrath."
         },
         "plagueDust": {
             "name": "Plague Dust",

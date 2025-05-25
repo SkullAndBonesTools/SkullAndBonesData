@@ -6123,7 +6123,7 @@
         },
         "perks": ["bedarUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-04-29"
     },
     "bedarUpgrade6": {
         "id": "bedarUpgrade6",
@@ -6147,7 +6147,7 @@
         },
         "perks": ["bedarUpgrade6", "jousting"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-04-29"
     },
     "bedarUpgrade7": {
         "id": "bedarUpgrade7",
@@ -6155,6 +6155,9 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "roselleCloth": 20,
+            "greenheartPlank": 20,
+            "eelsTwine": 5,
             "masterworkKit": 1,
             "upgradeParts": 8,
             "piecesOfEight": 12000,
@@ -6169,7 +6172,7 @@
         },
         "perks": ["bedarUpgrade7"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade1": {
         "id": "hulkUpgrade1",
@@ -6177,12 +6180,14 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "fineSisal": 10,
+            "shellac": 5,
             "upgradeParts": 1,
             "silver": 18000
         },
         "perks": ["hulkUpgrade1", "stationsUpgrade"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade2": {
         "id": "hulkUpgrade2",
@@ -6190,12 +6195,14 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "fineLinen": 15,
+            "crudeSaltpeter": 7,
             "upgradeParts": 2,
             "silver": 25000
         },
         "perks": ["hulkUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade3": {
         "id": "hulkUpgrade3",
@@ -6203,12 +6210,14 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "shellac": 15,
+            "crudeSaltpeter": 15,
             "upgradeParts": 2,
             "piecesOfEight": 1000
         },
         "perks": ["hulkUpgrade3", "bigGuns"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade4": {
         "id": "hulkUpgrade4",
@@ -6216,6 +6225,9 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "fineRamie": 15,
+            "shellac": 7,
+            "crudeSaltpeter": 7,
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
@@ -6229,7 +6241,7 @@
         },
         "perks": ["hulkUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade5": {
         "id": "hulkUpgrade5",
@@ -6237,6 +6249,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "shellac": 15,
+            "crudeSaltpeter": 15,
+            "rubber": 10,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6250,7 +6265,7 @@
         },
         "perks": ["hulkUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade6": {
         "id": "hulkUpgrade6",
@@ -6258,6 +6273,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "fineAbaka": 20,
+            "lacquer": 5,
+            "crudeSaltpeter": 10,
+            "wyrmsBreath": 7,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6271,7 +6290,7 @@
         },
         "perks": ["hulkUpgrade6", "ironwill"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-11"
+        "lastUpdated": "2025-05-24"
     },
     "hulkUpgrade7": {
         "id": "hulkUpgrade7",
@@ -6374,6 +6393,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "woodTar": 15,
+            "cogwheel": 15,
+            "torsionSpring": 10,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6387,7 +6409,7 @@
         },
         "perks": ["cutterUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2025-05-24"
     },
     "cutterUpgrade6": {
         "id": "cutterUpgrade6",
@@ -6395,6 +6417,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "zincIngot": 15,
+            "woodPitch": 3,
+            "torsionSpring": 5,
+            "orcasMechanism": 4,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6408,7 +6434,7 @@
         },
         "perks": ["cutterUpgrade6", "unsparing"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "cutterUpgrade7": {
         "id": "cutterUpgrade7",
@@ -6416,6 +6442,9 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "planetaryGearset": 2,
+            "torsionSpring": 7,
+            "orcasMechanism": 5,
             "masterworkKit": 1,
             "upgradeParts": 8,
             "piecesOfEight": 12000,
@@ -6431,7 +6460,7 @@
         },
         "perks": ["cutterUpgrade7"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade1": {
         "id": "bargeUpgrade1",
@@ -6508,6 +6537,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "sheetGlass": 10,
+            "screwMechanism": 10,
+            "precisionDrillingBit": 7,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6521,7 +6553,7 @@
         },
         "perks": ["bargeUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade6": {
         "id": "bargeUpgrade6",
@@ -6529,6 +6561,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "fineAbaka": 15,
+            "plateGlass": 5,
+            "precisionDrillingBit": 7,
+            "orcasMechanism": 6,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6542,7 +6578,7 @@
         },
         "perks": ["bargeUpgrade6", "devouring"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "bargeUpgrade7": {
         "id": "bargeUpgrade7",
@@ -6576,12 +6612,14 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "cobaltIngot": 10,
+            "castingSand": 5,
             "upgradeParts": 1,
             "silver": 18000
         },
         "perks": ["sloopUpgrade1", "gunportsUpgrade"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade2": {
         "id": "sloopUpgrade2",
@@ -6589,12 +6627,14 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "steelIngot": 15,
+            "lime": 7,
             "upgradeParts": 2,
             "silver": 25000
         },
         "perks": ["sloopUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade3": {
         "id": "sloopUpgrade3",
@@ -6602,12 +6642,14 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "castingSand": 15,
+            "lime": 15,
             "upgradeParts": 2,
             "piecesOfEight": 1000
         },
         "perks": ["sloopUpgrade3", "heavyArsenal"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade4": {
         "id": "sloopUpgrade4",
@@ -6615,6 +6657,9 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "zincIngot": 25,
+            "castingSand": 10,
+            "lime": 10,
             "upgradeParts": 3,
             "piecesOfEight": 3000
         },
@@ -6628,7 +6673,7 @@
         },
         "perks": ["sloopUpgrade4", "riverRat"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade5": {
         "id": "sloopUpgrade5",
@@ -6636,6 +6681,9 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "castingSand": 10,
+            "lime": 10,
+            "naphtha": 7,
             "upgradeParts": 3,
             "piecesOfEight": 5000
         },
@@ -6649,7 +6697,7 @@
         },
         "perks": ["sloopUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade6": {
         "id": "sloopUpgrade6",
@@ -6657,6 +6705,10 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "zincIngot": 15,
+            "dryCastingSand": 4,
+            "naphtha": 7,
+            "gannetsSaltpeter": 5,
             "upgradeParts": 4,
             "piecesOfEight": 8000
         },
@@ -6670,7 +6722,7 @@
         },
         "perks": ["sloopUpgrade6", "ruin"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2024-06-23"
+        "lastUpdated": "2025-05-24"
     },
     "sloopUpgrade7": {
         "id": "sloopUpgrade7",
@@ -6751,6 +6803,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "shellac": 7,
+            "rubber": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -6764,7 +6820,7 @@
         },
         "perks": ["padewakangUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "padewakangUpgrade5": {
         "id": "padewakangUpgrade5",
@@ -6772,6 +6828,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "shellac": 15,
+            "crudeSaltpeter": 15,
+            "rubber": 10,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -6785,7 +6845,7 @@
         },
         "perks": ["padewakangUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "padewakangUpgrade6": {
         "id": "padewakangUpgrade6",
@@ -6884,6 +6944,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "screwMechanism": 7,
+            "precisionDrillingBit": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -6897,7 +6961,7 @@
         },
         "perks": ["snowUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-24"
     },
     "snowUpgrade5": {
         "id": "snowUpgrade5",
