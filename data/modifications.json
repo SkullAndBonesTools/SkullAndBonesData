@@ -68,7 +68,7 @@
             }
         ],
         "effectType": "bonusElementalDamage",
-        "damageType": "fire",
+        "damageType": "burning",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -83,7 +83,7 @@
             }
         ],
         "effectType": "ignoreResistance",
-        "damageType": "fire",
+        "damageType": "burning",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -202,7 +202,7 @@
             }
         ],
         "effectType": "extraElementalDamage",
-        "damageType": "fire",
+        "damageType": "burning",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -576,7 +576,7 @@
             }
         ],
         "effectType": "bonusElementalDamage",
-        "damageType": "fire",
+        "damageType": "burning",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
