@@ -1,5 +1,5 @@
 import modificationsData from '../../data/modifications.json';
-import { DamageType, EffectType, Grade } from '../types/ModificationProperties';
+import { DamageType, EffectType, Grade, RepairAccess } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
     itemType: string[],
@@ -13,7 +13,7 @@ export class Modification {
         public readonly damageType: DamageType | undefined,
         public readonly variants: ModificationVariant[],
         public readonly dropOnly: boolean,
-        public readonly repairOnly: boolean,
+        public readonly repairAccess: RepairAccess,
         public readonly grade: Grade,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
@@ -30,7 +30,7 @@ export class Modification {
             rawData.damageType ?? undefined,
             variants,
             rawData.dropOnly,
-            rawData.repairOnly ?? false,
+            rawData.repairAccess as RepairAccess,
             rawData.grade as Grade,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated)
