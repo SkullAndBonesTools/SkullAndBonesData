@@ -37,6 +37,7 @@ export class Ship {
             aftWeapon?: SlotWithGunports;
             auxiliaryWeapon?: number;
             furniture?: number;
+            ultimate?: number;
         },
         public readonly perks: string[],
         public readonly dateAdded: Date,
@@ -80,6 +81,7 @@ export class Ship {
                 aftWeapon: rawData.slots.aftWeapon ?? undefined,
                 auxiliaryWeapon: rawData.slots.auxiliaryWeapon ?? undefined,
                 furniture: rawData.slots.furniture ?? undefined,
+                ultimate: rawData.slots.ultimate ?? undefined
             },
             rawData.perks,
             new Date(rawData.dateAdded),
