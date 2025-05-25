@@ -11,6 +11,7 @@ export { Modifications } from "./daos/modifications";
 export { Seasons } from "./daos/seasons";
 export { Sets } from "./daos/sets";
 export { Ships } from "./daos/ships";
+export { Ultimates } from "./daos/ultimates";
 export { WorldEvents } from "./daos/worldEvents";
 
 // Types
