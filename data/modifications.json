@@ -9,6 +9,7 @@
         ],
         "effectType": "ignoreResistance",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -25,6 +26,7 @@
         "effectType": "ignoreResistance",
         "damageType": "electric",
         "requiredDamageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -41,6 +43,7 @@
         "effectType": "ignoreResistance",
         "damageType": "explosive",
         "requiredDamageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -57,6 +60,7 @@
         "effectType": "ignoreResistance",
         "damageType": "flooding",
         "requiredDamageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -72,6 +76,7 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -88,6 +93,7 @@
         "effectType": "ignoreResistance",
         "damageType": "burning",
         "requiredDamageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -103,6 +109,7 @@
         ],
         "effectType": "increaseDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -118,6 +125,7 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -132,6 +140,7 @@
             }
         ],
         "effectType": "increaseReloadSpeed",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -147,6 +156,7 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -162,6 +172,7 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -177,6 +188,7 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -192,6 +204,7 @@
         ],
         "effectType": "extraDamage",
         "damageType": "base",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -207,6 +220,7 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -221,6 +235,7 @@
             }
         ],
         "effectType": "increaseProjectileSpeed",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -235,6 +250,7 @@
             }
         ],
         "effectType": "increaseProjectileRange",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -250,6 +266,7 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -265,6 +282,7 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -280,6 +298,7 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -295,6 +314,7 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -309,6 +329,7 @@
             }
         ],
         "effectType": "reduceTimeToTarget",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
@@ -324,7 +345,7 @@
         ],
         "effectType": "increaseRepairAmountPerShot",
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -338,7 +359,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -352,7 +373,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -367,7 +388,7 @@
         ],
         "effectType": "increaseRepairAmount",
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -381,7 +402,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -395,7 +416,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -409,7 +430,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -422,6 +443,7 @@
                 "range": [280, 420]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -435,6 +457,7 @@
                 "range": [0.75, 1.25]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -448,6 +471,7 @@
                 "range": [1400, 2100]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -465,6 +489,7 @@
                 "range": [0.0015, 0.0025]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -480,6 +505,7 @@
         ],
         "effectType": "increaseCritDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -493,6 +519,7 @@
                 "range": [0.045, 0.075]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -506,6 +533,7 @@
                 "range": [0.225, 0.375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -519,6 +547,7 @@
                 "range": [0.25, 0.41]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -536,6 +565,7 @@
                 "range": [0.0023, 0.0038]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -553,6 +583,7 @@
                 "range": [0.00225, 0.00375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -566,6 +597,7 @@
                 "range": [150, 250]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -582,6 +614,7 @@
         "effectType": "bonusElementalDamage",
         "damageType": "burning",
         "requiredDamageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -597,6 +630,7 @@
         ],
         "effectType": "increaseSiegeDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -614,6 +648,7 @@
                 "range": [0.00225, 0.00375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -630,6 +665,7 @@
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "requiredDamageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -646,6 +682,7 @@
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "requiredDamageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -662,6 +699,7 @@
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "requiredDamageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -678,6 +716,7 @@
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "requiredDamageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -693,6 +732,7 @@
         ],
         "effectType": "increaseSailDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -706,6 +746,7 @@
                 "range": [0.053, 0.088]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -719,6 +760,7 @@
                 "range": [0.045, 0.075]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -734,6 +776,7 @@
         ],
         "effectType": "increaseBlastRadius",
         "damageType": "overall",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -748,6 +791,7 @@
             }
         ],
         "effectType": "increaseBuoyOperationTime",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -762,6 +806,7 @@
             }
         ],
         "effectType": "increaseBuoyHealth",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
@@ -776,7 +821,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -790,7 +835,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -804,7 +849,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -818,7 +863,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -832,7 +877,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -846,7 +891,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -859,6 +904,7 @@
                 "range": [0.06, 0.1]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -872,6 +918,7 @@
                 "range": [0.06, 0.1]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -885,6 +932,7 @@
                 "range": [4.0, 6.0]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -898,6 +946,7 @@
                 "range": [0.2, 0.4]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -911,6 +960,7 @@
                 "range": [0.3, 0.5]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -924,6 +974,7 @@
                 "range": [0.09, 0.15]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -937,6 +988,7 @@
                 "range": [0.4, 0.6]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
@@ -951,7 +1003,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -965,7 +1017,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -979,7 +1031,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -993,7 +1045,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -1007,7 +1059,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
@@ -1021,7 +1073,7 @@
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-19"
