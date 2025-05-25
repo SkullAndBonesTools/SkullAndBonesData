@@ -11,6 +11,8 @@ export class Modification {
         public readonly id: string,
         public readonly effectType: EffectType | undefined,
         public readonly damageType: DamageType | undefined,
+        // Determines if the modification can only be applied to a weapon that includes the specific damage type.
+        public readonly requiredDamageType: DamageType | undefined,
         public readonly variants: ModificationVariant[],
         public readonly dropOnly: boolean,
         public readonly repairAccess: RepairAccess,
@@ -28,6 +30,7 @@ export class Modification {
             rawData.id,
             rawData.effectType ?? undefined,
             rawData.damageType ?? undefined,
+            rawData.requiredDamageType ?? undefined,
             variants,
             rawData.dropOnly,
             rawData.repairAccess as RepairAccess,
