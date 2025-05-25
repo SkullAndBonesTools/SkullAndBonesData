@@ -339,7 +339,7 @@
         "id": "fix",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [113, 188]
             }
         ],
@@ -354,7 +354,7 @@
         "id": "antiBlast",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -368,7 +368,7 @@
         "id": "insulator",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -382,7 +382,7 @@
         "id": "service",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.09, 0.15]
             }
         ],
@@ -397,7 +397,7 @@
         "id": "douser",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -411,7 +411,7 @@
         "id": "sealant",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -425,7 +425,7 @@
         "id": "reinforcer",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
@@ -816,7 +816,7 @@
         "id": "restorative",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.15, 0.25]
             }
         ],
@@ -830,7 +830,7 @@
         "id": "invigorate",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.0038, 0.0063]
             }
         ],
@@ -844,7 +844,7 @@
         "id": "tranquility",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.113, 0.188]
             }
         ],
@@ -858,7 +858,7 @@
         "id": "sailorsRespite",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [2.25, 3.75]
             }
         ],
@@ -872,7 +872,7 @@
         "id": "strengthen",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.15, 0.25]
             }
         ],
@@ -886,7 +886,7 @@
         "id": "sailMender",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.113, 0.188]
             }
         ],
@@ -998,7 +998,7 @@
         "id": "providence",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.225, 0.375]
             }
         ],
@@ -1012,7 +1012,7 @@
         "id": "jointSupply",
         "variants": [
             {
-                "itemType": ["longGun","cannon","mortar","bombard"],
+                "itemType": ["longGun","culverin","mortar","bombard"],
                 "range": [0.28, 0.42]
             }
         ],
@@ -1026,7 +1026,7 @@
         "id": "preemptiveDefence",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.048, 0.072]
             }
         ],
@@ -1040,7 +1040,7 @@
         "id": "empower",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.032, 0.048]
             }
         ],
@@ -1054,7 +1054,7 @@
         "id": "longArmRepair",
         "variants": [
             {
-                "itemType": ["longGun","cannon","mortar","bombard"],
+                "itemType": ["longGun","culverin","mortar","bombard"],
                 "range": [0.4, 0.6]
             }
         ],
@@ -1068,7 +1068,7 @@
         "id": "winningStreakRepair",
         "variants": [
             {
-                "itemType": ["longGun","cannon"],
+                "itemType": ["longGun","culverin"],
                 "range": [0.2, 0.4]
             }
         ],
