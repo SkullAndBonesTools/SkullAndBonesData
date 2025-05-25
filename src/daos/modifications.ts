@@ -1,5 +1,5 @@
 import modificationsData from '../../data/modifications.json';
-import { EffectType, Grade } from '../types/ModificationProperties';
+import { DamageType, EffectType, Grade } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
     itemType: string[],
@@ -10,6 +10,7 @@ export class Modification {
     constructor(
         public readonly id: string,
         public readonly effectType: EffectType | undefined,
+        public readonly damageType: DamageType | undefined,
         public readonly variants: ModificationVariant[],
         public readonly dropOnly: boolean,
         public readonly repairOnly: boolean,
@@ -26,6 +27,7 @@ export class Modification {
         return new Modification(
             rawData.id,
             rawData.effectType ?? undefined,
+            rawData.damageType ?? undefined,
             variants,
             rawData.dropOnly,
             rawData.repairOnly ?? false,
