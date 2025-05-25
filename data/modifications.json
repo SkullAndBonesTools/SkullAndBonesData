@@ -13,7 +13,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direElectric": {
         "id": "direElectric",
@@ -30,7 +30,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direExplosive": {
         "id": "direExplosive",
@@ -47,7 +47,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direFlooding": {
         "id": "direFlooding",
@@ -64,7 +64,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "incendiary": {
         "id": "incendiary",
@@ -80,7 +80,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direBurning": {
         "id": "direBurning",
@@ -97,7 +97,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "firepower": {
         "id": "firepower",
@@ -113,7 +113,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "shock": {
         "id": "shock",
@@ -129,7 +129,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "rapidReload": {
         "id": "rapidReload",
@@ -144,7 +144,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "combust": {
         "id": "combust",
@@ -160,7 +160,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "flood": {
         "id": "flood",
@@ -176,7 +176,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sparks": {
         "id": "sparks",
@@ -192,7 +192,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "damage": {
         "id": "damage",
@@ -208,7 +208,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "burn": {
         "id": "burn",
@@ -224,7 +224,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "swift": {
         "id": "swift",
@@ -239,7 +239,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "reach": {
         "id": "reach",
@@ -254,7 +254,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sharpened": {
         "id": "sharpened",
@@ -270,7 +270,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "combustion": {
         "id": "combustion",
@@ -286,7 +286,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "pierce": {
         "id": "pierce",
@@ -302,7 +302,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "rupturing": {
         "id": "rupturing",
@@ -318,7 +318,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "haste": {
         "id": "haste",
@@ -333,7 +333,7 @@
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "fix": {
         "id": "fix",
@@ -348,7 +348,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "antiBlast": {
         "id": "antiBlast",
@@ -362,7 +362,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "insulator": {
         "id": "insulator",
@@ -376,7 +376,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "service": {
         "id": "service",
@@ -391,7 +391,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "douser": {
         "id": "douser",
@@ -405,7 +405,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sealant": {
         "id": "sealant",
@@ -419,7 +419,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "reinforcer": {
         "id": "reinforcer",
@@ -433,7 +433,7 @@
         "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "brute": {
         "id": "brute",
@@ -447,7 +447,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "severity": {
         "id": "severity",
@@ -461,7 +461,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "victorsRally": {
         "id": "victorsRally",
@@ -475,7 +475,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "graceOfTheWinds": {
         "id": "graceOfTheWinds",
@@ -493,7 +493,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "lethal": {
         "id": "lethal",
@@ -509,7 +509,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "energize": {
         "id": "energize",
@@ -523,7 +523,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "bloodthirst": {
         "id": "bloodthirst",
@@ -537,7 +537,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "raider": {
         "id": "raider",
@@ -551,7 +551,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "deathblow": {
         "id": "deathblow",
@@ -569,7 +569,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "repairReadiness": {
         "id": "repairReadiness",
@@ -587,7 +587,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "precisePatchwork": {
         "id": "precisePatchwork",
@@ -601,7 +601,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedBurning": {
         "id": "amplifiedBurning",
@@ -618,7 +618,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "siege": {
         "id": "siege",
@@ -634,7 +634,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "restoreReadiness": {
         "id": "restoreReadiness",
@@ -652,7 +652,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedPiercing": {
         "id": "amplifiedPiercing",
@@ -669,7 +669,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedElectric": {
         "id": "amplifiedElectric",
@@ -686,7 +686,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedExplosive": {
         "id": "amplifiedExplosive",
@@ -703,7 +703,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedFlooding": {
         "id": "amplifiedFlooding",
@@ -720,7 +720,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "tearing": {
         "id": "tearing",
@@ -736,7 +736,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "roar": {
         "id": "roar",
@@ -750,7 +750,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "soulMending": {
         "id": "soulMending",
@@ -764,7 +764,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "blastRange": {
         "id": "blastRange",
@@ -780,7 +780,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "durableBuoys": {
         "id": "durableBuoys",
@@ -795,7 +795,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "hardyBuoys": {
         "id": "hardyBuoys",
@@ -810,7 +810,7 @@
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "restorative": {
         "id": "restorative",
@@ -824,7 +824,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "invigorate": {
         "id": "invigorate",
@@ -838,7 +838,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "tranquility": {
         "id": "tranquility",
@@ -852,7 +852,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailorsRespite": {
         "id": "sailorsRespite",
@@ -866,7 +866,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "strengthen": {
         "id": "strengthen",
@@ -880,7 +880,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailMender": {
         "id": "sailMender",
@@ -894,7 +894,7 @@
         "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "secondStorm": {
         "id": "secondStorm",
@@ -908,7 +908,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "overflow": {
         "id": "overflow",
@@ -922,7 +922,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailRipper": {
         "id": "sailRipper",
@@ -936,7 +936,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "winningStreak": {
         "id": "winningStreak",
@@ -950,7 +950,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "deadlyStrike": {
         "id": "deadlyStrike",
@@ -964,7 +964,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "highPressure": {
         "id": "highPressure",
@@ -978,7 +978,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "longArm": {
         "id": "longArm",
@@ -992,7 +992,7 @@
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "providence": {
         "id": "providence",
@@ -1006,7 +1006,7 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "jointSupply": {
         "id": "jointSupply",
@@ -1020,7 +1020,7 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "preemptiveDefence": {
         "id": "preemptiveDefence",
@@ -1034,7 +1034,7 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "empower": {
         "id": "empower",
@@ -1048,7 +1048,7 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "longArmRepair": {
         "id": "longArmRepair",
@@ -1062,7 +1062,7 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "winningStreakRepair": {
         "id": "winningStreakRepair",
@@ -1076,6 +1076,6 @@
         "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     }
 }
