@@ -1,8 +1,9 @@
 import modificationsData from '../../data/modifications.json';
-import { EffectType, Grade } from '../types/ModificationProperties';
+import { WeaponType } from '../types/ItemProperties';
+import { DamageType, EffectType, Grade, RepairAccess } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
-    itemType: string[],
+    itemType: WeaponType[],
     range: number[]
 }
 
@@ -10,9 +11,12 @@ export class Modification {
     constructor(
         public readonly id: string,
         public readonly effectType: EffectType | undefined,
+        public readonly damageType: DamageType | undefined,
+        // Determines if the modification can only be applied to a weapon that includes the specific damage type.
+        public readonly requiredDamageType: DamageType | undefined,
         public readonly variants: ModificationVariant[],
         public readonly dropOnly: boolean,
-        public readonly repairOnly: boolean,
+        public readonly repairAccess: RepairAccess,
         public readonly grade: Grade,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
@@ -26,9 +30,11 @@ export class Modification {
         return new Modification(
             rawData.id,
             rawData.effectType ?? undefined,
+            rawData.damageType ?? undefined,
+            rawData.requiredDamageType ?? undefined,
             variants,
             rawData.dropOnly,
-            rawData.repairOnly ?? false,
+            rawData.repairAccess as RepairAccess,
             rawData.grade as Grade,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated)

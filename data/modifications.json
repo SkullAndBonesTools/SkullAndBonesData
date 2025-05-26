@@ -9,10 +9,11 @@
         ],
         "effectType": "ignoreResistance",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direElectric": {
         "id": "direElectric",
@@ -24,10 +25,12 @@
         ],
         "effectType": "ignoreResistance",
         "damageType": "electric",
+        "requiredDamageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direExplosive": {
         "id": "direExplosive",
@@ -39,10 +42,12 @@
         ],
         "effectType": "ignoreResistance",
         "damageType": "explosive",
+        "requiredDamageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direFlooding": {
         "id": "direFlooding",
@@ -54,10 +59,12 @@
         ],
         "effectType": "ignoreResistance",
         "damageType": "flooding",
+        "requiredDamageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "incendiary": {
         "id": "incendiary",
@@ -67,12 +74,13 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
-        "damageType": "fire",
+        "effectType": "addElementalDamage",
+        "damageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "direBurning": {
         "id": "direBurning",
@@ -83,11 +91,13 @@
             }
         ],
         "effectType": "ignoreResistance",
-        "damageType": "fire",
+        "damageType": "burning",
+        "requiredDamageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "firepower": {
         "id": "firepower",
@@ -99,10 +109,11 @@
         ],
         "effectType": "increaseDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "shock": {
         "id": "shock",
@@ -112,12 +123,13 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "rapidReload": {
         "id": "rapidReload",
@@ -128,10 +140,11 @@
             }
         ],
         "effectType": "increaseReloadSpeed",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "combust": {
         "id": "combust",
@@ -143,10 +156,11 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "flood": {
         "id": "flood",
@@ -158,10 +172,11 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sparks": {
         "id": "sparks",
@@ -173,10 +188,11 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "damage": {
         "id": "damage",
@@ -188,10 +204,11 @@
         ],
         "effectType": "extraDamage",
         "damageType": "base",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "burn": {
         "id": "burn",
@@ -202,11 +219,12 @@
             }
         ],
         "effectType": "extraElementalDamage",
-        "damageType": "fire",
+        "damageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "swift": {
         "id": "swift",
@@ -217,10 +235,11 @@
             }
         ],
         "effectType": "increaseProjectileSpeed",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "reach": {
         "id": "reach",
@@ -231,10 +250,11 @@
             }
         ],
         "effectType": "increaseProjectileRange",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sharpened": {
         "id": "sharpened",
@@ -244,12 +264,13 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "combustion": {
         "id": "combustion",
@@ -259,12 +280,13 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "pierce": {
         "id": "pierce",
@@ -276,10 +298,11 @@
         ],
         "effectType": "extraElementalDamage",
         "damageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "rupturing": {
         "id": "rupturing",
@@ -289,12 +312,13 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "haste": {
         "id": "haste",
@@ -305,110 +329,111 @@
             }
         ],
         "effectType": "reduceTimeToTarget",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "fix": {
         "id": "fix",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [113, 188]
             }
         ],
         "effectType": "increaseRepairAmountPerShot",
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "antiBlast": {
         "id": "antiBlast",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "insulator": {
         "id": "insulator",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "service": {
         "id": "service",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.09, 0.15]
             }
         ],
         "effectType": "increaseRepairAmount",
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "douser": {
         "id": "douser",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sealant": {
         "id": "sealant",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "reinforcer": {
         "id": "reinforcer",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.075, 0.125]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "brute": {
         "id": "brute",
@@ -418,10 +443,11 @@
                 "range": [280, 420]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "severity": {
         "id": "severity",
@@ -431,10 +457,11 @@
                 "range": [0.75, 1.25]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "victorsRally": {
         "id": "victorsRally",
@@ -444,10 +471,11 @@
                 "range": [1400, 2100]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "graceOfTheWinds": {
         "id": "graceOfTheWinds",
@@ -461,10 +489,11 @@
                 "range": [0.0015, 0.0025]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "lethal": {
         "id": "lethal",
@@ -476,10 +505,11 @@
         ],
         "effectType": "increaseCritDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "energize": {
         "id": "energize",
@@ -489,10 +519,11 @@
                 "range": [0.045, 0.075]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "bloodthirst": {
         "id": "bloodthirst",
@@ -502,10 +533,11 @@
                 "range": [0.225, 0.375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "raider": {
         "id": "raider",
@@ -515,10 +547,11 @@
                 "range": [0.25, 0.41]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "deathblow": {
         "id": "deathblow",
@@ -532,10 +565,11 @@
                 "range": [0.0023, 0.0038]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "repairReadiness": {
         "id": "repairReadiness",
@@ -549,10 +583,11 @@
                 "range": [0.00225, 0.00375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "precisePatchwork": {
         "id": "precisePatchwork",
@@ -562,10 +597,11 @@
                 "range": [150, 250]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedBurning": {
         "id": "amplifiedBurning",
@@ -576,11 +612,13 @@
             }
         ],
         "effectType": "bonusElementalDamage",
-        "damageType": "fire",
+        "damageType": "burning",
+        "requiredDamageType": "burning",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "siege": {
         "id": "siege",
@@ -592,10 +630,11 @@
         ],
         "effectType": "increaseSiegeDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "restoreReadiness": {
         "id": "restoreReadiness",
@@ -609,10 +648,11 @@
                 "range": [0.00225, 0.00375]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedPiercing": {
         "id": "amplifiedPiercing",
@@ -624,10 +664,12 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
+        "requiredDamageType": "piercing",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedElectric": {
         "id": "amplifiedElectric",
@@ -639,10 +681,12 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
+        "requiredDamageType": "electric",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedExplosive": {
         "id": "amplifiedExplosive",
@@ -654,10 +698,12 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
+        "requiredDamageType": "explosive",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "amplifiedFlooding": {
         "id": "amplifiedFlooding",
@@ -669,10 +715,12 @@
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
+        "requiredDamageType": "flooding",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "tearing": {
         "id": "tearing",
@@ -684,10 +732,11 @@
         ],
         "effectType": "increaseSailDamage",
         "damageType": "overall",
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "roar": {
         "id": "roar",
@@ -697,10 +746,11 @@
                 "range": [0.053, 0.088]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "soulMending": {
         "id": "soulMending",
@@ -710,10 +760,11 @@
                 "range": [0.045, 0.075]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "blastRange": {
         "id": "blastRange",
@@ -725,10 +776,11 @@
         ],
         "effectType": "increaseBlastRadius",
         "damageType": "overall",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "durableBuoys": {
         "id": "durableBuoys",
@@ -739,10 +791,11 @@
             }
         ],
         "effectType": "increaseBuoyOperationTime",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "hardyBuoys": {
         "id": "hardyBuoys",
@@ -753,94 +806,95 @@
             }
         ],
         "effectType": "increaseBuoyHealth",
+        "repairAccess": "shared",
         "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "restorative": {
         "id": "restorative",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.15, 0.25]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "invigorate": {
         "id": "invigorate",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.0038, 0.0063]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "tranquility": {
         "id": "tranquility",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.113, 0.188]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailorsRespite": {
         "id": "sailorsRespite",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [2.25, 3.75]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "strengthen": {
         "id": "strengthen",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.15, 0.25]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailMender": {
         "id": "sailMender",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.113, 0.188]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "secondStorm": {
         "id": "secondStorm",
@@ -850,10 +904,11 @@
                 "range": [0.06, 0.1]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "overflow": {
         "id": "overflow",
@@ -863,10 +918,11 @@
                 "range": [0.06, 0.1]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "sailRipper": {
         "id": "sailRipper",
@@ -876,10 +932,11 @@
                 "range": [4.0, 6.0]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "winningStreak": {
         "id": "winningStreak",
@@ -889,10 +946,11 @@
                 "range": [0.2, 0.4]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "deadlyStrike": {
         "id": "deadlyStrike",
@@ -902,10 +960,11 @@
                 "range": [0.3, 0.5]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "highPressure": {
         "id": "highPressure",
@@ -915,10 +974,11 @@
                 "range": [0.09, 0.15]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "longArm": {
         "id": "longArm",
@@ -928,93 +988,94 @@
                 "range": [0.4, 0.6]
             }
         ],
+        "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "providence": {
         "id": "providence",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.225, 0.375]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "jointSupply": {
         "id": "jointSupply",
         "variants": [
             {
-                "itemType": ["longGun","cannon","mortar","bombard"],
+                "itemType": ["longGun","culverin","mortar","bombard"],
                 "range": [0.28, 0.42]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "preemptiveDefence": {
         "id": "preemptiveDefence",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.048, 0.072]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "empower": {
         "id": "empower",
         "variants": [
             {
-                "itemType": ["springloader","longGun","cannon","mortar","bombard"],
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
                 "range": [0.032, 0.048]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "longArmRepair": {
         "id": "longArmRepair",
         "variants": [
             {
-                "itemType": ["longGun","cannon","mortar","bombard"],
+                "itemType": ["longGun","culverin","mortar","bombard"],
                 "range": [0.4, 0.6]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     },
     "winningStreakRepair": {
         "id": "winningStreakRepair",
         "variants": [
             {
-                "itemType": ["longGun","cannon"],
+                "itemType": ["longGun","culverin"],
                 "range": [0.2, 0.4]
             }
         ],
         "dropOnly": false,
-        "repairOnly": true,
+        "repairAccess": "exclusive",
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-19"
+        "lastUpdated": "2025-05-25"
     }
 }
