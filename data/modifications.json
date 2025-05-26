@@ -74,7 +74,7 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "burning",
         "repairAccess": "none",
         "dropOnly": false,
@@ -123,7 +123,7 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "electric",
         "repairAccess": "none",
         "dropOnly": false,
@@ -264,7 +264,7 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "piercing",
         "repairAccess": "none",
         "dropOnly": false,
@@ -280,7 +280,7 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "explosive",
         "repairAccess": "none",
         "dropOnly": false,
@@ -312,7 +312,7 @@
                 "range": [0.075, 0.125]
             }
         ],
-        "effectType": "bonusElementalDamage",
+        "effectType": "addElementalDamage",
         "damageType": "flooding",
         "repairAccess": "none",
         "dropOnly": false,

@@ -8,7 +8,7 @@
 export type Grade = "basic" | "advanced" | "special";
 // Defines if a modification can only be applied to a regular weapon, both to a regular and repair weapon, or only to a repair weapon.
 export type RepairAccess = "none" | "shared" | "exclusive";
-export type EffectType = "ignoreResistance" | "bonusElementalDamage" | "increaseDamage" | "increaseReloadSpeed" | "extraElementalDamage" | 
+export type EffectType = "ignoreResistance" | "bonusElementalDamage" | "addElementalDamage" | "increaseDamage" | "increaseReloadSpeed" | "extraElementalDamage" | 
     "extraDamage" | "increaseProjectileSpeed" | "increaseProjectileRange" | "reduceTimeToTarget" | "increaseCritDamage" | "increaseSiegeDamage" |
     "increaseSailDamage" | "increaseBlastRadius" | "increaseBuoyOperationTime" | "increaseBuoyHealth";
 export type DamageType = "piercing" | "electric" | "explosive" | "flooding" | "burning" | "overall" | "base";
