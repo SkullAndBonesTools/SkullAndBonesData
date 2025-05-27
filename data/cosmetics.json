@@ -21256,17 +21256,17 @@
         "id": "supremacyBound",
         "type": "sailsEmblem",
         "set": "eternalWill",
-        "obtainable": "",
+        "obtainable": "twitchDropStartDeathtides",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-27"
     },
     "bonfiresCheer": {
         "id": "bonfiresCheer",
         "type": "sailsPattern",
         "set": "eternalWill",
-        "obtainable": "",
+        "obtainable": "twitchDropStartDeathtides",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-27"
     },
     "twilightTricorne": {
         "id": "twilightTricorne",
