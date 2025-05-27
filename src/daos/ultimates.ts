@@ -14,7 +14,7 @@ export class Ultimate {
         public readonly lastUpdated: Date
     ) {}
 
-    public static loadContracts(): Record<string, Ultimate> {
+    public static loadUltimates(): Record<string, Ultimate> {
         const ultimates: Record<string, Ultimate> = {};
         for (const [key, value] of Object.entries(ultimatesData)) {
             const season = value.season as keyof typeof Seasons;
@@ -36,4 +36,4 @@ type Ultimates = {
     [K in keyof typeof ultimatesData]: Ultimate;
 };
 
-export const Ultimates = Ultimate.loadContracts() as Ultimates;
+export const Ultimates = Ultimate.loadUltimates() as Ultimates;
