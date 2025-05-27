@@ -2181,7 +2181,7 @@
         "phantasmicThrust": {
             "name": "Phantasmic Thrust",
             "description": {
-                "general": "Ramming a target repairs your ship's Hull Health by 100% of damage inflicted"
+                "general": "Ramming a target repairs your ship's Hull Health by 138% of damage inflicted"
             }
         },
         "darkMeditation": {
