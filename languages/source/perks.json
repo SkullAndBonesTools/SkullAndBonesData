@@ -910,13 +910,13 @@
         "hydrodynamic": {
             "name": "Hydrodynamic",
             "description": {
-                "general": "Every knot of Sailing Speed increases Armor by 1%"
+                "general": "Every knot of Sailing Speed increases Armor by 1.3%"
             }
         },
         "impenetrable": {
             "name": "Impenetrable",
             "description": {
-                "general": "Reduces Weakpoint Damage by 20%"
+                "general": "Reduces Weakpoint Damage by 25%"
             }
         },
         "raisedQuarterdeck": {
