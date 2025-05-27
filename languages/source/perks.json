@@ -1238,7 +1238,7 @@
         "ruin": {
             "name": "Ruin",
             "description": {
-                "general": "Explosive Damage hits decrease enemy's weapon damage by 10%"
+                "general": "Explosive Damage hits decrease enemy's weapon damage by 20%"
             }
         },
         "sloopUpgrade": {
