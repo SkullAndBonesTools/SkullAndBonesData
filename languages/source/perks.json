@@ -1888,7 +1888,7 @@
         "indomitable": {
             "name": "Indomitable",
             "description": {
-                "general": "Prevents a killing blow from sinking this ship and this ship becomes invulnerable for the next 6 seconds. This effect has a 180 second cooldown"
+                "general": "Prevents a killing blow from sinking this ship and this ship becomes invulnerable for the next 5 seconds. This effect has a 180 second cooldown"
             }
         },
         "insulation": {
