@@ -259,7 +259,7 @@
             "description": {
                 "general": [
                     "Deals 5000 Burning Damage when you apply the Ablaze effect to an enemy ship. Ablaze will be applied to enemies in a radius of 150m",
-                    "Increases damage to ships with Ablaze effect by 50%"
+                    "Increases damage to ships with Ablaze effect by 30%"
                 ]
             }
         },
