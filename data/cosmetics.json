@@ -22049,9 +22049,9 @@
         "id": "stolenLegacies",
         "type": "hull",
         "set": "honorAndJudgment",
-        "obtainable": "",
+        "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-27"
     },
     "atsushi": {
         "id": "atsushi",
