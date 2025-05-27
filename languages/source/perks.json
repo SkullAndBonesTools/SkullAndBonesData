@@ -853,7 +853,7 @@
             "description": {
                 "3": [
                     "Hits from this weapon saps Crew Stamina",
-                    "20% damage that cannot be blocked by Bracing"
+                    "Adds 20% damage that cannot be blocked by Bracing"
                 ]
             }
         },
