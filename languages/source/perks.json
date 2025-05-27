@@ -600,7 +600,7 @@
             "name": "Venemous Vengeance",
             "description": {
                 "general": [
-                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 3000 Poison damage and depletes Crew Stamina",
+                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 4500 Poison damage and depletes Crew Stamina",
                     "Has a cooldown of 10 seconds"
                 ]
             }
