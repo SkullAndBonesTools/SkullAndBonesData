@@ -11319,46 +11319,6 @@
         "dateAdded": "2025-05-27",
         "lastUpdated": "2025-05-27"
     },
-    "topDeckWeaponsAscendedCache": {
-        "id": "topDeckWeaponsAscendedCache",
-        "rarity": "epic",
-        "type": "chest",
-        "value": 1,
-        "weight": 100,
-        "obtainable": "deathTidesProgression",
-        "dateAdded": "2025-05-27",
-        "lastUpdated": "2025-05-27"
-    },
-    "auxiliaryWeaponsAscendedCache": {
-        "id": "auxiliaryWeaponsAscendedCache",
-        "rarity": "epic",
-        "type": "chest",
-        "value": 1,
-        "weight": 100,
-        "obtainable": "deathTidesProgression",
-        "dateAdded": "2025-05-27",
-        "lastUpdated": "2025-05-27"
-    },
-    "frontWeaponsAscendedCache": {
-        "id": "frontWeaponsAscendedCache",
-        "rarity": "epic",
-        "type": "chest",
-        "value": 1,
-        "weight": 100,
-        "obtainable": "deathTidesProgression",
-        "dateAdded": "2025-05-27",
-        "lastUpdated": "2025-05-27"
-    },
-    "allDeckWeaponsAscendedCache": {
-        "id": "allDeckWeaponsAscendedCache",
-        "rarity": "epic",
-        "type": "chest",
-        "value": 1,
-        "weight": 100,
-        "obtainable": "deathTidesProgression",
-        "dateAdded": "2025-05-27",
-        "lastUpdated": "2025-05-27"
-    },
     "deathTidesChest": {
         "id": "deathTidesChest",
         "rarity": "legendary",
