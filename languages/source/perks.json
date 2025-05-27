@@ -1421,7 +1421,10 @@
         "firebug": {
             "name": "Firebug",
             "description": {
-                "general": "Decrease Fire Weapons Reload Time by 25%"
+                "general": [
+                    "Ablaze deals 100% more damage but lasts 50% of the duration",
+                    "Decreases Fire Weapons Reload Time by 12%"
+                ]
             }
         },
         "sambukUpgrade": {
