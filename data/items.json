@@ -4237,7 +4237,7 @@
         "damagePerShot": 653,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 470,
@@ -4263,7 +4263,7 @@
         "damagePerShot": 880,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 950,
@@ -4291,7 +4291,7 @@
         "damagePerShot": 1107,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 2850,
@@ -4319,7 +4319,7 @@
         "damagePerShot": 710,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 590,
@@ -4346,7 +4346,7 @@
         "damagePerShot": 937,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 1900,
@@ -4374,7 +4374,7 @@
         "damagePerShot": 1164,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 3960,
@@ -4402,7 +4402,7 @@
         "damagePerShot": 710,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "silver": 1660,
@@ -4428,7 +4428,7 @@
         "damagePerShot": 1164,
         "rateOfFire": 60,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 50,
         "required": {
             "magnetiteIngot": 16,
@@ -5341,7 +5341,7 @@
         "damagePerShot": 1396,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 540,
         "projectileSpeed": 60,
         "required": {
             "magnetiteIngot": 12,
@@ -8411,7 +8411,7 @@
         "damagePerShot": 1090,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 75,
         "required": {
             "greenheartPlank": 12,
@@ -9575,7 +9575,7 @@
         "damagePerShot": 1090,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
-        "optimalRange": 450,
+        "optimalRange": 675,
         "projectileSpeed": 75,
         "required": {},
         "perks": ["sunder","arming","piercing2","flooding2"],
