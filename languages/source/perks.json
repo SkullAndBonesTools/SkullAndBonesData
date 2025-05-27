@@ -576,7 +576,7 @@
         },
         "gunnersQuadrant": {
             "description": {
-                "general": "Decreases Reload Time by 50% for the same weapon used to destroy a weakpoint from at least 320m range. This applies only to the first shot"
+                "general": "Decreases Reload Time by 15% for the same weapon used to hit a weakpoint from at least 160m range. This effect lasts for 10s"
             }
         },
         "waterTank": {
