@@ -21256,7 +21256,7 @@
         "id": "supremacyBound",
         "type": "sailsEmblem",
         "set": "eternalWill",
-        "obtainable": "twitchDropStartDeathtides",
+        "obtainable": [["twitchDrop","twitchDropStartDeathtides"]],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-05-27"
     },
@@ -21264,7 +21264,7 @@
         "id": "bonfiresCheer",
         "type": "sailsPattern",
         "set": "eternalWill",
-        "obtainable": "twitchDropStartDeathtides",
+        "obtainable": [["twitchDrop","twitchDropStartDeathtides"]],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-05-27"
     },
