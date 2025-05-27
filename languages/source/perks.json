@@ -2037,7 +2037,6 @@
             "description": {
                 "general": [
                     "Weapon damage is increased based on how far you are from the target, capped at 80%",
-                    "Piercing weapons deal 20% more damage",
                     "When your Hull Health is 40% or lower, increases Armor by 1000 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
                 ]
             }
