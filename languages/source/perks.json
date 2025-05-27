@@ -2082,8 +2082,7 @@
             "name": "Revolver",
             "description": {
                 "general": [
-                    "Increase Piercing weapon damage by 20%",
-                    "Increases to 30% when hitting a target with Punctured",
+                    "Increase Piercing weapon damage by 20%. Increases to 30% when hitting a target with Punctured",
                     "The Long Gun is no longer a top-deck only weapon when equipped at the bow",
                     "Long Guns equipped at the bow will deal 40% less damage and have 60% longer reload times"
                 ]
