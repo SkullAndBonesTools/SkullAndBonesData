@@ -1290,7 +1290,7 @@
         "padewakangSiegeUpgrade": {
             "name": "Siege",
             "description": {
-                "general": "At half-sails or anchored, increases Weapon Damage by 20% and decreases Reload Time by 15% for Explosive weapons"
+                "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
             }
         },
         "padewakangUpgrade": {
