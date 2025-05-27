@@ -879,8 +879,8 @@
             "description": {
                 "1": [
                     "Reduces Reload Time of Springloader weapons by 20% when Crew Stamina is full",
-                    "Reduces duration of incoming Torn Sails effect by 15%",
-                    "Reduces incoming Flooding Charge by 7%"
+                    "Reduces duration of incoming Torn Sails effect by 25%",
+                    "Reduces incoming Flooding Charge by 20%"
                 ]
             }
         },
@@ -1684,8 +1684,8 @@
         "machinistStationMines": {
             "description": {
                 "1": [
-                    "Increases Minefield Buoy Damage by 15%",
-                    "Increases Area-of-Operation Radius of Minefield Buoys by 10%"
+                    "Increases Minefield Buoy Damage by 20%",
+                    "Increases Area-of-Operation Radius of Minefield Buoys by 20%"
                 ]
             }
         },
@@ -1987,9 +1987,9 @@
         "freemansEmbrace": {
             "description": {
                 "general": [
-                    "While under the Ablaze, Flooded or Stormstruck status effect, ramming an enemy ship will spread the status effect to the target",
-                    "Increases the duration of the Ablaze, Flooded and Stormstruck status effect on your ship by 30%",
-                    "Reduces incoming damage from the Ablaze, Flooded and Stormstruck status effect on your ship by 10%"
+                    "Damaging status effects on your ship will spread to any enemy ships you ram",
+                    "Increases the duration of damaging status effects on your ship by 30%",
+                    "Reduces damage from status effects on your ship by 30%"
                 ]
             }
         },
@@ -2211,8 +2211,8 @@
         "chainedLinks": {
             "description": {
                 "general": [
-                    "While trimming sails, reduces incoming Weakpoint Damage by 50%, at the cost of 10% Crew Stamina per hit",
-                    "Reduces incoming damage to weakpoints by 15%",
+                    "While trimming sails, reduces incoming Weakpoint Damage by 60%, at the cost of 10% Crew Stamina per hit",
+                    "Reduces incoming damage to weakpoints by 20%",
                     "Increases Armor Rating of equipped armor by 10%"
                 ]
             }
@@ -2272,8 +2272,8 @@
         "debrisLocker": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 30%",
-                    "Increases Charge Rate of the Torn Sails status effect on a target by 8%"
+                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 50%",
+                    "Increases Charge Rate of the Torn Sails status effect on a target by 16%"
                 ]
             }
         },
@@ -2288,8 +2288,8 @@
         "cannonballChargingStation": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Stormstruck status effect on enemy targets already affected by the Punctured status effect by 30%",
-                    "Increases Charge Rate of the Punctured status effect on a target by 8%"
+                    "Increases the Charge Rate of the Stormstruck status effect on enemy targets already affected by the Punctured status effect by 50%",
+                    "Increases Charge Rate of the Punctured status effect on a target by 16%"
                 ]
             }
         },
@@ -2304,8 +2304,8 @@
         "rifledBarrelWorkshop": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Punctured status effect on enemy targets already affected by the Flooded status effect by 30%",
-                    "Increases Charge Rate of the Flooded status effect on a target by 8%"
+                    "Increases the Charge Rate of the Punctured status effect on enemy targets already affected by the Flooded status effect by 50%",
+                    "Increases Charge Rate of the Flooded status effect on a target by 16%"
                 ]
             }
         },
