@@ -2300,6 +2300,24 @@
                 "general": "A chest gifted by your unknown sponsor."
             }
         },
+        "mutuallyAssuredSetChest": {
+            "name": "Mutually Assured Set Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
+        },
+        "serpentsDueSetChest": {
+            "name": "Serpent's Due Set Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
+        },
+        "divineInterventionSetChest": {
+            "name": "Divine Intervention Set Chest",
+            "description": {
+                "general": "A chest gifted by your unknown sponsor."
+            }
+        },
         "ascendedCache": {
             "name": "Ascended Cache",
             "description": {
