@@ -2751,34 +2751,46 @@
     "riggingStation": {
         "id": "riggingStation",
         "rarity": "epic",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
         "weight": 250,
         "required": {
-            "sovereigns": 400
+            "greenheartPlank": 16,
+            "woodPitch": 8,
+            "wormDrive": 8,
+            "plateGlass": 8,
+            "precisionDrillingBit": 4,
+            "eelSturdyRopes": 2,
+            "silver": 5760
         },
         "perks": ["riggingStation"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-29"
     },
     "gunnersQuadrant": {
         "id": "gunnersQuadrant",
         "rarity": "epic",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
         "weight": 250,
         "required": {
-            "sovereigns": 400
+            "greenheartPlank": 12,
+            "roselleCloth": 12,
+            "planetaryGearset": 8,
+            "purifiedSaltpeter": 8,
+            "torsionSpring": 6,
+            "orcaIntricateApparatus": 2,
+            "silver": 5760
         },
         "perks": ["gunnersQuadrant"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-29"
     },
     "waterTank": {
         "id": "waterTank",
@@ -5242,7 +5254,7 @@
         "type": "longGun",
         "rarity": "rare",
         "season": "chorusOfHavoc",
-        "obtainable": "theHelm",
+        "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
         "gearScore": 35,
@@ -5253,11 +5265,14 @@
         "projectileSpeed": 350,
         "optimalRange": 1000,
         "required": {
-            "piecesOfEight": 750
+            "ironwoodPlank": 10,
+            "shellac": 2,
+            "crudeSaltpeter": 2,
+            "silver": 550
         },
         "perks": ["piercing2","toxic3"],
         "dateAdded": "2024-05-25",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-29"
     },
     "laPiqure2": {
         "id": "laPiqure2",
@@ -5265,7 +5280,7 @@
         "type": "longGun",
         "rarity": "rare",
         "season": "chorusOfHavoc",
-        "obtainable": "theHelm",
+        "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
         "gearScore": 65,
@@ -5276,11 +5291,15 @@
         "projectileSpeed": 350,
         "optimalRange": 1000,
         "required": {
-            "piecesOfEight": 1500
+            "juniperPlank": 10,
+            "zincIngot": 10,
+            "sheetGlass": 4,
+            "screwMechanism": 4,
+            "silver": 1740
         },
         "perks": ["piercing2","toxic3"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-05-29"
     },
     "laPiqure3": {
         "id": "laPiqure3",
