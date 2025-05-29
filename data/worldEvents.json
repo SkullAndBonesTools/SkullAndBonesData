@@ -115,5 +115,23 @@
     },
     "shadesOfTheRonin": {
         "id": "shadesOfTheRonin"
+    },
+    "fangsOfTheFara":  {
+        "id": "fangsOfTheFara"
+    },
+    "hunterHunted": {
+        "id": "hunterHunted"
+    },
+    "watchTheThrone": {
+        "id": "watchTheThrone"
+    },
+    "aTreacherousTurn": {
+        "id": "aTreacherousTurn"
+    },
+    "aShowOfStrength": {
+        "id": "aShowOfStrength"
+    },
+    "fromTheDeep": {
+        "id": "fromTheDeep"
     }
 }
