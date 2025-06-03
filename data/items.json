@@ -11187,7 +11187,7 @@
         "type": "chest",
         "worldEvent": "theLoomingShadow",
         "value": 1,
-        "weight": 1500,
+        "weight": 100,
         "dateAdded": "2025-05-11",
         "lastUpdated": "2025-05-11"
     },
@@ -11197,9 +11197,9 @@
         "type": "chest",
         "worldEvent": "theGreatShadow",
         "value": 1,
-        "weight": 1,
+        "weight": 100,
         "dateAdded": "2025-05-11",
-        "lastUpdated": "2025-05-11"
+        "lastUpdated": "2025-06-03"
     },
     "silverPouch": {
         "id": "silverPouch",
