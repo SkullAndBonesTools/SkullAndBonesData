@@ -1,5 +1,5 @@
 import shipsData from '../../data/ships.json';
-import { ShipSize, SlotWithGunports } from '../types/ShipProperties';
+import { ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from '../types/ShipProperties';
 import { Contract, Contracts } from './contracts';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
@@ -30,14 +30,14 @@ export class Ship {
         },
         public readonly required: Map<Material, number> | undefined,
         public readonly slots: {
-            attachement?: number;
-            frontWeapon?: SlotWithGunports;
-            leftSideWeapon?: SlotWithGunports;
-            rightSideWeapon?: SlotWithGunports;
-            aftWeapon?: SlotWithGunports;
-            auxiliaryWeapon?: number;
-            furniture?: number;
-            ultimate?: number;
+            attachement?: SlotWithGunports;
+            frontWeapon?: SlotWithGunportsAcrossDecks;
+            leftSideWeapon?: SlotWithGunportsAcrossDecks;
+            rightSideWeapon?: SlotWithGunportsAcrossDecks;
+            aftWeapon?: SlotWithGunportsAcrossDecks;
+            auxiliaryWeapon?: SlotWithGunports;
+            furniture?: SlotWithGunports;
+            ultimate?: SlotWithGunports;
         },
         public readonly perks: string[],
         public readonly dateAdded: Date,
