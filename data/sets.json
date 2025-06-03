@@ -1170,5 +1170,9 @@
     "sinfulNature": {
         "id": "sinfulNature",
         "type": "player"
+    },
+    "highStation": {
+        "id": "highStation",
+        "type": "ship"
     }
 }

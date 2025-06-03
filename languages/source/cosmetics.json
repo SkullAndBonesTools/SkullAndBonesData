@@ -16385,6 +16385,30 @@
             "description": {
                 "general": "It's not the heat that's got your blood boiling"
             }
+        },
+        "noLimits": {
+            "name": "No Limits",
+            "description": {
+                "general": "Others merely live in your world"
+            }
+        },
+        "greatnessAwaits": {
+            "name": "Greatness Awaits",
+            "description": {
+                "general": "Command the elements, in all shapes and forms"
+            }
+        },
+        "smoothAndSleek": {
+            "name": "Smooth & Sleek",
+            "description": {
+                "general": "Silver, black, and blue dancing in the wind"
+            }
+        },
+        "greatSpecter": {
+            "name": "Great Specter",
+            "description": {
+                "general": "Sleek white and deep black, with a dash of neon"
+            }
         }
     }
 }

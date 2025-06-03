@@ -23396,5 +23396,34 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-05-13",
         "lastUpdated": "2025-05-13"
+    },
+    "noLimits": {
+        "id": "noLimits",
+        "type": "sailsEmblem",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-06-03",
+        "lastUpdated": "2025-06-03"
+    },
+    "greatnessAwaits": {
+        "id": "greatnessAwaits",
+        "type": "sailsPattern",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-06-03",
+        "lastUpdated": "2025-06-03"
+    },
+    "smoothAndSleek": {
+        "id": "smoothAndSleek",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-06-03",
+        "lastUpdated": "2025-06-03"
+    },
+    "greatSpecter": {
+        "id": "greatSpecter",
+        "type": "hull",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-06-03",
+        "lastUpdated": "2025-06-03"
     }
 }
