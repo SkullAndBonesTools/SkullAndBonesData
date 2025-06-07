@@ -22421,8 +22421,8 @@
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
     },
-    "jackedOfTheDrowned": {
-        "id": "jackedOfTheDrowned",
+    "jacketOfTheDrowned": {
+        "id": "jacketOfTheDrowned",
         "type": "torso",
         "set": "cursedMasquerade",
         "season": "ascentIntoChaos",
