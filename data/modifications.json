@@ -929,14 +929,14 @@
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","torpedo","ballista"],
-                "range": [4.0, 6.0]
+                "range": [2.25, 3.5]
             }
         ],
         "repairAccess": "none",
         "dropOnly": false,
         "grade": "special",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2025-XX-XX"
     },
     "winningStreak": {
         "id": "winningStreak",

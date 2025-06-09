@@ -1806,7 +1806,7 @@
         "bracedGunwales": {
             "description": {
                 "general": [
-                    "Reduces incoming Secondary Damage by 50% while Anchored",
+                    "Reduces incoming Secondary Damage by 20% while Anchored",
                     "Increases Deceleration by 75% while dropping anchor"
                 ]
             }
@@ -1841,8 +1841,8 @@
         "shellPackingStation": {
             "description": {
                 "general": [
-                    "Increases Area-of-effect Radius of Bombard weapons by 7%",
-                    "Reduces Reload Time of Bombard weapons by 7%"
+                    "Increases Area-of-effect Radius of Bombard weapons by 5%",
+                    "Reduces Reload Time of Bombard weapons by 5%"
                 ]
             }
         },
@@ -2022,8 +2022,8 @@
         "plaguebringersWard": {
             "description": {
                 "general": [
-                    "Reduces Reload Time of Toxic weapons by 15%",
-                    "Increases damage from Toxic weapons by 8%"
+                    "Reduces Reload Time of Toxic weapons by 7%",
+                    "Increases damage from Toxic weapons by 4%"
                 ]
             }
         },
@@ -2044,7 +2044,7 @@
             "name": "Deadeye",
             "description": {
                 "general": [
-                    "Weapon damage is increased based on how far you are from the target, capped at 80%",
+                    "Weapon damage is increased based on how far you are from the target, capped at 60%",
                     "When your Hull Health is 40% or lower, increases Armor by 500 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
                 ]
             }
@@ -2101,7 +2101,7 @@
             "description": {
                 "general": [
                     "Increases damage to structures by 50% and increases Weakpoint Damage taken by 30% for 10 seconds",
-                    "Weapon hits have a 30% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 25%",
+                    "Weapon hits have a 20% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 20%",
                     "While active, broadside hits can trigger a 700 damaging explosion every 3s within a 100m Blast Radius"
                 ]
             }
@@ -2229,7 +2229,7 @@
                 "general": [
                     "Hitting a weakpoint increases the damage dealt by the next weakpoint hit within 8 seconds by 30%",
                     "Increases damage to weakpoints with Front Weapons by 12%",
-                    "Reduces Reload Time of Front Weapons by 7%"
+                    "Reduces Reload Time of Front Weapons by 5%"
                 ]
             }
         },
@@ -2271,7 +2271,7 @@
         "devilsConcoction": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Burning weapons by 15%",
+                    "Increases Secondary Damage of Burning weapons by 12%",
                     "Increases Maximum Range of Burning weapons by 8%"
                 ]
             }
@@ -2287,7 +2287,7 @@
         "expandingCorkscrewStation": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Flooding weapons by 15%",
+                    "Increases Secondary Damage of Flooding weapons by 12%",
                     "Increases Maximum Range of Flooding weapons by 8%"
                 ]
             }
@@ -2303,7 +2303,7 @@
         "copperFasteningStation": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Electric weapons by 15%",
+                    "Increases Secondary Damage of Electric weapons by 12%",
                     "Increases maximum Range of Electric weapons by 8%"
                 ]
             }
@@ -2319,7 +2319,7 @@
         "highVelocityKegs": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Piercing weapons by 15%",
+                    "Increases Secondary Damage of Piercing weapons by 12%",
                     "Increases Maximum Range of Piercing weapons by 8%"
                 ]
             }
@@ -2530,8 +2530,8 @@
         "wyrmsBreathChurner": {
             "description": {
                 "general": [
-                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 25% for 20s",
-                    "Increases Secondary Damage of Explosive Weapons by 25%",
+                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 20% for 20s",
+                    "Increases Secondary Damage of Explosive Weapons by 20%",
                     "Increases weapon damage of Explosive Weapons by 5%"
                 ]
             }
@@ -2539,7 +2539,7 @@
         "markOfTheWolf": {
             "description": {
                 "general": [
-                    "Triggering Ablaze on the target also increases Shell-Shocked charge rate by 100% for 10s",
+                    "Triggering Ablaze on the target also increases Shell-Shocked charge rate by 50% for 7s",
                     "Inceases Fire Rate of Explosive Weapons by 20%",
                     "Increases damage to structures by 5%"
                 ]
@@ -2548,32 +2548,32 @@
         "fuseFusingStation": {
             "description": {
                 "general": [
-                    "Decreases Reload Time of Front and Rear Weapons by 12%",
-                    "Increases Secondary Damage dealt by Front and Rear weapons by 15%"
+                    "Decreases Reload Time of Front and Rear Weapons by 9%",
+                    "Increases Secondary Damage dealt by Front and Rear weapons by 9%"
                 ]
             }
         },
         "ramrodWorkshop": {
             "description": {
                 "general": [
-                    "Decreases Reload Time of Broadside Weapons by 15%",
-                    "Increases Secondary Damage dealt by Broadside Weapons by 10%"
+                    "Decreases Reload Time of Broadside Weapons by 7%",
+                    "Increases Secondary Damage dealt by Broadside Weapons by 7%"
                 ]
             }
         },
         "breechlockFurnace": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage dealt by up to 30% the closer the target is, reduced by 3% per 50m to the target",
-                    "Increases Charge Rate of the Shell-Shocked effect on enemy ships by 7%",
-                    "Increases damage dealt by the Shell-Shocked status effect on a target by 5%"
+                    "Increases Secondary Damage dealt by up to 20% the closer the target is, reduced by 2% per 50m to the target",
+                    "Increases Charge Rate of the Shell-Shocked effect on enemy ships by 5%",
+                    "Increases damage dealt by the Shell-Shocked status effect on a target by 3%"
                 ]
             }
         },
         "dynamicBallastControl": {
             "description": {
                 "general": [
-                    "Reduces incoming Secondary Damage for every 100m to attack, capped at 40% at 600m",
+                    "Reduces incoming Secondary Damage for every 100m to attack, capped at 30% at 600m",
                     "Reduces incoming Piercing Charge from enemy ships by 8%",
                     "Increases Armor Rating of equipped armor by 3%"
                 ]
@@ -2582,6 +2582,11 @@
         "mortarProjectileSpeed": {
             "description": {
                 "15": "Increases Projectile Speed of Mortar by 15%"
+            }
+        },
+        "joineryWorkshop": {
+            "description": {
+                "1": "Increases Repair Amount from Repair Weapons by 6%"
             }
         }
     }

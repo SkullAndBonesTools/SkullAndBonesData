@@ -4931,14 +4931,14 @@
         "gearScore": 15,
         "value": 1,
         "weight": 100,
-        "perks": ["repairAmountFromRepairWeapons1"],
+        "perks": ["joineryWorkshop1"],
         "required": {
             "silver": 430,
             "irokoPlank": 6,
             "cogwheel": 4
         },
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "gunpowderBench1": {
         "id": "gunpowderBench1",
