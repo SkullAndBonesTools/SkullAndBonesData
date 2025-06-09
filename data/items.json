@@ -1314,7 +1314,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1120,
+        "armor": 1180,
         "damageMitigation": {
             "explosive": 0.25,
             "flooding": 0.25,
@@ -1332,7 +1332,7 @@
         },
         "perks": ["venemousVengeance"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "wailingWard": {
         "id": "wailingWard",
@@ -1345,7 +1345,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1120,
+        "armor": 1180,
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.15,
@@ -1363,7 +1363,7 @@
         },
         "perks": ["toxicResistant", "agileGuard"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "royalCustodian": {
         "id": "royalCustodian",
@@ -2991,7 +2991,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 200,
-        "perks": ["auxiliaryDamage1"],
+        "perks": ["maintainedArsenal1"],
         "required": {
             "silver": 3370,
             "magnetiteIngot": 6,
@@ -3002,7 +3002,7 @@
             "torsionSpring": 1
         },
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "torpedoWorks1": {
         "id": "torpedoWorks1",
@@ -5385,7 +5385,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1120,
+        "armor": 1180,
         "damageMitigation": {
             "explosive": 0.25,
             "flooding": 0.25,
@@ -5403,7 +5403,7 @@
         },
         "perks": ["crescendo"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "buccaneersOath": {
         "id": "buccaneersOath",
@@ -5991,7 +5991,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1100,
+        "armor": 1160,
         "damageMitigation": {
             "explosive": 0.20,
             "flooding": 0.35,
@@ -6003,7 +6003,7 @@
         },
         "perks": ["unsinkable","ironPlastron"],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "cursedBanner": {
         "id": "cursedBanner",
@@ -8201,7 +8201,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1150,
+        "armor": 1210,
         "damageMitigation": {
             "explosive": 0.10,
             "flooding": 0.16,
@@ -8215,7 +8215,7 @@
         },
         "perks": ["lightningStream"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "hongYiPao": {
         "id": "hongYiPao",
@@ -8352,7 +8352,7 @@
         "gearScore": 297,
         "armor": 1240,
         "damageMitigation": {
-            "explosive": 0.10,
+            "explosive": 0.15,
             "flooding": 0.10,
             "fire": 0.35,
             "tearing": 0,
@@ -8372,7 +8372,7 @@
         "obtainable": ["phoenixsTalonChest","phoenixsTalonStrongbox","williamBlackwoodRotatingStore"],
         "perks": ["revile","gloat"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "organHarvestingStation": {
         "id": "organHarvestingStation",
@@ -9198,11 +9198,11 @@
         "gearScore": 297,
         "armor": 1200,
         "damageMitigation": {
-            "explosive": 0.25,
+            "explosive": 0.27,
             "flooding": 0.17,
             "fire": 0.07,
             "tearing": 0,
-            "piercing": 0.25,
+            "piercing": 0.27,
             "electric": 0.05
         },
         "required": {
@@ -9210,7 +9210,7 @@
         },
         "perks": ["rally"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "pishacha": {
         "id": "pishacha",
@@ -9971,7 +9971,7 @@
         "value": 1,
         "weight": 500,
         "gearScore": 297,
-        "armor": 1150,
+        "armor": 1210,
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.10,
@@ -9987,7 +9987,7 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "perks": ["cindershield","emberWard"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-XX-XX"
     },
     "nocturneHeart": {
         "id": "nocturneHeart",

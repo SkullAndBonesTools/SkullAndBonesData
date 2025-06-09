@@ -192,8 +192,8 @@
             "name": "Ironclad",
             "description": {
                 "general": [
-                    "Increases Armor by 250 for 30 seconds after bracing damage",
-                    "Increases Brace Strength by 250% and Brace Strength Recovery by 25%"
+                    "Increases Armor by 350 for 30 seconds after bracing damage",
+                    "Increases Brace Strength by 275% and Brace Strength Recovery by 25%"
                 ]
             }
         },
@@ -213,8 +213,8 @@
             "description": {
                 "general": [
                     "Applying the Ablaze effect to a ship will apply the same effect to all enemies in a radius of 125m",
-                    "Increases weapon damage by 20%",
-                    "Burning Damage increases Ablaze charge speed by 150%"
+                    "Increases weapon damage by 35%",
+                    "Burning Damage increases Ablaze charge speed by 175%"
                 ]
             }
         },
@@ -526,7 +526,7 @@
         },
         "signalGong": {
             "description": {
-                "general": "Increases damage by 15% after a Crew Attack for 30 seconds"
+                "general": "Increases damage by 20% after a Crew Attack for 30 seconds"
             }
         },
         "ironCapstan": {
@@ -571,7 +571,7 @@
         },
         "munitionsMixer": {
             "description": {
-                "general": "Increases duration of Flooded and Ablaze effects applied to enemy ships by 100%. But reduces damage dealt from these effects by 30%"
+                "general": "Increases duration of Flooded and Ablaze effects applied to enemy ships by 100%. But reduces damage dealt from these effects by 20%"
             }
         },
         "gunnersQuadrant": {
@@ -600,7 +600,7 @@
             "name": "Venemous Vengeance",
             "description": {
                 "general": [
-                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 4500 Poison damage and depletes Crew Stamina",
+                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 5000 Poison damage and depletes Crew Stamina",
                     "Has a cooldown of 10 seconds"
                 ]
             }
@@ -809,7 +809,7 @@
             "name": "Artificer",
             "description": {
                 "general": [
-                    "Consecutive weapon hits to targets increases effectiveness of subsequent Buoys by 2%, capping at 30%. Resets if more than 12 seconds pass between hits",
+                    "Consecutive weapon hits to targets increases effectiveness of subsequent Buoys by 3%, capping at 45%. Resets if more than 12 seconds pass between hits",
                     "Reduces reload time of Auxiliary Weapons by 10%, as well as for nearby friendly ships",
                     "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
                 ]
@@ -824,15 +824,15 @@
         "ironPlastron": {
             "name": "Iron Plastron",
             "description": {
-                "general": "Reduces damage from torpedoes by 25% and by an additional 25% while bracing"
+                "general": "Reduces damage from torpedoes by 30% and by an additional 30% while bracing"
             }
         },
         "crescendo": {
             "name": "Crescendo",
             "description": {
                 "general": [
-                    "Holding brace charges up a sonic attack, dealing up to 6000 damage to surrounding hostiles",
-                    "Range when fully charged: 125m"
+                    "Holding brace charges up a sonic attack, dealing up to 7200 damage to surrounding hostiles",
+                    "Range when fully charged: 150m"
                 ]
             }
         },
@@ -895,9 +895,9 @@
         "tuningStation": {
             "description": {
                 "1": [
-                    "Increases Secondary Damage of Torpedo by 17%",
-                    "Increases Projectile Speed of Torpedo by 10%",
-                    "Restores 5% Crew Stamina per Second while out of combat"
+                    "Increases Secondary Damage of Torpedo by 20%",
+                    "Increases Projectile Speed of Torpedo by 13%",
+                    "Restores 10% Crew Stamina per Second while out of combat"
                 ]
             }
         },
@@ -910,13 +910,13 @@
         "hydrodynamic": {
             "name": "Hydrodynamic",
             "description": {
-                "general": "Every knot of Sailing Speed increases Armor by 1.3%"
+                "general": "Every knot of Sailing Speed increases Armor by 1.4%"
             }
         },
         "impenetrable": {
             "name": "Impenetrable",
             "description": {
-                "general": "Reduces Weakpoint Damage by 25%"
+                "general": "Reduces Weakpoint Damage by 35%"
             }
         },
         "raisedQuarterdeck": {
@@ -947,17 +947,22 @@
         "brouwersPowderhouse": {
             "description": {
                 "1": [
-                    "Increases Area-of-effect Radius of Mortar by 7%",
-                    "Reduces Reload Time of Mortar by 5%"
+                    "Increases Area-of-effect Radius of Mortar by 10%",
+                    "Reduces Reload Time of Mortar by 7%"
                 ]
+            }
+        },
+        "maintainedArsenal": {
+            "description": {
+                "1": "Increases Damage from Auxiliary Weapons by 13%"
             }
         },
         "compagnieScreens": {
             "description": {
                 "general": [
-                    "Reduces incoming Area-of-effect Damage from enemy ships by 15%",
-                    "Reduces Incoming Burning Charge by 7%",
-                    "Increases Max Hull Health by 3%"
+                    "Reduces incoming Area-of-effect Damage from enemy ships by 20%",
+                    "Reduces Incoming Burning Charge by 10%",
+                    "Increases Max Hull Health by 5%"
                 ]
             }
         },
@@ -1096,7 +1101,7 @@
         "ironwill": {
             "name": "Ironwill",
             "description": {
-                "general": "Increases Armor Rating by 150 for yourself and nearby allies"
+                "general": "Increases Armor Rating by 300 for yourself and nearby allies"
             }
         },
         "hulkUpgrade": {
@@ -1510,7 +1515,7 @@
         "evolved": {
             "name": "Evolved",
             "description": {
-                "general": "Increase weapon damage and Repair Amount of Auxiliary Weapons by 10%"
+                "general": "Increase weapon damage and Repair Amount of Auxiliary Weapons by 15%"
             }
         },
         "brigUpgrade": {
@@ -1678,9 +1683,9 @@
         "hubacTuningRack": {
             "description": {
                 "general": [
-                    "Increases Maximum Range of Torpedo by 12%",
-                    "Reduces Arming Distance for Torpedo weapons by 20%",
-                    "Increases Projectile Speed of Torpedo by 8%"
+                    "Increases Maximum Range of Torpedo by 14%",
+                    "Reduces Arming Distance for Torpedo weapons by 25%",
+                    "Increases Projectile Speed of Torpedo by 10%"
                 ]
             }
         },
@@ -1713,7 +1718,7 @@
         "spitefulSpikesStation": {
             "description": {
                 "general": [
-                    "Hitting a weakpoint has a  25% chance of reducing all Repair effects on the target by 75% for 15s, regardless of source",
+                    "Hitting a weakpoint has a  40% chance of reducing all Repair effects on the target by 75% for 15s, regardless of source",
                     "Increases damage to weakpoints by Auxiliary Weapons by 10%",
                     "Reduces Reload Time of Auxiliary Weapons by 7%"
                 ]
@@ -1731,7 +1736,7 @@
             "name": "Lightning Stream",
             "description": {
                 "general": [
-                    "Bracing charges a Lightning attack that will chain up to 4 targets and deal a maximum of 1600 Electric Damage per target",
+                    "Bracing charges a Lightning attack that will chain up to 4 targets and deal a maximum of 1850 Electric Damage per target",
                     "The longer Bracing is held, the more powerful the attack the further the Lightning will reach"
                 ]
             }
@@ -1844,8 +1849,8 @@
         "densityFurnace": {
             "description": {
                 "general": [
-                    "Increases Charge Rate of the Flooded status effect on a target by 8%",
-                    "Increases duration of the Flooded status effect on a target by 8%"
+                    "Increases Charge Rate of the Flooded status effect on a target by 12%",
+                    "Increases duration of the Flooded status effect on a target by 12%"
                 ]
             }
         },
@@ -2008,9 +2013,9 @@
         "bloodyRed": {
             "description": {
                 "general": [
-                    "Reduces Threat Generation of nearby friendly ships by 50%",
-                    "Increases Taunt Bonus Threat by 25%",
-                    "Increases Threat Generation by 10%"
+                    "Reduces Threat Generation of nearby friendly ships by 60%",
+                    "Increases Taunt Bonus Threat by 40%",
+                    "Increases Threat Generation by 25%"
                 ]
             }
         },
@@ -2204,9 +2209,9 @@
         "drownedOnesToll": {
             "description": {
                 "general": [
-                    "When above 60% of Crew Stamina and below Max Hull Health, 6% of Crew Stamina is consumed to restore 0.25% of Hull Health per second",
-                    "Increases Max Hull Health by 5%",
-                    "Increases Crew Stamina Recovery Speed by 3% while out of combat"
+                    "When above 60% of Crew Stamina and below Max Hull Health, 6% of Crew Stamina is consumed to restore 0.28% of Hull Health per second",
+                    "Increases Max Hull Health by 8%",
+                    "Increases Crew Stamina Recovery Speed by 6% while out of combat"
                 ]
             }
         },
@@ -2446,7 +2451,7 @@
         "emberWard": {
             "name": "Ember Ward",
             "description": {
-                "general": "Reduces damage taken by Burning Weapons by 25% and by an additional 25% while bracing"
+                "general": "Reduces damage taken by Burning Weapons by 30% and by an additional 30% while bracing"
             }
         },
         "euphoria": {
