@@ -21240,17 +21240,17 @@
         "id": "mightIsRight",
         "type": "sailsEmblem",
         "set": "firesOfIndustry",
-        "obtainable": "",
+        "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-06-10"
     },
     "chainedDestiny": {
         "id": "chainedDestiny",
         "type": "sailsPattern",
         "set": "firesOfIndustry",
-        "obtainable": "",
+        "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-06-10"
     },
     "supremacyBound": {
         "id": "supremacyBound",
