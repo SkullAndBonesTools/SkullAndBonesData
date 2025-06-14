@@ -12521,33 +12521,33 @@
         "type": "sailsColor",
         "effect": "emissive",
         "set": "hellfestShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-06-10"
     },
     "violentOrchestra": {
         "id": "violentOrchestra",
         "type": "sailsEmblem",
         "set": "hellfestShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-06-10"
     },
     "boltsOfFury": {
         "id": "boltsOfFury",
         "type": "sailsPattern",
         "set": "hellfestShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-06-10"
     },
     "solemnMuse": {
         "id": "solemnMuse",
         "type": "hull",
         "set": "hellfestShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","setCosmeticsChest"],
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-06-10"
     },
     "aRebelliousNote": {
         "id": "aRebelliousNote",
