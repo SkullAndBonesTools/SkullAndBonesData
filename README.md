@@ -10,13 +10,13 @@ This project is also compliant with the Terms of Service of Skull and Bones and 
 For each update of the game a new release is provided containing the updated files which can be found under the [Releases](https://github.com/SkullAndBonesTools/SkullAndBonesData/releases) section.
 
 The version schema of the release is tied to the Skull and Bones version the data represents and put together like so:\
-**Example**: snbdata@5.2.4
+**Example**: snbdata@5.1.2
 ```
 5 - Season (a year has 4 seasons, so season 5 = Y2S1)
 2 - Patch Level
 4 - Bug Fixes / Minor Changes (this one is related to releases of this repository)
 
-This represents the SnB game version Y2S1.2.X
+This represents the SnB game version Y2S1.1.X
 ```
 
 *Because the first published version of the package was for Y2S1, so season 5 of Skull and Bones, the first release was the 5.0.0.*
