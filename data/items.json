@@ -1332,7 +1332,7 @@
         },
         "perks": ["venemousVengeance"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "wailingWard": {
         "id": "wailingWard",
@@ -1363,7 +1363,7 @@
         },
         "perks": ["toxicResistant", "agileGuard"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "royalCustodian": {
         "id": "royalCustodian",
@@ -3002,7 +3002,7 @@
             "torsionSpring": 1
         },
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "torpedoWorks1": {
         "id": "torpedoWorks1",
@@ -4938,7 +4938,7 @@
             "cogwheel": 4
         },
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "gunpowderBench1": {
         "id": "gunpowderBench1",
@@ -5403,7 +5403,7 @@
         },
         "perks": ["crescendo"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "buccaneersOath": {
         "id": "buccaneersOath",
@@ -6003,7 +6003,7 @@
         },
         "perks": ["unsinkable","ironPlastron"],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "cursedBanner": {
         "id": "cursedBanner",
@@ -8215,7 +8215,7 @@
         },
         "perks": ["lightningStream"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "hongYiPao": {
         "id": "hongYiPao",
@@ -8372,7 +8372,7 @@
         "obtainable": ["phoenixsTalonChest","phoenixsTalonStrongbox","williamBlackwoodRotatingStore"],
         "perks": ["revile","gloat"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "organHarvestingStation": {
         "id": "organHarvestingStation",
@@ -9210,7 +9210,7 @@
         },
         "perks": ["rally"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "pishacha": {
         "id": "pishacha",
@@ -9987,7 +9987,7 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "perks": ["cindershield","emberWard"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-XX-XX"
+        "lastUpdated": "2025-06-17"
     },
     "nocturneHeart": {
         "id": "nocturneHeart",

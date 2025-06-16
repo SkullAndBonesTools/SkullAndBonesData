@@ -2530,7 +2530,7 @@
         "wyrmsBreathChurner": {
             "description": {
                 "general": [
-                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 20% for 20s",
+                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 20% for 10s",
                     "Increases Secondary Damage of Explosive Weapons by 20%",
                     "Increases weapon damage of Explosive Weapons by 5%"
                 ]
