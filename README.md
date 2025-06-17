@@ -13,7 +13,7 @@ The version schema of the release is tied to the Skull and Bones version the dat
 **Example**: snbdata@5.1.2
 ```
 5 - Season (a year has 4 seasons, so season 5 = Y2S1)
-2 - Patch Level
+1 - Patch Level
 4 - Bug Fixes / Minor Changes (this one is related to releases of this repository)
 
 This represents the SnB game version Y2S1.1.X
