@@ -24,9 +24,10 @@
         "type": "eliteWarship",
         "faction": "fleetOfPestilence"
     },
-    "caperingToTheCape": {
-        "id": "caperingToTheCape",
-        "type": "convoy"
+    "caperingTheCape": {
+        "id": "caperingTheCape",
+        "type": "convoy",
+        "faction": "clanOfFara"
     },
     "anAllianceOfConvenience": {
         "id": "anAllianceOfConvenience",
