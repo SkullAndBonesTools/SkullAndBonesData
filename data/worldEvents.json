@@ -1,18 +1,28 @@
 {
     "anguishFromTheAbyss": {
-        "id": "anguishFromTheAbyss"
+        "id": "anguishFromTheAbyss",
+        "type": "spectralShip",
+        "faction": "dutchMerchantCompany"
     },
     "tidesOfTerror": {
-        "id": "tidesOfTerror"
+        "id": "tidesOfTerror",
+        "type": "eliteWarship",
+        "faction": "fleetOfPestilence"
     },
     "theMizerja": {
-        "id": "theMizerja"
+        "id": "theMizerja",
+        "type": "eliteWarship",
+        "faction": "clanOfFara"
     },
     "theOpwelling": {
-        "id": "theOpwelling"
+        "id": "theOpwelling",
+        "type": "eliteWarship",
+        "faction": "dutchMerchantCompany"
     },
     "thePlagueKing": {
-        "id": "thePlagueKing"
+        "id": "thePlagueKing",
+        "type": "eliteWarship",
+        "faction": "fleetOfPestilence"
     },
     "caperingToTheCape": {
         "id": "caperingToTheCape"
@@ -21,19 +31,27 @@
         "id": "anAllianceOfConvenience"
     },
     "theRempahResupply": {
-        "id": "theRempahResupply"
+        "id": "theRempahResupply",
+        "type": "convoy",
+        "faction": "dominionOfRempah"
     },
     "guidedByGuile": {
         "id": "guidedByGuile"
     },
     "symphonieMortelle": {
-        "id": "symphonieMortelle"
+        "id": "symphonieMortelle",
+        "type": "eliteWarship",
+        "faction": "compagnieRoyale"
     },
     "verseOfVengeance": {
-        "id": "verseOfVengeance"
+        "id": "verseOfVengeance",
+        "type": "eliteWarship",
+        "faction": "chorusFleet"
     },
     "verseOfRemorse": {
-        "id": "verseOfRemorse"
+        "id": "verseOfRemorse",
+        "type": "eliteWarship",
+        "faction": "chorusFleet"
     },
     "riskTheRisingTide": {
         "id": "riskTheRisingTide"
@@ -42,10 +60,13 @@
         "id": "iceAndEasy"
     },
     "chorusOfHavoc": {
-        "id": "chorusOfHavoc"
+        "id": "chorusOfHavoc",
+        "type": "eliteWarship",
+        "faction": "chorusFleet"
     },
     "divineRetribution": {
-        "id": "divineRetribution"
+        "id": "divineRetribution",
+        "type": "seaMonster"
     },
     "opulentOpportunity": {
         "id": "opulentOpportunity"
@@ -57,10 +78,14 @@
         "id": "flamesOfTheDragon"
     },
     "theGloriousPhoenix": {
-        "id": "theGloriousPhoenix"
+        "id": "theGloriousPhoenix",
+        "type": "eliteWarship",
+        "faction": "phoenixsTalon"
     },
     "theSerpentsWrath": {
-        "id": "theSerpentsWrath"
+        "id": "theSerpentsWrath",
+        "type": "eliteWarship",
+        "faction": "dragonsClaw"
     },
     "flamesOfThePhoenix": {
         "id": "flamesOfThePhoenix"
@@ -72,46 +97,69 @@
         "id": "stolenTreasures"
     },
     "curseOfTheSchaduw": {
-        "id": "curseOfTheSchaduw"
+        "id": "curseOfTheSchaduw",
+        "type": "eliteWarship",
+        "faction": "shadowLegion"
     },
     "theLoomingShadow": {
-        "id": "theLoomingShadow"
+        "id": "theLoomingShadow",
+        "type": "eliteWarship",
+        "faction": "shadowLegion"
     },
     "reaversVengeance": {
-        "id": "reaversVengeance"
+        "id": "reaversVengeance",
+        "type": "seaMonster"
     },
     "theWolfHunter": {
-        "id": "theWolfHunter"
+        "id": "theWolfHunter",
+        "type": "eliteWarship",
+        "faction": "dutchMerchantCompany"
     },
     "theAzureRoyale": {
-        "id": "theAzureRoyale"
+        "id": "theAzureRoyale",
+        "type": "eliteWarship"
     },
     "theGreatShadow": {
-        "id": "theGreatShadow"
+        "id": "theGreatShadow",
+        "type": "eliteWarship",
+        "faction": "shadowLegion"
     },
     "undyingMaw": {
-        "id": "undyingMaw"
+        "id": "undyingMaw",
+        "type": "seaMonster"
     },
     "payingDues": {
-        "id": "payingDues"
+        "id": "payingDues",
+        "type": "convoy",
+        "faction": "scavengers"
     },
     "scurlocksPrecious": {
-        "id": "scurlocksPrecious"
+        "id": "scurlocksPrecious",
+        "type": "convoy",
+        "faction": "scavengers"
     },
     "thickAsThieves": {
-        "id": "thickAsThieves"
+        "id": "thickAsThieves",
+        "type": "convoy",
+        "faction": "scavengers"
     },
     "gloryAdorned": {
         "id": "gloryAdorned"
     },
     "theHonorlessMizerja": {
-        "id": "theHonorlessMizerja"
+        "id": "theHonorlessMizerja",
+        "type": "eliteWarship",
+        "faction": "clanOfFara"
     },
     "theHonorlessDianSinaga": {
-        "id": "theHonorlessDianSinaga"
+        "id": "theHonorlessDianSinaga",
+        "type": "eliteWarship",
+        "faction": "dominionOfRempah"
     },
     "theHonorlessAhPak": {
-        "id": "theHonorlessAhPak"
+        "id": "theHonorlessAhPak",
+        "type": "eliteWarship",
+        "faction": "pirates"
     },
     "shadesOfTheRonin": {
         "id": "shadesOfTheRonin"
@@ -120,18 +168,55 @@
         "id": "fangsOfTheFara"
     },
     "hunterHunted": {
-        "id": "hunterHunted"
+        "id": "hunterHunted",
+        "type": "eliteWarship",
+        "faction": "confederationOfUngwana"
     },
     "watchTheThrone": {
-        "id": "watchTheThrone"
+        "id": "watchTheThrone",
+        "type": "eliteWarship",
+        "faction": "pirates"
     },
     "aTreacherousTurn": {
-        "id": "aTreacherousTurn"
+        "id": "aTreacherousTurn",
+        "type": "eliteWarship",
+        "faction": "dominionOfRempah"
     },
     "aShowOfStrength": {
-        "id": "aShowOfStrength"
+        "id": "aShowOfStrength",
+        "type": "eliteWarship",
+        "faction": "dutchMerchantCompany"
     },
     "fromTheDeep": {
-        "id": "fromTheDeep"
+        "id": "fromTheDeep",
+        "type": "seaMonster"
+    },
+    "profitablePoison": {
+        "id": "profitablePoison",
+        "type": "convoy",
+        "faction": "confederationOfUngwana"
+    },
+    "farReachesForTheFara": {
+        "id": "farReachesForTheFara",
+        "type": "convoy",
+        "faction": "clanOfFara"
+    },
+    "drownedSorrows": {
+        "id": "drownedSorrows",
+        "type": "convoy",
+        "faction": "shadowLegion"
+    },
+    "aHushedHold": {
+        "id": "aHushedHold",
+        "type": "convoy",
+        "faction": "dutchMerchantCompany"
+    },
+    "theVanishing": {
+        "id": "theVanishing",
+        "type": "seaMonster"
+    },
+    "silentDeath": {
+        "id": "silentDeath",
+        "type": "seaMonster"
     }
 }
