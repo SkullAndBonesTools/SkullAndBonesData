@@ -75,7 +75,8 @@
     },
     "opulentOpportunity": {
         "id": "opulentOpportunity",
-        "type": "convoy"
+        "type": "convoy",
+        "faction": "confederationOfUngwana"
     },
     "easternExchange": {
         "id": "easternExchange",
@@ -245,5 +246,15 @@
         "id": "shapesInTheWater",
         "type": "convoy",
         "faction": "shadowLegion"
+    },
+    "spoilsOfWar": {
+        "id": "spoilsOfWar",
+        "type": "convoy",
+        "faction": "clanOfFara"
+    },
+    "aPerilousPathToProfits": {
+        "id": "aPerilousPathToProfits",
+        "type": "convoy",
+        "faction": "dominionOfRempah"
     }
 }
