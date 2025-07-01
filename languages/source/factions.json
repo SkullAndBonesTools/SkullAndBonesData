@@ -53,6 +53,9 @@
         },
         "theHelm": {
             "name": "The Helm"
+        },
+        "scavengers": {
+            "name": "Scavengers"
         }
     }
 }
