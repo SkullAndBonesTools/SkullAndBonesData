@@ -258,5 +258,10 @@
         "id": "aPerilousPathToProfits",
         "type": "convoy",
         "faction": "dominionOfRempah"
+    },
+    "maladiousMeasures": {
+        "id": "maladiousMeasures",
+        "type": "convoy",
+        "faction": "dutchMerchantCompany"
     }
 }
