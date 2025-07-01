@@ -62,7 +62,8 @@
     },
     "iceAndEasy": {
         "id": "iceAndEasy",
-        "type": "convoy"
+        "type": "convoy",
+        "faction": "dutchMerchantCompany"
     },
     "chorusOfHavoc": {
         "id": "chorusOfHavoc",
