@@ -25,10 +25,12 @@
         "faction": "fleetOfPestilence"
     },
     "caperingToTheCape": {
-        "id": "caperingToTheCape"
+        "id": "caperingToTheCape",
+        "type": "convoy"
     },
     "anAllianceOfConvenience": {
-        "id": "anAllianceOfConvenience"
+        "id": "anAllianceOfConvenience",
+        "type": "convoy"
     },
     "theRempahResupply": {
         "id": "theRempahResupply",
@@ -36,7 +38,8 @@
         "faction": "dominionOfRempah"
     },
     "guidedByGuile": {
-        "id": "guidedByGuile"
+        "id": "guidedByGuile",
+        "type": "convoy"
     },
     "symphonieMortelle": {
         "id": "symphonieMortelle",
@@ -54,10 +57,12 @@
         "faction": "chorusFleet"
     },
     "riskTheRisingTide": {
-        "id": "riskTheRisingTide"
+        "id": "riskTheRisingTide",
+        "type": "convoy"
     },
     "iceAndEasy": {
-        "id": "iceAndEasy"
+        "id": "iceAndEasy",
+        "type": "convoy"
     },
     "chorusOfHavoc": {
         "id": "chorusOfHavoc",
@@ -69,13 +74,16 @@
         "type": "seaMonster"
     },
     "opulentOpportunity": {
-        "id": "opulentOpportunity"
+        "id": "opulentOpportunity",
+        "type": "convoy"
     },
     "easternExchange": {
-        "id": "easternExchange"
+        "id": "easternExchange",
+        "type": "convoy"
     },
     "flamesOfTheDragon": {
-        "id": "flamesOfTheDragon"
+        "id": "flamesOfTheDragon",
+        "type": "eliteWarship"
     },
     "theGloriousPhoenix": {
         "id": "theGloriousPhoenix",
@@ -88,13 +96,17 @@
         "faction": "dragonsClaw"
     },
     "flamesOfThePhoenix": {
-        "id": "flamesOfThePhoenix"
+        "id": "flamesOfThePhoenix",
+        "type": "eliteWarship",
+        "faction": "phoenixsTalon"
     },
     "baitAndSwitch": {
-        "id": "baitAndSwitch"
+        "id": "baitAndSwitch",
+        "type": "convoy"
     },
     "stolenTreasures": {
-        "id": "stolenTreasures"
+        "id": "stolenTreasures",
+        "type": "convoy"
     },
     "curseOfTheSchaduw": {
         "id": "curseOfTheSchaduw",
@@ -144,7 +156,9 @@
         "faction": "scavengers"
     },
     "gloryAdorned": {
-        "id": "gloryAdorned"
+        "id": "gloryAdorned",
+        "type": "convoy",
+        "faction": "dominionOfRempah"
     },
     "theHonorlessMizerja": {
         "id": "theHonorlessMizerja",
@@ -162,10 +176,13 @@
         "faction": "pirates"
     },
     "shadesOfTheRonin": {
-        "id": "shadesOfTheRonin"
+        "id": "shadesOfTheRonin",
+        "type": "convoy"
     },
     "fangsOfTheFara":  {
-        "id": "fangsOfTheFara"
+        "id": "fangsOfTheFara",
+        "type": "eliteWarship",
+        "faction": "clanOfFara"
     },
     "hunterHunted": {
         "id": "hunterHunted",
@@ -218,5 +235,15 @@
     "silentDeath": {
         "id": "silentDeath",
         "type": "seaMonster"
+    },
+    "convoyOfHighSpirits": {
+        "id": "convoyOfHighSpirits",
+        "type": "convoy",
+        "faction": "compagnieRoyale"
+    },
+    "shapesInTheWater": {
+        "id": "shapesInTheWater",
+        "type": "convoy",
+        "faction": "shadowLegion"
     }
 }
