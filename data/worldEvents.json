@@ -263,5 +263,10 @@
         "id": "maladiousMeasures",
         "type": "convoy",
         "faction": "dutchMerchantCompany"
+    },
+    "colonialShipment": {
+        "id": "colonialShipment",
+        "type": "convoy",
+        "faction": "compagnieRoyale"
     }
 }
