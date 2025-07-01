@@ -39,7 +39,8 @@
     },
     "guidedByGuile": {
         "id": "guidedByGuile",
-        "type": "convoy"
+        "type": "convoy",
+        "faction": "dominionOfRempah"
     },
     "symphonieMortelle": {
         "id": "symphonieMortelle",
