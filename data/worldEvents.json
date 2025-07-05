@@ -269,5 +269,15 @@
         "id": "colonialShipment",
         "type": "convoy",
         "faction": "compagnieRoyale"
+    },
+    "apparativeApparitions": {
+        "id": "apparativeApparitions",
+        "type": "convoy",
+        "faction": "dutchMerchantCompany"
+    },
+    "violentTendencies": {
+        "id": "violentTendencies",
+        "type": "convoy",
+        "faction": "shadowLegion"
     }
 }
