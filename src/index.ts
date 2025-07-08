@@ -16,5 +16,8 @@ export { WorldEvents } from "./daos/worldEvents";
 
 // Types
 export { Rarity } from "./types/Rarity";
-export { ShipSize } from "./types/ShipProperties";
-export { Effect } from "./types/CosmeticProperties";
+export { ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from "./types/ShipProperties";
+export { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from "./types/CosmeticProperties";
+
+// Constants
+export { CosmeticEffects, PlayerAppearanceTypes, PlayerOutfitTypes, ShipCosmeticTypes } from "./types/CosmeticProperties";

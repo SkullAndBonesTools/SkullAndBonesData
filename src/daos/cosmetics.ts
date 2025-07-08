@@ -1,5 +1,5 @@
 import cosmeticsData from '../../data/cosmetics.json';
-import { Effect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from '../types/CosmeticProperties';
+import { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from '../types/CosmeticProperties';
 import { Rarity } from '../types/Rarity';
 import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
@@ -18,7 +18,7 @@ export class Cosmetic {
         public readonly tier?: number,
         public readonly set?: Set,
         public readonly obtainable?: string | string[] | Array<string | string[]>,
-        public readonly effect?: Effect | Effect[],
+        public readonly effect?: CosmeticEffect | CosmeticEffect[],
         public readonly season?: Season,
         public readonly contract?: Contract,
         public basic?: Cosmetic,
