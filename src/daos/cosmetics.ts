@@ -1,5 +1,5 @@
 import cosmeticsData from '../../data/cosmetics.json';
-import { Effect, PlayerAppearanceType, PlayerOutfitType, ShipType } from '../types/CosmeticProperties';
+import { Effect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from '../types/CosmeticProperties';
 import { Rarity } from '../types/Rarity';
 import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
@@ -11,7 +11,7 @@ import { WorldEvent, WorldEvents } from './worldEvents';
 export class Cosmetic {
     constructor(
         public readonly id: string,
-        public readonly type: ShipType | PlayerOutfitType | PlayerAppearanceType,
+        public readonly type: ShipCosmeticType | PlayerOutfitType | PlayerAppearanceType,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly rarity?: Rarity,
