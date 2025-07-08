@@ -16409,6 +16409,12 @@
             "description": {
                 "general": "Sleek white and deep black, with a dash of neon"
             }
+        },
+        "concealedArmor": {
+            "name": "Concealed Armor",
+            "description": {
+                "general": "Hides equipped armor on your ship."
+            }
         }
     }
 }

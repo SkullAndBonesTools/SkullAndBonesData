@@ -23429,5 +23429,11 @@
         "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-06-03",
         "lastUpdated": "2025-06-03"
+    },
+    "concealedArmor": {
+        "id": "concealedArmor",
+        "type": "armorSkin",
+        "dateAdded": "2025-07-08",
+        "lastUpdated": "2025-07-08"
     }
 }
