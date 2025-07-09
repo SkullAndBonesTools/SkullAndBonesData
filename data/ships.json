@@ -764,7 +764,7 @@
         "id": "frigate",
         "size": "large",
         "type": "ships",
-        "blueprint": "smugglerPass40Reward",
+        "blueprint": "smugglerPass45Reward",
         "season": "oathsOfWar",
         "hitpoints": 100000,
         "braceStrength": 30000,
