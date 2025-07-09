@@ -16733,6 +16733,54 @@
             "description": {
                 "general": "Grave misfortune shall test your soul"
             }
+        },
+        "fortunesEmbraceGambler": {
+            "name": "Fortune's Embrace",
+            "description": {
+                "general": "\"Sometimes, they tug at my conscience... Sometimes.\""
+            }
+        },
+        "luckyRolls": {
+            "name": "Lucky Rolls",
+            "description": {
+                "general": "\"Won the pair off a singing sparrow in Tortuga.\""
+            }
+        },
+        "bigBets": {
+            "name": "Big Bets",
+            "description": {
+                "general": "\"Would you like to bet how each paid off?\""
+            }
+        },
+        "luckOfTheDraw": {
+            "name": "Luck of the Draw",
+            "description": {
+                "general": "\"Sometimes, you just need an extra card...\""
+            }
+        },
+        "nameForMyself": {
+            "name": "Name for Myself",
+            "description": {
+                "general": "\"Luckiest man alive and most cursed.\""
+            }
+        },
+        "goldThreaded": {
+            "name": "Gold Threaded",
+            "description": {
+                "general": "\"Rip what you sew.\""
+            }
+        },
+        "fleetFooted": {
+            "name": "Fleet Footed",
+            "description": {
+                "general": "\"I go where there's gold to be made.\""
+            }
+        },
+        "5050": {
+            "name": "50/50",
+            "description": {
+                "general": "\"I like my odds...\""
+            }
         }
     }
 }

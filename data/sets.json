@@ -1202,5 +1202,9 @@
     "nightRavager": {
         "id": "nightRavager",
         "type": "player"
+    },
+    "kingOfGamblers": {
+        "id": "kingOfGamblers",
+        "type": "player"
     }
 }

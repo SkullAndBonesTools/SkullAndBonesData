@@ -23958,5 +23958,77 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "fortunesEmbraceGambler": {
+        "id": "fortunesEmbraceGambler",
+        "type": "waist",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "luckyRolls": {
+        "id": "luckyRolls",
+        "type": "faceAccessory",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bigBets": {
+        "id": "bigBets",
+        "type": "hand",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "luckOfTheDraw": {
+        "id": "luckOfTheDraw",
+        "type": "headwear",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "nameForMyself": {
+        "id": "nameForMyself",
+        "type": "neck",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "goldThreaded": {
+        "id": "goldThreaded",
+        "type": "bottom",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "fleetFooted": {
+        "id": "fleetFooted",
+        "type": "footwear",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "5050": {
+        "id": "5050",
+        "type": "torso",
+        "set": "kingOfGamblers",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
