@@ -389,5 +389,54 @@
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
+    },
+    "claimToFameY2S2": {
+        "id": "claimToFameY2S2",
+        "category": "seasonal",
+        "goal": 200000,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "darktideSurvivor": {
+        "id": "darktideSurvivor",
+        "category": "seasonal",
+        "goal": 20,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "moonshineRaider": {
+        "id": "moonshineRaider",
+        "category": "seasonal",
+        "goal": 20,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "fleetMaster": {
+        "id": "fleetMaster",
+        "category": "enterprise",
+        "goal": 5,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "stormSailor": {
+        "id": "stormSailor",
+        "category": "enterprise",
+        "goal": 300,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "colossalVessel": {
+        "id": "colossalVessel",
+        "category": "enterprise",
+        "goal": 1,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "pirateKnight": {
+        "id": "pirateKnight",
+        "category": "enterprise",
+        "goal": 10,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

@@ -143,6 +143,34 @@
         "ghoulsBane": {
             "name": "Ghoul's Bane",
             "description": "Use %s Reaper's Cache"
+        },
+        "claimToFameY2S2": {
+            "name": "Claim to Fame",
+            "description": "Gain %s Infamy in Year 2 Season 2"
+        },
+        "darktideSurvivor": {
+            "name": "Darktide Survivor",
+            "description": "Use %s Darktide Lullaby caches"
+        },
+        "moonshineRaider": {
+            "name": "Moonshine Raider",
+            "description": "Use %s Moonshine Larceny caches"
+        },
+        "fleetMaster": {
+            "name": "Fleet Master",
+            "description": "Build %s ships"
+        },
+        "stormSailor": {
+            "name": "Storm Sailor",
+            "description": "Sail through storms for %s minutes"
+        },
+        "colossalVessel": {
+            "name": "Colossal Vessel",
+            "description": "Build %s Large Frigate"
+        },
+        "pirateKnight": {
+            "name": "Pirate Knight",
+            "description": "Loot %s Merchant Convoys"
         }
     }
 }
