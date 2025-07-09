@@ -23471,5 +23471,89 @@
         "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-XX",
         "lastUpdated": "2025-07-XX"
+    },
+    "takeTheAscendant": {
+        "id": "takeTheAscendant",
+        "type": "figureHead",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 500
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bloodbound": {
+        "id": "bloodbound",
+        "type": "nameplate",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 500
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "courtOfSaints": {
+        "id": "courtOfSaints",
+        "type": "ornaments",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 300
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "classicGrandeur": {
+        "id": "classicGrandeur",
+        "type": "sailsPattern",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 150
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "honorDefined": {
+        "id": "honorDefined",
+        "type": "sailsColor",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 150
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "strengthInNumbers": {
+        "id": "strengthInNumbers",
+        "type": "hull",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 150
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "shiningMight": {
+        "id": "shiningMight",
+        "type": "sailsEmblem",
+        "set": "crownsJustice",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "required": {
+            "gildmarks": 150
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

@@ -16439,6 +16439,48 @@
             "description": {
                 "general": "Ready yourself for anything"
             }
+        },
+        "takeTheAscendant": {
+            "name": "Take the Ascendant",
+            "description": {
+                "general": "The might of an empire is not to be trifled with"
+            }
+        },
+        "bloodbound": {
+            "name": "Bloodbound",
+            "description": {
+                "general": "Let your ambitions shape tomorrow"
+            }
+        },
+        "courtOfSaints": {
+            "name": "Court of Saints",
+            "description": {
+                "general": "Nobility and grace surround you"
+            }
+        },
+        "classicGrandeur": {
+            "name": "Classic Grandeur",
+            "description": {
+                "general": "May riches flow and deference follow"
+            }
+        },
+        "honorDefined": {
+            "name": "Honor Defined",
+            "description": {
+                "general": "You decide whom. Or what, to serve."
+            }
+        },
+        "strengthInNumbers": {
+            "name": "Strength in Numbers",
+            "description": {
+                "general": "Led by a captain who will never yield"
+            }
+        },
+        "shiningMight": {
+            "name": "Shining Might",
+            "description": {
+                "general": "Backed by purpose and resolve"
+            }
         }
     }
 }

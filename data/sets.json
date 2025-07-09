@@ -1174,5 +1174,9 @@
     "highStation": {
         "id": "highStation",
         "type": "ship"
+    },
+    "crownsJustice": {
+        "id": "crownsJustice",
+        "type": "ship"
     }
 }
