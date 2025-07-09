@@ -11402,5 +11402,119 @@
         "weight": 150,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade1": {
+        "id": "frigateUpgrade1",
+        "type": "shipUpgrade",
+        "tier": 1,
+        "value": 1,
+        "required": {
+            "zincIngot": 14,
+            "fineAbaka": 14,
+            "deepIron": 30,
+            "upgradeParts": 6,
+            "silver": 18000
+        },
+        "perks": ["frigateUpgrade1"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade2": {
+        "id": "frigateUpgrade2",
+        "type": "shipUpgrade",
+        "tier": 2,
+        "value": 1,
+        "required": {
+        },
+        "perks": ["frigateUpgrade2"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade3": {
+        "id": "frigateUpgrade3",
+        "type": "shipUpgrade",
+        "tier": 3,
+        "value": 1,
+        "required": {
+        },
+        "perks": ["frigateUpgrade3", "deepBlue"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade4": {
+        "id": "frigateUpgrade4",
+        "type": "shipUpgrade",
+        "tier": 4,
+        "value": 1,
+        "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.03,
+            "flooding": 0,
+            "fire": 0.03,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03
+        },
+        "perks": ["frigateUpgrade4"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade5": {
+        "id": "frigateUpgrade5",
+        "type": "shipUpgrade",
+        "tier": 5,
+        "value": 1,
+        "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05
+        },
+        "perks": ["frigateUpgrade5"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade6": {
+        "id": "frigateUpgrade6",
+        "type": "shipUpgrade",
+        "tier": 6,
+        "value": 1,
+        "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.10,
+            "flooding": 0,
+            "fire": 0.10,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.10
+        },
+        "perks": ["frigateUpgrade6", "resolve"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frigateUpgrade7": {
+        "id": "frigateUpgrade7",
+        "type": "shipUpgrade",
+        "tier": 7,
+        "value": 1,
+        "required": {
+        },
+        "damageMitigation": {
+            "explosive": 0.20,
+            "flooding": 0,
+            "fire": 0.20,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.20
+        },
+        "perks": ["frigateUpgrade7"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

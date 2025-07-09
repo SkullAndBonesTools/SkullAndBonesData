@@ -2610,6 +2610,51 @@
                 "general": "Increases received damage to Weakpoints by 30%"
             }
         },
+        "frigateUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 104000",
+                    "Increases Brace Strength to 31200"
+                ],
+                "2": [
+                    "Increases Cargo to 95000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 15kn",
+                    "Increases Trimming Speed to 20kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 107000",
+                    "Increases Brace Strength to 32100"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Resolve' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 128400",
+                    "Increases Brace Strength to 38520",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "resolve": {
+            "name": "Resolve",
+            "description": {
+                "general": [
+                    "At 10 stacks of Grit, taking damage grants you Resolve",
+                    "Resolve restores 10% Brace Strength on activation, decreases status effect damage by 20% and increases threat generation by 100% for 10 seconds"
+                ]
+            }
+        },
         "poseidonsBrew": {
             "description": {
                 "general": [
