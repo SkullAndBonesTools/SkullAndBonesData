@@ -1194,5 +1194,9 @@
     "aDeadlyBet": {
         "id": "aDeadlyBet",
         "type": "ship"
+    },
+    "drownedWitch": {
+        "id": "drownedWitch",
+        "type": "ship"
     }
 }

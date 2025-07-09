@@ -23760,5 +23760,107 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "inTheBeyond": {
+        "id": "inTheBeyond",
+        "type": "sailsEmblem",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "byTheBlue": {
+        "id": "byTheBlue",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "upgrades": ["theNatureOfEvil","soulsAblaze"],
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "theNatureOfEvil": {
+        "id": "theNatureOfEvil",
+        "tier": 1,
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "basic": "byTheBlue",
+        "upgrades": ["soulsAblaze"],
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "required": {
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "soulsAblaze": {
+        "id": "soulsAblaze",
+        "tier": 2,
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "basic": "byTheBlue",
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "required": {
+            "magnetiteIngot": 10,
+            "roselleCloth": 10,
+            "precisionDrillingBit": 3,
+            "artisansRefinementPack": 5,
+            "vengefulEssence": 5
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "shipsDregs": {
+        "id": "shipsDregs",
+        "type": "hull",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "mistweaver": {
+        "id": "mistweaver",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "aHushFalls": {
+        "id": "aHushFalls",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "theLongSacrifice": {
+        "id": "theLongSacrifice",
+        "type": "sailsPattern",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "talismanOfTheDead": {
+        "id": "talismanOfTheDead",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "drownedWitch",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

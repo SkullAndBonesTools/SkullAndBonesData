@@ -16613,6 +16613,60 @@
             "description": {
                 "general": "Never lose sight of what you're playing for"
             }
+        },
+        "inTheBeyond": {
+            "name": "In the Beyond",
+            "description": {
+                "general": "Said to render the soul hollow by sight alone"
+            }
+        },
+        "byTheBlue": {
+            "name": "By the Blue",
+            "description": {
+                "general": "\"Once, I loved off the seas. Now, I am part of it.\""
+            }
+        },
+        "theNatureOfEvil": {
+            "name": "The Nature of Evil",
+            "description": {
+                "general": "\"All things are corrupted in the end.\""
+            }
+        },
+        "soulsAblaze": {
+            "name": "Souls Ablaze",
+            "description": {
+                "general": "\"My wrath will never be quenched.\""
+            }
+        },
+        "shipsDregs": {
+            "name": "Ship's Dregs",
+            "description": {
+                "general": "Dark and foul as witch's brew"
+            }
+        },
+        "mistweaver": {
+            "name": "Mistweaver",
+            "description": {
+                "general": "May your enemies be engulfed by chaos and confusion"
+            }
+        },
+        "aHushFalls": {
+            "name": "A Hush Falls",
+            "description": {
+                "general": "A moment that marks scores of dead"
+            }
+        },
+        "theLongSacrifice": {
+            "name": "The Long Sacrifice",
+            "description": {
+                "general": "She demands a price, and cares not who pays"
+            }
+        },
+        "talismanOfTheDead": {
+            "name": "Talisman of the Dead",
+            "description": {
+                "general": "She needs to see whom she blesses... or curses"
+            }
         }
     }
 }
