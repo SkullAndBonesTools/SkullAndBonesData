@@ -16505,6 +16505,30 @@
             "description": {
                 "general": "Made for speed, grace, and power"
             }
+        },
+        "mutineersFate": {
+            "name": "Mutineer's Fate",
+            "description": {
+                "general": "It certainly wasn't pretty"
+            }
+        },
+        "deathGroans": {
+            "name": "Death Groans",
+            "description": {
+                "general": "A thousand ghosts lurk within"
+            }
+        },
+        "endlessExpanse": {
+            "name": "Endless Expanse",
+            "description": {
+                "general": "It's enough to drive a seadog mad"
+            }
+        },
+        "myWordIsLaw": {
+            "name": "My Word is Law",
+            "description": {
+                "general": "Errant crew members will be cast to the sharks"
+            }
         }
     }
 }

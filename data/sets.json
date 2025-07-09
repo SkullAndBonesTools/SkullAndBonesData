@@ -1182,5 +1182,9 @@
     "fleetsEyes": {
         "id": "fleetsEyes",
         "type": "ship"
+    },
+    "hellHaul": {
+        "id": "hellHaul",
+        "type": "ship"
     }
 }

@@ -23591,5 +23591,41 @@
         "obtainable": "smugglerPass45Reward",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "mutineersFate": {
+        "id": "mutineersFate",
+        "type": "sailsEmblem",
+        "set": "hellHaul",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "deathGroans": {
+        "id": "deathGroans",
+        "type": "hull",
+        "set": "hellHaul",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "endlessExpanse": {
+        "id": "endlessExpanse",
+        "type": "sailsColor",
+        "set": "hellHaul",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "myWordIsLaw": {
+        "id": "myWordIsLaw",
+        "type": "sailsPattern",
+        "set": "hellHaul",
+        "season": "oathsOfWar",
+        "obtainable": "",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
