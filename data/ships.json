@@ -759,5 +759,61 @@
         "perks": ["fury"],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
+    },
+    "frigate": {
+        "id": "frigate",
+        "size": "large",
+        "type": "ships",
+        "blueprint": "smugglerPass40Reward",
+        "season": "oathsOfWar",
+        "hitpoints": 100000,
+        "braceStrength": 30000,
+        "braceStrengthRecovery": 1,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 9,
+            "fullSail": 12,
+            "travelSail": 16
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 80000
+        },
+        "required": {
+            "magnetiteIngot": 16,
+            "planetaryGearset": 8,
+            "wormDrive": 8,
+            "deepIron": 10,
+            "precisionDrillingBit": 6,
+            "torsionSpring": 6,
+            "orcaIntricateApparatus": 2,
+            "gannetDenseNiter": 2,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": [1,1],
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 4
+            }],
+            "leftSideWeapon": [1,{
+                "top": 6,
+                "lower": 7
+            }],
+            "rightSideWeapon": [1,{
+                "top": 6,
+                "lower": 7
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": [1,2],
+            "furniture": [5,1],
+            "ultimate": [1,1]
+        },
+        "perks": ["grit","colossal","criticalFlaw"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

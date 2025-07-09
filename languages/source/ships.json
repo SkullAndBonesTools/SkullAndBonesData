@@ -89,6 +89,12 @@
             "description": {
                 "general": "Excels at devastating broadside attacks, turning every barrage into an explosive reaction, wreaking havoc on fleets and structures in the Red Isle."
             }
+        },
+        "frigate": {
+            "name": "Frigate",
+            "description": {
+                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+            }
         }
     }
 }

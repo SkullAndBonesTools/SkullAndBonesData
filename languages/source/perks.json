@@ -2588,6 +2588,27 @@
             "description": {
                 "1": "Increases Repair Amount from Repair Weapons by 6%"
             }
+        },
+        "grit": {
+            "name": "Grit",
+            "description": {
+                "general": [
+                    "Gain a stack of Grit when you take damage. Each stack of Grit increases Armor by 40, up to a maximum of 10 stacks. Each stack of Grit lasts 15 seconds",
+                    "Allied XSML, SML and MED ships within 200m take 10% reduced damage. When you have 10 stacks of Grit, reduce 20% damage instead"
+                ]
+            }
+        },
+        "colossal": {
+            "name": "Colossal",
+            "description": {
+                "general": "Reduces Sailing Speed in Rivers and Shallows by 30%"
+            }
+        },
+        "criticalFlaw": {
+            "name": "Critical Flaw",
+            "description": {
+                "general": "Increases received damage to Weakpoints by 30%"
+            }
         }
     }
 }
