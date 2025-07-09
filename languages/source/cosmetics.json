@@ -16571,6 +16571,48 @@
             "description": {
                 "general": "A captain once thought lost rises again"
             }
+        },
+        "winningHand": {
+            "name": "Winning Hand",
+            "description": {
+                "general": "Cunning, patience, ruthlessness"
+            }
+        },
+        "fortunesGrin": {
+            "name": "Fortune's Grin",
+            "description": {
+                "general": "Hideous but said to be all a gambler could ask for"
+            }
+        },
+        "foolsGame": {
+            "name": "Fool's Game",
+            "description": {
+                "general": "To be a pirate is to gamble through life and death"
+            }
+        },
+        "gambler": {
+            "name": "Gambler",
+            "description": {
+                "general": "Always ready to up the ante"
+            }
+        },
+        "forbiddenRiches": {
+            "name": "Forbidden Riches",
+            "description": {
+                "general": "You may be a scoundrel, but you're far richer for it"
+            }
+        },
+        "favoredOdds": {
+            "name": "Favored Odds",
+            "description": {
+                "general": "The greatest gambits are the ones you unravel at sea"
+            }
+        },
+        "eyeOnThePrizeWheel": {
+            "name": "Eye on the Prize Wheel",
+            "description": {
+                "general": "Never lose sight of what you're playing for"
+            }
         }
     }
 }

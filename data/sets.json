@@ -1190,5 +1190,9 @@
     "deathBecomesUs": {
         "id": "deathBecomesUs",
         "type": "ship"
+    },
+    "aDeadlyBet": {
+        "id": "aDeadlyBet",
+        "type": "ship"
     }
 }

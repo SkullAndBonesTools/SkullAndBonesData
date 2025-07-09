@@ -23694,5 +23694,71 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "winningHand": {
+        "id": "winningHand",
+        "type": "sailsEmblem",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "fortunesGrin": {
+        "id": "fortunesGrin",
+        "type": "sailsPattern",
+        "effect": ["emissive","combatReactive"],
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "foolsGame": {
+        "id": "foolsGame",
+        "type": "hull",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "gambler": {
+        "id": "gambler",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "forbiddenRiches": {
+        "id": "forbiddenRiches",
+        "type": "sailsColor",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "favoredOdds": {
+        "id": "favoredOdds",
+        "type": "sailsPattern",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "eyeOnThePrizeWheel": {
+        "id": "eyeOnThePrizeWheel",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "aDeadlyBet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
