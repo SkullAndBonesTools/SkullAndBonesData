@@ -23633,7 +23633,7 @@
         "type": "sailsEmblem",
         "set": "deathBecomesUs",
         "season": "oathsOfWar",
-        "obtainable": "premiumPass",
+        "obtainable": "smugglerPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
@@ -23766,7 +23766,7 @@
         "type": "sailsEmblem",
         "set": "drownedWitch",
         "season": "oathsOfWar",
-        "obtainable": "premiumPass",
+        "obtainable": "smugglerPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
@@ -23777,7 +23777,7 @@
         "set": "drownedWitch",
         "season": "oathsOfWar",
         "upgrades": ["theNatureOfEvil","soulsAblaze"],
-        "obtainable": "premiumPass",
+        "obtainable": "smugglerPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
