@@ -16685,6 +16685,54 @@
             "description": {
                 "general": "Cute, round, and has a hell of a bite"
             }
+        },
+        "beltOfTheForsaken": {
+            "name": "Belt of the Forsaken",
+            "description": {
+                "general": "Left to a fate worse than death"
+            }
+        },
+        "hellEntrenched": {
+            "name": "Hell Entrenched",
+            "description": {
+                "general": "From witnessing horrors to becoming one"
+            }
+        },
+        "eraOfNightmares": {
+            "name": "Era of Nightmares",
+            "description": {
+                "general": "In an age of war, cruelty knows no end"
+            }
+        },
+        "scuffedTricorne": {
+            "name": "Scuffed Tricorne",
+            "description": {
+                "general": "Rise through the madness and take control"
+            }
+        },
+        "sweepingShadows": {
+            "name": "Sweeping Shadows",
+            "description": {
+                "general": "What has become of your humanity?"
+            }
+        },
+        "theLimbless": {
+            "name": "The Limbless",
+            "description": {
+                "general": "You're always spinning new tales about what happened"
+            }
+        },
+        "marshCoat": {
+            "name": "Marsh Coat",
+            "description": {
+                "general": "Touched by a perilous, corrupted land"
+            }
+        },
+        "cursedOutsider": {
+            "name": "Cursed Outsider",
+            "description": {
+                "general": "Grave misfortune shall test your soul"
+            }
         }
     }
 }

@@ -1198,5 +1198,9 @@
     "drownedWitch": {
         "id": "drownedWitch",
         "type": "ship"
+    },
+    "nightRavager": {
+        "id": "nightRavager",
+        "type": "player"
     }
 }

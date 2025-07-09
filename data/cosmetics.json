@@ -23886,5 +23886,77 @@
         "obtainable": "smugglerPassFinalReward",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "beltOfTheForsaken": {
+        "id": "beltOfTheForsaken",
+        "type": "waist",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "hellEntrenched": {
+        "id": "hellEntrenched",
+        "type": "faceAccessory",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "eraOfNightmares": {
+        "id": "eraOfNightmares",
+        "type": "hand",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "scuffedTricorne": {
+        "id": "scuffedTricorne",
+        "type": "headwear",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "sweepingShadows": {
+        "id": "sweepingShadows",
+        "type": "bottom",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "theLimbless": {
+        "id": "theLimbless",
+        "type": "footwear",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "marshCoat": {
+        "id": "marshCoat",
+        "type": "torso",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "cursedOutsider": {
+        "id": "cursedOutsider",
+        "type": "bodyCosmetics",
+        "season": "oathsOfWar",
+        "set": "nightRavager",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
