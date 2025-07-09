@@ -2378,6 +2378,12 @@
             "description": {
                 "general": "Delivers an endless rain of rockets, configured to deal Flooding and Severe Damage. A terrible weapon forged by an ancient Sea People design."
             }
+        },
+        "spiritcaller": {
+            "name": "Spiritcaller",
+            "description": {
+                "general": "Deploys the Spirit Beacon buoy, which deals damage, slows, and weakens armor of enemy ships. It also renders Weeping Specters vulnerable to damage. Used by Rempah ritualists to trap wandering spirits before they drag ships to the deep."
+            }
         }
     }
 }

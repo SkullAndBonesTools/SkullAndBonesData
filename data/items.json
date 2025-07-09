@@ -11596,5 +11596,27 @@
         "perks": ["torrent", "flooding2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "spiritCaller": {
+        "id": "spiritCaller",
+        "rarity": "rare",
+        "season": "oathsOfWar",
+        "obtainable": "",
+        "event": "darktideLullaby",
+        "requiredSize": "medium",
+        "type": "springloader",
+        "gearScore": 83,
+        "value": 1,
+        "weight": 1000,
+        "damagePerShot": 1537,
+        "projectilesPerShot": 1,
+        "rateOfFire": 0,
+        "reloadSpeed": 20000,
+        "optimalRange": 400,
+        "timeToTarget": 2.7,
+        "required": {},
+        "perks": ["illuminate"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

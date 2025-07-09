@@ -2696,6 +2696,15 @@
                     "50% of Flooding Damage is dealt as Severe Damage"
                 ]
             }
+        },
+        "illuminate": {
+            "name": "Illuminate",
+            "description": {
+                "general": [
+                    "Reduces target's movement speed by 50% and Armor by 20% for 3s",
+                    "Makes Weeping Specters vulnerable to damage"
+                ]
+            }
         }
     }
 }
