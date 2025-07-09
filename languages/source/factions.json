@@ -56,6 +56,9 @@
         },
         "scavengers": {
             "name": "Scavengers"
+        },
+        "sultanateOfSohar": {
+            "name": "Sultanate of Sohar"
         }
     }
 }

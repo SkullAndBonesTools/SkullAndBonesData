@@ -114,5 +114,11 @@
         "firstAppearingSeason": "shadowsOfTheDeep",
         "dateAdded": "2025-07-01",
         "lastUpdated": "2025-07-01"
+    },
+    "sultanateOfSohar": {
+        "id": "sultanateOfSohar",
+        "firstAppearingSeason": "release",
+        "dateAdded": "2025-07-09",
+        "lastUpdated": "2025-07-09"
     }
 }
