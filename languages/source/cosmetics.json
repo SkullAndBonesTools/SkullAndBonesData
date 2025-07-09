@@ -16481,6 +16481,30 @@
             "description": {
                 "general": "Backed by purpose and resolve"
             }
+        },
+        "grandStrike": {
+            "name": "Grand Strike",
+            "description": {
+                "general": "Hits harder than one might expect"
+            }
+        },
+        "turnTheTide": {
+            "name": "Turn the Tide",
+            "description": {
+                "general": "A deadly ship for a daring captain"
+            }
+        },
+        "raidItAll": {
+            "name": "Raid it All",
+            "description": {
+                "general": "Your authority is beyond question"
+            }
+        },
+        "queenOfTheSeas": {
+            "name": "Queen of the Seas",
+            "description": {
+                "general": "Made for speed, grace, and power"
+            }
         }
     }
 }

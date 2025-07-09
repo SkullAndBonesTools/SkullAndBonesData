@@ -1178,5 +1178,9 @@
     "crownsJustice": {
         "id": "crownsJustice",
         "type": "ship"
+    },
+    "fleetsEyes": {
+        "id": "fleetsEyes",
+        "type": "ship"
     }
 }

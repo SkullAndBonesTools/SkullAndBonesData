@@ -23555,5 +23555,41 @@
         },
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "grandStrike": {
+        "id": "grandStrike",
+        "type": "sailsEmblem",
+        "set": "fleetsEyes",
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass45Reward",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "turnTheTide": {
+        "id": "turnTheTide",
+        "type": "hull",
+        "set": "fleetsEyes",
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass45Reward",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "raidItAll": {
+        "id": "raidItAll",
+        "type": "sailsColor",
+        "set": "fleetsEyes",
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass45Reward",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "queenOfTheSeas": {
+        "id": "queenOfTheSeas",
+        "type": "sailsPattern",
+        "set": "fleetsEyes",
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass45Reward",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
