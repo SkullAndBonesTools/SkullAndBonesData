@@ -16415,6 +16415,30 @@
             "description": {
                 "general": "Hides equipped armor on your ship."
             }
+        },
+        "covetous": {
+            "name": "Covetous",
+            "description": {
+                "general": "\"I simply know what I want.\""
+            }
+        },
+        "consumingDesire": {
+            "name": "Consuming Desire",
+            "description": {
+                "general": "\"Adventure, blood and the promise of riches spur me on.\""
+            }
+        },
+        "allWeCovet": {
+            "name": "All We Covet",
+            "description": {
+                "general": "One can never have enough"
+            }
+        },
+        "hardAndFast": {
+            "name": "Hard and Fast",
+            "description": {
+                "general": "Ready yourself for anything"
+            }
         }
     }
 }

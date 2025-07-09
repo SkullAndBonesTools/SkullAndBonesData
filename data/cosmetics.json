@@ -23435,5 +23435,41 @@
         "type": "armorSkin",
         "dateAdded": "2025-07-08",
         "lastUpdated": "2025-07-08"
+    },
+    "covetous": {
+        "id": "covetous",
+        "type": "nameplate",
+        "set": "fortuneFounders",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-XX",
+        "lastUpdated": "2025-07-XX"
+    },
+    "consumingDesire": {
+        "id": "consumingDesire",
+        "type": "wheel",
+        "set": "fortuneFounders",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-XX",
+        "lastUpdated": "2025-07-XX"
+    },
+    "allWeCovet": {
+        "id": "allWeCovet",
+        "type": "figureHead",
+        "set": "fortuneFounders",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-XX",
+        "lastUpdated": "2025-07-XX"
+    },
+    "hardAndFast": {
+        "id": "hardAndFast",
+        "type": "hull",
+        "set": "fortuneFounders",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-XX",
+        "lastUpdated": "2025-07-XX"
     }
 }
