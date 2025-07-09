@@ -11535,5 +11535,26 @@
         "perks": ["skyrend","tearing3","electric2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "ashbreaker": {
+        "id": "ashbreaker",
+        "type": "bombard",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "event": "theMoonshiners",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 3310,
+        "rateOfFire": 600,
+        "reloadSpeed": 7500,
+        "optimalRange": 550,
+        "projectileSpeed": 135,
+        "blastRadius": 30,
+        "obtainable": "",
+        "perks": ["marauder","burning2","explosive1"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

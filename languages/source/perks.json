@@ -2672,6 +2672,15 @@
                     "Lightning strike damage increases to 10000 if target has Torn Sails"
                 ]
             }
+        },
+        "marauder": {
+            "name": "Marauder",
+            "description": {
+                "general": [
+                    "Every 1% of Burning Damage also increases the build-up rate of the Vulnerable status effect by 1%",
+                    "Additionally increases the build-up rate of Vulnerable by 40%"
+                ]
+            }
         }
     }
 }

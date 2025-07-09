@@ -2360,6 +2360,12 @@
             "description": {
                 "general": "Summons lightning strikes while ripping sails to shreds, its muzzle roars with the might of seven thunders."
             }
+        },
+        "ashbreaker": {
+            "name": "Ashbreaker",
+            "description": {
+                "general": "Blessed by the priests of Fara, this bombard causes Burning damage to increase the build-up rate of the Vulnerable status effect. Wielded by agressive captains to unleash a deadly combination of flame and Crew Attacks."
+            }
         }
     }
 }
