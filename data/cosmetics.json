@@ -23862,5 +23862,29 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "puddles": {
+        "id": "puddles",
+        "type": "pet",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "drownedSeadogs": {
+        "id": "drownedSeadogs",
+        "type": "crewSkin",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "littlePeach": {
+        "id": "littlePeach",
+        "type": "pet",
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPassFinalReward",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

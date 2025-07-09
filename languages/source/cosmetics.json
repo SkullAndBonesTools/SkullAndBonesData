@@ -16667,6 +16667,24 @@
             "description": {
                 "general": "She needs to see whom she blesses... or curses"
             }
+        },
+        "puddles": {
+            "name": "Puddles",
+            "description": {
+                "general": "Don't be fooled by his girth; this buccaneer guards his splash zone fiercely"
+            }
+        },
+        "drownedSeadogs": {
+            "name": "Drowned Seadogs",
+            "description": {
+                "general": "These wild beings terrorize sea and shore"
+            }
+        },
+        "littlePeach": {
+            "name": "Little Peach",
+            "description": {
+                "general": "Cute, round, and has a hell of a bite"
+            }
         }
     }
 }
