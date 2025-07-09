@@ -859,5 +859,17 @@
     "masterworkKit": {
         "rarity": "legendary",
         "category": "exotic"
+    },
+    "deepIron": {
+        "rarity": "epic",
+        "category": "specialized"
+    },
+    "deepIronPlates": {
+        "rarity": "epic",
+        "category": "specialized",
+        "raw": {
+            "deepIron": 5,
+            "masterworkKit": 1
+        }
     }
 }

@@ -599,6 +599,14 @@
         "primevalFang": {
             "name": "Primeval Fang",
             "description": "A monstrous fang from a beast from the depths. Whoever possesses one must have braved its jaws."
+        },
+        "deepIron": {
+            "name": "Deep Iron",
+            "description": ""
+        },
+        "deepIronPlates": {
+            "name": "Deep Iron Plates",
+            "description": ""
         }
     }
 }
