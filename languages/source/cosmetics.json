@@ -16529,6 +16529,48 @@
             "description": {
                 "general": "Errant crew members will be cast to the sharks"
             }
+        },
+        "voidSprung": {
+            "name": "Void Sprung",
+            "description": {
+                "general": "Unleashed by the underworld"
+            }
+        },
+        "inDeath": {
+            "name": "In Death",
+            "description": {
+                "general": "\"I am at my most powerful\""
+            }
+        },
+        "burdenedBones": {
+            "name": "Burdened Bones",
+            "description": {
+                "general": "You expect nothing more than your fate"
+            }
+        },
+        "revenant": {
+            "name": "Revenant",
+            "description": {
+                "general": "You are nothing if not defiant"
+            }
+        },
+        "blackBile": {
+            "name": "Black Bile",
+            "description": {
+                "general": "A broken spirit drifts upon the sea"
+            }
+        },
+        "spurnTheIrons": {
+            "name": "Spurn the Irons",
+            "description": {
+                "general": "You will not bend a knee to tyrants"
+            }
+        },
+        "bemoanNoMore": {
+            "name": "Bemoan No More",
+            "description": {
+                "general": "A captain once thought lost rises again"
+            }
         }
     }
 }

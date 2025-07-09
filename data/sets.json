@@ -1186,5 +1186,9 @@
     "hellHaul": {
         "id": "hellHaul",
         "type": "ship"
+    },
+    "deathBecomesUs": {
+        "id": "deathBecomesUs",
+        "type": "ship"
     }
 }

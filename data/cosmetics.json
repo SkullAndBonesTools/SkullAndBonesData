@@ -23627,5 +23627,72 @@
         "obtainable": "",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "voidSprung": {
+        "id": "voidSprung",
+        "type": "sailsEmblem",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "inDeath": {
+        "id": "inDeath",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "burdenedBones": {
+        "id": "burdenedBones",
+        "type": "hull",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "revenant": {
+        "id": "revenant",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "blackBile": {
+        "id": "blackBile",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "spurnTheIrons": {
+        "id": "spurnTheIrons",
+        "type": "sailsPattern",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bemoanNoMore": {
+        "id": "bemoanNoMore",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "deathBecomesUs",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
