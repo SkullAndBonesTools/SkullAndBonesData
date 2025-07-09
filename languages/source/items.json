@@ -2372,6 +2372,12 @@
             "description": {
                 "general": "Dark spirits are called upon each torpedo, dealing Burning damage while mending your own ship. The further the accursed torpedoes travel, the more Hull Health is restored."
             }
+        },
+        "stormVigil": {
+            "name": "Storm Vigil",
+            "description": {
+                "general": "Delivers an endless rain of rockets, configured to deal Flooding and Severe Damage. A terrible weapon forged by an ancient Sea People design."
+            }
         }
     }
 }

@@ -11577,5 +11577,24 @@
         "perks": ["spiritMending","arming","burning2","flooding2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "stormVigil": {
+        "id": "stormVigil",
+        "type": "rocket",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "value": 1,
+        "weight": 1000,
+        "gearScore": 91,
+        "projectilesPerShot": 60,
+        "damagePerShot": 430,
+        "rateOfFire": 120,
+        "reloadSpeed": 20000,
+        "optimalRange": 300,
+        "timeToTarget": 1.31,
+        "perks": ["torrent", "flooding2"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

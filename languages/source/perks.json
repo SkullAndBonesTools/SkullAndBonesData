@@ -2687,6 +2687,15 @@
             "description": {
                 "general": "20% of damage dealt restores Hull Health, increasing by 5% for every 50m the target is at distance, up to a maximum of 50%"
             }
+        },
+        "torrent": {
+            "name": "Torrent",
+            "description": {
+                "general": [
+                    "Rains 60 rockets over an extended period of time",
+                    "50% of Flooding Damage is dealt as Severe Damage"
+                ]
+            }
         }
     }
 }
