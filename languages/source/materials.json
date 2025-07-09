@@ -24,6 +24,10 @@
             "name": "Kupfer Bars",
             "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
         },
+        "gildmarks": {
+            "name": "Gildmarks",
+            "description": ""
+        },
         "azuriteGem": {
             "name": "Azurite Gem",
             "description": ""

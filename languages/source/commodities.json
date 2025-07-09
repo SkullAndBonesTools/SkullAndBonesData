@@ -240,6 +240,10 @@
             "name": "Kupfer Bars",
             "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
         },
+        "gildmarks": {
+            "name": "Gildmarks",
+            "description": ""
+        },
         "helmLeaseOpen": {
             "name": "Helm Lease (Open)",
             "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."

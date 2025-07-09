@@ -31,6 +31,10 @@
         "rarity": "epic",
         "category": "helm"
     },
+    "gildmarks": {
+        "rarity": "epic",
+        "category": "helm"
+    },
     "units": {
         "rarity": "common",
         "category": "currency"
