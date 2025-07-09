@@ -11393,5 +11393,14 @@
         "perk": ["poseidonsBrew"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "largeSilverChest": {
+        "id": "largeSilverChest",
+        "rarity": "common",
+        "type": "chest",
+        "value": 1,
+        "weight": 150,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
