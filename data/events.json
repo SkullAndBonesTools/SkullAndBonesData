@@ -34,5 +34,13 @@
     "theHonorless": {
         "id": "theHonorless",
         "seasons": ["ascentIntoChaos"]
+    },
+    "darktideLullaby": {
+        "id": "darktideLullaby",
+        "seasons": ["oathsOfWar"]
+    },
+    "theMoonshiners": {
+        "id": "theMoonshiners",
+        "seasons": ["oathsOfWar"]
     }
 }
