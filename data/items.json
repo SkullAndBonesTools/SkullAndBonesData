@@ -11516,5 +11516,24 @@
         "perks": ["frigateUpgrade7"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "thunderDragonCannon": {
+        "id": "thunderDragonCannon",
+        "type": "demicannon",
+        "rarity": "epic",
+        "obtainable": ["smugglerPass","smugglerPassPinnacleStore"],
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 4,
+        "damagePerShot": 334,
+        "rateOfFire": 0,
+        "reloadSpeed": 3500,
+        "optimalRange": 400,
+        "projectileSpeed": 400,
+        "perks": ["skyrend","tearing3","electric2"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

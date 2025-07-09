@@ -2662,6 +2662,16 @@
                     "Immunity against status effects for 20 seconds"
                 ]
             }
+        },
+        "skyrender": {
+            "name": "Skyrender",
+            "description": {
+                "general": [
+                    "Each volley of cannon fire on enemy sails has a chance of summoning a lightning strike that deals 5000 Electric Damage",
+                    "Every 5 hits adds a 15% chance, up to a maximum of 45%",
+                    "Lightning strike damage increases to 10000 if target has Torn Sails"
+                ]
+            }
         }
     }
 }

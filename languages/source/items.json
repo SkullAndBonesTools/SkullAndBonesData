@@ -2354,6 +2354,12 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "thunderDragonCannon": {
+            "name": "Thunder Dragon Cannon",
+            "description": {
+                "general": "Summons lightning strikes while ripping sails to shreds, its muzzle roars with the might of seven thunders."
+            }
         }
     }
 }
