@@ -284,6 +284,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "ragingTides",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
         "value": 1,
         "weight": 500,
@@ -294,10 +295,17 @@
         "reloadSpeed": 5500,
         "optimalRange": 600,
         "projectileSpeed": 210,
-        "required": {},
+        "required": {
+            "magnetiteIngot": 14,
+            "planetaryGearset": 10,
+            "woodPitch": 10,
+            "precisionDrillingBit": 8,
+            "gannetDenseNiter": 2,
+            "silver": 3300
+        },
         "perks": ["riptide", "flooding1"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "demicannon1": {
         "id": "demicannon1",
@@ -5569,6 +5577,7 @@
     "infernalMaw": {
         "id": "infernalMaw",
         "rarity": "epic",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
         "season": "chorusOfHavoc",
         "requiredSize": "medium",
@@ -5582,10 +5591,17 @@
         "reloadSpeed": 20000,
         "optimalRange": 400,
         "timeToTarget": 200,
-        "required": {},
+        "required": {
+            "greenheartPlank": 16,
+            "plateGlass": 4,
+            "woodPitch": 4,
+            "wyrmsBreath": 1,
+            "gannetsSaltpeter": 1,
+            "silver": 4290
+        },
         "perks": ["incinerate","burning3"],
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "littleGrace1": {
         "id": "littleGrace1",
@@ -5860,16 +5876,25 @@
     "buoyLocker1": {
         "id": "buoyLocker1",
         "rarity": "epic",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
         "season": "chorusOfHavoc",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
         "weight": 250,
-        "required": {},
+        "required": {
+            "plateGlass": 12,
+            "torsionSpring": 6,
+            "naphtha": 6,
+            "precisionDrillingBit": 6,
+            "orcaIntricateApparatus": 1,
+            "eelSturdyRopes": 1,
+            "silver": 5760
+        },
         "perks": ["buoyLocker1"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "brouwersPowderhouse1": {
         "id": "brouwersPowderhouse1",
@@ -5987,6 +6012,7 @@
         "rarity": "epic",
         "type": "armor",
         "season": "chorusOfHavoc",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
         "value": 1,
         "weight": 500,
@@ -6000,10 +6026,16 @@
             "piercing": 0
         },
         "required": {
+            "woodPitch": 6,
+            "plateGlass": 6,
+            "rubber": 2,
+            "precisionDrillingBit": 2,
+            "orcasMechanism": 1,
+            "silver": 3800
         },
         "perks": ["unsinkable","ironPlastron"],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2025-06-17"
+        "lastUpdated": "2025-07-15"
     },
     "cursedBanner": {
         "id": "cursedBanner",
