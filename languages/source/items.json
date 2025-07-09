@@ -2366,6 +2366,12 @@
             "description": {
                 "general": "Blessed by the priests of Fara, this bombard causes Burning damage to increase the build-up rate of the Vulnerable status effect. Wielded by agressive captains to unleash a deadly combination of flame and Crew Attacks."
             }
+        },
+        "hellgateSerpent": {
+            "name": "Hellgate Serpent",
+            "description": {
+                "general": "Dark spirits are called upon each torpedo, dealing Burning damage while mending your own ship. The further the accursed torpedoes travel, the more Hull Health is restored."
+            }
         }
     }
 }

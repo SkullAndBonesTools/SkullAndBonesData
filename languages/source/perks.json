@@ -2681,6 +2681,12 @@
                     "Additionally increases the build-up rate of Vulnerable by 40%"
                 ]
             }
+        },
+        "spiritMending": {
+            "name": "Spirit Mending",
+            "description": {
+                "general": "20% of damage dealt restores Hull Health, increasing by 5% for every 50m the target is at distance, up to a maximum of 50%"
+            }
         }
     }
 }
