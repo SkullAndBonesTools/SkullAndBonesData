@@ -16781,6 +16781,54 @@
             "description": {
                 "general": "\"I like my odds...\""
             }
+        },
+        "conchCritter": {
+            "name": "Conch Critter",
+            "description": {
+                "general": "A questionable treasure"
+            }
+        },
+        "tidalLocked": {
+            "name": "Tidal Locked",
+            "description": {
+                "general": "\"They push and pull based on the tides.\""
+            }
+        },
+        "gripOfTheAbyss": {
+            "name": "Grip of the Abyss",
+            "description": {
+                "general": "\"Once, I suffered the curses of those ashore.\""
+            }
+        },
+        "harshMistress": {
+            "name": "Harsh Mistress",
+            "description": {
+                "general": "\"She whispers to me, even from the depths.\""
+            }
+        },
+        "wasteNotWantNot": {
+            "name": "Waste Not, Want Not",
+            "description": {
+                "general": "\"My mistress sends me her companions.\""
+            }
+        },
+        "foamingSkirts": {
+            "name": "Foaming Skirts",
+            "description": {
+                "general": "\"Those who blend into the tides are blessed.\""
+            }
+        },
+        "tidebearers": {
+            "name": "Tidebearers",
+            "description": {
+                "general": "\"Why walk on water when we can tread the abyss?\""
+            }
+        },
+        "coldEmbrace": {
+            "name": "Cold Embrace",
+            "description": {
+                "general": "\"Her embrace is all the warmth I need.\""
+            }
         }
     }
 }

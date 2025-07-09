@@ -24030,5 +24030,77 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "conchCritter": {
+        "id": "conchCritter",
+        "type": "waist",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "tidalLocked": {
+        "id": "tidalLocked",
+        "type": "forearm",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "gripOfTheAbyss": {
+        "id": "gripOfTheAbyss",
+        "type": "hand",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "harshMistress": {
+        "id": "harshMistress",
+        "type": "headwear",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "wasteNotWantNot": {
+        "id": "wasteNotWantNot",
+        "type": "neck",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "foamingSkirts": {
+        "id": "foamingSkirts",
+        "type": "bottom",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "tidebearers": {
+        "id": "tidebearers",
+        "type": "footwear",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "coldEmbrace": {
+        "id": "coldEmbrace",
+        "type": "torso",
+        "set": "bewitched",
+        "season": "oathsOfWar",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

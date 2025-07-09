@@ -1206,5 +1206,9 @@
     "kingOfGamblers": {
         "id": "kingOfGamblers",
         "type": "player"
+    },
+    "bewitched": {
+        "id": "bewitched",
+        "type": "player"
     }
 }
