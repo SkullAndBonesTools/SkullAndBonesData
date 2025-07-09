@@ -2609,6 +2609,14 @@
             "description": {
                 "general": "Increases received damage to Weakpoints by 30%"
             }
+        },
+        "poseidonsBrew": {
+            "description": {
+                "general": [
+                    "Removes all negative status effects from the ship",
+                    "Immunity against status effects for 20 seconds"
+                ]
+            }
         }
     }
 }

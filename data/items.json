@@ -11379,5 +11379,19 @@
         "obtainable": "deathTidesProgression",
         "dateAdded": "2025-05-27",
         "lastUpdated": "2025-05-27"
+    },
+    "poseidonsBrew": {
+        "id": "poseidonsBrew",
+        "rarity": "epic",
+        "type": "consumable",
+        "season": "oathsOfWar",
+        "event": "theMoonshiners",
+        "value": 1,
+        "weight": 10,
+        "buffDuration": 20,
+        "obtainable": "",
+        "perk": ["poseidonsBrew"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

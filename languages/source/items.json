@@ -2329,6 +2329,12 @@
             "description": {
                 "general": "A chest gifted by your unknown sponsor."
             }
+        },
+        "poseidonsBrew": {
+            "name": "Poseidon's Brew",
+            "description": {
+                "general": "A potent brew that is surprising refreshing and fights off the effects of heat exhaustion on the seas."
+            }
         }
     }
 }
