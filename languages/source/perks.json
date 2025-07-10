@@ -2705,6 +2705,36 @@
                     "Makes Weeping Specters vulnerable to damage"
                 ]
             }
+        },
+        "impregnable": {
+            "name": "Impregnable",
+            "description": {
+                "general": [
+                    "The punctured status effect is 50% less effective in reducing Armor",
+                    "Reduces duration of the Punctures status effect by 15%"
+                ]
+            }
+        },
+        "entrenched": {
+            "name": "Entrenched",
+            "description": {
+                "general": "Receives 5% less damage from structures, and an additional 1% for every 3000 Brace Strength"
+            }
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": {
+                "general": "When at half-sails or anchored, receive 20% less damage from hits"
+            }
+        },
+        "volatileVestment": {
+            "name": "Volatile Vestment",
+            "description": {
+                "general": [
+                    "When hit while Bracing, an explosion is triggered, which deals 3500 Explosive Damage in a 100m Blast Radius",
+                    "This effect has a 10s cooldown"
+                ]
+            }
         }
     }
 }

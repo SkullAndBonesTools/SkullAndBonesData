@@ -2384,6 +2384,24 @@
             "description": {
                 "general": "Deploys the Spirit Beacon buoy, which deals damage, slows, and weakens armor of enemy ships. It also renders Weeping Specters vulnerable to damage. Used by Rempah ritualists to trap wandering spirits before they drag ships to the deep."
             }
+        },
+        "harrowguard": {
+            "name": "Harrowguard",
+            "description": {
+                "general": "Reduces the effects of Punctured and offers exceptional resistance against Piercing damage. An experimental design first sold to both the DMC and Compagnie -- each searing they received the exclusive prototype."
+            }
+        },
+        "wyrmhide": {
+            "name": "Wyrmhide",
+            "description": {
+                "general": "Exceptional defense against structures. Provides a greater protection when stationary or at half-sails. The pride of Compagnie war barques that shattered fort after fort off the Coast of Africa."
+            }
+        },
+        "novaArma": {
+            "name": "Nova Arma",
+            "description": {
+                "general": "A reactive armor that triggers an explosion when hit while bracing. An ingenious design from the Old World that protects a ship while retaliating against its foes."
+            }
         }
     }
 }

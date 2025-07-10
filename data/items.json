@@ -11573,7 +11573,6 @@
         "reloadSpeed": 4500,
         "optimalRange": 675,
         "projectileSpeed": 75,
-        "required": {},
         "perks": ["spiritMending","arming","burning2","flooding2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -11593,6 +11592,9 @@
         "reloadSpeed": 20000,
         "optimalRange": 300,
         "timeToTarget": 1.31,
+        "required": {
+            "gildmarks": 1000
+        },
         "perks": ["torrent", "flooding2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -11614,8 +11616,79 @@
         "reloadSpeed": 20000,
         "optimalRange": 400,
         "timeToTarget": 2.7,
-        "required": {},
         "perks": ["illuminate"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "harrowguard": {
+        "id": "harrowguard",
+        "rarity": "rare",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 270,
+        "armor": 1250,
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.12,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.40,
+            "electric": 0.15
+        },
+        "required": {
+            "gildmarks": 700
+        },
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "perks": ["impregnable"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "wyrmhide": {
+        "id": "wyrmhide",
+        "rarity": "epic",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1200,
+        "damageMitigation": {
+            "explosive": 0.20,
+            "flooding": 0.05,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0.10,
+            "electric": 0.35
+        },
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass",
+        "perks": ["entrenched","bastion"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "novaArma": {
+        "id": "novaArma",
+        "rarity": "epic",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1150,
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0.20,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0.20,
+            "electric": 0.15
+        },
+        "required": {
+            "gildmarks": 1000
+        },
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "perks": ["volatileVestment"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     }
