@@ -11705,5 +11705,18 @@
         "perks": ["trunnionFurnace"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "acceleratedGunrailSmithy": {
+        "id": "acceleratedGunrailSmithy",
+        "rarity": "epic",
+        "type": "offensiveFurniture",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "season": "oathsOfWar",
+        "obtainable": "smugglerPass",
+        "perks": ["acceleratedGunrailSmithy"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

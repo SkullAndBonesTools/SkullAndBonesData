@@ -2408,6 +2408,12 @@
             "description": {
                 "general": "Refines the trunnions of Culverins, boosting their Projectile Speed and giving each shot a chance to chain damage to nearby targets."
             }
+        },
+        "acceleratedGunrailSmithy": {
+            "name": "Accelerated Gunrail Smithy",
+            "description": {
+                "general": "Custom rails and smithing rigs speed up reloads and boost Auxiliary weapon damage. Just don't stop to admire the sparks."
+            }
         }
     }
 }

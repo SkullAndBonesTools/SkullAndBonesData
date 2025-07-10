@@ -2743,6 +2743,15 @@
                     "Increases Projectile Speed of Culverin by 10%"
                 ]
             }
+        },
+        "acceleratedGunrailSmithy": {
+            "description": {
+                "general": [
+                    "Reduces Reload Time by 5% and increases Secondary Damage of Auxiliary Weapons by 7% for each weapon quadrant being reloaded",
+                    "While not trimming sails, increases weapon damage for Auxiliary Weapons by 9%",
+                    "Increases Turning Speed by 8%"
+                ]
+            }
         }
     }
 }
