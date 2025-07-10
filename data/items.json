@@ -8867,37 +8867,61 @@
         "type": "shipUpgrade",
         "tier": 1,
         "value": 1,
-        "required": {},
+        "required": {
+            "juniperPlank": 10,
+            "shellac": 7,
+            "upgradeParts": 2,
+            "silver": 18000
+        },
         "perks": ["battleJunkUpgrade1"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade2": {
         "id": "battleJunkUpgrade2",
         "type": "shipUpgrade",
         "tier": 2,
         "value": 1,
-        "required": {},
+        "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "crudeSaltpeter": 10,
+            "upgradeParts": 3,
+            "silver": 25000
+        },
         "perks": ["battleJunkUpgrade2"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade3": {
         "id": "battleJunkUpgrade3",
         "type": "shipUpgrade",
         "tier": 3,
         "value": 1,
-        "required": {},
+        "required": {
+            "shellac": 7,
+            "crudeSaltpeter": 7,
+            "rubber": 5,
+            "upgradeParts": 4,
+            "piecesOfEight": 1250
+        },
         "perks": ["battleJunkUpgrade3", "deepBlue"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade4": {
         "id": "battleJunkUpgrade4",
         "type": "shipUpgrade",
         "tier": 4,
         "value": 1,
-        "required": {},
+        "required": {
+            "greenheartPlank": 15,
+            "crudeSaltpeter": 7,
+            "azureDragonHead": 3,
+            "yellowDragonBanner": 2,
+            "upgradeParts": 5,
+            "piecesOfEight": 4000
+        },
         "damageMitigation": {
             "explosive": 0.03,
             "flooding": 0.03,
@@ -8908,14 +8932,21 @@
         },
         "perks": ["battleJunkUpgrade4"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade5": {
         "id": "battleJunkUpgrade5",
         "type": "shipUpgrade",
         "tier": 5,
         "value": 1,
-        "required": {},
+        "required": {
+            "lacquer": 5,
+            "phoenixBeak": 3,
+            "phoenixPinion": 3,
+            "jadePhoenixStatue": 1,
+            "upgradeParts": 5,
+            "piecesOfEight": 6500
+        },
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
@@ -8926,14 +8957,22 @@
         },
         "perks": ["battleJunkUpgrade5"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade6": {
         "id": "battleJunkUpgrade6",
         "type": "shipUpgrade",
         "tier": 6,
         "value": 1,
-        "required": {},
+        "required": {
+            "purifiedSaltpeter": 5,
+            "phoenixBeak": 4,
+            "jadePhoenixStatue": 2,
+            "yellowDragonBanner": 2,
+            "eelSturdyRopes": 1,
+            "upgradeParts": 6,
+            "piecesOfEight": 10000
+        },
         "damageMitigation": {
             "explosive": 0.10,
             "flooding": 0.10,
@@ -8944,7 +8983,7 @@
         },
         "perks": ["battleJunkUpgrade6", "endure"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-07-10"
     },
     "battleJunkUpgrade7": {
         "id": "battleJunkUpgrade7",
