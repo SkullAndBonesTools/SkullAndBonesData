@@ -7424,6 +7424,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "zincIngot": 10,
+            "castingSand": 5,
             "upgradeParts": 2,
             "silver": 18000
         },
@@ -7437,6 +7439,9 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "zincIngot": 10,
+            "fineAbaka": 10,
+            "lime": 7,
             "upgradeParts": 3,
             "silver": 25000
         },
@@ -7450,6 +7455,9 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "castingSand": 7,
+            "lime": 7,
+            "naphtha": 5,
             "upgradeParts": 4,
             "piecesOfEight": 1250
         },
@@ -7513,6 +7521,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "magnetiteIngot": 15,
+            "dryCastingSand": 5,
+            "plagueDust": 2,
+            "blightedFuel": 1,
+            "gannetsSaltpeter": 5,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
@@ -7534,6 +7547,10 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "quicklime": 12,
+            "plagueDust": 3,
+            "blightedFuel": 1,
+            "zamaharibuScales": 2,
             "masterworkKit": 1,
             "upgradeParts": 12,
             "piecesOfEight": 15000,
