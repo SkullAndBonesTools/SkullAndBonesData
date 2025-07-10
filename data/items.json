@@ -7574,6 +7574,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "fineAbaka": 10,
+            "woodTar": 5,
             "upgradeParts": 2,
             "silver": 18000
         },
@@ -7587,6 +7589,9 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "fineAbaka": 10,
+            "zincIngot": 10,
+            "woodTar": 7,
             "upgradeParts": 3,
             "silver": 25000
         },
@@ -7600,6 +7605,9 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "woodTar": 10,
+            "cogwheel": 10,
+            "torsionSpring": 5,
             "upgradeParts": 4,
             "piecesOfEight": 1250
         },
@@ -7613,6 +7621,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "roselleCloth": 15,
+            "woodTar": 10,
+            "cogwheel": 10,
+            "torsionSpring": 7,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -7634,6 +7646,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "roselleCloth": 20,
+            "magnetiteIngot": 20,
+            "woodTar": 4,
+            "whiteAriaShipPart": 3,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -7655,6 +7671,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "roselleCloth": 15,
+            "planetaryGearset": 2,
+            "whiteAriaShipPart": 1,
+            "blackAriaShipPart": 1,
+            "hubacHeirloom": 1,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
