@@ -2402,6 +2402,12 @@
             "description": {
                 "general": "A reactive armor that triggers an explosion when hit while bracing. An ingenious design from the Old World that protects a ship while retaliating against its foes."
             }
+        },
+        "trunnionFurnace": {
+            "name": "Trunnion Furnace",
+            "description": {
+                "general": "Refines the trunnions of Culverins, boosting their Projectile Speed and giving each shot a chance to chain damage to nearby targets."
+            }
         }
     }
 }

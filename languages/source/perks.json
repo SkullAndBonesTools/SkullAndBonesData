@@ -2735,6 +2735,14 @@
                     "This effect has a 10s cooldown"
                 ]
             }
+        },
+        "trunnionFurnace": {
+            "description": {
+                "general": [
+                    "Hits from a Culverin have 25% chance to spread to a nearby target within 100m, dealing 25% of the original damage. Does not work for Repair Weapons",
+                    "Increases Projectile Speed of Culverin by 10%"
+                ]
+            }
         }
     }
 }

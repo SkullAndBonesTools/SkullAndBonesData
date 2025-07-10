@@ -11691,5 +11691,19 @@
         "perks": ["volatileVestment"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "trunnionFurnace": {
+        "id": "trunnionFurnace",
+        "rarity": "rare",
+        "type": "offensiveFurniture",
+        "gearScore": 20,
+        "value": 1,
+        "weight": 80,
+        "season": "oathsOfWar",
+        "event": "theMoonshiners",
+        "obtainable": "",
+        "perks": ["trunnionFurnace"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
