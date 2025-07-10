@@ -6921,6 +6921,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "greenheartPlank": 15,
+            "magnetiteIngot": 15,
+            "roselleCloth": 15,
+            "lacquer": 5,
+            "rubber": 10,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
@@ -6942,6 +6947,10 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "purifiedSaltpeter": 12,
+            "rubber": 7,
+            "gannetsSaltpeter": 5,
             "masterworkKit": 1,
             "upgradeParts": 12,
             "piecesOfEight": 15000,
