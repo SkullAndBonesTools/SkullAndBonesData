@@ -9146,12 +9146,14 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "zincIngot": 15,
+            "screwMechanism": 5,
             "upgradeParts": 2,
             "silver": 18000
         },
         "perks": ["garudaUpgrade1"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade2": {
         "id": "garudaUpgrade2",
@@ -9159,12 +9161,15 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "zincIngot": 10,
+            "screwMechanism": 5,
+            "sheetGlass": 5,
             "upgradeParts": 3,
             "silver": 25000
         },
         "perks": ["garudaUpgrade2"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade3": {
         "id": "garudaUpgrade3",
@@ -9172,12 +9177,15 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "screwMechanism": 7,
+            "sheetGlass": 7,
+            "precisionDrillingBit": 5,
             "upgradeParts": 4,
             "piecesOfEight": 1250
         },
         "perks": ["garudaUpgrade3", "deepBlue"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade4": {
         "id": "garudaUpgrade4",
@@ -9185,6 +9193,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "magnetiteIngot": 20,
+            "screwMechanism": 7,
+            "sheetGlass": 7,
+            "precisionDrillingBit": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -9198,7 +9210,7 @@
         },
         "perks": ["garudaUpgrade4"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade5": {
         "id": "garudaUpgrade5",
@@ -9206,6 +9218,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "plateGlass": 7,
+            "xanthousStone": 3,
+            "xanthousGemstone": 1,
+            "orcaIntricateApparatus": 1,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -9219,7 +9235,7 @@
         },
         "perks": ["garudaUpgrade5"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade6": {
         "id": "garudaUpgrade6",
@@ -9227,6 +9243,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "magnetiteIngot": 25,
+            "wormDrive": 7,
+            "xanthousStone": 4,
+            "xanthousGemstone": 2,
+            "orcaIntricateApparatus": 1,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
@@ -9240,7 +9261,7 @@
         },
         "perks": ["garudaUpgrade6", "revolver"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "garudaUpgrade7": {
         "id": "garudaUpgrade7",
