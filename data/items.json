@@ -7046,6 +7046,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "sheetGlass": 15,
+            "screwMechanism": 15,
+            "precisionDrillingBit": 10,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -7067,6 +7071,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "roselleCloth": 15,
+            "plateGlass": 5,
+            "precisionDrillingBit": 10,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
