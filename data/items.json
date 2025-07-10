@@ -7171,6 +7171,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "fineAbaka": 15,
+            "juniperPlank": 15,
+            "cogwheel": 7,
+            "torsionSpring": 5,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -7192,6 +7196,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "roselleCloth": 20,
+            "woodTar": 15,
+            "cogwheel": 15,
+            "torsionSpring": 7,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -7213,6 +7221,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "roselleCloth": 10,
+            "greenheartPlank": 10,
+            "magnetiteIngot": 15,
+            "woodPitch": 5,
+            "torsionSpring": 10,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
