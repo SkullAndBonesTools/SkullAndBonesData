@@ -7274,6 +7274,8 @@
         "tier": 1,
         "value": 1,
         "required": {
+            "greenheartPlank": 10,
+            "magnetiteIngot": 10,
             "upgradeParts": 2,
             "silver": 18000
         },
@@ -7287,6 +7289,9 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "greenheartPlank": 15,
+            "magnetiteIngot": 15,
+            "castingSand": 5,
             "upgradeParts": 3,
             "silver": 25000
         },
@@ -7300,6 +7305,9 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "magnetiteIngot": 25,
+            "lime": 10,
             "upgradeParts": 4,
             "piecesOfEight": 1250
         },
@@ -7313,6 +7321,10 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "greenheartPlank": 15,
+            "castingSand": 10,
+            "lime": 10,
+            "naphtha": 7,
             "upgradeParts": 5,
             "piecesOfEight": 4000
         },
@@ -7334,6 +7346,10 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "greenheartPlank": 20,
+            "magnetiteIngot": 20,
+            "castingSand": 5,
+            "naphtha": 7,
             "upgradeParts": 5,
             "piecesOfEight": 6500
         },
@@ -7355,6 +7371,11 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "greenheartPlank": 25,
+            "magnetiteIngot": 25,
+            "quicklime": 7,
+            "naphtha": 5,
+            "eelsTwine": 4,
             "upgradeParts": 6,
             "piecesOfEight": 10000
         },
