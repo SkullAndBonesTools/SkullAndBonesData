@@ -2752,6 +2752,15 @@
                     "Increases Turning Speed by 8%"
                 ]
             }
+        },
+        "ammoPrimingBench": {
+            "description": {
+                "general": [
+                    "Increases damage to structures by 20% for Siege Weapons and repair amount of Repair Weapons by 18%, when more than 160m away from the target",
+                    "Siege weapons deal 4% increases weapon damage. Repair Weapons repair 7% more Hull Health",
+                    "Increases Projectile Speed of Siege Weapons and Repair Weapons by 10%, except for Sea Fire and Auxiliary Weapons"
+                ]
+            }
         }
     }
 }

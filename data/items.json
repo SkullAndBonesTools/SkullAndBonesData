@@ -11718,5 +11718,21 @@
         "perks": ["acceleratedGunrailSmithy"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "ammoPrimingBench": {
+        "id": "ammoPrimingBench",
+        "rarity": "epic",
+        "type": "utilityFurniture",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "perks": ["ammoPrimingBench"],
+        "required": {
+            "gildmarks": 300
+        },
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

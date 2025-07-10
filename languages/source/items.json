@@ -2414,6 +2414,12 @@
             "description": {
                 "general": "Custom rails and smithing rigs speed up reloads and boost Auxiliary weapon damage. Just don't stop to admire the sparks."
             }
+        },
+        "ammoPrimingBench": {
+            "name": "Ammo-Priming Bench",
+            "description": {
+                "general": "A well-stocked station where ammo is packed and primed by hand, boosting the effectiveness of Siege and Repair ammunition."
+            }
         }
     }
 }
