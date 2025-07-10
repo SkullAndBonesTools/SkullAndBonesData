@@ -6939,7 +6939,7 @@
         },
         "perks": ["padewakangUpgrade6", "padewakangSiegeUpgrade"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "padewakangUpgrade7": {
         "id": "padewakangUpgrade7",
@@ -6966,7 +6966,7 @@
         },
         "perks": ["padewakangUpgrade7"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "snowUpgrade1": {
         "id": "snowUpgrade1",
@@ -7063,7 +7063,7 @@
         },
         "perks": ["snowUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "snowUpgrade6": {
         "id": "snowUpgrade6",
@@ -7089,7 +7089,7 @@
         },
         "perks": ["snowUpgrade6", "vindictive"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "snowUpgrade7": {
         "id": "snowUpgrade7",
@@ -7188,7 +7188,7 @@
         },
         "perks": ["brigantineUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigantineUpgrade5": {
         "id": "brigantineUpgrade5",
@@ -7213,7 +7213,7 @@
         },
         "perks": ["brigantineUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigantineUpgrade6": {
         "id": "brigantineUpgrade6",
@@ -7239,7 +7239,7 @@
         },
         "perks": ["brigantineUpgrade6", "headstrong"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigantineUpgrade7": {
         "id": "brigantineUpgrade7",
@@ -7281,7 +7281,7 @@
         },
         "perks": ["sambukUpgrade1"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade2": {
         "id": "sambukUpgrade2",
@@ -7297,7 +7297,7 @@
         },
         "perks": ["sambukUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade3": {
         "id": "sambukUpgrade3",
@@ -7313,7 +7313,7 @@
         },
         "perks": ["sambukUpgrade3", "deepBlue"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade4": {
         "id": "sambukUpgrade4",
@@ -7338,7 +7338,7 @@
         },
         "perks": ["sambukUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade5": {
         "id": "sambukUpgrade5",
@@ -7363,7 +7363,7 @@
         },
         "perks": ["sambukUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade6": {
         "id": "sambukUpgrade6",
@@ -7389,7 +7389,7 @@
         },
         "perks": ["sambukUpgrade6", "firebug"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "sambukUpgrade7": {
         "id": "sambukUpgrade7",
@@ -7431,7 +7431,7 @@
         },
         "perks": ["barqueUpgrade1"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "barqueUpgrade2": {
         "id": "barqueUpgrade2",
@@ -7447,7 +7447,7 @@
         },
         "perks": ["barqueUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "barqueUpgrade3": {
         "id": "barqueUpgrade3",
@@ -7463,7 +7463,7 @@
         },
         "perks": ["barqueUpgrade3", "deepBlue"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "barqueUpgrade4": {
         "id": "barqueUpgrade4",
@@ -7539,7 +7539,7 @@
         },
         "perks": ["barqueUpgrade6", "mend"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "barqueUpgrade7": {
         "id": "barqueUpgrade7",
@@ -7566,7 +7566,7 @@
         },
         "perks": ["barqueUpgrade7"],
         "dateAdded": "2024-04-25",
-        "lastUpdated": "2024-04-25"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade1": {
         "id": "brigUpgrade1",
@@ -7581,7 +7581,7 @@
         },
         "perks": ["brigUpgrade1"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade2": {
         "id": "brigUpgrade2",
@@ -7597,7 +7597,7 @@
         },
         "perks": ["brigUpgrade2"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade3": {
         "id": "brigUpgrade3",
@@ -7613,7 +7613,7 @@
         },
         "perks": ["brigUpgrade3", "deepBlue"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade4": {
         "id": "brigUpgrade4",
@@ -7638,7 +7638,7 @@
         },
         "perks": ["brigUpgrade4"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade5": {
         "id": "brigUpgrade5",
@@ -7663,7 +7663,7 @@
         },
         "perks": ["brigUpgrade5"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade6": {
         "id": "brigUpgrade6",
@@ -7689,7 +7689,7 @@
         },
         "perks": ["brigUpgrade6", "evolved"],
         "dateAdded": "2024-06-11",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-10"
     },
     "brigUpgrade7": {
         "id": "brigUpgrade7",
