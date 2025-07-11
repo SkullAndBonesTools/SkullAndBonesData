@@ -1,3 +1,12 @@
-export type CommodityCategory = "localFaction" | "megacorp" | "kingpin" | "theHelm" | "summoningBell" | "unique";
-export type MaterialCategory = "raw" | "refined" | "specialized" | "exotic" | "helm" | "scrap" | "currency";
-export type AchievementCategory = "mastery" | "enterprise" | "legends" | "cooperative" | "seasonal";
+export const CommodityCategories = [
+    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"
+] as const;
+export type CommodityCategory = (typeof CommodityCategories)[number];
+export const MaterialCategories = [
+    "raw", "refined", "specialized", "exotic", "helm", "scrap", "currency"
+] as const;
+export type MaterialCategory = (typeof MaterialCategories)[number];
+export const AchievementCategories = [
+    "mastery", "enterprise", "legends", "cooperative", "seasonal"
+] as const;
+export type AchievementCategory = (typeof AchievementCategories)[number];

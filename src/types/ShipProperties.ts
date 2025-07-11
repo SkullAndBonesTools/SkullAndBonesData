@@ -1,4 +1,7 @@
-export type ShipSize = "extraSmall" | "small" | "medium" | "large";
+export const ShipSizes = [
+    "extraSmall", "small", "medium", "large"
+] as const;
+export type ShipSize = (typeof ShipSizes)[number];
 // Slot amounts, gunports
 export type SlotWithGunports = [number, number];
 export type SlotWithGunportsAcrossDecks = [
