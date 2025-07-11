@@ -20,4 +20,9 @@ export { ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from "./types
 export { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from "./types/CosmeticProperties";
 
 // Constants
+export { CommodityCategories, MaterialCategories, AchievementCategories } from "./types/Category";
+export { Tiers, WeaponTypes, FurnitureTypes } from "./types/ItemProperties";
+export { Rarities } from "./types/Rarity";
+export { ShipSizes } from "./types/ShipProperties";
+export { UltimateTypes } from "./types/UltimateProperties";
 export { CosmeticEffects, PlayerAppearanceTypes, PlayerOutfitTypes, ShipCosmeticTypes } from "./types/CosmeticProperties";
