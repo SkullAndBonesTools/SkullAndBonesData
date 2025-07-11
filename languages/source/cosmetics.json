@@ -16829,6 +16829,24 @@
             "description": {
                 "general": "\"Her embrace is all the warmth I need.\""
             }
+        },
+        "toHellAndBack": {
+            "name": "To Hell and Back",
+            "description": {
+                "general": "Made for one destined to destroy"
+            }
+        },
+        "aCursedGift": {
+            "name": "A Cursed Gift",
+            "description": {
+                "general": "More than enough chaos and despair to go around"
+            }
+        },
+        "corruptionComes": {
+            "name": "Corruption Comes",
+            "description": {
+                "general": "\"You may escape my gaze, but not my aim.\""
+            }
         }
     }
 }

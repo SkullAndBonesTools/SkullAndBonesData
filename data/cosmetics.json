@@ -24102,5 +24102,29 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "toHellAndBack": {
+        "id": "toHellAndBack",
+        "type": "culverinWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "aCursedGift": {
+        "id": "aCursedGift",
+        "type": "demicannonWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "corruptionComes": {
+        "id": "corruptionComes",
+        "type": "longGunWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
