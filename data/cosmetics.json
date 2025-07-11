@@ -23706,7 +23706,7 @@
     },
     "fortunesGrin": {
         "id": "fortunesGrin",
-        "type": "sailsPattern",
+        "type": "figureHead",
         "effect": ["emissive","combatReactive"],
         "set": "aDeadlyBet",
         "season": "oathsOfWar",
