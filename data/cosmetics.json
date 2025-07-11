@@ -23873,7 +23873,7 @@
     },
     "drownedSeadogs": {
         "id": "drownedSeadogs",
-        "type": "crewSkin",
+        "type": "crewLook",
         "season": "oathsOfWar",
         "obtainable": "premiumPass",
         "dateAdded": "2025-07-15",
