@@ -279,5 +279,10 @@
         "id": "violentTendencies",
         "type": "convoy",
         "faction": "shadowLegion"
+    },
+    "aLongMarch": {
+        "id": "aLongMarch",
+        "type": "convoy",
+        "faction": "dutchMerchantCompany"
     }
 }
