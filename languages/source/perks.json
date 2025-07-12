@@ -301,7 +301,7 @@
         },
         "floodingDuration": {
             "description": {
-                "1": "Increases duration of the Flooded effect ony enemy ships by 10%"
+                "1": "Increases duration of the Flooded effect on enemy ships by 10%"
             }
         },
         "repairAmountFromRepairWeapons": {
