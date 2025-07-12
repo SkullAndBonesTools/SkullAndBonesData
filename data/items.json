@@ -11557,7 +11557,7 @@
         "weight": 10,
         "buffDuration": 20,
         "obtainable": "",
-        "perk": ["poseidonsBrew"],
+        "perks": ["poseidonsBrew"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
