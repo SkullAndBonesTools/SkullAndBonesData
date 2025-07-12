@@ -133,7 +133,7 @@
             "description": "Use %s Azure Cache"
         },
         "claimToFame": {
-            "name": "Claim to Fame",
+            "name": "Claim to Fame (Y2S1)",
             "description": "Gain %s Infamy in Year 2 Season 1"
         },
         "enterTheNian": {
@@ -145,7 +145,7 @@
             "description": "Use %s Reaper's Cache"
         },
         "claimToFameY2S2": {
-            "name": "Claim to Fame",
+            "name": "Claim to Fame (Y2S2)",
             "description": "Gain %s Infamy in Year 2 Season 2"
         },
         "darktideSurvivor": {
