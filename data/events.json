@@ -39,8 +39,8 @@
         "id": "darktideLullaby",
         "seasons": ["oathsOfWar"]
     },
-    "theMoonshiners": {
-        "id": "theMoonshiners",
+    "moonshineLarceny": {
+        "id": "moonshineLarceny",
         "seasons": ["oathsOfWar"]
     }
 }
