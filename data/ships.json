@@ -299,11 +299,11 @@
                 "lower": 2
             }],
             "leftSideWeapon": [1,{
-                "top": 3,
+                "top": 4,
                 "lower": 3
             }],
             "rightSideWeapon": [1,{
-                "top": 3,
+                "top": 4,
                 "lower": 3
             }],
             "aftWeapon": [1,{
@@ -354,11 +354,11 @@
                 "top": 2
             }],
             "leftSideWeapon": [1,{
-                "top": 3,
+                "top": 4,
                 "lower": 4
             }],
             "rightSideWeapon": [1,{
-                "top": 3,
+                "top": 4,
                 "lower": 4
             }],
             "aftWeapon": [1,{
