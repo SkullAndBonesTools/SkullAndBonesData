@@ -4260,7 +4260,7 @@
         "weight": 500,
         "gearScore": 21,
         "projectilesPerShot": 1,
-        "damagePerShot": 653,
+        "damagePerShot": 750,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4273,7 +4273,7 @@
         },
         "perks": ["arming", "flooding3"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "torpedo2": {
         "id": "torpedo2",
@@ -4286,7 +4286,7 @@
         "weight": 500,
         "gearScore": 49,
         "projectilesPerShot": 1,
-        "damagePerShot": 880,
+        "damagePerShot": 1012,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4300,7 +4300,7 @@
         },
         "perks": ["arming", "flooding3"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "torpedo3": {
         "id": "torpedo3",
@@ -4314,7 +4314,7 @@
         "weight": 500,
         "gearScore": 78,
         "projectilesPerShot": 1,
-        "damagePerShot": 1107,
+        "damagePerShot": 1273,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4329,7 +4329,7 @@
         },
         "perks": ["arming", "flooding3"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "shalei1": {
         "id": "shalei1",
@@ -4342,7 +4342,7 @@
         "weight": 500,
         "gearScore": 35,
         "projectilesPerShot": 1,
-        "damagePerShot": 710,
+        "damagePerShot": 816,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4356,7 +4356,7 @@
         },
         "perks": ["arming", "explosive2", "flooding2"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "shalei2": {
         "id": "shalei2",
@@ -4369,7 +4369,7 @@
         "weight": 500,
         "gearScore": 65,
         "projectilesPerShot": 1,
-        "damagePerShot": 937,
+        "damagePerShot": 1077,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4384,7 +4384,7 @@
         },
         "perks": ["arming", "explosive2", "flooding2"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "shalei3": {
         "id": "shalei3",
@@ -4397,7 +4397,7 @@
         "weight": 500,
         "gearScore": 83,
         "projectilesPerShot": 1,
-        "damagePerShot": 1164,
+        "damagePerShot": 1338,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4412,7 +4412,7 @@
         },
         "perks": ["arming", "explosive2", "flooding2"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "rahmasAmbition": {
         "id": "rahmasAmbition",
@@ -4425,7 +4425,7 @@
         "weight": 500,
         "gearScore": 42,
         "projectilesPerShot": 1,
-        "damagePerShot": 710,
+        "damagePerShot": 816,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4438,7 +4438,7 @@
         },
         "perks": ["cataclysmic", "arming", "flooding2"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "rahmasLegacy": {
         "id": "rahmasLegacy",
@@ -4451,7 +4451,7 @@
         "weight": 500,
         "gearScore": 91,
         "projectilesPerShot": 1,
-        "damagePerShot": 1164,
+        "damagePerShot": 1338,
         "rateOfFire": 60,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -4466,7 +4466,7 @@
         },
         "perks": ["cataclysmic", "arming", "flooding3"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "pickaxe1": {
         "id": "pickaxe1",
@@ -5371,7 +5371,7 @@
         "weight": 500,
         "gearScore": 91,
         "projectilesPerShot": 1,
-        "damagePerShot": 1396,
+        "damagePerShot": 1338,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 540,
@@ -5386,7 +5386,7 @@
         },
         "perks": ["homing", "quickArming", "flooding2"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "stormwovenSymphony": {
         "id": "stormwovenSymphony",
@@ -8566,7 +8566,7 @@
         "weight": 500,
         "gearScore": 83,
         "projectilesPerShot": 1,
-        "damagePerShot": 1090,
+        "damagePerShot": 1254,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -8581,7 +8581,7 @@
         },
         "perks": ["electric3", "arming", "flooding2"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "lestariStew": {
         "id": "lestariStew",
@@ -9790,7 +9790,7 @@
         "weight": 500,
         "gearScore": 91,
         "projectilesPerShot": 1,
-        "damagePerShot": 1090,
+        "damagePerShot": 1254,
         "rateOfFire": 0,
         "reloadSpeed": 4500,
         "optimalRange": 675,
@@ -9798,7 +9798,7 @@
         "required": {},
         "perks": ["sunder","arming","piercing2","flooding2"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "rumFruitcake": {
         "id": "rumFruitcake",

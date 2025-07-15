@@ -89,7 +89,7 @@
         "arming": {
             "name": "Arming",
             "description": {
-                "general": "Increases damage from torpedoes by 150% when target is beyond 100m"
+                "general": "Increases damage from torpedoes by 150% when target is beyond 85m"
             }
         },
         "cataclysmic": {
@@ -841,7 +841,7 @@
         "quickArming": {
             "name": "Quick-Arming",
             "description": {
-                "general": "Increases damage from torpedoes by 150% when target is beyond 75m"
+                "general": "Increases damage from torpedoes by 150% when target is beyond 65m"
             }
         },
         "rocketArtillery": {
