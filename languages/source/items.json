@@ -2420,6 +2420,12 @@
             "description": {
                 "general": "A well-stocked station where ammo is packed and primed by hand, boosting the effectiveness of Siege and Repair ammunition."
             }
+        },
+        "royalSentinel": {
+            "name": "Royal Sentinel",
+            "description": {
+                "general": "Deploys the Sentinel Device buoy, which detonates and applies Shell-shocked to enemy ships that enter its Operation Range. The product of Compagnie research, these buoys are effectively employed in ambushes."
+            }
         }
     }
 }

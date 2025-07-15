@@ -11901,5 +11901,25 @@
         },
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "royalSentinel": {
+        "id": "royalSentinel",
+        "rarity": "epic",
+        "obtainable": ["williamBlackwoodRotatingStore"],
+        "season": "oathsOfWar",
+        "requiredSize": "medium",
+        "type": "springloader",
+        "gearScore": 91,
+        "value": 1,
+        "weight": 1000,
+        "damagePerShot": 15255,
+        "projectilesPerShot": 1,
+        "rateOfFire": 0,
+        "reloadSpeed": 20000,
+        "optimalRange": 400,
+        "timeToTarget": 2.70,
+        "perks": ["dazzling","combustion2"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
