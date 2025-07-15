@@ -16895,6 +16895,24 @@
             "description": {
                 "general": "Some chase thrills and glory. Others simply wish to know the sea."
             }
+        },
+        "seekAndDestroy": {
+            "name": "Seek and Destroy",
+            "description": {
+                "general": "\"Swallow this, scurvy seadogs!\""
+            }
+        },
+        "rendAndEnd": {
+            "name": "Rend and End",
+            "description": {
+                "general": "The chaos of the sea should be embraced"
+            }
+        },
+        "jawsOfTheUntamed": {
+            "name": "Jaws of the Untamed",
+            "description": {
+                "general": "\"We'll give them something beastly, won't we?\""
+            }
         }
     }
 }

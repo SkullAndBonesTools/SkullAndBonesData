@@ -24188,5 +24188,29 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "seekAndDestroy": {
+        "id": "seekAndDestroy",
+        "type": "bombardWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "rendAndEnd": {
+        "id": "rendAndEnd",
+        "type": "ballistaWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "jawsOfTheUntamed": {
+        "id": "jawsOfTheUntamed",
+        "type": "torpedoWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
