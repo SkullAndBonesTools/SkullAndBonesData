@@ -271,5 +271,14 @@
     },
     "theHonorless": {
         "id": "theHonorless"
+    },
+    "reachTheFirmament": {
+        "id": "reachTheFirmament"
+    },
+    "wolvesAtWar": {
+        "id": "wolvesAtWar"
+    },
+    "plunderAndPeril": {
+        "id": "plunderAndPeril"
     }
 }
