@@ -411,9 +411,10 @@
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
-    "fleetMaster": {
-        "id": "fleetMaster",
+    "fleetMaster1": {
+        "id": "fleetMaster1",
         "category": "enterprise",
+        "tier": 1,
         "goal": 5,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
