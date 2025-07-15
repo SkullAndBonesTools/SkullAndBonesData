@@ -11921,5 +11921,26 @@
         "perks": ["dazzling","combustion2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "roaringMeg": {
+        "id": "roaringMeg",
+        "type": "mortar",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "obtainable": ["williamBlackwoodSeasonalItem"],
+        "value": 1,
+        "weight": 1000,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 10660,
+        "rateOfFire": 0,
+        "reloadSpeed": 20000,
+        "optimalRange": 600,
+        "timeToTarget": 5750,
+        "blastRadius": 50,
+        "required": {},
+        "perks": ["demolition","precisionBlast","piercing1"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

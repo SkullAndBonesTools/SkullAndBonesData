@@ -2761,6 +2761,24 @@
                     "Increases Projectile Speed of Siege Weapons and Repair Weapons by 10%, except for Sea Fire and Auxiliary Weapons"
                 ]
             }
+        },
+        "dazzling": {
+            "name": "Dazzling",
+            "description": {
+                "general": "Detonation also applies Shell-shocked to all targets"
+            }
+        },
+        "demolition": {
+            "name": "Demolition",
+            "description": {
+                "general": "Explosive Damage from this weapon deals 300% increased damage to structures"
+            }
+        },
+        "precisionBlast": {
+            "name": "Precision Blast",
+            "description": {
+                "general": "Adds 30% of damage as Explosive Damage in a 30m Blast Radius"
+            }
         }
     }
 }
