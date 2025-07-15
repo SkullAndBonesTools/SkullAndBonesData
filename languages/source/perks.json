@@ -551,7 +551,7 @@
         },
         "warDrums": {
             "description": {
-                "general": "While trimming, reduces Crew Stamina Depletion by 50% and increases Armor Rating by 200"
+                "general": "While trimming, reduces Brace Stamina Consumption by 50% and increases Armor Rating by 200"
             }
         },
         "scopingStation": {
