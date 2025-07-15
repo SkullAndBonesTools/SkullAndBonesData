@@ -11592,6 +11592,12 @@
         "tier": 2,
         "value": 1,
         "required": {
+            "zincIngot": 14,
+            "fineAbaka": 14,
+            "sheetGlass": 10,
+            "deepIron": 35,
+            "upgradeParts": 8,
+            "silver": 25000
         },
         "perks": ["frigateUpgrade2"],
         "dateAdded": "2025-07-15",
@@ -11603,6 +11609,12 @@
         "tier": 3,
         "value": 1,
         "required": {
+            "sheetGlass": 10,
+            "screwMechanism": 10,
+            "precisionDrillingBit": 8,
+            "deepIron": 35,
+            "upgradeParts": 10,
+            "piecesOfEight": 1250
         },
         "perks": ["frigateUpgrade3", "deepBlue"],
         "dateAdded": "2025-07-15",
@@ -11633,6 +11645,13 @@
         "tier": 5,
         "value": 1,
         "required": {
+            "woodPitch": 10,
+            "plateGlass": 10,
+            "torsionSpring": 12,
+            "precisionDrillingBit": 12,
+            "deepIronPlates": 5,
+            "upgradeParts": 12,
+            "piecesOfEight": 6500
         },
         "damageMitigation": {
             "explosive": 0.05,
@@ -11652,6 +11671,14 @@
         "tier": 6,
         "value": 1,
         "required": {
+            "magnetiteIngot": 7,
+            "planetaryGearset": 5,
+            "wormDrive": 5,
+            "torsionSpring": 4,
+            "orcaIntricateApparatus": 3,
+            "deepIronPlates": 7,
+            "upgradeParts": 14,
+            "piecesOfEight": 10000
         },
         "damageMitigation": {
             "explosive": 0.10,
@@ -11671,6 +11698,15 @@
         "tier": 7,
         "value": 1,
         "required": {
+            "wormDrive": 4,
+            "precisionDrillingBit": 3,
+            "orcaIntricateApparatus": 2,
+            "eelSturdyRopes": 2,
+            "deepIronPlates": 10,
+            "upgradeParts": 14,
+            "masterworkKit": 3,
+            "piecesOfEight": 15000,
+            "silver": 50000
         },
         "damageMitigation": {
             "explosive": 0.20,
