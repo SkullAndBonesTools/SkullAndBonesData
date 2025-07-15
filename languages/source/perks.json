@@ -541,7 +541,7 @@
         },
         "ropeLocker": {
             "description": {
-                "general": "Increases Acceleration to 300% when trim is activated at full Stamina. 5% of Stamina is instantly consumed to trigger this effect"
+                "general": "Increases Acceleration to 450% when trim is activated at full Stamina. 7% of Stamina is instantly consumed to trigger this effect"
             }
         },
         "riggingStation": {
