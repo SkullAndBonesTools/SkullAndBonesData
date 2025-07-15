@@ -1418,7 +1418,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 1030,
@@ -1446,7 +1446,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 2060,
@@ -1475,7 +1475,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 4290,
@@ -1504,7 +1504,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 2060,
@@ -1531,7 +1531,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 3090,
@@ -1559,7 +1559,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 4290,
@@ -1588,7 +1588,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 2060,
@@ -1615,7 +1615,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 3090,
@@ -1644,7 +1644,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "silver": 4290,
@@ -1673,7 +1673,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "sovereigns": 600
@@ -1697,7 +1697,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 300,
-        "timeToTarget": 1,
+        "timeToTarget": 1310,
         "required": {
             "silver": 1800,
             "fineAbaka": 6,
@@ -1723,7 +1723,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 300,
-        "timeToTarget": 1,
+        "timeToTarget": 1310,
         "required": {
             "silver": 2060,
             "fineAbaka": 6,
@@ -1751,7 +1751,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 300,
-        "timeToTarget": 1,
+        "timeToTarget": 1310,
         "required": {
             "silver": 4290,
             "roselleCloth": 8,
@@ -1779,7 +1779,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 1,
+        "timeToTarget": 2000,
         "required": {
             "silver": 2060,
             "fineAbaka": 8,
@@ -1806,7 +1806,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 1,
+        "timeToTarget": 2000,
         "required": {
             "silver": 3090,
             "roselleCloth": 12,
@@ -1834,7 +1834,7 @@
         "rateOfFire": 90,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 1,
+        "timeToTarget": 2000,
         "required": {
             "silver": 4290,
             "roselleCloth": 12,
@@ -5352,7 +5352,7 @@
         "rateOfFire": 210,
         "reloadSpeed": 20000,
         "optimalRange": 300,
-        "timeToTarget": 1,
+        "timeToTarget": 2250,
         "required": {
             "sovereigns": 600
         },
@@ -5521,7 +5521,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "ironwoodPlank": 6,
             "fineRamie": 6,
@@ -5549,7 +5549,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "juniperPlank": 6,
             "fineAbaka": 4,
@@ -5578,7 +5578,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "greenheartPlank": 10,
             "cogwheel": 8,
@@ -5607,7 +5607,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "greenheartPlank": 16,
             "plateGlass": 4,
@@ -5636,7 +5636,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "irokoPlank": 12,
             "fineJute": 24,
@@ -5664,7 +5664,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "greenheartPlank": 16,
             "cogwheel": 4,
@@ -5693,7 +5693,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 200,
+        "timeToTarget": 2700,
         "required": {
             "greenheartPlank": 18,
             "cogwheel": 8,
@@ -8291,7 +8291,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {
             "sovereigns": 450
@@ -9348,7 +9348,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 600,
-        "timeToTarget": 1,
+        "timeToTarget": 5750,
         "blastRadius": 50,
         "required": {},
         "perks": ["tempest","blast","electric2","noDefaultCrit"],
@@ -9373,7 +9373,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 1,
+        "timeToTarget": 2700,
         "required": {
             "greenheartPlank": 16,
             "xanthousStone": 8,
@@ -11758,7 +11758,7 @@
         "rateOfFire": 120,
         "reloadSpeed": 20000,
         "optimalRange": 300,
-        "timeToTarget": 1.31,
+        "timeToTarget": 1310,
         "required": {
             "gildmarks": 1000
         },
@@ -11782,7 +11782,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 2.7,
+        "timeToTarget": 2700,
         "perks": ["illuminate"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -11917,7 +11917,7 @@
         "rateOfFire": 0,
         "reloadSpeed": 20000,
         "optimalRange": 400,
-        "timeToTarget": 2.70,
+        "timeToTarget": 2700,
         "perks": ["dazzling","combustion2"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
