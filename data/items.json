@@ -9368,7 +9368,7 @@
         "gearScore": 91,
         "value": 1,
         "weight": 1000,
-        "damagePerShot": 0,
+        "damagePerShot": 8100,
         "projectilesPerShot": 1,
         "rateOfFire": 0,
         "reloadSpeed": 20000,
@@ -9382,9 +9382,9 @@
             "orcaIntricateApparatus": 2,
             "silver": 4290
         },
-        "perks": ["soulShield"],
+        "perks": ["soulShield","repair"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "crimsonLotus": {
         "id": "crimsonLotus",
