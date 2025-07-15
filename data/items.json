@@ -11661,7 +11661,7 @@
             "piercing": 0,
             "electric": 0.10
         },
-        "perks": ["frigateUpgrade6", "payback"],
+        "perks": ["frigateUpgrade6", "resolve"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
