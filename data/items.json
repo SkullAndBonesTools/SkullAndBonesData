@@ -11626,6 +11626,13 @@
         "tier": 4,
         "value": 1,
         "required": {
+            "cogwheel": 8,
+            "torsionSpring": 4,
+            "precisionDrillingBit": 4,
+            "orcasMechanism": 2,
+            "deepIron": 40,
+            "upgradeParts": 12,
+            "piecesOfEight": 4000
         },
         "damageMitigation": {
             "explosive": 0.03,
