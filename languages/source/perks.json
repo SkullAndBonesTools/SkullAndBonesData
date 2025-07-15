@@ -344,31 +344,6 @@
                 "05": "Increases Thread Generation by 5%"
             }
         },
-        "crewStaminaRecoverySpeed": {
-            "description": {
-                "1": "Increases Stamina Recovery by 10%"
-            }
-        },
-        "maximumCrewStamina": {
-            "description": {
-                "07": "Increases Maximum Stamina by 7%"
-            }
-        },
-        "accelerationAndDeceleration": {
-            "description": {
-                "08": "Increases Acceleration and Deceleration by 8%"
-            }
-        },
-        "trimCrewStaminaConsumption": {
-            "description": {
-                "15": "Reduces Crew Stamina Depletion when trimming sails by 15%"
-            }
-        },
-        "acceleration": {
-            "description": {
-                "13": "Increases Acceleration by 13%"
-            }
-        },
         "structureDamage": {
             "description": {
                 "15": "Increases damage to structures by 15%"
@@ -2778,6 +2753,31 @@
             "name": "Precision Blast",
             "description": {
                 "general": "Adds 30% of damage as Explosive Damage in a 30m Blast Radius"
+            }
+        },
+        "rumPantry": {
+            "description": {
+                "1": "Increases Stamina Recovery by 10%"
+            }
+        },
+        "sterileGalley": {
+            "description": {
+                "1": "Increases Maximum Stamina by 10%"
+            }
+        },
+        "balancedMasts": {
+            "description": {
+                "1": "Increases Acceleration and Deceleration by 16%"
+            }
+        },
+        "leatherRopeGrips": {
+            "description": {
+                "1": "Reduces Crew Stamina Depletion when trimming sails by 15%"
+            }
+        },
+        "lightenedMast": {
+            "description": {
+                "1": "Increases Acceleration by 26%"
             }
         }
     }

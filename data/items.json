@@ -5125,7 +5125,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 65,
-        "perks": ["trimCrewStaminaConsumption15"],
+        "perks": ["leatherRopeGrips1"],
         "required": {
             "silver": 1820,
             "fineRamie": 10,
@@ -5146,7 +5146,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 65,
-        "perks": ["accelerationAndDeceleration08"],
+        "perks": ["balancedMast1"],
         "required": {
             "silver": 1040,
             "fineRamie": 8,
@@ -5165,7 +5165,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 65,
-        "perks": ["acceleration13"],
+        "perks": ["lightenedMast1"],
         "required": {
             "silver": 2070,
             "fineAbaka": 6,
@@ -5187,7 +5187,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 65,
-        "perks": ["maximumCrewStamina07"],
+        "perks": ["sterileGalley1"],
         "required": {
             "silver": 520,
             "fineSisal": 10,
@@ -5205,7 +5205,7 @@
         "gearScore": 15,
         "value": 1,
         "weight": 65,
-        "perks": ["crewStaminaRecoverySpeed1"],
+        "perks": ["rumPantry1"],
         "required": {
             "silver": 2070,
             "fineAbaka": 6,
