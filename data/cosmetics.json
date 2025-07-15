@@ -24159,5 +24159,38 @@
         "obtainable": "twitchDropStartYear2Season2",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "sunsHome": {
+        "id": "sunsHome",
+        "type": "hull",
+        "set": "graceFromAfar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "oneBanner": {
+        "id": "oneBanner",
+        "type": "sailsColor",
+        "set": "graceFromAfar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "virtueOfPride": {
+        "id": "virtueOfPride",
+        "type": "sailsPattern",
+        "set": "graceFromAfar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "laurelBringer": {
+        "id": "laurelBringer",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "graceFromAfar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

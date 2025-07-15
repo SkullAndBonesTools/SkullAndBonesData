@@ -16871,6 +16871,30 @@
             "description": {
                 "general": "\"Even if we take all the Indian Ocean, we will not stop.\""
             }
+        },
+        "sunsHome": {
+            "name": "Sun's Home",
+            "description": {
+                "general": "It watches your tale unfold"
+            }
+        },
+        "oneBanner": {
+            "name": "One Banner",
+            "description": {
+                "general": "All manner of rogues follow your lead"
+            }
+        },
+        "virtueOfPride": {
+            "name": "Virtue of Pride",
+            "description": {
+                "general": "Let none question your honor"
+            }
+        },
+        "laurelBringer": {
+            "name": "Laurel Bringer",
+            "description": {
+                "general": "Some chase thrills and glory. Others simply wish to know the sea."
+            }
         }
     }
 }
