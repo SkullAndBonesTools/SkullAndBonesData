@@ -24126,5 +24126,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "washedGray": {
+        "id": "washedGray",
+        "type": "hull",
+        "set": "wickedCorsair",
+        "obtainable": "twitchDropStartYear2Season2",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bleakBanners": {
+        "id": "bleakBanners",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "wickedCorsair",
+        "obtainable": "twitchDropStartYear2Season2",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "headsWillRoll": {
+        "id": "headsWillRoll",
+        "type": "sailsEmblem",
+        "set": "wickedCorsair",
+        "obtainable": "twitchDropStartYear2Season2",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "flamingWill": {
+        "id": "flamingWill",
+        "type": "sailsPattern",
+        "set": "wickedCorsair",
+        "obtainable": "twitchDropStartYear2Season2",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

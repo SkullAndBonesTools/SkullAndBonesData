@@ -1210,5 +1210,9 @@
     "bewitched": {
         "id": "bewitched",
         "type": "player"
+    },
+    "wickedCorsair": {
+        "id": "wickedCorsair",
+        "type": "ship"
     }
 }

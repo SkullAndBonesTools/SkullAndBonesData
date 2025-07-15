@@ -222,6 +222,7 @@
         "serpentsDueSetChest": "Obtainable from the Serpent's Due Set Chest (reward for reaching level 60 in the Death Tides progression)",
         "divineInterventionSetChest": "Obtainable from the Divine Intervention Set Chest (reward for reaching level 70 in the Death Tides progression)",
         "twitchDropReleaseDeathtides": "First wave of Twitch Drops during the release of Death Tides (Y2S1.1)",
-        "twitchDropReleaseDeathtidesSecondWave": "Second wave of Twitch Drops during the release of Death Tides (Y2S1.1)"
+        "twitchDropReleaseDeathtidesSecondWave": "Second wave of Twitch Drops during the release of Death Tides (Y2S1.1)",
+        "twitchDropStartYear2Season2": "Twitch Drops at the start of Year 2 Season 2"
     }
 }

@@ -16847,6 +16847,30 @@
             "description": {
                 "general": "\"You may escape my gaze, but not my aim.\""
             }
+        },
+        "washedGray": {
+            "name": "Washed Gray",
+            "description": {
+                "general": "\"Question me, and I'll tie you to the keep, upside-down!\""
+            }
+        },
+        "bleakBanners": {
+            "name": "Bleak Banners",
+            "description": {
+                "general": "\"Can't have the crew in too good spirits...\""
+            }
+        },
+        "headsWillRoll": {
+            "name": "Heads Will Roll",
+            "description": {
+                "general": "\"So it is, even on a good day\""
+            }
+        },
+        "FlamingWill": {
+            "name": "Flaming Will",
+            "description": {
+                "general": "\"Even if we take all the Indian Ocean, we will not stop.\""
+            }
         }
     }
 }
