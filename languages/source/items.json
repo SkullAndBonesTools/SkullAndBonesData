@@ -2426,6 +2426,12 @@
             "description": {
                 "general": "Deploys the Sentinel Device buoy, which detonates and applies Shell-shocked to enemy ships that enter its Operation Range. The product of Compagnie research, these buoys are effectively employed in ambushes."
             }
+        },
+        "roaringMeg": {
+            "name": "Roaring Meg",
+            "description": {
+                "general": "Enhances Explosive damage to be extremely effective against structures. This behemoth grinds forts to ash, eliminating any rivals to the DMC's fortifications."
+            }
         }
     }
 }
