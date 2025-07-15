@@ -16913,6 +16913,72 @@
             "description": {
                 "general": "\"We'll give them something beastly, won't we?\""
             }
+        },
+        "shaolinSentinel": {
+            "name": "Shaolin Sentinel",
+            "description": {
+                "general": "Of wisdom and shadow, and thoughts as sharp as the sun"
+            }
+        },
+        "dragonsFold": {
+            "name": "Dragon's Fold",
+            "description": {
+                "general": "One sees the path ahead; another lost to the tides"
+            }
+        },
+        "raimentOfHarmony": {
+            "name": "Raiment of Harmony",
+            "description": {
+                "general": "Belted with gold, worn by one who brings balance"
+            }
+        },
+        "rattleOfGold": {
+            "name": "Rattle of Gold",
+            "description": {
+                "general": "Good fortune is on the horizon"
+            }
+        },
+        "girdleOfPurity": {
+            "name": "Girdle of Purity",
+            "description": {
+                "general": "Encircles the spirit, binding strength and serenity"
+            }
+        },
+        "cloudWalkers": {
+            "name": "Cloud Walkers",
+            "description": {
+                "general": "Light as clouds, fierce as thunder"
+            }
+        },
+        "hornedBoots": {
+            "name": "Horned Boots",
+            "description": {
+                "general": "Tread lightly, but leave marks of resolve"
+            }
+        },
+        "headsOrTails": {
+            "name": "Heads or Tails",
+            "description": {
+                "general": "Fate makes the call. May it choose well."
+            }
+        },
+        "circleOfComrades": {
+            "name": "Circle of Comrades",
+            "description": {
+                "general": "March as one. Fight as one. Prosper as one."
+            }
+        },
+        "divineSpring": {
+            "name": "Divine Spring",
+            "description": {
+                "general": "Live according to your true nature, or die a coward"
+            }
+        },
+        "saffronFire": {
+            "name": "Saffron Fire",
+            "description": {
+                "general": "Keep the spirits high between bloody battles"
+            }
         }
     }
 }

@@ -1214,5 +1214,13 @@
     "wickedCorsair": {
         "id": "wickedCorsair",
         "type": "ship"
+    },
+    "fangsOfJustice": {
+        "id": "fangsOfJustice",
+        "type": "ship"
+    },
+    "cloudWalker": {
+        "id": "cloudWalker",
+        "type": "player"
     }
 }

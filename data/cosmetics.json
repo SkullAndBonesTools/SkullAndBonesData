@@ -24212,5 +24212,105 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "shaolinSentinel": {
+        "id": "shaolinSentinel",
+        "type": "headwear",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "dragonsFold": {
+        "id": "dragonsFold",
+        "type": "faceAccessory",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "raimentOfHarmony": {
+        "id": "raimentOfHarmony",
+        "type": "torso",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "rattleOfGold": {
+        "id": "rattleOfGold",
+        "type": "forearm",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "girdleOfPurity": {
+        "id": "girdleOfPurity",
+        "type": "waist",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "cloudWalkers": {
+        "id": "cloudWalkers",
+        "type": "bottom",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "hornedBoots": {
+        "id": "hornedBoots",
+        "type": "footwear",
+        "set": "cloudWalker",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "headsOrTails": {
+        "id": "headsOrTails",
+        "type": "sailsEmblem",
+        "set": "fangsOfJustice",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "circleOfComrades": {
+        "id": "circleOfComrades",
+        "type": "sailsPattern",
+        "set": "fangsOfJustice",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "divineSpring": {
+        "id": "divineSpring",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "fangsOfJustice",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "saffronFire": {
+        "id": "saffronFire",
+        "type": "hull",
+        "set": "fangsOfJustice",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
