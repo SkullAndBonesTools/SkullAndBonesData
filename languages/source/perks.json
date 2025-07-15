@@ -2621,8 +2621,8 @@
                 ]
             }
         },
-        "payback": {
-            "name": "Payback",
+        "resolve": {
+            "name": "Resolve",
             "description": {
                 "general": [
                     "At 10 stacks of Grit, taking damage grants you Resolve",
