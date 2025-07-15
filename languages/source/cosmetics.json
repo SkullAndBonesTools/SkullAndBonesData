@@ -16979,6 +16979,102 @@
             "description": {
                 "general": "Keep the spirits high between bloody battles"
             }
+        },
+        "inquisitorGeneral": {
+            "name": "Inquisitor General",
+            "description": {
+                "general": "Head of your own order and rules"
+            }
+        },
+        "denunciation": {
+            "name": "Denunciation",
+            "description": {
+                "general": "Speak no evil, less you yourself be judged"
+            }
+        },
+        "sanbenito": {
+            "name": "Sanbenito",
+            "description": {
+                "general": "Curt symbols mark the severity of the crime"
+            }
+        },
+        "commissaryBadge": {
+            "name": "Commissary Badge",
+            "description": {
+                "general": "By this symbol, command the will of higher powers"
+            }
+        },
+        "relaxation": {
+            "name": "Relaxation",
+            "description": {
+                "general": "The condemned shall receive their true rest"
+            }
+        },
+        "blasphemersBurn": {
+            "name": "Blasphemers Burn",
+            "description": {
+                "general": "Your word is law"
+            }
+        },
+        "pantsOfPenance": {
+            "name": "Pants of Penance",
+            "description": {
+                "general": "Penance swiftly imposed"
+            }
+        },
+        "edictOfGrace": {
+            "name": "Edict of Grace",
+            "description": {
+                "general": "The guilty have three strides to repent"
+            }
+        },
+        "cardinalSin": {
+            "name": "Cardinal Sin",
+            "description": {
+                "general": "To be your enemy is a fatal mistake"
+            }
+        },
+        "trialByFire": {
+            "name": "Trial by Fire",
+            "description": {
+                "general": "So far, none have survived"
+            }
+        },
+        "ashesOfSilence": {
+            "name": "Ashes of Silence",
+            "description": {
+                "general": "Only the song of your triumph can be heard"
+            }
+        },
+        "hereticsTorment": {
+            "name": "Heretic's Torment",
+            "description": {
+                "general": "Repentance through punishment"
+            }
+        },
+        "purgeOfSouls": {
+            "name": "Purge of Souls",
+            "description": {
+                "general": "A message to all who forget their place"
+            }
+        },
+        "swornToHunt": {
+            "name": "Sworn to Hunt",
+            "description": {
+                "general": "Your enemies have nowhere to hide"
+            }
+        },
+        "theIronSeal": {
+            "name": "The Iron Seal",
+            "description": {
+                "general": "You impose your own form of order"
+            }
+        },
+        "inquisitor": {
+            "name": "Inquisitor",
+            "description": {
+                "general": "Faith is strength, and you wield it like a blade"
+            }
         }
     }
 }

@@ -24312,5 +24312,136 @@
         "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "inquisitorGeneral": {
+        "id": "inquisitorGeneral",
+        "type": "headwear",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "denunciation": {
+        "id": "denunciation",
+        "type": "faceAccessory",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "sanbenito": {
+        "id": "sanbenito",
+        "type": "torso",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "commissaryBadge": {
+        "id": "commissaryBadge",
+        "type": "neck",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "relaxation": {
+        "id": "relaxation",
+        "type": "forearm",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "blasphemersBurn": {
+        "id": "blasphemersBurn",
+        "type": "waist",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "pantsOfPenance": {
+        "id": "pantsOfPenance",
+        "type": "bottom",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "edictOfGrace": {
+        "id": "edictOfGrace",
+        "type": "footwear",
+        "set": "holyOffice",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "cardinalSin": {
+        "id": "cardinalSin",
+        "type": "sailsEmblem",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "trialByFire": {
+        "id": "trialByFire",
+        "type": "sailsPattern",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "ashesOfSilence": {
+        "id": "ashesOfSilence",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "hereticsTorment": {
+        "id": "hereticsTorment",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "purgeOfSouls": {
+        "id": "purgeOfSouls",
+        "type": "ornaments",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "swornToHunt": {
+        "id": "swornToHunt",
+        "type": "armorSkin",
+        "effect": "emissive",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "theIronSeal": {
+        "id": "theIronSeal",
+        "type": "hull",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "inquisitor": {
+        "id": "inquisitor",
+        "type": "nameplate",
+        "set": "inquisitorsCharge",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
