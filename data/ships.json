@@ -814,7 +814,7 @@
             "furniture": [5,1],
             "ultimate": [1,1]
         },
-        "perks": ["grit","colossal","criticalFlaw"],
+        "perks": ["grit","colossal","abundantGunports"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     }

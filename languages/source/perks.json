@@ -2579,8 +2579,8 @@
                 "general": "Reduces Sailing Speed in Rivers and Shallows by 30%"
             }
         },
-        "criticalFlaw": {
-            "name": "Critical Flaw",
+        "abundantGunports": {
+            "name": "Abundant Gunports",
             "description": {
                 "general": "Increases received damage to Weakpoints by 30%"
             }
@@ -2611,7 +2611,7 @@
                 "6": [
                     "Increases Base Ship Rank to 8",
                     "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Resolve' perk"
+                    "Adds 'Payback' perk"
                 ],
                 "7": [
                     "Increases Base Ship Rank to 9",
@@ -2621,8 +2621,8 @@
                 ]
             }
         },
-        "resolve": {
-            "name": "Resolve",
+        "payback": {
+            "name": "Payback",
             "description": {
                 "general": [
                     "At 10 stacks of Grit, taking damage grants you Resolve",
