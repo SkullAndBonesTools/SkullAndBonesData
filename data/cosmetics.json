@@ -23449,8 +23449,6 @@
         "id": "consumingDesire",
         "type": "wheel",
         "set": "fortuneFounders",
-        "season": "oathsOfWar",
-        "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
@@ -23458,8 +23456,6 @@
         "id": "allWeCovet",
         "type": "figureHead",
         "set": "fortuneFounders",
-        "season": "oathsOfWar",
-        "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
