@@ -21919,35 +21919,35 @@
     "unchainedServant": {
         "id": "unchainedServant",
         "type": "sailsEmblem",
-        "effect": "animated",
-        "set": "graceFromAfar",
+        "set": "lostBastion",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "farFromNoble": {
         "id": "farFromNoble",
         "type": "sailsPattern",
-        "set": "graceFromAfar",
+        "set": "lostBastion",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "corruptionsWake": {
         "id": "corruptionsWake",
         "type": "sailsColor",
-        "set": "graceFromAfar",
+        "effect": "emissive",
+        "set": "lostBastion",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "murkyPerceptions": {
         "id": "murkyPerceptions",
         "type": "hull",
-        "set": "graceFromAfar",
+        "set": "lostBastion",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-15"
     },
     "hangmansCurse": {
         "id": "hangmansCurse",
