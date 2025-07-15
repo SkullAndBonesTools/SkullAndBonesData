@@ -280,5 +280,9 @@
     },
     "plunderAndPeril": {
         "id": "plunderAndPeril"
+    },
+    "riskOfRuin": {
+        "id": "riskOfRuin",
+        "type": "main"
     }
 }
