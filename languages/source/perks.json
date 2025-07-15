@@ -963,8 +963,8 @@
             "description": {
                 "1": [
                     "Reduces the effects of the Ship Encumbered state by 15%",
-                    "Increases Turning Speed by 8%",
-                    "Increases Acceleration by 8%"
+                    "Increases Turning Speed by 16%",
+                    "Increases Acceleration by 16%"
                 ]
             }
         },
