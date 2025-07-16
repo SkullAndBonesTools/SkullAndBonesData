@@ -24708,5 +24708,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "flamesAndCurses": {
+        "id": "flamesAndCurses",
+        "type": "sailsEmblem",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "deathGripPattern": {
+        "id": "deathGripPattern",
+        "type": "sailsPattern",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "foulAsHell": {
+        "id": "foulAsHell",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "viciousPrimordials": {
+        "id": "viciousPrimordials",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "impossibleTales": {
+        "id": "impossibleTales",
+        "type": "hull",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "monstrous": {
+        "id": "monstrous",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "deadlyLegion": {
+        "id": "deadlyLegion",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "dreadedChimera",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

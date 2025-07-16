@@ -17267,6 +17267,48 @@
             "description": {
                 "general": "The serpents grant you peace and purity"
             }
+        },
+        "flamesAndCurses": {
+            "name": "Flames and Curses",
+            "description": {
+                "general": "Terrible things would spew from its maw"
+            }
+        },
+        "deathGripPattern": {
+            "name": "Death Grip",
+            "description": {
+                "general": "The venom seeps, creeps and eats"
+            }
+        },
+        "foulAsHell": {
+            "name": "Foul as Hell",
+            "description": {
+                "general": "Its very presence rots away courage"
+            }
+        },
+        "viciousPrimordials": {
+            "name": "Vicious Primordials",
+            "description": {
+                "general": "Truly a beast of many nightmares"
+            }
+        },
+        "impossibleTales": {
+            "name": "Impossible Tales",
+            "description": {
+                "general": "Spreading from sea to sea, who can tell what is true?"
+            }
+        },
+        "monstrous": {
+            "name": "Monstrous",
+            "description": {
+                "general": "Some sights can stop the hearts of men"
+            }
+        },
+        "deadlyLegion": {
+            "name": "Deadly Legion",
+            "description": {
+                "general": "Where many act as one, success follows"
+            }
         }
     }
 }

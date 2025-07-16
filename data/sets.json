@@ -1246,5 +1246,17 @@
     "serveTheSpirits": {
         "id": "serveTheSpirits",
         "type": "player"
+    },
+    "dreadedChimera": {
+        "id": "dreadedChimera",
+        "type": "ship"
+    },
+    "enchantingAgony": {
+        "id": "enchantingAgony",
+        "type": "ship"
+    },
+    "vengeanceIsMine": {
+        "id": "vengeanceIsMine",
+        "type": "ship"
     }
 }
