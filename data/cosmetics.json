@@ -24901,5 +24901,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "soarAndSmite": {
+        "id": "soarAndSmite",
+        "type": "sailsEmblem",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "paramountElegance": {
+        "id": "paramountElegance",
+        "type": "sailsPattern",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "ageOfProsperity": {
+        "id": "ageOfProsperity",
+        "type": "sailsColor",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "riseToPower": {
+        "id": "riseToPower",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "historicHalls": {
+        "id": "historicHalls",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "ordainedMarch": {
+        "id": "ordainedMarch",
+        "type": "hull",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "roguebane": {
+        "id": "roguebane",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "crownsBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

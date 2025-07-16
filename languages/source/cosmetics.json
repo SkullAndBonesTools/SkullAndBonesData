@@ -17405,6 +17405,48 @@
             "description": {
                 "general": "Loves leaping out from the shadows to scare the crew"
             }
+        },
+        "soarAndSmite": {
+            "name": "Soar and Smite",
+            "description": {
+                "general": "Pity is wasted on the weak"
+            }
+        },
+        "paramountElegance": {
+            "name": "Paramount Elegance",
+            "description": {
+                "general": "One can be ruthless and sophisticated both"
+            }
+        },
+        "ageOfProsperity": {
+            "name": "Age of Prosperity",
+            "description": {
+                "general": "A notion that requires constant vigilance"
+            }
+        },
+        "riseToPower": {
+            "name": "Rise to Power",
+            "description": {
+                "general": "A position won by impressive deeds"
+            }
+        },
+        "historicHalls": {
+            "name": "Historic Halls",
+            "description": {
+                "general": "You will make your own history on the high seas"
+            }
+        },
+        "ordainedMarch": {
+            "name": "Ordained March",
+            "description": {
+                "general": "Every move serves a greater purpose"
+            }
+        },
+        "roguebane": {
+            "name": "Roguebane",
+            "description": {
+                "general": "True to your nature"
+            }
         }
     }
 }

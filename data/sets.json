@@ -1258,5 +1258,9 @@
     "vengeanceIsMine": {
         "id": "vengeanceIsMine",
         "type": "ship"
+    },
+    "crownsBlade": {
+        "id": "crownsBlade",
+        "type": "ship"
     }
 }
