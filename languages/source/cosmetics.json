@@ -17393,6 +17393,18 @@
             "description": {
                 "general": "\"All towards one goal -- a vicious reckoning.\""
             }
+        },
+        "ruckus": {
+            "name": "Ruckus",
+            "description": {
+                "general": "Known for getting into misadventures"
+            }
+        },
+        "moony": {
+            "name": "Moony",
+            "description": {
+                "general": "Loves leaping out from the shadows to scare the crew"
+            }
         }
     }
 }
