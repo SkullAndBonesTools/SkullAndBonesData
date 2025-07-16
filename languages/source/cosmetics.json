@@ -17501,6 +17501,18 @@
             "description": {
                 "general": "\"Ptuh! There's your parley.\""
             }
+        },
+        "sunkissedSeadogs": {
+            "name": "Sunkissed Seadogs",
+            "description": {
+                "general": "May golden rays reach the depths of your pockets"
+            }
+        },
+        "blindingMoves": {
+            "name": "Blinding Moves",
+            "description": {
+                "general": "Simply inimitable"
+            }
         }
     }
 }

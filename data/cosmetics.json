@@ -25032,5 +25032,19 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "sunkissedSeadogs": {
+        "id": "sunkissedSeadogs",
+        "type": "crewLook",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "blindingMoves": {
+        "id": "blindingMoves",
+        "type": "emote",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
