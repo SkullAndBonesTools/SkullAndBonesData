@@ -24609,8 +24609,8 @@
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
-    "bokerBands": {
-        "id": "bokerBands",
+    "bokorBands": {
+        "id": "bokorBands",
         "type": "hand",
         "set": "serveTheSpirits",
         "obtainable": "ubisoftStore",
