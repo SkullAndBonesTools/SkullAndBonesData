@@ -24576,8 +24576,8 @@
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
     },
-    "OunganVest": {
-        "id": "OunganVest",
+    "ounganVest": {
+        "id": "ounganVest",
         "type": "torso",
         "set": "serveTheSpirits",
         "obtainable": "ubisoftStore",
