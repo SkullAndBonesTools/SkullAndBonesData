@@ -675,7 +675,7 @@
         "id": "amplifiedElectric",
         "variants": [
             {
-                "itemType": ["longGun","culverin","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
                 "range": [0.225, 0.375]
             }
         ],
