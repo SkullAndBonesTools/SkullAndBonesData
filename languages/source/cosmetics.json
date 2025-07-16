@@ -17075,6 +17075,96 @@
             "description": {
                 "general": "Faith is strength, and you wield it like a blade"
             }
+        },
+        "mgangaWithUs": {
+            "name": "Mganga with Us",
+            "description": {
+                "general": "Ancestors watch over you"
+            }
+        },
+        "udisWisdom": {
+            "name": "Udi's Wisdom",
+            "description": {
+                "general": "Draws blood in a pinch"
+            }
+        },
+        "mtuWaDua": {
+            "name": "Mtu wa Dua",
+            "description": {
+                "general": "A person of prayer is not always a person of peace"
+            }
+        },
+        "dawaCharms": {
+            "name": "Dawa Charms",
+            "description": {
+                "general": "You wield each of them at arm's reach"
+            }
+        },
+        "vifungosGuard": {
+            "name": "Vifungo's Guard",
+            "description": {
+                "general": "Those knots and twists are imbued with spoken rites"
+            }
+        },
+        "wachawisWear": {
+            "name": "Wachawi's Wear",
+            "description": {
+                "general": "The spirits shall cover your skin"
+            }
+        },
+        "utambaji": {
+            "name": "Utambaji",
+            "description": {
+                "general": "Move to commune"
+            }
+        },
+        "sadaka": {
+            "name": "Sadaka",
+            "description": {
+                "general": "A prayer for healing, or none at all"
+            }
+        },
+        "crippleTheCompetition": {
+            "name": "Cripple the Competition",
+            "description": {
+                "general": "Orchestrate pain as none other"
+            }
+        },
+        "spinecrusher": {
+            "name": "Spinecrusher",
+            "description": {
+                "general": "Cripple the competition"
+            }
+        },
+        "bloodDrowned": {
+            "name": "Blood Drowned",
+            "description": {
+                "general": "Kill or be killed. Then kill some more."
+            }
+        },
+        "piratesDozen": {
+            "name": "Pirate's Dozen",
+            "description": {
+                "general": "\"Aye, seemed like a nice, round number.\""
+            }
+        },
+        "freeFall": {
+            "name": "Free Fall",
+            "description": {
+                "general": "Into your most depraved urges"
+            }
+        },
+        "lifedrinker": {
+            "name": "Lifedrinker",
+            "description": {
+                "general": "Waste not a single drop"
+            }
+        },
+        "getImpaling": {
+            "name": "Get Impaling",
+            "description": {
+                "general": "Keep your skills sharp"
+            }
         }
     }
 }

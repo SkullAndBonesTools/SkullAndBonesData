@@ -24443,5 +24443,129 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "mgangaWithUs": {
+        "id": "mgangaWithUs",
+        "type": "headwear",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "udisWisdom": {
+        "id": "udisWisdom",
+        "type": "faceAccessory",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "mtuWaDua": {
+        "id": "mtuWaDua",
+        "type": "torso",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "dawaCharms": {
+        "id": "dawaCharms",
+        "type": "forearm",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "vifungosGuard": {
+        "id": "vifungosGuard",
+        "type": "waist",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "wachawisWear": {
+        "id": "wachawisWear",
+        "type": "bottom",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "utambaji": {
+        "id": "utambaji",
+        "type": "footwear",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "sadaka": {
+        "id": "sadaka",
+        "type": "bodyCosmetics",
+        "set": "bloodAndBones",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "crippleTheCompetition": {
+        "id": "crippleTheCompetition",
+        "type": "sailsEmblem",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "spinecrusher": {
+        "id": "spinecrusher",
+        "type": "sailsPattern",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bloodDrowned": {
+        "id": "bloodDrowned",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "piratesDozen": {
+        "id": "piratesDozen",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "freeFall": {
+        "id": "freeFall",
+        "type": "hull",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "lifedrinker": {
+        "id": "lifedrinker",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "getImpaling": {
+        "id": "getImpaling",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "bloodAndBone",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

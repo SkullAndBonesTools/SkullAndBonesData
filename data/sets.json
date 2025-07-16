@@ -1230,5 +1230,13 @@
     "holyOffice": {
         "id": "holyOffice",
         "type": "player"
+    },
+    "bloodAndBone": {
+        "id": "bloodAndBone",
+        "type": "ship"
+    },
+    "bloodAndBones": {
+        "id": "bloodAndBones",
+        "type": "player"
     }
 }
