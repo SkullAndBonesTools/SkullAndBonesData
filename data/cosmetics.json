@@ -24768,5 +24768,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "headyMadness": {
+        "id": "headyMadness",
+        "type": "sailsEmblem",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "divineTorment": {
+        "id": "divineTorment",
+        "type": "sailsPattern",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bleedMeDry": {
+        "id": "bleedMeDry",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "sufferWrath": {
+        "id": "sufferWrath",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "heavenSpurned": {
+        "id": "heavenSpurned",
+        "type": "hull",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "harbingerNameplate": {
+        "id": "harbingerNameplate",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "throughMyVeins": {
+        "id": "throughMyVeins",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "enchantingAgony",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

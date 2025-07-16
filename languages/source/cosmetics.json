@@ -17309,6 +17309,48 @@
             "description": {
                 "general": "Where many act as one, success follows"
             }
+        },
+        "headyMadness": {
+            "name": "Heady Madness",
+            "description": {
+                "general": "\"Only in battle do I find clarity.\""
+            }
+        },
+        "divineTorment": {
+            "name": "Divine Torment",
+            "description": {
+                "general": "\"Even pain holds great lessons.\""
+            }
+        },
+        "bleedMeDry": {
+            "name": "Bleed Me Dry",
+            "description": {
+                "general": "\"Until my heart stops, I continue my crusade.\""
+            }
+        },
+        "sufferWrath": {
+            "name": "Suffer Wrath",
+            "description": {
+                "general": "\"There is no grander sight than vengeance at its bloodiest.\""
+            }
+        },
+        "heavenSpurned": {
+            "name": "Heaven Spurned",
+            "description": {
+                "general": "\"My life a clamor, my death a wisper.\""
+            }
+        },
+        "harbingerNameplate": {
+            "name": "Harbinger Nameplate",
+            "description": {
+                "general": "\"Esteemed voices call on me to punish and destroy.\""
+            }
+        },
+        "throughMyVeins": {
+            "name": "Through My Veins",
+            "description": {
+                "general": "\"I am shaped by generations of rage.\""
+            }
         }
     }
 }
