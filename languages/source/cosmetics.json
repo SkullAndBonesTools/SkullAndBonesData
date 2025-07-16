@@ -17351,6 +17351,48 @@
             "description": {
                 "general": "\"I am shaped by generations of rage.\""
             }
+        },
+        "theOneAbove": {
+            "name": "The One Above",
+            "description": {
+                "general": "\"We may grace the same sea, but my purpose is truer.\""
+            }
+        },
+        "petalWisps": {
+            "name": "Petal Wisps",
+            "description": {
+                "general": "Some lives are worth more than others"
+            }
+        },
+        "allTheseRiches": {
+            "name": "All These Riches",
+            "description": {
+                "general": "Satisfaction is the true reward"
+            }
+        },
+        "flightOfHunters": {
+            "name": "Flight of Hunters",
+            "description": {
+                "general": "The wicked have nowhere to hide"
+            }
+        },
+        "doomBound": {
+            "name": "Doom Bound",
+            "description": {
+                "general": "Perhaps you are but the instrument of fate"
+            }
+        },
+        "judgmentNameplate": {
+            "name": "Judgment Nameplate",
+            "description": {
+                "general": "Delivered with grave conviction"
+            }
+        },
+        "infinitelyWound": {
+            "name": "Infinitely Wound",
+            "description": {
+                "general": "\"All towards one goal -- a vicious reckoning.\""
+            }
         }
     }
 }

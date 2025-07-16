@@ -24828,5 +24828,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "theOneAbove": {
+        "id": "theOneAbove",
+        "type": "sailsEmblem",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "petalWisps": {
+        "id": "petalWisps",
+        "type": "sailsPattern",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "allTheseRiches": {
+        "id": "allTheseRiches",
+        "type": "sailsColor",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "flightOfHunters": {
+        "id": "flightOfHunters",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "doomBound": {
+        "id": "doomBound",
+        "type": "hull",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "judgmentNameplate": {
+        "id": "judgmentNameplate",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "infinitelyWound": {
+        "id": "infinitelyWound",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "vengeanceIsMine",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }
