@@ -24960,5 +24960,77 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "idealicPlumage": {
+        "id": "idealicPlumage",
+        "type": "headwear",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "singleEyedPurpose": {
+        "id": "singleEyedPurpose",
+        "type": "faceAccessory",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "piracyPays": {
+        "id": "piracyPays",
+        "type": "torso",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "beedyResolve": {
+        "id": "beedyResolve",
+        "type": "neck",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "noQuarter": {
+        "id": "noQuarter",
+        "type": "forearm",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "gildedGirdle": {
+        "id": "gildedGirdle",
+        "type": "waist",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "ironclad": {
+        "id": "ironclad",
+        "type": "hand",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "scumAndVillainy": {
+        "id": "scumAndVillainy",
+        "type": "bottom",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "beneathMyBoot": {
+        "id": "beneathMyBoot",
+        "type": "footwear",
+        "set": "deathToPiracy",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

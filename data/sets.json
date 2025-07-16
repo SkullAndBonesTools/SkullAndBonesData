@@ -1262,5 +1262,9 @@
     "crownsBlade": {
         "id": "crownsBlade",
         "type": "ship"
+    },
+    "deathToPiracy": {
+        "id": "deathToPiracy",
+        "type": "player"
     }
 }

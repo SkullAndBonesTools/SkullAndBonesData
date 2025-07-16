@@ -17447,6 +17447,60 @@
             "description": {
                 "general": "True to your nature"
             }
+        },
+        "idealicPlumage": {
+            "name": "Idealic Plumeage",
+            "description": {
+                "general": "Each feather a pirate slain"
+            }
+        },
+        "singleEyedPurpose": {
+            "name": "Single-Eyed Purpose",
+            "description": {
+                "general": "Only need one to see evil"
+            }
+        },
+        "piracyPays": {
+            "name": "Piracy Pays",
+            "description": {
+                "general": "Bury the freebooters, not their booty"
+            }
+        },
+        "beedyResolve": {
+            "name": "Beady Resolve",
+            "description": {
+                "general": "Belonged to a loved one, wrongly cut down"
+            }
+        },
+        "noQuarter": {
+            "name": "No Quarter",
+            "description": {
+                "general": "No mercy for the wicked"
+            }
+        },
+        "gildedGirdle": {
+            "name": "Gilded Girdle",
+            "description": {
+                "general": "Doubles as a gallows rope"
+            }
+        },
+        "ironclad": {
+            "name": "Ironclad",
+            "description": {
+                "general": "Firm resolve to burn all rogues"
+            }
+        },
+        "scumAndVillainy": {
+            "name": "Scum and Villainy",
+            "description": {
+                "general": "Only good pirate's dead one"
+            }
+        },
+        "beneathMyBoot": {
+            "name": "Beneath My Boot",
+            "description": {
+                "general": "\"Ptuh! There's your parley.\""
+            }
         }
     }
 }
