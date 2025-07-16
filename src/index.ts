@@ -26,3 +26,4 @@ export { Rarities } from "./types/Rarity";
 export { ShipSizes } from "./types/ShipProperties";
 export { UltimateTypes } from "./types/UltimateProperties";
 export { CosmeticEffects, PlayerAppearanceTypes, PlayerOutfitTypes, ShipCosmeticTypes } from "./types/CosmeticProperties";
+export { ModificationGrades, DamageTypes } from "./types/ModificationProperties";
