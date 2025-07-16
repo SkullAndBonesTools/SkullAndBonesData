@@ -17165,6 +17165,108 @@
             "description": {
                 "general": "Keep your skills sharp"
             }
+        },
+        "bondyesGaze": {
+            "name": "Bondye's Gaze",
+            "description": {
+                "general": "The creator watches over his creation"
+            }
+        },
+        "OunganVest": {
+            "name": "Oungan Vest",
+            "description": {
+                "general": "Cloth cut for higher purpose"
+            }
+        },
+        "blessingOfTheLwa": {
+            "name": "Blessing of the Lwa",
+            "description": {
+                "general": "The medallion whispers on quiet nights"
+            }
+        },
+        "feedTheNight": {
+            "name": "Feed the Night",
+            "description": {
+                "general": "Firm hands carry your sacrifice to other realms"
+            }
+        },
+        "maAndPa": {
+            "name": "Ma and Pa",
+            "description": {
+                "general": "\"The hounsi look to use for guidance.\""
+            }
+        },
+        "bokorBands": {
+            "name": "Bokor Bands",
+            "description": {
+                "general": "\"You shall labor with both hands.\""
+            }
+        },
+        "papaLegba": {
+            "name": "Papa Legba",
+            "description": {
+                "general": "The Keeper guides your path"
+            }
+        },
+        "traceTheVeveh": {
+            "name": "Trace the Veveh",
+            "description": {
+                "general": "Sacred symbols shall invoke the spirits"
+            }
+        },
+        "kanzo": {
+            "name": "Kanzo",
+            "description": {
+                "general": "Mark your face for the transformation ahead"
+            }
+        },
+        "dreadDoctor": {
+            "name": "Dread Doctor",
+            "description": {
+                "general": "Death curses all ailments"
+            }
+        },
+        "shamansRites": {
+            "name": "Shaman's Rites",
+            "description": {
+                "general": "\"Yes, this will hurt quite a bit...\""
+            }
+        },
+        "blackMagic": {
+            "name": "Black Magic",
+            "description": {
+                "general": "Chosen by the dark and arcane"
+            }
+        },
+        "intoMySpell": {
+            "name": "Into My Spell",
+            "description": {
+                "general": "\"Blades and gunpowder will not save you.\""
+            }
+        },
+        "slitherHither": {
+            "name": "Slither Hither",
+            "description": {
+                "general": "More venomous than any snake"
+            }
+        },
+        "maledictor": {
+            "name": "Maledictor",
+            "description": {
+                "general": "\"May ill-fortune befall you, and curse your lineage!\""
+            }
+        },
+        "deadTongues": {
+            "name": "Dead Tongues",
+            "description": {
+                "general": "Spewing evil wisdom as you desire"
+            }
+        },
+        "damballahStrands": {
+            "name": "Damballah Strands",
+            "description": {
+                "general": "The serpents grant you peace and purity"
+            }
         }
     }
 }

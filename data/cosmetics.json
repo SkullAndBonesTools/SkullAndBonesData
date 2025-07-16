@@ -24567,5 +24567,146 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "bondyesGaze": {
+        "id": "bondyesGaze",
+        "type": "headwear",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "OunganVest": {
+        "id": "OunganVest",
+        "type": "torso",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "blessingOfTheLwa": {
+        "id": "blessingOfTheLwa",
+        "type": "neck",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "feedTheNight": {
+        "id": "feedTheNight",
+        "type": "forearm",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "maAndPa": {
+        "id": "maAndPa",
+        "type": "waist",
+        "effect": "emissive",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "bokerBands": {
+        "id": "bokerBands",
+        "type": "hand",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "papaLegba": {
+        "id": "papaLegba",
+        "type": "bottom",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "traceTheVeveh": {
+        "id": "traceTheVeveh",
+        "type": "footwear",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "kanzo": {
+        "id": "kanzo",
+        "type": "bodyCosmetics",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "dreadDoctor": {
+        "id": "dreadDoctor",
+        "type": "sailsEmblem",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "shamansRites": {
+        "id": "shamansRites",
+        "type": "sailsPattern",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "blackMagic": {
+        "id": "blackMagic",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "intoMySpell": {
+        "id": "intoMySpell",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "slitherHither": {
+        "id": "slitherHither",
+        "type": "hull",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "maledictor": {
+        "id": "maledictor",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "deadTongues": {
+        "id": "deadTongues",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "hexFiend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "damballahStrands": {
+        "id": "damballahStrands",
+        "type": "hair",
+        "set": "serveTheSpirits",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

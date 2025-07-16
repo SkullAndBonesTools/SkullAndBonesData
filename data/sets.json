@@ -1238,5 +1238,13 @@
     "bloodAndBones": {
         "id": "bloodAndBones",
         "type": "player"
+    },
+    "hexFiend": {
+        "id": "hexFiend",
+        "type": "ship"
+    },
+    "serveTheSpirits": {
+        "id": "serveTheSpirits",
+        "type": "player"
     }
 }
