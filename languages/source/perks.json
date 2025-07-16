@@ -2765,7 +2765,7 @@
                 "1": "Increases Maximum Stamina by 10%"
             }
         },
-        "balancedMasts": {
+        "balancedMast": {
             "description": {
                 "1": "Increases Acceleration and Deceleration by 16%"
             }
