@@ -11,4 +11,4 @@ export type RepairAccess = "none" | "shared" | "exclusive";
 export type EffectType = "ignoreResistance" | "bonusElementalDamage" | "addElementalDamage" | "increaseDamage" | "increaseReloadSpeed" | "extraElementalDamage" | 
     "extraDamage" | "increaseProjectileSpeed" | "increaseProjectileRange" | "reduceTimeToTarget" | "increaseCritDamage" | "increaseSiegeDamage" |
     "increaseSailDamage" | "increaseBlastRadius" | "increaseBuoyOperationTime" | "increaseBuoyHealth";
-export type DamageType = "piercing" | "electric" | "explosive" | "flooding" | "burning" | "overall" | "base";
+export type DamageType = "piercing" | "electric" | "explosive" | "flooding" | "burning" | "tearing" | "toxic" | "overall" | "base";
