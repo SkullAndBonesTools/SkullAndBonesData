@@ -24762,7 +24762,7 @@
     },
     "deadlyLegion": {
         "id": "deadlyLegion",
-        "type": "trophy",
+        "type": "wheel",
         "effect": "emissive",
         "set": "dreadedChimera",
         "obtainable": "ubisoftStore",
