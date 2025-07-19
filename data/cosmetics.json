@@ -23788,9 +23788,13 @@
         "upgrades": ["soulsAblaze"],
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "required": {
+            "zincIngot": 15,
+            "screwMechanism": 10,
+            "artisansRefinementPack": 3,
+            "etherealAshes": 5
         },
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-07-19"
     },
     "soulsAblaze": {
         "id": "soulsAblaze",
