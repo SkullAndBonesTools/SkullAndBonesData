@@ -11046,7 +11046,7 @@
     "mortarGrinder1": {
         "id": "mortarGrinder1",
         "tier": 1,
-        "blueprint": ["corruptDmcOfficerOutpost","outpostTheRuinedLighthouse"],
+        "blueprint": [["corruptDmcOfficerOutpost","outpostTheRuinedLighthouse"]],
         "type": "offensiveFurniture",
         "gearScore": 15,
         "value": 1,
@@ -11991,5 +11991,26 @@
         "perks": ["demolition","precisionBlast","piercing1"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "rocketGrinder1": {
+        "id": "rocketGrinder1",
+        "tier": 1,
+        "blueprint": [["rempahMerchant","outpostParujarsCry"]],
+        "type": "offensiveFurniture",
+        "gearScore": 15,
+        "value": 1,
+        "weight": 175,
+        "perks": ["rocketProjectileSpeed15"],
+        "required": {
+            "roselleCloth": 8,
+            "magnetiteIngot": 6,
+            "screwMechanism": 4,
+            "lime": 4,
+            "cogwheel": 3,
+            "precisionDrillingBit": 1,
+            "silver": 3370
+        },
+        "dateAdded": "2025-07-19",
+        "lastUpdated": "2025-07-19"
     }
 }

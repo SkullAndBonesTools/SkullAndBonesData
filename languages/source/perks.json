@@ -2559,6 +2559,11 @@
                 "15": "Increases Projectile Speed of Mortar by 15%"
             }
         },
+        "rocketProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Rocket by 15%"
+            }
+        },
         "joineryWorkshop": {
             "description": {
                 "1": "Increases Repair Amount from Repair Weapons by 6%"
