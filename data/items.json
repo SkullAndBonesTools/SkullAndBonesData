@@ -2921,17 +2921,23 @@
         "id": "ballistaWorks1",
         "tier": 1,
         "requiredRank": "kingpin1",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": [["outpostSacredTree","clanOfFaraWarrior"]],
         "type": "offensiveFurniture",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
         "perks": ["ballistaElementalDamage19"],
         "required": {
-            "sovereigns": 250
+            "greenheartPlank": 14,
+            "roselleCloth": 14,
+            "wormDrive": 10,
+            "planetaryGearset": 10,
+            "torsionSpring": 8,
+            "eelSturdyRopes": 1,
+            "silver": 4680
         },
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-19"
     },
     "bombardWorks1": {
         "id": "bombardWorks1",
