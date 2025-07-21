@@ -19341,6 +19341,15 @@
         "dateAdded": "2024-11-19",
         "lastUpdated": "2024-11-19"
     },
+    "caribbeanFiend": {
+        "id": "caribbeanFiend",
+        "type": "figureHead",
+        "season": "shadowsOfTheDeep",
+        "set": "satisfaction",
+        "obtainable": "premiumPass",
+        "dateAdded": "2024-11-19",
+        "lastUpdated": "2025-07-21"
+    },
     "bloodOfSorrows": {
         "id": "bloodOfSorrows",
         "type": "sailsColor",
