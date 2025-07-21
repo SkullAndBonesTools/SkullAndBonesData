@@ -5870,16 +5870,25 @@
         "id": "machinistStationRepair1",
         "tier": 1,
         "rarity": "rare",
-        "season": "chorusOfHavoc",
-        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
+        "season": "oathsOfWar",
+        "obtainable": "williamBlackwoodRotatingStore",
+        "blueprint": "williamBlackwoodSeasonalItem",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
         "weight": 80,
         "perks": ["machinistStationRepair1"],
-        "required": {},
+        "required": {
+            "magnetiteIngot": 14,
+            "dryCastingSand": 10,
+            "planetaryGearset": 10,
+            "sinewString": 4,
+            "rubber": 4,
+            "eelSturdyRopes": 2,
+            "silver": 4680
+        },
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-21"
     },
     "raisedQuarterdeck1": {
         "id": "raisedQuarterdeck1",
