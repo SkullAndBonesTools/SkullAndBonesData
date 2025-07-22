@@ -5969,17 +5969,26 @@
         "id": "compagnieScreens",
         "rarity": "epic",
         "obtainable": ["whiteAriaChest","williamBlackwoodRotatingStore"],
-        "season": "chorusOfHavoc",
+        "blueprint": "williamBlackwoodSeasonalItem",
+        "season": "oathsOfWar",
         "worldEvent": "verseOfRemorse",
         "bounty": "verseOfRemorse",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "required": {},
+        "required": {
+            "greenheartPlank": 12,
+            "magnetiteIngot": 12,
+            "woodPitch": 8,
+            "planetaryGearset": 8,
+            "torsionSpring": 6,
+            "orcaIntricateApparatus": 2,
+            "silver": 3600
+        },
         "perks": ["compagnieScreens"],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "medicineCabinet": {
         "id": "medicineCabinet",
