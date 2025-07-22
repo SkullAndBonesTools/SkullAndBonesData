@@ -17567,6 +17567,54 @@
             "description": {
                 "general": "\"Only thing better than rum is stolen rum!\""
             }
+        },
+        "confettiCap": {
+            "name": "Confetti Cap",
+            "description": {
+                "general": "Heatstroke is the enemy of fun"
+            }
+        },
+        "sunkissedShades": {
+            "name": "Sunkissed Shades",
+            "description": {
+                "general": "Stare at the sun too long and you'll not have any fun"
+            }
+        },
+        "smoothVest": {
+            "name": "Smooth Vest",
+            "description": {
+                "general": "Not much for protection, but still cool as hell"
+            }
+        },
+        "toothyJoy": {
+            "name": "Toothy Joy",
+            "description": {
+                "general": "\"I'm sure their previous owners had a blast.\""
+            }
+        },
+        "fiestaWraps": {
+            "name": "Fiesta Wraps",
+            "description": {
+                "general": "Soaks up the sting of sweat"
+            }
+        },
+        "balmySash": {
+            "name": "Balmy Sash",
+            "description": {
+                "general": "Also serves as a beach towel"
+            }
+        },
+        "charcoalJammies": {
+            "name": "Charcoal Jammies",
+            "description": {
+                "general": "Party all night long"
+            }
+        },
+        "groovesForMovin": {
+            "name": "Grooves for Movin'",
+            "description": {
+                "general": "Sleek on the deck and in the midst of danger"
+            }
         }
     }
 }

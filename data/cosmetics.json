@@ -25150,5 +25150,85 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "confettiCap": {
+        "id": "confettiCap",
+        "type": "headwear",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "sunkissedShades": {
+        "id": "sunkissedShades",
+        "type": "faceAccessory",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "smoothVest": {
+        "id": "smoothVest",
+        "type": "torso",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "toothyJoy": {
+        "id": "toothyJoy",
+        "type": "neck",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "fiestaWraps": {
+        "id": "fiestaWraps",
+        "type": "forearm",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "balmySash": {
+        "id": "balmySash",
+        "type": "waist",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "charcoalJammies": {
+        "id": "charcoalJammies",
+        "type": "bottom",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "groovesForMovin": {
+        "id": "groovesForMovin",
+        "type": "footwear",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
