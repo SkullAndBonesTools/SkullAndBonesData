@@ -17513,6 +17513,48 @@
             "description": {
                 "general": "Simply inimitable"
             }
+        },
+        "lawlessWays": {
+            "name": "Lawless Ways",
+            "description": {
+                "general": "Always a step ahead of the megacorporations"
+            }
+        },
+        "spinningSilver": {
+            "name": "Spinning Silver",
+            "description": {
+                "general": "\"Give the people what they want! For a pretty penny, of course.\""
+            }
+        },
+        "outOfReach": {
+            "name": "Out of Reach",
+            "description": {
+                "general": "You slippery devil, you"
+            }
+        },
+        "keepItFlowing": {
+            "name": "Keep It Flowing",
+            "description": {
+                "general": "\"Can't have our cups going empty, eh?\""
+            }
+        },
+        "pricelessSecrets": {
+            "name": "Priceless Secrets",
+            "description": {
+                "general": "\"Stuff the hold, fill our coffers.\""
+            }
+        },
+        "unbridled": {
+            "name": "Unbridled",
+            "description": {
+                "general": "As harsh and ferocious as the Indian Ocean itself"
+            }
+        },
+        "alwaysWatching": {
+            "name": "Always Watching",
+            "description": {
+                "general": "\"It's my ship, and my cargo, so hands off, ye' scurvy dogs!\""
+            }
         }
     }
 }

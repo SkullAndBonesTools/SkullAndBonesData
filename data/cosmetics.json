@@ -25059,5 +25059,78 @@
         "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "lawlessWays": {
+        "id": "lawlessWays",
+        "type": "sailsEmblem",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "spinningSilver": {
+        "id": "spinningSilver",
+        "type": "sailsPattern",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "outOfReach": {
+        "id": "outOfReach",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "keepItFlowing": {
+        "id": "keepItFlowing",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "pricelessSecrets": {
+        "id": "pricelessSecrets",
+        "type": "hull",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "unbridled": {
+        "id": "unbridled",
+        "type": "nameplate",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "alwaysWatching": {
+        "id": "alwaysWatching",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

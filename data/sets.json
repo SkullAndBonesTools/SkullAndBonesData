@@ -1266,5 +1266,9 @@
     "deathToPiracy": {
         "id": "deathToPiracy",
         "type": "player"
+    },
+    "bootlegBill": {
+        "id": "bootlegBill",
+        "type": "ship"
     }
 }
