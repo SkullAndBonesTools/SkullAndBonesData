@@ -284,5 +284,23 @@
         "id": "aLongMarch",
         "type": "convoy",
         "faction": "dutchMerchantCompany"
+    },
+    "theManicMoonshinerFleet": {
+        "id": "theManicMoonshinerFleet",
+        "type": "eliteWarship",
+        "faction": "pirates",
+        "event": "moonshineLarceny"
+    },
+    "deadMansMoonshine": {
+        "id": "deadMansMoonshine",
+        "type": "convoy",
+        "faction": "pirates",
+        "event": "moonshineLarceny"
+    },
+    "moonshineMadness": {
+        "id": "moonshineMadness",
+        "type": "convoy",
+        "faction": "pirates",
+        "event": "moonshineLarceny"
     }
 }
