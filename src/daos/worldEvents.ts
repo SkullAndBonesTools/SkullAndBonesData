@@ -1,5 +1,6 @@
 import worldEventsData from '../../data/worldEvents.json';
 import { WorldEventType } from '../types/WorldEventProperties';
+import { Event, Events } from './events';
 import { Faction, Factions } from './factions';
 
 export class WorldEvent {
@@ -7,14 +8,17 @@ export class WorldEvent {
         public readonly id: string,
         public readonly type: WorldEventType,
         public readonly faction?: Faction,
+        public readonly event?: Event
     ) {}
 
     public static fromRawData(rawData: any): WorldEvent {
         const faction = rawData.faction as keyof typeof Factions;
+        const event = rawData.event as keyof typeof Events;
         return new WorldEvent(
             rawData.id,
             rawData.type as WorldEventType,
-            faction ? Factions[faction] : undefined
+            faction ? Factions[faction] : undefined,
+            event ? Events[event] : undefined
         );
     }
 
