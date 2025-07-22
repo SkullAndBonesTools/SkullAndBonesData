@@ -2438,6 +2438,18 @@
             "description": {
                 "general": "A specialized station used to hone rocket barrels, resulting in faster shots."
             }
+        },
+        "moonshineChest": {
+            "name": "Moonshine Chest",
+            "description": {
+                "general": "A chest with the illicit wealth of the Moonshiners."
+            }
+        },
+        "moonshineStrongbox": {
+            "name": "Moonshine Strongbox",
+            "description": {
+                "general": "A chest with the illicit wealth of the Moonshiners."
+            }
         }
     }
 }

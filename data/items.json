@@ -12021,5 +12021,27 @@
         },
         "dateAdded": "2025-07-19",
         "lastUpdated": "2025-07-19"
+    },
+    "moonshineChest": {
+        "id": "moonshineChest",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": ["deadMansMoonshine","moonshineMadness"],
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "moonshineStrongbox": {
+        "id": "moonshineStrongbox",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": ["deadMansMoonshine","moonshineMadness","theManicMoonshinerFleet"],
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
