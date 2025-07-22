@@ -25141,5 +25141,14 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "wetMeGullet": {
+        "id": "wetMeGullet",
+        "type": "firework",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

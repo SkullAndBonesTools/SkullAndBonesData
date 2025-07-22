@@ -17561,6 +17561,12 @@
             "description": {
                 "general": "Only good tidings on the breeze"
             }
+        },
+        "wetMeGullet": {
+            "name": "Wet Me Gullet",
+            "description": {
+                "general": "\"Only thing better than rum is stolen rum!\""
+            }
         }
     }
 }
