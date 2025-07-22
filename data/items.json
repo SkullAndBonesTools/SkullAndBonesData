@@ -5458,18 +5458,24 @@
         "id": "dummySpringloader1",
         "rarity": "epic",
         "tier": 1,
-        "season": "chorusOfHavoc",
-        "obtainable": "theHelmSeasonal",
+        "season": "oathsOfWar",
+        "blueprint": "theHelmSeasonal",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
         "weight": 250,
         "required": {
-            "sovereigns": 400
+            "planetaryGearset": 10,
+            "torsionSpring": 8,
+            "rubber": 8,
+            "wyrmsBreath": 4,
+            "gannetDenseNiter": 1,
+            "orcaIntricateApparatus": 1,
+            "silver": 5760
         },
         "perks": ["dummySpringloader1"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "fatanaStation1": {
         "id": "fatanaStation1",
