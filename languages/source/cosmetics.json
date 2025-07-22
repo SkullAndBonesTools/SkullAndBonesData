@@ -17555,6 +17555,12 @@
             "description": {
                 "general": "\"It's my ship, and my cargo, so hands off, ye' scurvy dogs!\""
             }
+        },
+        "lightAsSummer": {
+            "name": "Light as Summer",
+            "description": {
+                "general": "Only good tidings on the breeze"
+            }
         }
     }
 }

@@ -25132,5 +25132,14 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "lightAsSummer": {
+        "id": "lightAsSummer",
+        "type": "aura",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
