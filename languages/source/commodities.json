@@ -279,6 +279,10 @@
         "pulsingSchaduwRemnant": {
             "name": "Pulsing Schaduw Remnant",
             "description": "Debris of the Schaduw, powered by Vikram's influence."
+        },
+        "grainFlare": {
+            "name": "Grain Flare",
+            "description": "Sorghum packed with explosive materials, tightly woven into a singular piece. Setting this off brings about the wrath of the Moonshiners."
         }
     }
 }

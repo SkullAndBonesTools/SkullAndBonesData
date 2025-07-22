@@ -342,5 +342,10 @@
         "rarity": "epic",
         "category": "unique",
         "faction": "shadowLegion"
+    },
+    "grainFlare": {
+        "rarity": "epic",
+        "category": "summoningBell",
+        "event": "moonshineLarceny"
     }
 }
