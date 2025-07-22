@@ -27,6 +27,11 @@
         "rarity": "common",
         "category": "currency"
     },
+    "illicitMoonshine": {
+        "rarity": "epic",
+        "category": "currency",
+        "event": "moonshineLarceny"
+    },
     "copperBars": {
         "rarity": "epic",
         "category": "helm"
