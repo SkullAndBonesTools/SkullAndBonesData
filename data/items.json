@@ -2023,8 +2023,9 @@
         "id": "twinWinchBallista",
         "type": "ballista",
         "rarity": "epic",
+        "season": "oathsOfWar",
         "requiredRank": "kingpin1",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonal",
         "value": 1,
         "weight": 750,
         "gearScore": 91,
@@ -2036,11 +2037,16 @@
         "projectileSpeed": 1150,
         "optimalRange": 1350,
         "required": {
-            "sovereigns": 400
+            "planetaryGearset": 16,
+            "torsionSpring": 8,
+            "precisionDrillingBit": 8,
+            "eelSturdyRopes": 1,
+            "orcaIntricateApparatus": 1,
+            "silver": 3960
         },
         "perks": ["doubleDraw", "piercing2"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-22"
     },
     "seaFire1": {
         "id": "seaFire1",
