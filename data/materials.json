@@ -5,40 +5,51 @@
     },
     "piecesOfEight": {
         "rarity": "legendary",
-        "category": "currency"
+        "category": "currency",
+        "faction": "theHelm"
     },
     "sovereigns": {
         "rarity": "legendary",
-        "category": "currency"
+        "category": "currency",
+        "faction": "theHelm"
     },
     "reapersToll": {
         "rarity": "common",
-        "category": "currency"
+        "category": "currency",
+        "faction": "theUnhallowed",
+        "event": "requiemOfTheLost"
     },
     "azuriteGem": {
         "rarity": "rare",
-        "category": "currency"
+        "category": "currency",
+        "faction": "azureFleet",
+        "event": "azureSolstice"
     },
     "halfTaels": {
         "rarity": "legendary",
-        "category": "currency"
+        "category": "currency",
+        "event": "enterTheNian"
     },
     "silverLions": {
         "rarity": "common",
-        "category": "currency"
+        "category": "currency",
+        "event": "theFounding"
     },
     "illicitMoonshine": {
         "rarity": "epic",
         "category": "currency",
+        "faction": "pirates",
         "event": "moonshineLarceny"
     },
     "copperBars": {
         "rarity": "epic",
-        "category": "helm"
+        "category": "helm",
+        "faction": "theHelm"
     },
     "gildmarks": {
         "rarity": "epic",
-        "category": "helm"
+        "category": "helm",
+        "faction": "theHelm"
     },
     "units": {
         "rarity": "common",
@@ -46,11 +57,13 @@
     },
     "jadeDragon": {
         "rarity": "common",
-        "category": "currency"
+        "category": "currency",
+        "event": "dragonsRegatta"
     },
     "cork": {
         "rarity": "common",
-        "category": "currency"
+        "category": "currency",
+        "event": "summerFiesta"
     },
     "gold": {
         "rarity": "legendary",
@@ -58,7 +71,8 @@
     },
     "bloodiedDoubloon": {
         "rarity": "common",
-        "category": "currency"
+        "category": "currency",
+        "event": "theHonorless"
     },
     "jute": {
         "rarity": "common",
