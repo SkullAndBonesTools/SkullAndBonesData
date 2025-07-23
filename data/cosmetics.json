@@ -25527,5 +25527,19 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "onTheDeck": {
+        "id": "onTheDeck",
+        "type": "firework",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "crossedDeck": {
+        "id": "crossedDeck",
+        "type": "firework",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

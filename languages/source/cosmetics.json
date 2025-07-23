@@ -17831,6 +17831,18 @@
             "description": {
                 "general": "Neither riches nor power can slow its march"
             }
+        },
+        "onTheDeck": {
+            "name": "On the Deck",
+            "description": {
+                "general": "Gather for plunder, mateys"
+            }
+        },
+        "crossedDeck": {
+            "name": "Crossed Deck",
+            "description": {
+                "general": "Here there be monsters"
+            }
         }
     }
 }
