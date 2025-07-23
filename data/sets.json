@@ -1274,5 +1274,33 @@
     "carnivalOfCool": {
         "id": "carnivalOfCool",
         "type": "player"
+    },
+    "emissaryOfDeath": {
+        "id": "emissaryOfDeath",
+        "type": "ship"
+    },
+    "godOfThunder": {
+        "id": "godOfThunder",
+        "type": "ship"
+    },
+    "mournfulTruth": {
+        "id": "mournfulTruth",
+        "type": "ship"
+    },
+    "divineSight": {
+        "id": "divineSight",
+        "type": "ship"
+    },
+    "legacyInBlood": {
+        "id": "legacyInBlood",
+        "type": "ship"
+    },
+    "gloryGuardians": {
+        "id": "gloryGuardians",
+        "type": "ship"
+    },
+    "doOrDie": {
+        "id": "doOrDie",
+        "type": "ship"
     }
 }
