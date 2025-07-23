@@ -2460,7 +2460,7 @@
         "ascendedEventCache": {
             "name": "Ascended Event Cache",
             "description": {
-                "general": "Contains an Ascended Event item."
+                "general": "Contains an Ascended Event weapon."
             }
         }
     }
