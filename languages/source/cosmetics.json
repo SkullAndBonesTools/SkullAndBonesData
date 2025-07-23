@@ -17783,6 +17783,30 @@
             "description": {
                 "general": "\"Far more than riches are at stake.\""
             }
+        },
+        "throneForTheDead": {
+            "name": "Throne for the Dead",
+            "description": {
+                "general": "The seas belong to the living"
+            }
+        },
+        "theGreatestDomain": {
+            "name": "The Greatest Domain",
+            "description": {
+                "general": "Spread your influence, make your mark"
+            }
+        },
+        "shorelineRush": {
+            "name": "Shoreline Rush",
+            "description": {
+                "general": "Feared at sea and on land"
+            }
+        },
+        "clawAndClamber": {
+            "name": "Claw and Clamber",
+            "description": {
+                "general": "Upon the backs of your enemies, you rose"
+            }
         }
     }
 }

@@ -25463,5 +25463,37 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "throneForTheDead": {
+        "id": "throneForTheDead",
+        "type": "sailsEmblem",
+        "set": "legacyInBlood",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "theGreatestDomain": {
+        "id": "theGreatestDomain",
+        "type": "sailsPattern",
+        "set": "legacyInBlood",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "shorelineRush": {
+        "id": "shorelineRush",
+        "type": "sailsColor",
+        "set": "legacyInBlood",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "clawAndClamber": {
+        "id": "clawAndClamber",
+        "type": "hull",
+        "set": "legacyInBlood",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
