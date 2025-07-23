@@ -2450,6 +2450,18 @@
             "description": {
                 "general": "A chest with the illicit wealth of the Moonshiners."
             }
+        },
+        "ascendedAshbreakerChest": {
+            "name": "Ascended Ashbreaker Chest",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
+        },
+        "ascendedEventCache": {
+            "name": "Ascended Event Cache",
+            "description": {
+                "general": "Contains an Ascended Event item."
+            }
         }
     }
 }
