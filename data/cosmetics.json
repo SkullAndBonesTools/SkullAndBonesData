@@ -25230,5 +25230,65 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "finalNotes": {
+        "id": "finalNotes",
+        "type": "sailsEmblem",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "restlessEmbrace": {
+        "id": "restlessEmbrace",
+        "type": "sailsPattern",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "theHeartHungers": {
+        "id": "theHeartHunger",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "fatalFolly": {
+        "id": "fatalFolly",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "stripAndStar": {
+        "id": "stripAndStar",
+        "type": "hull",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "forerunner": {
+        "id": "forerunner",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "behindSolemnity": {
+        "id": "behindSolemnity",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "emissaryOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

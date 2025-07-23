@@ -17615,6 +17615,48 @@
             "description": {
                 "general": "Sleek on the deck and in the midst of danger"
             }
+        },
+        "finalNotes": {
+            "name": "Final Notes",
+            "description": {
+                "general": "\"Allow me to sing you a fitting elegy.\""
+            }
+        },
+        "restlessEmbrace": {
+            "name": "Restless Embrace",
+            "description": {
+                "general": "\"In the end, hell awaits all us seadogs.\""
+            }
+        },
+        "theHeartHungers": {
+            "name": "The Heart Hungers",
+            "description": {
+                "general": "You are as twisted as they come"
+            }
+        },
+        "fatalFolly": {
+            "name": "Fatal Folly",
+            "description": {
+                "general": "The hubris of your enemies clings to you"
+            }
+        },
+        "stripAndScar": {
+            "name": "Strip and Scar",
+            "description": {
+                "general": "\"We no longer know who, or what, we are.\""
+            }
+        },
+        "forerunner": {
+            "name": "Forerunner",
+            "description": {
+                "general": "Bloody battle lures you, tempts you"
+            }
+        },
+        "behindSolemnity": {
+            "name": "Behind Solemnity",
+            "description": {
+                "general": "Be it one or a thousand corpses, it makes no difference"
+            }
         }
     }
 }
