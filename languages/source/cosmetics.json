@@ -17759,6 +17759,30 @@
             "description": {
                 "general": "Ambitions are not bound by fate"
             }
+        },
+        "pureFreedom": {
+            "name": "Pure Freedom",
+            "description": {
+                "general": "\"The one thing we will never surrender.\""
+            }
+        },
+        "topSpoils": {
+            "name": "Top Spoils",
+            "description": {
+                "general": "\"The crew's got sticky fingers after all.\""
+            }
+        },
+        "twilightSong": {
+            "name": "Twilight Song",
+            "description": {
+                "general": "\"Lads! A shanty, will ya'?\""
+            }
+        },
+        "everySoul": {
+            "name": "Every Soul",
+            "description": {
+                "general": "\"Far more than riches are at stake.\""
+            }
         }
     }
 }

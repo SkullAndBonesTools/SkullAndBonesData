@@ -25430,5 +25430,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "pureFreedom": {
+        "id": "pureFreedom",
+        "type": "sailsEmblem",
+        "set": "gloryGuardians",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "topSpoils": {
+        "id": "topSpoils",
+        "type": "sailsPattern",
+        "set": "gloryGuardians",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "twilightSong": {
+        "id": "twilightSong",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "gloryGuardians",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "everySoul": {
+        "id": "everySoul",
+        "type": "hull",
+        "set": "gloryGuardians",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
