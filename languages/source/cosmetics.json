@@ -17807,6 +17807,30 @@
             "description": {
                 "general": "Upon the backs of your enemies, you rose"
             }
+        },
+        "theStarsForetell": {
+            "name": "The Stars Foretell",
+            "description": {
+                "general": "The Indian Ocean will become even more divided"
+            }
+        },
+        "theInfiniteMind": {
+            "name": "The Infinite Mind",
+            "description": {
+                "general": "Both great and terrible things shall come to pass"
+            }
+        },
+        "fitfulDreams": {
+            "name": "Fitful Dreams",
+            "description": {
+                "general": "The whims of tomorrow remain in shadow"
+            }
+        },
+        "timeFlows": {
+            "name": "Time Flows",
+            "description": {
+                "general": "Neither riches nor power can slow its march"
+            }
         }
     }
 }

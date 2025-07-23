@@ -25495,5 +25495,37 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "theStarsForetell": {
+        "id": "theStarsForetell",
+        "type": "sailsEmblem",
+        "set": "divineSight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "theInfiniteMind": {
+        "id": "theInfiniteMind",
+        "type": "sailsPattern",
+        "set": "divineSight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "fitfulDreams": {
+        "id": "fitfulDreams",
+        "type": "sailsColor",
+        "set": "divineSight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "timeFlows": {
+        "id": "timeFlows",
+        "type": "hull",
+        "set": "divineSight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
