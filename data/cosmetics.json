@@ -25290,5 +25290,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "hammersWrath": {
+        "id": "hammersWrath",
+        "type": "sailsEmblem",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "sunderedMountains": {
+        "id": "sunderedMountains",
+        "type": "sailsPattern",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "throughTheFrost": {
+        "id": "throughTheFrost",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "sacredStrike": {
+        "id": "sacredStrike",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "realmTouched": {
+        "id": "realmTouched",
+        "type": "hull",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "thunderous": {
+        "id": "thunderous",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "stormsWhisper": {
+        "id": "stormsWhisper",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "godOfThunder",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

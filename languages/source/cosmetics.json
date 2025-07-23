@@ -17657,6 +17657,48 @@
             "description": {
                 "general": "Be it one or a thousand corpses, it makes no difference"
             }
+        },
+        "hammersWrath": {
+            "name": "Hammer's Wrath",
+            "description": {
+                "general": "Such might can be felt across oceans"
+            }
+        },
+        "sunderedMountains": {
+            "name": "Sundered Mountains",
+            "description": {
+                "general": "Some say you deal punishment. Others call it justice."
+            }
+        },
+        "throughTheFrost": {
+            "name": "Through the Frost",
+            "description": {
+                "general": "Even the fiercest cold simply strengthens your will"
+            }
+        },
+        "sacredStrike": {
+            "name": "Sacred Strike",
+            "description": {
+                "general": "Smite all who would stand in your path"
+            }
+        },
+        "realmTouched": {
+            "name": "Realm Touched",
+            "description": {
+                "general": "Confine not your legacy to the mortal world"
+            }
+        },
+        "thunderous": {
+            "name": "Thunderous",
+            "description": {
+                "general": "They say the rumbling skies are the hoofbeats of divine chariot-pullers"
+            }
+        },
+        "stormsWhisper": {
+            "name": "Storm's Whisper",
+            "description": {
+                "general": "As the mighty and fearsome roam, the wind trembles"
+            }
         }
     }
 }
