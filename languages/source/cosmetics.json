@@ -17699,6 +17699,18 @@
             "description": {
                 "general": "As the mighty and fearsome roam, the wind trembles"
             }
+        },
+        "blaze": {
+            "name": "Blaze",
+            "description": {
+                "general": "Squawks that crackle like flames"
+            }
+        },
+        "drakazor": {
+            "name": "Drakazor",
+            "description": {
+                "general": "His gaze burns like twin suns in shadowed skies"
+            }
         }
     }
 }

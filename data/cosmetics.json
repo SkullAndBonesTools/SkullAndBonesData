@@ -25350,5 +25350,19 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "blaze": {
+        "id": "blaze",
+        "type": "pet",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "drakazor": {
+        "id": "drakazor",
+        "type": "pet",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
