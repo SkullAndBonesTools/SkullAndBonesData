@@ -17735,6 +17735,30 @@
             "description": {
                 "general": "\"Our lives are worth less than dirt.\""
             }
+        },
+        "intoTomorrow": {
+            "name": "Into Tomorrow",
+            "description": {
+                "general": "May you battle and revel another day"
+            }
+        },
+        "aJauntyRattle": {
+            "name": "A Jaunty Rattle",
+            "description": {
+                "general": "The bones of the dead have much to tell"
+            }
+        },
+        "unpleasantTurn": {
+            "name": "Unpleasant Turn",
+            "description": {
+                "general": "Misfortune awaits, but whose?"
+            }
+        },
+        "silentOmens": {
+            "name": "Silent Omens",
+            "description": {
+                "general": "Ambitions are not bound by fate"
+            }
         }
     }
 }

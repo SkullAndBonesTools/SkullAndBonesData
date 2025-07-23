@@ -25397,5 +25397,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "intoTomorrow": {
+        "id": "intoTomorrow",
+        "type": "sailsEmblem",
+        "set": "doOrDie",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "aJauntyRattle": {
+        "id": "aJauntyRattle",
+        "type": "sailsPattern",
+        "set": "doOrDie",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "unpleasantTurn": {
+        "id": "unpleasantTurn",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "doOrDie",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "silentOmens": {
+        "id": "silentOmens",
+        "type": "hull",
+        "set": "doOrDie",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
