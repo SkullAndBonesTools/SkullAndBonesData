@@ -25248,7 +25248,7 @@
         "lastUpdated": "2025-07-22"
     },
     "theHeartHungers": {
-        "id": "theHeartHunger",
+        "id": "theHeartHungers",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "emissaryOfDeath",
