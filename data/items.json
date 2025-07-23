@@ -12064,5 +12064,33 @@
         "weight": 100,
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "ascendedAshbreakerChest": {
+        "id": "ascendedAshbreakerChest",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": "accountLedgerSainteAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "illicitMoonshine": 1800
+        },
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "ascendedEventCache": {
+        "id": "ascendedEventCache",
+        "rarity": "epic",
+        "type": "chest",
+        "event": "moonshineLarceny",
+        "worldEvent": "accountLedgerSainteAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "illicitMoonshine": 1350
+        },
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }
