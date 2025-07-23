@@ -25364,5 +25364,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "tippingPoint": {
+        "id": "tippingPoint",
+        "type": "sailsEmblem",
+        "set": "mournfulTruth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "barredWithin": {
+        "id": "barredWithin",
+        "type": "sailsPattern",
+        "set": "mournfulTruth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "warsGrip": {
+        "id": "warsGrip",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "mournfulTruth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
+    },
+    "lowestRungs": {
+        "id": "lowestRungs",
+        "type": "hull",
+        "set": "mournfulTruth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2025-07-22"
     }
 }

@@ -17711,6 +17711,30 @@
             "description": {
                 "general": "His gaze burns like twin suns in shadowed skies"
             }
+        },
+        "tippingPoint": {
+            "name": "Tipping Point",
+            "description": {
+                "general": "A spark is all it takes to incite war"
+            }
+        },
+        "barredWithin": {
+            "name": "Barred Within",
+            "description": {
+                "general": "The chase for freedom has no end"
+            }
+        },
+        "warsGrip": {
+            "name": "War's Grip",
+            "description": {
+                "general": "\"We will never escape this chaos.\""
+            }
+        },
+        "lowestRungs": {
+            "name": "Lowest Rungs",
+            "description": {
+                "general": "\"Our lives are worth less than dirt.\""
+            }
         }
     }
 }
