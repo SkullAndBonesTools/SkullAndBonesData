@@ -2643,8 +2643,8 @@
                 ]
             }
         },
-        "skyrender": {
-            "name": "Skyrender",
+        "skyrend": {
+            "name": "Skyrend",
             "description": {
                 "general": [
                     "Each volley of cannon fire on enemy sails has a chance of summoning a lightning strike that deals 5000 Electric Damage",
