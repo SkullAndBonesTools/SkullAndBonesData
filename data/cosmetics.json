@@ -25469,6 +25469,7 @@
         "id": "throneForTheDead",
         "type": "sailsEmblem",
         "set": "legacyInBlood",
+        "effect": "animated",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
