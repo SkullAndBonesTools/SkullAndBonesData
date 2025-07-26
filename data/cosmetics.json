@@ -25138,6 +25138,7 @@
         "type": "aura",
         "event": "moonshineLarceny",
         "season": "oathsOfWar",
+        "effect": "bossKillReactive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
