@@ -499,7 +499,7 @@
         "id": "lethal",
         "variants": [
             {
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","seaFire","torpedo","ballista"],
                 "range": [0.25, 0.41]
             }
         ],
@@ -624,7 +624,7 @@
         "id": "siege",
         "variants": [
             {
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","ballista"],
                 "range": [0.25, 0.41]
             }
         ],
@@ -726,7 +726,7 @@
         "id": "tearing",
         "variants": [
             {
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","ballista"],
                 "range": [0.25, 0.41]
             }
         ],
@@ -928,7 +928,7 @@
         "id": "sailRipper",
         "variants": [
             {
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","torpedo","ballista"],
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","ballista"],
                 "range": [2.25, 3.5]
             }
         ],
@@ -942,7 +942,7 @@
         "id": "winningStreak",
         "variants": [
             {
-                "itemType": ["longGun","culverin","rocket","seaFire","bombard","torpedo","ballista"],
+                "itemType": ["longGun","culverin","seaFire","torpedo","ballista"],
                 "range": [0.2, 0.4]
             }
         ],
