@@ -11,6 +11,7 @@ export class Item {
     constructor(
         public readonly id: string,
         public readonly type: GeneralType | WeaponType | FurnitureType,
+        public readonly season: Season,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly tier?: Tier,
@@ -29,7 +30,6 @@ export class Item {
         public readonly requiredRank?: string,
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
-        public readonly season?: Season,
         public readonly obtainable?: string | string[],
         public readonly event?: Event,
         public readonly worldEvent?: WorldEvent | WorldEvent[],
@@ -56,6 +56,7 @@ export class Item {
         return new Item(
             rawData.id,
             rawData.type,
+            Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
             rawData.tier,
@@ -74,7 +75,6 @@ export class Item {
             rawData.requiredRank ?? undefined,
             rawData.perks ?? [],
             rawData.rarity ?? undefined,
-            rawData.season ? Seasons[season] : undefined,
             rawData.obtainable ?? undefined,
             rawData.event ? Events[event] : undefined,
             worldEvent ?? undefined,
