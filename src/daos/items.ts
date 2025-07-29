@@ -30,6 +30,7 @@ export class Item {
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
         public readonly season?: Season,
+        public readonly introducedSeason?: Season,
         public readonly obtainable?: string | string[],
         public readonly event?: Event,
         public readonly worldEvent?: WorldEvent | WorldEvent[],
@@ -40,6 +41,7 @@ export class Item {
 
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
+        const introducedSeason = rawData.introducedSeason as keyof typeof Seasons;
         const event = rawData.event as keyof typeof Events;
         const contract = rawData.contract as keyof typeof Contracts;
         const worldEvent = Array.isArray(rawData.worldEvent)
@@ -75,6 +77,7 @@ export class Item {
             rawData.perks ?? [],
             rawData.rarity ?? undefined,
             rawData.season ? Seasons[season] : undefined,
+            rawData.introducedSeason ? Seasons[introducedSeason] : undefined,
             rawData.obtainable ?? undefined,
             rawData.event ? Events[event] : undefined,
             worldEvent ?? undefined,
