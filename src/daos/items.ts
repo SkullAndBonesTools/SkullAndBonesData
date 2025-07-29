@@ -90,7 +90,7 @@ export class Item {
             const obtainable = new Array<string | Item>();
             for(const obtainableKey of rawData.obtainable) {
                 const obtainableItem = items[obtainableKey];
-                if (obtainableItem) {
+                if (obtainableItem && obtainableItem.type === "chest") {
                     obtainable.push(obtainableItem);
                 } else {
                     obtainable.push(obtainableKey);
