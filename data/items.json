@@ -5256,8 +5256,8 @@
         "id": "fauleIlse",
         "type": "demicannon",
         "rarity": "epic",
-        "season": "chorusOfHavoc",
-        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
+        "obtainable": "theHelmSeasonChorusOfHavoc",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -5268,11 +5268,16 @@
         "optimalRange": 250,
         "projectileSpeed": 400,
         "required": {
-            "sovereigns": 350
+            "magnetiteIngot": 16,
+            "lacquer": 4,
+            "plateGlass": 4,
+            "sinewString": 2,
+            "orcasMechanism": 1,
+            "silver": 3300
         },
         "perks": ["piercing3","ricochet"],
         "dateAdded": "2024-05-25",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-29"
     },
     "laPiqure1": {
         "id": "laPiqure1",
