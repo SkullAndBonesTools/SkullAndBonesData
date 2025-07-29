@@ -30,7 +30,7 @@ export class Item {
         public readonly requiredRank?: string,
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
-        public obtainable?: string | Item | Array<string | Item>,
+        public obtainable?: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string>,
         public readonly event?: Event,
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
@@ -99,7 +99,7 @@ export class Item {
             items[key].obtainable = obtainable;
         } else {
             const obtainableItem = items[rawData.obtainable];
-            if (obtainableItem) {
+            if (obtainableItem && obtainableItem.type === "chest") {
                 items[key].obtainable = obtainableItem;
             }
         }

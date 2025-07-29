@@ -3,6 +3,7 @@ import { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticTyp
 import { Rarity } from '../types/Rarity';
 import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
+import { Item, Items } from './items';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
 import { Set, Sets } from './sets';
@@ -17,7 +18,7 @@ export class Cosmetic {
         public readonly rarity?: Rarity,
         public readonly tier?: number,
         public readonly set?: Set,
-        public readonly obtainable?: string | string[] | Array<string | string[]>,
+        public readonly obtainable?: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string>,
         public readonly effect?: CosmeticEffect | CosmeticEffect[],
         public readonly season?: Season,
         public readonly contract?: Contract,
@@ -45,6 +46,24 @@ export class Cosmetic {
                 required.set(Materials[requiredMaterial], quantity as number);
             }
         }
+        let obtainable = rawData.obtainable ?? undefined;
+        if(Array.isArray(obtainable)) {
+            const _obtainable = new Array<string | Item>();
+            for(const obtainableKey of rawData.obtainable as Array<keyof typeof Items>) {
+                const obtainableItem = Items[obtainableKey];
+                if (obtainableItem && obtainableItem.type === "chest") {
+                    _obtainable.push(obtainableItem);
+                } else {
+                    _obtainable.push(obtainableKey);
+                }
+            }
+            obtainable = _obtainable;
+        } else if(obtainable) {
+            const obtainableItem = Items[rawData.obtainable as keyof typeof Items];
+            if (obtainableItem && obtainableItem.type === "chest") {
+                obtainable = obtainableItem;
+            }
+        }
         
         return new Cosmetic(
             rawData.id,
@@ -54,7 +73,7 @@ export class Cosmetic {
             rawData.rarity as Rarity ?? undefined,
             rawData.tier ?? undefined,
             rawData.set ? Sets[set] : undefined,
-            rawData.obtainable ?? undefined,
+            obtainable,
             rawData.effect ?? undefined,
             rawData.season ? Seasons[season] : undefined,
             rawData.contract ? Contracts[contract] : undefined,
