@@ -25544,5 +25544,37 @@
         "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
+    },
+    "centerOfMadness": {
+        "id": "centerOfMadness",
+        "type": "sailsEmblem",
+        "set": "devilsMirth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-29",
+        "lastUpdated": "2025-07-29"
+    },
+    "bitingHooks": {
+        "id": "bitingHooks",
+        "type": "sailsPattern",
+        "set": "devilsMirth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-29",
+        "lastUpdated": "2025-07-29"
+    },
+    "fillOfFortune": {
+        "id": "fillOfFortune",
+        "type": "sailsColor",
+        "set": "devilsMirth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-29",
+        "lastUpdated": "2025-07-29"
+    },
+    "theRestlessFree": {
+        "id": "theRestlessFree",
+        "type": "hull",
+        "set": "devilsMirth",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-07-29",
+        "lastUpdated": "2025-07-29"
     }
 }

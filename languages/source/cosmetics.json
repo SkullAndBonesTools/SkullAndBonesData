@@ -17843,6 +17843,30 @@
             "description": {
                 "general": "Here there be monsters"
             }
+        },
+        "centerOfMadness": {
+            "name": "Center of Madness",
+            "description": {
+                "general": "You sail the chaos, all with a smile"
+            }
+        },
+        "bitingHooks": {
+            "name": "Biting Hooks",
+            "description": {
+                "general": "\"The more you struggle, the worse it ges for you.\""
+            }
+        },
+        "fillOfFortune": {
+            "name": "Fill of Fortune",
+            "description": {
+                "general": "You relish taking every last coin"
+            }
+        },
+        "theRestlessFree": {
+            "name": "The Restless Free",
+            "description": {
+                "general": "True madness is wasting away one's life and liberty"
+            }
         }
     }
 }

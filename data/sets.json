@@ -1302,5 +1302,9 @@
     "doOrDie": {
         "id": "doOrDie",
         "type": "ship"
+    },
+    "devilsMirth": {
+        "id": "devilsMirth",
+        "type": "ship"
     }
 }
