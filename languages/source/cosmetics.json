@@ -17867,6 +17867,12 @@
             "description": {
                 "general": "True madness is wasting away one's life and liberty"
             }
+        },
+        "greedyGoblin": {
+            "name": "Greedy Goblin",
+            "description": {
+                "general": ""
+            }
         }
     }
 }
