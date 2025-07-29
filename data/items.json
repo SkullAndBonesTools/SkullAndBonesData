@@ -13395,10 +13395,10 @@
         "season": "oathsOfWar",
         "type": "consumable",
         "event": "moonshineLarceny",
+        "worldEvent": "theManicMoonshinerFleet",
         "value": 1,
         "weight": 10,
         "buffDuration": 20,
-        "obtainable": "",
         "perks": [
             "poseidonsBrew"
         ],
