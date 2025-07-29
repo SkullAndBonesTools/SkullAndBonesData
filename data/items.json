@@ -6016,7 +6016,7 @@
         },
         "perks": ["medicineCabinet"],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-29"
     },
     "compagnieSpiritsLocker": {
         "id": "compagnieSpiritsLocker",
@@ -8015,14 +8015,23 @@
         "rarity": "epic",
         "weight": 80,
         "gearScore": 25,
-        "season": "chorusOfHavoc",
+        "introducedSeason": "chorusOfHavoc",
         "bounty": "chorusOfHavoc",
         "worldEvent": "chorusOfHavoc",
         "obtainable": ["chorusFleetStrongbox","williamBlackwoodRotatingStore"],
-        "required": {},
+        "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
+        "required": {
+            "magnetiteIngot": 10,
+            "blackAriaShipPart": 8,
+            "whiteAriaShipPart": 8,
+            "hubacHeirloom": 4,
+            "orcasMechanism": 1,
+            "wyrmsBreath": 1,
+            "silver": 3600
+        },
         "perks": ["hubacTuningRack"],
         "dateAdded": "2024-07-13",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-07-29"
     },
     "machinistStationMines1": {
         "id": "machinistStationMines1",
