@@ -237,6 +237,7 @@
         "twitchDropStartYear2Season2": "Twitch Drops at the start of {{oathsOfWar}}",
         "rempahMerchant": "Rempah Merchant",
         "accountLedgerSainteAnne": "Is/was purchasable at the Account Ledger during the Event in Sainte-Anne",
-        "defeatingMoonshiners": "Obtained when defeating enemies of the Moonshiners (Pirate) faction"
+        "defeatingMoonshiners": "Obtained when defeating enemies of the Moonshiners (Pirate) faction",
+        "twitchDropChargingCharlie": "Time-limited twitch drop during a livestream from Charging_Charlie"
     }
 }

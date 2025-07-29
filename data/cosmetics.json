@@ -25576,5 +25576,12 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-07-29",
         "lastUpdated": "2025-07-29"
+    },
+    "greedyGoblin": {
+        "id": "greedyGoblin",
+        "type": "sailsEmblem",
+        "obtainable": "twitchDropChargingCharlie",
+        "dateAdded": "2025-07-29",
+        "lastUpdated": "2025-07-29"
     }
 }
