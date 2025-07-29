@@ -2,7 +2,7 @@
     "culverin1": {
         "id": "culverin1",
         "type": "culverin",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "blueprint": "denSaintAnne",
         "value": 1,
@@ -24,7 +24,7 @@
     "culverin2": {
         "id": "culverin2",
         "type": "culverin",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "blueprint": "denSaintAnne",
         "requiredRank": "rover1",
@@ -48,7 +48,7 @@
     "culverin3": {
         "id": "culverin3",
         "type": "culverin",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "blueprint": "outpostPoachersCache",
         "requiredRank": "buccaneer1",
@@ -73,7 +73,7 @@
     "culverin4": {
         "id": "culverin4",
         "type": "culverin",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "blueprint": "blacksmithTelokPenjarah",
         "requiredRank": "marauder1",
@@ -99,7 +99,7 @@
     "culverin5": {
         "id": "culverin5",
         "type": "culverin",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostMoyenneCrique",
         "tier": 5,
@@ -128,7 +128,7 @@
         "type": "culverin",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostSacredTree",
         "value": 1,
@@ -157,7 +157,7 @@
         "type": "culverin",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostSacredTree",
         "requiredRank": "brigand1",
         "value": 1,
@@ -187,7 +187,7 @@
         "type": "culverin",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "cutthroat1",
         "value": 1,
@@ -218,7 +218,7 @@
         "type": "culverin",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostRoyalBurialGround",
         "requiredRank": "buccaneer1",
         "value": 1,
@@ -247,7 +247,7 @@
         "type": "culverin",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostRoyalBurialGround",
         "requiredRank": "corsair1",
         "value": 1,
@@ -278,7 +278,7 @@
         "type": "culverin",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "value": 1,
@@ -309,7 +309,7 @@
         "id": "carronade",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
@@ -342,7 +342,7 @@
     "demicannon1": {
         "id": "demicannon1",
         "type": "demicannon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "blueprint": "denSaintAnne",
         "value": 1,
@@ -366,7 +366,7 @@
     "demicannon2": {
         "id": "demicannon2",
         "type": "demicannon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "requiredRank": "rover1",
@@ -391,7 +391,7 @@
     "demicannon3": {
         "id": "demicannon3",
         "type": "demicannon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "blueprint": "outpostPoachersCache",
         "requiredRank": "buccaneer1",
@@ -417,7 +417,7 @@
     "demicannon4": {
         "id": "demicannon4",
         "type": "demicannon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "blueprint": "outpostTheRuinedLighthouse",
         "requiredRank": "marauder1",
@@ -444,7 +444,7 @@
     "demicannon5": {
         "id": "demicannon5",
         "type": "demicannon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "blueprint": "outpostReturnFleetBight",
         "requiredRank": "cutthroat1",
@@ -473,7 +473,7 @@
         "type": "demicannon",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostTheNavigatorsCross",
         "value": 1,
@@ -501,7 +501,7 @@
         "type": "demicannon",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostTheNavigatorsCross",
         "requiredRank": "brigand1",
         "value": 1,
@@ -531,7 +531,7 @@
         "type": "demicannon",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "cutthroat1",
         "value": 1,
@@ -562,7 +562,7 @@
         "type": "demicannon",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostEldersCave",
         "requiredRank": "buccaneer1",
         "value": 1,
@@ -592,7 +592,7 @@
         "type": "demicannon",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostEldersCave",
         "requiredRank": "corsair1",
         "value": 1,
@@ -624,7 +624,7 @@
         "type": "demicannon",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "value": 1,
@@ -655,7 +655,7 @@
         "id": "cannonballCrate",
         "blueprint": "denSaintAnne",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 25,
         "weight": 100,
         "required": {
@@ -670,7 +670,7 @@
         "requiredRank": "scoundrel1",
         "blueprint": "outpostDragonsBack",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 120,
         "required": {
@@ -685,7 +685,7 @@
         "id": "ballistaBoltCrate",
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "marauder1",
         "value": 1,
         "weight": 40,
@@ -703,7 +703,7 @@
         "requiredRank": "brigand1",
         "blueprint": "outpostKhmoyEstate",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 60,
         "required": {
@@ -720,7 +720,7 @@
         "requiredRank": "brigand1",
         "blueprint": "outpostTheNecropolis",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 60,
         "required": {
@@ -737,7 +737,7 @@
         "requiredRank": "marauder1",
         "blueprint": "outpostLostCityOfPrei",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 100,
         "required": {
@@ -754,7 +754,7 @@
         "requiredRank": "freebooter1",
         "blueprint": "outpostKaaMangrove",
         "type": "ammunition",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 120,
         "required": {
@@ -771,7 +771,7 @@
         "tier": 1,
         "blueprint": "denSaintAnne",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 27,
@@ -797,7 +797,7 @@
         "blueprint": "outpostRoyalBurialGround",
         "requiredRank": "rover1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 54,
@@ -824,7 +824,7 @@
         "blueprint": "outpostTheNavigatorsCross",
         "requiredRank": "buccaneer1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 108,
@@ -852,7 +852,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "requiredRank": "marauder1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 164,
@@ -880,7 +880,7 @@
         "blueprint": "outpostDutchmansCamp",
         "requiredRank": "cutthroat1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 216,
@@ -914,7 +914,7 @@
             ]
         ],
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 525,
         "weight": 500,
         "gearScore": 27,
@@ -940,7 +940,7 @@
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "requiredRank": "rover1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 54,
@@ -967,7 +967,7 @@
         "blueprint": "outpostPoachersCache",
         "requiredRank": "buccaneer1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 108,
@@ -995,7 +995,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "requiredRank": "marauder1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 164,
@@ -1023,7 +1023,7 @@
         "blueprint": "outpostReturnFleetBight",
         "requiredRank": "cutthroat1",
         "type": "armor",
-        "introducedSeason": "release",
+        "season": "release",
         "value": 1,
         "weight": 500,
         "gearScore": 216,
@@ -1050,7 +1050,7 @@
         "id": "laForteresse1",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostKaaMangrove",
         "type": "armor",
@@ -1078,7 +1078,7 @@
         "id": "laForteresse2",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "outpostEldersCave",
         "type": "armor",
@@ -1107,7 +1107,7 @@
         "id": "laForteresse3",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostMotherOfShipwrecks",
         "type": "armor",
@@ -1137,7 +1137,7 @@
         "id": "theBastion1",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostGreatUkuta",
         "type": "armor",
@@ -1165,7 +1165,7 @@
         "id": "theBastion2",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "outpostLostCityOfPrei",
         "type": "armor",
@@ -1194,7 +1194,7 @@
         "id": "theBastion3",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostMoyenneCrique",
         "type": "armor",
@@ -1224,7 +1224,7 @@
         "id": "gambaKobe1",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostVoronaFalls",
         "requiredRank": "corsair1",
         "type": "armor",
@@ -1256,7 +1256,7 @@
         "id": "gambaKobe2",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "armor",
@@ -1289,7 +1289,7 @@
         "id": "kawaca1",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostKhmoyEstate",
         "requiredRank": "corsair1",
         "type": "armor",
@@ -1321,7 +1321,7 @@
         "id": "kawaca2",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "armor",
@@ -1353,7 +1353,7 @@
     "blackPrince": {
         "id": "blackPrince",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "personScurlockSainteAnne",
         "requiredRank": "kingpin1",
         "type": "armor",
@@ -1385,7 +1385,7 @@
     "ouroboros": {
         "id": "ouroboros",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "requiredRank": "kingpin1",
         "type": "armor",
@@ -1418,7 +1418,7 @@
     "wrathfulWard": {
         "id": "wrathfulWard",
         "rarity": "epic",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "requiredRank": "kingpin1",
         "blueprint": "williamBlackwoodRotatingStore",
         "obtainable": [
@@ -1455,7 +1455,7 @@
     "wailingWard": {
         "id": "wailingWard",
         "rarity": "epic",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "requiredRank": "kingpin1",
         "blueprint": "williamBlackwoodRotatingStore",
         "obtainable": [
@@ -1492,7 +1492,7 @@
     "royalCustodian": {
         "id": "royalCustodian",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "obtainable": "worldEventMerchantConvoy",
         "blueprint": "theHelm",
@@ -1527,7 +1527,7 @@
         "type": "mortar",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "blacksmithTelokPenjarah",
         "value": 1,
@@ -1559,7 +1559,7 @@
         "type": "mortar",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostTheForgottonCandi",
         "value": 1,
@@ -1592,7 +1592,7 @@
         "type": "mortar",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -1625,7 +1625,7 @@
         "type": "mortar",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostKhmoyEstate",
         "value": 1,
@@ -1656,7 +1656,7 @@
         "type": "mortar",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostKhmoyEstate",
         "value": 1,
@@ -1688,7 +1688,7 @@
         "type": "mortar",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -1721,7 +1721,7 @@
         "type": "mortar",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostTheNecropolis",
         "value": 1,
@@ -1753,7 +1753,7 @@
         "type": "mortar",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostTheNecropolis",
         "value": 1,
@@ -1787,7 +1787,7 @@
         "type": "mortar",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -1820,7 +1820,7 @@
         "id": "leFleau",
         "type": "mortar",
         "rarity": "epic",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "requiredRank": "kingpin1",
         "obtainable": "theHelmSeasonal",
         "value": 1,
@@ -1848,7 +1848,7 @@
         "id": "rocket1",
         "type": "rocket",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "requiredRank": "marauder1",
         "blueprint": "blacksmithTelokPenjarah",
@@ -1877,7 +1877,7 @@
         "id": "rocket2",
         "type": "rocket",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "requiredRank": "corsair1",
         "blueprint": "outpostRuinsOfLukKhun",
@@ -1908,7 +1908,7 @@
         "id": "rocket3",
         "type": "rocket",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
@@ -1940,7 +1940,7 @@
         "type": "rocket",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostTheRuinedLighthouse",
         "value": 1,
@@ -1972,7 +1972,7 @@
         "type": "rocket",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostKhmoyEstate",
         "value": 1,
@@ -2005,7 +2005,7 @@
         "type": "rocket",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -2038,7 +2038,7 @@
         "type": "ballista",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredSize": "medium",
         "requiredRank": "marauder1",
         "blueprint": "blacksmithTelokPenjarah",
@@ -2069,7 +2069,7 @@
         "type": "ballista",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredSize": "medium",
         "requiredRank": "corsair1",
         "blueprint": "outpostKelelawarChamber",
@@ -2102,7 +2102,7 @@
         "type": "ballista",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredSize": "medium",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
@@ -2136,7 +2136,7 @@
         "type": "ballista",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "value": 1,
@@ -2169,7 +2169,7 @@
         "type": "ballista",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "value": 1,
@@ -2203,7 +2203,7 @@
         "type": "ballista",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "value": 1,
@@ -2236,7 +2236,7 @@
         "id": "twinWinchBallista",
         "type": "ballista",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "obtainable": "theHelmSeasonal",
         "blueprint": "theHelmSeasonOathsOfWar",
@@ -2270,7 +2270,7 @@
         "type": "seaFire",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "blacksmithTelokPenjarah",
         "value": 1,
@@ -2300,7 +2300,7 @@
         "type": "seaFire",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostKhmoyEstate",
         "value": 1,
@@ -2331,7 +2331,7 @@
         "type": "seaFire",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -2363,7 +2363,7 @@
         "type": "seaFire",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostSunkenGoldmine",
         "value": 1,
@@ -2394,7 +2394,7 @@
         "type": "seaFire",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostKaaMangrove",
         "value": 1,
@@ -2427,7 +2427,7 @@
         "type": "seaFire",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "theHelm",
         "value": 1,
@@ -2461,7 +2461,7 @@
         "contract": "oceansApart",
         "worldEvent": "anguishFromTheAbyss",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "outpostTheOubliette",
         "value": 1,
@@ -2492,7 +2492,7 @@
     "grilledBeef": {
         "id": "grilledBeef",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 2,
         "required": {
             "rawBeef": 1
@@ -2506,7 +2506,7 @@
     "grilledCoconut": {
         "id": "grilledCoconut",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 3,
         "required": {
             "coconut": 1
@@ -2520,7 +2520,7 @@
     "grilledFish": {
         "id": "grilledFish",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 4,
         "required": {
             "fish": 1
@@ -2535,7 +2535,7 @@
         "id": "grilledCrocodile",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 8,
         "required": {
             "crocodileMeat": 1
@@ -2550,7 +2550,7 @@
         "id": "grilledShark",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 8,
         "required": {
             "sharkMeat": 1
@@ -2564,7 +2564,7 @@
     "grilledMutton": {
         "id": "grilledMutton",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "weight": 8,
         "required": {
@@ -2579,7 +2579,7 @@
     "grilledDurian": {
         "id": "grilledDurian",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "weight": 10,
         "required": {
@@ -2594,7 +2594,7 @@
     "grilledChicken": {
         "id": "grilledChicken",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "rover1",
         "weight": 10,
         "required": {
@@ -2609,7 +2609,7 @@
     "grilledBread": {
         "id": "grilledBread",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 2,
         "required": {
             "flour": 1
@@ -2623,7 +2623,7 @@
     "grilledBanana": {
         "id": "grilledBanana",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "rover1",
         "weight": 6,
         "required": {
@@ -2638,7 +2638,7 @@
     "grilledPrimeHippo": {
         "id": "grilledPrimeHippo",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 12,
         "required": {
             "primeHippoMeat": 1
@@ -2652,7 +2652,7 @@
     "grilledPrimeCrocodile": {
         "id": "grilledPrimeCrocodile",
         "type": "consumable",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "weight": 12,
         "required": {
             "primeCrocodileMeat": 1
@@ -2666,7 +2666,7 @@
     "tylosaurusSteak": {
         "id": "tylosaurusSteak",
         "type": "consumable",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "weight": 12,
         "required": {
             "tylosaurusFlesh": 1
@@ -2680,7 +2680,7 @@
     "grilledScrewpine": {
         "id": "grilledScrewpine",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "weight": 10,
         "required": {
@@ -2695,7 +2695,7 @@
     "grilledVegetables": {
         "id": "grilledVegetables",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "scoundrel1",
         "weight": 4,
         "required": {
@@ -2711,7 +2711,7 @@
         "id": "grilledHippo",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 8,
         "required": {
             "hippoMeat": 1
@@ -2726,7 +2726,7 @@
         "id": "varyBeMenaka",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 23,
         "required": {
@@ -2744,7 +2744,7 @@
         "id": "godrogodro",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 10,
         "required": {
@@ -2761,7 +2761,7 @@
         "id": "trondroGasy",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "buffDuration": 1800,
         "weight": 24,
         "required": {
@@ -2779,7 +2779,7 @@
         "id": "ndiziNaNyama",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 28,
         "required": {
@@ -2797,7 +2797,7 @@
         "id": "ragout",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 41,
         "contract": "boTelORhum",
@@ -2823,7 +2823,7 @@
         "id": "sateKambing",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 28,
         "required": {
@@ -2840,7 +2840,7 @@
         "id": "bitterballen",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "contract": "cutthroatJacks",
         "blueprint": [
             [
@@ -2866,7 +2866,7 @@
         "id": "mchuziWaKuharibu",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "buffDuration": 1800,
         "weight": 30,
         "required": {
@@ -2884,7 +2884,7 @@
         "id": "ronakoho",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostTheForgottonCandi",
         "requiredRank": "corsair1",
         "buffDuration": 1800,
@@ -2905,7 +2905,7 @@
         "id": "otakOtak",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "buffDuration": 1800,
         "weight": 30,
         "required": {
@@ -2922,7 +2922,7 @@
     "firstAidStation": {
         "id": "firstAidStation",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "rover1",
         "blueprint": "outpostVoronaFalls",
         "type": "majorFurniture",
@@ -2943,7 +2943,7 @@
     "ropeLocker": {
         "id": "ropeLocker",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "rover1",
         "blueprint": "contractReward",
         "contract": "armsAndGuns",
@@ -2966,7 +2966,7 @@
     "scopingStation": {
         "id": "scopingStation",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "denSaintAnne",
         "type": "majorFurniture",
@@ -2991,7 +2991,7 @@
     "scrapperStation": {
         "id": "scrapperStation",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "outpostParujarsCry",
         "type": "majorFurniture",
@@ -3013,7 +3013,7 @@
     "signalGong": {
         "id": "signalGong",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "buccaneer1",
         "blueprint": "denSaintAnne",
         "type": "majorFurniture",
@@ -3035,7 +3035,7 @@
     "warDrums": {
         "id": "warDrums",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "obtainable": "theHelm",
         "requiredRank": "cutthroat1",
         "type": "majorFurniture",
@@ -3054,7 +3054,7 @@
     "megaphone": {
         "id": "megaphone",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "buccaneer1",
         "blueprint": "denSaintAnne",
         "type": "majorFurniture",
@@ -3076,7 +3076,7 @@
     "munitionsMixer": {
         "id": "munitionsMixer",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "denTelokPenjarah",
         "requiredRank": "corsair1",
         "type": "majorFurniture",
@@ -3099,7 +3099,7 @@
     "ironCapstan": {
         "id": "ironCapstan",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "denTelokPenjarah",
         "requiredRank": "corsair1",
         "type": "majorFurniture",
@@ -3122,7 +3122,7 @@
     "riggingStation": {
         "id": "riggingStation",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "majorFurniture",
@@ -3147,7 +3147,7 @@
     "gunnersQuadrant": {
         "id": "gunnersQuadrant",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelm",
         "requiredRank": "kingpin1",
         "type": "majorFurniture",
@@ -3172,7 +3172,7 @@
     "waterTank": {
         "id": "waterTank",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "obtainable": "theHelm",
         "requiredRank": "cutthroat1",
         "type": "majorFurniture",
@@ -3194,7 +3194,7 @@
         "blueprint": "outpostKhmoyEstate",
         "requiredRank": "marauder1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3217,7 +3217,7 @@
         "requiredRank": "rover1",
         "blueprint": "outpostRoyalBurialGround",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3238,7 +3238,7 @@
         "blueprint": "theHelm",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3262,7 +3262,7 @@
         "blueprint": "theHelm",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3286,7 +3286,7 @@
         "blueprint": "theHelm",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3315,7 +3315,7 @@
             ]
         ],
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3340,7 +3340,7 @@
         "requiredRank": "rover1",
         "blueprint": "outpostFortLouis",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3360,7 +3360,7 @@
         "blueprint": "outpostBukkitCandi",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "gearScore": 15,
         "value": 1,
@@ -3385,7 +3385,7 @@
         "requiredRank": "rover1",
         "blueprint": "outpostSacredTree",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3406,7 +3406,7 @@
         "blueprint": "theHelm",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3431,7 +3431,7 @@
         "blueprint": "outpostLostCityOfPrei",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3455,7 +3455,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "outpostSunkenGoldmine",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3477,7 +3477,7 @@
         "blueprint": "outpostThreeBrothers",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3502,7 +3502,7 @@
         "blueprint": "outpostRangnokCave",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3527,7 +3527,7 @@
         "requiredRank": "rover1",
         "blueprint": "denSaintAnne",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3548,7 +3548,7 @@
         "requiredRank": "marauder1",
         "blueprint": "denTelokPenjarah",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 200,
@@ -3571,7 +3571,7 @@
         "requiredRank": "rover1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3592,7 +3592,7 @@
         "requiredRank": "rover1",
         "blueprint": "denSaintAnne",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3613,7 +3613,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "outpostKaaMangrove",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3635,7 +3635,7 @@
         "blueprint": "outpostTheNecropolis",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3659,7 +3659,7 @@
         "requiredRank": "cutthroat1",
         "blueprint": "theHelm",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -3684,7 +3684,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "outpostRuinsOfLukKhun",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3706,7 +3706,7 @@
         "requiredRank": "rover1",
         "blueprint": "denSaintAnne",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3727,7 +3727,7 @@
         "blueprint": "outpostKhmoyEstate",
         "requiredRank": "corsair1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3751,7 +3751,7 @@
         "blueprint": "theHelm",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3776,7 +3776,7 @@
         "blueprint": "outpostMotherOfShipwrecks",
         "requiredRank": "rover1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3797,7 +3797,7 @@
         "blueprint": "outpostDutchmansCamp",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3822,7 +3822,7 @@
         "blueprint": "outpostKokokTerapung",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3847,7 +3847,7 @@
         "blueprint": "outpostReturnFleetBight",
         "requiredRank": "cutthroat1",
         "type": "offensiveFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -3870,7 +3870,7 @@
         "id": "repairKit1",
         "blueprint": "denSaintAnne",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "weight": 10,
         "required": {
@@ -3884,7 +3884,7 @@
         "id": "repairKit2",
         "requiredRank": "rover1",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "blueprint": "outpostVoronaFalls",
         "weight": 30,
@@ -3899,7 +3899,7 @@
         "id": "repairKit3",
         "requiredRank": "brigand1",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
@@ -3915,7 +3915,7 @@
         "id": "enhancedRepairKit1",
         "requiredRank": "marauder1",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "blueprint": "denTelokPenjarah",
         "weight": 50,
@@ -3929,7 +3929,7 @@
         "id": "enhancedRepairKit2",
         "requiredRank": "corsair1",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "blueprint": "outpostKarstLookout",
         "weight": 150,
@@ -3943,7 +3943,7 @@
         "id": "enhancedRepairKit3",
         "requiredRank": "cutthroat1",
         "type": "consumable",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "blueprint": "outpostGrandeFalaise",
         "weight": 250,
@@ -3959,7 +3959,7 @@
         "blueprint": "contractReward",
         "contract": "unwelcomeAboard",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "weight": 50,
         "required": {
             "metalSalvage": 1,
@@ -3972,7 +3972,7 @@
     "bombard1": {
         "id": "bombard1",
         "type": "bombard",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "contract": "heighSeasHeist",
         "blueprint": [
@@ -4006,7 +4006,7 @@
     "bombard2": {
         "id": "bombard2",
         "type": "bombard",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "blueprint": "outpostSacredTree",
         "requiredRank": "rover1",
@@ -4035,7 +4035,7 @@
     "bombard3": {
         "id": "bombard3",
         "type": "bombard",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "blueprint": "outpostSunkenGoldmine",
         "requiredRank": "marauder1",
@@ -4065,7 +4065,7 @@
     "bombard4": {
         "id": "bombard4",
         "type": "bombard",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "blueprint": "outpostKelelawarChamber",
         "requiredRank": "marauder1",
@@ -4095,7 +4095,7 @@
     "bombard5": {
         "id": "bombard5",
         "type": "bombard",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "blueprint": "outpostKokokTerapung",
         "requiredRank": "cutthroat1",
@@ -4127,7 +4127,7 @@
         "id": "repairBombard1",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostMotherOfShipwrecks",
         "tier": 1,
@@ -4156,7 +4156,7 @@
         "id": "repairBombard2",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "outpostMotherOfShipwrecks",
         "tier": 2,
@@ -4187,7 +4187,7 @@
         "id": "repairBombard3",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "theHelm",
         "tier": 3,
@@ -4220,7 +4220,7 @@
         "type": "bombard",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostFortLouis",
         "value": 1,
@@ -4251,7 +4251,7 @@
         "type": "bombard",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostFortLouis",
         "requiredRank": "brigand1",
         "value": 1,
@@ -4283,7 +4283,7 @@
         "type": "bombard",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "blueprint": "theHelm",
         "value": 1,
@@ -4316,7 +4316,7 @@
         "type": "bombard",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "buccaneer1",
         "blueprint": "outpostRangnokCave",
         "value": 1,
@@ -4348,7 +4348,7 @@
         "type": "bombard",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostMoyenneCrique",
         "value": 1,
@@ -4382,7 +4382,7 @@
         "type": "bombard",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -4415,7 +4415,7 @@
         "id": "dardanellesGun",
         "type": "bombard",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 500,
@@ -4445,7 +4445,7 @@
     "longGun1": {
         "id": "longGun1",
         "type": "longGun",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "requiredRank": "scoundrel1",
         "blueprint": "denSaintAnne",
@@ -4472,7 +4472,7 @@
     "longGun2": {
         "id": "longGun2",
         "type": "longGun",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "requiredRank": "rover1",
         "blueprint": "outpostVoronaFalls",
@@ -4500,7 +4500,7 @@
     "longGun3": {
         "id": "longGun3",
         "type": "longGun",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "requiredRank": "buccaneer1",
         "blueprint": "outpostTheNavigatorsCross",
@@ -4529,7 +4529,7 @@
     "longGun4": {
         "id": "longGun4",
         "type": "longGun",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "requiredRank": "marauder1",
         "blueprint": "outpostParujarsCry",
@@ -4558,7 +4558,7 @@
     "longGun5": {
         "id": "longGun5",
         "type": "longGun",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "blueprint": "outpostThreeBrothers",
         "value": 1,
@@ -4588,7 +4588,7 @@
         "id": "fireLongGun1",
         "type": "longGun",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "requiredRank": "buccaneer1",
         "blueprint": "outpostDragonsBack",
@@ -4617,7 +4617,7 @@
         "id": "fireLongGun2",
         "type": "longGun",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "blueprint": "outpostFortLouis",
         "tier": 2,
         "requiredRank": "marauder1",
@@ -4648,7 +4648,7 @@
         "id": "fireLongGun3",
         "type": "longGun",
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "requiredRank": "cutthroat1",
         "blueprint": "theHelm",
@@ -4681,7 +4681,7 @@
         "type": "longGun",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "outpostBukkitCandi",
         "value": 1,
@@ -4710,7 +4710,7 @@
         "type": "longGun",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "marauder1",
         "blueprint": "outpostKhmoyEstate",
         "value": 1,
@@ -4740,7 +4740,7 @@
         "type": "longGun",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "theHelm",
         "value": 1,
@@ -4770,7 +4770,7 @@
         "id": "scurlocksLongNines",
         "type": "longGun",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "obtainable": [
             "personScurlock"
@@ -4805,7 +4805,7 @@
         "id": "scurlocksChasers",
         "type": "longGun",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "obtainable": "theHelm",
         "blueprint": "personScurlockSainteAnne",
@@ -4838,7 +4838,7 @@
         "type": "torpedo",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "freebooter1",
         "blueprint": "denSaintAnne",
         "value": 1,
@@ -4868,7 +4868,7 @@
         "type": "torpedo",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "brigand1",
         "blueprint": "outpostBukkitCandi",
         "value": 1,
@@ -4899,7 +4899,7 @@
         "type": "torpedo",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "cutthroat1",
         "contract": "theMarquis",
         "blueprint": [
@@ -4938,7 +4938,7 @@
         "type": "torpedo",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "buccaneer1",
         "blueprint": "outpostTheRuinedLighthouse",
         "value": 1,
@@ -4970,7 +4970,7 @@
         "type": "torpedo",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "corsair1",
         "blueprint": "outpostTheNecropolis",
         "value": 1,
@@ -5003,7 +5003,7 @@
         "type": "torpedo",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "theHelm",
         "value": 1,
@@ -5035,7 +5035,7 @@
         "id": "rahmasAmbition",
         "type": "torpedo",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "marauder1",
         "obtainable": "theHelm",
         "blueprint": "personRahmaTelokPenjarah",
@@ -5066,7 +5066,7 @@
         "id": "rahmasLegacy",
         "type": "torpedo",
         "rarity": "epic",
-        "introducedSeason": "release",
+        "season": "release",
         "requiredRank": "kingpin1",
         "obtainable": [
             "personRahmaTelokPenjarah"
@@ -5100,7 +5100,7 @@
     "pickaxe1": {
         "id": "pickaxe1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 1,
         "required": {
@@ -5114,7 +5114,7 @@
     "pickaxe2": {
         "id": "pickaxe2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "rover1",
@@ -5129,7 +5129,7 @@
     "pickaxe3": {
         "id": "pickaxe3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5144,7 +5144,7 @@
     "pickaxe4": {
         "id": "pickaxe4",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "limit": 1,
         "requiredRank": "buccaneer1",
@@ -5160,7 +5160,7 @@
     "pickaxe5": {
         "id": "pickaxe5",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "limit": 1,
         "requiredRank": "corsair1",
@@ -5176,7 +5176,7 @@
     "saw1": {
         "id": "saw1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 1,
         "required": {
@@ -5190,7 +5190,7 @@
     "saw2": {
         "id": "saw2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "rover1",
@@ -5205,7 +5205,7 @@
     "saw3": {
         "id": "saw3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5220,7 +5220,7 @@
     "saw4": {
         "id": "saw4",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "limit": 1,
         "requiredRank": "buccaneer1",
@@ -5236,7 +5236,7 @@
     "saw5": {
         "id": "saw5",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "limit": 1,
         "requiredRank": "corsair1",
@@ -5252,7 +5252,7 @@
     "sickle1": {
         "id": "sickle1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 1,
         "required": {
@@ -5266,7 +5266,7 @@
     "sickle2": {
         "id": "sickle2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "rover1",
@@ -5281,7 +5281,7 @@
     "sickle3": {
         "id": "sickle3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5296,7 +5296,7 @@
     "sickle4": {
         "id": "sickle4",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "limit": 1,
         "requiredRank": "buccaneer1",
@@ -5312,7 +5312,7 @@
     "sickle5": {
         "id": "sickle5",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "limit": 1,
         "requiredRank": "corsair1",
@@ -5328,7 +5328,7 @@
     "spyglass1": {
         "id": "spyglass1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 0,
         "required": {},
@@ -5340,7 +5340,7 @@
     "spyglass2": {
         "id": "spyglass2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5355,7 +5355,7 @@
     "spyglass3": {
         "id": "spyglass3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "marauder1",
@@ -5371,7 +5371,7 @@
     "crowbar1": {
         "id": "crowbar1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 1,
         "required": {
@@ -5386,7 +5386,7 @@
     "crowbar2": {
         "id": "crowbar2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "rover1",
@@ -5401,7 +5401,7 @@
     "crowbar3": {
         "id": "crowbar3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5416,7 +5416,7 @@
     "crowbar4": {
         "id": "crowbar4",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "limit": 1,
         "requiredRank": "buccaneer1",
@@ -5432,7 +5432,7 @@
     "crowbar5": {
         "id": "crowbar5",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "limit": 1,
         "requiredRank": "corsair1",
@@ -5448,7 +5448,7 @@
     "huntingSpear1": {
         "id": "huntingSpear1",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 1,
         "limit": 0,
         "required": {},
@@ -5458,7 +5458,7 @@
     "huntingSpear2": {
         "id": "huntingSpear2",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 2,
         "limit": 1,
         "requiredRank": "scoundrel1",
@@ -5472,7 +5472,7 @@
     "huntingSpear3": {
         "id": "huntingSpear3",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 3,
         "limit": 1,
         "requiredRank": "freebooter1",
@@ -5487,7 +5487,7 @@
     "huntingSpear4": {
         "id": "huntingSpear4",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 4,
         "limit": 1,
         "requiredRank": "marauder1",
@@ -5503,7 +5503,7 @@
     "huntingSpear5": {
         "id": "huntingSpear5",
         "type": "tool",
-        "introducedSeason": "release",
+        "season": "release",
         "tier": 5,
         "limit": 1,
         "requiredRank": "cutthroat1",
@@ -5517,7 +5517,7 @@
         "requiredRank": "brigand1",
         "blueprint": "denTelokPenjarah",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 80,
@@ -5540,7 +5540,7 @@
         "blueprint": "outpostBukkitCandi",
         "requiredRank": "corsair1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 80,
@@ -5565,7 +5565,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "outpostGreatUkuta",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5587,7 +5587,7 @@
         "blueprint": "outpostSacredTree",
         "requiredRank": "marauder1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5611,7 +5611,7 @@
         "requiredRank": "freebooter1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5632,7 +5632,7 @@
         "requiredRank": "brigand1",
         "blueprint": "outpostTheNavigatorsCross",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5655,7 +5655,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "denTelokPenjarah",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5677,7 +5677,7 @@
         "blueprint": "denTelokPenjarah",
         "requiredRank": "corsair1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5702,7 +5702,7 @@
         "blueprint": "theHelm",
         "requiredRank": "marauder1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5726,7 +5726,7 @@
         "requiredRank": "freebooter1",
         "blueprint": "outpostPoachersCache",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 50,
@@ -5747,7 +5747,7 @@
         "requiredRank": "buccaneer1",
         "blueprint": "outpostGreatUkuta",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 50,
@@ -5769,7 +5769,7 @@
         "blueprint": "denTelokPenjarah",
         "requiredRank": "corsair1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 50,
@@ -5794,7 +5794,7 @@
         "blueprint": "denTelokPenjarah",
         "requiredRank": "marauder1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 100,
@@ -5818,7 +5818,7 @@
         "blueprint": "outpostKelelawarChamber",
         "requiredRank": "marauder1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 65,
@@ -5842,7 +5842,7 @@
         "requiredRank": "brigand1",
         "blueprint": "outpostKarstLookout",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 65,
@@ -5864,7 +5864,7 @@
         "requiredRank": "corsair1",
         "blueprint": "outpostTheNecropolis",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 65,
@@ -5889,7 +5889,7 @@
         "requiredRank": "freebooter1",
         "blueprint": "outpostPillarTomb",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 65,
@@ -5910,7 +5910,7 @@
         "blueprint": "denTelokPenjarah",
         "requiredRank": "corsair1",
         "type": "utilityFurniture",
-        "introducedSeason": "release",
+        "season": "release",
         "gearScore": 15,
         "value": 1,
         "weight": 65,
@@ -5936,7 +5936,7 @@
         "weight": 200,
         "blueprint": "smugglerPass",
         "type": "offensiveFurniture",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "required": {
             "silver": 4680,
             "magnetiteIngot": 12,
@@ -5957,7 +5957,7 @@
         "id": "fauleIlse",
         "type": "demicannon",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "theHelmSeasonOathsOfWar",
         "obtainable": "theHelmSeasonChorusOfHavoc",
         "value": 1,
@@ -5989,7 +5989,7 @@
         "tier": 1,
         "type": "longGun",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
@@ -6018,7 +6018,7 @@
         "tier": 2,
         "type": "longGun",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
@@ -6048,7 +6048,7 @@
         "tier": 3,
         "type": "longGun",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
         "obtainable": "laPesteStrongbox",
         "value": 1,
@@ -6072,7 +6072,7 @@
         "id": "theWarhammer",
         "type": "rocket",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": "theHelmSeasonal",
         "value": 1,
         "weight": 1000,
@@ -6098,7 +6098,7 @@
         "id": "endlessRequiem",
         "type": "torpedo",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": [
             [
                 "contractReward",
@@ -6134,7 +6134,7 @@
     "stormwovenSymphony": {
         "id": "stormwovenSymphony",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "type": "armor",
         "obtainable": "theHelm",
         "blueprint": [
@@ -6172,7 +6172,7 @@
     "buccaneersOath": {
         "id": "buccaneersOath",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "type": "armor",
         "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
@@ -6204,7 +6204,7 @@
         "id": "dummySpringloader1",
         "rarity": "epic",
         "tier": 1,
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": "theHelmSeasonal",
         "blueprint": "theHelmSeasonOathsOfWar",
         "type": "majorFurniture",
@@ -6229,7 +6229,7 @@
     "fatanaStation1": {
         "id": "fatanaStation1",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "blueprint": "theHelmSeasonOathsOfWar",
         "type": "offensiveFurniture",
@@ -6254,7 +6254,7 @@
     "tuningStation1": {
         "id": "tuningStation1",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "obtainable": "theHelmSeasonal",
         "type": "offensiveFurniture",
@@ -6273,7 +6273,7 @@
     "mineSpringloader1": {
         "id": "mineSpringloader1",
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "blueprint": "blacksmithTelokPenjarah",
         "requiredSize": "medium",
@@ -6303,7 +6303,7 @@
     "mineSpringloader2": {
         "id": "mineSpringloader2",
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "blueprint": "outpostTheNecropolis",
         "requiredSize": "medium",
@@ -6334,7 +6334,7 @@
     "mineSpringloader3": {
         "id": "mineSpringloader3",
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "blueprint": "theHelm",
         "requiredSize": "medium",
@@ -6365,7 +6365,7 @@
     "infernalMaw": {
         "id": "infernalMaw",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
@@ -6400,7 +6400,7 @@
     "littleGrace1": {
         "id": "littleGrace1",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "blueprint": "outpostMotherOfShipwrecks",
         "requiredSize": "medium",
@@ -6430,7 +6430,7 @@
     "littleGrace2": {
         "id": "littleGrace2",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "blueprint": "outpostThreeBrothers",
         "requiredSize": "medium",
@@ -6461,7 +6461,7 @@
     "littleGrace3": {
         "id": "littleGrace3",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "blueprint": [
             "theHelm",
@@ -6495,7 +6495,7 @@
     "abyssal1": {
         "id": "abyssal1",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "outpostRuinsOfLukKhun",
         "type": "armor",
         "value": 1,
@@ -6525,7 +6525,7 @@
     "abyssal2": {
         "id": "abyssal2",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "theHelm",
         "obtainable": "whiteAriaChest",
         "bounty": "verseOfRemorse",
@@ -6559,7 +6559,7 @@
     "leviathanArmor": {
         "id": "leviathanArmor",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "type": "armor",
         "value": 1,
@@ -6592,7 +6592,7 @@
         "id": "buoyShellsCrate",
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "value": 25,
         "weight": 40,
         "required": {
@@ -6608,7 +6608,7 @@
         "id": "springloaderFurnace1",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "outpostKokokTerapung",
         "type": "offensiveFurniture",
         "gearScore": 15,
@@ -6633,7 +6633,7 @@
         "id": "springloaderPowderhouse1",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "outpostReturnFleetBight",
         "type": "offensiveFurniture",
         "worldEvent": "verseOfVengeance",
@@ -6661,7 +6661,7 @@
         "id": "machinistStationRepair1",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": [
             "smugglerPass",
             "williamBlackwoodRotatingStore"
@@ -6690,7 +6690,7 @@
         "id": "raisedQuarterdeck1",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": [
             "smugglerPass",
             "williamBlackwoodRotatingStore"
@@ -6709,7 +6709,7 @@
     "buoyLocker1": {
         "id": "buoyLocker1",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
@@ -6737,7 +6737,7 @@
     "brouwersPowderhouse1": {
         "id": "brouwersPowderhouse1",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": "soleilRoyalCompagnieRoyaleTreasureChest",
         "blueprint": "personScurlockSainteAnne",
         "worldEvent": "symphonieMortelle",
@@ -6769,7 +6769,7 @@
             "williamBlackwoodRotatingStore"
         ],
         "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "worldEvent": "verseOfRemorse",
         "bounty": "verseOfRemorse",
         "type": "utilityFurniture",
@@ -6799,7 +6799,7 @@
             "laPesteStrongbox"
         ],
         "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "worldEvent": [
             "tidesOfTerror",
             "thePlagueKing"
@@ -6826,7 +6826,7 @@
     "compagnieSpiritsLocker": {
         "id": "compagnieSpiritsLocker",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": [
             "blackAriaChest",
             "williamBlackwoodRotatingStore"
@@ -6847,7 +6847,7 @@
     "secretCache1": {
         "id": "secretCache1",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": [
             "regattaChest",
             "williamBlackwoodRotatingStore"
@@ -6867,7 +6867,7 @@
     "bombardMenuiserie1": {
         "id": "bombardMenuiserie1",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "obtainable": "compagnieRoyaleMerchantConvoy",
         "blueprint": "personScurlockSainteAnne",
         "worldEvent": "anAllianceOfConvenience",
@@ -6893,7 +6893,7 @@
     "rhapsodyOfTheDeep": {
         "id": "rhapsodyOfTheDeep",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "type": "armor",
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
@@ -6929,7 +6929,7 @@
     "cursedBanner": {
         "id": "cursedBanner",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "type": "utilityFurniture",
         "worldEvent": "anguishFromTheAbyss",
         "bounty": "anguishFromTheAbyss",
@@ -6956,7 +6956,7 @@
     "lemariMakanan1": {
         "id": "lemariMakanan1",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "type": "utilityFurniture",
         "worldEvent": "guidedByGuile",
         "obtainable": [
@@ -6985,7 +6985,7 @@
     "bedarUpgrade1": {
         "id": "bedarUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7003,7 +7003,7 @@
     "bedarUpgrade2": {
         "id": "bedarUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7021,7 +7021,7 @@
     "bedarUpgrade3": {
         "id": "bedarUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7040,7 +7040,7 @@
     "bedarUpgrade4": {
         "id": "bedarUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7067,7 +7067,7 @@
     "bedarUpgrade5": {
         "id": "bedarUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7093,7 +7093,7 @@
     "bedarUpgrade6": {
         "id": "bedarUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7121,7 +7121,7 @@
     "bedarUpgrade7": {
         "id": "bedarUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7149,7 +7149,7 @@
     "hulkUpgrade1": {
         "id": "hulkUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7168,7 +7168,7 @@
     "hulkUpgrade2": {
         "id": "hulkUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7186,7 +7186,7 @@
     "hulkUpgrade3": {
         "id": "hulkUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7205,7 +7205,7 @@
     "hulkUpgrade4": {
         "id": "hulkUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7233,7 +7233,7 @@
     "hulkUpgrade5": {
         "id": "hulkUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7260,7 +7260,7 @@
     "hulkUpgrade6": {
         "id": "hulkUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7289,7 +7289,7 @@
     "hulkUpgrade7": {
         "id": "hulkUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7318,7 +7318,7 @@
     "cutterUpgrade1": {
         "id": "cutterUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7337,7 +7337,7 @@
     "cutterUpgrade2": {
         "id": "cutterUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7355,7 +7355,7 @@
     "cutterUpgrade3": {
         "id": "cutterUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7374,7 +7374,7 @@
     "cutterUpgrade4": {
         "id": "cutterUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7402,7 +7402,7 @@
     "cutterUpgrade5": {
         "id": "cutterUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7429,7 +7429,7 @@
     "cutterUpgrade6": {
         "id": "cutterUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7458,7 +7458,7 @@
     "cutterUpgrade7": {
         "id": "cutterUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7487,7 +7487,7 @@
     "bargeUpgrade1": {
         "id": "bargeUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7506,7 +7506,7 @@
     "bargeUpgrade2": {
         "id": "bargeUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7524,7 +7524,7 @@
     "bargeUpgrade3": {
         "id": "bargeUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7543,7 +7543,7 @@
     "bargeUpgrade4": {
         "id": "bargeUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7571,7 +7571,7 @@
     "bargeUpgrade5": {
         "id": "bargeUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7598,7 +7598,7 @@
     "bargeUpgrade6": {
         "id": "bargeUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7627,7 +7627,7 @@
     "bargeUpgrade7": {
         "id": "bargeUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7656,7 +7656,7 @@
     "sloopUpgrade1": {
         "id": "sloopUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7675,7 +7675,7 @@
     "sloopUpgrade2": {
         "id": "sloopUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7693,7 +7693,7 @@
     "sloopUpgrade3": {
         "id": "sloopUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7712,7 +7712,7 @@
     "sloopUpgrade4": {
         "id": "sloopUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7740,7 +7740,7 @@
     "sloopUpgrade5": {
         "id": "sloopUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7767,7 +7767,7 @@
     "sloopUpgrade6": {
         "id": "sloopUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7796,7 +7796,7 @@
     "sloopUpgrade7": {
         "id": "sloopUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7825,7 +7825,7 @@
     "padewakangUpgrade1": {
         "id": "padewakangUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -7843,7 +7843,7 @@
     "padewakangUpgrade2": {
         "id": "padewakangUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -7862,7 +7862,7 @@
     "padewakangUpgrade3": {
         "id": "padewakangUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -7882,7 +7882,7 @@
     "padewakangUpgrade4": {
         "id": "padewakangUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -7910,7 +7910,7 @@
     "padewakangUpgrade5": {
         "id": "padewakangUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -7938,7 +7938,7 @@
     "padewakangUpgrade6": {
         "id": "padewakangUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -7968,7 +7968,7 @@
     "padewakangUpgrade7": {
         "id": "padewakangUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -7998,7 +7998,7 @@
     "snowUpgrade1": {
         "id": "snowUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -8016,7 +8016,7 @@
     "snowUpgrade2": {
         "id": "snowUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -8035,7 +8035,7 @@
     "snowUpgrade3": {
         "id": "snowUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -8055,7 +8055,7 @@
     "snowUpgrade4": {
         "id": "snowUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -8083,7 +8083,7 @@
     "snowUpgrade5": {
         "id": "snowUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -8111,7 +8111,7 @@
     "snowUpgrade6": {
         "id": "snowUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -8141,7 +8141,7 @@
     "snowUpgrade7": {
         "id": "snowUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -8171,7 +8171,7 @@
     "brigantineUpgrade1": {
         "id": "brigantineUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -8189,7 +8189,7 @@
     "brigantineUpgrade2": {
         "id": "brigantineUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -8208,7 +8208,7 @@
     "brigantineUpgrade3": {
         "id": "brigantineUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -8228,7 +8228,7 @@
     "brigantineUpgrade4": {
         "id": "brigantineUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -8256,7 +8256,7 @@
     "brigantineUpgrade5": {
         "id": "brigantineUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -8284,7 +8284,7 @@
     "brigantineUpgrade6": {
         "id": "brigantineUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -8314,7 +8314,7 @@
     "brigantineUpgrade7": {
         "id": "brigantineUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -8344,7 +8344,7 @@
     "sambukUpgrade1": {
         "id": "sambukUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -8362,7 +8362,7 @@
     "sambukUpgrade2": {
         "id": "sambukUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -8381,7 +8381,7 @@
     "sambukUpgrade3": {
         "id": "sambukUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -8401,7 +8401,7 @@
     "sambukUpgrade4": {
         "id": "sambukUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -8429,7 +8429,7 @@
     "sambukUpgrade5": {
         "id": "sambukUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -8457,7 +8457,7 @@
     "sambukUpgrade6": {
         "id": "sambukUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -8487,7 +8487,7 @@
     "sambukUpgrade7": {
         "id": "sambukUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -8517,7 +8517,7 @@
     "barqueUpgrade1": {
         "id": "barqueUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -8535,7 +8535,7 @@
     "barqueUpgrade2": {
         "id": "barqueUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -8554,7 +8554,7 @@
     "barqueUpgrade3": {
         "id": "barqueUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -8574,7 +8574,7 @@
     "barqueUpgrade4": {
         "id": "barqueUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -8602,7 +8602,7 @@
     "barqueUpgrade5": {
         "id": "barqueUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -8630,7 +8630,7 @@
     "barqueUpgrade6": {
         "id": "barqueUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -8660,7 +8660,7 @@
     "barqueUpgrade7": {
         "id": "barqueUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ragingTides",
+        "season": "ragingTides",
         "tier": 7,
         "value": 1,
         "required": {
@@ -8690,7 +8690,7 @@
     "brigUpgrade1": {
         "id": "brigUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "required": {
@@ -8708,7 +8708,7 @@
     "brigUpgrade2": {
         "id": "brigUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 2,
         "value": 1,
         "required": {
@@ -8727,7 +8727,7 @@
     "brigUpgrade3": {
         "id": "brigUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 3,
         "value": 1,
         "required": {
@@ -8747,7 +8747,7 @@
     "brigUpgrade4": {
         "id": "brigUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 4,
         "value": 1,
         "required": {
@@ -8775,7 +8775,7 @@
     "brigUpgrade5": {
         "id": "brigUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 5,
         "value": 1,
         "required": {
@@ -8803,7 +8803,7 @@
     "brigUpgrade6": {
         "id": "brigUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 6,
         "value": 1,
         "required": {
@@ -8833,7 +8833,7 @@
     "brigUpgrade7": {
         "id": "brigUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -8864,7 +8864,7 @@
         "id": "boatswainsToll1",
         "type": "offensiveFurniture",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "weight": 80,
@@ -8891,7 +8891,7 @@
         "id": "scupperStation1",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "weight": 80,
@@ -8919,7 +8919,7 @@
         "id": "waterFlask",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "blueprint": "contractReward",
         "weight": 10,
         "buffDuration": 20,
@@ -8938,7 +8938,7 @@
         "id": "waterBarrel",
         "type": "consumable",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 15,
         "buffDuration": 30,
         "obtainable": "denHawker",
@@ -8953,7 +8953,7 @@
         "id": "teulingsCoffee",
         "type": "consumable",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 15,
         "buffDuration": 30,
         "obtainable": "smugglerPass",
@@ -8968,7 +8968,7 @@
         "id": "zongZi",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "event": "dragonsRegatta",
@@ -8987,7 +8987,7 @@
         "id": "teulingsSpecialSteakDinner",
         "type": "consumable",
         "rarity": "uncommon",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 23,
         "buffDuration": 1800,
         "blueprint": [
@@ -9005,7 +9005,7 @@
         "id": "mermaidsTears",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "event": "summerFiesta",
@@ -9021,7 +9021,7 @@
         "id": "darkNStormy",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "event": "summerFiesta",
@@ -9037,7 +9037,7 @@
         "id": "scallyGrog",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "event": "summerFiesta",
@@ -9053,7 +9053,7 @@
         "id": "bloodyAnnie",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "event": "summerFiesta",
@@ -9069,7 +9069,7 @@
         "id": "lestarisMeat",
         "type": "consumable",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 12,
         "bounty": "silentDeath",
         "obtainable": "dropLestari",
@@ -9084,7 +9084,7 @@
         "id": "grilledLestariMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 12,
         "required": {
             "lestarisMeat": 2
@@ -9100,7 +9100,7 @@
         "id": "leatherFashioningStation1",
         "type": "utilityFurniture",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "weight": 80,
@@ -9122,7 +9122,7 @@
         "id": "lestariTrophy",
         "type": "offensiveFurniture",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 80,
         "gearScore": 25,
         "bounty": "silentDeath",
@@ -9149,7 +9149,7 @@
         "rarity": "epic",
         "weight": 80,
         "gearScore": 25,
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "bounty": "chorusOfHavoc",
         "worldEvent": "chorusOfHavoc",
         "obtainable": [
@@ -9176,7 +9176,7 @@
         "id": "machinistStationMines1",
         "type": "offensiveFurniture",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "tier": 1,
         "value": 1,
         "weight": 80,
@@ -9202,7 +9202,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9218,7 +9218,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9234,7 +9234,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9248,7 +9248,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9264,7 +9264,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9280,7 +9280,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9296,7 +9296,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9311,7 +9311,7 @@
         "blueprint": "theHelm",
         "type": "ammunition",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "weight": 120,
         "required": {
@@ -9327,7 +9327,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 80,
         "required": {
@@ -9343,7 +9343,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 200,
         "required": {
@@ -9357,7 +9357,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 240,
         "required": {
@@ -9372,7 +9372,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 240,
         "required": {
@@ -9388,7 +9388,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 120,
         "required": {
@@ -9404,7 +9404,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 120,
         "required": {
@@ -9420,7 +9420,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 200,
         "required": {
@@ -9436,7 +9436,7 @@
         "blueprint": "blacksmithTelokPenjarah",
         "type": "ammunition",
         "rarity": "uncommon",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 80,
         "required": {
@@ -9451,7 +9451,7 @@
         "id": "whiteJade",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9476,7 +9476,7 @@
         "id": "thousandYearMonsoon",
         "type": "bombard",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "obtainable": "theHelmSeasonal",
         "value": 1,
         "weight": 500,
@@ -9503,7 +9503,7 @@
         "id": "crouchingTiger",
         "type": "mortar",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "obtainable": "theHelmSeasonal",
         "value": 1,
         "weight": 1000,
@@ -9531,7 +9531,7 @@
         "id": "spitefulSpikesStation",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -9549,7 +9549,7 @@
         "id": "emergencySails",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 80,
         "gearScore": 20,
@@ -9566,7 +9566,7 @@
     "celestialDance": {
         "id": "celestialDance",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "obtainable": "theHelmSeasonal",
         "type": "armor",
         "value": 1,
@@ -9594,7 +9594,7 @@
         "id": "hongYiPao",
         "type": "bombard",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "blueprint": "contractReward",
         "contract": "flamingQuarry",
         "obtainable": [
@@ -9632,7 +9632,7 @@
         "id": "heavensMandate",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "bounty": "divineRetribution",
         "worldEvent": "divineRetribution",
@@ -9665,7 +9665,7 @@
         "id": "phoenixTalons",
         "type": "demicannon",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9700,7 +9700,7 @@
         "id": "baneOfTenSuns",
         "type": "ballista",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "blueprint": [
             [
                 "contractReward",
@@ -9740,7 +9740,7 @@
     "phoenixCrest": {
         "id": "phoenixCrest",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "blueprint": [
             [
                 "contractReward",
@@ -9793,7 +9793,7 @@
         "id": "organHarvestingStation",
         "type": "offensiveFurniture",
         "rarity": "epic",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 80,
         "gearScore": 25,
         "bounty": "jawsOfRetribution",
@@ -9822,7 +9822,7 @@
         "id": "bracedGunwales",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "contract": "aTrailOfAshes",
@@ -9854,7 +9854,7 @@
         "id": "heavenlyLance",
         "type": "torpedo",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "obtainable": [
             [
                 "contractReward",
@@ -9893,7 +9893,7 @@
         "id": "lestariStew",
         "type": "consumable",
         "rarity": "rare",
-        "introducedSeason": "chorusOfHavoc",
+        "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
@@ -9912,7 +9912,7 @@
         "id": "firstMatesLedger",
         "type": "utilityFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 25,
         "event": "mooncakeRegatta",
@@ -9935,7 +9935,7 @@
         "id": "kinckelsLaboratory1",
         "type": "offensiveFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "weight": 80,
         "gearScore": 25,
@@ -9961,7 +9961,7 @@
         "id": "shellPackingStation",
         "type": "offensiveFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "personScurlockSainteAnne",
@@ -9984,7 +9984,7 @@
         "id": "densityFurnace",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "personRahmaTelokPenjarah",
@@ -10007,7 +10007,7 @@
         "id": "langrageBarrels",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "personRahmaTelokPenjarah",
@@ -10031,7 +10031,7 @@
         "id": "gearsWorkshop",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "personScurlockSainteAnne",
@@ -10054,7 +10054,7 @@
         "id": "smokedCanisters",
         "type": "utilityFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 25,
         "blueprint": "personScurlockSainteAnne",
@@ -10082,7 +10082,7 @@
         "id": "beamSupports",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "williamBlackwoodRotatingStore",
@@ -10103,7 +10103,7 @@
         "id": "divineThunder",
         "type": "longGun",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "obtainable": "smugglerPass",
         "value": 1,
         "weight": 500,
@@ -10126,7 +10126,7 @@
     "immortalVessel": {
         "id": "immortalVessel",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -10151,7 +10151,7 @@
     "voltasWard": {
         "id": "voltasWard",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -10185,7 +10185,7 @@
         "id": "amberCoatingStation",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
         "blueprint": "smugglerPass",
@@ -10200,7 +10200,7 @@
         "id": "chargeStores",
         "type": "offensiveFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 25,
         "blueprint": "smugglerPass",
@@ -10214,7 +10214,7 @@
     "battleJunkUpgrade1": {
         "id": "battleJunkUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 1,
         "value": 1,
         "required": {
@@ -10232,7 +10232,7 @@
     "battleJunkUpgrade2": {
         "id": "battleJunkUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 2,
         "value": 1,
         "required": {
@@ -10251,7 +10251,7 @@
     "battleJunkUpgrade3": {
         "id": "battleJunkUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 3,
         "value": 1,
         "required": {
@@ -10271,7 +10271,7 @@
     "battleJunkUpgrade4": {
         "id": "battleJunkUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 4,
         "value": 1,
         "required": {
@@ -10299,7 +10299,7 @@
     "battleJunkUpgrade5": {
         "id": "battleJunkUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 5,
         "value": 1,
         "required": {
@@ -10327,7 +10327,7 @@
     "battleJunkUpgrade6": {
         "id": "battleJunkUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "tier": 6,
         "value": 1,
         "required": {
@@ -10357,7 +10357,7 @@
     "battleJunkUpgrade7": {
         "id": "battleJunkUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -10388,7 +10388,7 @@
         "id": "lotusMooncake",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "weight": 10,
         "buffDuration": 1800,
         "event": "mooncakeRegatta",
@@ -10404,7 +10404,7 @@
         "id": "hellepoort",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "event": "requiemOfTheLost",
         "obtainable": [
             "hallowedGravestoneSaintAnne",
@@ -10433,7 +10433,7 @@
         "id": "freemansEmbrace",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -10454,7 +10454,7 @@
         "id": "cannonballCarvingStation",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -10470,7 +10470,7 @@
         "id": "bloodyRed",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -10491,7 +10491,7 @@
         "id": "plaguebringersWard",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "value": 1,
         "weight": 80,
         "gearScore": 20,
@@ -10511,7 +10511,7 @@
         "id": "quickIgnitingPowder",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "event": "requiemOfTheLost",
         "value": 1,
         "weight": 80,
@@ -10533,7 +10533,7 @@
         "id": "ballistaFurnace1",
         "tier": 1,
         "type": "offensiveFurniture",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "gearScore": 15,
         "value": 1,
         "weight": 150,
@@ -10553,7 +10553,7 @@
     "garudaUpgrade1": {
         "id": "garudaUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 1,
         "value": 1,
         "required": {
@@ -10571,7 +10571,7 @@
     "garudaUpgrade2": {
         "id": "garudaUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 2,
         "value": 1,
         "required": {
@@ -10590,7 +10590,7 @@
     "garudaUpgrade3": {
         "id": "garudaUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 3,
         "value": 1,
         "required": {
@@ -10610,7 +10610,7 @@
     "garudaUpgrade4": {
         "id": "garudaUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 4,
         "value": 1,
         "required": {
@@ -10638,7 +10638,7 @@
     "garudaUpgrade5": {
         "id": "garudaUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 5,
         "value": 1,
         "required": {
@@ -10666,7 +10666,7 @@
     "garudaUpgrade6": {
         "id": "garudaUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "tier": 6,
         "value": 1,
         "required": {
@@ -10696,7 +10696,7 @@
     "garudaUpgrade7": {
         "id": "garudaUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -10727,7 +10727,7 @@
         "id": "nagasCall",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "event": "enterTheNian",
         "obtainable": [
             "idolOfTheBeastStatue",
@@ -10754,7 +10754,7 @@
         "id": "agnisFury",
         "type": "seaFire",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": "theHelmSeasonal",
         "value": 1,
         "weight": 750,
@@ -10781,7 +10781,7 @@
         "id": "eyeOfHeaven",
         "type": "mortar",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": "smugglerPass",
         "value": 1,
         "weight": 1000,
@@ -10806,7 +10806,7 @@
     "blightkeeper": {
         "id": "blightkeeper",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "blueprint": "contractReward",
         "contract": "wolvesInTheWater",
         "worldEvent": [
@@ -10846,7 +10846,7 @@
     "crimsonLotus": {
         "id": "crimsonLotus",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": "theHelmSeasonal",
         "type": "armor",
         "value": 1,
@@ -10873,7 +10873,7 @@
     "pishacha": {
         "id": "pishacha",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "worldEvent": "reaversVengeance",
         "obtainable": "risenZamaharibuChest",
@@ -10907,7 +10907,7 @@
     "tanashah": {
         "id": "tanashah",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": "smugglerPass",
         "type": "armor",
         "value": 1,
@@ -10934,7 +10934,7 @@
         "id": "painPiper",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -10964,7 +10964,7 @@
         "id": "drownedOnesToll",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -10991,7 +10991,7 @@
         "id": "chainedLinks",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -11009,7 +11009,7 @@
         "id": "teulingsGuidance",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -11024,7 +11024,7 @@
     "strangeElixir": {
         "id": "strangeElixir",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "type": "offensiveFurniture",
         "worldEvent": "theWolfHunter",
         "gearScore": 25,
@@ -11042,7 +11042,7 @@
         "id": "decoyDeck",
         "type": "utilityFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "worldEvent": "theGreatShadow",
         "weight": 150,
         "gearScore": 25,
@@ -11069,7 +11069,7 @@
         "id": "floatCollars",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "event": "enterTheNian",
         "weight": 80,
         "gearScore": 20,
@@ -11089,7 +11089,7 @@
         "id": "mineClearingLocker",
         "type": "utilityFurniture",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 150,
         "gearScore": 25,
         "value": 1,
@@ -11107,7 +11107,7 @@
         "id": "devilsConcoction",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 80,
         "gearScore": 20,
         "value": 1,
@@ -11130,7 +11130,7 @@
         "id": "debrisLocker",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "worldEvent": "reaversVengeance",
         "weight": 80,
         "gearScore": 20,
@@ -11155,7 +11155,7 @@
         "id": "expandingCorkscrewStation",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "worldEvent": "theWolfHunter",
         "weight": 80,
         "gearScore": 20,
@@ -11172,7 +11172,7 @@
         "id": "cannonballChargingStation",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 80,
         "gearScore": 20,
         "value": 1,
@@ -11195,7 +11195,7 @@
         "id": "copperFasteningStation",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 80,
         "gearScore": 20,
         "value": 1,
@@ -11218,7 +11218,7 @@
         "id": "rifledBarrelWorkshop",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 80,
         "gearScore": 20,
         "value": 1,
@@ -11241,7 +11241,7 @@
         "id": "highVelocityKegs",
         "type": "utilityFurniture",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "worldEvent": "theAzureRoyale",
         "event": "azureSolstice",
         "weight": 80,
@@ -11264,7 +11264,7 @@
         "id": "nashkar",
         "type": "longGun",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": [
             "azureStrongbox",
             "azuriteLodestoneSaintAnne"
@@ -11295,7 +11295,7 @@
         "id": "dahaaka",
         "type": "torpedo",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "obtainable": "smugglerPass",
         "value": 1,
         "weight": 500,
@@ -11320,7 +11320,7 @@
         "id": "rumFruitcake",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 10,
         "buffDuration": 1800,
         "event": "theFounding",
@@ -11338,7 +11338,7 @@
         "id": "crocodileMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 8,
         "required": {},
         "perks": [
@@ -11351,7 +11351,7 @@
         "id": "tylosaurusFlesh",
         "type": "consumable",
         "rarity": "rare",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 12,
         "required": {},
         "perks": [
@@ -11364,7 +11364,7 @@
         "id": "fish",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 4,
         "required": {},
         "perks": [
@@ -11377,7 +11377,7 @@
         "id": "durian",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 10,
         "required": {},
         "perks": [
@@ -11390,7 +11390,7 @@
         "id": "coconut",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 3,
         "required": {},
         "perks": [
@@ -11403,7 +11403,7 @@
         "id": "ndizi",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 6,
         "required": {},
         "perks": [
@@ -11416,7 +11416,7 @@
         "id": "rawChicken",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 6,
         "required": {},
         "perks": [
@@ -11429,7 +11429,7 @@
         "id": "flour",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 2,
         "required": {},
         "perks": [
@@ -11442,7 +11442,7 @@
         "id": "rawMutton",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 8,
         "required": {},
         "perks": [
@@ -11455,7 +11455,7 @@
         "id": "rawVegetables",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 4,
         "required": {},
         "perks": [
@@ -11468,7 +11468,7 @@
         "id": "screwpine",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 0,
         "required": {},
         "perks": [
@@ -11481,7 +11481,7 @@
         "id": "hippoMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 0,
         "required": {},
         "perks": [
@@ -11494,7 +11494,7 @@
         "id": "sharkMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 0,
         "required": {},
         "perks": [
@@ -11507,7 +11507,7 @@
         "id": "rawBeef",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 2,
         "required": {},
         "perks": [
@@ -11520,7 +11520,7 @@
         "id": "primeHippoMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 0,
         "required": {},
         "perks": [
@@ -11533,7 +11533,7 @@
         "id": "primeCrocodileMeat",
         "type": "consumable",
         "rarity": "common",
-        "introducedSeason": "shadowsOfTheDeep",
+        "season": "shadowsOfTheDeep",
         "weight": 0,
         "required": {},
         "perks": [
@@ -11546,7 +11546,7 @@
         "id": "libertyCap",
         "type": "consumable",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "weight": 10,
         "buffDuration": 20,
         "event": "theHonorless",
@@ -11561,7 +11561,7 @@
     "schoonerUpgrade1": {
         "id": "schoonerUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "value": 1,
         "required": {
@@ -11579,7 +11579,7 @@
     "schoonerUpgrade2": {
         "id": "schoonerUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "value": 1,
         "required": {
@@ -11598,7 +11598,7 @@
     "schoonerUpgrade3": {
         "id": "schoonerUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 3,
         "value": 1,
         "required": {
@@ -11618,7 +11618,7 @@
     "schoonerUpgrade4": {
         "id": "schoonerUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 4,
         "value": 1,
         "required": {
@@ -11646,7 +11646,7 @@
     "schoonerUpgrade5": {
         "id": "schoonerUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 5,
         "value": 1,
         "required": {
@@ -11674,7 +11674,7 @@
     "schoonerUpgrade6": {
         "id": "schoonerUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 6,
         "value": 1,
         "required": {
@@ -11704,7 +11704,7 @@
     "schoonerUpgrade7": {
         "id": "schoonerUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "tier": 7,
         "value": 1,
         "required": {
@@ -11734,7 +11734,7 @@
     "titansCuirass": {
         "id": "titansCuirass",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -11761,7 +11761,7 @@
     "heydensGuard": {
         "id": "heydensGuard",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -11789,7 +11789,7 @@
     "nocturneHeart": {
         "id": "nocturneHeart",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -11822,7 +11822,7 @@
     "silverSentinel": {
         "id": "silverSentinel",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -11848,7 +11848,7 @@
         "id": "floodingBombard1",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "corruptCompagnieOfficerOutpost",
         "value": 1,
         "weight": 500,
@@ -11876,7 +11876,7 @@
         "id": "floodingBombard2",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "corruptCompagnieOfficerOutpost",
         "value": 1,
         "weight": 500,
@@ -11906,7 +11906,7 @@
         "id": "floodingBombard3",
         "type": "bombard",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "corruptCompagnieOfficerOutpost",
         "value": 1,
         "weight": 500,
@@ -11937,7 +11937,7 @@
         "id": "divineWind",
         "type": "bombard",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "event": "theHonorless",
         "value": 1,
         "weight": 500,
@@ -11967,7 +11967,7 @@
     "tearingLongGun1": {
         "id": "tearingLongGun1",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": "corruptDmcOfficerOutpost",
@@ -11995,7 +11995,7 @@
     "tearingLongGun2": {
         "id": "tearingLongGun2",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": "corruptDmcOfficerOutpost",
@@ -12025,7 +12025,7 @@
     "tearingLongGun3": {
         "id": "tearingLongGun3",
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": "corruptDmcOfficerOutpost",
@@ -12056,7 +12056,7 @@
     "farscourge1": {
         "id": "farscourge1",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": "theHelm",
@@ -12086,7 +12086,7 @@
     "farscourge2": {
         "id": "farscourge2",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": "theHelm",
@@ -12117,7 +12117,7 @@
     "farscourge3": {
         "id": "farscourge3",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "longGun",
         "tier": 1,
         "blueprint": [
@@ -12153,7 +12153,7 @@
         "id": "langeKartouwe",
         "type": "longGun",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "obtainable": "smugglerPass",
         "value": 1,
         "weight": 500,
@@ -12178,7 +12178,7 @@
         "id": "alecto",
         "type": "ballista",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "value": 1,
         "weight": 750,
         "gearScore": 91,
@@ -12207,7 +12207,7 @@
         "type": "demicannon",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 1,
         "weight": 500,
@@ -12235,7 +12235,7 @@
         "type": "demicannon",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 2,
         "weight": 500,
@@ -12264,7 +12264,7 @@
         "type": "demicannon",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 1,
         "weight": 500,
@@ -12294,7 +12294,7 @@
         "type": "demicannon",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 1,
         "weight": 500,
@@ -12322,7 +12322,7 @@
         "type": "demicannon",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 2,
         "weight": 500,
@@ -12351,7 +12351,7 @@
         "type": "demicannon",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "ungwanaMerchantOutpost",
         "value": 1,
         "weight": 500,
@@ -12380,7 +12380,7 @@
         "id": "kleineKartouwe",
         "type": "demicannon",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "obtainable": [
             "theHelmEvent",
             "bloodiedStrongbox"
@@ -12410,7 +12410,7 @@
         "type": "culverin",
         "tier": 1,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12443,7 +12443,7 @@
         "type": "culverin",
         "tier": 2,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12477,7 +12477,7 @@
         "type": "culverin",
         "tier": 3,
         "rarity": "uncommon",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12512,7 +12512,7 @@
         "type": "culverin",
         "tier": 1,
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12547,7 +12547,7 @@
         "type": "culverin",
         "tier": 2,
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12583,7 +12583,7 @@
         "type": "culverin",
         "tier": 3,
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": [
             [
                 "seaPeopleMerchant",
@@ -12619,7 +12619,7 @@
         "id": "urbansGreatGun",
         "type": "culverin",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "blueprint": "contractReward",
         "contract": "foilsOfPeace",
         "value": 1,
@@ -12650,7 +12650,7 @@
         "id": "bilgefireBarrels",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -12674,7 +12674,7 @@
         "id": "emergencyLocker",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -12690,7 +12690,7 @@
         "id": "wyrmsBreathChurner",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -12706,7 +12706,7 @@
         "id": "markOfTheWolf",
         "type": "majorFurniture",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
@@ -12730,7 +12730,7 @@
     "fuseFusingStation": {
         "id": "fuseFusingStation",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "offensiveFurniture",
         "event": "theHonorless",
         "gearScore": 20,
@@ -12752,7 +12752,7 @@
     "ramrodWorkshop": {
         "id": "ramrodWorkshop",
         "rarity": "rare",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
@@ -12770,7 +12770,7 @@
     "breechlockFurnace": {
         "id": "breechlockFurnace",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "offensiveFurniture",
         "gearScore": 25,
         "value": 1,
@@ -12788,7 +12788,7 @@
     "dynamicBallastControl": {
         "id": "dynamicBallastControl",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
@@ -12813,7 +12813,7 @@
             ]
         ],
         "type": "offensiveFurniture",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -12835,7 +12835,7 @@
     "infamyChest": {
         "id": "infamyChest",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12845,7 +12845,7 @@
     "kingpinChest": {
         "id": "kingpinChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12856,7 +12856,7 @@
     "silveryRaiderCache": {
         "id": "silveryRaiderCache",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 50,
@@ -12866,7 +12866,7 @@
     "gildedRaiderCache": {
         "id": "gildedRaiderCache",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12876,7 +12876,7 @@
     "summerStashChest": {
         "id": "summerStashChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "summerFiesta",
         "value": 1,
@@ -12891,7 +12891,7 @@
     "azureCache": {
         "id": "azureCache",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "event": "azureSolstice",
@@ -12902,7 +12902,7 @@
     "azureStrongbox": {
         "id": "azureStrongbox",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "event": "azureSolstice",
@@ -12913,7 +12913,7 @@
     "ogreKingCosmeticsChest": {
         "id": "ogreKingCosmeticsChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12923,7 +12923,7 @@
     "rodeMaangodinChest": {
         "id": "rodeMaangodinChest",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12933,7 +12933,7 @@
     "bloodiedStrongbox": {
         "id": "bloodiedStrongbox",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "theHonorless",
         "worldEvent": [
@@ -12949,7 +12949,7 @@
     "recoveredExeterChest": {
         "id": "recoveredExeterChest",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "theFounding",
         "worldEvent": [
@@ -12965,7 +12965,7 @@
     "aGiftInReturn": {
         "id": "aGiftInReturn",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "azureSolstice",
         "value": 1,
@@ -12976,7 +12976,7 @@
     "maangodinChest": {
         "id": "maangodinChest",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -12986,7 +12986,7 @@
     "reapersCache": {
         "id": "reapersCache",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "requiemOfTheLost",
         "value": 1,
@@ -12997,7 +12997,7 @@
     "legacyCache1": {
         "id": "legacyCache1",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "tier": 1,
         "value": 1,
@@ -13009,7 +13009,7 @@
     "legacyCache3": {
         "id": "legacyCache3",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "tier": 3,
         "value": 1,
@@ -13021,7 +13021,7 @@
     "smugglersSupplies": {
         "id": "smugglersSupplies",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13032,7 +13032,7 @@
     "soleilRoyalTreasureChest": {
         "id": "soleilRoyalTreasureChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "symphonieMortelle",
         "value": 1,
@@ -13043,7 +13043,7 @@
     "whiteAriaChest": {
         "id": "whiteAriaChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": [
             "verseOfVengeance",
@@ -13057,7 +13057,7 @@
     "blackAriaChest": {
         "id": "blackAriaChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": [
             "verseOfVengeance",
@@ -13071,7 +13071,7 @@
     "chorusFleetStrongbox": {
         "id": "chorusFleetStrongbox",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "chorusOfHavoc",
         "value": 1,
@@ -13082,7 +13082,7 @@
     "nianStrongbox": {
         "id": "nianStrongbox",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "enterTheNian",
         "value": 1,
@@ -13093,7 +13093,7 @@
     "opwellingTreasureChest": {
         "id": "opwellingTreasureChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theOpwelling",
         "value": 1,
@@ -13104,7 +13104,7 @@
     "vanderkillsLocker": {
         "id": "vanderkillsLocker",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theWolfHunter",
         "value": 1,
@@ -13115,7 +13115,7 @@
     "roninCosmeticsChest": {
         "id": "roninCosmeticsChest",
         "rarity": "legendary",
-        "introducedSeason": "intoTheDragonsWake",
+        "season": "intoTheDragonsWake",
         "type": "chest",
         "worldEvent": "shadesOfTheRonin",
         "value": 1,
@@ -13126,7 +13126,7 @@
     "sengokuNightsCosmeticsChest": {
         "id": "sengokuNightsCosmeticsChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "gloryAdorned",
         "value": 1,
@@ -13137,7 +13137,7 @@
     "risenZamaharibuChest": {
         "id": "risenZamaharibuChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "reaversVengeance",
         "value": 1,
@@ -13148,7 +13148,7 @@
     "risenMegaLestariChest": {
         "id": "risenMegaLestariChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "undyingMaw",
         "value": 1,
@@ -13159,7 +13159,7 @@
     "elderShadowbeastChest": {
         "id": "elderShadowbeastChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "divineRetribution",
         "value": 1,
@@ -13170,7 +13170,7 @@
     "regattaChest": {
         "id": "regattaChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "dragonsRegatta",
         "value": 1,
@@ -13181,7 +13181,7 @@
     "mooncakeRegattaChest": {
         "id": "mooncakeRegattaChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "event": "mooncakeRegatta",
         "value": 1,
@@ -13192,7 +13192,7 @@
     "vikramsStash": {
         "id": "vikramsStash",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "curseOfTheSchaduw",
         "value": 1,
@@ -13203,7 +13203,7 @@
     "vikramsLocker": {
         "id": "vikramsLocker",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theLoomingShadow",
         "value": 1,
@@ -13214,7 +13214,7 @@
     "vikramsStrongbox": {
         "id": "vikramsStrongbox",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theGreatShadow",
         "value": 1,
@@ -13225,7 +13225,7 @@
     "silverPouch": {
         "id": "silverPouch",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 25,
@@ -13235,7 +13235,7 @@
     "silverBox": {
         "id": "silverBox",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 50,
@@ -13245,7 +13245,7 @@
     "silverChest": {
         "id": "silverChest",
         "rarity": "common",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13255,7 +13255,7 @@
     "commanderZhangsChest": {
         "id": "commanderZhangsChest",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theSerpentsWrath",
         "value": 1,
@@ -13266,7 +13266,7 @@
     "phoenixsTalonChest": {
         "id": "phoenixsTalonChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "flamesOfTheDragon",
         "value": 1,
@@ -13277,7 +13277,7 @@
     "phoenixsTalonStrongbox": {
         "id": "phoenixsTalonStrongbox",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "worldEvent": "theGloriousPhoenix",
         "value": 1,
@@ -13288,7 +13288,7 @@
     "ascensionChest": {
         "id": "ascensionChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 750,
@@ -13298,7 +13298,7 @@
     "materialsChest": {
         "id": "materialsChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13309,7 +13309,7 @@
     "darkDescentSetChest": {
         "id": "darkDescentSetChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13320,7 +13320,7 @@
     "legacyCache4": {
         "id": "legacyCache4",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "tier": 4,
         "value": 1,
@@ -13332,7 +13332,7 @@
     "mutuallyAssuredSetChest": {
         "id": "mutuallyAssuredSetChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13343,7 +13343,7 @@
     "ascendedCache": {
         "id": "ascendedCache",
         "rarity": "epic",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13354,7 +13354,7 @@
     "serpentsDueSetChest": {
         "id": "serpentsDueSetChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13365,7 +13365,7 @@
     "divineInterventionSetChest": {
         "id": "divineInterventionSetChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13376,7 +13376,7 @@
     "deathTidesChest": {
         "id": "deathTidesChest",
         "rarity": "legendary",
-        "introducedSeason": "ascentIntoChaos",
+        "season": "ascentIntoChaos",
         "type": "chest",
         "value": 1,
         "weight": 100,
@@ -13387,7 +13387,7 @@
     "poseidonsBrew": {
         "id": "poseidonsBrew",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "consumable",
         "event": "moonshineLarceny",
         "value": 1,
@@ -13403,7 +13403,7 @@
     "largeSilverChest": {
         "id": "largeSilverChest",
         "rarity": "common",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
         "weight": 150,
@@ -13413,7 +13413,7 @@
     "frigateUpgrade1": {
         "id": "frigateUpgrade1",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 1,
         "value": 1,
         "required": {
@@ -13432,7 +13432,7 @@
     "frigateUpgrade2": {
         "id": "frigateUpgrade2",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 2,
         "value": 1,
         "required": {
@@ -13452,7 +13452,7 @@
     "frigateUpgrade3": {
         "id": "frigateUpgrade3",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 3,
         "value": 1,
         "required": {
@@ -13473,7 +13473,7 @@
     "frigateUpgrade4": {
         "id": "frigateUpgrade4",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 4,
         "value": 1,
         "required": {
@@ -13502,7 +13502,7 @@
     "frigateUpgrade5": {
         "id": "frigateUpgrade5",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 5,
         "value": 1,
         "required": {
@@ -13531,7 +13531,7 @@
     "frigateUpgrade6": {
         "id": "frigateUpgrade6",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 6,
         "value": 1,
         "required": {
@@ -13562,7 +13562,7 @@
     "frigateUpgrade7": {
         "id": "frigateUpgrade7",
         "type": "shipUpgrade",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "tier": 7,
         "value": 1,
         "required": {
@@ -13594,7 +13594,7 @@
         "id": "thunderDragonCannon",
         "type": "demicannon",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "obtainable": [
             "smugglerPass",
             "smugglerPassPinnacleStore"
@@ -13620,7 +13620,7 @@
         "id": "ashbreaker",
         "type": "bombard",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "event": "moonshineLarceny",
         "value": 1,
         "weight": 500,
@@ -13645,7 +13645,7 @@
         "id": "hellgateSerpent",
         "type": "torpedo",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "event": "darktideLullaby",
         "obtainable": "",
         "value": 1,
@@ -13670,7 +13670,7 @@
         "id": "stormVigil",
         "type": "rocket",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "obtainable": "williamBlackwoodSeasonalItem",
         "value": 1,
         "weight": 1000,
@@ -13694,7 +13694,7 @@
     "spiritcaller": {
         "id": "spiritcaller",
         "rarity": "rare",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "obtainable": "",
         "event": "darktideLullaby",
         "requiredSize": "medium",
@@ -13717,7 +13717,7 @@
     "harrowguard": {
         "id": "harrowguard",
         "rarity": "rare",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -13744,7 +13744,7 @@
     "wyrmhide": {
         "id": "wyrmhide",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -13769,7 +13769,7 @@
     "novaArma": {
         "id": "novaArma",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -13796,7 +13796,7 @@
     "trunnionFurnace": {
         "id": "trunnionFurnace",
         "rarity": "rare",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
@@ -13812,7 +13812,7 @@
     "acceleratedGunrailSmithy": {
         "id": "acceleratedGunrailSmithy",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 25,
         "value": 1,
@@ -13827,7 +13827,7 @@
     "ammoPrimingBench": {
         "id": "ammoPrimingBench",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
@@ -13845,7 +13845,7 @@
     "royalSentinel": {
         "id": "royalSentinel",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "obtainable": [
             "williamBlackwoodRotatingStore"
         ],
@@ -13871,7 +13871,7 @@
         "id": "roaringMeg",
         "type": "mortar",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "obtainable": [
             "williamBlackwoodSeasonalItem"
         ],
@@ -13904,7 +13904,7 @@
             ]
         ],
         "type": "offensiveFurniture",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "gearScore": 15,
         "value": 1,
         "weight": 175,
@@ -13926,7 +13926,7 @@
     "moonshineChest": {
         "id": "moonshineChest",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
         "worldEvent": [
@@ -13941,7 +13941,7 @@
     "moonshineStrongbox": {
         "id": "moonshineStrongbox",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
         "worldEvent": [
@@ -13957,7 +13957,7 @@
     "ascendedAshbreakerChest": {
         "id": "ascendedAshbreakerChest",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
         "worldEvent": "accountLedgerSainteAnne",
@@ -13972,7 +13972,7 @@
     "ascendedEventCache": {
         "id": "ascendedEventCache",
         "rarity": "epic",
-        "introducedSeason": "oathsOfWar",
+        "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
         "worldEvent": "accountLedgerSainteAnne",
