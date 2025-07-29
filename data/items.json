@@ -4384,6 +4384,7 @@
         "rarity": "rare",
         "season": "release",
         "requiredRank": "kingpin1",
+        "obtainable": ["moonshineChest","moonshineStrongbox"],
         "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
@@ -6850,6 +6851,8 @@
         "season": "chorusOfHavoc",
         "obtainable": [
             "regattaChest",
+            "moonshineChest",
+            "moonshineStrongbox",
             "williamBlackwoodRotatingStore"
         ],
         "event": "dragonsRegatta",
@@ -12124,6 +12127,7 @@
             "theHelm",
             "corruptDmcOfficerOutpost"
         ],
+        "obtainable": ["moonshineChest","moonshineStrongbox"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12591,6 +12595,7 @@
             ],
             "theHelm"
         ],
+        "obtainable": ["moonshineChest","moonshineStrongbox"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -13632,7 +13637,7 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 30,
-        "obtainable": "",
+        "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne"],
         "perks": [
             "marauder",
             "burning2",
@@ -13820,7 +13825,7 @@
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","moonshineChest","moonshineStrongbox"],
         "perks": [
             "acceleratedGunrailSmithy"
         ],
