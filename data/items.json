@@ -13396,6 +13396,7 @@
         "type": "consumable",
         "event": "moonshineLarceny",
         "worldEvent": "theManicMoonshinerFleet",
+        "obtainable": "defeatingMoonshiners",
         "value": 1,
         "weight": 10,
         "buffDuration": 20,
