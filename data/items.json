@@ -13802,7 +13802,10 @@
         "value": 1,
         "weight": 80,
         "event": "moonshineLarceny",
-        "obtainable": "",
+        "obtainable": "accountLedgerSainteAnne",
+        "required": {
+            "illicitMoonshine": 600
+        },
         "perks": [
             "trunnionFurnace"
         ],
