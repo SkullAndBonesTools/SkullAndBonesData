@@ -5492,8 +5492,7 @@
         "id": "fatanaStation1",
         "rarity": "rare",
         "tier": 1,
-        "season": "oathsOfWar",
-        "blueprint": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
@@ -5509,7 +5508,7 @@
         },
         "perks": ["fatanaStation1"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-07-29"
     },
     "tuningStation1": {
         "id": "tuningStation1",
