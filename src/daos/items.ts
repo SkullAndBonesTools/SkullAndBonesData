@@ -30,7 +30,7 @@ export class Item {
         public readonly requiredRank?: string,
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
-        public readonly obtainable?: string | string[],
+        public obtainable?: string | Item | Array<string | Item>,
         public readonly event?: Event,
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
@@ -84,10 +84,35 @@ export class Item {
         );
     }
 
+    public static updateObtainableWithItems(key:string, rawData:any, items: Record<string, Item>) {
+        if(!rawData.obtainable) return;
+        if(Array.isArray(rawData.obtainable)) {
+            const obtainable = new Array<string | Item>();
+            for(const obtainableKey of rawData.obtainable) {
+                const obtainableItem = items[obtainableKey];
+                if (obtainableItem) {
+                    obtainable.push(obtainableItem);
+                } else {
+                    obtainable.push(obtainableKey);
+                }
+            }
+            items[key].obtainable = obtainable;
+        } else {
+            const obtainableItem = items[rawData.obtainable];
+            if (obtainableItem) {
+                items[key].obtainable = obtainableItem;
+            }
+        }
+    }
+
     public static loadItems(): Record<string, Item> {
         const items: Record<string, Item> = {};
         for (const [key, value] of Object.entries(itemsData)) {
             items[key] = Item.fromRawData(value);
+        }
+
+        for (const [key, value] of Object.entries(itemsData)) {
+            Item.updateObtainableWithItems(key, value, items);
         }
         return items;
     }
