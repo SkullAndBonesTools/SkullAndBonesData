@@ -2023,9 +2023,10 @@
         "id": "twinWinchBallista",
         "type": "ballista",
         "rarity": "epic",
-        "season": "oathsOfWar",
+        "introducedSeason": "release",
         "requiredRank": "kingpin1",
-        "blueprint": "theHelmSeasonal",
+        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 750,
         "gearScore": 91,
@@ -2046,7 +2047,7 @@
         },
         "perks": ["doubleDraw", "piercing2"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-22"
+        "lastUpdated": "2025-07-29"
     },
     "seaFire1": {
         "id": "seaFire1",
@@ -5256,6 +5257,7 @@
         "id": "fauleIlse",
         "type": "demicannon",
         "rarity": "epic",
+        "introducedSeason": "chorusOfHavoc",
         "blueprint": "theHelmSeasonOathsOfWar",
         "obtainable": "theHelmSeasonChorusOfHavoc",
         "value": 1,
@@ -5469,8 +5471,9 @@
         "id": "dummySpringloader1",
         "rarity": "epic",
         "tier": 1,
-        "season": "oathsOfWar",
-        "blueprint": "theHelmSeasonal",
+        "introducedSeason": "chorusOfHavoc",
+        "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
         "type": "majorFurniture",
         "gearScore": 35,
         "value": 1,
@@ -5486,7 +5489,7 @@
         },
         "perks": ["dummySpringloader1"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-07-22"
+        "lastUpdated": "2025-07-29"
     },
     "fatanaStation1": {
         "id": "fatanaStation1",
@@ -5886,9 +5889,9 @@
         "id": "machinistStationRepair1",
         "tier": 1,
         "rarity": "rare",
-        "season": "oathsOfWar",
-        "obtainable": "williamBlackwoodRotatingStore",
-        "blueprint": "williamBlackwoodSeasonalItem",
+        "introducedSeason": "chorusOfHavoc",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore"],
+        "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 20,
         "value": 1,
@@ -5904,7 +5907,7 @@
             "silver": 4680
         },
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-21"
+        "lastUpdated": "2025-07-29"
     },
     "raisedQuarterdeck1": {
         "id": "raisedQuarterdeck1",
@@ -5973,8 +5976,8 @@
         "id": "compagnieScreens",
         "rarity": "epic",
         "obtainable": ["whiteAriaChest","williamBlackwoodRotatingStore"],
-        "blueprint": "williamBlackwoodSeasonalItem",
-        "season": "oathsOfWar",
+        "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
+        "introducedSeason": "chorusOfHavoc",
         "worldEvent": "verseOfRemorse",
         "bounty": "verseOfRemorse",
         "type": "utilityFurniture",
@@ -5992,7 +5995,7 @@
         },
         "perks": ["compagnieScreens"],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-07-22"
+        "lastUpdated": "2025-07-29"
     },
     "medicineCabinet": {
         "id": "medicineCabinet",
