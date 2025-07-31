@@ -22081,7 +22081,7 @@
     "theGloriousDead": {
         "id": "theGloriousDead",
         "type": "shipSkin",
-        "effect": "emissive",
+        "effect": ["emissive","combatReactive"],
         "set": "blackTorch",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
