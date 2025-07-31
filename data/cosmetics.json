@@ -22081,6 +22081,7 @@
     "theGloriousDead": {
         "id": "theGloriousDead",
         "type": "shipSkin",
+        "pieces": ["figureHead","ornaments","nameplate"],
         "effect": ["emissive","combatReactive"],
         "set": "blackTorch",
         "obtainable": "ubisoftStore",
