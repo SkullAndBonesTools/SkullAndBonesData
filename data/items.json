@@ -13969,9 +13969,9 @@
         "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
-        "worldEvent": "accountLedgerSainteAnne",
         "value": 1,
         "weight": 100,
+        "obtainable": "accountLedgerSainteAnne",
         "required": {
             "illicitMoonshine": 1800
         },
@@ -13984,7 +13984,7 @@
         "season": "oathsOfWar",
         "type": "chest",
         "event": "moonshineLarceny",
-        "worldEvent": "accountLedgerSainteAnne",
+        "obtainable": "accountLedgerSainteAnne",
         "value": 1,
         "weight": 100,
         "required": {
