@@ -48,13 +48,26 @@ export class Cosmetic {
         }
         let obtainable = rawData.obtainable ?? undefined;
         if(Array.isArray(obtainable)) {
-            const _obtainable = new Array<string | Item>();
+            const _obtainable = new Array<Array<string | Item> | string | Item>();
             for(const obtainableKey of rawData.obtainable as Array<keyof typeof Items>) {
-                const obtainableItem = Items[obtainableKey];
-                if (obtainableItem && obtainableItem.type === "chest") {
-                    _obtainable.push(obtainableItem);
+                if (Array.isArray(obtainableKey)) {
+                    const obtainableGroup = new Array<string | Item>();
+                    for (const subKey of obtainableKey as Array<keyof typeof Items>) {
+                        const obtainableItem = Items[subKey];
+                        if (obtainableItem && obtainableItem.type === "chest") {
+                            obtainableGroup.push(obtainableItem);
+                        } else {
+                            obtainableGroup.push(subKey);
+                        }
+                    }
+                    _obtainable.push(obtainableGroup);
                 } else {
-                    _obtainable.push(obtainableKey);
+                    const obtainableItem = Items[obtainableKey];
+                    if (obtainableItem && obtainableItem.type === "chest") {
+                        _obtainable.push(obtainableItem);
+                    } else {
+                        _obtainable.push(obtainableKey);
+                    }
                 }
             }
             obtainable = _obtainable;

@@ -87,13 +87,26 @@ export class Item {
     public static updateObtainableWithItems(key:string, rawData:any, items: Record<string, Item>) {
         if(!rawData.obtainable) return;
         if(Array.isArray(rawData.obtainable)) {
-            const obtainable = new Array<string | Item>();
+            const obtainable = new Array<Array<string | Item> | string | Item>();
             for(const obtainableKey of rawData.obtainable) {
-                const obtainableItem = items[obtainableKey];
-                if (obtainableItem && obtainableItem.type === "chest") {
-                    obtainable.push(obtainableItem);
+                if (Array.isArray(obtainableKey)) {
+                    const obtainableGroup = new Array<string | Item>();
+                    for (const subKey of obtainableKey) {
+                        const obtainableItem = items[subKey];
+                        if (obtainableItem && obtainableItem.type === "chest") {
+                            obtainableGroup.push(obtainableItem);
+                        } else {
+                            obtainableGroup.push(subKey);
+                        }
+                    }
+                    obtainable.push(obtainableGroup);
                 } else {
-                    obtainable.push(obtainableKey);
+                    const obtainableItem = items[obtainableKey];
+                    if (obtainableItem && obtainableItem.type === "chest") {
+                        obtainable.push(obtainableItem);
+                    } else {
+                        obtainable.push(obtainableKey);
+                    }
                 }
             }
             items[key].obtainable = obtainable;
