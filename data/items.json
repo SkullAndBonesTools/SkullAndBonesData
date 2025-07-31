@@ -12427,7 +12427,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 793,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
@@ -12460,7 +12460,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 1069,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
@@ -12494,7 +12494,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 1345,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
@@ -12530,7 +12530,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 868,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
@@ -12565,7 +12565,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 1146,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
@@ -12602,7 +12602,7 @@
         "projectilesPerShot": 1,
         "damagePerShot": 1424,
         "rateOfFire": 150,
-        "reloadSpeed": 5000,
+        "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
