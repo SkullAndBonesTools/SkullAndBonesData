@@ -17868,10 +17868,10 @@
                 "general": "True madness is wasting away one's life and liberty"
             }
         },
-        "greedyGoblin": {
-            "name": "Greedy Goblin",
+        "goblinsGreed": {
+            "name": "Goblin's Greed",
             "description": {
-                "general": ""
+                "general": "\"Aye, we'll rip off their limbs and raid their ugly corpses!\""
             }
         }
     }

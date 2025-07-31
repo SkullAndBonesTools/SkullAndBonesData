@@ -25577,8 +25577,8 @@
         "dateAdded": "2025-07-29",
         "lastUpdated": "2025-07-29"
     },
-    "greedyGoblin": {
-        "id": "greedyGoblin",
+    "goblinsGreed": {
+        "id": "goblinsGreed",
         "type": "sailsEmblem",
         "obtainable": "twitchDropChargingCharlie",
         "dateAdded": "2025-07-29",
