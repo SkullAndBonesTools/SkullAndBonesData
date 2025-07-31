@@ -13992,5 +13992,60 @@
         },
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-29"
+    },
+    "topDeckWeaponsAscendedCache": {
+        "id": "topDeckWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 100,
+        "obtainable": ["megafortCache","deathTidesProgression"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "auxiliaryWeaponsAscendedCache": {
+        "id": "auxiliaryWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 100,
+        "obtainable": ["megafortCache","deathTidesProgression"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "frontWeaponsAscendedCache": {
+        "id": "frontWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 100,
+        "obtainable": ["megafortCache","deathTidesProgression"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "allDeckWeaponsAscendedCache": {
+        "id": "allDeckWeaponsAscendedCache",
+        "rarity": "epic",
+        "type": "chest",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 100,
+        "obtainable": ["megafortCache","deathTidesProgression"],
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
+    },
+    "megafortCache": {
+        "id": "megafortCache",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "defeatMegafortWolvenhol",
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-07-15"
     }
 }

@@ -2462,6 +2462,36 @@
             "description": {
                 "general": "Contains an Ascended Event weapon."
             }
+        },
+        "topDeckWeaponsAscendedCache": {
+            "name": "Top-Deck Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Top-Deck Weapons that will be ascended upon opening"
+            }
+        },
+        "auxiliaryWeaponsAscendedCache": {
+            "name": "Auxiliary Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Auxiliary Weapons that will be ascended upon opening"
+            }
+        },
+        "frontWeaponsAscendedCache": {
+            "name": "Front Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of Front Weapons that will be ascended upon opening"
+            }
+        },
+        "allDeckWeaponsAscendedCache": {
+            "name": "All-Deck Weapons Ascended Cache",
+            "description": {
+                "general": "A collection of All-Deck Weapons that will be ascended upon opening"
+            }
+        },
+        "megafortCache": {
+            "name": "Megafort Cache",
+            "description": {
+                "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
+            }
         }
     }
 }
