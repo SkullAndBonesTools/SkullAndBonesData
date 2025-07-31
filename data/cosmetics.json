@@ -25535,6 +25535,7 @@
     "onTheDeck": {
         "id": "onTheDeck",
         "type": "firework",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
@@ -25542,6 +25543,7 @@
     "crossedDeck": {
         "id": "crossedDeck",
         "type": "firework",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
