@@ -25586,5 +25586,12 @@
         "obtainable": "twitchDropChargingCharlie",
         "dateAdded": "2025-07-29",
         "lastUpdated": "2025-07-29"
+    },
+    "calypsosCurse": {
+        "id": "calypsosCourse",
+        "type": "crewLook",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-08-05",
+        "lastUpdated": "2025-08-05"
     }
 }

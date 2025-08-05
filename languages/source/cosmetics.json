@@ -17873,6 +17873,12 @@
             "description": {
                 "general": "\"Aye, we'll rip off their limbs and raid their ugly corpses!\""
             }
+        },
+        "calypsosCurse": {
+            "name": "Calypso's Curse",
+            "description": {
+                "general": "\"Who dares walk in the sea witch's wake?\""
+            }
         }
     }
 }
