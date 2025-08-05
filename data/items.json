@@ -6075,6 +6075,7 @@
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -6085,7 +6086,12 @@
         "optimalRange": 300,
         "timeToTarget": 2250,
         "required": {
-            "sovereigns": 600
+            "roselleCloth": 8,
+            "sinewString": 4,
+            "torsionSpring": 4,
+            "orcasMechanism": 2,
+            "gannetsSaltpeter": 2,
+            "silver": 4290
         },
         "perks": [
             "rocketArtillery",
@@ -6093,7 +6099,7 @@
             "burning1"
         ],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-05"
     },
     "endlessRequiem": {
         "id": "endlessRequiem",
@@ -6258,18 +6264,25 @@
         "season": "chorusOfHavoc",
         "tier": 1,
         "obtainable": "theHelmSeasonal",
+        "blueprint": "theHelmSeasonOathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
         "required": {
-            "sovereigns": 400
+            "magnetiteIngot": 16,
+            "purifiedSaltpeter": 14,
+            "naphtha": 4,
+            "rubber": 4,
+            "wyrmVolatileNapalm": 1,
+            "gannetDenseNiter": 1,
+            "silver": 4680
         },
         "perks": [
             "tuningStation1"
         ],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-05"
     },
     "mineSpringloader1": {
         "id": "mineSpringloader1",
