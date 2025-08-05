@@ -17879,6 +17879,30 @@
             "description": {
                 "general": "\"Who dares walk in the sea witch's wake?\""
             }
+        },
+        "heedDeath": {
+            "name": "Heed Death",
+            "description": {
+                "general": "Kill to survive"
+            }
+        },
+        "piratesClutches": {
+            "name": "Pirate's Clutches",
+            "description": {
+                "general": "Take what you can"
+            }
+        },
+        "gouged": {
+            "name": "Gouged",
+            "description": {
+                "general": "Eliminate every last enemy"
+            }
+        },
+        "darkAndDevious": {
+            "name": "Dark and Devious",
+            "description": {
+                "general": "Target your opponent's weakness"
+            }
         }
     }
 }

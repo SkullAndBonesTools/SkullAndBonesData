@@ -25593,5 +25593,37 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-08-05",
         "lastUpdated": "2025-08-05"
+    },
+    "heedDeath": {
+        "id": "heedDeath",
+        "type": "sailsEmblem",
+        "obtainable": "ubisoftStore",
+        "set": "talonStrike",
+        "dateAdded": "2025-08-05",
+        "lastUpdated": "2025-08-05"
+    },
+    "piratesClutches": {
+        "id": "piratesClutches",
+        "type": "sailsPattern",
+        "obtainable": "ubisoftStore",
+        "set": "talonStrike",
+        "dateAdded": "2025-08-05",
+        "lastUpdated": "2025-08-05"
+    },
+    "gouged": {
+        "id": "gouged",
+        "type": "sailsColor",
+        "obtainable": "ubisoftStore",
+        "set": "talonStrike",
+        "dateAdded": "2025-08-05",
+        "lastUpdated": "2025-08-05"
+    },
+    "darkAndDevious": {
+        "id": "darkAndDevious",
+        "type": "hull",
+        "obtainable": "ubisoftStore",
+        "set": "talonStrike",
+        "dateAdded": "2025-08-05",
+        "lastUpdated": "2025-08-05"
     }
 }

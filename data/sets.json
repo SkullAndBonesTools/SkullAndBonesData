@@ -1306,5 +1306,9 @@
     "devilsMirth": {
         "id": "devilsMirth",
         "type": "ship"
+    },
+    "talonStrike": {
+        "id": "talonStrike",
+        "type": "ship"
     }
 }
