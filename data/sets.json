@@ -1310,5 +1310,9 @@
     "talonStrike": {
         "id": "talonStrike",
         "type": "ship"
+    },
+    "swiftTrigger": {
+        "id": "swiftTrigger",
+        "type": "ship"
     }
 }

@@ -17903,6 +17903,30 @@
             "description": {
                 "general": "Target your opponent's weakness"
             }
+        },
+        "doubleDown": {
+            "name": "Double Down",
+            "description": {
+                "general": "Twice the violence and mayhem"
+            }
+        },
+        "silkySmooth": {
+            "name": "Silky Smooth",
+            "description": {
+                "general": "As a polished barrel"
+            }
+        },
+        "bleedingCanvas": {
+            "name": "Bleeding Canvas",
+            "description": {
+                "general": "Painted by your triumph"
+            }
+        },
+        "gunsmoke": {
+            "name": "Gunsmoke",
+            "description": {
+                "general": "Hangs heavy, yet its scent is sharply tantalizing"
+            }
         }
     }
 }

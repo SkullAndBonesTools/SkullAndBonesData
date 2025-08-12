@@ -25625,5 +25625,37 @@
         "set": "talonStrike",
         "dateAdded": "2025-08-05",
         "lastUpdated": "2025-08-05"
+    },
+    "doubleDown": {
+        "id": "doubleDown",
+        "type": "sailsEmblem",
+        "obtainable": "ubisoftStore",
+        "set": "swiftTrigger",
+        "dateAdded": "2025-08-12",
+        "lastUpdated": "2025-08-12"
+    },
+    "silkySmooth": {
+        "id": "silkySmooth",
+        "type": "sailsPattern",
+        "obtainable": "ubisoftStore",
+        "set": "swiftTrigger",
+        "dateAdded": "2025-08-12",
+        "lastUpdated": "2025-08-12"
+    },
+    "bleedingCanvas": {
+        "id": "bleedingCanvas",
+        "type": "sailsColor",
+        "obtainable": "ubisoftStore",
+        "set": "swiftTrigger",
+        "dateAdded": "2025-08-12",
+        "lastUpdated": "2025-08-12"
+    },
+    "gunsmoke": {
+        "id": "gunsmoke",
+        "type": "hull",
+        "obtainable": "ubisoftStore",
+        "set": "swiftTrigger",
+        "dateAdded": "2025-08-12",
+        "lastUpdated": "2025-08-12"
     }
 }
