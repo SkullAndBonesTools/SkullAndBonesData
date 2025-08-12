@@ -17927,6 +17927,12 @@
             "description": {
                 "general": "Hangs heavy, yet its scent is sharply tantalizing"
             }
+        },
+        "courtingDeath": {
+            "name": "Courting Death",
+            "description": {
+                "general": "\"What most fear, I shall welcome like an old friend.\""
+            }
         }
     }
 }

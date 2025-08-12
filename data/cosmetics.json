@@ -25657,5 +25657,12 @@
         "set": "swiftTrigger",
         "dateAdded": "2025-08-12",
         "lastUpdated": "2025-08-12"
+    },
+    "courtingDeath": {
+        "id": "courtingDeath",
+        "type": "sailsEmblem",
+        "obtainable": "twitchDropDeathwish",
+        "dateAdded": "2025-08-12",
+        "lastUpdated": "2025-08-12"
     }
 }
