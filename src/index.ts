@@ -21,7 +21,7 @@ export { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticTyp
 
 // Constants
 export { CommodityCategories, MaterialCategories, AchievementCategories } from "./types/Category";
-export { Tiers, WeaponTypes, FurnitureTypes } from "./types/ItemProperties";
+export { Tiers, WeaponTypes, FrontWeaponTypes, TopDeckWeaponTypes, AuxiliaryWeaponTypes, FurnitureTypes } from "./types/ItemProperties";
 export { Rarities } from "./types/Rarity";
 export { ShipSizes } from "./types/ShipProperties";
 export { UltimateTypes } from "./types/UltimateProperties";
