@@ -24141,34 +24141,34 @@
         "id": "washedGray",
         "type": "hull",
         "set": "wickedCorsair",
-        "obtainable": "twitchDropStartYear2Season2",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-08-13"
     },
     "bleakBanners": {
         "id": "bleakBanners",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "wickedCorsair",
-        "obtainable": "twitchDropStartYear2Season2",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-08-13"
     },
     "headsWillRoll": {
         "id": "headsWillRoll",
         "type": "sailsEmblem",
         "set": "wickedCorsair",
-        "obtainable": "twitchDropStartYear2Season2",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-08-13"
     },
     "flamingWill": {
         "id": "flamingWill",
         "type": "sailsPattern",
         "set": "wickedCorsair",
-        "obtainable": "twitchDropStartYear2Season2",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-08-13"
     },
     "sunsHome": {
         "id": "sunsHome",
@@ -25583,9 +25583,9 @@
     "goblinsGreed": {
         "id": "goblinsGreed",
         "type": "sailsEmblem",
-        "obtainable": "twitchDropChargingCharlie",
+        "obtainable": [["twitchDrop","twitchDropChargingCharlie"]],
         "dateAdded": "2025-07-29",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-13"
     },
     "calypsosCurse": {
         "id": "calypsosCurse",
@@ -25661,8 +25661,8 @@
     "courtingDeath": {
         "id": "courtingDeath",
         "type": "sailsEmblem",
-        "obtainable": "twitchDropDeathwish",
+        "obtainable": [["twitchDrop","twitchDropDeathwish"]],
         "dateAdded": "2025-08-12",
-        "lastUpdated": "2025-08-12"
+        "lastUpdated": "2025-08-13"
     }
 }
