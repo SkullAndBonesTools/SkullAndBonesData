@@ -1,5 +1,5 @@
 import shipsData from '../../data/ships.json';
-import { ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from '../types/ShipProperties';
+import { ShipArchetype, ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from '../types/ShipProperties';
 import { Contract, Contracts } from './contracts';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
@@ -9,6 +9,7 @@ export class Ship {
         public readonly id: string,
         public readonly size: ShipSize,
         public readonly type: string,
+        public readonly archetype: ShipArchetype,
         public readonly contract: Contract | undefined,
         public readonly blueprint: string | string[] | undefined,
         public readonly season: Season | undefined,
@@ -60,6 +61,7 @@ export class Ship {
             rawData.id,
             rawData.size,
             rawData.type,
+            rawData.archetype,
             rawData.contract ? Contracts[contract] : undefined,
             rawData.blueprint ?? undefined,
             season ? Seasons[season] : undefined,

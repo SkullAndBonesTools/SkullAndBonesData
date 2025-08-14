@@ -3,6 +3,7 @@
         "id": "dhow",
         "size": "extraSmall",
         "type": "ships",
+        "archetype": "dps",
         "hitpoints": 7000,
         "braceStrength": 0,
         "braceStrengthRecovery": 0,
@@ -23,12 +24,13 @@
         },
         "perks": ["hunter","outOfSight"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-08-14"
     },
     "bedar": {
         "id": "bedar",
         "size": "small",
         "type": "ships",
+        "archetype": "dps",
         "hitpoints": 22000,
         "braceStrength": 4400,
         "braceStrengthRecovery": 1,
@@ -69,12 +71,13 @@
         },
         "perks": ["lancer"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2025-08-14"
     },
     "hulk": {
         "id": "hulk",
         "size": "small",
         "type": "ships",
+        "archetype": "tank",
         "hitpoints": 30000,
         "requiredRank": "rover1",
         "blueprint": "outpostSacredTree",
@@ -118,12 +121,13 @@
         },
         "perks": ["ironclad"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2025-08-14"
     },
     "cutter": {
         "id": "cutter",
         "size": "small",
         "type": "ships",
+        "archetype": "support",
         "hitpoints": 21000,
         "requiredRank": "rover1",
         "blueprint": ["contractReward","seaPeopleHunterMasterOutpostLanitra"],
@@ -165,12 +169,13 @@
         },
         "perks": ["unburden"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "barge": {
         "id": "barge",
         "size": "small",
         "type": "ships",
+        "archetype": "dps",
         "requiredRank": "buccaneer1",
         "blueprint": "outpostKaaMangrove",
         "hitpoints": 27000,
@@ -215,12 +220,13 @@
         },
         "perks": ["wildfire"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "sloop": {
         "id": "sloop",
         "size": "small",
         "type": "ships",
+        "archetype": "dps",
         "requiredRank": "buccaneer1",
         "blueprint": "outpostSunkenGoldmine",
         "hitpoints": 25000,
@@ -262,12 +268,13 @@
         },
         "perks": ["outburst"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "padewakang": {
         "id": "padewakang",
         "size": "medium",
         "type": "ships",
+        "archetype": "dps",
         "requiredRank": "brigand1",
         "blueprint": "denTelokPenjarah",
         "hitpoints": 37000,
@@ -316,12 +323,13 @@
         },
         "perks": ["detonate"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "snow": {
         "id": "snow",
         "size": "medium",
         "type": "ships",
+        "archetype": "tank",
         "requiredRank": "corsair1",
         "blueprint": "outpostKhmoyEstate",
         "hitpoints": 50000,
@@ -370,12 +378,13 @@
         },
         "perks": ["tenacity"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "brigantine": {
         "id": "brigantine",
         "size": "medium",
         "type": "ships",
+        "archetype": "dps",
         "requiredRank": "cutthroat1",
         "blueprint": "outpostTheRuinedLighthouse",
         "hitpoints": 40000,
@@ -425,12 +434,13 @@
         },
         "perks": ["bullhorn"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "sambuk": {
         "id": "sambuk",
         "size": "medium",
         "type": "ships",
+        "archetype": "dps",
         "requiredRank": "cutthroat1",
         "blueprint": "helmSaintAnne",
         "hitpoints": 35000,
@@ -481,12 +491,13 @@
         },
         "perks": ["scorched"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "barque": {
         "id": "barque",
         "size": "medium",
         "type": "ships",
+        "archetype": "support",
         "season": "ragingTides",
         "blueprint": ["theHelmSeasonal","williamBlackwoodRotatingStoreOathsOfWar"],
         "hitpoints": 36000,
@@ -537,12 +548,13 @@
         },
         "perks": ["revitalized"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "brig": {
         "id": "brig",
         "size": "medium",
         "type": "ships",
+        "archetype": "support",
         "blueprint": ["smugglerPass45Reward","williamBlackwoodRotatingStoreOathsOfWar"],
         "season": "chorusOfHavoc",
         "hitpoints": 35000,
@@ -593,12 +605,13 @@
         },
         "perks": ["artificer"],
         "dateAdded": "2024-05-28",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "battleJunk": {
         "id": "battleJunk",
         "size": "medium",
         "type": "ships",
+        "archetype": "tank",
         "blueprint": ["smugglerPass45Reward","williamBlackwoodRotatingStoreOathsOfWar"],
         "season": "intoTheDragonsWake",
         "hitpoints": 48000,
@@ -648,12 +661,13 @@
         },
         "perks": ["provoke"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "garuda": {
         "id": "garuda",
         "size": "medium",
         "type": "ships",
+        "archetype": "dps",
         "blueprint": ["smugglerPass45Reward","williamBlackwoodRotatingStoreOathsOfWar"],
         "season": "shadowsOfTheDeep",
         "hitpoints": 32000,
@@ -703,12 +717,13 @@
         },
         "perks": ["deadeye"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "schooner": {
         "id": "schooner",
         "size": "medium",
         "type": "ships",
+        "archetype": "dps",
         "blueprint": ["smugglerPass45Reward","williamBlackwoodRotatingStoreOathsOfWar"],
         "season": "ascentIntoChaos",
         "hitpoints": 36000,
@@ -758,12 +773,13 @@
         },
         "perks": ["fury"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-08-14"
     },
     "frigate": {
         "id": "frigate",
         "size": "large",
         "type": "ships",
+        "archetype": "tank",
         "blueprint": "smugglerPass45Reward",
         "season": "oathsOfWar",
         "hitpoints": 100000,
@@ -816,6 +832,6 @@
         },
         "perks": ["grit","colossal","abundantGunports"],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-08-14"
     }
 }

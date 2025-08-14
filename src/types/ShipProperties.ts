@@ -10,3 +10,7 @@ export type SlotWithGunportsAcrossDecks = [
         lower?: number
     }
 ];
+export const ShipArchetypes = [
+    "tank", "dps", "support"
+] as const;
+export type ShipArchetype = (typeof ShipArchetypes)[number];
