@@ -2492,6 +2492,39 @@
             "description": {
                 "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
             }
+        },
+        "teulingsMaterialsChest": {
+            "name": "Teuling's Materials Chest",
+            "description": {
+                "general": "Contains a selection of rare materials for crafting."
+            }
+        },
+        "teulingsItemAscensionChest": {
+            "name": "Teuling's Item Ascension Chest",
+            "description": {
+                "general": "Contains a selection of items for ascension."
+            }
+        },
+        "teulingsArmorChest": {
+            "name": "Teuling's Armor Chest",
+            "description": {
+                "general": "Contains a random Smuggler Pass Armor.",
+                "1": "Contains a random Smuggler Pass Armor from Year 1."
+            }
+        },
+        "teulingsFurnitureChest": {
+            "name": "Teuling's Furniture Chest",
+            "description": {
+                "general": "Contains a random Smuggler Pass Furniture.",
+                "1": "Contains a random Smuggler Pass Furniture from Year 1."
+            }
+        },
+        "teulingsWeaponChest": {
+            "name": "Teuling's Weapon Chest",
+            "description": {
+                "general": "Contains a random Smuggler Pass Weapon.",
+                "1": "Contains a random Smuggler Pass Weapon from Year 1."
+            }
         }
     }
 }

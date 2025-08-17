@@ -313,7 +313,8 @@
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1"
         ],
         "value": 1,
         "weight": 500,
@@ -337,7 +338,7 @@
             "flooding1"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "demicannon1": {
         "id": "demicannon1",
@@ -1460,7 +1461,8 @@
         "blueprint": "williamBlackwoodRotatingStore",
         "obtainable": [
             "smugglerPass",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1"
         ],
         "type": "armor",
         "value": 1,
@@ -1487,7 +1489,7 @@
             "agileGuard"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "royalCustodian": {
         "id": "royalCustodian",
@@ -5947,12 +5949,12 @@
             "precisionDrillingBit": 2,
             "gannetsSaltpeter": 1
         },
-        "obtainable": "williamBlackwoodRotatingStore",
+        "obtainable": ["williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "perks": [
             "laPotenceSchematics1"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "fauleIlse": {
         "id": "fauleIlse",
@@ -6383,7 +6385,8 @@
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1"
         ],
         "requiredSize": "medium",
         "type": "springloader",
@@ -6409,7 +6412,7 @@
             "burning3"
         ],
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "littleGrace1": {
         "id": "littleGrace1",
@@ -6727,7 +6730,8 @@
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1"
         ],
         "type": "majorFurniture",
         "gearScore": 35,
@@ -6746,7 +6750,7 @@
             "buoyLocker1"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "brouwersPowderhouse1": {
         "id": "brouwersPowderhouse1",
@@ -6914,7 +6918,8 @@
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1"
         ],
         "value": 1,
         "weight": 500,
@@ -6940,7 +6945,7 @@
             "ironPlastron"
         ],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "cursedBanner": {
         "id": "cursedBanner",
@@ -10120,7 +10125,7 @@
         "type": "longGun",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -10137,7 +10142,7 @@
             "piercing2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "immortalVessel": {
         "id": "immortalVessel",
@@ -10157,12 +10162,12 @@
             "electric": 0.09
         },
         "required": {},
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "perks": [
             "indomitable"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "voltasWard": {
         "id": "voltasWard",
@@ -10219,13 +10224,13 @@
         "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 25,
-        "blueprint": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "required": {},
         "perks": [
             "chargeStores"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "battleJunkUpgrade1": {
         "id": "battleJunkUpgrade1",
@@ -10799,7 +10804,7 @@
         "type": "mortar",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -10818,7 +10823,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "blightkeeper": {
         "id": "blightkeeper",
@@ -10925,7 +10930,7 @@
         "id": "tanashah",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -10945,7 +10950,7 @@
             "reinforced"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "painPiper": {
         "id": "painPiper",
@@ -11031,12 +11036,12 @@
         "weight": 250,
         "gearScore": 35,
         "required": {},
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "perks": [
             "teulingsGuidance"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "strangeElixir": {
         "id": "strangeElixir",
@@ -11314,7 +11319,7 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","teulingsWeaponChest1"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -11332,7 +11337,7 @@
             "flooding2"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "rumFruitcake": {
         "id": "rumFruitcake",
@@ -14064,5 +14069,60 @@
         "obtainable": "defeatMegafortWolvenhol",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "teulingsMaterialsChest1": {
+        "id": "teulingsMaterialsChest1",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "smugglerPassPinnacleStore",
+        "dateAdded": "2025-08-17",
+        "lastUpdated": "2025-08-17"
+    },
+    "teulingsItemAscensionChest1": {
+        "id": "teulingsItemAscensionChest1",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "smugglerPassPinnacleStore",
+        "dateAdded": "2025-08-17",
+        "lastUpdated": "2025-08-17"
+    },
+    "teulingsArmorChest1": {
+        "id": "teulingsArmorChest1",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "smugglerPassPinnacleStore",
+        "dateAdded": "2025-08-17",
+        "lastUpdated": "2025-08-17"
+    },
+    "teulingsFurnitureChest1": {
+        "id": "teulingsFurnitureChest1",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "smugglerPassPinnacleStore",
+        "dateAdded": "2025-08-17",
+        "lastUpdated": "2025-08-17"
+    },
+    "teulingsWeaponChest1": {
+        "id": "teulingsWeaponChest1",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "smugglerPassPinnacleStore",
+        "dateAdded": "2025-08-17",
+        "lastUpdated": "2025-08-17"
     }
 }
