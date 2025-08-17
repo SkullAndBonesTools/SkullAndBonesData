@@ -32,7 +32,7 @@ export class Item {
         public readonly perks?: string[],
         public readonly rarity?: Rarity,
         public obtainable?: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string>,
-        public readonly event?: Event,
+        public readonly event?: Event | Event[],
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,

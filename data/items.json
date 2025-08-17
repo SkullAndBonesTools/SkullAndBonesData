@@ -10744,7 +10744,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "event": "enterTheNian",
+        "event": ["enterTheNian","moonshineLarceny"],
         "obtainable": [
             "idolOfTheBeastStatue",
             "nianStrongbox",
@@ -10765,7 +10765,7 @@
             "explosive1"
         ],
         "dateAdded": "2025-01-14",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "agnisFury": {
         "id": "agnisFury",
@@ -11287,7 +11287,7 @@
             "azuriteLodestoneSaintAnne",
             "ascendedEventCache"
         ],
-        "event": "azureSolstice",
+        "event": ["azureSolstice","moonshineLarceny"],
         "worldEvent": "theAzureRoyale",
         "value": 1,
         "weight": 500,
@@ -11307,7 +11307,7 @@
             "piercing1"
         ],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "dahaaka": {
         "id": "dahaaka",
@@ -11956,7 +11956,7 @@
         "type": "bombard",
         "rarity": "epic",
         "season": "ascentIntoChaos",
-        "event": "theHonorless",
+        "event": ["theHonorless","moonshineLarceny"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -11981,7 +11981,7 @@
             "electric1"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "tearingLongGun1": {
         "id": "tearingLongGun1",
@@ -12406,7 +12406,7 @@
             "bloodiedStrongbox",
             "ascendedEventCache"
         ],
-        "event": "theHonorless",
+        "event": ["theHonorless","moonshineLarceny"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12424,7 +12424,7 @@
             "combustion3"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-17"
     },
     "fireCulverin1": {
         "id": "fireCulverin1",
