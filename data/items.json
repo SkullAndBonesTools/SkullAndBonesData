@@ -10747,7 +10747,8 @@
         "event": "enterTheNian",
         "obtainable": [
             "idolOfTheBeastStatue",
-            "nianStrongbox"
+            "nianStrongbox",
+            "ascendedEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -11283,7 +11284,8 @@
         "season": "shadowsOfTheDeep",
         "obtainable": [
             "azureStrongbox",
-            "azuriteLodestoneSaintAnne"
+            "azuriteLodestoneSaintAnne",
+            "ascendedEventCache"
         ],
         "event": "azureSolstice",
         "worldEvent": "theAzureRoyale",
@@ -11967,7 +11969,8 @@
         "blastRadius": 35,
         "obtainable": [
             "theHelmEvent",
-            "bloodiedStrongbox"
+            "bloodiedStrongbox",
+            "ascendedEventCache"
         ],
         "required": {
             "bloodiedDoubloon": 1000
@@ -12400,7 +12403,8 @@
         "season": "ascentIntoChaos",
         "obtainable": [
             "theHelmEvent",
-            "bloodiedStrongbox"
+            "bloodiedStrongbox",
+            "ascendedEventCache"
         ],
         "event": "theHonorless",
         "value": 1,
@@ -13651,7 +13655,7 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 30,
-        "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne"],
+        "obtainable": ["moonshineStrongbox","accountLedgerSainteAnne","ascendedAshbreakerChest","ascendedEventCache"],
         "perks": [
             "marauder",
             "burning2",
