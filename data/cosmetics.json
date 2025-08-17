@@ -3238,7 +3238,7 @@
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingDmcTreasureChest"],
+        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
         "lastUpdated": "2024-04-10"
     },
@@ -3248,7 +3248,7 @@
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingDmcTreasureChest"],
+        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
         "lastUpdated": "2024-04-10"
     },
@@ -3443,7 +3443,7 @@
         "type": "torso",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingDmcTreasureChest"],
+        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-06-29"
     },
@@ -3452,7 +3452,7 @@
         "type": "bottom",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingDmcTreasureChest"],
+        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-05-22"
     },
@@ -3481,7 +3481,7 @@
         "type": "waist",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingDmcTreasureChest"],
+        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-06-22"
     },
@@ -3521,7 +3521,7 @@
         "id": "jaegerOfficerCoat",
         "type": "torso",
         "worldEvent": "theOpwelling",
-        "obtainable": "opwellingDmcTreasureChest",
+        "obtainable": "opwellingTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-10"
     },
@@ -9502,7 +9502,7 @@
         "id": "dmcBreechesBlue",
         "type": "bottom",
         "worldEvent": "theOpwelling",
-        "obtainable": "opwellingDmcTreasureChest",
+        "obtainable": "opwellingTreasureChest",
         "dateAdded": "2024-05-07",
         "lastUpdated": "2024-05-22"
     },

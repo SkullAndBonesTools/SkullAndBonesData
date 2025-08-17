@@ -6752,7 +6752,7 @@
         "id": "brouwersPowderhouse1",
         "rarity": "rare",
         "season": "chorusOfHavoc",
-        "obtainable": "soleilRoyalCompagnieRoyaleTreasureChest",
+        "obtainable": "soleilRoyalTreasureChest",
         "blueprint": "personScurlockSainteAnne",
         "worldEvent": "symphonieMortelle",
         "bounty": "symphonieMortelle",
@@ -8923,7 +8923,7 @@
         },
         "worldEvent": "symphonieMortelle",
         "bounty": "symphonieMortelle",
-        "obtainable": "soleilRoyalCompagnieRoyaleTreasureChest",
+        "obtainable": "soleilRoyalTreasureChest",
         "blueprint": "personScurlockSainteAnne",
         "perks": [
             "scupperStation1"
