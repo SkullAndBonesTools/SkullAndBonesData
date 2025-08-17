@@ -43,7 +43,9 @@ export class Item {
 
     public static fromRawData(rawData: any): Item {
         const season = rawData.season as keyof typeof Seasons;
-        const event = rawData.event as keyof typeof Events;
+        const event = Array.isArray(rawData.event)
+            ? rawData.event.map((_event: string) => Events[_event as keyof typeof Events])
+            : Events[rawData.event as keyof typeof Events];
         const contract = rawData.contract as keyof typeof Contracts;
         const worldEvent = Array.isArray(rawData.worldEvent)
             ? rawData.worldEvent.map((_worldEvent: string) => WorldEvents[_worldEvent as keyof typeof WorldEvents])
@@ -81,7 +83,7 @@ export class Item {
             rawData.perks ?? [],
             rawData.rarity ?? undefined,
             rawData.obtainable ?? undefined,
-            rawData.event ? Events[event] : undefined,
+            event ?? undefined,
             worldEvent ?? undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
