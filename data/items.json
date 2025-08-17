@@ -14074,7 +14074,7 @@
     },
     "teulingsMaterialsChest1": {
         "id": "teulingsMaterialsChest1",
-        "rarity": "legendary",
+        "rarity": "epic",
         "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
@@ -14085,7 +14085,7 @@
     },
     "teulingsItemAscensionChest1": {
         "id": "teulingsItemAscensionChest1",
-        "rarity": "legendary",
+        "rarity": "epic",
         "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
@@ -14096,7 +14096,7 @@
     },
     "teulingsArmorChest1": {
         "id": "teulingsArmorChest1",
-        "rarity": "legendary",
+        "rarity": "epic",
         "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
@@ -14107,7 +14107,7 @@
     },
     "teulingsFurnitureChest1": {
         "id": "teulingsFurnitureChest1",
-        "rarity": "legendary",
+        "rarity": "epic",
         "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
@@ -14118,7 +14118,7 @@
     },
     "teulingsWeaponChest1": {
         "id": "teulingsWeaponChest1",
-        "rarity": "legendary",
+        "rarity": "epic",
         "season": "oathsOfWar",
         "type": "chest",
         "value": 1,
