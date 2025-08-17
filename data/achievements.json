@@ -112,7 +112,7 @@
         "lastUpdated": "2025-05-18"
     },
     "demicannonMastery1": {
-        "id": "demiCannonMastery1",
+        "id": "demicannonMastery1",
         "category": "mastery",
         "tier": 1,
         "goal": 1000000,
@@ -120,7 +120,7 @@
         "lastUpdated": "2025-05-18"
     },
     "demicannonMastery2": {
-        "id": "demiCannonMastery2",
+        "id": "demicannonMastery2",
         "category": "mastery",
         "tier": 2,
         "goal": 10000000,
@@ -348,7 +348,7 @@
         "lastUpdated": "2025-05-18"
     },
     "wolfpack1": {
-        "id": "wolfpack",
+        "id": "wolfpack1",
         "tier": 1,
         "category": "cooperative",
         "goal": 1337,
