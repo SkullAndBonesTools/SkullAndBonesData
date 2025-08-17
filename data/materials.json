@@ -41,6 +41,10 @@
         "faction": "pirates",
         "event": "moonshineLarceny"
     },
+    "smugglersMark": {
+        "rarity": "legendary",
+        "category": "currency"
+    },
     "copperBars": {
         "rarity": "epic",
         "category": "helm",

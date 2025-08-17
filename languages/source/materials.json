@@ -48,6 +48,10 @@
             "name": "Illicit Moonshine",
             "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."
         },
+        "smugglersMark": {
+            "name": "Smuggler's Mark",
+            "description": ""
+        },
         "coconut": {
             "name": "Coconut",
             "description": "A stranded-island staple."
