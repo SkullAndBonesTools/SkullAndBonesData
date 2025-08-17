@@ -2525,6 +2525,48 @@
                 "general": "Contains a random Smuggler Pass Weapon.",
                 "1": "Contains a random Smuggler Pass Weapon from Year 1."
             }
+        },
+        "jokaKubwaTreasureChest": {
+            "name": "Treasure Chest (Joka Kubwa)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "dianSinagaTreasureChest": {
+            "name": "Treasure Chest (Dian Sinaga)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "dirkAnkerenTreasureChest": {
+            "name": "Treasure Chest (Dirk Ankeren)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "galvinRocheTreasureChest": {
+            "name": "Treasure Chest (Galvin Roche)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "tangenaRabeTreasureChest": {
+            "name": "Treasure Chest (Tangena Rabe)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "ahPakTreasureChest": {
+            "name": "Treasure Chest (Ah Pak)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
+        },
+        "mizerjaTreasureChest": {
+            "name": "Treasure Chest (Mizerja)",
+            "description": {
+                "general": "What valuables are stashed inside this chest?"
+            }
         }
     }
 }

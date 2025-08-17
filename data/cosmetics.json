@@ -2904,7 +2904,7 @@
         "dateAdded": "2024-03-22",
         "lastUpdated": "2025-01-08",
         "bounty": "bloodDrunk",
-        "obtainable": "galvinRocheCompagnieTreasureChest"
+        "obtainable": "galvinRocheTreasureChest"
     },
     "wingedTaker": {
         "id": "wingedTaker",
@@ -3238,7 +3238,7 @@
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
+        "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
         "lastUpdated": "2024-04-10"
     },
@@ -3248,7 +3248,7 @@
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
+        "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
         "lastUpdated": "2024-04-10"
     },
@@ -3257,7 +3257,7 @@
         "type": "hull",
         "set": "compagnieCosmetics",
         "bounty": "bloodDrunk",
-        "obtainable": "galvinRocheCompagnieTreasureChest",
+        "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-22",
         "lastUpdated": "2024-04-08"
     },
@@ -3401,7 +3401,7 @@
         "id": "majiHeadgear",
         "type": "headwear",
         "bounty": "hunterAndHunted",
-        "obtainable": "jokaKubwaUngwanaTreasureChest",
+        "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-08"
     },
@@ -3409,7 +3409,7 @@
         "id": "lanunTop",
         "type": "torso",
         "bounty": "aTreacherousTurn",
-        "obtainable": "dianSinagaRempahTreasureChest",
+        "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-08"
     },
@@ -3417,7 +3417,7 @@
         "id": "bahariNeckwear",
         "type": "neck",
         "bounty": "hunterAndHunted",
-        "obtainable": "jokaKubwaUngwanaTreasureChest",
+        "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-08"
     },
@@ -3426,7 +3426,7 @@
         "type": "waist",
         "bounty": "bloodDrunk",
         "set": "royaleWarmaster",
-        "obtainable": "galvinRocheCompagnieTreasureChest",
+        "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-06-01"
     },
@@ -3434,7 +3434,7 @@
         "id": "compagnieFrock",
         "type": "torso",
         "bounty": "bloodDrunk",
-        "obtainable": "galvinRocheCompagnieTreasureChest",
+        "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-08"
     },
@@ -3443,7 +3443,7 @@
         "type": "torso",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
+        "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-06-29"
     },
@@ -3452,7 +3452,7 @@
         "type": "bottom",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
+        "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-05-22"
     },
@@ -3460,7 +3460,7 @@
         "id": "majiNeckAccessory",
         "type": "neck",
         "bounty": "hunterAndHunted",
-        "obtainable": "jokaKubwaUngwanaTreasureChest",
+        "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-04-08"
     },
@@ -3481,7 +3481,7 @@
         "type": "waist",
         "bounty": "aShowOfStrength",
         "worldEvent": "theOpwelling",
-        "obtainable": ["dirkAnkerenDmcTreasureChest","opwellingTreasureChest"],
+        "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
         "lastUpdated": "2024-06-22"
     },
@@ -4157,7 +4157,7 @@
         "id": "hovaFootgear",
         "type": "footwear",
         "bounty": "fangsOfTheFara",
-        "obtainable": "tangenaRabeFaraTreasureChest",
+        "obtainable": "tangenaRabeTreasureChest",
         "dateAdded": "2024-03-27",
         "lastUpdated": "2024-04-08"
     },
@@ -4257,7 +4257,7 @@
     "sailmakerWaistband": {
         "id": "sailmakerWaistband",
         "type": "waist",
-        "obtainable": "mizerjaFaraTreasureChest",
+        "obtainable": "mizerjaTreasureChest",
         "dateAdded": "2024-04-02",
         "lastUpdated": "2024-04-02"
     },
@@ -4816,7 +4816,7 @@
         "id": "dmcTricorne",
         "type": "headwear",
         "bounty": "aShowOfStrength",
-        "obtainable": "dirkAnkerenDmcTreasureChest",
+        "obtainable": "dirkAnkerenTreasureChest",
         "dateAdded": "2024-04-14",
         "lastUpdated": "2024-06-30"
     },
@@ -5644,7 +5644,7 @@
         "id": "dmcRegularCravat",
         "type": "neck",
         "bounty": "aShowOfStrength",
-        "obtainable": "dirkAnkerenDmcTreasureChest",
+        "obtainable": "dirkAnkerenTreasureChest",
         "dateAdded": "2024-04-28",
         "lastUpdated": "2024-06-22"
     },
@@ -11820,7 +11820,7 @@
         "id": "lanunWaistband",
         "type": "waist",
         "bounty": "aTreacherousTurn",
-        "obtainable": "dianSinagaRempahTreasureChest",
+        "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-06-09",
         "lastUpdated": "2024-06-09"
     },
@@ -12626,7 +12626,7 @@
         "id": "lanunWraps",
         "type": "forearm",
         "bounty": "aTreacherousTurn",
-        "obtainable": "dianSinagaRempahTreasureChest",
+        "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-06-20",
         "lastUpdated": "2024-06-20"
     },
