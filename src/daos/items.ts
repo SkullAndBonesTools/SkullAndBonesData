@@ -86,7 +86,7 @@ export class Item {
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
             rawData.contract ? Contracts[contract] : undefined,
-            faction ? Factions[faction] : undefined
+            rawData.faction ? Factions[faction] : undefined
         );
     }
 
