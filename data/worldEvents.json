@@ -302,5 +302,10 @@
         "type": "convoy",
         "faction": "pirates",
         "event": "moonshineLarceny"
+    },
+    "bloodDrunk": {
+        "id": "bloodDrunk",
+        "type": "eliteWarship",
+        "faction": "compagnieRoyale"
     }
 }
