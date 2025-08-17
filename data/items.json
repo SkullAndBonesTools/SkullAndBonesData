@@ -14080,6 +14080,9 @@
         "value": 1,
         "weight": 100,
         "obtainable": "smugglerPassPinnacleStore",
+        "required": {
+            "smugglersMark": 1
+        },
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
     },
@@ -14091,6 +14094,9 @@
         "value": 1,
         "weight": 100,
         "obtainable": "smugglerPassPinnacleStore",
+        "required": {
+            "smugglersMark": 1
+        },
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
     },
@@ -14102,6 +14108,9 @@
         "value": 1,
         "weight": 100,
         "obtainable": "smugglerPassPinnacleStore",
+        "required": {
+            "smugglersMark": 3
+        },
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
     },
@@ -14113,6 +14122,9 @@
         "value": 1,
         "weight": 100,
         "obtainable": "smugglerPassPinnacleStore",
+        "required": {
+            "smugglersMark": 3
+        },
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
     },
@@ -14124,6 +14136,9 @@
         "value": 1,
         "weight": 100,
         "obtainable": "smugglerPassPinnacleStore",
+        "required": {
+            "smugglersMark": 4
+        },
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
     },
