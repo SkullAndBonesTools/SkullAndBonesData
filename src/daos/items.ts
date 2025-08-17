@@ -3,6 +3,7 @@ import { FurnitureType, GeneralType, Tier, WeaponType } from '../types/ItemPrope
 import { Rarity } from '../types/Rarity';
 import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
+import { Faction, Factions } from './factions';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
 import { WorldEvent, WorldEvents } from './worldEvents';
@@ -36,7 +37,8 @@ export class Item {
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
-        public readonly contract?: Contract
+        public readonly contract?: Contract,
+        public readonly faction?: Faction
     ) {}
 
     public static fromRawData(rawData: any): Item {
@@ -53,6 +55,7 @@ export class Item {
                 required.set(Materials[requiredMaterial], quantity as number);
             }
         }
+        const faction = rawData.faction as keyof typeof Factions;
 
         return new Item(
             rawData.id,
@@ -82,7 +85,8 @@ export class Item {
             worldEvent ?? undefined,
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
-            rawData.contract ? Contracts[contract] : undefined
+            rawData.contract ? Contracts[contract] : undefined,
+            faction ? Factions[faction] : undefined
         );
     }
 
