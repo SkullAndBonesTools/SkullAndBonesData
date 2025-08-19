@@ -36,7 +36,7 @@ const dataObj = readJson(dataPath);
 const translationsObj = readJson(translationPath);
 
 let failed = false;
-
+console.log(`Checking data and translation for ${filename}...`);
 function getNameFromId(id) {
     const tierMatch = id.match(/(\d+)$/);
     const tier = tierMatch && /^[a-zA-Z]*\d+$/.test(id) 
@@ -69,9 +69,9 @@ for (const key in dataObj) {
 }
 
 if (failed) {
-    console.error('Check failed. Please fix the above issues before pushing.');
+    console.error(`Check failed for ${filename}. Please fix the above issues before pushing.`);
     process.exit(1);
 } else {
-    console.log('Check passed.');
+    console.log(`Check passed for ${filename}.`);
     process.exit(0);
 }
