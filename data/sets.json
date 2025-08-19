@@ -1314,5 +1314,9 @@
     "swiftTrigger": {
         "id": "swiftTrigger",
         "type": "ship"
+    },
+    "cardsOfFate": {
+        "id": "cardsOfFate",
+        "type": "ship"
     }
 }

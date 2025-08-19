@@ -25664,5 +25664,37 @@
         "obtainable": [["twitchDrop","twitchDropDeathwish"]],
         "dateAdded": "2025-08-12",
         "lastUpdated": "2025-08-13"
+    },
+    "lawsOfBattle": {
+        "id": "lawsOfBattle",
+        "type": "sailsEmblem",
+        "obtainable": "ubisoftStore",
+        "set": "cardsOfFate",
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
+    },
+    "propheticWhispers": {
+        "id": "propheticWhispers",
+        "type": "sailsPattern",
+        "obtainable": "ubisoftStore",
+        "set": "cardsOfFate",
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
+    },
+    "gleamingPaths": {
+        "id": "gleamingPaths",
+        "type": "sailsColor",
+        "obtainable": "ubisoftStore",
+        "set": "cardsOfFate",
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
+    },
+    "unseenUnknown": {
+        "id": "unseenUnknown",
+        "type": "hull",
+        "obtainable": "ubisoftStore",
+        "set": "cardsOfFate",
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
     }
 }

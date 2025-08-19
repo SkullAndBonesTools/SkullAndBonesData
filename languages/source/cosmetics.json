@@ -17933,6 +17933,30 @@
             "description": {
                 "general": "\"What most fear, I shall welcome like an old friend.\""
             }
+        },
+        "lawsOfBattle": {
+            "name": "Laws of Battle",
+            "description": {
+                "general": "\"Your misfortune, our boon.\""
+            }
+        },
+        "propheticWhispers": {
+            "name": "Prophetic Whispers",
+            "description": {
+                "general": "\"They say my name shall spread far and wide.\""
+            }
+        },
+        "gleamingPaths": {
+            "name": "Gleaming Paths",
+            "description": {
+                "general": "\"Which brings us fortune and freedom?\""
+            }
+        },
+        "unseenUnknown": {
+            "name": "Unseen, Unknown",
+            "description": {
+                "general": "\"May the forces above favor us.\""
+            }
         }
     }
 }
