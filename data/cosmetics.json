@@ -1282,9 +1282,9 @@
         "id": "ceremonialGold",
         "type": "hull",
         "set": "elDorado",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-17"
+        "lastUpdated": "2025-08-19"
     },
     "cruelTides": {
         "id": "cruelTides",
@@ -2005,9 +2005,9 @@
         "type": "sailsColor",
         "set": "elDorado",
         "effect": "emissive",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2025-08-19"
     },
     "deathlyPale": {
         "id": "deathlyPale",
@@ -2510,9 +2510,9 @@
         "id": "unseenGlyphs",
         "type": "sailsPattern",
         "set": "elDorado",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-19"
+        "lastUpdated": "2025-08-19"
     },
     "whiteclaw": {
         "id": "whiteclaw",
@@ -2723,9 +2723,9 @@
         "id": "theGildedOne",
         "type": "sailsEmblem",
         "set": "elDorado",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-08-19"
     },
     "aCrownOfQuills": {
         "id": "aCrownOfQuills",
