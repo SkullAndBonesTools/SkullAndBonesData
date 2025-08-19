@@ -14236,5 +14236,16 @@
         "weight": 100,
         "dateAdded": "2025-08-19",
         "lastUpdated": "2025-08-19"
+    },
+    "hellfestShipCosmeticsChest": {
+        "id": "hellfestShipCosmeticsChest",
+        "rarity": "legendary",
+        "season": "ascentIntoChaos",
+        "type": "chest",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
     }
 }
