@@ -2567,6 +2567,12 @@
             "description": {
                 "general": "What valuables are stashed inside this chest?"
             }
+        },
+        "elDoradoCosmeticsChest": {
+            "name": "El Dorado Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
+            }
         }
     }
 }

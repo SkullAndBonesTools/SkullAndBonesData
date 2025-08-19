@@ -14225,5 +14225,16 @@
         "weight": 100,
         "dateAdded": "2025-08-17",
         "lastUpdated": "2025-08-17"
+    },
+    "elDoradoCosmeticsChest": {
+        "id": "elDoradoCosmeticsChest",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-08-19",
+        "lastUpdated": "2025-08-19"
     }
 }
