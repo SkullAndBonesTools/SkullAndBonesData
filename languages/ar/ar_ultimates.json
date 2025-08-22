@@ -1,0 +1,48 @@
+{
+    "ultimates": {
+        "hunter": {
+            "name": "Hunter",
+            "description": "When activated, massively increases the damage dealth by weapons for 20 seconds."
+        },
+        "laPesteSignalLauncher": {
+            "name": "La Peste Signal Launcher",
+            "description": "Equips an auxiliary weapon that, when fired on the water, summons the Plague King, Philippe La Peste, to defend a location. His health will gradually decay over time."
+        },
+        "laPlusGrandeFleur": {
+            "name": "La Plus Grande Fleur",
+            "description": "Equips an auxiliary weapon that fires a devastating swarm of mortar shells, leaving pools of poison behind for a duration."
+        },
+        "trueEndlessRequiem": {
+            "name": "True Endless Requiem",
+            "description": "Equips broadsides with Torpedo launchers. When fired, unleashes delayed waves of torpedoes that require accurate prediction to deal lethal damage."
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": "When activated, massively reduces the damage taken from all sources for 15 seconds."
+        },
+        "ghostShipSignalLauncher": {
+            "name": "Ghost Ship Signal Launcher",
+            "description": "Equips an auxiliary weapon that, when fired on the water, summons a Ghost Ship to hunt your enemies. Its health will gradually decay over time."
+        },
+        "hailstormLongGuns": {
+            "name": "Hailstorm Long Guns",
+            "description": "Equips a frontal weapon which allows for rapid-fire of precise shots, capable of tearing the sails of ships to immobilize them."
+        },
+        "massRevitalization": {
+            "name": "Mass Revitalization",
+            "description": "When activated, recovers 75% of Hull Health and 100% of Crew Stamina of nearby allies."
+        },
+        "impederBallista": {
+            "name": "Impeder Ballista",
+            "description": "Equips a frontal weapon which fires charged shots that inflict damage to weakpoints and tear the sails of ships to immobilize them."
+        },
+        "combatFury": {
+            "name": "Combat Fury",
+            "description": "When activated, increases Sailing Speed and damage, reduces Stamina Consumption while trimming and bracing, and periodically recovers Hull Health."
+        },
+        "zamaharibuBaitLauncher": {
+            "name": "Zamaharibu Bait Launcher",
+            "description": "Equips an auxiliary weapon that, when fired on the water, summons the Sea Monster, Zamaharibu, to hunt down your enemies."
+        }
+    }
+}

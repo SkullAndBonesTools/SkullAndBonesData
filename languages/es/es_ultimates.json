@@ -1,0 +1,48 @@
+{
+    "ultimates": {
+        "hunter": {
+            "name": "Cazador",
+            "description": "Cuando se activa, aumenta enormemente el daño infligido por las armas durante 20 segundos."
+        },
+        "laPesteSignalLauncher": {
+            "name": "Lanzabengalas de La Peste",
+            "description": "Equipa un arma auxiliar que, al dispararla sobre el agua, invoca al Rey de la Plagas, Philippe La Peste, para defender una ubicación. Su salud se irá reduciendo gradualmente con el tiempo."
+        },
+        "laPlusGrandeFleur": {
+            "name": "Le Fleur al máximo",
+            "description": "Equipa un arma auxiliar que dispara una devastadora lluvia de proyectiles de mortero, dejando charcos de veneno durante un tiempo."
+        },
+        "trueEndlessRequiem": {
+            "name": "Réquiem infinito auténtico",
+            "description": "Equipa los costados con lanzatorpedos. Cuando se dispara, lanza oleadas retardadas de torpedos que requieren una predicción precisa para infligir daño letal."
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": "Cuando se activa, reduce enormemente el daño recibido de todas las fuentes durante 15 segundos."
+        },
+        "ghostShipSignalLauncher": {
+            "name": "Lanzabengalas de barco fantasma",
+            "description": "Equipa un arma auxiliar que, al dispararla sobre el agua, invoca un barco fantasma para cazar a tus enemigos. Su salud se irá reduciendo gradualmente con el tiempo."
+        },
+        "hailstormLongGuns": {
+            "name": "Cañon largo obstructor",
+            "description": "Equipa un arma frontal que dispara rápidamente proyectiles muy precisos que pueden desgarrar las velas de los barcos para inmovilizarlos"
+        },
+        "massRevitalization": {
+            "name": "Revitalización masiva",
+            "description": "Cuando se activa, recupera el 75 % de la salud del casco y el 100 % de la resistencia de la tripulación de los aliados cercanos."
+        },
+        "impederBallista": {
+            "name": "Balista de riel",
+            "description": "Equipa un arma frontal que dispara proyectiles cargados que infligen daño a los puntos débiles y desgarran las velas de los barcos para inmovilizarlos."
+        },
+        "combatFury": {
+            "name": "Furia de combate",
+            "description": "Cuando se activa, aumenta la velocidad de navegación y el daño, reduce el consumo de resistencia al trimar y tensar, y recupera periódicamente la salud del casco."
+        },
+        "zamaharibuBaitLauncher": {
+            "name": "Lanzabengalas de Zamaharibu",
+            "description": "Equipa un arma auxiliar que, al dispararla sobre el agua, invoca al monstruo marino Zamaharibu para que cace a tus enemigos."
+        }
+    }
+}
