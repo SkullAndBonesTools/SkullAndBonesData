@@ -1,0 +1,100 @@
+{
+    "ships": {
+        "dhow": {
+            "name": "Dau",
+            "description": {
+                "general": "Ein kleines Schiff, das ursprünglich für die Jagd an Flüssen und Küstenstreifen gebaut wurde."
+            }
+        },
+        "bedar": {
+            "name": "Bedar",
+            "description": {
+                "general": "Ein wendiges kleines Schiff, das Ziele rammen kann, um Überflutungsschaden zu verursachen."
+            }
+        },
+        "hulk": {
+            "name": "Holk",
+            "description": {
+                "general": "Ein widerstandsfähiges Schiff, das viel Schaden einstecken kann. Darauf spezialisiert, vor feindlichem Feuer in Deckung zu gehen."
+            }
+        },
+        "cutter": {
+            "name": "Kutter",
+            "description": {
+                "general": "Ein Schiff, das andere Schiffe im Schlachtgetümmel unterstützen kann."
+            }
+        },
+        "barge": {
+            "name": "Segelleichter",
+            "description": {
+                "general": "Dieses Schiff ist dafür ausgelegt Feuer- und Brandschaden anzurichten und dafür zu sorgen, dass sich das Chaos auf andere Schiffe in der Nähe ausbreitet."
+            }
+        },
+        "sloop": {
+            "name": "Slup",
+            "description": {
+                "general": "Mit der richtigen Bewaffnung kann es dieses Schiff mit mehreren Gegnern aufnehmen."
+            }
+        },
+        "padewakang": {
+            "name": "Padewakang",
+            "description": {
+                "general": "Ein größeres Schiff, das es mit mehreren Gegnern auf einmal aufnehmen kann, wenn man es richtig ausrüstet."
+            }
+        },
+        "snow": {
+            "name": "Schnau",
+            "description": {
+                "general": "Ein Schiff mit verbesserter Stabilität, das sich in Seeschlachten behaupten kann. Mit einer Schnau kann man besonders gut vor feinlichem Feuer in Deckung gehen."
+            }
+        },
+        "brigantine": {
+            "name": "Brigantine",
+            "description": {
+                "general": "Ein schnelles Schiff, mit dem einzelne Ziele gerammt werden können, um Überflutungsschaden anzurichten."
+            }
+        },
+        "sambuk": {
+            "name": "Sambuke",
+            "description": {
+                "general": "Ein Brandschiff, das darauf spezialisiert ist, Feuerschaden anzurichten und Ziele in Brand zu stecken. Von Nahem kann es auch mehrere Gegner auf einmal ins Visier nehmen."
+            }
+        },
+        "barque": {
+            "name": "Bark",
+            "description": {
+                "general": "Ein Schiff, das besonders dafür geeignet ist, andere Schiffe in brenzligen Situatioinen durch effektive Reparaturarbeiten zu helfen."
+            }
+        },
+        "brig": {
+            "name": "Brigg",
+            "description": {
+                "general": "Ein Unterstützungsschiff, das Bojen einsetzt, um das Schlachtglück zu wenden."
+            }
+        },
+        "battleJunk": {
+            "name": "Schlachtdschunke",
+            "description": {
+                "general": "Ein widerstandsfähiges Schwergewicht, das Gegner ablenkt, viel einstecken kann und seinen Verbündeten Gelegenheiten zum Angriff oder zur Flucht verschafft."
+            }
+        },
+        "garuda": {
+            "name": "Garuda",
+            "description": {
+                "general": "Ein schnelles, wendiges Schiff, das sich gut für die Jagd auf fliehende Feinde eignet."
+            }
+        },
+        "schooner": {
+            "name": "Schoner",
+            "description": {
+                "general": "Ein Meister verheerender Breitseitenangriffe. Verwandelt jedes Sperrfeuer in eine explosive Reaktion und richtet auf der Roten Insel verheerende Schäden an Flotten und Gebäuden an."
+            }
+        },
+        "frigate": {
+            "name": "Fregatte",
+            "description": {
+                "general": "Ein großes Schiff mit unvergleichlicher Verteidigung. Es verströmt eine mächtige Aura, die Verbündete stärkt. Ein Produkt des Einfallsreichtums der Compagnie und verbesserter Materialien aus Europa."
+            }
+        }
+    }
+}

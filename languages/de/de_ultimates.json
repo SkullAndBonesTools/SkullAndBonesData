@@ -1,0 +1,48 @@
+{
+    "ultimates": {
+        "hunter": {
+            "name": "Jäger",
+            "description": "Wenn aktiviert, erhöht sich der von Waffen verursachte Schaden über einen Zeitraum von 20 Sekunden enorm."
+        },
+        "laPesteSignalLauncher": {
+            "name": "La Peste Signalwerfer",
+            "description": "Rüstet eine Hilfswaffe aus, die, wenn sie auf dem Wasser abgefeuert wird, den Pestkönig Philippe La Peste herbeiruft, um einen Ort zu verteidigen. Seine Gesundheit nimmt mit der Zeit allmählich ab."
+        },
+        "laPlusGrandeFleur": {
+            "name": "\"La Fleur\" Breitseite",
+            "description": "Rüstet eine Hilfswaffe aus, die einen verheerenden Schwarm Mörsergeschosse abfeuert und für eine bestimmte Zeit Giftpfützen hinterlässt."
+        },
+        "trueEndlessRequiem": {
+            "name": "Wahrlich endloses Requiem",
+            "description": "Rüstet Breitseiten mit Torpedowerfern aus. Beim Abschuss werden verzögerte Wellen von Torpedos abgefeuert, die eine genaue Vorausberechnung erfordern, um tödlichen Schaden anzurichten."
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": "Wenn aktiviert, wird der erlittene Schaden aus allen Quellen 15 Sekunden lang enorm reduziert."
+        },
+        "ghostShipSignalLauncher": {
+            "name": "Geisterschiff Signalwerfer",
+            "description": "Rüstet eine Hilfswaffe aus, die, wenn sie auf dem Wasser abgefeuert wird, ein Geisterschiff herbeiruft und auf deine Gegner hetzt. Seine Gesundheit nimmt mit der Zeit allmählich ab."
+        },
+        "hailstormLongGuns": {
+            "name": "Störer Vollkanone",
+            "description": "Rüstet eine Frontwaffe aus, die schnelle und präzise Schüsse ermöglicht, mit denen die Segel von Schiffen zerrissen werden können, um sie bewegungsunfähig zu machen."
+        },
+        "massRevitalization": {
+            "name": "Massen Wiederbelebung",
+            "description": "Wenn aktiviert, werden 75% des Rumpfzustands und 100% der Ausdauer der Besatzung von Verbündeten wiederhergestellt."
+        },
+        "impederBallista": {
+            "name": "Railgun Ballista",
+            "description": "Rüstet eine Frontwaffe aus, die geladene Schüsse abfeuert, um Schwachpunkte zu beschädigen und die Segel von Schiffen zu zerreißen, um sie bewegungsunfähig zu machen."
+        },
+        "combatFury": {
+            "name": "Kampfesrausch",
+            "description": "Wenn aktiviert, erhöht Segelgeschwindigkeit und Schaden, verringert den Ausdauerverbrauch beim Trimmen und in Deckung gehen und stellt in regelmäßigen Abständen Rumpfzustand wieder her."
+        },
+        "zamaharibuBaitLauncher": {
+            "name": "Zamaharibu Köderwerfer",
+            "description": "Rüstet eine Hilfswaffe aus, die, wenn sie auf dem Wasser abgefeuert wird, das Seemonster Zamaharibu herbeiruft und auf deine Feinde hetzt."
+        }
+    }
+}

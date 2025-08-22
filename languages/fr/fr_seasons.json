@@ -1,0 +1,11 @@
+{
+    "seasons": {
+        "release": "0 - Jeu de Base",
+        "ragingTides": "1 - Marées déchaînées",
+        "chorusOfHavoc": "2 - Chorus du Chaos",
+        "intoTheDragonsWake": "3 - Dans le sillage du Dragon",
+        "shadowsOfTheDeep": "4 - Ombres des Profondeurs",
+        "ascentIntoChaos": "Y2S1 - Ascent into Chaos",
+        "oathsOfWar": "Y2S2 - Oaths of War"
+    }
+}

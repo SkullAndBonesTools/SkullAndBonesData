@@ -1,0 +1,2789 @@
+{
+    "perks": {
+        "tearing": {
+            "name": "Reißend",
+            "description": {
+                "1": "Erhöht den Schaden bei Segeltreffern um 25%",
+                "2": "Erhöht Schaden beim Treffen von Segeln um 50%",
+                "3": "Erhöht den Schaden bei Segeltreffern um 75%"
+            }
+        },
+        "piercing": {
+            "name": "Durchschlagend",
+            "description": {
+                "1": [
+                    "10% des Schadens wird zu Durchschlagsschaden",
+                    "Erhöht Schaden gegen Schwachpunkte um 50%"
+                ],
+                "2": [
+                    "20% des Schadens wird zu Durchschlagsschaden",
+                    "Erhöht Schaden gegen Schwachpunkte um 75%"
+                ],
+                "3": [
+                    "30% des Schadens wird zu Durchschlagsschaden",
+                    "Erhöht Schaden gegen Schwachpunkte um 100%"
+                ]
+            }
+        },
+        "raider": {
+            "name": "Plünderer",
+            "description": {
+                "general": "Erhöht Ladegeschwindigkeit des Effekts 'Anfällig' um 50%"
+            }
+        },
+        "flooding": {
+            "name": "Überflutend",
+            "description": {
+                "1": "10% des Schadens wird zu Überflutungsschaden",
+                "2": "20% des Schadens wird zu Überflutungsschaden",
+                "3": "30% des Schadens wird zu Überflutungsschaden"
+            }
+        },
+        "burning": {
+            "name": "Brand",
+            "description": {
+                "1": "10% des Schadens wird zu Brandschaden",
+                "2": "20% des Schadens wird zu Brandschaden",
+                "3": "30% des Schadens wird zu Brandschaden"
+            }
+        },
+        "repair": {
+            "name": "Reparieren",
+            "description": {
+                "general": "Stellt Rumpfzustand eines verbündeten Schiffs wieder her",
+                "2": "Rumpfzustand eines verbündeten Schiffs wird deutlich verbessert"
+            }
+        },
+        "mastBreaker": {
+            "name": "Mastbrecher",
+            "description": {
+                "general": "Richtet 7000 Schaden an, nachdem der Effekt 'Zerrissene Segel' zugefügt wurde"
+            }
+        },
+        "explosive": {
+            "name": "Explosiv",
+            "description": {
+                "1": "10% des Schadens wird im Explosionsradius von 30m zu Explosionsschaden",
+                "2": "20% des Schadens wird im Explosionsradius von 35m zu Explosionsschaden",
+                "3": "30% des Schadens wird im Explosionsradius von 40m zu Explosionsschaden"
+            }
+        },
+        "repairBomb": {
+            "name": "Reparaturbombe",
+            "description": {
+                "general": "Stellt Rumpfzustand eines verbündeten Schiffs in 35m Explosionsradius wieder her"
+            }
+        },
+        "siege": {
+            "name": "Belagerung",
+            "description": {
+                "general": "Schaden gegen Gebäude wird um 50% erhöht"
+            }
+        },
+        "unison": {
+            "name": "Unisono",
+            "description": {
+                "general": "Erlaubt allen Waffen im selben Quadranten gleichzeitig zu feuern"
+            }
+        },
+        "arming": {
+            "name": "Scharfgemacht",
+            "description": {
+                "general": "Torpedoschaden wird um 150% erhöht, wenn das Ziel weiter als 85m entfernt ist"
+            }
+        },
+        "cataclysmic": {
+            "name": "Verheerend",
+            "description": {
+                "general": "Richtet bei gleichzeitigen Treffern zusätzlich 10% des Schadens an"
+            }
+        },
+        "draw": {
+            "name": "Spannung",
+            "description": {
+                "general": [
+                    "Diese Waffe kann aufgeladen werden, um Schaden und Reichweite zu erhöhen",
+                    "Maximal aufgeladen erhöhrt sich der Schaden auf 300% und die Reichweite auf 900m"
+                ]
+            }
+        },
+        "doubleDraw": {
+            "name": "Doppelspannung",
+            "description": {
+                "general": [
+                    "Diese Waffe kann doppelt so lange aufgeladen werden, um Schaden und Reichweite zu erhöhen",
+                    "Maximal aufgeladen erhöht sich der Schaden auf 600% und die Reichweite auf 1350m"
+                ]
+            }
+        },
+        "superheated": {
+            "name": "Hocherhitzt",
+            "description": {
+                "general": "Richtet zusätzlich Schaden an, wenn Angriffe auf dasselbe Schiff fokussiert werden"
+            }
+        },
+        "blast": {
+            "name": "Explosiv",
+            "description": {
+                "general": "15% des Schadens wird im Explosionsradius von 50m zu Explosionsschaden"
+            }
+        },
+        "repairBlast": {
+            "name": "Reparaturexplosion",
+            "description": {
+                "general": "Stellt Rumpfzustand eines verbündeten Schiffs im 50m Explosionsradius wieder her"
+            }
+        },
+        "rampart": {
+            "name": "Bollwerk",
+            "description": {
+                "general": "Erlittener Rammschaden wird um 75% verringert"
+            }
+        },
+        "sealing": {
+            "name": "Versiegelt",
+            "description": {
+                "general": "Verringert den Schaden des Statuseffekts 'Überflutet' um 28%"
+            }
+        },
+        "resolute": {
+            "name": "Entschlossen",
+            "description": {
+                "general": "Liegt der Rumpfzustand unter 40%, verringert sich der erlittene Schaden um 33%"
+            }
+        },
+        "amalgamate": {
+            "name": "Amalgamat",
+            "description": {
+                "general": [
+                    "15% des Schadens in Deckung repariert den Rumpf",
+                    "Die Reparatur wird nach Verlassen der Deckung durchgeführt"
+                ]
+            }
+        },
+        "restoration": {
+            "name": "Reparatur",
+            "description": {
+                "general": "Stellt pro Sekunde 100 Schwerer Schaden wieder her"
+            }
+        },
+        "hunter": {
+            "name": "Jäger",
+            "description": {
+                "general": "Bewahrt Materialien von Tieren bei der Jagd"
+            }
+        },
+        "outOfSight": {
+            "name": "Aus den Augen",
+            "description": {
+                "general": "Verringert die Sicht von größeren Schiffen um 40%"
+            }
+        },
+        "lancer": {
+            "name": "Lancier",
+            "description": {
+                "general": [
+                    "Erhöht Rammschaden um 25% und erhält zusätzliche Schnelligkeit, wenn ein gegnerisches Schiff innerhalb von 300m verfolgt wird",
+                    "Fügt einem gegnerischen Schiff beim Rammen den Statuseffekt 'Überflutet' zu und erhöht dessen Nachladezeit 30s lang um 30%"
+                ]
+            }
+        },
+        "ironclad": {
+            "name": "In Eisen gewandet",
+            "description": {
+                "general": [
+                    "Erhöht Panzerung 30s lang um 350 nachdem in Deckung gegangen wurde",
+                    "Erhöht Deckungsstärke um 275% und die Wiederherstellung der Deckungsstärke um 25%"
+                ]
+            }
+        },
+        "unburden": {
+            "name": "Last abnehmen",
+            "description": {
+                "general": [
+                    "Stellt pro Sekunde Schwerer Schaden um 0.4% und Rumpfzustand um 0.4% wieder her",
+                    "Stellt bei allen verbündeten Schiffen in einem Radius von 100m des reparierten Schiffs Rumpfzustand um 2% wieder her",
+                    "Stellt bei einem verbündeteten Schiff 60% mehr Rumpfzustand wieder her, wenn eine Reparaturwaffe benutzt wird",
+                    "Reparaturwaffen stellen 5% mehr Rumpfzustand wieder her pro ausgerüsteter Reparaturwaffe"
+                ]
+            }
+        },
+        "wildfire": {
+            "name": "Flächenbrand",
+            "description": {
+                "general": [
+                    "Wenn du einem Schiff den Effekt 'In Brand' zufügst, wird derselbe Effekt allen Gegnern in einem Radius von 125m zugefügt",
+                    "Erhöht Waffenschaden um 35%",
+                    "Brandschaden erhöht die Ladegeschwindigkeit von 'In Brand' um 175%"
+                ]
+            }
+        },
+        "outburst": {
+            "name": "Ausbruch",
+            "description": {
+                "general": [
+                    "Explosive Treffer haben eine Chance von 50%, eine Explosion auszulösen, die im Explosionsradius von 150m 1500 Schaden verursacht",
+                    "Erhöht Schaden gegen Gebäude um 40% und Explosionsschaden um 15%"
+                ]
+            }
+        },
+        "detonate": {
+            "name": "Detonieren",
+            "description": {
+                "general": [
+                    "Explosive Treffer haben eine Chance von 70%, eine Explosion auszulösen, die innerhalb von 125m Explosionsradius 100 Schaden zufügt. Erhöhrt sich auf 100%, wenn das Zielschiff den Status 'In Brand' hat",
+                    "Erhöht Schaden gegen Gebäude um 50% und Waffenschaden-Radius um 12%"
+                ]
+            }
+        },
+        "tenacity": {
+            "name": "Zähigkeit",
+            "description": {
+                "general": [
+                    "Stellt Deckungsstärke pro Sekunde um 5%, während du in Deckung gehst, wieder her",
+                    "Erhöht Deckungsstärke um 50% und die Wiederherstellung der Deckungsstärke um 150%"
+                ]
+            }
+        },
+        "bullhorn": {
+            "name": "Megafon",
+            "description": {
+                "general": [
+                    "Erhöht Rammschaden um 45% und erhält zusätzliche Schnelligkeit, wenn ein gegnerisches Schiff innerhalb von 300m verfolgt wird",
+                    "Erhöht den Schaden durch Überflutungswaffen um 20% und verursacht 20% mehr Waffenschaden gegen Überflutet-Ziele"
+                ]
+            }
+        },
+        "scorched": {
+            "name": "Verkohlt",
+            "description": {
+                "general": [
+                    "Fügt 5000 Brandschaden zu, wenn du einem gegnerischen Schiff den Effekt 'In Brand' zufügst. Gegnern in einem Radius von 150m wird In Brand hinzugefügt",
+                    "Erhöht Schaden auf Schiffe mit dem Effekt \"In Brand\" um 30%"
+                ]
+            }
+        },
+        "revitalized": {
+            "name": "Wiederbelebt",
+            "description": {
+                "general": [
+                    "Stellt pro Sekunde Schwerer Schaden um 0.4% und Rumpfzustand um 0.4% wieder her, auch für verbündete Schiffe in der Nähe",
+                    "Stellt bei einem verbündeten Schiff Ausdauer um 15%, Schwerer Schaden um 10% und Rumpfzustand um weitere 60% wieder her, wenn eine Reparaturwaffe benutzt wird",
+                    "Reparaturwaffen stellen 5% mehr Rumpfzustand wieder her pro ausgerüsteter Reparaturwaffe"
+                ]
+            }
+        },
+        "refortify": {
+            "name": "Neubefestigung",
+            "description": {
+                "general": "Wendet nach Verwendung eines Reparatursets den Effekt 'Befestigt' über 12 Sekunden an, welcher die Panzerung um 35% erhöht"
+            }
+        },
+        "lootFromHarvesting": {
+            "description": {
+                "1": "Beim Treffen der Bonusbereiche wird Beute durch Sammeln um 1 erhöht"
+            }
+        },
+        "cargoCapacity": {
+            "description": {
+                "1": "Frachtkapazität wird um 10% erhöht"
+            }
+        },
+        "repairSevereDmgOfHullOutOfCombat": {
+            "description": {
+                "1": "Stellt außerhalb eines Kampfes 1% Schwerer Schaden pro Sekunde wieder her"
+            }
+        },
+        "maximumHull": {
+            "description": {
+                "05": "Maximaler Rumpfzustand wird um 5% erhöht"
+            }
+        },
+        "floodingDuration": {
+            "description": {
+                "1": "Increases duration of the Flooded effect on enemy ships by 10%"
+            }
+        },
+        "repairAmountFromRepairWeapons": {
+            "description": {
+                "1": "Reparaturmenge durch Reparaturwaffen wird um 10% erhöhrt"
+            }
+        },
+        "crewAttackChargeSpeed": {
+            "description": {
+                "1": "Ladegeschwindigkeit von Besatzungsangriff wird um 10% erhöht"
+            }
+        },
+        "crewAttackDamage": {
+            "description": {
+                "1": "Schaden Besatzungsangriff wird um 10% erhöht"
+            }
+        },
+        "ablazeDamage": {
+            "description": {
+                "1": "Erhöht den Schaden an gegnerischen Schiffen mit dem Effekt 'In Brand' um 10%"
+            }
+        },
+        "ablazeChargingSpeed": {
+            "description": {
+                "1": "Erhöht Ladegeschwindigkeit des Effekts 'In Brand' auf gegnerischen Schiffen um 10%"
+            }
+        },
+        "ablazeDuration": {
+            "description": {
+                "1": "Die Dauer des Effekts 'In Brand' auf gegnerischen Schiffen wird um 10% verlängert"
+            }
+        },
+        "tornSailsDuration": {
+            "description": {
+                "1": "Die Dauer des Effekts 'Zerrissene Segel' auf gegnerischen Schiffen wird um 10% verlängert"
+            }
+        },
+        "threatGeneration": {
+            "description": {
+                "05": "Generierung von Bedrohung wird um 5% erhöht"
+            }
+        },
+        "structureDamage": {
+            "description": {
+                "15": "Schaden gegen Gebäude wird um 15% erhöht"
+            }
+        },
+        "frontWeaponDamage": {
+            "description": {
+                "1": "Bugwaffenschaden wird um 10% erhöht"
+            }
+        },
+        "rammingDamage": {
+            "description": {
+                "25": "Rammschaden wird um 25% erhöht"
+            }
+        },
+        "portWeaponDamage": {
+            "description": {
+                "1": "Backbordwaffenschaden wird um 10% erhöht"
+            }
+        },
+        "starboardWeaponDamage": {
+            "description": {
+                "1": "Steuerbordwaffenschaden wird um 10% erhöht"
+            }
+        },
+        "auxiliaryDamage": {
+            "description": {
+                "1": "Schaden durch Hilfswaffen wird um 10% erhöht"
+            }
+        },
+        "ballistaElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Ballista wird um 19% erhöht"
+            }
+        },
+        "bombardElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Bombarde wird um 19% erhöht"
+            }
+        },
+        "culverinElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Kalverine wird um 19% erhöht"
+            }
+        },
+        "flamethrowerElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Flammenwerfer wird um 19% erhöht"
+            }
+        },
+        "mortarElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Mörser wird um 19% erhöht"
+            }
+        },
+        "rocketElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Rakete wird um 19% erhöht"
+            }
+        },
+        "torpedoElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Torpedo wird um 19% erhöht"
+            }
+        },
+        "demicannonElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Halbkanone wird um 19% erhöht"
+            }
+        },
+        "longGunElementalDamage": {
+            "description": {
+                "19": "Elementarschaden-Multiplikator von Vollkanone wird um 19% erhöht"
+            }
+        },
+        "bombardAreaOfEffectRadius": {
+            "description": {
+                "1": "Wirkungsbereich-Radius von Bombarde wird um 10% erhöht"
+            }
+        },
+        "mortarAreaOfEffectRadius": {
+            "description": {
+                "1": "Wirkungsbereich-Radius von Mörser wird um 10% erhöht"
+            }
+        },
+        "springloaderAreaOfEffectRadius": {
+            "description": {
+                "1": "Einsatzbereich-Radius von Bojen wird um 10% erhöht"
+            }
+        },
+        "demicannonMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Halbkanone wird um 10% erhöht"
+            }
+        },
+        "flamethrowerMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Flammenwerfer wird um 10% erhöht"
+            }
+        },
+        "mortarMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Mörser wird um 10% erhöht"
+            }
+        },
+        "rocketMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Rakete wird um 10% erhöht"
+            }
+        },
+        "torpedoMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Torpedo wird um 10% erhöht"
+            }
+        },
+        "springloaderMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Sprunglader-Waffen wird um 10% erhöht"
+            }
+        },
+        "overallMaximumRange": {
+            "description": {
+                "05": "Maximale Reichweite aller Waffen wird um 5% erhöht"
+            }
+        },
+        "torpedoProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Torpedo wird um 15% erhöht"
+            }
+        },
+        "bombardProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Bombarde wird um 15% erhöht"
+            }
+        },
+        "culverinProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Kalverine wird um 15% erhöht"
+            }
+        },
+        "ballistaProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Ballista wird um 15% erhöht"
+            }
+        },
+        "longGunProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Vollkanone wird um 15% erhöht"
+            }
+        },
+        "overallProjectileSpeed": {
+            "description": {
+                "05": "Projektilgeschwindigkeit aller Waffen (außer Seefeuer und Hilfswaffen) wird um 5% erhöht"
+            }
+        },
+        "signalGong": {
+            "description": {
+                "general": "Erhöht den Schaden nach Besatzungsangriff für 30 Sekunden um 20%"
+            }
+        },
+        "ironCapstan": {
+            "description": {
+                "general": "Verringert den erlittenen Schaden um 15% und erhöht Generierung von Bedrohung um 100% (im Status 'Vor Anker')"
+            }
+        },
+        "megaphone": {
+            "description": {
+                "general": "Nachladezeit wird durch aufeinanderfolgende Treffer bei einem Gegner um 0.5% verringert (max. 15%). Dieser Effekt endet nach 10 Sekunden"
+            }
+        },
+        "ropeLocker": {
+            "description": {
+                "general": "Beschleunigung wird auf 450% erhöht, aktiviert man Trimmen, während Ausdauer der Besatzung voll ist. 7% der übrigen Ausdauer der Besatzung werden sofort verbraucht, um diesen Effekt auszulösen"
+            }
+        },
+        "riggingStation": {
+            "description": {
+                "general": "Rumpfzustand wird pro Sekunde um 1% wiederhergestellt (falls Rumpfzustand weniger als 20% beträgt)"
+            }
+        },
+        "warDrums": {
+            "description": {
+                "general": "Verringert während des Trimmens den Ausdauerverbrauch von In Deckung gehen um 50% und erhöht Panzerungswert um 200"
+            }
+        },
+        "scopingStation": {
+            "description": {
+                "general": "Wenn ein Ziel getroffen wird, das mehr als 320m entfernt ist, erhält das Ziel den Status 'Markiert'. Ziele mit diesem Status erleiden 100% mehr Schaden gegen Schwachpunkte"
+            }
+        },
+        "firstAidStation": {
+            "description": {
+                "general": "Reparaturmenge von Reparaturwaffen wird für Schiffe mit weniger als 33% Rumpfzustand um 30% erhöht"
+            }
+        },
+        "scrapperStation": {
+            "description": {
+                "general": "Stellt nach Besatzungsangriff 8000 Rumpfzustand wieder her"
+            }
+        },
+        "munitionsMixer": {
+            "description": {
+                "general": "Verlängert die Dauer der Effekte 'Überflutet' und 'In Brand' an gegnerischen Schiffen um 100%. Der dadurch angerichtete Schaden wird allerdings um 20% verringert"
+            }
+        },
+        "gunnersQuadrant": {
+            "description": {
+                "general": "Nachladezeit wird für die Waffe, mit der ein Schwachpunkt in mindestens 160m Entfernung getroffen wurde, um 15% gesenkt. Dieser Effekt hält 10s lang an"
+            }
+        },
+        "waterTank": {
+            "description": {
+                "general": [
+                    "Ausdauerverbrauch der Besatzung wird während 'In Deckung gehen' um 50% verringert",
+                    "Ausdauerwiederherstellung wird um 20% erhöht"
+                ]
+            }
+        },
+        "putrefying": {
+            "name": "Ansteckend",
+            "description": {
+                "general": [
+                    "Stößt beim Aufprall für kurze Zeit toxische Gase aus, die Schaden zufügen und Ausdauer der Besatzung verringern",
+                    "Von Giftgasen verursachter Schaden kann durch Deckung nicht abgewehrt werden"
+                ]
+            }
+        },
+        "venemousVengeance": {
+            "name": "Vergiftete Vergeltung",
+            "description": {
+                "general": [
+                    "Wenn dein Schiff getroffen wird, während alle in Deckung gegangen sind, wird eine schädigende Wolke um dein Schiff abgegeben, die 5000 Giftschaden verursacht und die Ausdauer der Besatzung reduziert",
+                    "Hat eine Abklingzeit von 10 Sekunden"
+                ]
+            }
+        },
+        "riptide": {
+            "name": "Sturzflut",
+            "description": {
+                "general": "Fügt 50% Schaden als Schwerer Schaden hinzu, wenn das Ziel Überflutet ist"
+            }
+        },
+        "toxicResistant": {
+            "name": "Giftwiderstand",
+            "description": {
+                "general": "Verringert Schaden und Ausdauerverbrauch der Besatzung durch Giftangriffe um 50%"
+            }
+        },
+        "agileGuard": {
+            "name": "Agiler Schutz",
+            "description": {
+                "general": "In Deckung gehen verringert Ausdauerverbrauch der Besatzung um 40%"
+            }
+        },
+        "laPotenceSchematics": {
+            "description": {
+                "general": [
+                    "Schaden gegen Schwachpunkte an gegnerischen Schiffen wird erhöht",
+                    "Offenbart die Schwachpunkte der Pestilenzflotte"
+                ],
+                "1": [
+                    "Schaden gegen Schwachpunkte an gegnerischen Schiffen wird um 10% erhöht",
+                    "Offenbart die Schwachpunkte der Pestilenzflotte"
+                ]
+            }
+        },
+        "grilledCoconut": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledFish": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledPrimeCrocodile": {
+            "description": {
+                "general": "Erhöht Ausdauer um 55%"
+            }
+        },
+        "tylosaurusSteak": {
+            "description": {
+                "general": "Erhöht Ausdauer um 60%"
+            }
+        },
+        "grilledCrocodile": {
+            "description": {
+                "general": "Erhöht Ausdauer um 50%"
+            }
+        },
+        "grilledHippo": {
+            "description": {
+                "general": "Erhöht Ausdauer um 50%"
+            }
+        },
+        "grilledShark": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledBanana": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledBeef": {
+            "description": {
+                "general": "Erhöht Ausdauer um 45%"
+            }
+        },
+        "grilledBread": {
+            "description": {
+                "general": "Erhöht Ausdauer um 45%"
+            }
+        },
+        "grilledChicken": {
+            "description": {
+                "general": "Erhöht Ausdauer um 45%"
+            }
+        },
+        "grilledDurian": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledMutton": {
+            "description": {
+                "general": "Erhöht Ausdauer um 45%"
+            }
+        },
+        "grilledPrimeHippo": {
+            "description": {
+                "general": "Erhöht Ausdauer um 55%"
+            }
+        },
+        "grilledScrewpine": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledVegetables": {
+            "description": {
+                "general": "Erhöht Ausdauer um 45%"
+            }
+        },
+        "godrogodro": {
+            "description": {
+                "general": [
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 30%",
+                    "Erhöht Reparaturset-Effizienz um 10%",
+                    "Erhöht Ausdauerregeneration um 30%"
+                ]
+            }
+        },
+        "trondroGasy": {
+            "description": {
+                "general": [
+                    "Erhöht Reparaturset-Effizienz um 15%",
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 30%"
+                ]
+            }
+        },
+        "varyBeMenaka": {
+            "description": {
+                "general": [
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 30%",
+                    "Erhöht Reparaturset-Effizienz um 10%",
+                    "Erhöht Ausdauerregeneration um 30%"
+                ]
+            }
+        },
+        "ndiziNaNyama": {
+            "description": {
+                "general": [
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 30%",
+                    "Erhöht Schadensminderung in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 30%"
+                ]
+            }
+        },
+        "ragout": {
+            "description": {
+                "general": [
+                    "Erhöht Schadensminderung in Deckung um 30%",
+                    "Erhöht Schaden bei Besatzungsangriffen um 10%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "sateKambing": {
+            "description": {
+                "general": [
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 30%",
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "bitterballen": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden bei Besatzungsangriffen um 15%",
+                    "Erhöht Schadensminderung in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "ronakoho": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden bei Besatzungsangriffen um 15%",
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 20%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "mchuziWaKuharibu": {
+            "description": {
+                "general": [
+                    "Erhöht Schadensminderung in Deckung um 30%",
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "otakOtak": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden bei Besatzungsangriffen um 15%",
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 20%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "artificer": {
+            "name": "Handwerker",
+            "description": {
+                "general": [
+                    "Aufeinanderfolgende Waffentreffer gegen ein Ziel erhöhen die Effektivität anschließend eingesetzter Bojen um 3% (max. 45%). Wird zurückgesetzt, wenn mehr als 12 Sekunden zwischen den Treffern vergehen",
+                    "Nachladezeit von Hilfswaffen wird um 10% verringert, auch für verbündete Schiffe in der Nähe",
+                    "Reparaturwaffen stellen 5% mehr Rumpfzustand wieder her pro ausgerüsteter Reparaturwaffe"
+                ]
+            }
+        },
+        "unsinkable": {
+            "name": "Unsinkbar",
+            "description": {
+                "general": "Während 'In Deckung gehen' werden die Effekte von 'Überflutet' aufgehoben."
+            }
+        },
+        "ironPlastron": {
+            "name": "Eiserner Bauchpanzer",
+            "description": {
+                "general": "Verringert den erlittenen Torpedoschaden um 30% und zusätzlich um 30%, wenn in Deckung gegangen wird"
+            }
+        },
+        "crescendo": {
+            "name": "Crescendo",
+            "description": {
+                "general": [
+                    "Wenn 'In Deckung gehen' gehalten wird, wird ein Schallangriff aufgeladen, der Gegnern in der Umgebung bis zu 7200 Schaden zufügt",
+                    "Reichweite bei voller Aufladung: 150m"
+                ]
+            }
+        },
+        "bloodAndGold": {
+            "name": "Blut und Gold",
+            "description": {
+                "general": "Wenn ein Ziel zerstört wird, erhält dein Schiff den Status 'Blut und Gold', der Waffenschaden und Panzerung 30 Sekunden lang um 25% erhöht."
+            }
+        },
+        "ricochet": {
+            "name": "Querschläger",
+            "description": {
+                "general": "Treffer am Rumpf oder an einem Gebäude prallen in Richtung eines Ziels in der Nähe ab und verursachen 75% des ursprünglichen Schadens"
+            }
+        },
+        "toxic": {
+            "name": "Toxisch",
+            "description": {
+                "3": [
+                    "Treffer dieser Waffe reduzieren die Ausdauer der Besatzung",
+                    "Verleiht 20% Bonusschaden, der nicht durch \"In Deckung gehen\" blockiert werden kann"
+                ]
+            }
+        },
+        "homing": {
+            "name": "Zielsuchen",
+            "description": {
+                "general": "Geschosse erfassen ein feindliches Ziel"
+            }
+        },
+        "quickArming": {
+            "name": "Schnelles Scharfmachen",
+            "description": {
+                "general": "Torpedoschaden wird um 150% erhöht, wenn das Ziel weiter als 65m entfernt ist"
+            }
+        },
+        "rocketArtillery": {
+            "name": "Raketenartillerie",
+            "description": {
+                "general": "Feuert eine Salve mit 10 schweren Raketen ab (statt vieler kleiner Raketen)"
+            }
+        },
+        "dummySpringloader": {
+            "description": {
+                "1": [
+                    "Verringert Nachladezeit von Sprunglader Waffen um 20%, wenn die Ausdauer der Besatzung voll ist",
+                    "Verringert die Dauer von feindlichem Zerrissene Segel-Effekt um 25%",
+                    "Verringert Nahende Überflutungsladung um 20%"
+                ]
+            }
+        },
+        "fatanaStation": {
+            "description": {
+                "1": [
+                    "Sekundärschaden von Rakete wird um 12% erhöht",
+                    "Schaden gegen Gebäude wird um 12% erhöht"
+                ]
+            }
+        },
+        "tuningStation": {
+            "description": {
+                "1": [
+                    "Sekundärschaden von Torpedo wird um 20% erhöht",
+                    "Projektilgeschwindigkeit von Torpedo wird um 13% erhöht",
+                    "Stellt außerhalb eines Kampfes 10% Ausdauer der Besatzung pro Sekunde wieder her"
+                ]
+            }
+        },
+        "dampened": {
+            "name": "Gedämpft",
+            "description": {
+                "general": "Verringert die Dauer des Statuseffekts 'In Brand' um 33%"
+            }
+        },
+        "hydrodynamic": {
+            "name": "Hydrodynamik",
+            "description": {
+                "general": "Jeder Knoten Segelgeschwindigkeit erhöht die Panzerung um 1,4%"
+            }
+        },
+        "impenetrable": {
+            "name": "Undurchdringlich",
+            "description": {
+                "general": "Der Schwachpunktschaden wird um 35% verringert"
+            }
+        },
+        "raisedQuarterdeck": {
+            "description": {
+                "1": [
+                    "Nahender Überflutungsschaden von gegnerischen Schiffen wird um 15% verringert",
+                    "Nahende Überflutungsladung von gegnerischen Schiffen wird  um 10% verringert"
+                ]
+            }
+        },
+        "machinistStationRepair": {
+            "description": {
+                "1": [
+                    "Einsatzbereich-Radius von Reparaturbojen wird um 25% erhöht",
+                    "Reparaturmenge von Reparaturbojen wird um 25% erhöht"
+                ]
+            }
+        },
+        "buoyLocker": {
+            "description": {
+                "1": [
+                    "Erhöht die Maximalanzahl der aktiven Bojen auf 1",
+                    "Max. Zustand von Bojen wird um 25% erhöht",
+                    "Verringert Nachladezeit von Hilfswaffen um 7%"
+                ]
+            }
+        },
+        "brouwersPowderhouse": {
+            "description": {
+                "1": [
+                    "Wirkungsbereich-Radius von Mörser wird um 10% erhöht",
+                    "Verringert Nachladezeit von Mörser um 7%"
+                ]
+            }
+        },
+        "maintainedArsenal": {
+            "description": {
+                "1": "Erhöht den Schaden von Hilfswaffen um 13%"
+            }
+        },
+        "compagnieScreens": {
+            "description": {
+                "general": [
+                    "Verringert feindlichen Flächenschaden von gegnerischen Schiffen um 20%",
+                    "Verringert Nahende Brandladung um10%",
+                    "Maximaler Rumpfzustand wird um 5% erhöht"
+                ]
+            }
+        },
+        "medicineCabinet": {
+            "description": {
+                "general": [
+                    "Ausdauerverbrauch der Besatzung durch Angriffe wird um 20% verringert",
+                    "Ausdauerwiederherstellung wird im Kampf um 8% erhöht",
+                    "Maximale Ausdauer wird um 5% erhöht"
+                ]
+            }
+        },
+        "compagnieSpiritsLocker": {
+            "description": {
+                "general": [
+                    "Ausdauerverbrauch der Besatzung zu Beginn von 'In Deckung gehen' wird um 20% verringert, solange das Schiff durch Überflutung, Zerrissene Segel oder andere Statuseffekte verlangsamt wird",
+                    "Erhöht Deckungsstärke um 15%",
+                    "Panzerungswert von ausgerüsteter Panzerung wird um 7% erhöht"
+                ]
+            }
+        },
+        "secretCache": {
+            "description": {
+                "1": [
+                    "Verringert die Wirkung des Schiff überladen Status um 15%",
+                    "Wendegeschwindigkeit wird um 16% erhöht",
+                    "Beschleunigung wird um 16% erhöht"
+                ]
+            }
+        },
+        "bombardMenuiserie": {
+            "description": {
+                "1": [
+                    "Bombarden-Schaden wird um 10% erhöht",
+                    "Schaden gegen Gebäude wird um 8% erhöht",
+                    "Reparaturmenge durch Reparaturwaffen wird um 5% erhöht"
+                ]
+            }
+        },
+        "cursedBanner": {
+            "description": {
+                "general": [
+                    "Generierung von Bedrohung wird um 10% erhöht",
+                    "Schaden durch Hilfswaffen wird um 7% erhöht",
+                    "Maximaler Rumpfzustand wird um 3% erhöht"
+                ]
+            }
+        },
+        "lemariMakanan": {
+            "description": {
+                "1": [
+                    "Ausdauer-Wiederherstellungsrate wird um 13% erhöht",
+                    "Maximale Ausdauer wird um 5% erhöht",
+                    "Segelriss-Ladegeschwindigkeit wird um 3% erhöht"
+                ]
+            }
+        },
+        "gunportsUpgrade": {
+            "name": "Verbesserung für Kanonenluken",
+            "description": {
+                "general": "Du kannst Bugwaffen ausrüsten und die hintere Kanonenluke nutzen. Erhöht den Schaden und die Reparaturmenge für Breitseitenwaffen um 25%"
+            }
+        },
+        "heavyArsenal": {
+            "name": "Schweres Arsenal",
+            "description": {
+                "general": "Du kannst Bugwaffen und Hilfswaffen ausrüsten und die hintere Kanonenluke nutzen. Erhöht den Schaden und die Reparaturmenge für Breitseitenwaffen um 50%"
+            }
+        },
+        "riverRat": {
+            "name": "Flussratte",
+            "description": {
+                "general": "Verbessert Schnelligkeit und Wendegeschwindigkeit beim Reisen auf Flüssen"
+            }
+        },
+        "jousting": {
+            "name": "Tjoste",
+            "description": {
+                "general": "Erhöht Rammschaden basierend auf der aktuellen Schnelligkeit (max. 150%). Wenn ein Ziel gerammt wird, wird dessen Panzerung 30s lang um 300 verringert"
+            }
+        },
+        "bedarUpgrade": {
+            "description": {
+                "1": [
+                    "Grundschiffsrang wird auf 2 erhöht",
+                    "Rumpfzustand wird auf 38000 erhöht",
+                    "Deckungsstärke wird auf 7600 erhöht",
+                    "Hinzufügen von Vorteil \"Verbesserung für Kanonluken\""
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 3 erhöht",
+                    "Höchstgeschwindigkeit wird auf 10kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 15kn erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 4 erhöht",
+                    "Rumpfzustand wird auf 45000 erhöht",
+                    "Deckungsstärke wird auf 9000 erhöht",
+                    "Ersetzt Vorteil \"Verbesserung für Kanonlucken\" mit \"Schweres Arsenal\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 5",
+                    "Fracht wird auf 58000 erhöht",
+                    "Hinzufügen von Vorteil \"Flussratte\""
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Tjoste\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 48200 erhöht",
+                    "Deckungsstärke wird auf 9640 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "stationsUpgrade": {
+            "name": "Verbesserung für Stationen",
+            "description": {
+                "general": "Du kannst Bugwaffen ausrüsten. Erhöht den Schaden und die Reparaturmenge für Breitseitenwaffen um 25%"
+            }
+        },
+        "bigGuns": {
+            "name": "Große Wummen",
+            "description": {
+                "general": "Du kannst Bugwaffen und Hilfswaffen einsetzen. Erhöht den Schaden und die Reparaturmenge für Breitseitenwaffen um 50%"
+            }
+        },
+        "ironwill": {
+            "name": "Eiserner Wille",
+            "description": {
+                "general": "Panzerungswert für dich und Verbündete in der Nähe wird um 300 erhöht"
+            }
+        },
+        "hulkUpgrade": {
+            "description": {
+                "1": [
+                    "Grundschiffsrang wird auf 4 erhöht",
+                    "Rumpfzustand wird auf 40000 erhöht",
+                    "Deckungsstärke wird auf 28000 erhöht",
+                    "Fügt \"Verbesserung für Stationen\" Vorteil hinzu"
+                ],
+                "2": [
+                    "Höchstgeschwindigkeit wird auf 10kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 13kn erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Rumpfzustand wird auf 58000 erhöht",
+                    "Deckungsstärke wird auf 40600 erhöht",
+                    "Ersetzt \"Verbesserung für Stationen\" mit \"Große Wummen\" Vorteil"
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Fracht wird auf 70000 erhöht",
+                    "Hinzufügen von Vorteil \"Flussratte\""
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Eiserner Wille\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 62100 erhöht",
+                    "Deckungsstärke wird auf 43470 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "unsparing": {
+            "name": "Erbarmungslos",
+            "description": {
+                "general": "Nach Reparaturen wird Wirksame Reparaturen für Verbündete um 30% erhöht"
+            }
+        },
+        "cutterUpgrade": {
+            "description": {
+                "1": [
+                    "Grundschiffsrang wird auf 3 erhöht",
+                    "Rumpfzustand wird auf 35000 erhöht",
+                    "Deckungsstärke wird auf 7000 erhöht",
+                    "Hinzufügen von Vorteil \"Verbesserung für Kanonluken\""
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 4 erhöht",
+                    "Höchstgeschwindigkeit wird auf 11kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 15kn erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Rumpfzustand wird auf 46000 erhöht",
+                    "Deckungsstärke wird auf 9200 erhöht",
+                    "Ersetzt \"Verbesserung für Kanonenluken\" mit \"Schweres Arsenal\" Vorteil"
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Fracht wird auf 68000 erhöht",
+                    "Hinzufügen von Vorteil \"Flussratte\""
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Erbarmungslos\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 49300 erhöht",
+                    "Deckungsstärke wird auf 9860 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "devouring": {
+            "name": "Verschlingen",
+            "description": {
+                "general": "Baut 'Zerrissene Segel' auf, wenn ein Ziel mit 'In Brand' getroffen wird"
+            }
+        },
+        "bargeUpgrade": {
+            "description": {
+                "1": [
+                    "Grundschiffsrang wird auf 4 erhöht",
+                    "Rumpfzustand wird auf 36000 erhöht",
+                    "Deckungsstärke wird auf 7200 erhöht",
+                    "Fügt \"Verbesserung für Stationen\" Vorteil hinzu"
+                ],
+                "2": [
+                    "Höchstgeschwindigkeit wird auf 11kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 14kn erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Rumpfzustand wird auf 46000 erhöht",
+                    "Deckungsstärke wird auf 9200 erhöht",
+                    "Ersetzt \"Verbesserung für Stationen\" mit \"Große Wummen\" Vorteil"
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Fracht wird auf 65000 erhöht",
+                    "Hinzufügen von Vorteil \"Flussratte\""
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Verschlingen\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 49300 erhöht",
+                    "Deckungsstärke wird auf 9860 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "ruin": {
+            "name": "Verheeren",
+            "description": {
+                "general": "Treffer mit Explosionsschaden verringern Waffenschaden von Gegnern um 20%"
+            }
+        },
+        "sloopUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 37000 erhöht",
+                    "Deckungsstärke wird auf 7400 erhöht",
+                    "Fügt \"Verbesserung für Kanonenluken\" Vorteil hinzu"
+                ],
+                "2": [
+                    "Höchstgeschwindigkeit wird auf 11kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 14kn erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Rumpfzustand wird auf 45000 erhöht",
+                    "Deckungsstärke wird auf 9000 erhöht",
+                    "Ersetzt \"Verbesserung für Kanonenluken\" mit \"Schweres Arsenal\" Vorteil"
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Fracht wird auf 65000 erhöht",
+                    "Hinzufügen von Vorteil \"Flussratte\""
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Verheeren\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 48200 erhöht",
+                    "Deckungsstärke wird auf 9640 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "deepBlue": {
+            "name": "Blaue Tiefe",
+            "description": {
+                "general": "Verbessert die Wendegeschwindigkeit beim Reisen auf See"
+            }
+        },
+        "padewakangSiegeUpgrade": {
+            "name": "Belagerung",
+            "description": {
+                "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
+            }
+        },
+        "padewakangUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 43000 erhöht",
+                    "Deckungsstärke wird auf 8600 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 75000 erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 16kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 48000 erhöht",
+                    "Deckungsstärke wird auf 9600 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Belagerung\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 52800 erhöht",
+                    "Deckungsstärke wird auf 10560 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "vindictive": {
+            "name": "Rachedurstig",
+            "description": {
+                "general": "Nach 'In Deckung gehen' wird Waffenschaden 20 Sekunden lang um 20% erhöht"
+            }
+        },
+        "snowUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 55000 erhöht",
+                    "Deckungsstärke wird auf 27500 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 85000 erhöht",
+                    "Ausstattungsplätze wird auf 5 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 11kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 14kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 60000 erhöht",
+                    "Deckungsstärke wird auf 30000 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Rumpfzustand wird auf 66000 erhöht",
+                    "Deckungsstärke wird auf 33000 erhöht",
+                    "Fügt \"Rachedurstig\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 79200 erhöht",
+                    "Deckungsstärke wird auf 39600 erhöht"
+                ]
+            }
+        },
+        "headstrong": {
+            "name": "Eigensinnig",
+            "description": {
+                "general": "Erhöht Rammschaden basierend auf der aktuellen Schnelligkeit (max. 80%). Wenn ein Ziel 'Überflutet' ist, erleidet es 7000 zusätzlichen Schaden beim Rammen"
+            }
+        },
+        "brigantineUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 43000 erhöht",
+                    "Deckungsstärke wird auf 8600 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 60000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 13kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 20kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 45000 erhöht",
+                    "Deckungsstärke wird auf 9000 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Eigensinnig\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 49500 erhöht",
+                    "Deckungsstärke wird auf 9900 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "firebug": {
+            "name": "Feuerteufel",
+            "description": {
+                "general": [
+                    "\"In Brand\" Statuseffekt verursacht 100% mehr Schaden, aber dauert nur 50% der Zeit",
+                    "Feuerwaffen Nachladezeit wird um 12% verringert"
+                ]
+            }
+        },
+        "sambukUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 40000 erhöht",
+                    "Deckungsstärke wird auf 8000 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 75000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 16kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 45000 erhöht",
+                    "Deckungsstärke wird auf 9000 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Feuerteufel\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 49500 erhöht",
+                    "Deckungsstärke wird auf 9900 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "mend": {
+            "name": "Flicken",
+            "description": {
+                "general": "Reparaturmenge von Reparaturwaffen wird für Schiffe mit weniger als 33% Rumpfzustand um 40% erhöht"
+            }
+        },
+        "barqueUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 41000 erhöht",
+                    "Deckungsstärke wird auf 8200 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 80000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 17kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 46000 erhöht",
+                    "Deckungsstärke wird auf 9200 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Flicken\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 50600 erhöht",
+                    "Deckungsstärke wird auf 10120 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "evolved": {
+            "name": "Weiterentwickelt",
+            "description": {
+                "general": "Erhöht Waffenschaden und Reparaturmenge von Hilfswaffen um 15%"
+            }
+        },
+        "brigUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 40000 erhöht",
+                    "Deckungsstärke wird auf 8000 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 75000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 13kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 18kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 45000 erhöht",
+                    "Deckungsstärke wird auf 9000 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Weiterentwickelt\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 49500 erhöht",
+                    "Deckungsstärke wird auf 9900 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "boatswainsToll": {
+            "description": {
+                "1": [
+                    "Schaden Besatzungsangriff wird um 7% erhöht",
+                    "Ladegeschwindigkeit von Besatzungsangriff wird um 6% erhöht",
+                    "Stellt außerhalb eines Kampfes 5% Ausdauer der Besatzung pro Sekunde wieder her"
+                ]
+            }
+        },
+        "scupperStation": {
+            "description": {
+                "1": [
+                    "Unter der Wirkung von Überflutet verringert Ausdauerverbrauch der Besatzung während Trimmt die Segel um 15%",
+                    "Unter der Wirkung von Überflutet verringert Ausdauerverbrauch der Besatzung während Geht in Deckung um 10%"
+                ]
+            }
+        },
+        "waterFlask": {
+            "description": {
+                "general": "Erhöht Segelgeschwindigkeit um 10%"
+            }
+        },
+        "waterBarrel": {
+            "description": {
+                "general": "Erhöht Segelgeschwindigkeit um 15%"
+            }
+        },
+        "teulingsCoffee": {
+            "description": {
+                "general": "Erhöht Segelgeschwindigkeit um 15%"
+            }
+        },
+        "zongZi": {
+            "description": {
+                "general": [
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 20%",
+                    "Erhöht Ausdauerregeneration um 50%",
+                    "+5 Nachladegeschwindigkeit"
+                ]
+            }
+        },
+        "rumFruitcake": {
+            "description": {
+                "general": [
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 20%",
+                    "Erhöht Ausdauerregeneration um 50%",
+                    "+5% Nachladegeschwindigkeit"
+                ]
+            }
+        },
+        "teulingsSpecialSteakDinner": {
+            "description": {
+                "general": [
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 30%",
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 20%",
+                    "Erhöht Ausdauerregeneration um 30%"
+                ]
+            }
+        },
+        "mermaidsTears": {
+            "description": {
+                "general": [
+                    "Erhöht Schadensminderung in Deckung um 50%",
+                    "Erhöht Ausdauerregeneration um 10%"
+                ]
+            }
+        },
+        "darkNStormy": {
+            "description": {
+                "general": [
+                    "Erhöht Reparaturset-Effizienz um 50%",
+                    "Erhöht Ausdauerregeneration um 10%"
+                ]
+            }
+        },
+        "scallyGrog": {
+            "description": {
+                "general": [
+                    "In Deckung gehen verringert Ausdauerverbrauch in Deckung um 50%",
+                    "Erhöht Ausdauerregeneration um 10%"
+                ]
+            }
+        },
+        "bloodyAnnie": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden bei Besatzungsangriff um 50%",
+                    "Erhöht Ausdauerregeneration um 10%"
+                ]
+            }
+        },
+        "lestarisMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "grilledLestariMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 60%"
+            }
+        },
+        "leatherFashioningStation": {
+            "description": {
+                "1": [
+                    "Brandschaden von gegnerischen Schiffen wird um 15% verringert",
+                    "Nahende Brandladung von gegnerischen Schiffen wird um 12% verringert",
+                    "Verringert die Dauer vom Status 'In Brand' um 10%"
+                ]
+            }
+        },
+        "incinerate": {
+            "name": "Einäschern",
+            "description": {
+                "general": "Eingesetzte Bojen explodieren in einem Feuerschwall, wenn sie zerstört werden. Sie verursachen 300% Schaden und fügen Zielen sofort 'In Brand' zu."
+            }
+        },
+        "lestariTrophy": {
+            "description": {
+                "general": [
+                    "Schaden Besatzungsangriff wird um 7% erhöht",
+                    "Frachtkapazität wird um 8% erhöht",
+                    "Beschleunigung wird um 14% erhöht"
+                ]
+            }
+        },
+        "hubacTuningRack": {
+            "description": {
+                "general": [
+                    "Maximale Reichweite von Torpedo wird um 14% erhöht",
+                    "Scharfmachen-Reichweite für Torpedo-Waffen wird um 25% verringert",
+                    "Projektilgeschwindigkeit von Torpedo wird um 10% erhöht"
+                ]
+            }
+        },
+        "machinistStationMines": {
+            "description": {
+                "1": [
+                    "Minenfeldbojen-Schaden wird um 20% erhöht",
+                    "Einsatzbereich-Radius von Minenfeldbojen wird um 20% erhöht"
+                ]
+            }
+        },
+        "sharedSupply": {
+            "name": "Gemeinsamer Vorrat",
+            "description": {
+                "general": "Treffer an verbündeten Schiffen reparieren außerdem das nächste verbündete Schiff um 75% des ursprünglich reparierten Betrags"
+            }
+        },
+        "deluge": {
+            "name": "Überschwemmung",
+            "description": {
+                "general": "Verursacht mit einer Wahrscheinlichkeit von 15% 2500 schweren Schaden. Diese Wahrscheinlichkeit steigt auf 30% wenn das Zielschiff unter dem Statuseffekt 'Überflutet' leidet"
+            }
+        },
+        "taunting": {
+            "name": "Spottend",
+            "description": {
+                "general": "Wenn ein Ziel getroffen wird, erleidet es sofort den Statuseffekt 'Verspottet'."
+            }
+        },
+        "spitefulSpikesStation": {
+            "description": {
+                "general": [
+                    "Wenn du einen Schwachpunkt triffst, werden mit einer Wahrscheinlichkeit von 40% alle 'Reparieren'-Effekte auf dem Ziel für 15s um 75% verringert, unabhängig von der Quelle",
+                    "Schaden gegen Schwachpunkte durch Hilfswaffen wird um 10% erhöht",
+                    "Verringert Nachladezeit von Hilfswaffen um 7%"
+                ]
+            }
+        },
+        "emergencySails": {
+            "description": {
+                "general": [
+                    "Trimmgeschwindigkeit wird um 10% erhöht, während ein gegnerisches Schiff innerhalb von 400m verfolgt wird",
+                    "Ladegeschwindigkeit des Statuseffekts 'Zerrissene Segel' wird um 10% erhöht, während ein gegnerisches Schiff innerhalb von 400m verfolgt wird"
+                ]
+            }
+        },
+        "lightningStream": {
+            "name": "Statische Konvergenz",
+            "description": {
+                "general": [
+                    "In Deckung gehen lädt einen Blitzangriff auf, der aus bis zu 4 Ziele überspringt und bis zu 1850 Elektroschaden pro Ziel verursacht",
+                    "Je länger 'In Deckung gehen' aktiv ist, desto stärker ist der Angriff und die Reichweite des Blitzes hoch"
+                ]
+            }
+        },
+        "provoking": {
+            "name": "Provozierend",
+            "description": {
+                "general": "Treffer an einem Ziel bauen den Statuseffekt 'Verspottet' auf"
+            }
+        },
+        "heavensWrath": {
+            "name": "Himmelszorn",
+            "description": {
+                "general": "Wenn ein Ziel unter dem Statuseffekt 'Elektrisiert' leidet, erzeugen Treffer mit einer Wahrscheinlichkeit von 15% einen verheerenden Blitzschlag, der 1500 Elektroschaden verursacht"
+            }
+        },
+        "eighteenStrikes": {
+            "name": "Achtzehn Treffer",
+            "description": {
+                "general": [
+                    "Wenn eine einzelne Salve 18 Treffer landet, werden sofort 1888 Brandschaden verursacht",
+                    "Dieser Effekt verursacht bei Zielen mit dem Statuseffekt 'In Brand'' 200% Schaden"
+                ]
+            }
+        },
+        "unrelentingDrill": {
+            "name": "Gnadenloser Bohrer",
+            "description": {
+                "general": "Feuert einen Bohrbolzen in gerader Linie ab, der mehrere Ziele durchschlägt. Treffer auf nachfolgende Ziele verursachen zusätzlich 50% Schaden."
+            }
+        },
+        "longDraw": {
+            "name": "Langer Zug",
+            "description": {
+                "general": "Diese Waffe kann aufgeladen werden, um den Schaden um bis zu 420% und Reichweite auf bis zu 900m zu erhöhen."
+            }
+        },
+        "revile": {
+            "name": "Schmähen",
+            "description": {
+                "general": "Jeder Treffer, den du während 'In Deckung gehen' einsteckst, baut den Statuseffekt 'Verspottet' auf dem angreifenden Gegner auf"
+            }
+        },
+        "gloat": {
+            "name": "Verhöhnen",
+            "description": {
+                "general": "Für jeden Gegner mit dem Statuseffekt 'Verspottet', der aktiv dein Schiff als Ziel hat, wird Deckungsstärke-Wiederherstellung um 100% erhöht"
+            }
+        },
+        "electric": {
+            "name": "Elektrisch",
+            "description": {
+                "1": "10% des Schadens wird zu Elektroschaden",
+                "2": "20% des Schadens wird zu Elektroschaden",
+                "3": "30% des Schadens wird zu Elektroschaden"
+            }
+        },
+        "organHarvestingStation": {
+            "description": {
+                "general": [
+                    "Rakete-Schaden wird um 5% pro 20% verlorenem Rumpfzustand des Spielerschiffs erhöht",
+                    "Sekundärschaden von Rakete wird um 10% erhöht",
+                    "Verringert Nachladezeit von Rakete um 5%"
+                ]
+            }
+        },
+        "bracedGunwales": {
+            "description": {
+                "general": [
+                    "Erlittener Sekundärschaden wird um 20% verringert, solange 'Vor Anker' aktiv ist",
+                    "Verlangsamung wird um 75% erhöht, während vor Anker gegangen wird"
+                ]
+            }
+        },
+        "lestariStew": {
+            "description": {
+                "general": [
+                    "Schaden bei Besatzungsangriff wird um 10% erhöht",
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 30%",
+                    "Erhöht Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "firstMatesLedger": {
+            "description": {
+                "general": [
+                    "Stellt 15% Schwerer Schaden wieder her, nachdem du ein Ziel mit Besatzungsangriff getroffen hast",
+                    "Nach jeder Anwendung von Besatzungsfähigkeit wird Ausdauerwiederherstellung der Besatzung für 10s um 10% erhöht",
+                    "Reichweite der Besatzungsfähigkeit wird um 5% erhöht"
+                ]
+            }
+        },
+        "kinckelsLaboratory": {
+            "description": {
+                "1": [
+                    "Wirkungsbereich-Radius von Mörser wird um 5% erhöht",
+                    "Panzerungswert von ausgerüsteter Panzerung wird um 5% erhöht",
+                    "Schaden gegen Gebäude wird um 5% erhöht"
+                ]
+            }
+        },
+        "shellPackingStation": {
+            "description": {
+                "general": [
+                    "Wirkungsbereich-Radius von Bombarde-Waffen wird um 5% erhöht",
+                    "Nachladezeit von Bombarde-Waffen wird um 5% verringert"
+                ]
+            }
+        },
+        "densityFurnace": {
+            "description": {
+                "general": [
+                    "Ladegeschwindigkeit des Statuseffekts \"Überflutet\" auf einem Ziel wird um 12% erhöht",
+                    "Die Dauer des Statuseffekts \"Überflutet\" auf einem Ziel wird um 12% erhöht"
+                ]
+            }
+        },
+        "langrageBarrels": {
+            "description": {
+                "general": [
+                    "Ladegeschwindigkeit des Statuseffekts 'Zerrissene Segel' auf einem Ziel wird um 8% erhöht",
+                    "Die Dauer des Statuseffekts 'Zerrissene Segel' auf einem Ziel wird um 8% erhöht"
+                ]
+            }
+        },
+        "gearsWorkshop": {
+            "description": {
+                "general": [
+                    "Nachladezeit von Ballista-Waffen wird um 12% verringert",
+                    "Aufladezeit von Ballista-Waffen wird um 10% verringert"
+                ]
+            }
+        },
+        "smokedCanisters": {
+            "description": {
+                "general": [
+                    "Munitionskapazität von Seefeuer-Waffen wird um 20% erhöht",
+                    "Nachladezeit von Seefeuer-Waffen wird um 10% verringert",
+                    "Maximale Reichweite von Seefeuer-Waffen wird um 5% erhöht"
+                ]
+            }
+        },
+        "beamSupports": {
+            "description": {
+                "general": [
+                    "Maximaler Rumpfzustand wird um 7% erhöht",
+                    "Panzerungswert von ausgerüsteter Panzerung wird um 7% erhöht"
+                ]
+            }
+        },
+        "heavensEye": {
+            "name": "Himmelsauge",
+            "description": {
+                "general": "Treffer auf den Schwachpunkt eines Ziels erzeugen mit einer Wahrscheinlichkeit von 35% einen verheerenden Blitzschlag, der 300 Elektroschaden verursacht"
+            }
+        },
+        "indomitable": {
+            "name": "Unbeugsam",
+            "description": {
+                "general": "Verhindert, dass ein tödlicher Angriff dieses Schiff versenkt; anschließend wird dieses Schiff die nächsten 5 Sekunden unverwundbar. Dieser Effekt hat eine Abklingzeit von 180 Sekunden"
+            }
+        },
+        "insulation": {
+            "name": "Isolierung",
+            "description": {
+                "general": "Reduziert den vom Statuseffekt 'Elektrisiert' verursachten Schaden um 25%"
+            }
+        },
+        "amberCoatingStation": {
+            "description": {
+                "general": [
+                    "Ladegeschwindigkeit des Statuseffekts 'Elektrisiert' auf einem Ziel wird um 8% erhöht",
+                    "Die Dauer des Statuseffekts 'Elektrisiert' auf einem Ziel wird um 8% erhöht"
+                ]
+            }
+        },
+        "chargeStores": {
+            "description": {
+                "general": [
+                    "Nachdem ein Ziel mit dem Statuseffekt 'Elektrisiert' belegt wurde, wird der Schaden des nächsten Angriffes um 50% erhöht",
+                    "Für Ziele, die bereits unter dem Statuseffekt 'Elektrisiert' leiden, wird Ladegeschwindigkeit des Statuseffekts 'In Brand' um 10% erhöht",
+                    "Der Schaden von Elektrisch-Waffen wird um 5% erhöht"
+                ]
+            }
+        },
+        "provoke": {
+            "name": "Provozieren",
+            "description": {
+                "general": [
+                    "Schaden, der innerhalb von 200m zugefügt wird, fügt Verspottet-Ladungen zu. Wird mit diesem Schiff Verspottet zugefügt, erleidet das Feindschiff 50% erhöhten Schwachpunkt-Schaden aus allen Quellen",
+                    "Erhöht Deckungsstärke um 150% und die Wiederherstellung der Deckungsstärke um 25%"
+                ]
+            }
+        },
+        "battleJunkUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 53000 erhöht",
+                    "Deckungsstärke wird auf 26500 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 80000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 16kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 58000 erhöht",
+                    "Deckungsstärke wird auf 29000 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Erdulden\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 63800 erhöht",
+                    "Deckungsstärke wird auf 31900 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "endure": {
+            "name": "Erdulden",
+            "description": {
+                "general": [
+                    "Erleidet jedes Mal, wenn vor Feindtreffern in Deckung gegangen wird, 2% weniger Schaden pro Angriff. Der Effekt kann bis zu 20% Mal gestapelt werden und läuft ab, wenn 12s lang kein Schaden durch in Deckung gehen vermieden wurde",
+                    "Belegt gegnerische Schiffe innerhalb von 125m mit Verspottet-Ladungen, wenn vor Treffern in Deckung gegangen wird"
+                ]
+            }
+        },
+        "lotusMooncake": {
+            "description": {
+                "general": [
+                    "Reduziert Ausdauerverbrauch beim Trimmen der Segel um 20%",
+                    "Erhöht Ausdauerregeneration um 50%",
+                    "+5 Nachladegeschwindigkeit"
+                ]
+            }
+        },
+        "phantomMending": {
+            "name": "Phantomreparatur",
+            "description": {
+                "general": "10% des Schadens, den diese Waffe verursacht, stellt den Rumpfzustand wieder her"
+            }
+        },
+        "freemansEmbrace": {
+            "description": {
+                "general": [
+                    "Schaden-Statuseffekte auf deinem Schiff werden beim Rammen auf das feindliche Schiff übertragen",
+                    "Erhöht die Dauer der Schaden-Statuseffekte auf deinem Schiff um 30%",
+                    "Verringert den verursachten Schaden durch die Statuseffekte auf deinem Schiff um 30%"
+                ]
+            }
+        },
+        "cannonballCarvingStation": {
+            "description": {
+                "general": [
+                    "Schwachpunkt Treffer wenden 'Verspotten-Ladung' auf das Ziel an",
+                    "Verspottungsdauer wird um 15% erhöht",
+                    "Nachladezeit von Durchschlagend-Waffen wird um 5% verringert"
+                ]
+            }
+        },
+        "bloodyRed": {
+            "description": {
+                "general": [
+                    "Generierung von Bedrohung verbündeter Schiffe in der Nähe wird um 60% verringert",
+                    "Spottbonus-Bedrohung wird um 40% erhöht",
+                    "Generierung von Bedrohung wird um 25% erhöht"
+                ]
+            }
+        },
+        "plaguebringersWard": {
+            "description": {
+                "general": [
+                    "Nachladezeit von Giftig-Waffen wird um 7% verringert",
+                    "Schaden durch Giftig-Waffen wird um 4% erhöht"
+                ]
+            }
+        },
+        "quickIgnitingPowder": {
+            "description": {
+                "general": [
+                    "Ladegeschwindigkeit des Statuseffekts 'In Brand' auf einem Ziel wird um 8% erhöht",
+                    "Die Dauer des Statuseffekts 'In Brand' auf einem Ziel wird um 8% erhöht"
+                ]
+            }
+        },
+        "ballistaMaximumRange": {
+            "description": {
+                "1": "Maximale Reichweite von Ballista wird um 10% erhöht"
+            }
+        },
+        "deadeye": {
+            "name": "Adlerauge",
+            "description": {
+                "general": [
+                    "Der Waffenschaden erhöht sich je nachdem, wie weit du vom Ziel entfernt bist, bis zu einer Obergrenze von 60%",
+                    "When your Hull Health is 40% or lower, increases Armor by 500 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
+                ]
+            }
+        },
+        "garudaUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 38000 erhöht",
+                    "Deckungsstärke wird auf 7600 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 65000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 16kn erhöht",
+                    "Hinzufügen von Vorteil \"Blaue Tiefe\""
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 43000 erhöht",
+                    "Deckungsstärke wird auf 8600 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Revolver\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 47300 erhöht",
+                    "Deckungsstärke wird auf 9460 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "revolver": {
+            "name": "Revolver",
+            "description": {
+                "general": [
+                    "Erhöht den Durchschlagsschaden um 20%. Der Bonus steigt auf 30%, wenn ein Ziel mit Durchstochen getroffen wird",
+                    "Die Langwaffe ist nicht länger eine Oberdeck-Waffe, wenn sie am Bug ausgerüstet ist",
+                    "Langwaffen, die am Bug ausgerüstet sind, verursachen 40% weniger Schaden und haben 60% längere Nachladezeiten"
+                ]
+            }
+        },
+        "fury": {
+            "name": "Wut",
+            "description": {
+                "general": [
+                    "Erhöht 10 Sek. lang Schaden gegen Gebäude um 50% und den erlittenen Schwachpunkt-Schaden um 30%",
+                    "Waffentreffer haben eine Chance von 20%, 15 Sek. lang Wut bei dir auszulösen, wodurch der Breitseite-Waffenschaden um 20% erhöht wird",
+                    "Solange dies aktiv ist, können Breitseite-Treffer eine Explosion mit 700 Schaden alle 3 Sek. verursachen mit einem Sprengradius von 100m"
+                ]
+            }
+        },
+        "schoonerUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 41000 erhöht",
+                    "Deckungsstärke wird auf 8200 erhöht"
+                ],
+                "2": [
+                    "Grundschiffsrang wird auf 5 erhöht",
+                    "Fracht wird auf 75000 erhöht"
+                ],
+                "3": [
+                    "Höchstgeschwindigkeit wird auf 12kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 17kn erhöht",
+                    "Fügt \"Blaue Tiefe\" Vorteil hinzu"
+                ],
+                "4": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Rumpfzustand wird auf 46000 erhöht",
+                    "Deckungsstärke wird auf 9200 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt \"Flüchtig\" Vorteil hinzu"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 50600 erhöht",
+                    "Deckungsstärke wird auf 10120 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "volatile": {
+            "name": "Flüchtig",
+            "description": {
+                "general": "Alle Waffen, mit denen die Breitseiten dieses Schiffes ausgerüstet sind, verursachen 20% zusätzlichen Explosionsschaden und verringern die Nachladezeit für explosive Waffen um 10%"
+            }
+        },
+        "chainReaction": {
+            "name": "Kettenreaktion",
+            "description": {
+                "general": [
+                    "Erhöht den von dieser Waffe verursachten Schaden nach jedem Treffer um 5%",
+                    "Der Effekt wird nach 7 Sekunden ab dem ersten Treffer zurückgesetzt"
+                ]
+            }
+        },
+        "pneumaticEngine": {
+            "name": "Druckluftantrieb",
+            "description": {
+                "general": [
+                    "Feuert schnell Seefeuerpfeile bis zu einer Reichweite von 250m ab",
+                    "Die Waffe braucht einen Moment zum Aufladen, bevor sie feuert"
+                ]
+            }
+        },
+        "tempest": {
+            "name": "Sturm",
+            "description": {
+                "general": "Jedes getroffene Ziel verursacht einen Blitz, der den nächstgelegenen Feind innerhalb von 150m trifft und dabei 2500 Elektroschaden austeilt"
+            }
+        },
+        "soulShield": {
+            "name": "Seelenschild",
+            "description": {
+                "general": "Eine eingesetzte Boje bildet eine schützende Kuppel, die schwach gegen Durchschlagschaden ist"
+            }
+        },
+        "rally": {
+            "name": "Versammeln",
+            "description": {
+                "general": "Der Einsatz eines Besatzungsangriffs erhöht den Waffenschaden der Breitseite um 33% und die Ausdauerwiederherstellung um 100% für die nächsten 15 Sekunden"
+            }
+        },
+        "phantasmicThrust": {
+            "name": "Trügerischer Schub",
+            "description": {
+                "general": "Das Rammen eines Ziels repariert den Rumpfzustand deines Schiffs um 138% des zugefügten Schadens"
+            }
+        },
+        "darkMeditation": {
+            "name": "Dunkle Meditation",
+            "description": {
+                "general": "Verringert während in Deckung die Dauer negativer Statuseffekte jede Sekunde um 10% ihrer maximalen Dauer"
+            }
+        },
+        "painPiper": {
+            "description": {
+                "general": [
+                    "Wenn du von Besatzungsangriff getroffen wird, erhöht sich der Schaden deines nächsten Besatzungsangriffs um 80%",
+                    "Verringert hereinkommenden Schaden von Besatzungsangriff um 10%",
+                    "Maximale Ausdauer wird um 5% erhöht"
+                ]
+            }
+        },
+        "drownedOnesToll": {
+            "description": {
+                "general": [
+                    "Wenn über 60% von Ausdauer der Besatzung und unter Maximaler Rumpfzustand, wird 6% von Ausdauer der Besatzung verbraucht, um 0.28% von Rumpfzustand pro Sekunde wiederherzustellen",
+                    "Maximaler Rumpfzustand wird um 8% erhöht",
+                    "Erhöht Ausdauer-Wiederherstellungsrate um 6% außerhalb des Kampfes"
+                ]
+            }
+        },
+        "chainedLinks": {
+            "description": {
+                "general": [
+                    "Verringert beim Trimmen der Segel die eingehende Ausdauer der Besatzung um 60%, auf Kosten von 10% Ausdauer der Besatzung pro Treffer",
+                    "Erlittener Schaden gegen Schwachpunkte wird um 20% verringert",
+                    "Panzerungswert von ausgerüsteter Panzerung wird um 10% erhöht"
+                ]
+            }
+        },
+        "teulingsGuidance": {
+            "description": {
+                "general": [
+                    "Wenn du einen Schwachpunkt triffst, erhöht sich der Schaden des nächsten getroffenen Schwachpunkts innerhalb von 8 Sekunden um 30%",
+                    "Erhöht Schaden gegen Schwachpunkte mit Bugwaffen um 12%",
+                    "Nachladezeit von Bugwaffen wird um 5% verringert"
+                ]
+            }
+        },
+        "strangeElixir": {
+            "description": {
+                "general": [
+                    "Reichweite der Besatzungsfähigkeit wird um 25% erhöht, solange Ausdauer der Besatzung über 50% ist",
+                    "Ladegeschwindigkeit für Besatzungsangriff wird um 15% erhöht",
+                    "Ausdauerverbrauch der Besatzung von \"In Deckung gehen\" wird um 5% verringert"
+                ]
+            }
+        },
+        "decoyDeck": {
+            "description": {
+                "general": [
+                    "Für jedes Ziel, das den Statuseffekt Verspottet durch dein Schiff erhalten hat, erhöht sich die eingehende Reparaturmenge um 5% (max. 20%)",
+                    "Erhöht die Ladegeschwindigkeit des Statuseffekts Verspottet auf gegnerische Ziele um 7%",
+                    "Generierung von Bedrohung wird um 7% erhöht"
+                ]
+            }
+        },
+        "floatCollars": {
+            "description": {
+                "general": [
+                    "Max. Zustand von Bojen wird um 100% erhöht",
+                    "Einsatzdauer von Bojen wird um 50% erhöht"
+                ]
+            }
+        },
+        "mineClearingLocker": {
+            "description": {
+                "general": [
+                    "Wenn du mit halben Segeln oder weniger segelst, hat dein Schiff eine 80% Chance, das Auslösen von Minenbojen zu vermeiden",
+                    "Verringert den gesamten eingehenden Schaden von Minenbojen um 15%",
+                    "Deckungsstärke wird um 5% erhöht"
+                ]
+            }
+        },
+        "devilsConcoction": {
+            "description": {
+                "general": [
+                    "Sekundärschaden von Brandwaffen wird um 12% erhöht",
+                    "Maximale Reichweite von Brandwaffen wird um 8% erhöht"
+                ]
+            }
+        },
+        "debrisLocker": {
+            "description": {
+                "general": [
+                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 50%",
+                    "Increases Charge Rate of the Torn Sails status effect on a target by 16%"
+                ]
+            }
+        },
+        "expandingCorkscrewStation": {
+            "description": {
+                "general": [
+                    "Sekundärschaden von Überflutung-Waffen wird um 12% erhöht",
+                    "Maximale Reichweite von Überflutung-Waffen wird um 8% erhöht"
+                ]
+            }
+        },
+        "cannonballChargingStation": {
+            "description": {
+                "general": [
+                    "Erhöht die Ladegeschwindigkeit des Elektrisiert Statuseffekts auf gegnerische Ziele, die bereits von dem Durchstochen Statuseffekt betroffen sind, um 50%",
+                    "Ladegeschwindigkeit des Statuseffekt \"Durchstochen\" auf einem Ziel wird um 16% erhöht"
+                ]
+            }
+        },
+        "copperFasteningStation": {
+            "description": {
+                "general": [
+                    "Sekundärschaden von Elektrisch-Waffen wird um 12% erhöht",
+                    "Maximale Reichweite von Elektrisch-Waffen wird um 8% erhöht"
+                ]
+            }
+        },
+        "rifledBarrelWorkshop": {
+            "description": {
+                "general": [
+                    "Erhöht die Ladegeschwindigkeit des Durchstochen Statuseffekts auf gegnerische Ziele, die bereits von dem Überflutet Statuseffekt betroffen sind, um 50%",
+                    "Ladegeschwindigkeit des Statuseffekts \"Überflutet\" auf einem Ziel wird um 16% erhöht"
+                ]
+            }
+        },
+        "highVelocityKegs": {
+            "description": {
+                "general": [
+                    "Sekundärschaden von Durchschlagend-Waffen wird um 12% erhöht",
+                    "Maximale Reichweite von Durchschlagend-Waffen wird um 8% erhöht"
+                ]
+            }
+        },
+        "ghostlyMending": {
+            "name": "Schaurige Reparatur",
+            "description": {
+                "general": [
+                    "5% des Schadens, den diese Waffe verursacht, stellt den Rumpfzustand wieder her",
+                    "Wenn ein Schwachpunkt getroffen wird, wird die Reparaturmenge mit 700% multipliziert"
+                ]
+            }
+        },
+        "sunder": {
+            "name": "Entzwei",
+            "description": {
+                "general": [
+                    "Einmal scharf gemacht, erhöhen Torpedos die Geschwindigkeit um 100% und dringen durch das Zielschiff",
+                    "Torpedos verringern außerdem die Panzerung für 10 Sekunden um 200"
+                ]
+            }
+        },
+        "reinforced": {
+            "name": "Verstärkt",
+            "description": {
+                "general": "Reduziert den vom Statuseffekt 'Durchstochen' verursachten Schaden um 25%"
+            }
+        },
+        "crocodileMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 30%"
+            }
+        },
+        "tylosaurusFlesh": {
+            "description": {
+                "general": "Erhöht Ausdauer um 40%"
+            }
+        },
+        "fish": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "durian": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "coconut": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "ndizi": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "rawChicken": {
+            "description": {
+                "general": "Erhöht Ausdauer um 25%"
+            }
+        },
+        "flour": {
+            "description": {
+                "general": "Erhöht Ausdauer um 25%"
+            }
+        },
+        "rawMutton": {
+            "description": {
+                "general": "Erhöht Ausdauer um 25%"
+            }
+        },
+        "rawVegetables": {
+            "description": {
+                "general": "Erhöht Ausdauer um 25%"
+            }
+        },
+        "screwpine": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "hippoMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 30%"
+            }
+        },
+        "sharkMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 20%"
+            }
+        },
+        "rawBeef": {
+            "description": {
+                "general": "Erhöht Ausdauer um 25%"
+            }
+        },
+        "primeHippoMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 35%"
+            }
+        },
+        "primeCrocodileMeat": {
+            "description": {
+                "general": "Erhöht Ausdauer um 35%"
+            }
+        },
+        "libertyCap": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden bei Besatzungsangriff um 30%",
+                    "Reduziert Ausdauerregeneration um 50%"
+                ]
+            }
+        },
+        "shelter": {
+            "name": "Zuflucht",
+            "description": {
+                "general": "Reduziert den erlittenen Schaden von Erschüttert-Effekt um 25% und seine Dauer um 50%"
+            }
+        },
+        "cindershield": {
+            "name": "Aschenschild",
+            "description": {
+                "general": "Während \"In Deckung gehen\" werden die Effekte von \"In Brand\" aufgehoben"
+            }
+        },
+        "emberWard": {
+            "name": "Glut-Zwinger",
+            "description": {
+                "general": "Reduziert den erlittenen Schaden durch Brandwaffen um 30% und während der Deckung um zusätzliche 30%"
+            }
+        },
+        "euphoria": {
+            "name": "Euphorie",
+            "description": {
+                "general": "Waffenschaden wird um 15% erhöht, solange Rumpfzustand über 75% ist"
+            }
+        },
+        "vigilance": {
+            "name": "Wachsamkeit",
+            "description": {
+                "general": [
+                    "Während der ersten 2 Sekunden, in denen du in Deckung gehst, wird jeglicher erlittener Schaden um 3000 reduziert",
+                    "Nach 2 Sekunden reduziert in Deckung gehen den erlittenen Schaden um 200",
+                    "Das Aktivieren von \"In Deckung gehen\" verbraucht doppelt so viel Ausdauer der Besatzung"
+                ]
+            }
+        },
+        "afterShock": {
+            "name": "Nachbeben",
+            "description": {
+                "general": "Beschwört nach 2 Sekunden einen Blitzschlag an der Stelle, an der ein Schuss landet, und verursacht 2000 Elektroschaden"
+            }
+        },
+        "impendingBoom": {
+            "name": "Bevorstehendes Bumm",
+            "description": {
+                "general": [
+                    "Treffer haben eine Chance von 15%, eine verzögerte Explosion auszulösen, die 7500 Schaden in einem Radius von 65m nach 4 Sekunden verursacht",
+                    "Diese Chance steigt auf 100%, wenn ein Schwachpunkt getroffen wird",
+                    "Pro Ziel kann nur ein verzögerter Angriff ausgeführt werden"
+                ]
+            }
+        },
+        "tripleThreat": {
+            "name": "Dreifache Bedrohung",
+            "description": {
+                "general": "Feuert 3 Schüsse auf einmal. Verursacht zusätzlich 400 Feuerschaden, wenn alle 3 Schüsse dasselbe Ziel treffen"
+            }
+        },
+        "combustion": {
+            "name": "Verbrennung",
+            "description": {
+                "1": "10% des Schadens wird zu Explosionsschaden",
+                "2": "20% des Schadens wird zu Explosionsschaden",
+                "3": "30% des Schadens wird zu Explosionsschaden"
+            }
+        },
+        "imminentBang": {
+            "name": "Drohender Knall",
+            "description": {
+                "general": [
+                    "Treffer haben eine Chance von 3%, eine verzögerte Explosion auszulösen, die 7500 Schaden in einem Radius von 65m nach 4 Sekunden verursacht",
+                    "Pro Ziel kann nur ein verzögerter Angriff ausgeführt werden"
+                ]
+            }
+        },
+        "bilgefireBarrels": {
+            "description": {
+                "general": [
+                    "Waffentreffer gegen ein Ziel mit einem Schaden-Statuseffekt haben eine Chance von 5%, diese Statuseffekte vollständig aufzuladen. Dieser Effekt hat eine Abklingzeit von 30s",
+                    "Sekundärschaden von Breitseitenwaffen wird um 10% erhöht",
+                    "Erhöht Breitseitenwaffen-Schaden um 5%"
+                ]
+            }
+        },
+        "emergencyLocker": {
+            "description": {
+                "general": [
+                    "Reduziert die Dauer alles Schaden-Statuseffekte, die auf dein Schiff angewendet werden, um 50%, erhöht aber den durch diese Effekte verursachten Schaden um 15%",
+                    "Erlittener Sekundärschaden wird um 10% verringert",
+                    "Maximaler Rumpfzustand wird um 6% erhöht"
+                ]
+            }
+        },
+        "wyrmsBreathChurner": {
+            "description": {
+                "general": [
+                    "Ein Ziel mit \"Erschüttert\" zu belegen, erhöht Nachladezeit dessen Waffen um 20% für 10s",
+                    "Sekundärschaden von Explosive Waffen wird um 20% erhöht",
+                    "Waffenschaden von Explosive Waffen wird um 5% erhöht"
+                ]
+            }
+        },
+        "markOfTheWolf": {
+            "description": {
+                "general": [
+                    "Ein Ziel mit \"In Brand\" zu belegen, erhöht auch die Ladegeschwindigkeit von Erschüttert um 50% für 7s",
+                    "Feuerrate von Explosive Waffen wird um 20% erhöht",
+                    "Schaden gegen Gebäude wird um 5% erhöht"
+                ]
+            }
+        },
+        "fuseFusingStation": {
+            "description": {
+                "general": [
+                    "Reduziert Nachladezeit von Bugwaffen und Heckwaffen um 9%",
+                    "Erhöht verursachten Sekundärschaden durch Bug- und Heck-Waffen um 9%"
+                ]
+            }
+        },
+        "ramrodWorkshop": {
+            "description": {
+                "general": [
+                    "Reduziert Nachladezeit von Breitseitenwaffen um 7%",
+                    "Erhöht verursachten Sekundärschaden durch Breitseitenwaffen um 7%"
+                ]
+            }
+        },
+        "breechlockFurnace": {
+            "description": {
+                "general": [
+                    "Erhöht verursachten Sekundärschaden um bis zu 20%, je näher das Ziel ist. Reduziert um 2% pro 50m zum Ziel",
+                    "Erhöht Ladegeschwindigkeit des Effekts \"Erschüttert\" auf gegnerischen Schiffen um 5%",
+                    "Erhöht den durch den Statuseffekt Erschüttert verursachten Schaden an einem Ziel um 3%"
+                ]
+            }
+        },
+        "dynamicBallastControl": {
+            "description": {
+                "general": [
+                    "Reduziert eingehenden Sekundärschaden für alle 100m an den Angreifer, begrenzt auf 30% bei 600m und darüber hinaus",
+                    "Verringert feindliche Durchschlagender Angriff von gegnerischen Schiffen um 8%",
+                    "Panzerungswert von Panzerung ausgerüstet wird um 3% erhöht"
+                ]
+            }
+        },
+        "mortarProjectileSpeed": {
+            "description": {
+                "15": "Projektilgeschwindigkeit von Mörser wird um 15% erhöht"
+            }
+        },
+        "rocketProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Rocket by 15%"
+            }
+        },
+        "joineryWorkshop": {
+            "description": {
+                "1": "Erhöht die Reparaturmenge von Reparaturwaffen um 6%"
+            }
+        },
+        "grit": {
+            "name": "Schneid",
+            "description": {
+                "general": [
+                    "Du erhältst einen Stapel \"Schneid\", wenn du Schaden erleidest. Jeder Stapel Schneid erhöht die Panzerung um 40 (max. 10 Stapel). Jeder Stapel Schneid hält 15 Sekunden lang an.",
+                    "Verbündete extra-kleine, kleine und mittlere Schiffe im Umkreis von 200 Metern erleiden um 10% reduzierten Schaden. Hast du 10 Stapel Schneid, wird der Schaden stattdessen um 20% reduziert."
+                ]
+            }
+        },
+        "colossal": {
+            "name": "Kolossal",
+            "description": {
+                "general": "Reduktion von Segelgeschwindigkeit auf Flüssen und seichten Gewässern um 30%"
+            }
+        },
+        "abundantGunports": {
+            "name": "Zahlreiche Kanonpforten",
+            "description": {
+                "general": "Erleidet 30% mehr Schaden an Schwachpunkten"
+            }
+        },
+        "frigateUpgrade": {
+            "description": {
+                "1": [
+                    "Rumpfzustand wird auf 104000 erhöht",
+                    "Deckungsstärke wird auf 31200 erhöht"
+                ],
+                "2": [
+                    "Fracht wird auf 95000 erhöht"
+                ],
+                "3": [
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Höchstgeschwindigkeit wird auf 15kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 20kn erhöht",
+                    "Fügt \"Blaue Tiefe\" Vorteil hinzu"
+                ],
+                "4": [
+                    "Rumpfzustand wird auf 107000 erhöht",
+                    "Deckungsstärke wird auf 32100 erhöht"
+                ],
+                "5": [
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
+                ],
+                "6": [
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Adds 'Resolve' perk"
+                ],
+                "7": [
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 128400 erhöht",
+                    "Deckungsstärke wird auf 38520 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
+                ]
+            }
+        },
+        "resolve": {
+            "name": "Entschlossenheit",
+            "description": {
+                "general": [
+                    "Bei 10 Stapeln Schneid gewährt das Erleiden von Schaden dir \"Entschlossenheit\".",
+                    "Entschlossenheit stellt bei Aktivierung 10% Deckungsstärke wider her, verringert den Schaden durch Statuseffekte um 20% und erhöht die Generierung von Bedrohung 10 Sekunden lang um 100%"
+                ]
+            }
+        },
+        "poseidonsBrew": {
+            "description": {
+                "general": [
+                    "Entfernt alle negativen Statuseffekte des Schiffs",
+                    "Immunität gegen Statuseffekte für 20 Sekunden"
+                ]
+            }
+        },
+        "skyrend": {
+            "name": "Himmelsriss",
+            "description": {
+                "general": [
+                    "Jede Salve Kanonenfeuer auf gegnerische Segel hat eine Chance, einen Blitzschlag heraufzubeschwören, der 5000 Elektroschaden verursacht",
+                    "Jeder 5. Treffer erhöht die Chance um 15%, bis zu 45%",
+                    "Der Blitzschlagsschaden erhöht sich auf 10000, wenn das Ziel Zerrissene Segel hat"
+                ]
+            }
+        },
+        "marauder": {
+            "name": "Marodeur",
+            "description": {
+                "general": [
+                    "Alle 1% Brandschaden erhöhen die Aufbaurate des Statuseffekts \"Anfällig\" um 1%",
+                    "Die Aufbaurate von \"Anfällig\" wird zusätzlich um 40% erhöht"
+                ]
+            }
+        },
+        "spiritMending": {
+            "name": "Geisterreparatur",
+            "description": {
+                "general": "20% des verursachten Schadens stellt Rumpfzustand wieder her. Wird für alle 50 Meter, die das Ziel entfernt ist, um 5% erhöht (bis max. 50%)"
+            }
+        },
+        "torrent": {
+            "name": "Sturzflut",
+            "description": {
+                "general": [
+                    "Lässt über längere Zeit 60 Raketen regnen",
+                    "50% von Überflutungsschaden wird als Schwerer Schaden zugefügt"
+                ]
+            }
+        },
+        "illuminate": {
+            "name": "Erleuchten",
+            "description": {
+                "general": [
+                    "Verringert für 3 Sekunden die Bewegungsgeschwindigkeit des Ziels um 50% und seine Panzerung um 20%",
+                    "Macht außerdem Klagende Schemen anfällig für Schaden"
+                ]
+            }
+        },
+        "impregnable": {
+            "name": "Unbezwingbar",
+            "description": {
+                "general": [
+                    "Der Statuseffekt Durchstochen verringert die eigene Panzerung um 50% weniger",
+                    "Verringert die Dauer des Statuseffekt Durchstochen um 15%"
+                ]
+            }
+        },
+        "entrenched": {
+            "name": "Verschanzt",
+            "description": {
+                "general": "Erleidet 5% weniger Schaden durch Gebäude und zusätzlich 1% für alle 3000 Deckungsstärke"
+            }
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": {
+                "general": "Liegt dein Schiff vor Anker oder sind deine Segel auf Halbmast, erhältst du 20% weniger Schaden durch Treffer"
+            }
+        },
+        "volatileVestment": {
+            "name": "Volatiles Gewand",
+            "description": {
+                "general": [
+                    "Wenn du getroffen wirst, während In Deckung gehen, wird eine Explosion ausgelöst, die 3500 Explosionsschaden in einem 100m Radius verursacht",
+                    "Dieser Effekt hat eine Abklingzeit von 10 Sekunden"
+                ]
+            }
+        },
+        "trunnionFurnace": {
+            "description": {
+                "general": [
+                    "Kalverine-Treffer haben eine Chance von 25%, auf ein Ziel innerhalb von 100m überzuspringen und ihm 25% des ursprünglichen Schadens zuzufügen. Gilt nicht für Reparaturwaffen",
+                    "Projektilgeschwindigkeit von Kalverine wird um 10% erhöht"
+                ]
+            }
+        },
+        "acceleratedGunrailSmithy": {
+            "description": {
+                "general": [
+                    "Verringert Nachladezeit um 5% und erhöht den Sekundärschaden durch Hilfswaffen um 7% für jeden Waffenquadranten, der nachgeladen wird",
+                    "Werden die Segel nicht getrimmt, wird Waffenschaden für Hilfswaffen um 9% erhöht",
+                    "Wendegeschwindigkeit wird um 8% erhöht"
+                ]
+            }
+        },
+        "ammoPrimingBench": {
+            "description": {
+                "general": [
+                    "Erhöht Schaden gegen Gebäude für Belagerungswaffen um 20% und die Reparaturmenge von Reparaturwaffen um 18%, wenn weiter als 160m zum Ziel entfernt",
+                    "Belagerungswaffen verursachen 4% mehr Waffenschaden. Reparaturwaffen reparieren 7% mehr Rumpfzustand",
+                    "Erhöht Projektilgeschwindigkeit durch Belagerungswaffen und Reparaturwaffen um 10% (außer Seefeuer und Hilfswaffen)"
+                ]
+            }
+        },
+        "dazzling": {
+            "name": "Blendend",
+            "description": {
+                "general": "Die Detonation fügt allen Zielen zusätzlich Erschüttert zu"
+            }
+        },
+        "demolition": {
+            "name": "Demolierung",
+            "description": {
+                "general": "Explosionsschaden dieser Waffe erhöht Schaden gegen Gebäude beim Gegner um 300%"
+            }
+        },
+        "precisionBlast": {
+            "name": "Präzisionssprengung",
+            "description": {
+                "general": "30% des Schadens wird im Explosionsradious von 30m zu Explosionsschaden"
+            }
+        },
+        "rumPantry": {
+            "description": {
+                "1": "Ausdauerwiederherstellung wird um 10% erhöht"
+            }
+        },
+        "sterileGalley": {
+            "description": {
+                "1": "Increases Maximum Stamina by 7%"
+            }
+        },
+        "balancedMast": {
+            "description": {
+                "1": "Erhöht Beschleunigung und Verlangsamung um 16%"
+            }
+        },
+        "leatherRopeGrips": {
+            "description": {
+                "1": "Reduziert Ausdauerverbrauch der Besatzung beim Trimmen der Segel um 15%"
+            }
+        },
+        "lightenedMast": {
+            "description": {
+                "1": "Beschleunigung wird um 26% erhöht"
+            }
+        }
+    }
+}

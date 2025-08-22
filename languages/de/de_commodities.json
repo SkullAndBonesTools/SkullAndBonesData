@@ -1,0 +1,288 @@
+{
+    "commodities": {
+        "lambaCloth": {
+            "name": "Lamba-Stoff",
+            "description": "Ein traditionelles Kleidungsstück von der Roten Insel. Ist für den richtigen Käufer von Wert. Wird vom Seevolk hergestellt und regional gehandelt."
+        },
+        "uncutGarnet": {
+            "name": "Ungeschliffener Granat",
+            "description": "Ein tiefes Kastanienbraun kündet vom Wert dieses vielerorts geschätzten Edelsteins. Er wird vom Seevolk abgebaut und exportiert."
+        },
+        "fineSeaPeopleRelic": {
+            "name": "Schönes Relikt des Seevolks",
+            "description": "Ein wertvoller Artikel des Seevolks. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "capitalSeaPeopleRelic": {
+            "name": "Herrliches Relikt des Seevolks",
+            "description": "Ein unschätzbar wertvoller Artikel des Seevolks. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "cloves": {
+            "name": "Nelken",
+            "description": "Nelken sind getrocknete Blütenknospen, die sowohl als Gewürz als auch als medizinische Zutat verwendet werden. Sie werden vom Clan von Fara hergestellt und in der Region um die Rote Insel herum gehandelt."
+        },
+        "frankincense": {
+            "name": "Weihrauch",
+            "description": "Ein aromatisches Harz, das aus einem Strauch gewonnen wird, der in der Region um den Persischen Golf herum wächst. Es wird in verschiedenen Ritualen, sowohl im Osten als auch im Westen, verbrannt. Weihrauch wird vom Clan von Fara hergestellt und exportiert."
+        },
+        "uncutSapphire": {
+            "name": "Ungeschliffener Saphir",
+            "description": "Ein roher, wertvoller blauer Edelstein, der auf der Roten Insel zu finden ist. Er wird vom Clan von Fara abgebaut und bis weit über den Indischen Ozean hinaus gehandelt."
+        },
+        "fineFaraRelic": {
+            "name": "Schönes Relikt der Fara",
+            "description": "Ein wertvoller Artikel der Fara. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "capitalFaraRelic": {
+            "name": "Herrliches Relikt der Fara",
+            "description": "Ein unschätzbar wertvoller Artikel der Fara. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "snuff": {
+            "name": "Schnupftabak",
+            "description": "In den Händen eines Genießers sorgt sein Geschmack für Freude. Er wird von den Ungwanern hergestellt und regional gehandelt."
+        },
+        "ivory": {
+            "name": "Elfenbein",
+            "description": "Eine unbezahlbare Ware, die von Kunsthandwerkern für ihre Schönheit und die Anzahl verschiedener Gegenstände geschätzt wird, die man daraus anfertigen kann. Es wird von den Ungwanern gewonnen und exportiert."
+        },
+        "uncutDiamond": {
+            "name": "Ungeschliffener Diamant",
+            "description": "Diese von Vielen aufgrund ihrer Schönheit hoch geschätzte Ware erzielt in den richtigen Händen einen hohen Preis. Diamanten werden von den Ungwanern abgebaut und exportiert."
+        },
+        "fineUngwanaRelic": {
+            "name": "Schönes Relikt der Ungwaner",
+            "description": "Ein wertvoller Artikel der Ungwaner. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "capitalUngwanaRelic": {
+            "name": "Herrliches Relikt der Ungwaner",
+            "description": "Ein unschätzbar wertvoller Artikel der Ungwaner. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "spice": {
+            "name": "Gewürze",
+            "description": "Gemahlene Gewürze, die für ihre kulinarischen und medizinischen Anwendungsmöglichkeiten geschätzt werden. Kriege wurden ihretwegen ausgetragen. Sie werden von den Rempah produziert und exportiert."
+        },
+        "batik": {
+            "name": "Batik",
+            "description": "Ein in Mustern gefärbtes Tuch, das von den Rempah für den Handel in der Region hergestellt wird."
+        },
+        "uncutRuby": {
+            "name": "Ungeschliffener Rubin",
+            "description": "Ein unverarbeiteter, feuerroter Edelstein, der in den Stock eines Adligen oder den Ring eines Piratenfürsten eingearbeitet werden kann. Er wird von den Rempah abgebaut und exportiert."
+        },
+        "fineRempahRelic": {
+            "name": "Schönes Relikt der Rempah",
+            "description": "Ein wertvoller Artikel der Rempah. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "capitalRempahRelic": {
+            "name": "Herrliches Relikt der Rempah",
+            "description": "Ein unschätzbar wertvoller Artikel der Rempah. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "ale": {
+            "name": "Bier",
+            "description": "Noch mehr Fusel, um Leute betrunken zu machen. Das Lieblingsgetränk eines Piraten."
+        },
+        "tobacco": {
+            "name": "Tabak",
+            "description": "Getrocknete Blätter einer Pflanze aus Westindien. Die stark süchtig machenden Blätter werden geraucht, getrocknet gekaut oder als Freizeitdroge geschnupft. Häufig werden sie fälschlicherweise als gesundheitsfördernd angepriesen. Sie werden von der Compagnie verarbeitet und exportiert."
+        },
+        "ambergris": {
+            "name": "Ambra",
+            "description": "Ambra, das entweder am Strang angespült wurde oder auf dem Meer nahe der Roten Insel treibt, wird bei der Parfümherstellung verwendet und entsteht bei der Verdauung von Riesenquallen durch Pottwale. Es wird von der Compagnie produziert und in der Region gehandelt."
+        },
+        "vanilla": {
+            "name": "Vanille",
+            "description": "Ein Gewürz zum Süßen von Speisen und Medizin. Wird von der Compagnie hergestellt und regional gehandelt."
+        },
+        "wine": {
+            "name": "Wein",
+            "description": "Ein klassisches alkoholisches Getränk aus vergorenen Trauben, das bei Menschen auf allen Kontinenten beliebt ist. Wird von der Compagnie importiert und in der Region gehandelt."
+        },
+        "brandy": {
+            "name": "Brandy",
+            "description": "Ein starker Likör, der aus Wein destilliert wurde und in Holzfässern reift, die ihm zu seinem charakteristischen Geschmack und Duft verhelfen. Wird von der Compagnie importiert und in der Region gehandelt."
+        },
+        "ornatePistols": {
+            "name": "Verzierte Pistolen",
+            "description": "Pistolen, die von Offizieren und Piraten geschätzt werden, die ihrem Reichtum zur Schau stellen wollen."
+        },
+        "militaryCompagnieRelic": {
+            "name": "Militärisches Relikt der Kompanie",
+            "description": "Eine Befestigungskomponente der Compagnie. Sie kann für eine riesige Menge Silber verkauft werden."
+        },
+        "fineCompagnieRelic": {
+            "name": "Schönes Relikt der Kompanie",
+            "description": "Ein wertvoller Artikel der Compagnie. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "basicCompagnieRelic": {
+            "name": "Einfaches Relikt der Kompanie",
+            "description": "Ein Artikel der Compagnie. Er kann für eine annehmbare Menge Silber verkauft werden."
+        },
+        "capitalCompagnieRelic": {
+            "name": "Herrliches Relikt der Kompanie",
+            "description": "Ein unschätzbar wertvoller Artikel der Compagnie. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "nutmeg": {
+            "name": "Muskat",
+            "description": "Die Frucht eines seltenen Baumes, der nur auf den Inseln in Niederländisch-Indien wächst. Muskat ist ein unbezahlbares Gewürz, das von der NHG angebaut und in der Region gehandelt wird."
+        },
+        "cacao": {
+            "name": "Kakao",
+            "description": "Eine beliebte, aus Europa importierte Bohne, die in einer Vielzahl von Speisen und Getränken Anwendung findet. Hat Wert für den richtigen Läufer. Wird von der NHG hergestellt und in der Region gehandelt."
+        },
+        "camphor": {
+            "name": "Kampfer",
+            "description": "Eine stark duftende Substanz, die in den Dämpfen verbrennender Bäume in Niederländisch-Indien zu finden ist. Sie wird sowohl bei der Parfümherstellung als auch als medizinische Zutat verwendet. Sie wird von der NHG produziert und in der Region gehandelt."
+        },
+        "gin": {
+            "name": "Gin",
+            "description": "Gin wurde ursprünglich von europäischen Mönchen und Alchimisten als medizinischer Likör entwickelt. Er wird von der NHG hergestellt und in der Region gehandelt."
+        },
+        "painting": {
+            "name": "Gemälde",
+            "description": "Ein wunderschönes Ölgemälde auf Leinwand in einem Mahagonirahmen. Der richtige Käufer wird einen guten Preis dafür bezahlen. Es wurde von der NHG für den regionalen Handel importiert."
+        },
+        "militaryDmcRelic": {
+            "name": "Militärisches Relikt der Handelsgesellschaft",
+            "description": "Eine Befestigungskomponente der Handelsgesellschaft. Sie kann für eine riesige Menge Silber verkauft werden."
+        },
+        "fineDmcRelic": {
+            "name": "Schönes Relikt der Handelsgesellschaft",
+            "description": "Ein wertvoller Artikel der Handelsgesellschaft. Er kann für eine gute Menge Silber verkauft werden."
+        },
+        "capitalDmcRelic": {
+            "name": "Herrliches Relikt der Handelsgesellschaft",
+            "description": "Ein unschätzbar wertvoller Artikel der Handelsgesellschaft. Er kann für eine riesige Menge Silber verkauft werden."
+        },
+        "rum": {
+            "name": "Rum",
+            "description": "Ein aus Zuckerrohrmelasse destilliertes Getränk für den Piraten von Welt. Wird von Scurlock importiert und in der Region gehandelt."
+        },
+        "cannonPowder": {
+            "name": "Schwarzpulver",
+            "description": "Die schiere Sprengkraft dieser chemischen Mischung sorgt dafür, dass deine Feinde nicht nur mit einem angeschlagenen Ego vom Feld ziehen. Von Scurlock importiert und in der Region gehandelt."
+        },
+        "firearms": {
+            "name": "Feuerwaffen",
+            "description": "Ein Vorrat widerrechtlich beschaffter Waffen zum Aufstocken des Arsenals eines jeden Piraten. Sie werden von Scurlock importiert und in der Region gehandelt."
+        },
+        "ginseng": {
+            "name": "Ginseng",
+            "description": "Eine der bekanntesten Heilpflanzen der Welt. Rahma nutzt sie häufig wegen ihrer medizinischen Wirkung. Sie wird von Rahma importiert und in der Region gehandelt."
+        },
+        "jade": {
+            "name": "Jade",
+            "description": "Jade ist ein wertvolles Material aus dem Fernen Osten, das in bestimmten Kulturen für Schmuck und Dekorationen verwendet wird. Es wird von Rahme importiert und in der Region gehandelt."
+        },
+        "porcelain": {
+            "name": "Porzellan",
+            "description": "Unschätzbar wertvolle keramische Artefakte aus dem Fernen Osten. Sie werden von Rahma importiert und in der Region gehandelt."
+        },
+        "poppy": {
+            "name": "Mohn",
+            "description": "Kann im Laboratorium in Telok Penjarah zu Blauer-Lotus-Opium verarbeitet werden."
+        },
+        "sugarCane": {
+            "name": "Zuckerrohr",
+            "description": "Kann in der Brennerei in Sainte-Anne zu Weißer Schädel Rum verarbeitet werden."
+        },
+        "juniperBerries": {
+            "name": "Wacholderbeeren",
+            "description": "Können im Kontor des Ruders in Sainte-Anne zu Weißer Schädel Gin verarbeitet werden."
+        },
+        "tobaccoLeaves": {
+            "name": "Tabakblätter",
+            "description": "Können im Kontor des Ruders in Telok Penjarah zu Schwarzem Schnupftabak verarbeitet werden."
+        },
+        "rawImperialJade": {
+            "name": "Rohe Kaiserjade",
+            "description": "Eine Rohform der Kaiserjade, ein wertvolles Schmuggelgut aus dem Osten. Wird im Kontor von Telok Penjarah zu Kaiserjade veredelt."
+        },
+        "blackSnuff": {
+            "name": "Schwarzer Schnupftabak",
+            "description": "Hochwertiger schwarzer Schnupftabak, der von Mitgliedern des Ruders aus Tabakblättern gewonnen wird."
+        },
+        "blueLotusOpium": {
+            "name": "Blauer Lotus Opium",
+            "description": "Hochwertiges Opium, das von Mitgliedern des Ruders aus Mohn gewonnen wird."
+        },
+        "whiteSkullRum": {
+            "name": "Weißer Schädel Rum",
+            "description": "Hochwertiger weißer Rum, von den Mitgliedern des Ruders aus Zuckerrohr hergestellt und veredelt."
+        },
+        "whiteSkullGin": {
+            "name": "Weißer Schädel Gin",
+            "description": "Qualitativ hochwertiger weißer Gin, der von Mitgliedern des Ruders aus Wacholderbeeren gewonnen wird."
+        },
+        "imperialJade": {
+            "name": "Kaiserjade",
+            "description": "Kaiserjade ist eine seltene, enorm wertvolle Form von Jade aus dem Fernen Osten, auch bekannt als das Reich der Mitte."
+        },
+        "silverSnuff": {
+            "name": "Silber Schnupftabak",
+            "description": "Weißer Schnupftabak höchster Qualität, der von Mitgliedern des Ruders aus schwarzem Schnupftabak gewonnen wird."
+        },
+        "blackLotusOpium": {
+            "name": "Schwarzer Lotus Opium",
+            "description": "Opium der höchsten Qualität, das von Mitgliedern des Ruders aus Blauer-Lotus-Opium hergestellt wird."
+        },
+        "goldSkullRum": {
+            "name": "Goldener Schädel Rum",
+            "description": "Goldener Rum höchster Qualität, den Mitglieder des Ruders aus Weißer Schädel Rum gewinnen können."
+        },
+        "goldSkullGin": {
+            "name": "Goldener Schädel Gin",
+            "description": "Goldener Gin höchster Qualität, den Mitglieder des Ruders aus Weißer Schädel Gin gewinnen können."
+        },
+        "carvedImperialJade": {
+            "name": "Geschnitzte Kaiserjade",
+            "description": "Eine kunstvolle Schnitzerei aus Kaiserjade aus dem Osten, die bei Sammlern sehr begehrt ist. Herstellbar aus Kaiserjade und bei den Mitgliedern des Ruders erhältlich."
+        },
+        "copperBars": {
+            "name": "Kupferbarren",
+            "description": "Ein bedeutendes, hochwertiges Metall aus Europa, das durch die Veredelung von Kupfer zu seiner höchsten Reinheit gewonnen wird. Macht es für Kriegsanwendungen nutzbar."
+        },
+        "gildmarks": {
+            "name": "Gildmark",
+            "description": "Dünne Stücke aus einem unbekannten Material, die mit dem Symbol des Gleichgewichts und des Todes versehen sind. Für die Unwissenden sind sie seltsame Kuriositäten, für die Eingeweihten sind sie nicht leicht zu verdienen."
+        },
+        "helmLeaseOpen": {
+            "name": "Ruder-Pachtvertrag (offen)",
+            "description": "Ein von Ruderkontakten gestempeltes, unbegrenztes Eigentumszertifikat für eine Manufaktur deiner Wahl."
+        },
+        "crystalizedTaintedWood": {
+            "name": "Kristallisiertes verunreinigtes Holz",
+            "description": "Es heißt, das Holz stamme aus Sathanur und sei durch Versteinerung und den unaufhörlichen Lauf der Zeit gehärtet worden."
+        },
+        "sigilFlare": {
+            "name": "Siegel-Leuchtsignal",
+            "description": "Ein verziertes Leuchtsignal, das hell leuchtet. Es ist das Erkennungszeichen der Ehrenlosen für ihre Lieferungen von Halluzinogenen."
+        },
+        "roseWater": {
+            "name": "Rose Water",
+            "description": "The flavor of love, empathy, attraction, and femininity."
+        },
+        "soothingBalm": {
+            "name": "Soothing Balm",
+            "description": "A fragrant oilment guaranteed to relief sores and aches."
+        },
+        "shipInABottle": {
+            "name": "Ship in a Bottle",
+            "description": "An intricate miniature of a ship in a bottle."
+        },
+        "luxuryDice": {
+            "name": "Luxury Dice",
+            "description": "An exotic set marked for a passion of randomness."
+        },
+        "phoenixPouch": {
+            "name": "Phönix-Beutel",
+            "description": "Ein bestickter Beutel mit aufwendigem Motiv, gefüllt mit einer unbekannten Substanz. Gehörte der Anführerin der Phönixkralle."
+        },
+        "pulsingSchaduwRemnant": {
+            "name": "Pulsierender \"Schaduw\"-Rest",
+            "description": "Trümmer der \"Schaduw\", verzaubert durch Vikrams Einfluss."
+        },
+        "grainFlare": {
+            "name": "Getreide-Leuchtsignal",
+            "description": "Enthält dicht gepacktes und mit explosiven Materialien vermengtes Sorghum. Dieses Feuerwerk zu zünden, wird die Schwarzbrenner erzürnen."
+        }
+    }
+}

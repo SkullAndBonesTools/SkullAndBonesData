@@ -1,0 +1,67 @@
+{
+    "factions": {
+        "compagnieRoyale": {
+            "name": "Compagnie Royale"
+        },
+        "dutchMerchantCompany": {
+            "name": "Niederländische Handelsgesellschaft"
+        },
+        "britishTradingAlliance": {
+            "name": "Britische Handelsallianz"
+        },
+        "confederationOfUngwana": {
+            "name": "Ungwanischer Bund"
+        },
+        "clanOfFara": {
+            "name": "Clan der Fara"
+        },
+        "chorusFleet": {
+            "name": "Chor-Flotte"
+        },
+        "pirates": {
+            "name": "Piraten"
+        },
+        "phoenixsTalon": {
+            "name": "Phönixkralle"
+        },
+        "dragonsClaw": {
+            "name": "Drachenklaue"
+        },
+        "privateers": {
+            "name": "Freibeuter"
+        },
+        "shadowLegion": {
+            "name": "Schattenlegion"
+        },
+        "dominionOfRempah": {
+            "name": "Reich der Rempah"
+        },
+        "fleetOfPestilence": {
+            "name": "Pestilenzflotte"
+        },
+        "azureFleet": {
+            "name": "Azure Fleet"
+        },
+        "theUnhallowed": {
+            "name": "Die Entweihten"
+        },
+        "seaPeople": {
+            "name": "Seevolk"
+        },
+        "rogues": {
+            "name": "Abtrünnige"
+        },
+        "theHelm": {
+            "name": "Das Ruder"
+        },
+        "scavengers": {
+            "name": "Scavengers"
+        },
+        "sultanateOfSohar": {
+            "name": "Sultanat von Suhar"
+        },
+        "scurlocksRogues": {
+            "name": "Scurlocks Abtrünnige"
+        }
+    }
+}

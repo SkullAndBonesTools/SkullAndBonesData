@@ -1,0 +1,312 @@
+{
+    "modifications": {
+        "direPiercing": {
+            "name": "Perforación terrible",
+            "description": "Los impactos ignoran %s-%s% de la resistencia a la perforación del objetivo"
+        },
+        "direElectric": {
+            "name": "Electricidad terrible",
+            "description": "Los impactos ignoran %s-%s% de la resistencia a electricidad del objetivo"
+        },
+        "direExplosive": {
+            "name": "Explosión terrible",
+            "description": "Los impactos ignoran %s-%s% de la resistencia a Explosión del objetivo"
+        },
+        "direFlooding": {
+            "name": "Inundación terrible",
+            "description": "Los impactos ignoran %s-%s% de la resistencia a Inundación del objetivo"
+        },
+        "incendiary": {
+            "name": "Incendiario",
+            "description": "Añade %s-%s% de daño como Daño por incendio"
+        },
+        "direBurning": {
+            "name": "Incendio terrible",
+            "description": "Los impactos ignoran %s-%s% de la resistencia a En Llamas del objetivo"
+        },
+        "firepower": {
+            "name": "Potencia de fuego",
+            "description": "Aumenta el daño en %s-%s%"
+        },
+        "shock": {
+            "name": "Impacto",
+            "description": "Añade %s-%s% de daño como Daño eléctrico"
+        },
+        "rapidReload": {
+            "name": "Recarga rápida",
+            "description": "Reduce el tiempo de recarga en un %s-%s%"
+        },
+        "combust": {
+            "name": "Combustiona",
+            "description": "Cada golpe inflige una ráfaga adicional de %s-%s de daño de explosión"
+        },
+        "flood": {
+            "name": "Inunda",
+            "description": "Cada golpe inflige una ráfaga adicional de %s-%s de daño de inundación"
+        },
+        "sparks": {
+            "name": "Chisporrotea",
+            "description": "Cada golpe inflige una ráfaga adicional de %s-%s de daño de eléctrico"
+        },
+        "damage": {
+            "name": "Daño",
+            "description": "Añade %s-%s de daño por disparo"
+        },
+        "burn": {
+            "name": "Quema",
+            "description": "Cada golpe inflige una ráfaga adicional de %s-%s de daño de incendio"
+        },
+        "swift": {
+            "name": "Agilidad",
+            "description": "Aumenta la velocidad de proyectil en %s-%s%"
+        },
+        "reach": {
+            "name": "Alcance",
+            "description": "Aumenta el alcance en %s-%s%"
+        },
+        "sharpened": {
+            "name": "Agudo",
+            "description": "Añade %s-%s% de daño como Daño de perforación"
+        },
+        "combustion": {
+            "name": "Combustión",
+            "description": "Añade %s-%s% de daño como Daño Explosivo"
+        },
+        "pierce": {
+            "name": "Perfora",
+            "description": "Cada golpe inflige una ráfaga adicional de %s-%s de daño de perforación"
+        },
+        "rupturing": {
+            "name": "Fractura",
+            "description": "Añade %s-%s% de daño como Daño por Inundación"
+        },
+        "haste": {
+            "name": "Celeridad",
+            "description": "Reduce el tiempo que tarda en llegar al objetivo en %s-%s%"
+        },
+        "fix": {
+            "name": "Arreglo",
+            "description": "Aumenta la cantidad de reparación en %s-%s por disparo"
+        },
+        "antiBlast": {
+            "name": "Antiexplosivo",
+            "description": "Los golpes también reducen la acumulación del efecto de estado Conmoción en %s-%s%"
+        },
+        "insulator": {
+            "name": "Aislante",
+            "description": "Los impactos también reducen la acumulación del efecto de estado electrificado del objetivo en %s-%s%"
+        },
+        "service": {
+            "name": "Servicio",
+            "description": "Aumenta la cantidad de reparación en %s-%s%"
+        },
+        "douser": {
+            "name": "Empapador",
+            "description": "Los impactos también reducen la acumulación del efecto de estado En Llamas del objetivo en %s-%s%"
+        },
+        "sealant": {
+            "name": "Sellante",
+            "description": "Los impactos también reducen la acumulación del efecto de estado inundado del objetivo en %s-%s%"
+        },
+        "reinforcer": {
+            "name": "Reforzante",
+            "description": "Los impactos también reducen la acumulación del efecto de estado Perforado del objetivo en %s-%s%"
+        },
+        "brute": {
+            "name": "Bestia",
+            "description": "Hits have a 16% chance to restore %s-%s Brace Strength to this ship"
+        },
+        "severity": {
+            "name": "Severidad",
+            "description": "Los impactos tienen un 12% de probabilidad de infligir %s-%s% de daño adicional como Deterioro grave"
+        },
+        "victorsRally": {
+            "name": "Reunión de vencedores",
+            "description": "Destruir un objetivo devuelve %s-%s de fuerza migitación a esta barco"
+        },
+        "graceOfTheWinds": {
+            "name": "Gracia de los vientos",
+            "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 3 times"
+        },
+        "lethal": {
+            "name": "Letal",
+            "description": "Aumenta el daño del punto débil en un %s-%s%"
+        },
+        "energize": {
+            "name": "Energizante",
+            "description": "Los impactos tienen un 16% de probabilidad de reparar%s-%s% la resistencia de la tripulación de este barco"
+        },
+        "bloodthirst": {
+            "name": "Sed de Sangre",
+            "description": "Destruir un objetivo devuelve %s-%s de Resistencia de tripulación a este barco"
+        },
+        "raider": {
+            "name": "Saqueador",
+            "description": "Aumenta la acumulación del efecto de estado Vulnerable en %s-%s%"
+        },
+        "deathblow": {
+            "name": "Golpe mortal",
+            "description": [
+                "En objetivos con un 25% o menos de salud del casco, los golpes tienen un %s-%s% de probabilidad de destruirlos al instante",
+                "Para los objetivos de élite, el efecto reduce la salud restante del casco un 3% en lugar de la destrucción al instante"
+            ]
+        },
+        "repairReadiness": {
+            "name": "Presteza para la reparación",
+            "description": "Los golpes tienen una probabilidad %s-%s% de reducir el enfriamiento de cualquier equipo de reparación en 3 segundos"
+        },
+        "precisePatchwork": {
+            "name": "Remiendo preciso",
+            "description": "Destruir un punto débil restaura %s-%s deterioro grave a este barco"
+        },
+        "amplifiedBurning": {
+            "name": "Incendio amplificado",
+            "description": "Aumenta el Daño por Incendio existente en un %s-%s%"
+        },
+        "siege": {
+            "name": "Asedio",
+            "description": "Aumenta el daño contra estructuras en %s-%s%"
+        },
+        "restoreReadiness": {
+            "name": "Presteza para la restauración",
+            "description": "Los golpes tienen una probabilidad %s-%s% de reducir el enfriamiento de cualquier equipo de restauración en 3 segundos"
+        },
+        "amplifiedPiercing": {
+            "name": "Perforación amplificada",
+            "description": "Aumenta el Daño de perforación existente en un %s-%s%"
+        },
+        "amplifiedElectric": {
+            "name": "Electricidad amplificada",
+            "description": "Aumenta el Daño de eléctrico existente en un %s-%s%"
+        },
+        "amplifiedExplosive": {
+            "name": "Explosión amplificada",
+            "description": "Aumenta el Daño de explosión existente en un %s-%s%"
+        },
+        "amplifiedFlooding": {
+            "name": "Inundación amplificada",
+            "description": "Aumenta el Daño de inundación existente en un %s-%s%"
+        },
+        "tearing": {
+            "name": "Desgarro",
+            "description": "Aumenta el daño en %s-%s% al impactar contra las velas"
+        },
+        "roar": {
+            "name": "Rugido",
+            "description": "El %s-%s% del daño base acumula el efecto de estado intimidado en los objetivos"
+        },
+        "soulMending": {
+            "name": "Reparación del alma",
+            "description": "%s-%s% del daño infligido por esta arma restaura la salud del casco"
+        },
+        "blastRange": {
+            "name": "Radio Explosivo",
+            "description": "Aumenta el radio de explosivo en %s-%s%"
+        },
+        "durableBuoys": {
+            "name": "Boyas resistentes",
+            "description": "Aumenta el tiempo de operativo de las boyas en %s-%s%"
+        },
+        "hardyBuoys": {
+            "name": "Boyas robustas",
+            "description": "Aumenta la integridad de la boya en un %s-%s%"
+        },
+        "restorative": {
+            "name": "Reparador",
+            "description": "Una cantidad de reparación de %s-%s% también restaura el deterioro grave"
+        },
+        "invigorate": {
+            "name": "Vigorizador",
+            "description": "La cantidad de reparación de %s-%s% también restaura la resistencia de tripulación"
+        },
+        "tranquility": {
+            "name": "Tranquilidad",
+            "description": "Los impactos también reducen la acumulación del efecto de estado de intimidado del objetivo en %s-%s%"
+        },
+        "sailorsRespite": {
+            "name": "Reposo del tripulante",
+            "description": "Los impactos tienen un 7% de probabilidad de reparar el objetivo por %s-%s% la cantidad"
+        },
+        "strengthen": {
+            "name": "Reforzar",
+            "description": "La cantidad de reparación de %s-%s% también restaura la fuerza de migitación"
+        },
+        "sailMender": {
+            "name": "Remiendavelas",
+            "description": "Los golpes también reducen la acumulación del efecto de estado Velas rasgadas del objetivo en %s-%s%"
+        },
+        "secondStorm": {
+            "name": "Segunda tormenta",
+            "description": [
+                "Todo el daño eléctrico infligido por esta arma también se inflige a un objetivo cercano",
+                "Añade %s-%s% de daño como Daño Eléctrico"
+            ]
+        },
+        "overflow": {
+            "name": "Desborde",
+            "description": [
+                "El total de daño de inundación que inflige esta arma se aplicará como deterioro grave",
+                "Añade %s-%s% de daño como Daño de Inundación"
+            ]
+        },
+        "sailRipper": {
+            "name": "Rompevelas",
+            "description": "El golpe que activa el efecto de estado Velas rasgadas inflige %s-%s% de daño"
+        },
+        "winningStreak": {
+            "name": "Racha de Victorias",
+            "description": [
+                "Cada impacto que aciertas, aumentara el daño del siguiente disparo de esta arma en un 3%, hasta un máximo de %s-%s%",
+                "si no aciertas, se reiniciara el efecto"
+            ]
+        },
+        "deadlyStrike": {
+            "name": "Golpe Letal",
+            "description": [
+                "Los disparos tienen un 10% de probabilidad de infligir daño aumentado por cualquier bonificación de daño a punto débil, incluso si el disparo no impacta en un punto débil.",
+                "Aumenta el daño a los puntos débiles en %s-%s%"
+            ]
+        },
+        "highPressure": {
+            "name": "Presión alta",
+            "description": "Las armas de Fuego Marino tienen 50 m más de alcance e infligen %s-%s% más de daño"
+        },
+        "longArm": {
+            "name": "Arma larga",
+            "description": "Los impactos que llegan al 70% del alcance máximo o más lejos también infligen un %s-%s% más de daño"
+        },
+        "providence": {
+            "name": "Providencia",
+            "description": "%s-%s% de la cantidad reparada por esta arma también repara tu barco"
+        },
+        "jointSupply": {
+            "name": "Entrega conjunta",
+            "description": "Los impactos también reparan el barco aliado más cercano por %s-%s% del importe de reparación original"
+        },
+        "winningStreakRepair": {
+            "name": "Racha de victorias (reparación)",
+            "description": [
+                "Cada impacto con éxito aumenta la cantidad de reparación del siguiente disparo de esta arma en un 3%, hasta un máximo de %s-%s%",
+                "Al fallar un disparo se reinicia el efecto"
+            ]
+        },
+        "preemptiveDefence": {
+            "name": "Defensa preventiva",
+            "description": [
+                "Los golpes también otorgan 50 de armadura extra al objetivo durante 10 s. Efecto acumulable hasta 5 veces",
+                "Aumenta la cantidad de reparación en %s-%s%"
+            ]
+        },
+        "empower": {
+            "name": "Empoderamiento",
+            "description": [
+                "Los golpes también infligen un 3% más de Daño de arma al objetivo durante 10 s. El efecto se puede acumular hasta 5 veces",
+                "Reduce el tiempo de recarga en un %s-%s%"
+            ]
+        },
+        "longArmRepair": {
+            "name": "Arma Larga (Reparación)",
+            "description": "Los impactos que alcanzan el 70% del alcance máximo o más también restauran un %s-%s% más de cantidad de reparación"
+        }
+    }
+}

@@ -1,0 +1,176 @@
+{
+    "achievements": {
+        "ballistaMastery": {
+            "name": "Ballista-Meisterschaft",
+            "description": "Verursache mit Ballista %s Schaden."
+        },
+        "mortarMastery": {
+            "name": "Mörser-Meisterschaft",
+            "description": "Verursache mit Mörser %s Schaden."
+        },
+        "seaFireMastery": {
+            "name": "Seefeuer-Meisterschaft",
+            "description": "Verursache mit Seefeuer %s Schaden."
+        },
+        "springloaderMastery": {
+            "name": "Sprunglader-Meisterschaft",
+            "description": "Verursache mit Sprunglader %s Schaden."
+        },
+        "torpedoMastery": {
+            "name": "Torpedo-Meisterschaft",
+            "description": "Verursache mit Torpedos %s Schaden."
+        },
+        "bombardMastery": {
+            "name": "Bombarde-Meisterschaft",
+            "description": "Verursache mit Bombarde %s Schaden."
+        },
+        "culverinMastery": {
+            "name": "Kalverine-Meisterschaft",
+            "description": "Verursache mit Kalverine %s Schaden."
+        },
+        "demicannonMastery": {
+            "name": "Halbkanone-Meisterschaft",
+            "description": "Verursache mit Halbkanone %s Schaden."
+        },
+        "longGunMastery": {
+            "name": "Vollkanonen-Meisterschaft",
+            "description": "Verursache mit Vollkanone %s Schaden."
+        },
+        "rocketMastery": {
+            "name": "Rakete-Meisterschaft",
+            "description": "Verursache mit Raketen %s Schaden."
+        },
+        "explosiveLongGunMastery": {
+            "name": "Meisterschaft der Explosiven Langwaffe",
+            "description": "Verursache mit Lange Kartouwe %s Schaden."
+        },
+        "unisonCulverinMastery": {
+            "name": "Meisterschaft der Unisono-Kalverine",
+            "description": "Verursache mit Urbans große Kanone %s Schaden."
+        },
+        "explosiveDemicannonMastery": {
+            "name": "Meisterschaft der Explosiven Halbkanone",
+            "description": "Verursache mit Kleine Kartouwe %s Schaden."
+        },
+        "weaponAscension": {
+            "name": "Waffenaufstieg",
+            "description": "%s Waffen aufsteigen lassen"
+        },
+        "weaponModification": {
+            "name": "Waffen-Modifikation",
+            "description": "Modifiziere %s Waffen"
+        },
+        "burningBallistaMastery": {
+            "name": "Meisterschaft der Brennenden Ballista",
+            "description": "Verursache mit Alekto %s Schaden."
+        },
+        "lightningBombardMastery": {
+            "name": "Meisterschaft der Blitzbombarde",
+            "description": "Verursache mit Göttlicher Wind %s Schaden."
+        },
+        "lumberjack": {
+            "name": "Holzfäller",
+            "description": "Sammle %s x Holz."
+        },
+        "masterChef": {
+            "name": "Meisterkoch",
+            "description": "Sammle %s x Nahrung."
+        },
+        "masterHarvester": {
+            "name": "Meistersammler",
+            "description": "Sammle %s Fasern."
+        },
+        "masterSmith": {
+            "name": "Meister-Schmied",
+            "description": "Sammle %s x Metall."
+        },
+        "silversmith": {
+            "name": "Silberschmied",
+            "description": "Verdiene %s Silber."
+        },
+        "fortuneFinder": {
+            "name": "Glückssucher",
+            "description": "Schließe %s Schatzkarten ab."
+        },
+        "keeperOfEights": {
+            "name": "Hüter der Achter",
+            "description": "Verdiene %s Achterstücke."
+        },
+        "plagueEnder": {
+            "name": "Seuchentilger",
+            "description": "Schließe das Weltereignis \"Der Pestkönig\" %s Mal ab."
+        },
+        "cursebreaker": {
+            "name": "Fluchbrecher",
+            "description": "Schließe das Weltereignis \"Drohender Schatten\" %s Mal ab."
+        },
+        "redeemer": {
+            "name": "Erlöser",
+            "description": "Schließe das Weltereignis \"Der Große Schatten\" %s Mal ab."
+        },
+        "showstopper": {
+            "name": "Spielverderber",
+            "description": "Schließe das Weltereignis \"Triumphales Unheil\" %s Mal ab."
+        },
+        "unsighted": {
+            "name": "Unvorhergesehen",
+            "description": "Schließe das Weltereignis \"Der ruhmreiche Phönix\" %s Mal ab."
+        },
+        "plunderer": {
+            "name": "Plünderer",
+            "description": "Schließe %s Plünderungen als Gruppe ab."
+        },
+        "wolfpack": {
+            "name": "Wolfsrudel",
+            "description": "Lande den finalen Treffer bei %s Schiffen, während du in einer Gruppe segelst."
+        },
+        "handOfJudgment": {
+            "name": "Hand des Urteils",
+            "description": "Benutze %sx Blutige Schatulle."
+        },
+        "azureTidings": {
+            "name": "Azurblaue Botschaften",
+            "description": "Benutze %sx Azurblaues Lager."
+        },
+        "claimToFame": {
+            "name": "Berühmtheit (J2S1)",
+            "description": "Erhalte %s Ruhm in Jahr 2 Saison 1."
+        },
+        "enterTheNian": {
+            "name": "Auftritt des Nian",
+            "description": "Benutze %sx Nian-Schatulle."
+        },
+        "ghoulsBane": {
+            "name": "Bann des Unholds",
+            "description": "Benutze %sx Schnitterversteck."
+        },
+        "claimToFameY2S2": {
+            "name": "Berühmtheit (J2S2)",
+            "description": "Erhalte %s Ruhm in Jahr 2 Saison 2."
+        },
+        "darktideSurvivor": {
+            "name": "Dunkelflut-Überlebender",
+            "description": "Benutze %sxBehälter \"Wiegenlied der Dunkelflut\"."
+        },
+        "moonshineRaider": {
+            "name": "Schwarzbrenner-Räuber",
+            "description": "Benutze %sx Schwarzbrenner-Schatulle."
+        },
+        "fleetMaster": {
+            "name": "Flottenmeister",
+            "description": "Stelle %s Schiffe her."
+        },
+        "stormSailor": {
+            "name": "Sturmsegler",
+            "description": "Segle %s Minuten lang durch einen Sturm."
+        },
+        "colossalVessel": {
+            "name": "Colossal Vessel",
+            "description": "Build %s Large Frigate"
+        },
+        "pirateKnight": {
+            "name": "Piratenritter",
+            "description": "Plündere %s Händlerkonvoi(s)"
+        }
+    }
+}

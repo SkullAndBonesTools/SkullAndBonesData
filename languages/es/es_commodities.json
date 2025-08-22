@@ -1,0 +1,288 @@
+{
+    "commodities": {
+        "lambaCloth": {
+            "name": "Tela Lamba",
+            "description": "Prenda tradicional de la Isla Roja. Tiene valor para el comprador adecuado. Producida por la moradores del Mar para ser comercializada en la región."
+        },
+        "uncutGarnet": {
+            "name": "Granate en bruto",
+            "description": "Un granate intenso da idea de su valor. Muchos lo consideran una joya. Producido por la moradores del Mar para ser exportado desde la región."
+        },
+        "fineSeaPeopleRelic": {
+            "name": "Reliquia importante moradores del mar",
+            "description": "Un preciado artículo de la Moradores del Mar. Podrían venderse por una buena cantidad de plata."
+        },
+        "capitalSeaPeopleRelic": {
+            "name": "Reliquia importante moradores del mar",
+            "description": "Un valioso artículo de la moradores del Mar. Podrían venderse por una enorme cantidad de plata."
+        },
+        "cloves": {
+            "name": "Clavo",
+            "description": "El clavo es una flor seca que se utiliza como especia y como ingrediente medicinal. Lo producen y comercian los fara en la región de la Isla Roja."
+        },
+        "frankincense": {
+            "name": "Incienso",
+            "description": "Resina aromática obtenida de un arbusto que crece en la región del estrecho de Arabia. Se quema en diversos rituales, tanto en Oriente como en Occidente. Producida por los fara para exportarla fuera de la región."
+        },
+        "uncutSapphire": {
+            "name": "Zafiro en bruto",
+            "description": "Una valiosa gema azul en bruto que puede encontrarse en la Isla Roja. Desenterrada por los fara para comerciar más allá del Océano Índico."
+        },
+        "fineFaraRelic": {
+            "name": "Reliquia importante de los Fara",
+            "description": "Un artículo precioso del Fara. Se podían vender por una buena cantidad de plata."
+        },
+        "capitalFaraRelic": {
+            "name": "Reliquia importante de los Fara",
+            "description": "Un artículo inestimable del Fara. Se podían vender por una gran cantidad de plata."
+        },
+        "snuff": {
+            "name": "Rapé",
+            "description": "En manos de un entendido, alegra por su sabor. producido por los Ungwana para comerciar en la región."
+        },
+        "ivory": {
+            "name": "Marfil",
+            "description": "Un producto de valor incalculable apreciado por los artesanos por su belleza y la variedad de artículos que pueden elaborarse con él. Producido por los Ungwana para exportarlo fuera de la región."
+        },
+        "uncutDiamond": {
+            "name": "Diamante en bruto",
+            "description": "Apreciada por muchos, esta mercancía se valora por su belleza y su precio en manos de la persona adecuada. Producido por los Ungwana para ser exportado fuera de la región."
+        },
+        "fineUngwanaRelic": {
+            "name": "Reliquia importante de los Fara",
+            "description": "Un artículo precioso de los Ungwana. Se podían vender por una buena cantidad de plata."
+        },
+        "capitalUngwanaRelic": {
+            "name": "Reliquia importante de los Ungwana",
+            "description": "Un artículo inestimable de los Ungwana. Podían venderse por una enorme cantidad de plata."
+        },
+        "spice": {
+            "name": "Especia",
+            "description": "Especias molidas muy apreciadas por su utilidad culinaria y medicinal. Se han librado guerras por ellas. Producidas por los rempah para ser exportadas desde la región."
+        },
+        "batik": {
+            "name": "Batik",
+            "description": "Tela teñida fabricada por los rempah. Se producen para comerciar en la región."
+        },
+        "uncutRuby": {
+            "name": "Rubí sin cortar",
+            "description": "Gema sin procesar de color rojo fuego que se coloca en el bastón de un noble o en el anillo de un capo. Producida por los Rempah para ser exportada desde la región."
+        },
+        "fineRempahRelic": {
+            "name": "Reliquia importante de los Rempah",
+            "description": "Un artículo precioso del Rempah. Se podían vender por una buena cantidad de plata."
+        },
+        "capitalRempahRelic": {
+            "name": "Reliquia importante de los Rempah",
+            "description": "Un valioso artículo del Rempah. Se podían vender por una gran cantidad de plata."
+        },
+        "ale": {
+            "name": "Cerveza",
+            "description": "Más cosas para emborrachar a la gente. La bebida favorita de un pirata."
+        },
+        "tobacco": {
+            "name": "Tabaco",
+            "description": "Hojas secas de una planta de las Antillas. Muy adictiva, se fuma, se masca o se esnifa como droga de ocio y se considera erróneamente beneficiosa para la salud. Producida por la Compagnie para ser exportada fuera de la región."
+        },
+        "ambergris": {
+            "name": "Ambergris",
+            "description": "Encontrado en tierra o flotando en el mar cerca de la Isla Roja, el ámbar gris es una sustancia aromática utilizada en perfumería y un subproducto de la digestión de calamares gigantes por los cachalotes. Lo produce la Compagnie para exportarlo fuera de la región."
+        },
+        "vanilla": {
+            "name": "Vainilla",
+            "description": "Especia dulce para aromatizar y utilizar en medicina. Producida por la Compagnie para exportarla fuera de la región."
+        },
+        "wine": {
+            "name": "Vino",
+            "description": "Bebida alcohólica clásica elaborada con uvas fermentadas y disfrutada por gentes de todos los continentes. Importada por la Compagnie para su comercialización en la región."
+        },
+        "brandy": {
+            "name": "Brandy",
+            "description": "Licor fuerte destilado de vino y envejecido en barricas de madera, que le confieren un sabor y un aroma característicos. Importado por la Compagnie para comercializarlo en la región."
+        },
+        "ornatePistols": {
+            "name": "Pistolas Ornamentadas",
+            "description": "Pistolas deseables para oficiales y piratas a los que les gusta ostentar su riqueza."
+        },
+        "militaryCompagnieRelic": {
+            "name": "Reliquia Militar de la Compagnie",
+            "description": "Un valioso artículo de la Compagnie. Se podían vender por una gran cantidad de plata."
+        },
+        "fineCompagnieRelic": {
+            "name": "Reliquia de Importante Compagnie",
+            "description": "Un artículo precioso de la Compagnie. Podrían venderse por una buena cantidad de plata."
+        },
+        "basicCompagnieRelic": {
+            "name": "Reliquia básica de la Compagnie",
+            "description": "Un artículo de la Compagnie. Podrían venderse por una cantidad decente de plata."
+        },
+        "capitalCompagnieRelic": {
+            "name": "Reliquia de Importante Compagnie",
+            "description": "Un valioso artículo de la Compagnie. Se podían vender por una gran cantidad de plata."
+        },
+        "nutmeg": {
+            "name": "Nuez moscada",
+            "description": "Fruto de un árbol poco común que sólo crece en las islas de las Indias Orientales. La nuez moscada es una especia de valor incalculable producida por el CMH para su comercio en la región."
+        },
+        "cacao": {
+            "name": "Cacao",
+            "description": "Una alubia popular utilizada en diversos alimentos y bebidas, e importada de Europa. Tiene valor para el comprador adecuado. Producido por el CMH para su comercialización en la región."
+        },
+        "camphor": {
+            "name": "Alcanfor",
+            "description": "Sustancia aromática contenida en los vapores de los árboles que arden en las Indias Orientales. Se utiliza en perfumería y como ingrediente medicinal. Producido por la DMC para comercializarlo en la región."
+        },
+        "gin": {
+            "name": "Ginebra",
+            "description": "Creado originalmente como licor medicinal por monjes y alquimistas en Europa. Importado por la CMH para comercializarlo en la región."
+        },
+        "painting": {
+            "name": "Pintura",
+            "description": "Un precioso lienzo al óleo enmarcado en caoba. Alcanzará el precio justo del comprador adecuado. Importado por la CHM ara ser comercializado en la región."
+        },
+        "militaryDmcRelic": {
+            "name": "Reliquia militar CMH",
+            "description": "Un componente de fortificación del CMH. Se podían vender por una enorme cantidad de plata."
+        },
+        "fineDmcRelic": {
+            "name": "Reliquia CMH",
+            "description": "Un precioso artículo de la CMH. Podrían venderse por una buena cantidad de plata."
+        },
+        "capitalDmcRelic": {
+            "name": "Reliquia Importante CMH",
+            "description": "Un artículo inestimable de la CMH. Podrían venderse por una enorme cantidad de plata."
+        },
+        "rum": {
+            "name": "Ron",
+            "description": "Destilada de melaza de caña de azúcar. Verdaderamente la bebida preferida de los piratas. Importada por Scurlock para comerciar en la región."
+        },
+        "cannonPowder": {
+            "name": "Pólvora de cañón",
+            "description": "El poder explosivo de este brebaje químico significa que tus enemigos no sólo se irán con el ego magullado. Importado por Scurlock para su comercialización en la región."
+        },
+        "firearms": {
+            "name": "Armas de fuego",
+            "description": "Un alijo de armas obtenidas ilegalmente para reforzar el arsenal de cualquier pirata. Importado por Scurlock para comerciar en la región."
+        },
+        "ginseng": {
+            "name": "Ginebra",
+            "description": "Una de las hierbas más famosas del mundo. Utilizada a menudo por Rahma por sus beneficios medicinales. Importada por Rahma para comercializarla en la región."
+        },
+        "jade": {
+            "name": "Jade",
+            "description": "Mineral preciado de Oriente, el jade se usa como joya y adorno en ciertas culturas. Importado por Rahma para comerciar en la región."
+        },
+        "porcelain": {
+            "name": "Porcelana",
+            "description": "Objetos de cerámica de valor incalculable procedentes del Lejano Oriente. Importados por Rahma para comerciar en la región."
+        },
+        "poppy": {
+            "name": "Amapola",
+            "description": "Refinado en Opio Loto Azul en el laboratorio de Telok Penjarah."
+        },
+        "sugarCane": {
+            "name": "Caña de Azúcar",
+            "description": "Se refina en ron Calavera Blanca en la oficina del mando de Sainte-Anne."
+        },
+        "juniperBerries": {
+            "name": "Enebro",
+            "description": "Se refina en ron Calavera Blanca en la oficina del mando de Sainte-Anne."
+        },
+        "tobaccoLeaves": {
+            "name": "Hojas de tabaco",
+            "description": "Refinado en rapé negro en la oficina de Telok Penjarah"
+        },
+        "rawImperialJade": {
+            "name": "Jade imperial en bruto",
+            "description": "A raw form of Imperial Jade, a valuable piece of contraband from the East. Refines into Imperial Jade at the Telok Penjarah Office."
+        },
+        "blackSnuff": {
+            "name": "Rapé negro",
+            "description": "Rapé negro de alta calidad refinado a partir de hojas de tabaco por los miembros del mando."
+        },
+        "blueLotusOpium": {
+            "name": "Opio Loto Negro",
+            "description": "Opio de alta calidad refinado a partir de la adormidera por los miembros del mando."
+        },
+        "whiteSkullRum": {
+            "name": "Ron Calavera Blanca",
+            "description": "Opio de alta calidad refinado a partir de la adormidera por los miembros del mando."
+        },
+        "whiteSkullGin": {
+            "name": "Ginebra Calavera Blanca",
+            "description": "Ginebra blanca de alta calidad refinada a partir de bayas de enebro por los miembros del mando."
+        },
+        "imperialJade": {
+            "name": "Jade imperial",
+            "description": "El jade imperial es una forma preciosa y muy valiosa de jade procedente del Lejano Oriente, también conocido como el Reino Medio."
+        },
+        "silverSnuff": {
+            "name": "Rapé de plata",
+            "description": "El rapé blanco de mayor calidad que pueden obtener los miembros de Negra Rapé de Helm."
+        },
+        "blackLotusOpium": {
+            "name": "Opio Loto Negro",
+            "description": "El opio de mayor calidad lo obtienen los miembros de opio loto azul"
+        },
+        "goldSkullRum": {
+            "name": "Ron Calavera Dorada",
+            "description": "El ron dorado de mayor calidad lo obtienen los miembros de White Skull Rum by Helm."
+        },
+        "goldSkullGin": {
+            "name": "Ginebra Calavera Dorada",
+            "description": "La ginebra dorada de mayor calidad que pueden obtener los miembros de ginebra calavera blanca"
+        },
+        "carvedImperialJade": {
+            "name": "Jade imperial tallado",
+            "description": "Una talla artística de Jade Imperial de Oriente, codiciada por los coleccionistas. Obtenible de Jade Imperial y miembros del Yelmo."
+        },
+        "copperBars": {
+            "name": "Lingotes de cobre",
+            "description": "Un metal de gran valor proveniente de Europa; se origina al refinar cobre a su máxima pureza tiene sus varios usos bélicos"
+        },
+        "gildmarks": {
+            "name": "Gildmarks",
+            "description": "Thin pieces of an unknown material stamped with the symbol of balance and death. To the unknowing, they are curious oddities; to those in the know, they are not easily earned."
+        },
+        "helmLeaseOpen": {
+            "name": "Contrato de contrabando (Abrir)",
+            "description": "Un certificado de propiedad sin restricciones sellado por los contactos de Imperio para cualquier Fábrica de su elección."
+        },
+        "crystalizedTaintedWood": {
+            "name": "Madera contaminada cristalizada",
+            "description": "Se rumorea que procede de Sathanur. La madera ha sido endurecida por la petrificación y el paso imperecedero del tiempo."
+        },
+        "sigilFlare": {
+            "name": "Bengala emblema",
+            "description": "Una bengala ornamentada que emite un gran brillo al encenderse. Es el reclamo para atraer a los deshonrados hasta los puntos de suministro de alucinógenos"
+        },
+        "roseWater": {
+            "name": "Rose Water",
+            "description": "The flavor of love, empathy, attraction, and femininity."
+        },
+        "soothingBalm": {
+            "name": "Soothing Balm",
+            "description": "A fragrant oilment guaranteed to relief sores and aches."
+        },
+        "shipInABottle": {
+            "name": "Ship in a Bottle",
+            "description": "An intricate miniature of a ship in a bottle."
+        },
+        "luxuryDice": {
+            "name": "Luxury Dice",
+            "description": "An exotic set marked for a passion of randomness."
+        },
+        "phoenixPouch": {
+            "name": "Phoenix Pouch",
+            "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
+        },
+        "pulsingSchaduwRemnant": {
+            "name": "Pulsing Schaduw Remnant",
+            "description": "Debris of the Schaduw, powered by Vikram's influence."
+        },
+        "grainFlare": {
+            "name": "Grain Flare",
+            "description": "Sorghum packed with explosive materials, tightly woven into a singular piece. Setting this off brings about the wrath of the Moonshiners."
+        }
+    }
+}
