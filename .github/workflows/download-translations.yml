@@ -36,5 +36,4 @@ jobs:
           body: "Updated and approved translations for SnB Data from Crowdin."
           base: main
           branch: translations-update
-          delete-branch: true
           add-paths: languages/
