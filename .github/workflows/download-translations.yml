@@ -31,9 +31,9 @@ jobs:
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          commit-message: "Update translations from Crowdin"
+          commit-message: "update translations from crowdin"
           title: "Updated SnB Data Translations"
-          body: "Approved translations for SnB Data from Crowdin."
+          body: "Updated and approved translations for SnB Data from Crowdin."
           base: main
           branch: translations-update
           delete-branch: true
