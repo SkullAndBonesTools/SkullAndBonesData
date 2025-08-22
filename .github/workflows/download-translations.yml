@@ -27,23 +27,14 @@ jobs:
           CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
         run: crowdin download --config crowdin.yml --export-only-approved --exclude-language en
 
-      - name: Create new branch for translations
-        id: create_branch
-        run: |
-          BRANCH="translations-$(date +'%Y%m%d%H%M%S')"
-          echo "branch_name=$BRANCH" >> $GITHUB_OUTPUT
-          git checkout -b "$BRANCH"
-          git add languages/
-          git commit -m "Update translations from Crowdin"
-          git push origin "$BRANCH"
-
       - name: Create Pull Request
         uses: peter-evans/create-pull-request@v5
         with:
           token: ${{ secrets.GITHUB_TOKEN }}
-          branch: ${{ steps.create_branch.outputs.branch_name }}
+          commit-message: "Update translations from Crowdin"
           title: "Updated SnB Data Translations"
           body: "Approved translations for SnB Data from Crowdin."
-          commit-message: "Update translations from Crowdin"
           base: main
+          branch: translations-update
           delete-branch: true
+          add-paths: languages/
