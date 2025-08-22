@@ -1,0 +1,49 @@
+name: Download Crowdin Translations and Create PR
+
+on:
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  download-translations:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Install Crowdin CLI
+        run: npm install -g @crowdin/cli
+
+      - name: Download only approved translations from Crowdin
+        env:
+          CROWDIN_PROJECT_ID: ${{ secrets.CROWDIN_PROJECT_ID }}
+          CROWDIN_PERSONAL_TOKEN: ${{ secrets.CROWDIN_PERSONAL_TOKEN }}
+        run: crowdin download --config crowdin.yml --approved-only
+
+      - name: Create new branch for translations
+        id: create_branch
+        run: |
+          BRANCH="translations-$(date +'%Y%m%d%H%M%S')"
+          echo "branch_name=$BRANCH" >> $GITHUB_OUTPUT
+          git checkout -b "$BRANCH"
+          git add languages/
+          git commit -m "Update translations from Crowdin"
+          git push origin "$BRANCH"
+
+      - name: Create Pull Request
+        uses: peter-evans/create-pull-request@v5
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          branch: ${{ steps.create_branch.outputs.branch_name }}
+          title: "Updated SnB Data Translations"
+          body: "Approved translations for SnB Data from Crowdin."
+          commit-message: "Update translations from Crowdin"
+          base: main
+          delete-branch: true
