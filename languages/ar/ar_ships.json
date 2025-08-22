@@ -91,9 +91,9 @@
             }
         },
         "frigate": {
-            "name": "Frigate",
+            "name": "فرقاطة",
             "description": {
-                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+                "general": "سفينة كبيرة ذات دفاعات لا مثيل لها. تشع هالة قوية تقوي الحلفاء. منتج من براعة شركة كومباني والمواد المتقدمة القادمة من أوروبا."
             }
         }
     }
