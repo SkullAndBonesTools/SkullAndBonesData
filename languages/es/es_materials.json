@@ -1,0 +1,624 @@
+{
+    "materials": {
+        "silver": {
+            "name": "Plata",
+            "description": "Monedas de plata utilizadas por todos para el comercio."
+        },
+        "piecesOfEight": {
+            "name": "Reales de a Ocho",
+            "description": "Una moneda exclusiva acuñada por el Mando. Llévala a un refugio para guardarla y usarla en el Mercado Negro o en tu Imperio."
+        },
+        "sovereigns": {
+            "name": "Soberanos",
+            "description": ""
+        },
+        "reapersToll": {
+            "name": "Llamada de la Parca",
+            "description": ""
+        },
+        "gold": {
+            "name": "Oro",
+            "description": ""
+        },
+        "copperBars": {
+            "name": "Kupfer Bars",
+            "description": "Un metal de gran valor proveniente de Europa; se origina al refinar cobre a su máxima pureza tiene sus varios usos bélicos"
+        },
+        "gildmarks": {
+            "name": "Gildmarks",
+            "description": "Thin pieces of an unknown material stamped with the symbol of balance and death. To the unknowing, they are curious oddities; to those in the know, they are not easily earned."
+        },
+        "azuriteGem": {
+            "name": "Magnetita azurita",
+            "description": ""
+        },
+        "halfTaels": {
+            "name": "Medias tallas",
+            "description": ""
+        },
+        "silverLions": {
+            "name": "Silver Lions",
+            "description": "Monedas de plata diseñadas personalmente por Scurlock, acuñadas y enviadas desde sus países de origen. Quizá sean la moneda prevista para cuando Scurlock gobierne algún día el Océano Índico, o eso piensa él."
+        },
+        "bloodiedDoubloon": {
+            "name": "Doblón ensangrentado",
+            "description": ""
+        },
+        "illicitMoonshine": {
+            "name": "Illicit Moonshine",
+            "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."
+        },
+        "smugglersMark": {
+            "name": "Smuggler's Mark",
+            "description": ""
+        },
+        "coconut": {
+            "name": "Coco",
+            "description": "Alimento esencial en una isla desierta"
+        },
+        "fish": {
+            "name": "Pescado",
+            "description": "Sabor agradable y textura suave"
+        },
+        "ndizi": {
+            "name": "Ndizi",
+            "description": "Muy populares por su dulce sabor. Los que se cocinan tienen un contenido de azúcar menor."
+        },
+        "crocodileMeat": {
+            "name": "Piel de cocodrilo",
+            "description": "Apenas comestible si se consume cruda"
+        },
+        "primeCrocodileMeat": {
+            "name": "Carne de cocodrilo de primera calidad",
+            "description": "El mejor corte de carne de un cocodrilo"
+        },
+        "sharkMeat": {
+            "name": "Carne de tiburón",
+            "description": "Con un fuerte olor agrio. Sabe mejor si se cocina"
+        },
+        "rawMutton": {
+            "name": "Cordero crudo",
+            "description": "Al cocinar el cordero, se reducirá su fuerte sabor amargo"
+        },
+        "rawChicken": {
+            "name": "Pollo crudo",
+            "description": "Insípido y viscoso"
+        },
+        "flour": {
+            "name": "Harina",
+            "description": "Un ingrediente esencial para muchos platos"
+        },
+        "primeHippoMeat": {
+            "name": "Carne de hipopótamo de primera",
+            "description": "El mejor corte de carne de un hipopótamo"
+        },
+        "screwpine": {
+            "name": "Pino roscado",
+            "description": "Una fruta que se puede hervir y machacar para elaborar una pasta muy nutritiva"
+        },
+        "rawBeef": {
+            "name": "Ternera Cruda",
+            "description": "Sabe mejor si se cocina"
+        },
+        "rawVegetables": {
+            "name": "Verduras crudas",
+            "description": "Sencillas y modestas"
+        },
+        "hippoMeat": {
+            "name": "Carne de hipopótamo",
+            "description": "Sabor amargo y textura fuerte."
+        },
+        "waterFlask": {
+            "name": "Tanque de agua",
+            "description": "Bebida essencial para cualquier pirata."
+        },
+        "waterBarrel": {
+            "name": "Barril de agua",
+            "description": "Refrescante agua potable."
+        },
+        "durian": {
+            "name": "Durián",
+            "description": "Una fruta de gran tamaño con un olor intenso y cubierta de espinas"
+        },
+        "tylosaurusFlesh": {
+            "name": "Carne de Tilosaurio",
+            "description": "La carne de una bestia que asedia La costa africana y se alimenta de desafortunados navegantes."
+        },
+        "pureIron": {
+            "name": "Hierro puro",
+            "description": "Mineral metálico que contiene cantidades mucho mayores de hierro."
+        },
+        "ironwood": {
+            "name": "Tablón de madera de hierro",
+            "description": "Una de las maderas más duras y pesadas."
+        },
+        "tornSail": {
+            "name": "Vela rasgada",
+            "description": "Trozo de tela arrancado de una vela. Se necesita una palanca para recogerlo de los naufragios."
+        },
+        "scavengedWood": {
+            "name": "Madera recuperada",
+            "description": "Trozo de tela arrancado de una vela. Se necesita una palanca para recogerlo de los naufragios."
+        },
+        "metalSalvage": {
+            "name": "Recuperación de metales",
+            "description": "Plancha de metal arrancada de las vallas de los barcos. Requiere una palanca para recogerla de los restos del naufragio."
+        },
+        "ironwoodPlank": {
+            "name": "Tablón de madera de hierro",
+            "description": "Tablones endebles y básicos utilizados para fabricar barcos y equipos básicos."
+        },
+        "crudeSaltpeter": {
+            "name": "Salitre crudo",
+            "description": "Agente natural, fangoso, fundamental para la pólvora."
+        },
+        "shellac": {
+            "name": "Goma laca",
+            "description": "Agente de recubrimiento para estructuras de madera."
+        },
+        "rustyNail": {
+            "name": "Clavo oxidado",
+            "description": "Trozos de clavos oxidados. Se necesita una palanca para recogerlos de los naufragios."
+        },
+        "copper": {
+            "name": "Cobre",
+            "description": "Metal rojizo y maleable que tiene diversos usos."
+        },
+        "castIronIngot": {
+            "name": "Lingote de hierro fundido",
+            "description": "Metal resistente pero impuro utilizado para fabricar barcos y equipos básicos."
+        },
+        "acacia": {
+            "name": "Acacia",
+            "description": "Una madera duradera y resistente a la putrefacción."
+        },
+        "sharkSkin": {
+            "name": "Piel de tiburón",
+            "description": ""
+        },
+        "jute": {
+            "name": "Yute",
+            "description": "Una fibra suave y brillante que tiene diversos usos."
+        },
+        "cobaltIngot": {
+            "name": "Lingote de Cobalto",
+            "description": "Mineral de cobalto refinado. Se funde en lingotes. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "teakPlank": {
+            "name": "Tablón de teca",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "iroko": {
+            "name": "Iroko",
+            "description": "Un tipo de madera al que se atribuyen propiedades curativas."
+        },
+        "lime": {
+            "name": "Cal",
+            "description": "Material de construcción resistente que puede moldearse en ladrillos y mortero."
+        },
+        "nickel": {
+            "name": "Níquel",
+            "description": "Brillante metal plateado resistente a la corrosión."
+        },
+        "steelIngot": {
+            "name": "Lingote de Acero",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "cobalt": {
+            "name": "Cobalto",
+            "description": "Metal raro utilizado desde la antigüedad para dar un tinte azul al vidrio y la cerámica."
+        },
+        "irokoPlank": {
+            "name": "Tablón de iroko",
+            "description": "Madera más resistente y flexible utilizada para fabricar barcos y equipos avanzados."
+        },
+        "sisal": {
+            "name": "Sisal",
+            "description": "Una fibra rígida, resistente al agua salada y muy duradera."
+        },
+        "castingSand": {
+            "name": "Arena de Forja",
+            "description": "Arena metálica para moldear formas en una fundición de herrería."
+        },
+        "acaciaPlank": {
+            "name": "Tablón de Acacia",
+            "description": "Tablones endebles y básicos utilizados para fabricar barcos y equipos básicos."
+        },
+        "nickelIngot": {
+            "name": "Lingote de Níquel",
+            "description": "Mineral de níquel refinado. Se funde en lingotes. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "bogIron": {
+            "name": "Hierro de Turbera",
+            "description": "El mineral de hierro suele encontrarse en zonas bajas."
+        },
+        "juniperPlank": {
+            "name": "Tablones De Enebro",
+            "description": "Madera más resistente y flexible utilizada para fabricar barcos y equipos avanzados."
+        },
+        "fineAbaka": {
+            "name": "Abacá Fino",
+            "description": "Tejido refinado de plantas de Abaka. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "screwMechanism": {
+            "name": "Mecanismo de Atornillado",
+            "description": "Un tornillo de bobinado básico para unir marcos de metal y madera."
+        },
+        "mopanePlank": {
+            "name": "Tablón de Mopane",
+            "description": "Tablones endebles y básicos utilizados para fabricar barcos y equipos básicos."
+        },
+        "fineLinen": {
+            "name": "Lino fino",
+            "description": "Tejido flexible y suave utilizado para fabricar barcos y equipos avanzados."
+        },
+        "cogwheel": {
+            "name": "Rueda dentada",
+            "description": "Rueda giratoria sencilla que puede encajarse en soportes de madera."
+        },
+        "woodTar": {
+            "name": "Alquitrán",
+            "description": "Sellador de agua crudo para barcos, velas y todo lo que hay en ellos."
+        },
+        "fineJute": {
+            "name": "Yute fino",
+            "description": "Tejido flexible y suave utilizado para fabricar barcos y equipos avanzados."
+        },
+        "fineSisal": {
+            "name": "Sisal fino",
+            "description": "Tejido refinado de plantas de Abaka. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "sharkLeather": {
+            "name": "Piel de tiburón",
+            "description": "Cuero muy duradero refinado a partir de piel de tiburón. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "thickCrocodileHide": {
+            "name": "Piel gruesa de cocodrilo",
+            "description": ""
+        },
+        "thickCrocodileLeather": {
+            "name": "Piel gruesa de cocodrilo",
+            "description": "Cuero extremadamente fuerte y robusto refinado a partir de gruesa piel de cocodrilo. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "crocodileHide": {
+            "name": "Piel de cocodrilo",
+            "description": ""
+        },
+        "crocodileLeather": {
+            "name": "Piel de cocodrilo",
+            "description": "Cuero muy duradero refinado a partir de piel de tiburón. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "zincIngot": {
+            "name": "Lingote de Zinc",
+            "description": "Mineral de níquel refinado. Se funde en lingotes. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "brokenPlank": {
+            "name": "Tablón roto",
+            "description": "Trozo de tela arrancado de una vela. Se necesita una palanca para recogerlo de los naufragios."
+        },
+        "sheetGlass": {
+            "name": "Vidrio laminado",
+            "description": "Cristal grueso para artículos que necesitan líneas de visión."
+        },
+        "fineHemp": {
+            "name": "Cáñamo fino",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "hippoHide": {
+            "name": "Piel de hipopótamo",
+            "description": ""
+        },
+        "hippoLeather": {
+            "name": "Piel de hipopótamo",
+            "description": "Cuero muy duradero refinado a partir de piel de tiburón. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "greenheartPlank": {
+            "name": "Tablón de palo verde",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "roselleCloth": {
+            "name": "Tela de hibisco",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "precisionDrillingBit": {
+            "name": "Broca de precisión",
+            "description": "Broca metálica forjada a mano para trabajos de ingeniería precisos."
+        },
+        "greenheart": {
+            "name": "Corazón Verde",
+            "description": "Madera de color oliva resistente a la podredumbre y a los ataques de insectos."
+        },
+        "roselle": {
+            "name": "Roselle",
+            "description": "Fibra con una elevada relación resistencia/peso."
+        },
+        "fineRamie": {
+            "name": "Ramio fino",
+            "description": "Tejido refinado de plantas de Abaka. Se utiliza para fabricar barcos, armas y muebles."
+        },
+        "ramie": {
+            "name": "Ramio",
+            "description": "Tejido resistente y absorbente fabricado con fibras de lino."
+        },
+        "teak": {
+            "name": "Teca",
+            "description": "Tipo de madera conocido por su durabilidad y resistencia al agua."
+        },
+        "hemp": {
+            "name": "Cáñamo",
+            "description": "Una de las primeras plantas en convertirse en fibra utilizable."
+        },
+        "abaka": {
+            "name": "Abacá",
+            "description": "Fibra dura obtenida de una especie de planta de plátano."
+        },
+        "juniper": {
+            "name": "Enebro",
+            "description": "Un tipo de madera extremadamente resistente para su peso."
+        },
+        "apexCrocodileHide": {
+            "name": "Piel de cocodrilo Apex",
+            "description": ""
+        },
+        "apexCrocodileLeather": {
+            "name": "Piel de cocodrilo Ápice",
+            "description": "Cuero fuerte y resistente refinado a partir de piel de cocodrilo superior. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "apexHippoHide": {
+            "name": "Piel de hipopótamo Apex",
+            "description": ""
+        },
+        "apexHippoLeather": {
+            "name": "Piel de hipopótamo Ápice",
+            "description": "Cuero duradero refinado a partir de piel de hipopótamo superior. Puede usarse para fabricar una gran variedad de objetos."
+        },
+        "rubber": {
+            "name": "Caucho",
+            "description": "Compuesto natural elástico y resistente al agua."
+        },
+        "magnetite": {
+            "name": "Magnetita",
+            "description": "Mineral de hierro que permitió descubrir el magnetismo en la antigüedad."
+        },
+        "magnetiteIngot": {
+            "name": "Lingote de magnetita",
+            "description": "Madera increíblemente resistente utilizada para fabricar los mejores barcos y equipos."
+        },
+        "mopane": {
+            "name": "Mopane",
+            "description": "Madera excepcionalmente dura y densa."
+        },
+        "linen": {
+            "name": "Lino",
+            "description": "Tejido resistente y absorbente fabricado con fibras de lino."
+        },
+        "torsionSpring": {
+            "name": "Muelle de torsión",
+            "description": "Un manantial inhumanamente grande destinado normalmente a zonas industriales."
+        },
+        "bronzeIngot": {
+            "name": "Lingote de bronce",
+            "description": "Metal más fuerte y pesado utilizado para fabricar naves y equipos avanzados."
+        },
+        "zinc": {
+            "name": "Zinc",
+            "description": "Metal raro utilizado desde la antigüedad para aleaciones."
+        },
+        "repairKit1": {
+            "name": "Kit de Reparación",
+            "description": "Repara una parte del casco del barco."
+        },
+        "repairKit2": {
+            "name": "Kit de Reparación II",
+            "description": "Repara una pequeña parte del casco del barco."
+        },
+        "repairKit3": {
+            "name": "Kit de Reparación III",
+            "description": "Repara una cantidad moderada del casco del barco."
+        },
+        "monstrousTooth": {
+            "name": "Dientes monstruosos",
+            "description": "Arrancado de las fauces de una bestia apodada « Mandíbulas de Venganza » por los Ungwana."
+        },
+        "vengefulEssence": {
+            "name": "Esencia vengativa",
+            "description": "Un combustible de otro mundo que libera constantes oleadas de energía ominosa. Tocarlo te hace sentir como si te abrasaran llamas infernales, pero no dejan rastro en la piel tras abandonar tus manos."
+        },
+        "etherealAshes": {
+            "name": "Cenizas etéreas",
+            "description": "Un montón de ceniza casi translúcida que palpita con un brillo espectral. No puedes sentir los finos granos con los dedos, pero te producen un escalofrío inexplicable."
+        },
+        "eelsTwine": {
+            "name": "Cordel de anguilas",
+            "description": "Cuerdas resistentes tejidas por las anguilas, útiles para fabricar balistas."
+        },
+        "wyrmsBreath": {
+            "name": "Aliento de Sierpe",
+            "description": "Brea altamente inflamable y disolvente para explosivos fabricada por los Sierpes."
+        },
+        "orcasMechanism": {
+            "name": "Mecanismo de las Orcas",
+            "description": "Un pasador circular diseñado por las Orcas. Se utiliza en la construcción donde se requiere alta tensión."
+        },
+        "gannetsSaltpeter": {
+            "name": "Salitre de alcatraces",
+            "description": "Una sustancia química inmensamente potente para la pólvora utilizada en las armas modernas, refinada por los alcatraces."
+        },
+        "dryCastingSand": {
+            "name": "Arena seca",
+            "description": "Casting sand that has been compacted to forge dense, heavy shapes."
+        },
+        "lacquer": {
+            "name": "Barniz",
+            "description": "Una mezcla más fuerte de goma laca que se utiliza para unir la madera e impermeabilizarla."
+        },
+        "woodPitch": {
+            "name": "Brea de madera",
+            "description": "Sellador purificado para cascos, velas y cualquier elemento expuesto al océano."
+        },
+        "plateGlass": {
+            "name": "Planchas de vidrio",
+            "description": "Vidrio sellado y laminado, que forma una unión casi inastillable."
+        },
+        "sinewString": {
+            "name": "Cuerda de tendón",
+            "description": "Una cuerda extremadamente resistente fabricada por el Clan de Fara que puede utilizarse para fabricar objetos complejos. Suele encontrarse en la Isla Roja."
+        },
+        "upgradeParts": {
+            "name": "Piezas de mejora",
+            "description": "Un conjunto de piezas artesanales que pueden utilizarse para mejorar."
+        },
+        "lestarisSkin": {
+            "name": "Piel de Lestari",
+            "description": "Una piel dura tallada de los Lestari muertos."
+        },
+        "hubacHeirloom": {
+            "name": "Reliquia familiar de Hubac",
+            "description": "Reliquia que ha pasado de generación en generación en el seno de la familia Hubac."
+        },
+        "units": {
+            "name": "Unidades",
+            "description": ""
+        },
+        "blackAriaShipPart": {
+            "name": "Black Aria Sword",
+            "description": "Una pieza rota tomada del Aria Negra de Armand Hubac. Parece una espada."
+        },
+        "whiteAriaShipPart": {
+            "name": "White Aria Shield",
+            "description": "Una parte del buque insignia del Aria Blanca de Bertrand Hubac. Parece un escudo."
+        },
+        "cork": {
+            "name": "Corcho",
+            "description": "Sobras de los brebajes de Yanita. Muy valioso para algunos."
+        },
+        "ice": {
+            "name": "Hielo",
+            "description": "Una maravilla tropical fría al tacto."
+        },
+        "lestarisMeat": {
+            "name": "Carne de Lestari",
+            "description": "Carne obtenida de la bestia marina Lestari."
+        },
+        "jadeDragon": {
+            "name": "Dragón de Jade",
+            "description": "Una ficha ornamentada que puede utilizarse en la tienda para una ocasión especial."
+        },
+        "naphtha": {
+            "name": "Nafta",
+            "description": "Un potente disolvente utilizado para disolver sustancias resistentes, incluidos los enemigos."
+        },
+        "zamaharibuScales": {
+            "name": "Escamas Zamaharibu",
+            "description": "La piel dura y curtida de una bestia difícil de matar y feroz como una tormenta marina."
+        },
+        "quicklime": {
+            "name": "Cal viva",
+            "description": "Purificada a partir de cal gruesa, que actúa y se adhiere mucho más rápidamente a diferentes superficies."
+        },
+        "purifiedSaltpeter": {
+            "name": "Salitre Purificado",
+            "description": "Una forma pura y potente de Salitre conocida por su versatilidad y fiabilidad. Recuerde manipularlo con cuidado y respeto."
+        },
+        "planetaryGearset": {
+            "name": "Engranaje Planetario",
+            "description": "Disposición de ruedas dentadas en forma de reloj, habitual en la construcción de mecanismos de giro avanzados."
+        },
+        "wormDrive": {
+            "name": "Tornillo Sin Fin",
+            "description": "Un sistema de engranajes compacto que traduce las rotaciones en movimientos suaves y precisos."
+        },
+        "lightningDragonClaw": {
+            "name": "Garra del dragón del rayo",
+            "description": "Una garra dejada por un dragón del rayo. Rezuma energía electrizante incluso en estado latente."
+        },
+        "lightningDragonScale": {
+            "name": "Escama de dragón relámpago",
+            "description": "Una magnífica escama dejada por un dragón del rayo. Conserva su resplandor y luminosidad incluso en estado latente."
+        },
+        "phoenixBeak": {
+            "name": "Pico de Fénix",
+            "description": "Una pieza rota del ariete del buque insignia de Li Tian Ning. Puede reutilizarse gracias a su increíble resistencia."
+        },
+        "phoenixPinion": {
+            "name": "Pico de Fénix",
+            "description": "Las velas tachonadas del buque insignia de Li Tian Ning. Es capaz de remendar otros objetos gracias a su versatilidad."
+        },
+        "azureDragonHead": {
+            "name": "Cabeza de dragón azul",
+            "description": "The head of a dragon from Commander Zhang's flagship. Such a mighty beast beheaded signals the Emperor's coming wrath."
+        },
+        "plagueDust": {
+            "name": "Polvo de plaga",
+            "description": "Una sustancia siniestra y polvorienta, impregnada de la esencia del veneno y la malicia."
+        },
+        "blightedFuel": {
+            "name": "Combustible arruinado",
+            "description": "Un elixir tóxico cosechado de las entrañas del buque insignia de La Peste, que exuda una energía malévola."
+        },
+        "yellowDragonBanner": {
+            "name": "Estandarte del Dragón Amarillo",
+            "description": "Un estandarte arrancado del buque insignia del Comandante Zhang. Presenta un dragón amarillo que se eleva en las nubes."
+        },
+        "jadePhoenixStatue": {
+            "name": "Estatua del Fénix de Jade",
+            "description": "Una estatua de un fénix hecha de jade puro. Una de las pocas posesiones preciadas de Li Tian Ning."
+        },
+        "eelSturdyRopes": {
+            "name": "Cordel Fuerte de las Anguilas",
+            "description": "Se fabrica entretejiendo cordeles y procesándolos con otros materiales. Conocido por su fiabilidad y resistencia."
+        },
+        "wyrmVolatileNapalm": {
+            "name": "Combustible Volátil de las Sierpes",
+            "description": "Un fluido altamente combustible elaborado a partir de un largo y complicado proceso de destilación. Una pequeña chispa puede provocar una destrucción masiva."
+        },
+        "orcaIntricateApparatus": {
+            "name": "Aparato Intrincado de las Orcas",
+            "description": "Sistema de mecanismos complejos formado por engranajes y piezas. Juntos, logran la máxima eficiencia."
+        },
+        "gannetDenseNiter": {
+            "name": "Gannet Dense Niter",
+            "description": "Salitre refinado aún más para alcanzar su estado más puro. Puede utilizarse como ingrediente para armas y munición."
+        },
+        "xanthousStone": {
+            "name": "Xanthous Stone",
+            "description": "Un fragmento dorado luminoso que palpita con un resplandor espectral. De cerca casi se oyen débiles ecos y voces."
+        },
+        "putrefiedZamaharibuScale": {
+            "name": "Escama putrefacta",
+            "description": "Escama podrida de Zamaharibu. Desprende un olor pútrido, con cicatrices por toda su superficie. Posiblemente resucitado por un poder misterioso."
+        },
+        "putrefiedLestariSkin": {
+            "name": "Piel putrefacta de Lestari",
+            "description": "Piel descompuesta de Lestari. Marcado por heridas que se niegan a sanar. Posiblemente resucitado por un poder misterioso."
+        },
+        "artisansRefinementPack": {
+            "name": "Paquete de refinamiento artesano",
+            "description": "Una colección de herramientas y materiales poco comunes diseñados para mejorar los objetos cosméticos y dotarlos de detalles más complejos."
+        },
+        "xanthousGemstone": {
+            "name": "Xanthous Gemstone",
+            "description": "Una gema brillante que emite un resplandor fascinante. No se sabe muy bien cuál es su forma."
+        },
+        "masterworkKit": {
+            "name": "Masterwork Kit",
+            "description": "Un conjunto de herramientas forjadas con maestría que se utilizan para mejorar por completo la nave y el equipo."
+        },
+        "ascensionModule": {
+            "name": "Ascension Module",
+            "description": "Un dispositivo avanzado que mejora los objetos, añadiendo ranuras de modificación graduadas para personalizarlos con modificaciones potentes y únicas."
+        },
+        "primevalFang": {
+            "name": "Primeval Fang",
+            "description": "Un colmillo monstruoso de una bestia de las profundidades. Quien lo posea debe haber desafiado sus fauces."
+        },
+        "deepIron": {
+            "name": "Deep Iron",
+            "description": ""
+        },
+        "deepIronPlates": {
+            "name": "Deep Iron Plates",
+            "description": ""
+        }
+    }
+}

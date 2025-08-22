@@ -1,0 +1,624 @@
+{
+    "materials": {
+        "silver": {
+            "name": "Argent",
+            "description": "Silver coins used by all for trade and commerce."
+        },
+        "piecesOfEight": {
+            "name": "Pièces de Huit",
+            "description": "An exclusive currency minted by the Helm. Deliver these to a haven to stash them for use in the Black Market, or your Helm Empire."
+        },
+        "sovereigns": {
+            "name": "Souverains",
+            "description": ""
+        },
+        "reapersToll": {
+            "name": "Le tribut de la Faucheuse",
+            "description": ""
+        },
+        "gold": {
+            "name": "Or",
+            "description": ""
+        },
+        "copperBars": {
+            "name": "Kupfer Bars",
+            "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
+        },
+        "gildmarks": {
+            "name": "Gildmarks",
+            "description": "Thin pieces of an unknown material stamped with the symbol of balance and death. To the unknowing, they are curious oddities; to those in the know, they are not easily earned."
+        },
+        "azuriteGem": {
+            "name": "Gemme d'azurite",
+            "description": ""
+        },
+        "halfTaels": {
+            "name": "Half-Taels",
+            "description": ""
+        },
+        "silverLions": {
+            "name": "Silver Lions",
+            "description": "Silver coins designed personally by Scurlock, minted and shipped from their home countries. Perhaps they are intended currency for when Scurlock one day rules the Indian Ocean, or so he believes."
+        },
+        "bloodiedDoubloon": {
+            "name": "Bloodied Doubloon",
+            "description": ""
+        },
+        "illicitMoonshine": {
+            "name": "Illicit Moonshine",
+            "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."
+        },
+        "smugglersMark": {
+            "name": "Smuggler's Mark",
+            "description": ""
+        },
+        "coconut": {
+            "name": "Noix de coco",
+            "description": "A stranded-island staple."
+        },
+        "fish": {
+            "name": "Poisson",
+            "description": "Mild flavor with a soft texture."
+        },
+        "ndizi": {
+            "name": "Ndizi",
+            "description": "Popular for its sweet taste, those used for cooking are often called plantains."
+        },
+        "crocodileMeat": {
+            "name": "Viande de crocodile",
+            "description": "Barely edible if eaten raw."
+        },
+        "primeCrocodileMeat": {
+            "name": "Viande de crocodile premium",
+            "description": "Best cut of meat from a Crocodile."
+        },
+        "sharkMeat": {
+            "name": "Viande de requin",
+            "description": "Strong, sour smell. Would taste better cooked."
+        },
+        "rawMutton": {
+            "name": "Mouton cru",
+            "description": "Cooking the mutton will reduce its strongly bitter taste."
+        },
+        "rawChicken": {
+            "name": "Poulet cru",
+            "description": "Bland and viscous."
+        },
+        "flour": {
+            "name": "Farine",
+            "description": "Crucial ingredient for many dishes."
+        },
+        "primeHippoMeat": {
+            "name": "Viande d'hippopotame premium",
+            "description": "Best cut of meat from a Hippo."
+        },
+        "screwpine": {
+            "name": "Vacoa",
+            "description": "The fruit can be boiled and ground into an edible, highly nutritious paste."
+        },
+        "rawBeef": {
+            "name": "Boeuf cru",
+            "description": "Would taste better cooked."
+        },
+        "rawVegetables": {
+            "name": "Légumes crus",
+            "description": "Plain and unassuming."
+        },
+        "hippoMeat": {
+            "name": "Viande d'hippopotame",
+            "description": "Bitter flavor and strong texture."
+        },
+        "waterFlask": {
+            "name": "Gourde d'eau",
+            "description": "Essential drink for a pirate."
+        },
+        "waterBarrel": {
+            "name": "Tonneau d'eau",
+            "description": "Refreshing drinking water."
+        },
+        "durian": {
+            "name": "Durian",
+            "description": "A large fruit with a strong odor and covered with thorns."
+        },
+        "tylosaurusFlesh": {
+            "name": "Chair de tylosaure",
+            "description": "The meat of a beast that stalks the African Coast, feasting on unfortunate seafarers."
+        },
+        "pureIron": {
+            "name": "Fer pur",
+            "description": "Metal ore that contains much greater amounts of iron."
+        },
+        "ironwood": {
+            "name": "Bois de fer",
+            "description": "One of the hardest and heaviest woods."
+        },
+        "tornSail": {
+            "name": "Voile déchirée",
+            "description": "A piece of cloth that was torn off from a sail. Requires Crowbar to harvest from shipwrecks."
+        },
+        "scavengedWood": {
+            "name": "Bois de récupération",
+            "description": "A piece of wood removed from a ship hull. Requires Crowbar to harvest from shipwrecks."
+        },
+        "metalSalvage": {
+            "name": "Métal de récupération",
+            "description": "Sheet of metal that has been ripped from its ship hoardings. Requires Crowbar to harvest from shipwrecks."
+        },
+        "ironwoodPlank": {
+            "name": "Planche de bois de fer",
+            "description": "Flimsy, basic planks used to craft basic ships and equipment."
+        },
+        "crudeSaltpeter": {
+            "name": "Salpêtre brut",
+            "description": "Natural, muddy agent that is critical for gunpowder."
+        },
+        "shellac": {
+            "name": "Gomme laque",
+            "description": "Coating agent for wooden structures."
+        },
+        "rustyNail": {
+            "name": "Clou rouillé",
+            "description": "Pieces of nails that have rusted. Requires Crowbar to harvest from shipwrecks."
+        },
+        "copper": {
+            "name": "Cuivre",
+            "description": "Reddish, malleable metal that has a variety of uses."
+        },
+        "castIronIngot": {
+            "name": "Lingot de fonte",
+            "description": "Sturdy but impure metal used to craft basic ships and equipment."
+        },
+        "acacia": {
+            "name": "Acacia",
+            "description": "A durable and rot-resistant wood."
+        },
+        "sharkSkin": {
+            "name": "Peau de requin",
+            "description": ""
+        },
+        "jute": {
+            "name": "Jute",
+            "description": "A soft, shiny fiber that has a variety of uses."
+        },
+        "cobaltIngot": {
+            "name": "Lingot de cobalt",
+            "description": "Refined Cobalt ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
+        },
+        "teakPlank": {
+            "name": "Planche de teck",
+            "description": "Incredibly strong wood used to craft the finest ships and equipment."
+        },
+        "iroko": {
+            "name": "Iroko",
+            "description": "A type of wood believed to have healing properties."
+        },
+        "lime": {
+            "name": "Chaux",
+            "description": "A strong building material which can be molded into bricks and mortar."
+        },
+        "nickel": {
+            "name": "Nickel",
+            "description": "Lustrous silver metal that is corrosion resistant."
+        },
+        "steelIngot": {
+            "name": "Lingot d'acier",
+            "description": "Incredibly strong metal to craft the finest ships and equipment."
+        },
+        "cobalt": {
+            "name": "Cobalt",
+            "description": "Rare metal used since ancient times to add a blue tinge to glass and ceramics."
+        },
+        "irokoPlank": {
+            "name": "Planche d'iroko",
+            "description": "Stronger, pliable wood used to craft advanced ships and equipment."
+        },
+        "sisal": {
+            "name": "Sisal",
+            "description": "A stiff, saltwater-resistant fiber that is very durable."
+        },
+        "castingSand": {
+            "name": "Sable de moulage",
+            "description": "Metal sand for casting shapes in a blacksmith's foundry."
+        },
+        "acaciaPlank": {
+            "name": "Planches d'acacia",
+            "description": "Flimsy, basic planks used to craft basic ships and equipment."
+        },
+        "nickelIngot": {
+            "name": "Lingot de nickel",
+            "description": "Refined Nickel ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
+        },
+        "bogIron": {
+            "name": "Fer des marais",
+            "description": "Iron ore typically found in low-lying areas."
+        },
+        "juniperPlank": {
+            "name": "Planche de genévrier",
+            "description": "Stronger, pliable wood used to craft advanced ships and equipment."
+        },
+        "fineAbaka": {
+            "name": "Abaka fin",
+            "description": "Refined fabric from Abaka plants. It is used in crafting ships, weapons, and furniture."
+        },
+        "screwMechanism": {
+            "name": "Mécanisme à vis",
+            "description": "A basic winding screw for binding metal and wood frames together."
+        },
+        "mopanePlank": {
+            "name": "Planche de mopane",
+            "description": "Wood planks used to craft basic ships and equipment."
+        },
+        "fineLinen": {
+            "name": "Lin fin",
+            "description": "Flexible and smooth fabric used to craft advanced ships and equipment."
+        },
+        "cogwheel": {
+            "name": "Rouage",
+            "description": "Simple turning wheel that can be slotted into wooden supports."
+        },
+        "woodTar": {
+            "name": "Goudron de bois",
+            "description": "Crude water sealant for ships, sails, and everything on them."
+        },
+        "fineJute": {
+            "name": "Jute fin",
+            "description": "Flexible but ugly fabric used to craft basic ships and equipment."
+        },
+        "fineSisal": {
+            "name": "Sisal fin",
+            "description": "Refined fabric from Sisal plants. It is used in crafting ships, weapons, and furniture."
+        },
+        "sharkLeather": {
+            "name": "Cuir de requin",
+            "description": "Very durable leather refined from Shark Skin. Can be used for crafting a variety of items."
+        },
+        "thickCrocodileHide": {
+            "name": "Peau de crocodile épais",
+            "description": ""
+        },
+        "thickCrocodileLeather": {
+            "name": "Cuir de crocodile épais",
+            "description": "Extremely strong and sturdy leather refined from Thick Crocodile Skin. Can be used for crafting a variety of items."
+        },
+        "crocodileHide": {
+            "name": "Peau de crocodile",
+            "description": ""
+        },
+        "crocodileLeather": {
+            "name": "Cuir de crocodile",
+            "description": "Highly strong and sturdy leather refined from Crocodile Skin. Can be used for crafting a variety of items."
+        },
+        "zincIngot": {
+            "name": "Lingot de zinc",
+            "description": "Refined Zinc ore. It is smelted into an ingot. It is used in crafting ships, weapons, and furniture."
+        },
+        "brokenPlank": {
+            "name": "Planche cassée",
+            "description": "A piece of wood that has come loose from a hull. Requires Crowbar to harvest from shipwrecks."
+        },
+        "sheetGlass": {
+            "name": "Feuille de verre",
+            "description": "Thick glass for items that need sight-lines."
+        },
+        "fineHemp": {
+            "name": "Chanvre fin",
+            "description": "Incredibly strong fabric used to craft the finest ships and equipment."
+        },
+        "hippoHide": {
+            "name": "Peau d'hippopotame",
+            "description": ""
+        },
+        "hippoLeather": {
+            "name": "Cuir d'hippopotame",
+            "description": "Incredibly tough leather refined from Hippo Skin. Can be used for crafting a variety of items."
+        },
+        "greenheartPlank": {
+            "name": "Planche de cœur vert",
+            "description": "Incredibly strong wood used to craft advanced ships and equipment."
+        },
+        "roselleCloth": {
+            "name": "Tissu de roselle",
+            "description": "Incredibly strong fabric used to craft the finest ships and equipment."
+        },
+        "precisionDrillingBit": {
+            "name": "Foret de précision",
+            "description": "Hand-forged metal drill bit for accurate engineering work."
+        },
+        "greenheart": {
+            "name": "Cœur vert",
+            "description": "Olive-colored wood resistant to rot and insect attacks."
+        },
+        "roselle": {
+            "name": "Roselle",
+            "description": "Fiber that has a high strength-to-weight ratio."
+        },
+        "fineRamie": {
+            "name": "Ramie fine",
+            "description": "Refined fabric from ramie plants. It is used in crafting ships, weapons, and furniture."
+        },
+        "ramie": {
+            "name": "Ramie",
+            "description": "A strong, absorbent textile made from the fibers of the flax plant."
+        },
+        "teak": {
+            "name": "Teck",
+            "description": "A type o f wood known for its durability and water resistance."
+        },
+        "hemp": {
+            "name": "Chanvre",
+            "description": "One of the first plants to be turned into usable fiber."
+        },
+        "abaka": {
+            "name": "Abaka",
+            "description": "Hard fiber obtained from a species of banana plant."
+        },
+        "juniper": {
+            "name": "Genévrier",
+            "description": "A type of wood extremely strong for its weight."
+        },
+        "apexCrocodileHide": {
+            "name": "Peau de crocodile alpha",
+            "description": ""
+        },
+        "apexCrocodileLeather": {
+            "name": "Cuir de crocodile alpha",
+            "description": "Strong and sturdy leather refined from Apex Crocodile Skin. Can be used for crafting a variety of items."
+        },
+        "apexHippoHide": {
+            "name": "Peau d'hippopotame alpha",
+            "description": ""
+        },
+        "apexHippoLeather": {
+            "name": "Cuir d'hippopotame alpha",
+            "description": "Durable leather refined from Apex Hippo Skin. Can be used for crafting a variety of items."
+        },
+        "rubber": {
+            "name": "Caoutchouc",
+            "description": "A natural compound that is both stretchy and water-resistant."
+        },
+        "magnetite": {
+            "name": "Magnétite",
+            "description": "Iron ore that led to the discovery of magnetism in ancient times."
+        },
+        "magnetiteIngot": {
+            "name": "Lingot de magnétite",
+            "description": "Incredibly strong metal to craft the finest ships and equipment."
+        },
+        "mopane": {
+            "name": "Mopane",
+            "description": "Exceptionally tough and dense wood."
+        },
+        "linen": {
+            "name": "Lin",
+            "description": "A strong, absorbent textile made from the fibers of the flax plant."
+        },
+        "torsionSpring": {
+            "name": "Ressort à torsion",
+            "description": "An inhumanly large spring normally meant for industrial sites."
+        },
+        "bronzeIngot": {
+            "name": "Lingot de bronze",
+            "description": "Stronger, heavier metal used to craft advanced ships and equipment."
+        },
+        "zinc": {
+            "name": "Zinc",
+            "description": "Rare metal used since ancient times for alloying."
+        },
+        "repairKit1": {
+            "name": "Kit de réparation I",
+            "description": "Mends a minimal amount of the ship's hull."
+        },
+        "repairKit2": {
+            "name": "Kit de réparation II",
+            "description": "Mends a modest amount of the ship's hull."
+        },
+        "repairKit3": {
+            "name": "Kit de réparation III",
+            "description": "Mends a moderate amount of the ship's hull."
+        },
+        "monstrousTooth": {
+            "name": "Dent monstrueuse",
+            "description": "Yanked from the maw of a beast dubbed \"Jaws of Vengeance\" by the Ungwana."
+        },
+        "vengefulEssence": {
+            "name": "Essence vengeresse",
+            "description": "An otherworldly fuel that releases constant waves of ominous energy. Touching it makes you feel as if you are being scorched by hellish flames, but they leave no trace on your skin after leaving your hands."
+        },
+        "etherealAshes": {
+            "name": "Cendres éthérées",
+            "description": "A mound of nearly translucent ash that pulses with a spectral glow. You are unable to feel the fine grains with your fingers, but they send an inexplicable chill down your spine."
+        },
+        "eelsTwine": {
+            "name": "Cordes des Anguilles",
+            "description": "Sturdy strings woven by the Eels, useful in crafting Ballistas."
+        },
+        "wyrmsBreath": {
+            "name": "Souffle de la Vouivre",
+            "description": "A highly flammable pitch and solvent for explosives concocted by the Wyrms."
+        },
+        "orcasMechanism": {
+            "name": "Mécanisme des Orques",
+            "description": "A circular linchpin designed by the Orcas. Used in construction where high tension is required."
+        },
+        "gannetsSaltpeter": {
+            "name": "Salpêtre des Fous de Bassan",
+            "description": "An immensely powerful chemical for gunpowder used in modern weapons, refined by the Gannets."
+        },
+        "dryCastingSand": {
+            "name": "Sable sec",
+            "description": "Casting sand that has been compacted to forge dense, heavy shapes."
+        },
+        "lacquer": {
+            "name": "Laque",
+            "description": "A stronger mix of shellac that is used to bind wood together and waterproofing."
+        },
+        "woodPitch": {
+            "name": "Sciure",
+            "description": "A purified sealent for hulls, sails, and anything exposed to the ocean."
+        },
+        "plateGlass": {
+            "name": "Feuille de verre",
+            "description": "Sealed and sheeted glass, which forms a nearly shatterproof bond."
+        },
+        "sinewString": {
+            "name": "Cordon en tendon",
+            "description": "An extremely tough string made by the Clan of Fara that can be used for crafting complex items. Generally found in the Red Isle."
+        },
+        "upgradeParts": {
+            "name": "Pièces d'amélioration",
+            "description": "A set of master-crafted parts that can be used for upgrading."
+        },
+        "lestarisSkin": {
+            "name": "Peau de Lestari",
+            "description": "Tough hide hewn from the slain Lestari."
+        },
+        "hubacHeirloom": {
+            "name": "Héritage de Hubac",
+            "description": "Relic that has been passed down for generations within the Hubac family."
+        },
+        "units": {
+            "name": "Unités",
+            "description": ""
+        },
+        "blackAriaShipPart": {
+            "name": "Black Aria Sword",
+            "description": "A broken part taken from Armand Hubac's Black Aria. Looks like a sword."
+        },
+        "whiteAriaShipPart": {
+            "name": "White Aria Shield",
+            "description": "A part of Bertrand Hubac's White Aria flagship. Looks like a shield."
+        },
+        "cork": {
+            "name": "Liège",
+            "description": "Left over from Yanita's concoctions. Highly valuable to some."
+        },
+        "ice": {
+            "name": "Glace",
+            "description": "A tropical wonder that's cold to the touch."
+        },
+        "lestarisMeat": {
+            "name": "Viande de Lestari",
+            "description": "Meat obtained from the sea monster Lestari."
+        },
+        "jadeDragon": {
+            "name": "Dragon de Jade",
+            "description": "An ornate token that can be used in the store for a special occasion."
+        },
+        "naphtha": {
+            "name": "Naphte",
+            "description": "A powerful solvent used to dissolve stubborn substances, including one's foes."
+        },
+        "zamaharibuScales": {
+            "name": "Écailles de Zamaharibu",
+            "description": "The tough, leathery hide of a beast that's hard to kill and ferocious as a sea storm."
+        },
+        "quicklime": {
+            "name": "Chaux vive",
+            "description": "Purified from coarse lime, which is far quicker to act and bond to different surfaces."
+        },
+        "purifiedSaltpeter": {
+            "name": "Salpêtre purifié",
+            "description": "A pure and potent form of Saltpeter known for its versatility and reliability. Remember to handle with care and respect."
+        },
+        "planetaryGearset": {
+            "name": "Train épicycloïdal",
+            "description": "A clock-like arrangement of cogwheels, common in construction of advanced turning mechanisms."
+        },
+        "wormDrive": {
+            "name": "Vis sans fin",
+            "description": "A compact gear system that translates rotations into smooth, precise movements."
+        },
+        "lightningDragonClaw": {
+            "name": "Griffe du Dragon de foudre",
+            "description": "A claw left behind by a lightning dragon. It oozes electrifying energy even in a dormant state."
+        },
+        "lightningDragonScale": {
+            "name": "Écaille du Dragon de foudre",
+            "description": "A magnificent scale left behind by a lightning dragon. It retains its radiance and luminosity even in a dormant state."
+        },
+        "phoenixBeak": {
+            "name": "Bec du Phénix",
+            "description": "A broken piece from the ram of Li Tian Ning's flagship. Can be repurposed due to its incredible resilience."
+        },
+        "phoenixPinion": {
+            "name": "Plume de Phénix",
+            "description": "The studded sails from Li Tian Ning's flagship. It is capable of mending other objects due to its versatility."
+        },
+        "azureDragonHead": {
+            "name": "Tête du Dragon Azur",
+            "description": "The head of a dragon from Commander Zhang's flagship. Such a mighty beast beheaded signals the Emperor's coming wrath."
+        },
+        "plagueDust": {
+            "name": "Poussière de Peste",
+            "description": "A sinister, powdery substance, infused with the essence of venom and malice."
+        },
+        "blightedFuel": {
+            "name": "Carburant contaminé",
+            "description": "A toxic elixir harvested from the bowels of La Peste's flagship, which exudes a malevolent energy."
+        },
+        "yellowDragonBanner": {
+            "name": "Bannière du Dragon Jaune",
+            "description": "A banner ripped from Commander Zhang's flagship. It features a yellow dragon soaring high in the clouds."
+        },
+        "jadePhoenixStatue": {
+            "name": "Statue du Phénix de Jade",
+            "description": "A statue of a phoenix made of pure jade. One of the few prized possessions of Li Tian Ning."
+        },
+        "eelSturdyRopes": {
+            "name": "Cordes d'Anguille Solides",
+            "description": "Made by weaving twine together and processing it with other materials. Known for its reliability and resilience."
+        },
+        "wyrmVolatileNapalm": {
+            "name": "Napalm Explosif du Dragon",
+            "description": "A highly combustible fluid made from a long and complicated distillation process. A tiny spark can lead to mass destruction."
+        },
+        "orcaIntricateApparatus": {
+            "name": "Appareil Complexe de l'Orque",
+            "description": "A system of complex mechanisms formed from gears and pieces. Put together, it achieves maximum efficiency."
+        },
+        "gannetDenseNiter": {
+            "name": "Salpêtre dense de Fou de Bassan",
+            "description": "Saltpeter refined further to achieve its purest state. Can be used as an ingredient for weapons and ammo."
+        },
+        "xanthousStone": {
+            "name": "Pierre de Xanthous",
+            "description": "A luminous golden shard that pulses with a spectral glow. You can almost hear faint echoes and voices up close."
+        },
+        "putrefiedZamaharibuScale": {
+            "name": "Écailles putréfiées de Zamaharibu",
+            "description": "Decayed scale of Zamaharibu. Gives off a putrid odor, with scars all over is surface. Possibly resurrected by a mysterious power."
+        },
+        "putrefiedLestariSkin": {
+            "name": "Peau de Lestari putréfiée",
+            "description": "Decayed hide of Lestari. Marked by wounds that refuse to heal. Possibly resurrected by a mysterious power."
+        },
+        "artisansRefinementPack": {
+            "name": "Pack d'affinage de l'artisan",
+            "description": "A curated collection of rare tools and materials designed to upgrade cosmetic items to have more intricate details."
+        },
+        "xanthousGemstone": {
+            "name": "Pierre précieuse de Xanthous",
+            "description": "A gem of brilliance that emits a mesmerizing radiance. You can't quite place its shape and form."
+        },
+        "masterworkKit": {
+            "name": "Masterwork Kit",
+            "description": "A set of master-forged tools used to fully upgrade ship and equipment."
+        },
+        "ascensionModule": {
+            "name": "Ascension Module",
+            "description": "An advanced device that upgrades items, adding graded modification slots for customization with powerful and unique modifications."
+        },
+        "primevalFang": {
+            "name": "Primeval Fang",
+            "description": "A monstrous fang from a beast from the depths. Whoever possesses one must have braved its jaws."
+        },
+        "deepIron": {
+            "name": "Deep Iron",
+            "description": ""
+        },
+        "deepIronPlates": {
+            "name": "Deep Iron Plates",
+            "description": ""
+        }
+    }
+}

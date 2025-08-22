@@ -1,0 +1,312 @@
+{
+    "modifications": {
+        "direPiercing": {
+            "name": "Fatales Durchschlagen",
+            "description": "Treffer ignorieren %s-%s% der Durchschlagend-Resistenz des Ziels"
+        },
+        "direElectric": {
+            "name": "Fatale Elektrizität",
+            "description": "Treffer ignorieren %s-%s% der Elektrisch-Resistenz des Ziels"
+        },
+        "direExplosive": {
+            "name": "Fatale Explosion",
+            "description": "Treffer ignorieren %s-%s% der Explosiv-Resistenz des Ziels"
+        },
+        "direFlooding": {
+            "name": "Fatale Überflutung",
+            "description": "Treffer ignorieren %s-%s% er Überflutung-Resistenz des Ziels"
+        },
+        "incendiary": {
+            "name": "Brandstifter",
+            "description": "Fügt %s-%s% Schaden als Brandschaden hinzu"
+        },
+        "direBurning": {
+            "name": "Fatales Brennen",
+            "description": "Treffer ignorieren %s-%s% der Brennt-Resistenz des Ziels"
+        },
+        "firepower": {
+            "name": "Feuerkraft",
+            "description": "Erhöht Schaden um %s-%s%"
+        },
+        "shock": {
+            "name": "Schock",
+            "description": "Fügt %s-%s% Schaden als Elektroschaden hinzu"
+        },
+        "rapidReload": {
+            "name": "Schnelles Nachladen",
+            "description": "Reduziert Nachladezeit um %s-%s%"
+        },
+        "combust": {
+            "name": "In Flammen aufgehen",
+            "description": "Jeder Treffer fügt extra %s-%s Explosionsschaden hinzu"
+        },
+        "flood": {
+            "name": "Fluten",
+            "description": "Jeder Treffer fügt extra %s-%s Überflutungsschaden hinzu"
+        },
+        "sparks": {
+            "name": "Funken",
+            "description": "Jeder Treffer fügt extra %s-%s Elektroschaden hinzu"
+        },
+        "damage": {
+            "name": "Schaden",
+            "description": "Fügt pro Schuss %s-%s Schaden hinzu"
+        },
+        "burn": {
+            "name": "Brennen",
+            "description": "Jeder Treffer fügt extra %s-%s Brandschaden hinzu"
+        },
+        "swift": {
+            "name": "Zügig",
+            "description": "Erhöht Projektilgeschwindigkeit um %s-%s%"
+        },
+        "reach": {
+            "name": "Reichweite",
+            "description": "Erhöht Reichweite um %s-%s%"
+        },
+        "sharpened": {
+            "name": "Geschärft",
+            "description": "Fügt %s-%s% Schaden als Durchschlagsschaden hinzu"
+        },
+        "combustion": {
+            "name": "Verbrennung",
+            "description": "Fügt %s-%s% Schaden als Explosionsschaden hinzu"
+        },
+        "pierce": {
+            "name": "Durchschlagen",
+            "description": "Jeder Treffer fügt extra %s-%s Durchschlagsschaden hinzu"
+        },
+        "rupturing": {
+            "name": "Zerreißen",
+            "description": "Fügt %s-%s% Schaden als Überflutungsschaden hinzu"
+        },
+        "haste": {
+            "name": "Eile",
+            "description": "Reduziert Zeit-zum-Ziel um %s-%s%"
+        },
+        "fix": {
+            "name": "Reparieren",
+            "description": "Erhöht Reparaturmenge um %s-%s per Schuss"
+        },
+        "antiBlast": {
+            "name": "Anti-Explosion",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Schwer in Schale beim Ziel um %s-%s%"
+        },
+        "insulator": {
+            "name": "Insulator",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Elektrisiert beim Ziel um %s-%s%"
+        },
+        "service": {
+            "name": "Service",
+            "description": "Erhöht Reparaturmenge um %s-%s%"
+        },
+        "douser": {
+            "name": "Löscher",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts In Brand beim Ziel um %s-%s%"
+        },
+        "sealant": {
+            "name": "Dichtungsmasse",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Überflutet beim Ziel um %s-%s%"
+        },
+        "reinforcer": {
+            "name": "Verstärker",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Durchstochen beim Ziel um %s-%s%"
+        },
+        "brute": {
+            "name": "Grobian",
+            "description": "Treffer stellen mit einer Chance von 16% %s-%s Deckungsstärke dieses Schiffes wieder her"
+        },
+        "severity": {
+            "name": "Schweregrad",
+            "description": "Treffer verursachen mit einer Chance von 12% zusätzlichen %s-%s% Schaden als Schwerer Schaden"
+        },
+        "victorsRally": {
+            "name": "Zusammenkunft der Sieger",
+            "description": "Das Zerstören eines Ziels stellt %s-%s Deckungsstärke bei diesem Schiff wieder her"
+        },
+        "graceOfTheWinds": {
+            "name": "Anmut des Windes",
+            "description": "Treffer erhöhen mit einer Chance von %s-%s% 15 Sekunden lang die Wendegeschwindigkeit um 10%. Der Effekt kann bis zu 3 Mal gestapelt werden"
+        },
+        "lethal": {
+            "name": "Tödlich",
+            "description": "Erhöht den Schwachpunktschaden um %s-%s%"
+        },
+        "energize": {
+            "name": "Energetisieren",
+            "description": "Treffer stellen mit einer Chance von 16% %s-%s% Ausdauer der Besatzung dieses Schiffes wieder her"
+        },
+        "bloodthirst": {
+            "name": "Blutdurst",
+            "description": "Das Zerstören eines Ziels stellt %s-%s% Ausdauer der Besatzung bei diesem Schiff wieder her"
+        },
+        "raider": {
+            "name": "Plünderer",
+            "description": "Erhöht den Statuseffekt \"Anfällig\" um %s-%s%"
+        },
+        "deathblow": {
+            "name": "Todesstoß",
+            "description": [
+                "Ziele mit 25% Rumpfzustand oder weniger werden mit einer Chance von %s-%s% durch Treffer sofort zerstört",
+                "Eliteziele werden nicht sofort zerstört, sondern verbliebener Rumpfzustand wird um 3% verringert"
+            ]
+        },
+        "repairReadiness": {
+            "name": "Reparaturaktion",
+            "description": "Treffer verringern mit einer Chance von %s-%s% die Abklingzeit von Reparatursets um 3 Sekunden"
+        },
+        "precisePatchwork": {
+            "name": "Präzises Flickwerk",
+            "description": "Bei der Zerstörung eines Schwachpunkts werden %s-%s Schwerer Schaden bei diesem Schiff wiederhergestellt"
+        },
+        "amplifiedBurning": {
+            "name": "Verstärktes Brennen",
+            "description": "Verstärkt bereits vorhandenen Brandschaden um %s-%s%"
+        },
+        "siege": {
+            "name": "Belagerung",
+            "description": "Erhöht den Schaden an Gebäuden um %s-%s%"
+        },
+        "restoreReadiness": {
+            "name": "Restaurationsaktion",
+            "description": "Treffer verringern mit einer Chance von %s-%s% die Abklingzeit von Reparatursätzen um 3 Sekunden"
+        },
+        "amplifiedPiercing": {
+            "name": "Verstärktes Durchschlagen",
+            "description": "Verstärkt bereits vorhandenen Durchschlagsschaden um %s-%s%"
+        },
+        "amplifiedElectric": {
+            "name": "Verstärkte Elektrizität",
+            "description": "Verstärkt bereits vorhandenen Elektroschaden um %s-%s%"
+        },
+        "amplifiedExplosive": {
+            "name": "Verstärkte Explosion",
+            "description": "Verstärkt bereits vorhandenen Explosionsschaden um %s-%s%"
+        },
+        "amplifiedFlooding": {
+            "name": "Verstärkte Überflutung",
+            "description": "Verstärkt bereits vorhandenen Überflutungsschaden um %s-%s%"
+        },
+        "tearing": {
+            "name": "Riss",
+            "description": "Erhöht den Schaden bei Segeltreffern um %s-%s%"
+        },
+        "roar": {
+            "name": "Brüllen",
+            "description": "%s-%s% des Grundschadens erhöht den Statuseffekt \"Verspottet\" auf Zielen"
+        },
+        "soulMending": {
+            "name": "Seelenbalsam",
+            "description": "%s-%s% des durch die Waffe verursachten Schadens stellt \"Rumpfzustand\" wieder her"
+        },
+        "blastRange": {
+            "name": "Sprengbereich",
+            "description": "Erhöht Explosionsradius um %s-%s%"
+        },
+        "durableBuoys": {
+            "name": "Langlebige Bojen",
+            "description": "Betriebszeit von Bojen wird um %s-%s% erhöht"
+        },
+        "hardyBuoys": {
+            "name": "Robuste Bojen",
+            "description": "Bojenzustand wird um %s-%s% erhöht"
+        },
+        "restorative": {
+            "name": "Wiederherstellend",
+            "description": "%s-%s% der Reparaturmenge stellt auch Schweren Schaden wieder her"
+        },
+        "invigorate": {
+            "name": "Beleben",
+            "description": "%s-%s% der Reparaturmenge stellt auch Ausdauer der Besatzung wieder her"
+        },
+        "tranquility": {
+            "name": "Ruhe",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Verspottet beim Ziel um %s-%s%"
+        },
+        "sailorsRespite": {
+            "name": "Seemannsrast",
+            "description": "Treffer haben eine Chance von 7%, das Ziel für den Betrag von %s-%s% zu reparieren"
+        },
+        "strengthen": {
+            "name": "Verstärken",
+            "description": "%s-%s% der Reparaturmenge stellt auch Deckungsstärke des Ziels wieder her"
+        },
+        "sailMender": {
+            "name": "Segelmacher",
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Zerrissene Segel beim Ziel um %s-%s%"
+        },
+        "secondStorm": {
+            "name": "Zweiter Sturm",
+            "description": [
+                "Jeglicher von dieser Waffe verursachter Elektroschaden, wird auch bei einem Ziel in der Nähe verursacht",
+                "Fügt %s-%s% Schaden als Elektroschaden hinzu"
+            ]
+        },
+        "overflow": {
+            "name": "Überlauf",
+            "description": [
+                "Jeglicher von dieser Waffe verursachter Überflutungsschaden, wird als Schwerer Schaden angewendet",
+                "Fügt %s-%s% Schaden als Überflutungsschaden hinzu"
+            ]
+        },
+        "sailRipper": {
+            "name": "Segelreißer",
+            "description": "Der Treffer, der den Statuseffekt \"Zerrissene Segel\" auslöst, verursacht %s-%s% Schaden"
+        },
+        "winningStreak": {
+            "name": "Siegesserie",
+            "description": [
+                "Jeder erfolgreiche Treffer erhöht den Schaden des nächsten Schusses mit dieser Waffe um 3%, bis zu einem Maximum von %s-%s%",
+                "Wenn du einen Schuss verfehlst, wird der Effekt zurückgesetzt"
+            ]
+        },
+        "deadlyStrike": {
+            "name": "Tödlicher Schlag",
+            "description": [
+                "Schüsse haben eine Chance von 10%, erhöhten Schaden durch Schwachpunkte-Boni zu verursachen, selbst wenn der Schuss keinen Schwachpunkt trifft",
+                "Erhöht den Schaden an Schwachpunkten um %s-%s%"
+            ]
+        },
+        "highPressure": {
+            "name": "Hochdruck",
+            "description": "Seefeuerwaffen haben 50m Reichweite und verursachen %s-%s% mehr Schaden"
+        },
+        "longArm": {
+            "name": "Langer Arm",
+            "description": "Treffer, die bei 70% von Maximale Reichweite oder weiter landen, verursachen auch %s-%s% mehr Schaden"
+        },
+        "providence": {
+            "name": "Vorsehung",
+            "description": "%s-%s% des von dieser Waffe reparierten Betrags repariert auch dein Schiff"
+        },
+        "jointSupply": {
+            "name": "Gemeinsame Versorgung",
+            "description": "Treffer reparieren auch das nächstgelegene verbündete Schiff um %s-%s% der ursprünglichen Reparaturmenge"
+        },
+        "winningStreakRepair": {
+            "name": "Siegesserie (Reparatur)",
+            "description": [
+                "Jeder erfolgreiche Treffer erhöht die Reparaturmenge des nächsten Schusses mit dieser Waffe um 3%, bis zu einem Maximum von %s-%s%",
+                "Wenn du einen Schuss verfehlst, wird der Effekt zurückgesetzt"
+            ]
+        },
+        "preemptiveDefence": {
+            "name": "Präventivverteidigung",
+            "description": [
+                "Treffer gewähren dem Ziel außerdem 10 Sekunden lang 50 zusätzliche Rüstung. Der Effekt kann bis zu 5 Mal gestapelt werden",
+                "Erhöht außerdem die Reparaturmenge um %s-%s%"
+            ]
+        },
+        "empower": {
+            "name": "Ermächtigen",
+            "description": [
+                "Treffer gewähren dem Ziel außerdem 10 Sekunden lang 3% zusätzlichen Waffenschaden. Der Effekt kann bis zu 5 Mal gestapelt werden",
+                "Reduziert außerdem die Nachladezeit um %s-%s%"
+            ]
+        },
+        "longArmRepair": {
+            "name": "Langer Arm (Reparatur)",
+            "description": "Treffer, die bei 70% von Maximale Reichweite oder weiter landen, stellen auch %s-%s% mehr Reparaturmenge her"
+        }
+    }
+}

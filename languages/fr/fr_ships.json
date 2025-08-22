@@ -1,0 +1,100 @@
+{
+    "ships": {
+        "dhow": {
+            "name": "Boutre",
+            "description": {
+                "general": "Petit navire construit à l'origine à l'origine pour chasser les animaux le long des rivières et des côtes."
+            }
+        },
+        "bedar": {
+            "name": "Bédar",
+            "description": {
+                "general": "Un petit navire maniable qui peut éperonner des cibles et causer des dégâts d'inondation."
+            }
+        },
+        "hulk": {
+            "name": "Ponton",
+            "description": {
+                "general": "Plus résistant et capable d'encaisser des dommages soutenus, ce navire est spécialisé dans la protection contre les tirs."
+            }
+        },
+        "cutter": {
+            "name": "Cotre",
+            "description": {
+                "general": "Un navire capable de soutenir d'autres navires lors des combats."
+            }
+        },
+        "barge": {
+            "name": "Barge",
+            "description": {
+                "general": "Un navire spécialement équipé pour résister aux dégâts de feu, et capable de répandre le chaos sur les navires proches."
+            }
+        },
+        "sloop": {
+            "name": "Sloop",
+            "description": {
+                "general": "Avec les armes appropriées, ce navire est capable de tenir tête à de nombreux ennemis."
+            }
+        },
+        "padewakang": {
+            "name": "Padewakang",
+            "description": {
+                "general": "Un grand navire capable d'affronter plusieurs ennemis lorsqu'il est équipé de manière adéquate."
+            }
+        },
+        "snow": {
+            "name": "Senau",
+            "description": {
+                "general": "Un navire à la résistance accrue et qui tient bon en combat. Il est spécialisé dans la protection contre les tirs."
+            }
+        },
+        "brigantine": {
+            "name": "Brigantin",
+            "description": {
+                "general": "Un navire rapide capable d'éperonner des cibles précises et de causer des dégâts d'inondation."
+            }
+        },
+        "sambuk": {
+            "name": "Sambouk",
+            "description": {
+                "general": "Un navire spécialisé dans les dégâts de feu et la combustion des cibles. Il peut également cibler plusieurs ennemis proches les uns des autres."
+            }
+        },
+        "barque": {
+            "name": "Barque",
+            "description": {
+                "general": "Un navire idéal pour aider les autres navires en danger, en effectuant des réparations efficaces."
+            }
+        },
+        "brig": {
+            "name": "Brick",
+            "description": {
+                "general": "Un navire de soutien qui excelle dans le déploiement de bouées qui peuvent faire basculer la bataille en leur faveur."
+            }
+        },
+        "battleJunk": {
+            "name": "Jonque de Bataille",
+            "description": {
+                "general": "Une force destructrice résiliente conçue pour distraire les adversaires, résister aux dégâts et créer des occasions pour que les alliés attaquent ou s'échappent."
+            }
+        },
+        "garuda": {
+            "name": "Garuda",
+            "description": {
+                "general": "Un vaisseau rapide et maniable, idéal pour traquer les navires qui s'enfuient."
+            }
+        },
+        "schooner": {
+            "name": "Schooner",
+            "description": {
+                "general": "Excels at devastating broadside attacks, turning every barrage into an explosive reaction, wreaking havoc on fleets and structures in the Red Isle."
+            }
+        },
+        "frigate": {
+            "name": "Frigate",
+            "description": {
+                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+            }
+        }
+    }
+}

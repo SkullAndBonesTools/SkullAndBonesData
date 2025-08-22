@@ -1,0 +1,100 @@
+{
+    "ships": {
+        "dhow": {
+            "name": "Dhow",
+            "description": {
+                "general": "Pequeña embarcación construida originalmente para cazar animales salvajes a lo largo de ríos y costas."
+            }
+        },
+        "bedar": {
+            "name": "Bedar",
+            "description": {
+                "general": "Pequeña nave maniobrable que puede embestir objetivos y causar daños por inundación."
+            }
+        },
+        "hulk": {
+            "name": "Carraca",
+            "description": {
+                "general": "Más duradera y capaz de soportar daños sostenidos, esta nave está especializada en defenderse del fuego enemigo."
+            }
+        },
+        "cutter": {
+            "name": "Cúter",
+            "description": {
+                "general": "Una nave capaz de apoyar a otras naves en pleno combate."
+            }
+        },
+        "barge": {
+            "name": "Gabarra",
+            "description": {
+                "general": "Una nave especializada en causar daños por fuego y quemaduras, antes de propagar el caos a las naves cercanas."
+            }
+        },
+        "sloop": {
+            "name": "Balandra",
+            "description": {
+                "general": "Con las armas adecuadas, esta nave es capaz de plantar cara a múltiples enemigos."
+            }
+        },
+        "padewakang": {
+            "name": "Padewakang",
+            "description": {
+                "general": "Una nave más grande capaz de enfrentarse a varios enemigos si está bien equipada."
+            }
+        },
+        "snow": {
+            "name": "Esnón",
+            "description": {
+                "general": "Una nave con mayor durabilidad y que resiste en combate. Está especializada en defenderse del fuego enemigo."
+            }
+        },
+        "brigantine": {
+            "name": "Bergantín",
+            "description": {
+                "general": "Una nave veloz capaz de embestir objetivos singulares y causar daños por inundación."
+            }
+        },
+        "sambuk": {
+            "name": "Sambuk",
+            "description": {
+                "general": "Una nave especializada en infligir daño con fuego y quemar a sus objetivos. También puede atacar a varios enemigos muy cerca."
+            }
+        },
+        "barque": {
+            "name": "Bricbarca",
+            "description": {
+                "general": "Una nave que destaca por su capacidad de ayudar a otras naves en peligro realizando reparaciones eficaces."
+            }
+        },
+        "brig": {
+            "name": "Bergantín Redondo",
+            "description": {
+                "general": "Un buque de apoyo que destaca en el despliegue de boyas que pueden decantar la batalla a su favor."
+            }
+        },
+        "battleJunk": {
+            "name": "Junco de batalla",
+            "description": {
+                "general": "Un monstruo resistente adecuado para distraer a los oponentes, resistir el daño y crear oportunidades para que los aliados se enfrenten o escapen"
+            }
+        },
+        "garuda": {
+            "name": "Garuda",
+            "description": {
+                "general": "Una nave rápida y maniobrable que sabe cazar barcos en fuga."
+            }
+        },
+        "schooner": {
+            "name": "Goleta",
+            "description": {
+                "general": "Destaca por sus devastadores ataques de flanco ancho, que convierten cada descarga en una reacción explosiva y causan estragos en las flotas y estructuras de la Isla Roja."
+            }
+        },
+        "frigate": {
+            "name": "Frigate",
+            "description": {
+                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+            }
+        }
+    }
+}
