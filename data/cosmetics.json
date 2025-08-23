@@ -910,9 +910,9 @@
         "type": "wheel",
         "set": "elDorado",
         "effect": "emissive",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","elDoradoCosmeticsChest"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2025-08-23"
     },
     "trophyRack": {
         "id": "trophyRack",
