@@ -11319,7 +11319,7 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": ["smugglerPass","teulingsWeaponChest1"],
+        "obtainable": ["smugglerPass","teulingsWeaponChest1","williamBlackwoodRotatingStore"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -11337,7 +11337,7 @@
             "flooding2"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-08-23"
     },
     "rumFruitcake": {
         "id": "rumFruitcake",
