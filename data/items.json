@@ -6054,6 +6054,7 @@
         "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
         "obtainable": "laPesteStrongbox",
+        "blueprint": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -6063,13 +6064,20 @@
         "reloadSpeed": 7200,
         "projectileSpeed": 350,
         "optimalRange": 1000,
-        "required": {},
+        "required": {
+            "plagueDust": 6,
+            "purifiedSaltpeter": 12,
+            "naphtha": 4,
+            "blightedFuel": 4,
+            "wyrmVolatileNapalm": 2,
+            "silver": 3630
+        },
         "perks": [
             "piercing2",
             "toxic3"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-08-23"
     },
     "theWarhammer": {
         "id": "theWarhammer",
