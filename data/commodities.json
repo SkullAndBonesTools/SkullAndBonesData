@@ -359,5 +359,13 @@
     "mysteriousInsignia": {
         "rarity": "legendary",
         "category": "questItem"
+    },
+    "zhangsPlea": {
+        "rarity": "epic",
+        "category": "questItem"
+    },
+    "seaPeopleTome": {
+        "rarity": "common",
+        "category": "questItem"
     }
 }
