@@ -91,22 +91,22 @@ import fr_ultimates from '../languages/fr/fr_ultimates.json';
 import fr_worldEvents from '../languages/fr/fr_worldEvents.json';
 
 type LanguageData = {
-    achievements: typeof en_achievements;
-    commodities: typeof en_commodities;
-    contracts: typeof en_contracts;
-    cosmetics: typeof en_cosmetics;
-    events: typeof en_events;
-    factions: typeof en_factions;
-    items: typeof en_items;
-    locations: typeof en_locations;
-    materials: typeof en_materials;
-    modifications: typeof en_modifications;
-    perks: typeof en_perks;
-    seasons: typeof en_seasons;
-    sets: typeof en_sets;
-    ships: typeof en_ships;
-    ultimates: typeof en_ultimates;
-    worldEvents: typeof en_worldEvents;
+    achievements: typeof en_achievements.achievements;
+    commodities: typeof en_commodities.commodities;
+    contracts: typeof en_contracts.contracts;
+    cosmetics: typeof en_cosmetics.cosmetics;
+    events: typeof en_events.events;
+    factions: typeof en_factions.factions;
+    items: typeof en_items.items;
+    locations: typeof en_locations.locations;
+    materials: typeof en_materials.materials;
+    modifications: typeof en_modifications.modifications;
+    perks: typeof en_perks.perks;
+    seasons: typeof en_seasons.seasons;
+    sets: typeof en_sets.sets;
+    ships: typeof en_ships.ships;
+    ultimates: typeof en_ultimates.ultimates;
+    worldEvents: typeof en_worldEvents.worldEvents;
 };
 
 type LanguagesType = {
@@ -119,93 +119,93 @@ type LanguagesType = {
 
 export const Languages: LanguagesType = {
     AR: {
-        achievements: ar_achievements,
-        commodities: ar_commodities,
-        contracts: ar_contracts,
-        cosmetics: ar_cosmetics,
-        events: ar_events,
-        factions: ar_factions,
-        items: ar_items,
-        locations: ar_locations,
-        materials: ar_materials,
-        modifications: ar_modifications,
-        perks: ar_perks,
-        seasons: ar_seasons,
-        sets: ar_sets,
-        ships: ar_ships,
-        ultimates: ar_ultimates,
-        worldEvents: ar_worldEvents,
+        achievements: ar_achievements.achievements,
+        commodities: ar_commodities.commodities,
+        contracts: ar_contracts.contracts,
+        cosmetics: ar_cosmetics.cosmetics,
+        events: ar_events.events,
+        factions: ar_factions.factions,
+        items: ar_items.items,
+        locations: ar_locations.locations,
+        materials: ar_materials.materials,
+        modifications: ar_modifications.modifications,
+        perks: ar_perks.perks,
+        seasons: ar_seasons.seasons,
+        sets: ar_sets.sets,
+        ships: ar_ships.ships,
+        ultimates: ar_ultimates.ultimates,
+        worldEvents: ar_worldEvents.worldEvents,
     },
     DE: {
-        achievements: de_achievements,
-        commodities: de_commodities,
-        contracts: de_contracts,
-        cosmetics: de_cosmetics,
-        events: de_events,
-        factions: de_factions,
-        items: de_items,
-        locations: de_locations,
-        materials: de_materials,
-        modifications: de_modifications,
-        perks: de_perks,
-        seasons: de_seasons,
-        sets: de_sets,
-        ships: de_ships,
-        ultimates: de_ultimates,
-        worldEvents: de_worldEvents,
+        achievements: de_achievements.achievements,
+        commodities: de_commodities.commodities,
+        contracts: de_contracts.contracts,
+        cosmetics: de_cosmetics.cosmetics,
+        events: de_events.events,
+        factions: de_factions.factions,
+        items: de_items.items,
+        locations: de_locations.locations,
+        materials: de_materials.materials,
+        modifications: de_modifications.modifications,
+        perks: de_perks.perks,
+        seasons: de_seasons.seasons,
+        sets: de_sets.sets,
+        ships: de_ships.ships,
+        ultimates: de_ultimates.ultimates,
+        worldEvents: de_worldEvents.worldEvents,
     },
     EN: {
-        achievements: en_achievements,
-        commodities: en_commodities,
-        contracts: en_contracts,
-        cosmetics: en_cosmetics,
-        events: en_events,
-        factions: en_factions,
-        items: en_items,
-        locations: en_locations,
-        materials: en_materials,
-        modifications: en_modifications,
-        perks: en_perks,
-        seasons: en_seasons,
-        sets: en_sets,
-        ships: en_ships,
-        ultimates: en_ultimates,
-        worldEvents: en_worldEvents,
+        achievements: en_achievements.achievements,
+        commodities: en_commodities.commodities,
+        contracts: en_contracts.contracts,
+        cosmetics: en_cosmetics.cosmetics,
+        events: en_events.events,
+        factions: en_factions.factions,
+        items: en_items.items,
+        locations: en_locations.locations,
+        materials: en_materials.materials,
+        modifications: en_modifications.modifications,
+        perks: en_perks.perks,
+        seasons: en_seasons.seasons,
+        sets: en_sets.sets,
+        ships: en_ships.ships,
+        ultimates: en_ultimates.ultimates,
+        worldEvents: en_worldEvents.worldEvents,
     },
     ES: {
-        achievements: es_achievements,
-        commodities: es_commodities,
-        contracts: es_contracts,
-        cosmetics: es_cosmetics,
-        events: es_events,
-        factions: es_factions,
-        items: es_items,
-        locations: es_locations,
-        materials: es_materials,
-        modifications: es_modifications,
-        perks: es_perks,
-        seasons: es_seasons,
-        sets: es_sets,
-        ships: es_ships,
-        ultimates: es_ultimates,
-        worldEvents: es_worldEvents,
+        achievements: es_achievements.achievements,
+        commodities: es_commodities.commodities,
+        contracts: es_contracts.contracts,
+        cosmetics: es_cosmetics.cosmetics,
+        events: es_events.events,
+        factions: es_factions.factions,
+        items: es_items.items,
+        locations: es_locations.locations,
+        materials: es_materials.materials,
+        modifications: es_modifications.modifications,
+        perks: es_perks.perks,
+        seasons: es_seasons.seasons,
+        sets: es_sets.sets,
+        ships: es_ships.ships,
+        ultimates: es_ultimates.ultimates,
+        worldEvents: es_worldEvents.worldEvents,
     },
     FR: {
-        achievements: fr_achievements,
-        commodities: fr_commodities,
-        contracts: fr_contracts,
-        cosmetics: fr_cosmetics,
-        events: fr_events,
-        factions: fr_factions,
-        items: fr_items,
-        locations: fr_locations,
-        materials: fr_materials,
-        modifications: fr_modifications,
-        perks: fr_perks,
-        seasons: fr_seasons,
-        sets: fr_sets,
-        ships: fr_ships,
-        ultimates: fr_ultimates,
-        worldEvents: fr_worldEvents,
+        achievements: fr_achievements.achievements,
+        commodities: fr_commodities.commodities,
+        contracts: fr_contracts.contracts,
+        cosmetics: fr_cosmetics.cosmetics,
+        events: fr_events.events,
+        factions: fr_factions.factions,
+        items: fr_items.items,
+        locations: fr_locations.locations,
+        materials: fr_materials.materials,
+        modifications: fr_modifications.modifications,
+        perks: fr_perks.perks,
+        seasons: fr_seasons.seasons,
+        sets: fr_sets.sets,
+        ships: fr_ships.ships,
+        ultimates: fr_ultimates.ultimates,
+        worldEvents: fr_worldEvents.worldEvents,
     },
 };
