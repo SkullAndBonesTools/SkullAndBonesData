@@ -2579,6 +2579,42 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
             }
+        },
+        "freemansLetter": {
+            "name": "Freeman's Letter",
+            "description": {
+                "general": "A letter bearing good tidings, penned by the infamous Captain Uricko Freeman himself."
+            }
+        },
+        "hubacShipComponents": {
+            "name": "Hubac Ship Components",
+            "description": {
+                "general": "The metal shimmers under the sun, as though it feels itself comprised of a special blend of materials. Definitely Hubac in origin."
+            }
+        },
+        "mysteriousInsignia": {
+            "name": "Mysterious Insignia",
+            "description": {
+                "general": "A token etched with an unfamiliar insignia, found with a letter addressed to the Hubac Twins. Its mark is tied to a shadowy figure supplying weapons to the megacorporations."
+            }
+        },
+        "zhangsPlea": {
+            "name": "Zhang's Plea",
+            "description": {
+                "general": "A letter from Commander Zhang to Li Tian Ning seemingly before they arrived in the Indian Ocean."
+            }
+        },
+        "seaPeopleTome": {
+            "name": "Sea People Tome",
+            "description": {
+                "general": "The translated text details an ancient ritual that might be able to weaken Vikram's shadowy influence."
+            }
+        },
+        "shadowbeastsHorn": {
+            "name": "Shadowbeast's Horn",
+            "description": {
+                "general": "A horn of a great, celestial creature"
+            }
         }
     }
 }

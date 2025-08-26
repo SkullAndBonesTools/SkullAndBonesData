@@ -2579,6 +2579,42 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
             }
+        },
+        "freemansLetter": {
+            "name": "Freemans Brief",
+            "description": {
+                "general": "Ein Brief mit guten Nachrichten, verfasst vom berüchtigten Kapitän Uricko Freeman höchstselbst."
+            }
+        },
+        "hubacShipComponents": {
+            "name": "Hubac-Schiffsteile",
+            "description": {
+                "general": "Das Metall funkelt in der Sonne, als würde es spüren, dass es aus einer besonderen Mischung von Materialien besteht. Eindeutig aus Hubac-Hand."
+            }
+        },
+        "mysteriousInsignia": {
+            "name": "Geheimnisvolle Insigne",
+            "description": {
+                "general": "Ein Zeichen, in das ein unbekannte Insigne eingeätzt wurde. Es wurde zusammen mit einem Brief an die Hubac-Zwillinge gefunden. Das Siegel darauf deutet auf eine zwielichtige Gestalt hin, die die Kompanien mit Waffen versorgt."
+            }
+        },
+        "zhangsPlea": {
+            "name": "Zhangs Bitte",
+            "description": {
+                "general": "Ein Brief von Kommandant Zhang an Li Tian Ning, offenbar aus der Zeit, bevor sie den Indischen Ozean erreichten."
+            }
+        },
+        "seaPeopleTome": {
+            "name": "Grimoire des Seevolks",
+            "description": {
+                "general": "Der übersetzte Text beschreibt ein altes Ritual, mit dem sich Vikrams schattenhafter Einfluss schwächen lassen könnte."
+            }
+        },
+        "shadowbeastsHorn": {
+            "name": "Shadowbeast's Horn",
+            "description": {
+                "general": "A horn of a great, celestial creature"
+            }
         }
     }
 }
