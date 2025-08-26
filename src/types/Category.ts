@@ -1,5 +1,5 @@
 export const CommodityCategories = [
-    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique", "questItem"
+    "localFaction", "megacorp", "kingpin", "theHelm", "summoningBell", "unique"
 ] as const;
 export type CommodityCategory = (typeof CommodityCategories)[number];
 export const MaterialCategories = [
