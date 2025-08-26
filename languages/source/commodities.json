@@ -283,26 +283,6 @@
         "grainFlare": {
             "name": "Grain Flare",
             "description": "Sorghum packed with explosive materials, tightly woven into a singular piece. Setting this off brings about the wrath of the Moonshiners."
-        },
-        "freemansLetter": {
-            "name": "Freeman's Letter",
-            "description": "A letter bearing good tidings, penned by the infamous Captain Uricko Freeman himself."
-        },
-        "hubacShipComponents": {
-            "name": "Hubac Ship Components",
-            "description": "The metal shimmers under the sun, as though it feels itself comprised of a special blend of materials. Definitely Hubac in origin."
-        },
-        "mysteriousInsignia": {
-            "name": "Mysterious Insignia",
-            "description": "A token etched with an unfamiliar insignia, found with a letter addressed to the Hubac Twins. Its mark is tied to a shadowy figure supplying weapons to the megacorporations."
-        },
-        "zhangsPlea": {
-            "name": "Zhang's Plea",
-            "description": "A letter from Commander Zhang to Li Tian Ning seemingly before they arrived in the Indian Ocean."
-        },
-        "seaPeopleTome": {
-            "name": "Sea People Tome",
-            "description": "The translated text details an ancient ritual that might be able to weaken Vikram's shadowy influence."
         }
     }
 }

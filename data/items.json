@@ -14255,5 +14255,47 @@
         "weight": 100,
         "dateAdded": "2025-08-19",
         "lastUpdated": "2025-08-19"
+    },
+    "freemansLetter": {
+        "id": "freemansLetter",
+        "rarity": "common",
+        "type": "quest",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
+    },
+    "hubacShipComponents": {
+        "id": "hubacShipComponents",
+        "rarity": "common",
+        "type": "quest",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
+    },
+    "mysteriousInsignia": {
+        "id": "mysteriousInsignia",
+        "rarity": "legendary",
+        "type": "quest",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
+    },
+    "zhangsPlea": {
+        "id": "zhangsPlea",
+        "rarity": "epic",
+        "type": "quest",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
+    },
+    "seaPeopleTome": {
+        "id": "seaPeopleTome",
+        "rarity": "common",
+        "type": "quest",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
+    },
+    "shadowbeastsHorn": {
+        "id": "shadowbeastsHorn",
+        "rarity": "common",
+        "type": "contract",
+        "dateAdded": "2025-08-26",
+        "lastUpdated": "2025-08-26"
     }
 }
