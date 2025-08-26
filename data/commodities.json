@@ -347,5 +347,17 @@
         "rarity": "epic",
         "category": "summoningBell",
         "event": "moonshineLarceny"
+    },
+    "freemansLetter": {
+        "rarity": "common",
+        "category": "questItem"
+    },
+    "hubacShipComponents": {
+        "rarity": "common",
+        "category": "questItem"
+    },
+    "mysteriousInsignia": {
+        "rarity": "legendary",
+        "category": "questItem"
     }
 }
