@@ -25694,5 +25694,21 @@
         "set": "cardsOfFate",
         "dateAdded": "2025-08-19",
         "lastUpdated": "2025-08-19"
+    },
+    "hellbentHellfest": {
+        "id": "hellbentHellfest",
+        "type": "sailsEmblem",
+        "set": "hellfestShip",
+        "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+        "dateAdded": "2025-08-28",
+        "lastUpdated": "2025-08-28"
+    },
+    "flamesOfTheStyx": {
+        "id": "flamesOfTheStyx",
+        "type": "sailsPattern",
+        "set": "hellfestShip",
+        "obtainable": ["ubisoftStore","hellfestShipCosmeticsChest"],
+        "dateAdded": "2025-08-28",
+        "lastUpdated": "2025-08-28"
     }
 }
