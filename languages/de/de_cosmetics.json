@@ -17957,6 +17957,18 @@
             "description": {
                 "general": "\"Mögen die jenseitigen Mächte uns begünstigen.\""
             }
+        },
+        "hellbentHellfest": {
+            "name": "Hellbent",
+            "description": {
+                "general": "Hellbent on your foes feasting in hell"
+            }
+        },
+        "flamesOfTheStyx": {
+            "name": "Flames of the Styx",
+            "description": {
+                "general": "Swim across the waves, keeping the banished beneath"
+            }
         }
     }
 }
