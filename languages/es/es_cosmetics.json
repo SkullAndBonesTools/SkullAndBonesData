@@ -17957,6 +17957,18 @@
             "description": {
                 "general": "\"May the forces above favor us.\""
             }
+        },
+        "hellbentHellfest": {
+            "name": "Hellbent",
+            "description": {
+                "general": "Hellbent on your foes feasting in hell"
+            }
+        },
+        "flamesOfTheStyx": {
+            "name": "Flames of the Styx",
+            "description": {
+                "general": "Swim across the waves, keeping the banished beneath"
+            }
         }
     }
 }
