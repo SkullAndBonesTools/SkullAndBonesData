@@ -2639,6 +2639,12 @@
             "description": {
                 "general": "A crude but effective workshop where taunts are stenciled in blood and sand. Strengthens brace and further enrages enemies to attack."
             }
+        },
+        "counterthrustLocker": {
+            "name": "Counterthrust Locker",
+            "description": {
+                "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
+            }
         }
     }
 }

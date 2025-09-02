@@ -2819,6 +2819,14 @@
                     "Reduces Crew Stamina Depletion while Bracing by 14%"
                 ]
             }
+        },
+        "counterthrustLocker": {
+            "description": {
+                "general": [
+                    "After ramming a target, increases Acceleration by 300% for 5s",
+                    "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
+                ]
+            }
         }
     }
 }

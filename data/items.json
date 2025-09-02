@@ -14361,5 +14361,22 @@
         ],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "counterthrustLocker": {
+        "id": "counterthrustLocker",
+        "type": "utilityFurniture",
+        "rarity": "rare",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 80,
+        "gearScore": 20,
+        "event": "darktideLullaby",
+        "required": {},
+        "obtainable": "darktideAltarTelokPenjarah",
+        "perks": [
+            "counterthrustLocker"
+        ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }
