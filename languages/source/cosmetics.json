@@ -17970,6 +17970,30 @@
                 "general": "Swim across the waves, keeping the banished beneath"
             }
         },
+        "rattleTheBars": {
+            "name": "Rattle the Bars",
+            "description": {
+                "general": "Chaos reigns in your soul"
+            }
+        },
+        "ironTang": {
+            "name": "Iron Tang",
+            "description": {
+                "general": "Your bloodlust is known to all"
+            }
+        },
+        "stingingSun": {
+            "name": "Stinging Sun",
+            "description": {
+                "general": "\"String 'em up, and let 'em burn and rot!\""
+            }
+        },
+        "freeRein": {
+            "name": "Free Rein",
+            "description": {
+                "general": "\"Make no mistake, the seas are my domain.\""
+            }
+        },
         "soulSpurned": {
             "name": "Soul Spurned",
             "description": {

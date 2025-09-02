@@ -25714,7 +25714,7 @@
     "rattleTheBars": {
         "id": "rattleTheBars",
         "type": "sailsPattern",
-        "set": "",
+        "set": "cagedFury",
         "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
@@ -25722,7 +25722,7 @@
     "ironTang": {
         "id": "ironTang",
         "type": "sailsColor",
-        "set": "",
+        "set": "cagedFury",
         "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
@@ -25730,7 +25730,7 @@
     "stingingSun": {
         "id": "stingingSun",
         "type": "hull",
-        "set": "",
+        "set": "cagedFury",
         "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
@@ -25738,7 +25738,7 @@
     "freeRein": {
         "id": "freeRein",
         "type": "sailsEmblem",
-        "set": "",
+        "set": "cagedFury",
         "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"

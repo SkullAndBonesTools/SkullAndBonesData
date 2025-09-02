@@ -1322,5 +1322,9 @@
     "darktideMother": {
         "id": "darktideMother",
         "type": "ship"
+    },
+    "cagedFury": {
+        "id": "cagedFury",
+        "type": "ship"
     }
 }
