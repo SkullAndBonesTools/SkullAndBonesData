@@ -14297,5 +14297,69 @@
         "type": "contract",
         "dateAdded": "2025-08-26",
         "lastUpdated": "2025-08-26"
+    },
+    "royalSterilizationTent": {
+        "id": "royalSterilizationTent",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+        "perks": [
+            "royalSterilizationTent"
+        ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "atelierDeCuivrage": {
+        "id": "atelierDeCuivrage",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+        "perks": [
+            "atelierDeCuivrage"
+        ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "rampantCarriageHold": {
+        "id": "rampantCarriageHold",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+        "perks": [
+            "rampantCarriageHold"
+        ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "sandbagPaintingStation": {
+        "id": "sandbagPaintingStation",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStoreOathsOfWar",
+        "perks": [
+            "sandbagPaintingStation"
+        ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }
