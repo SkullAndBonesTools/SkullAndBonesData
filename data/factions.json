@@ -126,5 +126,11 @@
         "firstAppearingSeason": "oathsOfWar",
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "weepingSpecters": {
+        "id": "weepingSpecters",
+        "firstAppearingSeason": "oathsOfWar",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }
