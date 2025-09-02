@@ -25885,5 +25885,104 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "fuluCap": {
+        "id": "fuluCap",
+        "type": "headwear",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "lastOfQi": {
+        "id": "lastOfQi",
+        "type": "faceAccessory",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "mirroredGaze": {
+        "id": "mirroredGaze",
+        "type": "eyeColor",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "stiffenedTunic": {
+        "id": "stiffenedTunic",
+        "type": "torso",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "soulsOfThePo": {
+        "id": "soulsOfThePo",
+        "type": "neck",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "laidToRestTooFarFromALovedOne": {
+        "id": "laidToRestTooFarFromALovedOne",
+        "type": "forearm",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "holdOnesBreath": {
+        "id": "holdOnesBreath",
+        "type": "waist",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "earthlyWraps": {
+        "id": "earthlyWraps",
+        "type": "hand",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "improperBurial": {
+        "id": "improperBurial",
+        "type": "bottom",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "trampledOfferings": {
+        "id": "trampledOfferings",
+        "type": "footwear",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "rigorMortis": {
+        "id": "rigorMortis",
+        "type": "bodyCosmetics",
+        "event": "darktideLullaby",
+        "set": "creatureOfNight",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }

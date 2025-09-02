@@ -18089,6 +18089,72 @@
             "description": {
                 "general": "Peaceful traits to you, Captain"
             }
+        },
+        "fuluCap": {
+            "name": "Fulu Cap",
+            "description": {
+                "general": "One little paper scroll won't stop you..."
+            }
+        },
+        "lastOfQi": {
+            "name": "Last of Qi",
+            "description": {
+                "general": "All life shall be yours to consume"
+            }
+        },
+        "mirroredGaze": {
+            "name": "Mirrored Gaze",
+            "description": {
+                "general": "Your victims shall look upon hell itself"
+            }
+        },
+        "stiffenedTunic": {
+            "name": "Stiffened Tunic",
+            "description": {
+                "general": "\" I swear I'm not hopping on purpose.\""
+            }
+        },
+        "soulsOfThePo": {
+            "name": "Souls of the Po",
+            "description": {
+                "general": "Earthly spirits grant you a last breath of vengeance"
+            }
+        },
+        "laidToRestTooFarFromALovedOne": {
+            "name": "Laid to rest too far from a loved one",
+            "description": {
+                "general": "corpse Drivers"
+            }
+        },
+        "holdOnesBreath": {
+            "name": "Hold One's Breath",
+            "description": {
+                "general": "Your victims will try to withhold their essence"
+            }
+        },
+        "earthlyWraps": {
+            "name": "Earthly Wraps",
+            "description": {
+                "general": "May the Heavenly Official pardon your foes"
+            }
+        },
+        "improperBurial": {
+            "name": "Improper Burial",
+            "description": {
+                "general": "\"The fools tried to bury me under a cherry tree.\""
+            }
+        },
+        "trampledOfferings": {
+            "name": "Trampled Offerings",
+            "description": {
+                "general": "\"Whoever stepped on my mandarins deserves death.\""
+            }
+        },
+        "rigorMortis": {
+            "name": "Rigor Mortis",
+            "description": {
+                "general": "The body melts away; the hunger comes"
+            }
         }
     }
 }

@@ -1326,5 +1326,9 @@
     "cagedFury": {
         "id": "cagedFury",
         "type": "ship"
+    },
+    "creatureOfNight": {
+        "id": "creatureOfNight",
+        "type": "player"
     }
 }
