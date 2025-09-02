@@ -1330,5 +1330,9 @@
     "creatureOfNight": {
         "id": "creatureOfNight",
         "type": "player"
+    },
+    "paleMother": {
+        "id": "paleMother",
+        "type": "ship"
     }
 }
