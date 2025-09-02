@@ -1334,5 +1334,9 @@
     "paleMother": {
         "id": "paleMother",
         "type": "ship"
+    },
+    "xianYuan": {
+        "id": "xianYuan",
+        "type": "ship"
     }
 }

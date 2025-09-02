@@ -18161,6 +18161,42 @@
             "description": {
                 "general": "\"The sea does not forget, and neither shall we.\""
             }
+        },
+        "corruptedTribute": {
+            "name": "Corrupted Tribute",
+            "description": {
+                "general": "You are a favorite of the deities feared by all others"
+            }
+        },
+        "brinedInBlood": {
+            "name": "Brined In Blood",
+            "description": {
+                "general": "Your ship sees more blood than seawater"
+            }
+        },
+        "hellsGold": {
+            "name": "Hell's Gold",
+            "description": {
+                "general": "May your ill-gotten gains follow you to the afterlife"
+            }
+        },
+        "ritualCompass": {
+            "name": "Ritual Compass",
+            "description": {
+                "general": "More an unholy shrine than a guiding mechanism"
+            }
+        },
+        "deathCouplets": {
+            "name": "Death Couplets",
+            "description": {
+                "general": "Send your foes to the many courts of hell"
+            }
+        },
+        "voraciousDead": {
+            "name": "Voracious Dead",
+            "description": {
+                "general": "A figure from Eastern legend seeking victims to devour"
+            }
         }
     }
 }

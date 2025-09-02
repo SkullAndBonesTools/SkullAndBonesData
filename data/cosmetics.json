@@ -25764,6 +25764,7 @@
         "id": "corpseDriven",
         "type": "crewLook",
         "event": "darktideLullaby",
+        "set": "xianYuan",
         "obtainable": "premiumEventPass",
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
@@ -25996,6 +25997,55 @@
         "effect": "bossKillReactive",
         "season": "oathsOfWar",
         "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "corruptedTribute": {
+        "id": "corruptedTribute",
+        "type": "trophy",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "brinedInBlood": {
+        "id": "brinedInBlood",
+        "type": "hull",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "hellsGold": {
+        "id": "hellsGold",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "ritualCompass": {
+        "id": "ritualCompass",
+        "type": "helmDecor",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "deathCouplets": {
+        "id": "deathCouplets",
+        "type": "sailsPattern",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "voraciousDead": {
+        "id": "voraciousDead",
+        "type": "sailsEmblem",
+        "event": "darktideLullaby",
+        "set": "xianYuan",
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
     }
