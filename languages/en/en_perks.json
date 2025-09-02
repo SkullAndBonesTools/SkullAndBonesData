@@ -2784,6 +2784,49 @@
             "description": {
                 "1": "Increases Acceleration by 26%"
             }
+        },
+        "royalSterilizationTent": {
+            "description": {
+                "general": [
+                    "Increases Repair Amount of weapons by 21% for targets below 70% Hull Health",
+                    "1% of Repair Amount also restores 0.1% Crew Stamina to the target",
+                    "Reduces Reload Time of Repair Weapons by 11%"
+                ]
+            }
+        },
+        "atelierDeCuivrage": {
+            "description": {
+                "general": [
+                    "While above 50% Hull Health, reduces incoming Secondary Damage by 24%, and increases Threat Generation by 15% and weapon damage by 10%",
+                    "Increases Armor Rating of equipped armor by 100"
+                ]
+            }
+        },
+        "rampantCarriageHold": {
+            "description": {
+                "general": [
+                    "After 10 consecutive hits on targets, applies the Sea's Roar status effect to your ship and the nearest ally within 150m. Missing a shots resets the counter",
+                    "Sea's Roar increases the Secondary Damage dealt by 17% and reduces incoming Secondary Damage by 15% for 17s",
+                    "Decreases Reload Time of Weapons by 7%"
+                ]
+            }
+        },
+        "sandbagPaintingStation": {
+            "description": {
+                "general": [
+                    "After receiving 12 hits, gains the Sea's Ward status effect for 30s, with a cooldown of 60s",
+                    "Sea's Ward increases Brace Strength by 18%. 3% of weapon damage builds up the Taunted status effect on enemies",
+                    "Reduces Crew Stamina Depletion while Bracing by 14%"
+                ]
+            }
+        },
+        "counterthrustLocker": {
+            "description": {
+                "general": [
+                    "After ramming a target, increases Acceleration by 300% for 5s",
+                    "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
+                ]
+            }
         }
     }
 }

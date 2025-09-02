@@ -2615,6 +2615,66 @@
             "description": {
                 "general": "A horn of a great, celestial creature"
             }
+        },
+        "royalSterilizationTent": {
+            "name": "Royal Sterilization Tent",
+            "description": {
+                "general": "Equipped with antiseptics and surgical tools of Compagnie design, this station restores Crew Stamina and enables faster repairs."
+            }
+        },
+        "atelierDeCuivrage": {
+            "name": "Atelier de Cuivrage",
+            "description": {
+                "general": "Reinforces the hull with finely hammered copper plating, reducing damage from elemental ammunition and easing the strain when Bracing against enemy fire."
+            }
+        },
+        "rampantCarriageHold": {
+            "name": "Rampant Carriage Hold",
+            "description": {
+                "general": "Outfitted with reinforced carriages and specialized plating, this station amplifies elemental damage dealt while reducing incoming elemental effects."
+            }
+        },
+        "sandbagPaintingStation": {
+            "name": "Sandbag Painting Station",
+            "description": {
+                "general": "A crude but effective workshop where taunts are stenciled in blood and sand. Strengthens brace and further enrages enemies to attack."
+            }
+        },
+        "counterthrustLocker": {
+            "name": "Counterthrust Locker",
+            "description": {
+                "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
+            }
+        },
+        "darktideChest": {
+            "name": "Darktide Chest",
+            "description": {
+                "general": "A waterlogged chest from the drowned depths."
+            }
+        },
+        "ascendedHellgateSerpentChest": {
+            "name": "Ascended Hellgate Serpent Chest",
+            "description": {
+                "general": "Contains an Ascended Hellgate Serpent"
+            }
+        },
+        "ascendedDarktideLullabyEventCache": {
+            "name": "Ascended Event Cache (Darktide Lullaby)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
+        },
+        "contractCache": {
+            "name": "Contract Cache",
+            "description": {
+                "general": "A beginner's cache of basic contracts"
+            }
+        },
+        "advancedContractCache": {
+            "name": "Advanced Contract Cache",
+            "description": {
+                "general": "A cache of treasures for those who have proven their worth on the high seas"
+            }
         }
     }
 }

@@ -17969,6 +17969,234 @@
             "description": {
                 "general": "Swim across the waves, keeping the banished beneath"
             }
+        },
+        "rattleTheBars": {
+            "name": "Rattle the Bars",
+            "description": {
+                "general": "Chaos reigns in your soul"
+            }
+        },
+        "ironTang": {
+            "name": "Iron Tang",
+            "description": {
+                "general": "Your bloodlust is known to all"
+            }
+        },
+        "stingingSun": {
+            "name": "Stinging Sun",
+            "description": {
+                "general": "\"String 'em up, and let 'em burn and rot!\""
+            }
+        },
+        "freeRein": {
+            "name": "Free Rein",
+            "description": {
+                "general": "\"Make no mistake, the seas are my domain.\""
+            }
+        },
+        "soulSpurned": {
+            "name": "Soul Spurned",
+            "description": {
+                "general": "The spirits would drag you to hell if they could"
+            }
+        },
+        "tali": {
+            "name": "Tali",
+            "description": {
+                "general": "Eyes like lanterns adrift, a little from near offerings for lost souls"
+            }
+        },
+        "corpseDriven": {
+            "name": "Corpse Driven",
+            "description": {
+                "general": "Even in death, they labor for your cause"
+            }
+        },
+        "iHunt": {
+            "name": "I Hunt",
+            "description": {
+                "general": "\"Those who wronged us shall never know peace.\""
+            }
+        },
+        "iYearn": {
+            "name": "I Yearn",
+            "description": {
+                "general": "\"When will I see my flesh and blood once more?\""
+            }
+        },
+        "iVow": {
+            "name": "I Vow",
+            "description": {
+                "general": "\"Let my song consume the wicked.\""
+            }
+        },
+        "iSing": {
+            "name": "I Sing",
+            "description": {
+                "general": "\"It is all I know. All I remember.\""
+            }
+        },
+        "elusiveRest": {
+            "name": "Elusive Rest",
+            "description": {
+                "general": "Some threads cannot be broken"
+            }
+        },
+        "scribblesOfHope": {
+            "name": "Scribbles of Hope",
+            "description": {
+                "general": "Offer respect and seek peace"
+            }
+        },
+        "toPieces": {
+            "name": "To Pieces",
+            "description": {
+                "general": "Like the blood of one who leapt to their death among the rocks and waves"
+            }
+        },
+        "sheWhoWeeps": {
+            "name": "She Who Weeps",
+            "description": {
+                "general": "Honoring a tragic figure, and a tale of love and loss"
+            }
+        },
+        "mothersComforts": {
+            "name": "Mother's Comforts",
+            "description": {
+                "general": "Wards to protect against cursed seas"
+            }
+        },
+        "driftingSong": {
+            "name": "Drifting Song",
+            "description": {
+                "general": "Nothing remains but grief and hatred"
+            }
+        },
+        "mortalOne": {
+            "name": "Mortal One",
+            "description": {
+                "general": "Avenge or annihilate. The choice is yours."
+            }
+        },
+        "disturbUsNot": {
+            "name": "Disturb Us Not",
+            "description": {
+                "general": "Appease the restless spirits or regret it"
+            }
+        },
+        "soothingSmoke": {
+            "name": "Soothing Smoke",
+            "description": {
+                "general": "Peaceful traits to you, Captain"
+            }
+        },
+        "fuluCap": {
+            "name": "Fulu Cap",
+            "description": {
+                "general": "One little paper scroll won't stop you..."
+            }
+        },
+        "lastOfQi": {
+            "name": "Last of Qi",
+            "description": {
+                "general": "All life shall be yours to consume"
+            }
+        },
+        "mirroredGaze": {
+            "name": "Mirrored Gaze",
+            "description": {
+                "general": "Your victims shall look upon hell itself"
+            }
+        },
+        "stiffenedTunic": {
+            "name": "Stiffened Tunic",
+            "description": {
+                "general": "\" I swear I'm not hopping on purpose.\""
+            }
+        },
+        "soulsOfThePo": {
+            "name": "Souls of the Po",
+            "description": {
+                "general": "Earthly spirits grant you a last breath of vengeance"
+            }
+        },
+        "laidToRestTooFarFromALovedOne": {
+            "name": "Laid to rest too far from a loved one",
+            "description": {
+                "general": "corpse Drivers"
+            }
+        },
+        "holdOnesBreath": {
+            "name": "Hold One's Breath",
+            "description": {
+                "general": "Your victims will try to withhold their essence"
+            }
+        },
+        "earthlyWraps": {
+            "name": "Earthly Wraps",
+            "description": {
+                "general": "May the Heavenly Official pardon your foes"
+            }
+        },
+        "improperBurial": {
+            "name": "Improper Burial",
+            "description": {
+                "general": "\"The fools tried to bury me under a cherry tree.\""
+            }
+        },
+        "trampledOfferings": {
+            "name": "Trampled Offerings",
+            "description": {
+                "general": "\"Whoever stepped on my mandarins deserves death.\""
+            }
+        },
+        "rigorMortis": {
+            "name": "Rigor Mortis",
+            "description": {
+                "general": "The body melts away; the hunger comes"
+            }
+        },
+        "mournTheLost": {
+            "name": "Mourn The Lost",
+            "description": {
+                "general": "\"The sea does not forget, and neither shall we.\""
+            }
+        },
+        "corruptedTribute": {
+            "name": "Corrupted Tribute",
+            "description": {
+                "general": "You are a favorite of the deities feared by all others"
+            }
+        },
+        "brinedInBlood": {
+            "name": "Brined In Blood",
+            "description": {
+                "general": "Your ship sees more blood than seawater"
+            }
+        },
+        "hellsGold": {
+            "name": "Hell's Gold",
+            "description": {
+                "general": "May your ill-gotten gains follow you to the afterlife"
+            }
+        },
+        "ritualCompass": {
+            "name": "Ritual Compass",
+            "description": {
+                "general": "More an unholy shrine than a guiding mechanism"
+            }
+        },
+        "deathCouplets": {
+            "name": "Death Couplets",
+            "description": {
+                "general": "Send your foes to the many courts of hell"
+            }
+        },
+        "voraciousDead": {
+            "name": "Voracious Dead",
+            "description": {
+                "general": "A figure from Eastern legend seeking victims to devour"
+            }
         }
     }
 }

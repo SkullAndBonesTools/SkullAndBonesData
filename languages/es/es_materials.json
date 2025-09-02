@@ -44,6 +44,10 @@
             "name": "Doblón ensangrentado",
             "description": ""
         },
+        "heartfeltWish": {
+            "name": "Heartfelt Wish",
+            "description": "An amulet made by a loving parent to be passed to a child filled with their wishes for safety and happiness."
+        },
         "illicitMoonshine": {
             "name": "Illicit Moonshine",
             "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."

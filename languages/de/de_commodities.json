@@ -283,6 +283,10 @@
         "grainFlare": {
             "name": "Getreide-Leuchtsignal",
             "description": "Enthält dicht gepacktes und mit explosiven Materialien vermengtes Sorghum. Dieses Feuerwerk zu zünden, wird die Schwarzbrenner erzürnen."
+        },
+        "jasmineIncenseFlare": {
+            "name": "Jasmine Incense Flare",
+            "description": "When lit, it gives off a sickly yet pleasant aroma."
         }
     }
 }
