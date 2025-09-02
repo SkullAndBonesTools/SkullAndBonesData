@@ -62,6 +62,9 @@
         },
         "scurlocksRogues": {
             "name": "Scurlocks Abtrünnige"
+        },
+        "weepingSpecters": {
+            "name": "Weeping Specters"
         }
     }
 }
