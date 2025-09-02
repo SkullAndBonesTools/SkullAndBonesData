@@ -230,6 +230,7 @@
         "defeatMegafortWolvenhol": "Obtained when defeating the DMC Megafort Wolvenhol",
         "twitchDropDeathwish": "Time-limited twitch drop during a livestream from D3ATHWISH",
         "twitchDropDarktidesLullabyRelease": "Twitch Drop for the release of the Darktide Lullaby event",
+        "eventPass": "Event Pass",
         "premiumEventPass": "Premium Event Pass"
     }
 }

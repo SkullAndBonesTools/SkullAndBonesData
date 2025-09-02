@@ -17969,6 +17969,48 @@
             "description": {
                 "general": "Swim across the waves, keeping the banished beneath"
             }
+        },
+        "soulSpurned": {
+            "name": "Soul Spurned",
+            "description": {
+                "general": "The spirits would drag you to hell if they could"
+            }
+        },
+        "tali": {
+            "name": "Tali",
+            "description": {
+                "general": "Eyes like lanterns adrift, a little from near offerings for lost souls"
+            }
+        },
+        "corpseDriven": {
+            "name": "Corpse Driven",
+            "description": {
+                "general": "Even in death, they labor for your cause"
+            }
+        },
+        "iHunt": {
+            "name": "I Hunt",
+            "description": {
+                "general": "\"Those who wronged us shall never know peace.\""
+            }
+        },
+        "iYearn": {
+            "name": "I Yearn",
+            "description": {
+                "general": "\"When will I see my flesh and blood once more?\""
+            }
+        },
+        "iVow": {
+            "name": "I Vow",
+            "description": {
+                "general": "\"Let my song consume the wicked.\""
+            }
+        },
+        "iSing": {
+            "name": "I Sing",
+            "description": {
+                "general": "\"It is all I know. All I remember.\""
+            }
         }
     }
 }

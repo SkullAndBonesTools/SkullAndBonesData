@@ -25742,5 +25742,63 @@
         "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "soulSpurned": {
+        "id": "soulSpurned",
+        "type": "shipSkin",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "tali": {
+        "id": "tali",
+        "type": "pet",
+        "event": "darktideLullaby",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "corpseDriven": {
+        "id": "corpseDriven",
+        "type": "crewLook",
+        "event": "darktideLullaby",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "iHunt": {
+        "id": "iHunt",
+        "type": "hull",
+        "event": "darktideLullaby",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "iYearn": {
+        "id": "iYearn",
+        "type": "sailsPattern",
+        "event": "darktideLullaby",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "iVow": {
+        "id": "iVow",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "iSing": {
+        "id": "iSing",
+        "type": "sailsEmblem",
+        "event": "darktideLullaby",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }
