@@ -25984,5 +25984,15 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "mournTheLost": {
+        "id": "mournTheLost",
+        "type": "aura",
+        "event": "darktideLullaby",
+        "effect": "bossKillReactive",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }

@@ -18155,6 +18155,12 @@
             "description": {
                 "general": "The body melts away; the hunger comes"
             }
+        },
+        "mournTheLost": {
+            "name": "Mourn The Lost",
+            "description": {
+                "general": "\"The sea does not forget, and neither shall we.\""
+            }
         }
     }
 }
