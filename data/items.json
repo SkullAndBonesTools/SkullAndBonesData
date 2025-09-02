@@ -9000,7 +9000,7 @@
         "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
-        "events": ["dragonsRegatta","darktideLullaby"],
+        "event": ["dragonsRegatta","darktideLullaby"],
         "worldEvent": "theWeepingMother",
         "obtainable": [
             "regattaChest",
