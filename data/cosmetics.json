@@ -25745,7 +25745,7 @@
     },
     "soulSpurned": {
         "id": "soulSpurned",
-        "type": "shipSkin",
+        "type": "armorSkin",
         "effect": "emissive",
         "event": "darktideLullaby",
         "obtainable": "premiumEventPass",
