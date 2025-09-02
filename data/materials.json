@@ -78,6 +78,11 @@
         "category": "currency",
         "event": "theHonorless"
     },
+    "heartfeltWish": {
+        "rarity": "epic",
+        "category": "currency",
+        "event": "darktideLullaby"
+    },
     "jute": {
         "rarity": "common",
         "category": "raw"
