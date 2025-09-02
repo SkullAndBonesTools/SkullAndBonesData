@@ -956,7 +956,7 @@
         "id": "deadlyStrike",
         "variants": [
             {
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","ballista"],
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","ballista","springloader"],
                 "range": [0.3, 0.5]
             }
         ],
