@@ -9000,7 +9000,8 @@
         "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
-        "event": "dragonsRegatta",
+        "events": ["dragonsRegatta","darktideLullaby"],
+        "worldEvent": "theWeepingMother",
         "obtainable": [
             "regattaChest",
             "regattaContractReward"
@@ -9010,7 +9011,7 @@
             "zongZi"
         ],
         "dateAdded": "2024-07-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-02"
     },
     "teulingsSpecialSteakDinner": {
         "id": "teulingsSpecialSteakDinner",
