@@ -2645,6 +2645,24 @@
             "description": {
                 "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
             }
+        },
+        "darktideChest": {
+            "name": "Darktide Chest",
+            "description": {
+                "general": "A waterlogged chest from the drowned depths."
+            }
+        },
+        "ascendedHellgateSerpentChest": {
+            "name": "Ascended Hellgate Serpent Chest",
+            "description": {
+                "general": "Contains an Ascended Hellgate Serpent"
+            }
+        },
+        "ascendedDarktideLullabyEventCache": {
+            "name": "Ascended Event Cache (Darktide Lullaby)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
         }
     }
 }

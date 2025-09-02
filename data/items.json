@@ -10757,11 +10757,13 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "event": ["enterTheNian","moonshineLarceny"],
+        "event": ["enterTheNian","moonshineLarceny","darktideLullaby"],
         "obtainable": [
             "idolOfTheBeastStatue",
             "nianStrongbox",
-            "ascendedEventCache"
+            "ascendedEventCache",
+            "darktideAltarTelokPenjarah",
+            "ascendedDarktideLullabyEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -10778,7 +10780,7 @@
             "explosive1"
         ],
         "dateAdded": "2025-01-14",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-09-02"
     },
     "agnisFury": {
         "id": "agnisFury",
@@ -11298,9 +11300,11 @@
         "obtainable": [
             "azureStrongbox",
             "azuriteLodestoneSaintAnne",
-            "ascendedEventCache"
+            "ascendedEventCache",
+            "darktideAltarTelokPenjarah",
+            "ascendedDarktideLullabyEventCache"
         ],
-        "event": ["azureSolstice","moonshineLarceny"],
+        "event": ["azureSolstice","moonshineLarceny","darktideLullaby"],
         "worldEvent": "theAzureRoyale",
         "value": 1,
         "weight": 500,
@@ -11311,16 +11315,13 @@
         "reloadSpeed": 7200,
         "optimalRange": 1000,
         "projectileSpeed": 350,
-        "required": {
-            "azuriteGem": 600
-        },
         "perks": [
             "ghostlyMending",
             "burning2",
             "piercing1"
         ],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-09-02"
     },
     "dahaaka": {
         "id": "dahaaka",
@@ -11969,7 +11970,7 @@
         "type": "bombard",
         "rarity": "epic",
         "season": "ascentIntoChaos",
-        "event": ["theHonorless","moonshineLarceny"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -11983,7 +11984,9 @@
         "obtainable": [
             "theHelmEvent",
             "bloodiedStrongbox",
-            "ascendedEventCache"
+            "ascendedEventCache",
+            "darktideAltarTelokPenjarah",
+            "ascendedDarktideLullabyEventCache"
         ],
         "required": {
             "bloodiedDoubloon": 1000
@@ -12417,9 +12420,11 @@
         "obtainable": [
             "theHelmEvent",
             "bloodiedStrongbox",
-            "ascendedEventCache"
+            "ascendedEventCache",
+            "darktideAltarTelokPenjarah",
+            "ascendedDarktideLullabyEventCache"
         ],
-        "event": ["theHonorless","moonshineLarceny"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -13685,7 +13690,12 @@
         "rarity": "epic",
         "season": "oathsOfWar",
         "event": "darktideLullaby",
-        "obtainable": "",
+        "obtainable": [
+            "darktideAltarTelokPenjarah",
+            "darktideChest",
+            "ascendedHellgateSerpentChest",
+            "ascendedDarktideLullabyEventCache"
+        ],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -13702,7 +13712,7 @@
             "flooding2"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-02"
     },
     "stormVigil": {
         "id": "stormVigil",
@@ -13733,7 +13743,7 @@
         "id": "spiritcaller",
         "rarity": "rare",
         "season": "oathsOfWar",
-        "obtainable": "",
+        "obtainable": "darktideAltarTelokPenjarah",
         "event": "darktideLullaby",
         "requiredSize": "medium",
         "type": "springloader",
@@ -13750,7 +13760,7 @@
             "illuminate"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-02"
     },
     "harrowguard": {
         "id": "harrowguard",
@@ -14376,6 +14386,48 @@
         "perks": [
             "counterthrustLocker"
         ],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "darktideChest": {
+        "id": "darktideChest",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "event": "darktideLullaby",
+        "worldEvent": "theWeepingMother",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "ascendedHellgateSerpentChest": {
+        "id": "ascendedHellgateSerpentChest",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "event": "darktideLullaby",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "darktideAltarTelokPenjarah",
+        "required": {
+            "heartfeltWish": 1800
+        },
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "ascendedDarktideLullabyEventCache": {
+        "id": "ascendedDarktideLullabyEventCache",
+        "rarity": "epic",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "event": "darktideLullaby",
+        "obtainable": "darktideAltarTelokPenjarah",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "heartfeltWish": 1350
+        },
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
     }
