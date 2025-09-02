@@ -18011,6 +18011,60 @@
             "description": {
                 "general": "\"It is all I know. All I remember.\""
             }
+        },
+        "elusiveRest": {
+            "name": "Elusive Rest",
+            "description": {
+                "general": "Some threads cannot be broken"
+            }
+        },
+        "scribblesOfHope": {
+            "name": "Scribbles of Hope",
+            "description": {
+                "general": "Offer respect and seek peace"
+            }
+        },
+        "toPieces": {
+            "name": "To Pieces",
+            "description": {
+                "general": "Like the blood of one who leapt to their death among the rocks and waves"
+            }
+        },
+        "sheWhoWeeps": {
+            "name": "She Who Weeps",
+            "description": {
+                "general": "Honoring a tragic figure, and a tale of love and loss"
+            }
+        },
+        "mothersComforts": {
+            "name": "Mother's Comforts",
+            "description": {
+                "general": "Wards to protect against cursed seas"
+            }
+        },
+        "driftingSong": {
+            "name": "Drifting Song",
+            "description": {
+                "general": "Nothing remains but grief and hatred"
+            }
+        },
+        "mortalOne": {
+            "name": "Mortal One",
+            "description": {
+                "general": "Avenge or annihilate. The choice is yours."
+            }
+        },
+        "disturbUsNot": {
+            "name": "Disturb Us Not",
+            "description": {
+                "general": "Appease the restless spirits or regret it"
+            }
+        },
+        "soothingSmoke": {
+            "name": "Soothing Smoke",
+            "description": {
+                "general": "Peaceful traits to you, Captain"
+            }
         }
     }
 }

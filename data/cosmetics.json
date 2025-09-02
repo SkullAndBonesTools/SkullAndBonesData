@@ -25800,5 +25800,90 @@
         "obtainable": "eventPass",
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "elusiveRest": {
+        "id": "elusiveRest",
+        "type": "sailsEmblem",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "scribblesOfHope": {
+        "id": "scribblesOfHope",
+        "type": "sailsPattern",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "toPieces": {
+        "id": "toPieces",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "sheWhoWeeps": {
+        "id": "sheWhoWeeps",
+        "type": "figureHead",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "mothersComforts": {
+        "id": "mothersComforts",
+        "type": "ornaments",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "driftingSong": {
+        "id": "driftingSong",
+        "type": "hull",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "mortalOne": {
+        "id": "mortalOne",
+        "type": "nameplate",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "disturbUsNot": {
+        "id": "disturbUsNot",
+        "type": "trophy",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "soothingSmoke": {
+        "id": "soothingSmoke",
+        "type": "helmDecor",
+        "effect": "emissive",
+        "event": "darktideLullaby",
+        "set": "darktideMother",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }

@@ -1318,5 +1318,9 @@
     "cardsOfFate": {
         "id": "cardsOfFate",
         "type": "ship"
+    },
+    "darktideMother": {
+        "id": "darktideMother",
+        "type": "ship"
     }
 }
