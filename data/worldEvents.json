@@ -307,5 +307,10 @@
         "id": "bloodDrunk",
         "type": "eliteWarship",
         "faction": "compagnieRoyale"
+    },
+    "theWeepingMother": {
+        "id": "theWeepingMother",
+        "type": "eliteWarship",
+        "faction": "weepingSpecters"
     }
 }
