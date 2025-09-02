@@ -6716,6 +6716,7 @@
         "tier": 1,
         "rarity": "rare",
         "season": "chorusOfHavoc",
+        "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
         "obtainable": [
             "smugglerPass",
             "williamBlackwoodRotatingStore"
@@ -6727,9 +6728,17 @@
         "perks": [
             "raisedQuarterdeck1"
         ],
-        "required": {},
+        "required": {
+            "roselleCloth": 16,
+            "plateGlass": 8,
+            "woodPitch": 8,
+            "wormDrive": 8,
+            "torsionSpring": 6,
+            "eelSturdyRopes": 2,
+            "silver": 3600
+        },
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-02"
     },
     "buoyLocker1": {
         "id": "buoyLocker1",
