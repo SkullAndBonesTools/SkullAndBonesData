@@ -14431,5 +14431,25 @@
         },
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "contractCache": {
+        "id": "contractCache",
+        "rarity": "common",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
+    },
+    "advancedContractCache": {
+        "id": "advancedContractCache",
+        "rarity": "common",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-09-02",
+        "lastUpdated": "2025-09-02"
     }
 }

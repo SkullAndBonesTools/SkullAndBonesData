@@ -2663,6 +2663,18 @@
             "description": {
                 "general": "Contains an Ascended Event weapon."
             }
+        },
+        "contractCache": {
+            "name": "Contract Cache",
+            "description": {
+                "general": "A beginner's cache of basic contracts"
+            }
+        },
+        "advancedContractCache": {
+            "name": "Advanced Contract Cache",
+            "description": {
+                "general": "A cache of treasures for those who have proven their worth on the high seas"
+            }
         }
     }
 }
