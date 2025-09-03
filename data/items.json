@@ -14460,5 +14460,21 @@
         "weight": 50,
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "locketOfTheDamned": {
+        "id": "locketOfTheDamned",
+        "rarity": "common",
+        "season": "chorusOfHavoc",
+        "type": "quest",
+        "dateAdded": "2025-09-03",
+        "lastUpdated": "2025-09-03"
+    },
+    "tianNingsImperialCloak": {
+        "id": "tianNingsImperialCloak",
+        "rarity": "common",
+        "season": "intoTheDragonsWake",
+        "type": "quest",
+        "dateAdded": "2025-09-03",
+        "lastUpdated": "2025-09-03"
     }
 }
