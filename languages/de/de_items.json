@@ -2675,6 +2675,18 @@
             "description": {
                 "general": "A cache of treasures for those who have proven their worth on the high seas"
             }
+        },
+        "locketOfTheDamned": {
+            "name": "Locket of the Damned",
+            "description": {
+                "general": "A vessel of trapped souls belonging to those killed by the Soleil Royal"
+            }
+        },
+        "tianNingsImperialCloak": {
+            "name": "Tian Ning's Imperial Cloak",
+            "description": {
+                "general": "Fine silk flows like a majestic serpent gliding through the clouds."
+            }
         }
     }
 }
