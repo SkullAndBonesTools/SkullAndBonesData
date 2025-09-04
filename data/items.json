@@ -302,8 +302,9 @@
             "raider",
             "piercing2"
         ],
+        "obtainable": ["darktideChest"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "carronade": {
         "id": "carronade",
@@ -1380,8 +1381,9 @@
         "perks": [
             "resolute"
         ],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "ouroboros": {
         "id": "ouroboros",
@@ -1424,7 +1426,8 @@
         "blueprint": "williamBlackwoodRotatingStore",
         "obtainable": [
             "theHelm",
-            "laPesteStrongbox"
+            "laPesteStrongbox",
+            "legacyCache1"
         ],
         "worldEvent": "thePlagueKing",
         "type": "armor",
@@ -1451,7 +1454,7 @@
             "venemousVengeance"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "wailingWard": {
         "id": "wailingWard",
@@ -1815,8 +1818,9 @@
             "flooding2",
             "noDefaultCrit"
         ],
+        "obtainable": ["vanderkillsLocker"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "leFleau": {
         "id": "leFleau",
@@ -1824,7 +1828,7 @@
         "rarity": "epic",
         "season": "ragingTides",
         "requiredRank": "kingpin1",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache1"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -1844,7 +1848,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "rocket1": {
         "id": "rocket1",
@@ -1934,8 +1938,9 @@
         "perks": [
             "burning2"
         ],
+        "obtainable": ["chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "theTermitesRocket1": {
         "id": "theTermitesRocket1",
@@ -2032,8 +2037,9 @@
             "burning1",
             "siege"
         ],
+        "obtainable": ["chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "ballista1": {
         "id": "ballista1",
@@ -2240,7 +2246,7 @@
         "rarity": "epic",
         "season": "release",
         "requiredRank": "kingpin1",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
         "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 750,
@@ -2265,7 +2271,7 @@
             "piercing2"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "seaFire1": {
         "id": "seaFire1",
@@ -3143,8 +3149,9 @@
         "perks": [
             "riggingStation"
         ],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "gunnersQuadrant": {
         "id": "gunnersQuadrant",
@@ -3168,8 +3175,9 @@
         "perks": [
             "gunnersQuadrant"
         ],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "waterTank": {
         "id": "waterTank",
@@ -4442,8 +4450,9 @@
             "unison",
             "explosive3"
         ],
+        "obtainable": ["legacyCache1"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "longGun1": {
         "id": "longGun1",
@@ -4933,6 +4942,7 @@
             "arming",
             "flooding3"
         ],
+        "obtainable": ["darktideChest","whiteAriaChest","blackAriaChest"],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2025-07-29"
     },
@@ -5031,8 +5041,9 @@
             "explosive2",
             "flooding2"
         ],
+        "obtainable": ["darktideChest","chorusFleetStrongbox","whiteAriaChest","blackAriaChest"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "rahmasAmbition": {
         "id": "rahmasAmbition",
@@ -5962,7 +5973,7 @@
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "blueprint": "theHelmSeasonOathsOfWar",
-        "obtainable": "theHelmSeasonChorusOfHavoc",
+        "obtainable": ["theHelmSeasonChorusOfHavoc","legacyCache3","legacyCache1"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -5985,7 +5996,7 @@
             "ricochet"
         ],
         "dateAdded": "2024-05-25",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "laPiqure1": {
         "id": "laPiqure1",
@@ -6084,7 +6095,7 @@
         "type": "rocket",
         "rarity": "epic",
         "season": "chorusOfHavoc",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
         "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 1000,
@@ -6109,7 +6120,7 @@
             "burning1"
         ],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-08-05"
+        "lastUpdated": "2025-09-04"
     },
     "endlessRequiem": {
         "id": "endlessRequiem",
@@ -6145,15 +6156,16 @@
             "quickArming",
             "flooding2"
         ],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "stormwovenSymphony": {
         "id": "stormwovenSymphony",
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "type": "armor",
-        "obtainable": "theHelm",
+        "obtainable": ["theHelm","legacyCache3","legacyCache1"],
         "blueprint": [
             [
                 "contractReward",
@@ -6184,7 +6196,7 @@
             "crescendo"
         ],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "buccaneersOath": {
         "id": "buccaneersOath",
@@ -6214,15 +6226,16 @@
         "perks": [
             "bloodAndGold"
         ],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "dummySpringloader1": {
         "id": "dummySpringloader1",
         "rarity": "epic",
         "tier": 1,
         "season": "chorusOfHavoc",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache1"],
         "blueprint": "theHelmSeasonOathsOfWar",
         "type": "majorFurniture",
         "gearScore": 35,
@@ -6241,7 +6254,7 @@
             "dummySpringloader1"
         ],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "fatanaStation1": {
         "id": "fatanaStation1",
@@ -6273,7 +6286,7 @@
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "tier": 1,
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
         "blueprint": "theHelmSeasonOathsOfWar",
         "type": "offensiveFurniture",
         "gearScore": 25,
@@ -6292,7 +6305,7 @@
             "tuningStation1"
         ],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2025-08-05"
+        "lastUpdated": "2025-09-04"
     },
     "mineSpringloader1": {
         "id": "mineSpringloader1",
@@ -6383,8 +6396,9 @@
         "perks": [
             "flooding2"
         ],
+        "obtainable": ["chorusFleetStrongbox"],
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "infernalMaw": {
         "id": "infernalMaw",
@@ -6552,7 +6566,7 @@
         "rarity": "rare",
         "season": "chorusOfHavoc",
         "blueprint": "theHelm",
-        "obtainable": "whiteAriaChest",
+        "obtainable": ["blackAriaChest","whiteAriaChest"],
         "bounty": "verseOfRemorse",
         "worldEvent": "verseOfRemorse",
         "type": "armor",
@@ -6579,7 +6593,7 @@
             "dampened"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "leviathanArmor": {
         "id": "leviathanArmor",
@@ -6651,8 +6665,9 @@
             "sinewString": 4,
             "silver": 3370
         },
+        "obtainable": ["whiteAriaChest","blackAriaChest"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "springloaderPowderhouse1": {
         "id": "springloaderPowderhouse1",
@@ -6678,9 +6693,9 @@
             "precisionDrillingBit": 4,
             "silver": 3370
         },
-        "obtainable": "blackAriaChest",
+        "obtainable": ["blackAriaChest","whiteAriaChest"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "machinistStationRepair1": {
         "id": "machinistStationRepair1",
@@ -9165,7 +9180,7 @@
         "weight": 80,
         "gearScore": 25,
         "bounty": "silentDeath",
-        "obtainable": "megaLestariChest",
+        "obtainable": ["megaLestariChest","risenMegaLestariChest"],
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "required": {
             "monstrousTooth": 7,
@@ -9180,7 +9195,7 @@
             "lestariTrophy"
         ],
         "dateAdded": "2024-07-13",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "hubacTuningRack": {
         "id": "hubacTuningRack",
@@ -9503,13 +9518,13 @@
         "required": {
             "sovereigns": 350
         },
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3"],
         "perks": [
             "sharedSupply",
             "repair2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "thousandYearMonsoon": {
         "id": "thousandYearMonsoon",
@@ -9543,7 +9558,7 @@
         "type": "mortar",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -9564,7 +9579,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "spitefulSpikesStation": {
         "id": "spitefulSpikesStation",
@@ -9577,12 +9592,12 @@
         "required": {
             "sovereigns": 400
         },
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3"],
         "perks": [
             "spitefulSpikesStation"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "emergencySails": {
         "id": "emergencySails",
@@ -9606,7 +9621,7 @@
         "id": "celestialDance",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -9627,7 +9642,7 @@
             "lightningStream"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "hongYiPao": {
         "id": "hongYiPao",
@@ -10232,8 +10247,9 @@
         "perks": [
             "amberCoatingStation"
         ],
+        "obtainable": ["elderShadowbeastChest"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "chargeStores": {
         "id": "chargeStores",
@@ -10518,13 +10534,14 @@
         "worldEvent": "theGloriousPhoenix",
         "obtainable": [
             "williamBlackwoodRotatingStore",
+            "phoenixsTalonChest",
             "phoenixsTalonStrongbox"
         ],
         "perks": [
             "bloodyRed"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "plaguebringersWard": {
         "id": "plaguebringersWard",
@@ -10560,13 +10577,14 @@
         },
         "obtainable": [
             "hallowedGravestoneSaintAnne",
-            "reapersCache"
+            "reapersCache",
+            "darktideChest"
         ],
         "perks": [
             "quickIgnitingPowder"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "ballistaFurnace1": {
         "id": "ballistaFurnace1",
@@ -10918,7 +10936,7 @@
         "season": "shadowsOfTheDeep",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "worldEvent": "reaversVengeance",
-        "obtainable": "risenZamaharibuChest",
+        "obtainable": ["risenZamaharibuChest","risenMegaLestariChest"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -10944,7 +10962,7 @@
             "phantasmicThrust"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "tanashah": {
         "id": "tanashah",
@@ -11188,10 +11206,10 @@
             "wyrmsBreath": 5,
             "silver": 3600
         },
-        "obtainable": "risenZamaharibuChest",
+        "obtainable": ["risenZamaharibuChest","risenMegaLestariChest"],
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "expandingCorkscrewStation": {
         "id": "expandingCorkscrewStation",
@@ -12553,8 +12571,9 @@
         "perks": [
             "burning2"
         ],
+        "obtainable": ["darktideChest"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "brickbreaker1": {
         "id": "brickbreaker1",
@@ -12640,7 +12659,7 @@
             ],
             "theHelm"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","darktideChest"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12663,7 +12682,7 @@
             "combustion2"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-04"
     },
     "urbansGreatGun": {
         "id": "urbansGreatGun",
@@ -13753,7 +13772,7 @@
         "id": "spiritcaller",
         "rarity": "rare",
         "season": "oathsOfWar",
-        "obtainable": "darktideAltarTelokPenjarah",
+        "obtainable": ["darktideAltarTelokPenjarah","darktideChest"],
         "event": "darktideLullaby",
         "requiredSize": "medium",
         "type": "springloader",
@@ -13770,7 +13789,7 @@
             "illuminate"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2025-09-04"
     },
     "harrowguard": {
         "id": "harrowguard",
@@ -14392,12 +14411,12 @@
         "gearScore": 20,
         "event": "darktideLullaby",
         "required": {},
-        "obtainable": "darktideAltarTelokPenjarah",
+        "obtainable": ["darktideAltarTelokPenjarah","darktideChest"],
         "perks": [
             "counterthrustLocker"
         ],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2025-09-04"
     },
     "darktideChest": {
         "id": "darktideChest",
