@@ -98,7 +98,7 @@ type LanguageData = {
     events: typeof en_events.events;
     factions: typeof en_factions.factions;
     items: typeof en_items.items;
-    locations: typeof en_locations.locations;
+    locations: { [key: string]: string };
     materials: typeof en_materials.materials;
     modifications: typeof en_modifications.modifications;
     perks: typeof en_perks.perks;
@@ -117,6 +117,24 @@ type LanguagesType = {
     FR: LanguageData;
 };
 
+function preprocessLocations(
+    locationsObj: { locations: Record<string, string> },
+    seasonsObj: { seasons: Record<string, string> }
+): Record<string, string> {
+    const seasonKeys = Object.keys(seasonsObj.seasons) as Array<keyof typeof seasonsObj.seasons>;
+    const processed: Record<string, string> = {};
+    for (const key in locationsObj.locations) {
+        const locationKey = key as keyof typeof locationsObj.locations;
+        let value = locationsObj.locations[locationKey];
+        seasonKeys.forEach(seasonKey => {
+            const placeholder = `{{${String(seasonKey)}}}`;
+            value = value.replaceAll(placeholder, seasonsObj.seasons[seasonKey]);
+        });
+        processed[key] = value;
+    }
+    return processed;
+}
+
 export const Languages: LanguagesType = {
     AR: {
         achievements: ar_achievements.achievements,
@@ -126,7 +144,7 @@ export const Languages: LanguagesType = {
         events: ar_events.events,
         factions: ar_factions.factions,
         items: ar_items.items,
-        locations: ar_locations.locations,
+        locations: preprocessLocations(ar_locations, ar_seasons),
         materials: ar_materials.materials,
         modifications: ar_modifications.modifications,
         perks: ar_perks.perks,
@@ -144,7 +162,7 @@ export const Languages: LanguagesType = {
         events: de_events.events,
         factions: de_factions.factions,
         items: de_items.items,
-        locations: de_locations.locations,
+        locations: preprocessLocations(de_locations, de_seasons),
         materials: de_materials.materials,
         modifications: de_modifications.modifications,
         perks: de_perks.perks,
@@ -162,7 +180,7 @@ export const Languages: LanguagesType = {
         events: en_events.events,
         factions: en_factions.factions,
         items: en_items.items,
-        locations: en_locations.locations,
+        locations: preprocessLocations(en_locations, en_seasons),
         materials: en_materials.materials,
         modifications: en_modifications.modifications,
         perks: en_perks.perks,
@@ -180,7 +198,7 @@ export const Languages: LanguagesType = {
         events: es_events.events,
         factions: es_factions.factions,
         items: es_items.items,
-        locations: es_locations.locations,
+        locations: preprocessLocations(es_locations, es_seasons),
         materials: es_materials.materials,
         modifications: es_modifications.modifications,
         perks: es_perks.perks,
@@ -198,7 +216,7 @@ export const Languages: LanguagesType = {
         events: fr_events.events,
         factions: fr_factions.factions,
         items: fr_items.items,
-        locations: fr_locations.locations,
+        locations: preprocessLocations(fr_locations, fr_seasons),
         materials: fr_materials.materials,
         modifications: fr_modifications.modifications,
         perks: fr_perks.perks,
