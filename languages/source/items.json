@@ -2687,6 +2687,12 @@
             "description": {
                 "general": "Fine silk flows like a majestic serpent gliding through the clouds."
             }
+        },
+        "laPestesHead": {
+            "name": "La Peste's Head",
+            "description": {
+                "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
+            }
         }
     }
 }

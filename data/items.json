@@ -14495,5 +14495,13 @@
         "type": "quest",
         "dateAdded": "2025-09-03",
         "lastUpdated": "2025-09-03"
+    },
+    "laPestesHead": {
+        "id": "laPestesHead",
+        "rarity": "common",
+        "season": "ragingTides",
+        "type": "quest",
+        "dateAdded": "2025-09-06",
+        "lastUpdated": "2025-09-06"
     }
 }
