@@ -98,7 +98,7 @@ type LanguageData = {
     events: typeof en_events.events;
     factions: typeof en_factions.factions;
     items: typeof en_items.items;
-    locations: { [key: string]: string };
+    locations: { [key in keyof typeof en_locations.locations]: string };
     materials: typeof en_materials.materials;
     modifications: typeof en_modifications.modifications;
     perks: typeof en_perks.perks;
@@ -120,7 +120,7 @@ type LanguagesType = {
 function preprocessLocations(
     locationsObj: { locations: Record<string, string> },
     seasonsObj: { seasons: Record<string, string> }
-): Record<string, string> {
+): Record<keyof typeof en_locations.locations, string> {
     const seasonKeys = Object.keys(seasonsObj.seasons) as Array<keyof typeof seasonsObj.seasons>;
     const processed: Record<string, string> = {};
     for (const key in locationsObj.locations) {
