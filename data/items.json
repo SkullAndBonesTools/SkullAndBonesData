@@ -1426,7 +1426,7 @@
         "blueprint": "williamBlackwoodRotatingStore",
         "obtainable": [
             "theHelm",
-            "laPesteStrongbox",
+            "laPestesStrongbox",
             "legacyCache1"
         ],
         "worldEvent": "thePlagueKing",
@@ -1454,7 +1454,7 @@
             "venemousVengeance"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-09-06"
     },
     "wailingWard": {
         "id": "wailingWard",
@@ -1828,7 +1828,7 @@
         "rarity": "epic",
         "season": "ragingTides",
         "requiredRank": "kingpin1",
-        "obtainable": ["theHelmSeasonal","legacyCache1"],
+        "obtainable": ["laPestesStrongbox","theHelmSeasonal","legacyCache1"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -1848,7 +1848,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-09-06"
     },
     "rocket1": {
         "id": "rocket1",
@@ -6064,7 +6064,7 @@
         "rarity": "rare",
         "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
-        "obtainable": "laPesteStrongbox",
+        "obtainable": "laPestesStrongbox",
         "blueprint": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 500,
@@ -6088,7 +6088,7 @@
             "toxic3"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-08-23"
+        "lastUpdated": "2025-09-06"
     },
     "theWarhammer": {
         "id": "theWarhammer",
@@ -6846,7 +6846,7 @@
         "rarity": "epic",
         "obtainable": [
             "laPesteChest",
-            "laPesteStrongbox"
+            "laPestesStrongbox"
         ],
         "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
         "season": "chorusOfHavoc",
@@ -6871,7 +6871,7 @@
             "medicineCabinet"
         ],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-06"
     },
     "compagnieSpiritsLocker": {
         "id": "compagnieSpiritsLocker",
@@ -14501,6 +14501,17 @@
         "rarity": "common",
         "season": "ragingTides",
         "type": "quest",
+        "dateAdded": "2025-09-06",
+        "lastUpdated": "2025-09-06"
+    },
+    "laPestesStrongbox": {
+        "id": "laPestesStrongbox",
+        "rarity": "legendary",
+        "season": "ragingTides",
+        "type": "chest",
+        "value": 1,
+        "worldEvent": "thePlagueKing",
+        "weight": 100,
         "dateAdded": "2025-09-06",
         "lastUpdated": "2025-09-06"
     }

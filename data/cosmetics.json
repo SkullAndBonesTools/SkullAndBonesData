@@ -3269,9 +3269,9 @@
         "effect": "emissive",
         "bounty": "theBlightedBastion",
         "worldEvent": "thePlagueKing",
-        "obtainable": "laPesteStrongbox",
+        "obtainable": "laPestesStrongbox",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2025-09-06"
     },
     "anpakasHand": {
         "id": "anpakasHand",
@@ -3281,9 +3281,9 @@
         "bounty": "theBlightedBastion",
         "worldEvent": "thePlagueKing",
         "effect": "emissive",
-        "obtainable": "laPesteStrongbox",
+        "obtainable": "laPestesStrongbox",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2025-09-06"
     },
     "anpakasTears": {
         "id": "anpakasTears",
@@ -5389,9 +5389,9 @@
         "bounty": "theBlightedBastion",
         "worldEvent": "thePlagueKing",
         "season": "ragingTides",
-        "obtainable": "laPesteStrongbox",
+        "obtainable": "laPestesStrongbox",
         "dateAdded": "2024-04-20",
-        "lastUpdated": "2024-04-20"
+        "lastUpdated": "2025-09-06"
     },
     "anpakasRobe": {
         "id": "anpakasRobe",
