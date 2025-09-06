@@ -6845,7 +6845,7 @@
         "id": "medicineCabinet",
         "rarity": "epic",
         "obtainable": [
-            "laPesteChest",
+            "laPestesLocker",
             "laPestesStrongbox"
         ],
         "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
@@ -10554,14 +10554,14 @@
         "required": {},
         "obtainable": [
             "williamBlackwoodRotatingStore",
-            "laPesteChest"
+            "laPestesLocker"
         ],
         "worldEvent": "tidesOfTerror",
         "perks": [
             "plaguebringersWard"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-06"
     },
     "quickIgnitingPowder": {
         "id": "quickIgnitingPowder",
@@ -14501,6 +14501,17 @@
         "rarity": "common",
         "season": "ragingTides",
         "type": "quest",
+        "dateAdded": "2025-09-06",
+        "lastUpdated": "2025-09-06"
+    },
+    "laPestesLocker": {
+        "id": "laPestesLocker",
+        "rarity": "legendary",
+        "season": "ragingTides",
+        "type": "chest",
+        "value": 1,
+        "worldEvent": "tidesOfTerror",
+        "weight": 100,
         "dateAdded": "2025-09-06",
         "lastUpdated": "2025-09-06"
     },

@@ -1263,10 +1263,10 @@
         "type": "hull",
         "set": "anpakasRot",
         "worldEvent": "tidesOfTerror",
-        "obtainable": "laPesteChest",
+        "obtainable": "laPestesLocker",
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-04-09"
+        "lastUpdated": "2025-09-06"
     },
     "grimTidings": {
         "id": "grimTidings",
@@ -2546,9 +2546,9 @@
         "set": "anpakasRot",
         "worldEvent": "tidesOfTerror",
         "season": "ragingTides",
-        "obtainable": "laPesteChest",
+        "obtainable": "laPestesLocker",
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-04-09"
+        "lastUpdated": "2025-09-06"
     },
     "grinnersSheets": {
         "id": "grinnersSheets",

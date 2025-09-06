@@ -2694,6 +2694,12 @@
                 "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
             }
         },
+        "laPestesLocker": {
+            "name": "La Peste's Locker",
+            "description": {
+                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+            }
+        },
         "laPestesStrongbox": {
             "name": "La Peste's Strongbox",
             "description": {
