@@ -18197,6 +18197,360 @@
             "description": {
                 "general": "A figure from Eastern legend seeking victims to devour"
             }
+        },
+        "scarletTricorne": {
+            "name": "Scarlet Tricorne",
+            "description": {
+                "general": "A scarlet feather, acquired through ill-gotten gains"
+            }
+        },
+        "privateersPatch": {
+            "name": "Privateer's Patch",
+            "description": {
+                "general": "All these years, and an eye was all those filthy pirates took"
+            }
+        },
+        "rebelsRegalia": {
+            "name": "Rebel's Regalia",
+            "description": {
+                "general": "Almost looks tinted with pirate's blood"
+            }
+        },
+        "throatWranglers": {
+            "name": "Throat Wranglers",
+            "description": {
+                "general": "Blood on your hands amount to coin in your pocket"
+            }
+        },
+        "mutineerMastery": {
+            "name": "Mutineer Mastery",
+            "description": {
+                "general": "Meeting patrons calls for looking presentable at all times"
+            }
+        },
+        "silverLinedBreeches": {
+            "name": "Silver-lined Breeches",
+            "description": {
+                "general": "You always catch your prey. Always."
+            }
+        },
+        "pirateStompers": {
+            "name": "Pirate Stompers",
+            "description": {
+                "general": "The crimson accents are somehow ominous"
+            }
+        },
+        "crossMeIfYouDare": {
+            "name": "Cross Me If You Dare",
+            "description": {
+                "general": "\"Go on then! See what happens, dung-heap!\""
+            }
+        },
+        "nighthawk": {
+            "name": "Nighthawk",
+            "description": {
+                "general": "Guard it or lose it"
+            }
+        },
+        "soundReckoning": {
+            "name": "Sound Reckoning",
+            "description": {
+                "general": "Feared by lowly thieves and scavengers"
+            }
+        },
+        "gloryBoundFigureHead": {
+            "name": "Glory Bound",
+            "description": {
+                "general": "A single day becomes a tale for the ages"
+            }
+        },
+        "sanctumsWelcome": {
+            "name": "Sanctum's Welcome",
+            "description": {
+                "general": "Find favor among those who may aid your fate"
+            }
+        },
+        "redWithRage": {
+            "name": "Red with Rage",
+            "description": {
+                "general": "Oh, they've gone and done it now..."
+            }
+        },
+        "furiousWake": {
+            "name": "Furious Wake",
+            "description": {
+                "general": "\"Get out of my way... Or else...\""
+            }
+        },
+        "crimsonPlume": {
+            "name": "Crimson Plume",
+            "description": {
+                "general": "Glory to all your deeds, Captain"
+            }
+        },
+        "regaleEmAll": {
+            "name": "Regale 'Em All",
+            "description": {
+                "general": "Carry yourself as a legend"
+            }
+        },
+        "lavishedAttentions": {
+            "name": "Lavished Attentions",
+            "description": {
+                "general": "You can#t get enough, can you, Captain?"
+            }
+        },
+        "showmansScarf": {
+            "name": "Showman's Scarf",
+            "description": {
+                "general": "Perform feats of artistry with blade and fire"
+            }
+        },
+        "sunsetBelt": {
+            "name": "Sunset Belt",
+            "description": {
+                "general": "\"Your time is up, you sad shits.\""
+            }
+        },
+        "rubyCharm": {
+            "name": "Ruby Charm",
+            "description": {
+                "general": "Somehow unnerving in its brilliance"
+            }
+        },
+        "ambitiousAir": {
+            "name": "Ambitious Air",
+            "description": {
+                "general": "One day, you will reign over all others"
+            }
+        },
+        "stepLively": {
+            "name": "Step Lively",
+            "description": {
+                "general": "The entire Indian Ocean is watching"
+            }
+        },
+        "courtlyContender": {
+            "name": "Courtly Contender",
+            "description": {
+                "general": "You will rise, whatever it takes"
+            }
+        },
+        "reignLikeKings": {
+            "name": "Reign Like Kings",
+            "description": {
+                "general": "Seize the life you deserve"
+            }
+        },
+        "sweepingSerenade": {
+            "name": "Sweeping Serenade",
+            "description": {
+                "general": "Steeped in the colors of violence"
+            }
+        },
+        "songOfBlades": {
+            "name": "Song of Blades",
+            "description": {
+                "general": "Every move is carefully considered"
+            }
+        },
+        "lordlyFortunes": {
+            "name": "Lordly Fortunes",
+            "description": {
+                "general": "The finest touches silver could buy"
+            }
+        },
+        "tranquilNight": {
+            "name": "Tranquil Night",
+            "description": {
+                "general": "For the moments between battles"
+            }
+        },
+        "fantomeNoir": {
+            "name": "Fantome Noir",
+            "description": {
+                "general": "Yours is a tale shrouded in mystery"
+            }
+        },
+        "plagueOmen": {
+            "name": "Plague Omen",
+            "description": {
+                "general": "A harbinger of the end"
+            }
+        },
+        "flowingIchor": {
+            "name": "Flowing Ichor",
+            "description": {
+                "general": "The blood of gods is said to be deadly to man"
+            }
+        },
+        "deathlyMiasma": {
+            "name": "Deathly Miasma",
+            "description": {
+                "general": "Wickedness spreads and clouds all"
+            }
+        },
+        "blightborn": {
+            "name": "Blightborn",
+            "description": {
+                "general": "Others shun your every step"
+            }
+        },
+        "crimsonHerald": {
+            "name": "Crimson Herald",
+            "description": {
+                "general": "You thrive in the thick of despair"
+            }
+        },
+        "pestilentShadow": {
+            "name": "Pestilent Shadow",
+            "description": {
+                "general": "Ill winds arrive with you"
+            }
+        },
+        "seaScourge": {
+            "name": "Sea Scourge",
+            "description": {
+                "general": "Countless corpses drift in your wake"
+            }
+        },
+        "noxdoctor": {
+            "name": "Noxdoctor",
+            "description": {
+                "general": "All in your midst are marked"
+            }
+        },
+        "hollowMask": {
+            "name": "Hollow Mask",
+            "description": {
+                "general": "Rumored to make one ill if near it for too long"
+            }
+        },
+        "vileCure": {
+            "name": "Vile Cure",
+            "description": {
+                "general": "A fate worse than death"
+            }
+        },
+        "plagueTouchedHat": {
+            "name": "Plague-touched Hat",
+            "description": {
+                "general": "Ready yourself to greet those bound for death"
+            }
+        },
+        "beakedVisage": {
+            "name": "Beaked Visage",
+            "description": {
+                "general": "Rest assured, he's on your side"
+            }
+        },
+        "sterileGown": {
+            "name": "Sterile Gown",
+            "description": {
+                "general": "Too many sickly seasons have frayed its ends"
+            }
+        },
+        "glovesOfPrecision": {
+            "name": "Gloves of Precision",
+            "description": {
+                "general": "Designed for grim procedures"
+            }
+        },
+        "bloodBindings": {
+            "name": "Blood Bindings",
+            "description": {
+                "general": "Bound tightly, they stem the flow of pestilence"
+            }
+        },
+        "toolsOfTorture": {
+            "name": "Tools of Torture",
+            "description": {
+                "general": "A scalpel for the plague, a vial for the pain"
+            }
+        },
+        "burialBreeches": {
+            "name": "Burial Breeches",
+            "description": {
+                "general": "You wade often into the realm of death"
+            }
+        },
+        "plaguePits": {
+            "name": "Plague Pits",
+            "description": {
+                "general": "Soles worn by blood and other fluids"
+            }
+        },
+        "aPaleSteed": {
+            "name": "A Pale Steed",
+            "description": {
+                "general": "An omen of finality"
+            }
+        },
+        "scythesEdge": {
+            "name": "Scythe's Edge",
+            "description": {
+                "general": "Reap indiscriminately"
+            }
+        },
+        "deliciouslyMacabre": {
+            "name": "Deliciously Macabre",
+            "description": {
+                "general": "Let the end take hold, in all its glory"
+            }
+        },
+        "theEndbringer": {
+            "name": "The Endbringer",
+            "description": {
+                "general": "One of four, the deadliest of all"
+            }
+        },
+        "endTimes": {
+            "name": "End Times",
+            "description": {
+                "general": "Fear not the apocalypse"
+            }
+        },
+        "deathRider": {
+            "name": "Death Rider",
+            "description": {
+                "general": "Lead them to their graves"
+            }
+        },
+        "deathDivine": {
+            "name": "Death Divine",
+            "description": {
+                "general": "Steals breath and stops hearts"
+            }
+        },
+        "bonepicker": {
+            "name": "Bonepicker",
+            "description": {
+                "general": "\"All things have value.\""
+            }
+        },
+        "doomCircles": {
+            "name": "Doom Circles",
+            "description": {
+                "general": "Make easy prey of the weak"
+            }
+        },
+        "blotTheSun": {
+            "name": "Blot the Sun",
+            "description": {
+                "general": "The sight of you is bad news indeed"
+            }
+        },
+        "theFinalFeast": {
+            "name": "The Final Feast",
+            "description": {
+                "general": "The Indian Ocean, a feeding ground like none other"
+            }
+        },
+        "driftIntoOblivion": {
+            "name": "Drift Into Oblivion",
+            "description": {
+                "general": "Let the waves swallow what remains"
+            }
         }
     }
 }
