@@ -1338,5 +1338,29 @@
     "xianYuan": {
         "id": "xianYuan",
         "type": "ship"
+    },
+    "plagueReaper": {
+        "id": "plagueReaper",
+        "type": "ship"
+    },
+    "nocturnesGrace": {
+        "id": "nocturnesGrace",
+        "type": "ship"
+    },
+    "seaScavengers": {
+        "id": "seaScavengers",
+        "type": "ship"
+    },
+    "deathStrides": {
+        "id": "deathStrides",
+        "type": "ship"
+    },
+    "redPrivateer": {
+        "id": "redPrivateer",
+        "type": "player"
+    },
+    "nocturnesChampion": {
+        "id": "nocturnesChampion",
+        "type": "player"
     }
 }
