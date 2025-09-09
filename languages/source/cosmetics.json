@@ -18371,6 +18371,66 @@
             "description": {
                 "general": "Yours is a tale shrouded in mystery"
             }
+        },
+        "plagueOmen": {
+            "name": "Plague Omen",
+            "description": {
+                "general": "A harbinger of the end"
+            }
+        },
+        "flowingIchor": {
+            "name": "Flowing Ichor",
+            "description": {
+                "general": "The blood of gods is said to be deadly to man"
+            }
+        },
+        "deathlyMiasma": {
+            "name": "Deathly Miasma",
+            "description": {
+                "general": "Wickedness spreads and clouds all"
+            }
+        },
+        "blightborn": {
+            "name": "Blightborn",
+            "description": {
+                "general": "Others shun your every step"
+            }
+        },
+        "crimsonHerald": {
+            "name": "Crimson Herald",
+            "description": {
+                "general": "You thrive in the thick of despair"
+            }
+        },
+        "pestilentShadow": {
+            "name": "Pestilent Shadow",
+            "description": {
+                "general": "Ill winds arrive with you"
+            }
+        },
+        "seaScourge": {
+            "name": "Sea Scourge",
+            "description": {
+                "general": "Countless corpses drift in your wake"
+            }
+        },
+        "noxdoctor": {
+            "name": "Noxdoctor",
+            "description": {
+                "general": "All in your midst are marked"
+            }
+        },
+        "hollowMask": {
+            "name": "Hollow Mask",
+            "description": {
+                "general": "Rumored to make one ill if near it for too long"
+            }
+        },
+        "vileCure": {
+            "name": "Vile Cure",
+            "description": {
+                "general": "A fate worse than death"
+            }
         }
     }
 }

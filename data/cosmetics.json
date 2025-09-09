@@ -26280,5 +26280,95 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
+    },
+    "plagueOmen": {
+        "id": "plagueOmen",
+        "type": "sailsEmblem",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "flowingIchor": {
+        "id": "flowingIchor",
+        "type": "sailsPattern",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "deathlyMiasma": {
+        "id": "deathlyMiasma",
+        "type": "sailsColor",
+        "effects": "emissive",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "blightborn": {
+        "id": "blightborn",
+        "type": "figureHead",
+        "set": "plagueReaper",
+        "effects": "emissive",
+        "upgrades": ["crimsonHerald","pestilentShadow"],
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "crimsonHerald": {
+        "id": "crimsonHerald",
+        "tier": 1,
+        "type": "hull",
+        "set": "plagueReaper",
+        "effects": "emissive",
+        "basic": "blightborn",
+        "upgrades": ["pestilentShadow"],
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "pestilentShadow": {
+        "id": "pestilentShadow",
+        "tier": 2,
+        "type": "nameplate",
+        "set": "plagueReaper",
+        "effects": ["emissive","combatReactive"],
+        "basic": "blightborn",
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "seaScourge": {
+        "id": "seaScourge",
+        "type": "hull",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "noxdoctor": {
+        "id": "noxdoctor",
+        "type": "nameplate",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "hollowMask": {
+        "id": "hollowMask",
+        "type": "trophy",
+        "effects": "emissive",
+        "set": "plagueReaper",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "vileCure": {
+        "id": "vileCure",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }
