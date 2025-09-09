@@ -312,5 +312,10 @@
         "id": "theWeepingMother",
         "type": "eliteWarship",
         "faction": "weepingSpecters"
+    },
+    "soleilRoyal": {
+        "id": "soleilRoyal",
+        "type": "eliteWarship",
+        "faction": "compagnieRoyale"
     }
 }
