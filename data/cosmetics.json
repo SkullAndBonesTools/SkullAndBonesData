@@ -26324,7 +26324,7 @@
         "effects": "emissive",
         "basic": "blightborn",
         "upgrades": ["pestilentShadow"],
-        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
     },
@@ -26335,7 +26335,7 @@
         "set": "plagueReaper",
         "effects": ["emissive","combatReactive"],
         "basic": "blightborn",
-        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
     },
