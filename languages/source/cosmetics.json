@@ -18431,6 +18431,54 @@
             "description": {
                 "general": "A fate worse than death"
             }
+        },
+        "plagueTouchedHat": {
+            "name": "Plague-touched Hat",
+            "description": {
+                "general": "Ready yourself to greet those bound for death"
+            }
+        },
+        "beakedVisage": {
+            "name": "Beaked Visage",
+            "description": {
+                "general": "Rest assured, he's on your side"
+            }
+        },
+        "sterileGown": {
+            "name": "Sterile Gown",
+            "description": {
+                "general": "Too many sickly seasons have frayed its ends"
+            }
+        },
+        "glovesOfPrecision": {
+            "name": "Gloves of Precision",
+            "description": {
+                "general": "Designed for grim procedures"
+            }
+        },
+        "bloodBindings": {
+            "name": "Blood Bindings",
+            "description": {
+                "general": "Bound tightly, they stem the flow of pestilence"
+            }
+        },
+        "toolsOfTorture": {
+            "name": "Tools of Torture",
+            "description": {
+                "general": "A scalpel for the plague, a vial for the pain"
+            }
+        },
+        "burialBreeches": {
+            "name": "Burial Breeches",
+            "description": {
+                "general": "You wade often into the realm of death"
+            }
+        },
+        "plaguePits": {
+            "name": "Plague Pits",
+            "description": {
+                "general": "Soles worn by blood and other fluids"
+            }
         }
     }
 }

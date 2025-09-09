@@ -1366,5 +1366,9 @@
     "forTheHoard": {
         "id": "forTheHoard",
         "type": "ship"
+    },
+    "harbingerOfDeath": {
+        "id": "harbingerOfDeath",
+        "type": "player"
     }
 }

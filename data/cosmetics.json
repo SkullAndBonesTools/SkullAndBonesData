@@ -26370,5 +26370,71 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
+    },
+    "plagueTouchedHat": {
+        "id": "plagueTouchedHat",
+        "type": "headwear",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "beakedVisage": {
+        "id": "beakedVisage",
+        "type": "faceAccessory",
+        "effects": "emissive",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "sterileGown": {
+        "id": "sterileGown",
+        "type": "torso",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "glovesOfPrecision": {
+        "id": "glovesOfPrecision",
+        "type": "neck",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "bloodBindings": {
+        "id": "bloodBindings",
+        "type": "forearm",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "toolsOfTorture": {
+        "id": "toolsOfTorture",
+        "type": "waist",
+        "effects": "emissive",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "burialBreeches": {
+        "id": "burialBreeches",
+        "type": "bottom",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "plaguePits": {
+        "id": "plaguePits",
+        "type": "footwear",
+        "set": "harbingerOfDeath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }
