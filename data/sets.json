@@ -1362,5 +1362,9 @@
     "nocturnesChampion": {
         "id": "nocturnesChampion",
         "type": "player"
+    },
+    "forTheHoard": {
+        "id": "forTheHoard",
+        "type": "ship"
     }
 }

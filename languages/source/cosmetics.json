@@ -18197,6 +18197,90 @@
             "description": {
                 "general": "A figure from Eastern legend seeking victims to devour"
             }
+        },
+        "scarletTricorne": {
+            "name": "Scarlet Tricorne",
+            "description": {
+                "general": "A scarlet feather, acquired through ill-gotten gains"
+            }
+        },
+        "privateersPatch": {
+            "name": "Privateer's Patch",
+            "description": {
+                "general": "All these years, and an eye was all those filthy pirates took"
+            }
+        },
+        "rebelsRegalia": {
+            "name": "Rebel's Regalia",
+            "description": {
+                "general": "Almost looks tinted with pirate's blood"
+            }
+        },
+        "throatWranglers": {
+            "name": "Throat Wranglers",
+            "description": {
+                "general": "Blood on your hands amount to coin in your pocket"
+            }
+        },
+        "mutineerMastery": {
+            "name": "Mutineer Mastery",
+            "description": {
+                "general": "Meeting patrons calls for looking presentable at all times"
+            }
+        },
+        "silverLinedBreeches": {
+            "name": "Silver-lined Breeches",
+            "description": {
+                "general": "You always catch your prey. Always."
+            }
+        },
+        "pirateStompers": {
+            "name": "Pirate Stompers",
+            "description": {
+                "general": "The crimson accents are somehow ominous"
+            }
+        },
+        "crossMeIfYouDare": {
+            "name": "Cross Me If You Dare",
+            "description": {
+                "general": "\"Go on then! See what happens, dung-heap!\""
+            }
+        },
+        "nighthawk": {
+            "name": "Nighthawk",
+            "description": {
+                "general": "Guard it or lose it"
+            }
+        },
+        "soundReckoning": {
+            "name": "Sound Reckoning",
+            "description": {
+                "general": "Feared by lowly thieves and scavengers"
+            }
+        },
+        "gloryBoundFigureHead": {
+            "name": "Glory Bound",
+            "description": {
+                "general": "A single day becomes a tale for the ages"
+            }
+        },
+        "sanctumsWelcome": {
+            "name": "Sanctum's Welcome",
+            "description": {
+                "general": "Find favor among those who may aid your fate"
+            }
+        },
+        "redWithRage": {
+            "name": "Red with Rage",
+            "description": {
+                "general": "Oh, they've gone and done it now..."
+            }
+        },
+        "furiousWake": {
+            "name": "Furious Wake",
+            "description": {
+                "general": "\"Get out of my way... Or else...\""
+            }
         }
     }
 }

@@ -26048,5 +26048,117 @@
         "set": "xianYuan",
         "dateAdded": "2025-09-02",
         "lastUpdated": "2025-09-02"
+    },
+    "scarletTricorne": {
+        "id": "scarletTricorne",
+        "type": "headwear",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "privateersPatch": {
+        "id": "privateersPatch",
+        "type": "faceAccessory",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "rebelsRegalia": {
+        "id": "rebelsRegalia",
+        "type": "torso",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "throatWranglers": {
+        "id": "throatWranglers",
+        "type": "forearm",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "mutineerMastery": {
+        "id": "mutineerMastery",
+        "type": "waist",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "silverLinedBreeches": {
+        "id": "silverLinedBreeches",
+        "type": "bottom",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "pirateStompers": {
+        "id": "pirateStompers",
+        "type": "footwear",
+        "set": "redPrivateer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "crossMeIfYouDare": {
+        "id": "crossMeIfYouDare",
+        "type": "sailsEmblem",
+        "set": "forTheHoard",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "nighthawk": {
+        "id": "nighthawk",
+        "type": "sailsPattern",
+        "set": "forTheHoard",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "soundReckoning": {
+        "id": "soundReckoning",
+        "type": "sailsColor",
+        "set": "forTheHoard",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "gloryBoundFigureHead": {
+        "id": "gloryBound",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "forTheHoard",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "sanctumsWelcome": {
+        "id": "sanctumsWelcome",
+        "type": "hull",
+        "set": "forTheHoard",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "redWithRage": {
+        "id": "redWithRage",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "furiousWake": {
+        "id": "furiousWake",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }
