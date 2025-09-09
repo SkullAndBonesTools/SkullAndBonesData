@@ -26160,5 +26160,125 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
+    },
+    "crimsonPlume": {
+        "id": "crimsonPlume",
+        "type": "headwear",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "regaleEmAll": {
+        "id": "regaleEmAll",
+        "type": "faceAccessory",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "lavishedAttentions": {
+        "id": "lavishedAttentions",
+        "type": "torso",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "showmansScarf": {
+        "id": "showmansScarf",
+        "type": "neck",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "sunsetBelt": {
+        "id": "sunsetBelt",
+        "type": "waist",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "rubyCharm": {
+        "id": "rubyCharm",
+        "type": "hand",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "ambitiousAir": {
+        "id": "ambitiousAir",
+        "type": "bottom",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "stepLively": {
+        "id": "stepLively",
+        "type": "footwear",
+        "set": "nocturnesChampion",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "courtlyContender": {
+        "id": "courtlyContender",
+        "type": "sailsEmblem",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "reignLikeKings": {
+        "id": "reignLikeKings",
+        "type": "sailsPattern",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "sweepingSerenade": {
+        "id": "sweepingSerenade",
+        "type": "sailsColor",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "songOfBlades": {
+        "id": "songOfBlades",
+        "type": "figureHead",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "lordlyFortunes": {
+        "id": "lordlyFortunes",
+        "type": "ornaments",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "tranquilNight": {
+        "id": "tranquilNight",
+        "type": "hull",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "fantomeNoir": {
+        "id": "fantomeNoir",
+        "type": "nameplate",
+        "set": "nocturnesGrace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }

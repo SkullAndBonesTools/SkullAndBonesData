@@ -18281,6 +18281,96 @@
             "description": {
                 "general": "\"Get out of my way... Or else...\""
             }
+        },
+        "crimsonPlume": {
+            "name": "Crimson Plume",
+            "description": {
+                "general": "Glory to all your deeds, Captain"
+            }
+        },
+        "regaleEmAll": {
+            "name": "Regale 'Em All",
+            "description": {
+                "general": "Carry yourself as a legend"
+            }
+        },
+        "lavishedAttentions": {
+            "name": "Lavished Attentions",
+            "description": {
+                "general": "You can#t get enough, can you, Captain?"
+            }
+        },
+        "showmansScarf": {
+            "name": "Showman's Scarf",
+            "description": {
+                "general": "Perform feats of artistry with blade and fire"
+            }
+        },
+        "sunsetBelt": {
+            "name": "Sunset Belt",
+            "description": {
+                "general": "\"Your time is up, you sad shits.\""
+            }
+        },
+        "rubyCharm": {
+            "name": "Ruby Charm",
+            "description": {
+                "general": "Somehow unnerving in its brilliance"
+            }
+        },
+        "ambitiousAir": {
+            "name": "Ambitious Air",
+            "description": {
+                "general": "One day, you will reign over all others"
+            }
+        },
+        "stepLively": {
+            "name": "Step Lively",
+            "description": {
+                "general": "The entire Indian Ocean is watching"
+            }
+        },
+        "courtlyContender": {
+            "name": "Courtly Contender",
+            "description": {
+                "general": "You will rise, whatever it takes"
+            }
+        },
+        "reignLikeKings": {
+            "name": "Reign Like Kings",
+            "description": {
+                "general": "Seize the life you deserve"
+            }
+        },
+        "sweepingSerenade": {
+            "name": "Sweeping Serenade",
+            "description": {
+                "general": "Steeped in the colors of violence"
+            }
+        },
+        "songOfBlades": {
+            "name": "Song of Blades",
+            "description": {
+                "general": "Every move is carefully considered"
+            }
+        },
+        "lordlyFortunes": {
+            "name": "Lordly Fortunes",
+            "description": {
+                "general": "The finest touches silver could buy"
+            }
+        },
+        "tranquilNight": {
+            "name": "Tranquil Night",
+            "description": {
+                "general": "For the moments between battles"
+            }
+        },
+        "fantomeNoir": {
+            "name": "Fantome Noir",
+            "description": {
+                "general": "Yours is a tale shrouded in mystery"
+            }
         }
     }
 }
