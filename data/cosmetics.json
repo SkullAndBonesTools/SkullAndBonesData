@@ -26436,5 +26436,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
+    },
+    "aPaleSteed": {
+        "id": "aPaleSteed",
+        "type": "sailsEmblem",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "scythesEdge": {
+        "id": "scythesEdge",
+        "type": "sailsPattern",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "deliciouslyMacabre": {
+        "id": "deliciouslyMacabre",
+        "type": "sailsColor",
+        "effects": "emissive",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "theEndbringer": {
+        "id": "theEndbringer",
+        "type": "figureHead",
+        "effects": ["emissive","combatReactive"],
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "endTimes": {
+        "id": "endTimes",
+        "type": "hull",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "deathRider": {
+        "id": "deathRider",
+        "type": "nameplate",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "deathDivine": {
+        "id": "deathDivine",
+        "type": "wheel",
+        "effects": "emissive",
+        "set": "deathStrides",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }

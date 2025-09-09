@@ -18479,6 +18479,48 @@
             "description": {
                 "general": "Soles worn by blood and other fluids"
             }
+        },
+        "aPaleSteed": {
+            "name": "A Pale Steed",
+            "description": {
+                "general": "An omen of finality"
+            }
+        },
+        "scythesEdge": {
+            "name": "Scythe's Edge",
+            "description": {
+                "general": "Reap indiscriminately"
+            }
+        },
+        "deliciouslyMacabre": {
+            "name": "Deliciously Macabre",
+            "description": {
+                "general": "Let the end take hold, in all its glory"
+            }
+        },
+        "theEndbringer": {
+            "name": "The Endbringer",
+            "description": {
+                "general": "One of four, the deadliest of all"
+            }
+        },
+        "endTimes": {
+            "name": "End Times",
+            "description": {
+                "general": "Fear not the apocalypse"
+            }
+        },
+        "deathRider": {
+            "name": "Death Rider",
+            "description": {
+                "general": "Lead them to their graves"
+            }
+        },
+        "deathDivine": {
+            "name": "Death Divine",
+            "description": {
+                "general": "Steals breath and stops hearts"
+            }
         }
     }
 }
