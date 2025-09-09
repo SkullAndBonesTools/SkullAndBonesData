@@ -26495,5 +26495,46 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
         "lastUpdated": "2025-09-09"
+    },
+    "bonepicker": {
+        "id": "bonepicker",
+        "type": "sailsEmblem",
+        "set": "seaScavengers",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "doomCircles": {
+        "id": "doomCircles",
+        "type": "sailsPattern",
+        "set": "seaScavengers",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "blotTheSun": {
+        "id": "blotTheSun",
+        "type": "sailsColor",
+        "effects": "emissive",
+        "set": "seaScavengers",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "theFinalFeast": {
+        "id": "theFinalFeast",
+        "type": "figureHead",
+        "set": "seaScavengers",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
+    },
+    "driftIntoOblivion": {
+        "id": "driftIntoOblivion",
+        "type": "hull",
+        "set": "seaScavengers",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-09-09",
+        "lastUpdated": "2025-09-09"
     }
 }

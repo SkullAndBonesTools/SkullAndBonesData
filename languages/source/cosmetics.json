@@ -18521,6 +18521,36 @@
             "description": {
                 "general": "Steals breath and stops hearts"
             }
+        },
+        "bonepicker": {
+            "name": "Bonepicker",
+            "description": {
+                "general": "\"All things have value.\""
+            }
+        },
+        "doomCircles": {
+            "name": "Doom Circles",
+            "description": {
+                "general": "Make easy prey of the weak"
+            }
+        },
+        "blotTheSun": {
+            "name": "Blot the Sun",
+            "description": {
+                "general": "The sight of you is bad news indeed"
+            }
+        },
+        "theFinalFeast": {
+            "name": "The Final Feast",
+            "description": {
+                "general": "The Indian Ocean, a feeding ground like none other"
+            }
+        },
+        "driftIntoOblivion": {
+            "name": "Drift Into Oblivion",
+            "description": {
+                "general": "Let the waves swallow what remains"
+            }
         }
     }
 }
