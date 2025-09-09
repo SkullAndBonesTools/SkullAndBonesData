@@ -6881,18 +6881,24 @@
             "blackAriaChest",
             "williamBlackwoodRotatingStore"
         ],
+        "blueprint": "williamBlackwoodSeasonalItemOathsOfWar",
         "worldEvent": "verseOfVengeance",
         "bounty": "verseOfVengeance",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "required": {},
+        "required": {
+            "magnetiteIngot": 12,
+            "woodPitch": 8,
+            "plateGlass": 8,
+            "torsionSpring": 4
+        },
         "perks": [
             "compagnieSpiritsLocker"
         ],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-09"
     },
     "secretCache1": {
         "id": "secretCache1",
