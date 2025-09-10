@@ -26130,7 +26130,7 @@
         "lastUpdated": "2025-09-09"
     },
     "gloryBoundFigureHead": {
-        "id": "gloryBound",
+        "id": "gloryBoundFigureHead",
         "type": "figureHead",
         "effect": "emissive",
         "set": "forTheHoard",
