@@ -1011,7 +1011,7 @@
             }
         },
         "machinistStationRepair": {
-            "name": "Machinist Table (Repair)",
+            "name": "Mesa de maquinista (reparación)",
             "description": {
                 "general": "¡Estas boyas son para nuestros amigos! No les dediques demasiado tiempo."
             }
@@ -1604,7 +1604,7 @@
             }
         },
         "cannonballCarvingStation": {
-            "name": "Shot Carving Station",
+            "name": "Puesto de tallado de balas",
             "description": {
                 "general": "«¡¿Besas a tu madre con esos cañones?!»"
             }
@@ -2704,6 +2704,12 @@
             "name": "La Peste's Strongbox",
             "description": {
                 "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+            }
+        },
+        "wreckedConductorBuoy": {
+            "name": "Wrecked Conductor Buoy",
+            "description": {
+                "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
             }
         }
     }

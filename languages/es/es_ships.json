@@ -91,9 +91,9 @@
             }
         },
         "frigate": {
-            "name": "Frigate",
+            "name": "Fragata",
             "description": {
-                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+                "general": "Un gran barco con defensas sin igual. Irradia un aura poderosa que fortalece a los aliados. Un producto del ingenio de la Compagnie y de materiales avanzados procedentes de Europa."
             }
         }
     }
