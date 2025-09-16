@@ -2705,6 +2705,12 @@
             "description": {
                 "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
             }
+        },
+        "wreckedConductorBuoy": {
+            "name": "Wrecked Conductor Buoy",
+            "description": {
+                "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
+            }
         }
     }
 }

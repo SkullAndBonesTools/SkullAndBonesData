@@ -21,7 +21,7 @@
             "description": ""
         },
         "copperBars": {
-            "name": "Kupfer Bars",
+            "name": "Lingotes de cobre",
             "description": "Un metal de gran valor proveniente de Europa; se origina al refinar cobre a su máxima pureza tiene sus varios usos bélicos"
         },
         "gildmarks": {
@@ -53,7 +53,7 @@
             "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."
         },
         "smugglersMark": {
-            "name": "Smuggler's Mark",
+            "name": "Enseña de contrabandista",
             "description": ""
         },
         "coconut": {
@@ -485,11 +485,11 @@
             "description": ""
         },
         "blackAriaShipPart": {
-            "name": "Black Aria Sword",
+            "name": "Espada del Sonata negra",
             "description": "Una pieza rota tomada del Aria Negra de Armand Hubac. Parece una espada."
         },
         "whiteAriaShipPart": {
-            "name": "White Aria Shield",
+            "name": "Escudo del Sonata blance",
             "description": "Una parte del buque insignia del Aria Blanca de Bertrand Hubac. Parece un escudo."
         },
         "cork": {
@@ -585,7 +585,7 @@
             "description": "Salitre refinado aún más para alcanzar su estado más puro. Puede utilizarse como ingrediente para armas y munición."
         },
         "xanthousStone": {
-            "name": "Xanthous Stone",
+            "name": "Piedra de Xanthous",
             "description": "Un fragmento dorado luminoso que palpita con un resplandor espectral. De cerca casi se oyen débiles ecos y voces."
         },
         "putrefiedZamaharibuScale": {
@@ -601,15 +601,15 @@
             "description": "Una colección de herramientas y materiales poco comunes diseñados para mejorar los objetos cosméticos y dotarlos de detalles más complejos."
         },
         "xanthousGemstone": {
-            "name": "Xanthous Gemstone",
+            "name": "Gem de Xanthous",
             "description": "Una gema brillante que emite un resplandor fascinante. No se sabe muy bien cuál es su forma."
         },
         "masterworkKit": {
-            "name": "Masterwork Kit",
+            "name": "Kit de Obra maestra",
             "description": "Un conjunto de herramientas forjadas con maestría que se utilizan para mejorar por completo la nave y el equipo."
         },
         "ascensionModule": {
-            "name": "Ascension Module",
+            "name": "Módulo de elevación",
             "description": "Un dispositivo avanzado que mejora los objetos, añadiendo ranuras de modificación graduadas para personalizarlos con modificaciones potentes y únicas."
         },
         "primevalFang": {
@@ -617,11 +617,11 @@
             "description": "Un colmillo monstruoso de una bestia de las profundidades. Quien lo posea debe haber desafiado sus fauces."
         },
         "deepIron": {
-            "name": "Deep Iron",
+            "name": "Hierro Profundo",
             "description": ""
         },
         "deepIronPlates": {
-            "name": "Deep Iron Plates",
+            "name": "Placas de Hierro Profundo",
             "description": ""
         }
     }
