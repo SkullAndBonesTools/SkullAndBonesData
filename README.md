@@ -69,10 +69,8 @@ obtainable: premiumEdition
 ```
 
 ### Translation
-You can find the english translation of the data in the [languages](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/languages/en) folder.\
-The translations for other languages can currently be found on [Crowdin](#adding-translations-for-the-data).
-
-*It is planned that at some point the translations will also be present as files in the languages folder.*
+You can find all translations of the data in several languages in the [languages](https://github.com/SkullAndBonesTools/SkullAndBonesData/tree/main/languages) folder.\
+The translations are maintained on and automatically pulled before each release from [Crowdin](#adding-translations-for-the-data).
 
 ## History
 The data available in the repository was originally put together for [Skull and Bones Tools](https://skullandbonestools.de) and got published with **Year 2 Season 1 - Ascent into Chaos** with the goal of supporting other creators and to promote up to date informations by allowing everyone to contribute to the dataset. 
