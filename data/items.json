@@ -10557,7 +10557,16 @@
         "value": 1,
         "weight": 80,
         "gearScore": 20,
-        "required": {},
+        "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
+        "required": {
+            "greenheartPlank": 8,
+            "magnetiteIngot": 8,
+            "roselleCloth": 8,
+            "plagueDust": 6,
+            "blightedFuel": 4,
+            "wyrmVolatileNapalm": 2,
+            "silver": 3600
+        },
         "obtainable": [
             "williamBlackwoodRotatingStore",
             "laPestesLocker"
@@ -10567,7 +10576,7 @@
             "plaguebringersWard"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-06"
+        "lastUpdated": "2025-09-16"
     },
     "quickIgnitingPowder": {
         "id": "quickIgnitingPowder",
