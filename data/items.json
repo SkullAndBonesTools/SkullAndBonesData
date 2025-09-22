@@ -12890,12 +12890,6 @@
     "mortarGrinder1": {
         "id": "mortarGrinder1",
         "tier": 1,
-        "blueprint": [
-            [
-                "corruptDmcOfficerOutpost",
-                "outpostTheRuinedLighthouse"
-            ]
-        ],
         "type": "offensiveFurniture",
         "season": "ascentIntoChaos",
         "gearScore": 15,
@@ -12913,8 +12907,9 @@
             "torsionSpring": 1,
             "silver": 3370
         },
+        "obtainable": "notIntendedToBeObtainable",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-23"
     },
     "infamyChest": {
         "id": "infamyChest",
@@ -13992,12 +13987,6 @@
     "rocketGrinder1": {
         "id": "rocketGrinder1",
         "tier": 1,
-        "blueprint": [
-            [
-                "rempahMerchant",
-                "outpostParujarsCry"
-            ]
-        ],
         "type": "offensiveFurniture",
         "season": "oathsOfWar",
         "gearScore": 15,
@@ -14015,8 +14004,9 @@
             "precisionDrillingBit": 1,
             "silver": 3370
         },
+        "obtainable": "notIntendedToBeObtainable",
         "dateAdded": "2025-07-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-09-23"
     },
     "moonshineChest": {
         "id": "moonshineChest",
