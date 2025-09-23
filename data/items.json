@@ -14560,5 +14560,14 @@
         "type": "quest",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
+    },
+    "flaskOfClearLiquid": {
+        "id": "flaskOfClearLiquid",
+        "rarity": "common",
+        "season": "shadowsOfTheDeep",
+        "worldEvent": "theLoomingShadow",
+        "type": "quest",
+        "dateAdded": "2025-09-23",
+        "lastUpdated": "2025-09-23"
     }
 }
