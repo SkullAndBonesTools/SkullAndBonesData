@@ -230,6 +230,7 @@
         "twitchDropDarktidesLullabyRelease": "Twitch Drop for the release of the Darktide Lullaby event",
         "eventPass": "Event Pass",
         "premiumEventPass": "Premium Event Pass",
-        "darktideAltarTelokPenjarah": "Purchasable during the Darktide Lullaby event at the Darktide Altar in Telok Penjarah"
+        "darktideAltarTelokPenjarah": "Purchasable during the Darktide Lullaby event at the Darktide Altar in Telok Penjarah",
+        "notIntendedToBeObtainable": "Not intended to be obtainable"
     }
 }
