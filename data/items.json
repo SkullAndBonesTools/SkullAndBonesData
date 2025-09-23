@@ -14569,5 +14569,14 @@
         "type": "quest",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
+    },
+    "gildedCompass": {
+        "id": "gildedCompass",
+        "rarity": "common",
+        "season": "shadowsOfTheDeep",
+        "worldEvent": "theWolfHunter",
+        "type": "quest",
+        "dateAdded": "2025-09-23",
+        "lastUpdated": "2025-09-23"
     }
 }

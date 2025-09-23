@@ -2729,6 +2729,12 @@
             "description": {
                 "general": "The liquid shimmers like the nectar of gods."
             }
+        },
+        "gildedCompass": {
+            "name": "Gilded Compass",
+            "description": {
+                "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
+            }
         }
     }
 }
