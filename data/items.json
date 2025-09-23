@@ -14492,7 +14492,7 @@
         "worldEvent": "symphonieMortelle",
         "type": "quest",
         "dateAdded": "2025-09-03",
-        "lastUpdated": "2025-09-03"
+        "lastUpdated": "2025-09-23"
     },
     "tianNingsImperialCloak": {
         "id": "tianNingsImperialCloak",
@@ -14501,7 +14501,7 @@
         "worldEvent": "theGloriousPhoenix",
         "type": "quest",
         "dateAdded": "2025-09-03",
-        "lastUpdated": "2025-09-03"
+        "lastUpdated": "2025-09-23"
     },
     "laPestesHead": {
         "id": "laPestesHead",
@@ -14510,7 +14510,7 @@
         "worldEvent": "thePlagueKing",
         "type": "quest",
         "dateAdded": "2025-09-06",
-        "lastUpdated": "2025-09-06"
+        "lastUpdated": "2025-09-23"
     },
     "laPestesLocker": {
         "id": "laPestesLocker",
