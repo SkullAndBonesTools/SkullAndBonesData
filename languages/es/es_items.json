@@ -2711,6 +2711,36 @@
             "description": {
                 "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
             }
+        },
+        "shadowyBracelet": {
+            "name": "Shadowy Bracelet",
+            "description": {
+                "general": "A bracelet worn by Vikram Rajan, captain of the Schaduw. It pulses with an unnatural aura."
+            }
+        },
+        "necklaceOfTheSkyGoddess": {
+            "name": "Necklace of the Sky Goddess",
+            "description": {
+                "general": "Made of polished jade and precious stones."
+            }
+        },
+        "flaskOfClearLiquid": {
+            "name": "Flask of Clear Liquid",
+            "description": {
+                "general": "The liquid shimmers like the nectar of gods."
+            }
+        },
+        "gildedCompass": {
+            "name": "Gilded Compass",
+            "description": {
+                "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
+            }
+        },
+        "zhangsClaw": {
+            "name": "Zhang's Claw",
+            "description": {
+                "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
+            }
         }
     }
 }
