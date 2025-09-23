@@ -2711,6 +2711,12 @@
             "description": {
                 "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
             }
+        },
+        "shadowyBracelet": {
+            "name": "Shadowy Bracelet",
+            "description": {
+                "general": "A bracelet worn by Vikram Rajan, captain of the Schaduw. It pulses with an unnatural aura."
+            }
         }
     }
 }
