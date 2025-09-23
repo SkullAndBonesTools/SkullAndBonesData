@@ -14489,6 +14489,7 @@
         "id": "locketOfTheDamned",
         "rarity": "common",
         "season": "chorusOfHavoc",
+        "worldEvent": "symphonieMortelle",
         "type": "quest",
         "dateAdded": "2025-09-03",
         "lastUpdated": "2025-09-03"
@@ -14497,6 +14498,7 @@
         "id": "tianNingsImperialCloak",
         "rarity": "common",
         "season": "intoTheDragonsWake",
+        "worldEvent": "theGloriousPhoenix",
         "type": "quest",
         "dateAdded": "2025-09-03",
         "lastUpdated": "2025-09-03"
@@ -14505,6 +14507,7 @@
         "id": "laPestesHead",
         "rarity": "common",
         "season": "ragingTides",
+        "worldEvent": "thePlagueKing",
         "type": "quest",
         "dateAdded": "2025-09-06",
         "lastUpdated": "2025-09-06"
