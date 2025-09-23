@@ -14548,5 +14548,14 @@
         "type": "quest",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
+    },
+    "necklaceOfTheSkyGoddess": {
+        "id": "necklaceOfTheSkyGoddess",
+        "rarity": "common",
+        "season": "intoTheDragonsWake",
+        "worldEvent": "flamesOfThePhoenix",
+        "type": "quest",
+        "dateAdded": "2025-09-23",
+        "lastUpdated": "2025-09-23"
     }
 }

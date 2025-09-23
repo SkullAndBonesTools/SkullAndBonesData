@@ -2717,6 +2717,12 @@
             "description": {
                 "general": "A bracelet worn by Vikram Rajan, captain of the Schaduw. It pulses with an unnatural aura."
             }
+        },
+        "necklaceOfTheSkyGoddess": {
+            "name": "Necklace of the Sky Goddess",
+            "description": {
+                "general": "Made of polished jade and precious stones."
+            }
         }
     }
 }
