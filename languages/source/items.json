@@ -2735,6 +2735,12 @@
             "description": {
                 "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
             }
+        },
+        "zhangsClaw": {
+            "name": "Zhang's Claw",
+            "description": {
+                "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
+            }
         }
     }
 }

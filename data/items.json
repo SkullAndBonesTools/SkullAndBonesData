@@ -14578,5 +14578,14 @@
         "type": "quest",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
+    },
+    "zhangsClaw": {
+        "id": "zhangsClaw",
+        "rarity": "common",
+        "season": "intoTheDragonsWake",
+        "worldEvent": "theSerpentsWrath",
+        "type": "quest",
+        "dateAdded": "2025-09-23",
+        "lastUpdated": "2025-09-23"
     }
 }
