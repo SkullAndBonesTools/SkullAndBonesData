@@ -96,5 +96,47 @@
         "region": "redIsle",
         "dateAdded": "2025-09-24",
         "lastUpdated": "2025-09-24"
+    },
+    "baixioGrande": {
+        "id": "baixioGrande",
+        "factions": ["compagnieRoyale","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "lEscale": {
+        "id": "lEscale",
+        "factions": ["compagnieRoyale","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "easternBasin": {
+        "id": "easternBasin",
+        "factions": ["compagnieRoyale","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "centralBasin": {
+        "id": "centralBasin",
+        "factions": ["dutchMerchantCompany","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "southernBasin": {
+        "id": "southernBasin",
+        "factions": ["dutchMerchantCompany","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "bataviaReefs": {
+        "id": "bataviaReefs",
+        "factions": ["dutchMerchantCompany","pirates"],
+        "region": "openSeas",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
     }
 }

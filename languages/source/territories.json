@@ -41,6 +41,24 @@
         },
         "portLHermine": {
             "name": "Port L'Hermine"
+        },
+        "baixioGrande": {
+            "name": "Baixio Grande"
+        },
+        "lEscale": {
+            "name": "L'Escale"
+        },
+        "easternBasin": {
+            "name": "Eastern Basin"
+        },
+        "centralBasin": {
+            "name": "Central Basin"
+        },
+        "southernBasin": {
+            "name": "Southern Basin"
+        },
+        "bataviaReefs": {
+            "name": "Batavia Reefs"
         }
     }
 }
