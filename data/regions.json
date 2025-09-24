@@ -1,0 +1,26 @@
+{
+    "redIsle": {
+        "id": "redIsle",
+        "factions": ["seaPeople","compagnieRoyale","clanOfFara","pirates"],
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "openSeas": {
+        "id": "openSeas",
+        "factions": ["compagnieRoyale","pirates","dutchMerchantCompany"],
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "coastOfAfrica": {
+        "id": "coastOfAfrica",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "eastIndies": {
+        "id": "eastIndies",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    }
+}
