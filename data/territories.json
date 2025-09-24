@@ -208,5 +208,201 @@
         "region": "coastOfAfrica",
         "dateAdded": "2025-09-24",
         "lastUpdated": "2025-09-24"
+    },
+    "panyarJungle": {
+        "id": "panyarJungle",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "deltaOfSain": {
+        "id": "deltaOfSain",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "patamyarMountains": {
+        "id": "patamyarMountains",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "sunyOutskirts": {
+        "id": "sunyOutskirts",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "berukSea": {
+        "id": "berukSea",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "chichomneahJungle": {
+        "id": "chichomneahJungle",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "deltaOfMe": {
+        "id": "deltaOfMe",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "kaongkangCoast": {
+        "id": "kaongkangCoast",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "gulfOfNakh": {
+        "id": "gulfOfNakh",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "harimauPeninsula": {
+        "id": "harimauPeninsula",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "fortHarimau": {
+        "id": "fortHarimau",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "telokPenjarah": {
+        "id": "telokPenjarah",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "straitOfHarimau": {
+        "id": "straitOfHarimau",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "pemburuIslands": {
+        "id": "pemburuIslands",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "zamrud": {
+        "id": "zamrud",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "easternGateSea": {
+        "id": "easternGateSea",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "nilamSea": {
+        "id": "nilamSea",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "logamHighlands": {
+        "id": "logamHighlands",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "musonStrait": {
+        "id": "musonStrait",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "hutanRainforest": {
+        "id": "hutanRainforest",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "hutanHighlands": {
+        "id": "hutanHighlands",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "trisulaSea": {
+        "id": "trisulaSea",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "nagaSea": {
+        "id": "nagaSea",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "cendonoStrait": {
+        "id": "cendonoStrait",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "trisulaCoast": {
+        "id": "trisulaCoast",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "nagaCoast": {
+        "id": "nagaCoast",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "spiceIslands": {
+        "id": "spiceIslands",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "ringOfFire": {
+        "id": "ringOfFire",
+        "factions": ["dutchMerchantCompany","dominionOfRempah"],
+        "region": "eastIndies",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
     }
 }
