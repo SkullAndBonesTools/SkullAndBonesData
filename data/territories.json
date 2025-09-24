@@ -1,0 +1,100 @@
+{
+    "islandsOfTheMoon": {
+        "id": "islandsOfTheMoon",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "angayaCoast": {
+        "id": "angayaCoast",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "theGiantsLeap": {
+        "id": "theGiantsLeap",
+        "factions": ["pirates","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "riverMouths": {
+        "id": "riverMouths",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "rovaHill": {
+        "id": "rovaHill",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "reefSea": {
+        "id": "reefSea",
+        "factions": ["compagnieRoyale","clanOfFara"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "southwestPassage": {
+        "id": "southwestPassage",
+        "factions": ["compagnieRoyale","clanOfFara"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "learntMensHill": {
+        "id": "learntMensHill",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "noisyBe": {
+        "id": "noisyBe",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "teninaCoast": {
+        "id": "teninaCoast",
+        "factions": ["compagnieRoyale","clanOfFara","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "sainteAnne": {
+        "id": "sainteAnne",
+        "factions": ["pirates","seaPeople","compagnieRoyale"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "bloodyChannel": {
+        "id": "bloodyChannel",
+        "factions": ["compagnieRoyale","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "ileRoyale": {
+        "id": "ileRoyale",
+        "factions": ["compagnieRoyale","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "portLHermine": {
+        "id": "portLHermine",
+        "factions": ["compagnieRoyale","seaPeople"],
+        "region": "redIsle",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    }
+}
