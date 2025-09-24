@@ -11,10 +11,12 @@ import ar_items from '../languages/ar/ar_items.json';
 import ar_locations from '../languages/ar/ar_locations.json';
 import ar_materials from '../languages/ar/ar_materials.json';
 import ar_modifications from '../languages/ar/ar_modifications.json';
+import ar_regions from '../languages/ar/ar_regions.json';
 import ar_perks from '../languages/ar/ar_perks.json';
 import ar_seasons from '../languages/ar/ar_seasons.json';
 import ar_sets from '../languages/ar/ar_sets.json';
 import ar_ships from '../languages/ar/ar_ships.json';
+import ar_territories from '../languages/ar/ar_territories.json';
 import ar_ultimates from '../languages/ar/ar_ultimates.json';
 import ar_worldEvents from '../languages/ar/ar_worldEvents.json';
 
@@ -29,10 +31,12 @@ import de_items from '../languages/de/de_items.json';
 import de_locations from '../languages/de/de_locations.json';
 import de_materials from '../languages/de/de_materials.json';
 import de_modifications from '../languages/de/de_modifications.json';
+import de_regions from '../languages/de/de_regions.json';
 import de_perks from '../languages/de/de_perks.json';
 import de_seasons from '../languages/de/de_seasons.json';
 import de_sets from '../languages/de/de_sets.json';
 import de_ships from '../languages/de/de_ships.json';
+import de_territories from '../languages/de/de_territories.json';
 import de_ultimates from '../languages/de/de_ultimates.json';
 import de_worldEvents from '../languages/de/de_worldEvents.json';
 
@@ -47,10 +51,12 @@ import en_items from '../languages/en/en_items.json';
 import en_locations from '../languages/en/en_locations.json';
 import en_materials from '../languages/en/en_materials.json';
 import en_modifications from '../languages/en/en_modifications.json';
+import en_regions from '../languages/en/en_regions.json';
 import en_perks from '../languages/en/en_perks.json';
 import en_seasons from '../languages/en/en_seasons.json';
 import en_sets from '../languages/en/en_sets.json';
 import en_ships from '../languages/en/en_ships.json';
+import en_territories from '../languages/en/en_territories.json';
 import en_ultimates from '../languages/en/en_ultimates.json';
 import en_worldEvents from '../languages/en/en_worldEvents.json';
 
@@ -65,10 +71,12 @@ import es_items from '../languages/es/es_items.json';
 import es_locations from '../languages/es/es_locations.json';
 import es_materials from '../languages/es/es_materials.json';
 import es_modifications from '../languages/es/es_modifications.json';
+import es_regions from '../languages/es/es_regions.json';
 import es_perks from '../languages/es/es_perks.json';
 import es_seasons from '../languages/es/es_seasons.json';
 import es_sets from '../languages/es/es_sets.json';
 import es_ships from '../languages/es/es_ships.json';
+import es_territories from '../languages/es/es_territories.json';
 import es_ultimates from '../languages/es/es_ultimates.json';
 import es_worldEvents from '../languages/es/es_worldEvents.json';
 
@@ -83,10 +91,12 @@ import fr_items from '../languages/fr/fr_items.json';
 import fr_locations from '../languages/fr/fr_locations.json';
 import fr_materials from '../languages/fr/fr_materials.json';
 import fr_modifications from '../languages/fr/fr_modifications.json';
+import fr_regions from '../languages/fr/fr_regions.json';
 import fr_perks from '../languages/fr/fr_perks.json';
 import fr_seasons from '../languages/fr/fr_seasons.json';
 import fr_sets from '../languages/fr/fr_sets.json';
 import fr_ships from '../languages/fr/fr_ships.json';
+import fr_territories from '../languages/fr/fr_territories.json';
 import fr_ultimates from '../languages/fr/fr_ultimates.json';
 import fr_worldEvents from '../languages/fr/fr_worldEvents.json';
 
@@ -101,10 +111,12 @@ type LanguageData = {
     locations: { [key in keyof typeof en_locations.locations]: string };
     materials: typeof en_materials.materials;
     modifications: typeof en_modifications.modifications;
+    regions: typeof en_regions.regions;
     perks: typeof en_perks.perks;
     seasons: typeof en_seasons.seasons;
     sets: typeof en_sets.sets;
     ships: typeof en_ships.ships;
+    territories: typeof en_territories.territories;
     ultimates: typeof en_ultimates.ultimates;
     worldEvents: typeof en_worldEvents.worldEvents;
 };
@@ -147,10 +159,12 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(ar_locations, ar_seasons),
         materials: ar_materials.materials,
         modifications: ar_modifications.modifications,
+        regions: ar_regions.regions,
         perks: ar_perks.perks,
         seasons: ar_seasons.seasons,
         sets: ar_sets.sets,
         ships: ar_ships.ships,
+        territories: ar_territories.territories,
         ultimates: ar_ultimates.ultimates,
         worldEvents: ar_worldEvents.worldEvents,
     },
@@ -165,10 +179,12 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(de_locations, de_seasons),
         materials: de_materials.materials,
         modifications: de_modifications.modifications,
+        regions: de_regions.regions,
         perks: de_perks.perks,
         seasons: de_seasons.seasons,
         sets: de_sets.sets,
         ships: de_ships.ships,
+        territories: de_territories.territories,
         ultimates: de_ultimates.ultimates,
         worldEvents: de_worldEvents.worldEvents,
     },
@@ -183,10 +199,12 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(en_locations, en_seasons),
         materials: en_materials.materials,
         modifications: en_modifications.modifications,
+        regions: en_regions.regions,
         perks: en_perks.perks,
         seasons: en_seasons.seasons,
         sets: en_sets.sets,
         ships: en_ships.ships,
+        territories: en_territories.territories,
         ultimates: en_ultimates.ultimates,
         worldEvents: en_worldEvents.worldEvents,
     },
@@ -201,10 +219,12 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(es_locations, es_seasons),
         materials: es_materials.materials,
         modifications: es_modifications.modifications,
+        regions: es_regions.regions,
         perks: es_perks.perks,
         seasons: es_seasons.seasons,
         sets: es_sets.sets,
         ships: es_ships.ships,
+        territories: es_territories.territories,
         ultimates: es_ultimates.ultimates,
         worldEvents: es_worldEvents.worldEvents,
     },
@@ -219,10 +239,12 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(fr_locations, fr_seasons),
         materials: fr_materials.materials,
         modifications: fr_modifications.modifications,
+        regions: fr_regions.regions,
         perks: fr_perks.perks,
         seasons: fr_seasons.seasons,
         sets: fr_sets.sets,
         ships: fr_ships.ships,
+        territories: fr_territories.territories,
         ultimates: fr_ultimates.ultimates,
         worldEvents: fr_worldEvents.worldEvents,
     },

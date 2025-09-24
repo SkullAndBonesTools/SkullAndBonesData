@@ -1,0 +1,46 @@
+{
+    "territories": {
+        "islandsOfTheMoon": {
+            "name": "Islands of the Moon"
+        },
+        "angayaCoast": {
+            "name": "Angaya Coast"
+        },
+        "theGiantsLeap": {
+            "name": "The Giant's Leap"
+        },
+        "riverMouths": {
+            "name": "River Mouths"
+        },
+        "rovaHill": {
+            "name": "Rova Hill"
+        },
+        "reefSea": {
+            "name": "Reef Sea"
+        },
+        "southwestPassage": {
+            "name": "Southwest Passage"
+        },
+        "learntMensHill": {
+            "name": "Learnt Men's Hill"
+        },
+        "noisyBe": {
+            "name": "Noisy Be"
+        },
+        "teninaCoast": {
+            "name": "Tenina Coast"
+        },
+        "sainteAnne": {
+            "name": "Sainte-Anne"
+        },
+        "bloodyChannel": {
+            "name": "Bloody Channel"
+        },
+        "ileRoyale": {
+            "name": "Île Royale"
+        },
+        "portLHermine": {
+            "name": "Port L'Hermine"
+        }
+    }
+}
