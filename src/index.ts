@@ -8,9 +8,11 @@ export { Factions } from "./daos/factions";
 export { Items } from "./daos/items";
 export { Materials } from "./daos/materials";
 export { Modifications } from "./daos/modifications";
+export { Regions } from "./daos/regions";
 export { Seasons } from "./daos/seasons";
 export { Sets } from "./daos/sets";
 export { Ships } from "./daos/ships";
+export { Territories } from "./daos/territories";
 export { Ultimates } from "./daos/ultimates";
 export { WorldEvents } from "./daos/worldEvents";
 
