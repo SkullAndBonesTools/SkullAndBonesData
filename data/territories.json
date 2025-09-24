@@ -138,5 +138,75 @@
         "region": "openSeas",
         "dateAdded": "2025-09-24",
         "lastUpdated": "2025-09-24"
+    },
+    "westernBasin": {
+        "id": "westernBasin",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "pembe": {
+        "id": "pembe",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "lakeBwawa": {
+        "id": "lakeBwawa",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "jiwe": {
+        "id": "jiwe",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "zimaKubwa": {
+        "id": "zimaKubwa",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "harufu": {
+        "id": "harufu",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "lakeBuri": {
+        "id": "lakeBuri",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "sultaniIsland": {
+        "id": "sultaniIsland",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "rondavels": {
+        "id": "rondavels",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
+    },
+    "pilotBay": {
+        "id": "pilotBay",
+        "factions": ["compagnieRoyale","confederationOfUngwana"],
+        "region": "coastOfAfrica",
+        "dateAdded": "2025-09-24",
+        "lastUpdated": "2025-09-24"
     }
 }

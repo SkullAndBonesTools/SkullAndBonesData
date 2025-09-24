@@ -59,6 +59,36 @@
         },
         "bataviaReefs": {
             "name": "Batavia Reefs"
+        },
+        "westernBasin": {
+            "name": "Western Basin"
+        },
+        "pembe": {
+            "name": "Pembe"
+        },
+        "lakeBwawa": {
+            "name": "Lake Bwawa"
+        },
+        "jiwe": {
+            "name": "Jiwe"
+        },
+        "zimaKubwa": {
+            "name": "Zima Kubwa"
+        },
+        "harufu": {
+            "name": "Harufu"
+        },
+        "lakeBuri": {
+            "name": "Lake Buri"
+        },
+        "sultaniIsland": {
+            "name": "Sultani Island"
+        },
+        "rondavels": {
+            "name": "Rondavels"
+        },
+        "pilotBay": {
+            "name": "Pilot Bay"
         }
     }
 }
