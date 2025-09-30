@@ -1413,9 +1413,9 @@
         "id": "calicoHues",
         "type": "hull",
         "set": "suaveSeadog",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","suaveSeadogCosmeticsChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-17"
+        "lastUpdated": "2025-09-30"
     },
     "fromTheAbyss": {
         "id": "fromTheAbyss",
@@ -2035,9 +2035,9 @@
         "id": "calicoDyes",
         "type": "sailsColor",
         "set": "suaveSeadog",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","suaveSeadogCosmeticsChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-03-18"
+        "lastUpdated": "2025-09-30"
     },
     "bloodWithWine": {
         "id": "bloodWithWine",
@@ -2686,9 +2686,9 @@
         "id": "calicoTrim",
         "type": "sailsPattern",
         "set": "suaveSeadog",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","suaveSeadogCosmeticsChest"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-19"
+        "lastUpdated": "2025-09-30"
     },
     "spiderCrow": {
         "id": "spiderCrow",
@@ -3129,9 +3129,9 @@
         "id": "laughingSkull",
         "type": "sailsEmblem",
         "set": "suaveSeadog",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","suaveSeadogCosmeticsChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2025-09-30"
     },
     "theNefarious": {
         "id": "theNefarious",
