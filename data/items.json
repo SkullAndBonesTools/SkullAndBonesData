@@ -14587,5 +14587,16 @@
         "type": "quest",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
+    },
+    "suaveSeadogCosmeticsChest": {
+        "id": "suaveSeadogCosmeticsChest",
+        "rarity": "legendary",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-09-30",
+        "lastUpdated": "2025-09-30"
     }
 }
