@@ -459,9 +459,9 @@
         "id": "markOfTheFree",
         "type": "trophy",
         "set": "suaveSeadog",
-        "obtainable": "premiumPass",
+        "obtainable": ["ubisoftStore","suaveSeadogCosmeticsChest"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-05-10"
+        "lastUpdated": "2025-10-03"
     },
     "calibansPinions": {
         "id": "calibansPinions",
