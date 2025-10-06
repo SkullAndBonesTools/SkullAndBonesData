@@ -38,7 +38,8 @@ export class Item {
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
         public readonly contract?: Contract,
-        public readonly faction?: Faction
+        public readonly faction?: Faction,
+        public readonly unobtainable?: boolean
     ) {}
 
     public static fromRawData(rawData: any): Item {
@@ -88,7 +89,8 @@ export class Item {
             rawData.armor ?? undefined,
             rawData.damageMitigation ?? undefined,
             rawData.contract ? Contracts[contract] : undefined,
-            rawData.faction ? Factions[faction] : undefined
+            rawData.faction ? Factions[faction] : undefined,
+            rawData.unobtainable ?? false
         );
     }
 
