@@ -48,7 +48,8 @@
     "copperBars": {
         "rarity": "epic",
         "category": "helm",
-        "faction": "theHelm"
+        "faction": "theHelm",
+        "deprecated": true
     },
     "gildmarks": {
         "rarity": "epic",

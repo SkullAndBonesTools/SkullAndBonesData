@@ -266,7 +266,8 @@
     "copperBars": {
         "rarity": "epic",
         "category": "theHelm",
-        "faction": "theHelm"
+        "faction": "theHelm",
+        "deprecated": true
     },
     "gildmarks": {
         "rarity": "epic",
@@ -276,7 +277,8 @@
     "crystalizedTaintedWood": {
         "rarity": "epic",
         "category": "theHelm",
-        "faction": "shadowLegion"
+        "faction": "shadowLegion",
+        "deprecated": true
     },
     "silverSnuff": {
         "rarity": "legendary",

@@ -12,7 +12,8 @@ export class Commodity {
         public readonly category: CommodityCategory,
         public readonly event?: Event,
         public readonly faction?: Faction,
-        public readonly contract?: Contract
+        public readonly contract?: Contract,
+        public readonly deprecated?: boolean
     ) {}
 
     public static fromRawData(rawData: any): Commodity {
@@ -26,7 +27,8 @@ export class Commodity {
             rawData.category as CommodityCategory,
             event ? Events[event] : undefined,
             faction ? Factions[faction] : undefined,
-            contract ? Contracts[contract] : undefined
+            contract ? Contracts[contract] : undefined,
+            rawData.deprecated ?? false
         );
     }
 

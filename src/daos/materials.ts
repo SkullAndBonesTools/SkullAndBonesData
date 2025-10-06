@@ -12,14 +12,16 @@ export class Material {
     requiredRank?: string;
     faction?: Faction;
     event?: Event;
+    deprecated?: boolean;
 
-    constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event) {
+    constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event, deprecated?: boolean) {
         this.id = id;
         this.rarity = rarity;
         this.category = category;
         this.requiredRank = requiredRank;
         this.faction = faction;
         this.event = event;
+        this.deprecated = deprecated;
     }
 
     public static fromRawData(key: string, rawData: any): Material {
@@ -31,7 +33,8 @@ export class Material {
             rawData.category as MaterialCategory,
             rawData.requiredRank ?? undefined,
             faction ? Factions[faction] : undefined,
-            event ? Events[event] : undefined
+            event ? Events[event] : undefined,
+            rawData.deprecated ?? false
         );
     }
 
