@@ -6910,17 +6910,26 @@
             "moonshineStrongbox",
             "williamBlackwoodRotatingStore"
         ],
+        "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
         "event": "dragonsRegatta",
         "type": "utilityFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "required": {},
+        "required": {
+            "roselleCloth": 8,
+            "greenheartPlank": 8,
+            "magnetiteIngot": 8,
+            "azureDragonHead": 6,
+            "yellowDragonBanner": 4,
+            "eelSturdyRopes": 2,
+            "silver": 3600
+        },
         "perks": [
             "secretCache1"
         ],
         "dateAdded": "2024-06-03",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-07"
     },
     "bombardMenuiserie1": {
         "id": "bombardMenuiserie1",
@@ -9171,12 +9180,21 @@
             "convoyShipDrop",
             "williamBlackwoodRotatingStore"
         ],
-        "required": {},
+        "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
+        "required": {
+            "roselleCloth": 12,
+            "magnetiteIngot": 12,
+            "greenheartPlank": 12,
+            "quicklime": 6,
+            "purifiedSaltpeter": 6,
+            "wyrmVolatileNapalm": 2,
+            "silver": 3600
+        },
         "perks": [
             "leatherFashioningStation1"
         ],
         "dateAdded": "2024-07-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-07"
     },
     "lestariTrophy": {
         "id": "lestariTrophy",
