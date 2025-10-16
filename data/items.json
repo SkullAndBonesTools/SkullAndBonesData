@@ -7177,7 +7177,8 @@
             "flooding": 0.15,
             "fire": 0,
             "tearing": 0,
-            "piercing": 0.1
+            "piercing": 0.1,
+            "poison": 0.05
         },
         "perks": [
             "bedarUpgrade6",
@@ -7345,7 +7346,8 @@
             "fire": 0.1,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.05
         },
         "perks": [
             "hulkUpgrade6",
@@ -7514,7 +7516,8 @@
             "fire": 0,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.05
         },
         "perks": [
             "cutterUpgrade6",
@@ -7678,12 +7681,13 @@
             "piecesOfEight": 8000
         },
         "damageMitigation": {
-            "explosive": 0,
+            "explosive": 0.05,
             "flooding": 0.1,
             "fire": 0.15,
             "tearing": 0,
             "piercing": 0,
-            "electric": 0
+            "electric": 0,
+            "poison": 0
         },
         "perks": [
             "bargeUpgrade6",
@@ -7852,7 +7856,8 @@
             "fire": 0,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0
+            "electric": 0.05,
+            "poison": 0
         },
         "perks": [
             "sloopUpgrade6",
@@ -8023,8 +8028,9 @@
             "flooding": 0,
             "fire": 0.1,
             "tearing": 0,
-            "piercing": 0,
-            "electric": 0
+            "piercing": 0.05,
+            "electric": 0,
+            "poison": 0
         },
         "perks": [
             "padewakangUpgrade6",
@@ -8197,7 +8203,8 @@
             "fire": 0.05,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.05
+            "electric": 0.05,
+            "poison": 0.05
         },
         "perks": [
             "snowUpgrade6",
@@ -8365,12 +8372,13 @@
             "piecesOfEight": 10000
         },
         "damageMitigation": {
-            "explosive": 0,
+            "explosive": 0.5,
             "flooding": 0.15,
             "fire": 0.1,
             "tearing": 0,
             "piercing": 0,
-            "electric": 0
+            "electric": 0,
+            "poison": 0
         },
         "perks": [
             "brigantineUpgrade6",
@@ -8538,12 +8546,13 @@
             "piecesOfEight": 10000
         },
         "damageMitigation": {
-            "explosive": 0,
+            "explosive": 0.05,
             "flooding": 0,
             "fire": 0.15,
             "tearing": 0,
             "piercing": 0,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0
         },
         "perks": [
             "sambukUpgrade6",
@@ -8715,8 +8724,9 @@
             "flooding": 0,
             "fire": 0.1,
             "tearing": 0,
-            "piercing": 0,
-            "electric": 0.1
+            "piercing": 0.05,
+            "electric": 0.1,
+            "poison": 0
         },
         "perks": [
             "barqueUpgrade6",
@@ -8889,7 +8899,8 @@
             "fire": 0.1,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0
+            "electric": 0,
+            "poison": 0.05
         },
         "perks": [
             "brigUpgrade6",
@@ -10424,7 +10435,8 @@
             "fire": 0.05,
             "tearing": 0,
             "piercing": 0.05,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.05
         },
         "perks": [
             "battleJunkUpgrade6",
@@ -10774,7 +10786,8 @@
             "fire": 0,
             "tearing": 0,
             "piercing": 0.15,
-            "electric": 0
+            "electric": 0.05,
+            "poison": 0
         },
         "perks": [
             "garudaUpgrade6",
@@ -11785,7 +11798,8 @@
             "fire": 0,
             "tearing": 0,
             "piercing": 0,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.05
         },
         "perks": [
             "schoonerUpgrade6",
