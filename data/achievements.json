@@ -439,5 +439,149 @@
         "goal": 10,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
+    },
+    "warlord1": {
+        "id": "warlord1",
+        "category": "TBD",
+        "tier": 1,
+        "goal": 10000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "warlord2": {
+        "id": "warlord2",
+        "category": "TBD",
+        "tier": 2,
+        "goal": 20000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "warlord3": {
+        "id": "warlord3",
+        "category": "TBD",
+        "tier": 3,
+        "goal": 30000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "hubacHunter": {
+        "id": "hubacHunter",
+        "category": "TBD",
+        "goal": 5000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "laPesteHunter": {
+        "id": "laPesteHunter",
+        "category": "TBD",
+        "goal": 5000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "liTianNingHunter": {
+        "id": "liTianNingHunter",
+        "category": "TBD",
+        "goal": 5000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "vikramHunter": {
+        "id": "vikramHunter",
+        "category": "TBD",
+        "goal": 5000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "dominator": {
+        "id": "dominator",
+        "category": "TBD",
+        "goal": 50,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "doomsday": {
+        "id": "doomsday",
+        "category": "TBD",
+        "goal": 50,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "pirateHunter": {
+        "id": "pirateHunter",
+        "category": "TBD",
+        "goal": 50,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theMedic": {
+        "id": "theMedic",
+        "category": "TBD",
+        "goal": 5000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "claimToFameY2S3": {
+        "id": "claimToFameY2S3",
+        "category": "seasonal",
+        "goal": 200000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "deadeye": {
+        "id": "deadeye",
+        "category": "TBD",
+        "goal": 1000000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "invader1": {
+        "id": "invader1",
+        "category": "TBD",
+        "tier": 1,
+        "goal": 10,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "epicFloodingGunMastery": {
+        "id": "epicFloodingGunMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "epicPoisonCulverinMastery": {
+        "id": "epicPoisonCulverinMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "epicPoisonSeaFireMastery": {
+        "id": "epicPoisonSeaFireMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "epicPoisonTorpedoMastery": {
+        "id": "epicPoisonTorpedoMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "genericBombardMastery": {
+        "id": "genericBombardMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "lightningSeaFireMastery": {
+        "id": "lightningSeaFireMastery",
+        "category": "mastery",
+        "goal": 500000,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

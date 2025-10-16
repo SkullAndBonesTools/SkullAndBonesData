@@ -171,6 +171,78 @@
         "pirateKnight": {
             "name": "Pirate Knight",
             "description": "Loot %s Merchant Convoys"
+        },
+        "warlord": {
+            "name": "Warlord",
+            "description": "Earn %s war assets in Faction War"
+        },
+        "hubacHunter": {
+            "name": "Hubac Hunter",
+            "description": "Deal %s weak-point damage with Culverin in Hubac Twins' Domain"
+        },
+        "laPesteHunter": {
+            "name": "La Peste Hunter",
+            "description": "Deal %s weak-point damage with Torpedoes in La Peste's Domain"
+        },
+        "liTianNingHunter": {
+            "name": "Li Tian Ning Hunter",
+            "description": "Deal %s weak-point damage with Ballista in Li Tian Ning's Domain"
+        },
+        "vikramHunter": {
+            "name": "Vikram Hunter",
+            "description": "Deal %s weak-point damage with Sea Fire in Vikram's Domain"
+        },
+        "dominator": {
+            "name": "Dominator",
+            "description": "Capture %s points in Tidebreaker"
+        },
+        "doomsday": {
+            "name": "Doomsday",
+            "description": "Win %s rounds in Fleetfire"
+        },
+        "pirateHunter": {
+            "name": "Pirate Hunter",
+            "description": "Defeat %s pirates in Fleetfire"
+        },
+        "theMedic": {
+            "name": "The Medic",
+            "description": "Repair %s value on friendly pirates in Tidebreaker"
+        },
+        "claimToFameY2S3": {
+            "name": "Claim to Fame (Y2S3)",
+            "description": "Gain %s Infamy in Year 2 Season 3"
+        },
+        "deadeye": {
+            "name": "Deadeye",
+            "description": "Deal %s weak-point damage in Halloween"
+        },
+        "invader": {
+            "name": "Invader",
+            "description": "Complete Halloween events %s times"
+        },
+        "epicFloodingGunMastery": {
+            "name": "Epic Flooding Gun Mastery",
+            "description": "Deal %s weak-point damage using The Drowned One"
+        },
+        "epicPoisonCulverinMastery": {
+            "name": "Epic Poison Culverin Mastery",
+            "description": "Deal %s weak-point damage using Rotmouth"
+        },
+        "epicPoisonSeaFireMastery": {
+            "name": "Epic Poison Sea Fire Mastery",
+            "description": "Deal %s weak-point damage using Virulent Accord"
+        },
+        "epicPoisonTorpedoMastery": {
+            "name": "Epic Poison Torpedo Mastery",
+            "description": "Deal %s weak-point damage using Blightbringer"
+        },
+        "genericBombardMastery": {
+            "name": "Generic Bombard Mastery",
+            "description": "Deal %s weak-point damage using Frostwail"
+        },
+        "lightningSeaFireMastery": {
+            "name": "Lightning Sea Fire Mastery",
+            "description": "Deal %s weak-point damage using Heavenly Thunder"
         }
     }
 }
