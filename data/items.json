@@ -1369,7 +1369,7 @@
             "fire": 0.18,
             "tearing": 0,
             "piercing": 0.2,
-            "poison": 0.2
+            "toxic": 0.2
         },
         "required": {
             "magnetiteIngot": 14,
@@ -1404,7 +1404,7 @@
             "tearing": 0,
             "piercing": 0,
             "electric": 0.2,
-            "poison": 0
+            "toxic": 0
         },
         "required": {
             "silver": 3800,
@@ -1444,7 +1444,7 @@
             "fire": 0.15,
             "tearing": 0,
             "piercing": 0.15,
-            "poison": 0.25
+            "toxic": 0.25
         },
         "required": {
             "plagueDust": 8,
@@ -1482,7 +1482,7 @@
             "fire": 0.25,
             "tearing": 0,
             "piercing": 0.25,
-            "poison": 0.28
+            "toxic": 0.28
         },
         "required": {
             "greenheartPlank": 14,
@@ -1518,7 +1518,7 @@
             "tearing": 0,
             "piercing": 0.3,
             "electric": 0.12,
-            "poison": 0.12
+            "toxic": 0.12
         },
         "required": {
             "wormDrive": 3,
@@ -6985,7 +6985,7 @@
             "fire": 0.2,
             "tearing": 0,
             "piercing": 0,
-            "poison": 0.18
+            "toxic": 0.18
         },
         "required": {
             "woodPitch": 6,
@@ -7186,7 +7186,7 @@
             "fire": 0,
             "tearing": 0,
             "piercing": 0.1,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "bedarUpgrade6",
@@ -7355,7 +7355,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.1,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "hulkUpgrade6",
@@ -7525,7 +7525,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.1,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "cutterUpgrade6",
@@ -7695,7 +7695,7 @@
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "bargeUpgrade6",
@@ -7865,7 +7865,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "sloopUpgrade6",
@@ -8038,7 +8038,7 @@
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "padewakangUpgrade6",
@@ -8212,7 +8212,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "snowUpgrade6",
@@ -8386,7 +8386,7 @@
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "brigantineUpgrade6",
@@ -8560,7 +8560,7 @@
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "sambukUpgrade6",
@@ -8734,7 +8734,7 @@
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.1,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "barqueUpgrade6",
@@ -8908,7 +8908,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "brigUpgrade6",
@@ -9667,7 +9667,7 @@
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.2,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "required": {},
         "perks": [
@@ -9846,7 +9846,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
-            "poison": 0.1
+            "toxic": 0.1
         },
         "required": {
             "phoenixPinion": 8,
@@ -10226,7 +10226,7 @@
             "tearing": 0,
             "piercing": 0.17,
             "electric": 0.09,
-            "poison": 0.09
+            "toxic": 0.09
         },
         "required": {},
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
@@ -10435,7 +10435,7 @@
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.1,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "battleJunkUpgrade6",
@@ -10786,7 +10786,7 @@
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0.05,
-            "poison": 0
+            "toxic": 0
         },
         "perks": [
             "garudaUpgrade6",
@@ -10963,7 +10963,7 @@
             "tearing": 0,
             "piercing": 0.27,
             "electric": 0.05,
-            "poison": 0.17
+            "toxic": 0.17
         },
         "required": {},
         "perks": [
@@ -10991,7 +10991,7 @@
             "tearing": 0,
             "piercing": 0.25,
             "electric": 0.15,
-            "poison": 0.1
+            "toxic": 0.1
         },
         "required": {
             "roselleCloth": 12,
@@ -11024,7 +11024,7 @@
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.1,
-            "poison": 0.1
+            "toxic": 0.1
         },
         "required": {},
         "perks": [
@@ -11793,7 +11793,7 @@
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "perks": [
             "schoonerUpgrade6",
@@ -11903,7 +11903,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.2,
-            "poison": 0.1
+            "toxic": 0.1
         },
         "required": {
             "woodPitch": 10,
@@ -11937,7 +11937,7 @@
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.1,
-            "poison": 0.1
+            "toxic": 0.1
         },
         "required": {},
         "obtainable": "smugglerPass",
@@ -13872,7 +13872,7 @@
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.35,
-            "poison": 0.05
+            "toxic": 0.05
         },
         "obtainable": "smugglerPass",
         "perks": [
