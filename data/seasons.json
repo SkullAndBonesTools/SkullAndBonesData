@@ -47,5 +47,12 @@
         "startDate": "2025-07-15",
         "endDate": "2025-10-20",
         "color": "#B79675"
+    },
+    "gutsAndGlory": {
+        "index": 7,
+        "id": "gutsAndGlory",
+        "startDate": "2025-10-21",
+        "endDate": "2026-02-10",
+        "color": "#A80905"
     }
 }
