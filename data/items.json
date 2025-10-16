@@ -1368,7 +1368,8 @@
             "flooding": 0,
             "fire": 0.18,
             "tearing": 0,
-            "piercing": 0.2
+            "piercing": 0.2,
+            "poison": 0.2
         },
         "required": {
             "magnetiteIngot": 14,
@@ -1383,7 +1384,7 @@
         ],
         "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "ouroboros": {
         "id": "ouroboros",
@@ -1401,7 +1402,9 @@
             "flooding": 0.3,
             "fire": 0.3,
             "tearing": 0,
-            "piercing": 0
+            "piercing": 0,
+            "electric": 0.2,
+            "poison": 0
         },
         "required": {
             "silver": 3800,
@@ -1416,7 +1419,7 @@
             "restoration"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "wrathfulWard": {
         "id": "wrathfulWard",
@@ -1440,7 +1443,8 @@
             "flooding": 0.25,
             "fire": 0.15,
             "tearing": 0,
-            "piercing": 0.15
+            "piercing": 0.15,
+            "poison": 0.25
         },
         "required": {
             "plagueDust": 8,
@@ -1454,7 +1458,7 @@
             "venemousVengeance"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-09-06"
+        "lastUpdated": "2025-10-21"
     },
     "wailingWard": {
         "id": "wailingWard",
@@ -1477,7 +1481,8 @@
             "flooding": 0.15,
             "fire": 0.25,
             "tearing": 0,
-            "piercing": 0.25
+            "piercing": 0.25,
+            "poison": 0.28
         },
         "required": {
             "greenheartPlank": 14,
@@ -1492,7 +1497,7 @@
             "agileGuard"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "royalCustodian": {
         "id": "royalCustodian",
@@ -1511,7 +1516,9 @@
             "flooding": 0.12,
             "fire": 0.12,
             "tearing": 0,
-            "piercing": 0.3
+            "piercing": 0.3,
+            "electric": 0.12,
+            "poison": 0.12
         },
         "required": {
             "wormDrive": 3,
@@ -1525,7 +1532,7 @@
             "refortify"
         ],
         "dateAdded": "2024-02-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "mortar1": {
         "id": "mortar1",
@@ -6182,7 +6189,8 @@
             "flooding": 0.25,
             "fire": 0,
             "tearing": 0,
-            "piercing": 0.25
+            "piercing": 0.25,
+            "electric": 0.25
         },
         "required": {
             "roselleCloth": 8,
@@ -6196,7 +6204,7 @@
             "crescendo"
         ],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "buccaneersOath": {
         "id": "buccaneersOath",
@@ -6213,7 +6221,8 @@
             "flooding": 0.15,
             "fire": 0.2,
             "tearing": 0,
-            "piercing": 0.2
+            "piercing": 0.2,
+            "electric": 0.15
         },
         "required": {
             "lacquer": 6,
@@ -6228,7 +6237,7 @@
         ],
         "obtainable": ["legacyCache3","legacyCache1"],
         "dateAdded": "2024-05-26",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "dummySpringloader1": {
         "id": "dummySpringloader1",
@@ -6606,7 +6615,7 @@
         "gearScore": 297,
         "armor": 1150,
         "damageMitigation": {
-            "explosive": 0,
+            "explosive": 0.2,
             "flooding": 0.23,
             "fire": 0.18,
             "tearing": 0,
@@ -6625,7 +6634,7 @@
             "impenetrable"
         ],
         "dateAdded": "2024-06-01",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "buoyShellsCrate": {
         "id": "buoyShellsCrate",
@@ -6977,7 +6986,8 @@
             "flooding": 0.35,
             "fire": 0.2,
             "tearing": 0,
-            "piercing": 0
+            "piercing": 0,
+            "poison": 0.18
         },
         "required": {
             "woodPitch": 6,
@@ -6992,7 +7002,7 @@
             "ironPlastron"
         ],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "cursedBanner": {
         "id": "cursedBanner",
@@ -9668,7 +9678,8 @@
             "fire": 0.05,
             "tearing": 0,
             "piercing": 0.2,
-            "electric": 0.2
+            "electric": 0.2,
+            "poison": 0.05
         },
         "required": {
             "sovereigns": 600
@@ -9677,7 +9688,7 @@
             "lightningStream"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "hongYiPao": {
         "id": "hongYiPao",
@@ -9848,7 +9859,8 @@
             "fire": 0.35,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.05
+            "electric": 0.05,
+            "poison": 0.1
         },
         "required": {
             "phoenixPinion": 8,
@@ -9876,7 +9888,7 @@
             "gloat"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "organHarvestingStation": {
         "id": "organHarvestingStation",
@@ -10227,7 +10239,8 @@
             "fire": 0.22,
             "tearing": 0,
             "piercing": 0.17,
-            "electric": 0.09
+            "electric": 0.09,
+            "poison": 0.09
         },
         "required": {},
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
@@ -10235,7 +10248,7 @@
             "indomitable"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "voltasWard": {
         "id": "voltasWard",
@@ -10965,7 +10978,8 @@
             "fire": 0.07,
             "tearing": 0,
             "piercing": 0.27,
-            "electric": 0.05
+            "electric": 0.05,
+            "poison": 0.17
         },
         "required": {
             "sovereigns": 600
@@ -10974,7 +10988,7 @@
             "rally"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "pishacha": {
         "id": "pishacha",
@@ -10994,7 +11008,8 @@
             "fire": 0.05,
             "tearing": 0,
             "piercing": 0.25,
-            "electric": 0.15
+            "electric": 0.15,
+            "poison": 0.1
         },
         "required": {
             "roselleCloth": 12,
@@ -11008,7 +11023,7 @@
             "phantasmicThrust"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "tanashah": {
         "id": "tanashah",
@@ -11026,7 +11041,8 @@
             "fire": 0.15,
             "tearing": 0,
             "piercing": 0.2,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.1
         },
         "required": {},
         "perks": [
@@ -11034,7 +11050,7 @@
             "reinforced"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "painPiper": {
         "id": "painPiper",
@@ -11875,7 +11891,7 @@
         "gearScore": 297,
         "armor": 1210,
         "damageMitigation": {
-            "explosive": 0,
+            "explosive": 0.25,
             "flooding": 0.1,
             "fire": 0.4,
             "tearing": 0,
@@ -11891,7 +11907,7 @@
             "emberWard"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "nocturneHeart": {
         "id": "nocturneHeart",
@@ -11908,7 +11924,8 @@
             "fire": 0.2,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.2
+            "electric": 0.2,
+            "poison": 0.1
         },
         "required": {
             "woodPitch": 10,
@@ -11924,7 +11941,7 @@
             "euphoria"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "silverSentinel": {
         "id": "silverSentinel",
@@ -11941,7 +11958,8 @@
             "fire": 0.1,
             "tearing": 0,
             "piercing": 0.2,
-            "electric": 0.1
+            "electric": 0.1,
+            "poison": 0.1
         },
         "required": {},
         "obtainable": "smugglerPass",
@@ -11949,7 +11967,7 @@
             "vigilance"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "floodingBombard1": {
         "id": "floodingBombard1",
@@ -13875,7 +13893,8 @@
             "fire": 0.05,
             "tearing": 0,
             "piercing": 0.1,
-            "electric": 0.35
+            "electric": 0.35,
+            "poison": 0.05
         },
         "obtainable": "smugglerPass",
         "perks": [
@@ -13883,7 +13902,7 @@
             "bastion"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "novaArma": {
         "id": "novaArma",
@@ -13895,7 +13914,7 @@
         "gearScore": 297,
         "armor": 1150,
         "damageMitigation": {
-            "explosive": 0.15,
+            "explosive": 0.30,
             "flooding": 0.2,
             "fire": 0.15,
             "tearing": 0,
@@ -13910,7 +13929,7 @@
             "volatileVestment"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "trunnionFurnace": {
         "id": "trunnionFurnace",
