@@ -833,5 +833,52 @@
         "perks": ["grit","colossal","abundantGunports"],
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-08-14"
+    },
+    "sloopOfWar": {
+        "id": "sloopOfWar",
+        "size": "medium",
+        "type": "ships",
+        "archetype": "dps",
+        "blueprint": "smugglerPass45Reward",
+        "season": "gutsAndGlory",
+        "hitpoints": 0,
+        "braceStrength": 0,
+        "braceStrengthRecovery": 1,
+        "stamina": 100,
+        "baseRank": 4,
+        "sailSpeed": {
+            "halfSail": 0,
+            "fullSail": 0,
+            "travelSail": 0
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 0
+        },
+        "required": {},
+        "slots": {
+            "attachement": [1,1],
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 5,
+                "lower": 3
+            }],
+            "rightSideWeapon": [1,{
+                "top": 5,
+                "lower": 3
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": [1,1],
+            "furniture": [5,1],
+            "ultimate": [1,1]
+        },
+        "perks": ["plaguebringer"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

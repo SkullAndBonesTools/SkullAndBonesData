@@ -95,6 +95,12 @@
             "description": {
                 "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
             }
+        },
+        "sloopOfWar": {
+            "name": "Sloop of War",
+            "description": {
+                "general": "Excels at dealing damage over time and is especially efficient in combat with Toxic weapons."
+            }
         }
     }
 }

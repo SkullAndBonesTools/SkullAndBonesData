@@ -2827,6 +2827,21 @@
                     "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
                 ]
             }
+        },
+        "plaguebringer": {
+            "name": "Plaguebringer",
+            "description": {
+                "general": [
+                    "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
+                    "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+                ]
+            }
+        },
+        "spite": {
+            "name": "Spite",
+            "description": {
+                "general": "When attacking a target under the Poisoned status effect, the target will deal 50 Toxic Damage per second to nearby hostiles within 300m for 10 seconds. It decreases weapon damage received from the targets under Poisoned status effect by 30%"
+            }
         }
     }
 }
