@@ -90,11 +90,13 @@
     },
     "sisal": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "linen": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "hemp": {
         "rarity": "common",
@@ -102,7 +104,8 @@
     },
     "ramie": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "abaka": {
         "rarity": "common",
@@ -118,15 +121,18 @@
     },
     "nickel": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "pureIron": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "copper": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "cobalt": {
         "rarity": "common",
@@ -150,15 +156,18 @@
     },
     "iroko": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "mopane": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "ironwood": {
         "rarity": "common",
-        "category": "raw"
+        "category": "raw",
+        "deprecated": true
     },
     "juniper": {
         "rarity": "common",
@@ -305,14 +314,16 @@
         "category": "refined",
         "raw": {
             "sisal": 5
-        }
+        },
+        "deprecated": true
     },
     "fineLinen": {
         "rarity": "uncommon",
         "category": "refined",
         "raw": {
             "linen": 5
-        }
+        },
+        "deprecated": true
     },
     "fineHemp": {
         "rarity": "uncommon",
@@ -326,7 +337,8 @@
         "category": "refined",
         "raw": {
             "ramie": 5
-        }
+        },
+        "deprecated": true
     },
     "fineAbaka": {
         "rarity": "uncommon",
@@ -354,21 +366,24 @@
         "category": "refined",
         "raw": {
             "nickel": 3
-        }
+        },
+        "deprecated": true
     },
     "steelIngot": {
         "rarity": "uncommon",
         "category": "refined",
         "raw": {
             "pureIron": 3
-        }
+        },
+        "deprecated": true
     },
     "bronzeIngot": {
         "rarity": "uncommon",
         "category": "refined",
         "raw": {
             "copper": 3
-        }
+        },
+        "deprecated": true
     },
     "cobaltIngot": {
         "rarity": "uncommon",
@@ -410,21 +425,24 @@
         "category": "refined",
         "raw": {
             "iroko": 5
-        }
+        },
+        "deprecated": true
     },
     "mopanePlank": {
         "rarity": "uncommon",
         "category": "refined",
         "raw": {
             "mopane": 5
-        }
+        },
+        "deprecated": true
     },
     "ironwoodPlank": {
         "rarity": "uncommon",
         "category": "refined",
         "raw": {
             "ironwood": 5
-        }
+        },
+        "deprecated": true
     },
     "juniperPlank": {
         "rarity": "uncommon",
@@ -500,7 +518,8 @@
             "fineRamie": 5,
             "ironwoodPlank": 5,
             "steelIngot": 5
-        }
+        },
+        "deprecated": true
     },
     "woodTar": {
         "rarity": "rare",
@@ -510,7 +529,8 @@
             "mopanePlank": 5,
             "cobaltIngot": 5,
             "fineHemp": 5
-        }
+        },
+        "deprecated": true
     },
     "sheetGlass": {
         "rarity": "rare",
@@ -520,7 +540,8 @@
             "zincIngot": 5,
             "fineAbaka": 5,
             "juniperPlank": 5
-        }
+        },
+        "deprecated": true
     },
     "lime": {
         "rarity": "rare",
@@ -530,7 +551,8 @@
             "teakPlank": 5,
             "nickelIngot": 5,
             "fineSisal": 5
-        }
+        },
+        "deprecated": true
     },
     "crudeSaltpeter": {
         "rarity": "rare",
@@ -651,7 +673,8 @@
         "faction": "compagnieRoyale",
         "raw": {
             "woodTar": 5
-        }
+        },
+        "deprecated": true
     },
     "plateGlass": {
         "rarity": "epic",
@@ -659,7 +682,8 @@
         "faction": "dutchMerchantCompany",
         "raw": {
             "sheetGlass": 5
-        }
+        },
+        "deprecated": true
     },
     "dryCastingSand": {
         "rarity": "epic",
@@ -675,7 +699,8 @@
         "faction": "dominionOfRempah",
         "raw": {
             "shellac": 5
-        }
+        },
+        "deprecated": true
     },
     "sinewString": {
         "rarity": "epic",
@@ -738,7 +763,8 @@
         "faction": "confederationOfUngwana",
         "raw": {
             "lime": 5
-        }
+        },
+        "deprecated": true
     },
     "purifiedSaltpeter": {
         "rarity": "rare",
