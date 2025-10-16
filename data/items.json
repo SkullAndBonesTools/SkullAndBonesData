@@ -1835,7 +1835,7 @@
         "rarity": "epic",
         "season": "ragingTides",
         "requiredRank": "kingpin1",
-        "obtainable": ["laPestesStrongbox","theHelmSeasonal","legacyCache1"],
+        "obtainable": ["laPestesStrongbox","legacyCache1"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -1846,16 +1846,14 @@
         "optimalRange": 600,
         "timeToTarget": 5750,
         "blastRadius": 50,
-        "required": {
-            "sovereigns": 600
-        },
+        "required": {},
         "perks": [
             "blast",
             "putrefying",
             "noDefaultCrit"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-09-06"
+        "lastUpdated": "2025-10-21"
     },
     "rocket1": {
         "id": "rocket1",
@@ -3182,7 +3180,7 @@
         "perks": [
             "gunnersQuadrant"
         ],
-        "obtainable": ["legacyCache3","legacyCache1"],
+        "obtainable": ["legacyCache3","legacyCache1","legacyCache4"],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2025-09-04"
     },
@@ -9560,23 +9558,21 @@
         "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
-        "required": {
-            "sovereigns": 350
-        },
-        "obtainable": ["theHelmSeasonal","legacyCache3"],
+        "required": {},
+        "obtainable": ["legacyCache3","legacyCache4"],
         "perks": [
             "sharedSupply",
             "repair2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "thousandYearMonsoon": {
         "id": "thousandYearMonsoon",
         "type": "bombard",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": "legacyCache4",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9587,23 +9583,21 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 33,
-        "required": {
-            "sovereigns": 350
-        },
+        "required": {},
         "perks": [
             "deluge",
             "flooding2",
             "explosive1"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "crouchingTiger": {
         "id": "crouchingTiger",
         "type": "mortar",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": ["theHelmSeasonal","legacyCache3"],
+        "obtainable": ["legacyCache3"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -9614,9 +9608,7 @@
         "optimalRange": 600,
         "timeToTarget": 5750,
         "blastRadius": 50,
-        "required": {
-            "sovereigns": 450
-        },
+        "required": {},
         "perks": [
             "taunting",
             "blast",
@@ -9624,7 +9616,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "spitefulSpikesStation": {
         "id": "spitefulSpikesStation",
@@ -9634,15 +9626,13 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {
-            "sovereigns": 400
-        },
-        "obtainable": ["theHelmSeasonal","legacyCache3"],
+        "required": {},
+        "obtainable": ["legacyCache3"],
         "perks": [
             "spitefulSpikesStation"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "emergencySails": {
         "id": "emergencySails",
@@ -9652,21 +9642,19 @@
         "value": 1,
         "weight": 80,
         "gearScore": 20,
-        "required": {
-            "sovereigns": 300
-        },
-        "obtainable": "theHelmSeasonal",
+        "required": {},
+        "obtainable": "legacyCache4",
         "perks": [
             "emergencySails"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "celestialDance": {
         "id": "celestialDance",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
+        "obtainable": ["legacyCache3","legacyCache1"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -9681,9 +9669,7 @@
             "electric": 0.2,
             "poison": 0.05
         },
-        "required": {
-            "sovereigns": 600
-        },
+        "required": {},
         "perks": [
             "lightningStream"
         ],
@@ -10874,7 +10860,7 @@
         "type": "seaFire",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 750,
         "gearScore": 91,
@@ -10885,16 +10871,14 @@
         "reloadSpeed": 11000,
         "projectileSpeed": 1,
         "optimalRange": 250,
-        "required": {
-            "sovereigns": 350
-        },
+        "required": {},
         "perks": [
             "pneumaticEngine",
             "piercing2",
             "burning1"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "eyeOfHeaven": {
         "id": "eyeOfHeaven",
@@ -10966,7 +10950,7 @@
         "id": "crimsonLotus",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "obtainable": "theHelmSeasonal",
+        "obtainable": "williamBlackwoodRotatingStore",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -10981,9 +10965,7 @@
             "electric": 0.05,
             "poison": 0.17
         },
-        "required": {
-            "sovereigns": 600
-        },
+        "required": {},
         "perks": [
             "rally"
         ],
@@ -11117,15 +11099,13 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {
-            "sovereigns": 400
-        },
-        "obtainable": "theHelmSeasonal",
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStore",
         "perks": [
             "chainedLinks"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "teulingsGuidance": {
         "id": "teulingsGuidance",
@@ -11218,12 +11198,10 @@
         "perks": [
             "mineClearingLocker"
         ],
-        "required": {
-            "sovereigns": 300
-        },
-        "obtainable": "theHelmSeasonal",
+        "required": {},
+        "obtainable": "williamBlackwoodRotatingStore",
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "devilsConcoction": {
         "id": "devilsConcoction",
@@ -13456,9 +13434,9 @@
         "tier": 4,
         "value": 1,
         "weight": 100,
-        "obtainable": "deathTidesProgression",
+        "obtainable": ["deathTidesProgression","theHelm"],
         "dateAdded": "2025-05-27",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "mutuallyAssuredSetChest": {
         "id": "mutuallyAssuredSetChest",
