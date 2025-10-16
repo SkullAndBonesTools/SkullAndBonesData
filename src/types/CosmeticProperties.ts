@@ -9,7 +9,7 @@ export const ShipCosmeticTypes = [
 ] as const;
 export type ShipCosmeticType = (typeof ShipCosmeticTypes)[number];
 export const PlayerOutfitTypes = [
-    "headwear", "faceAccessory", "torso", "neck", "forearm", "hand", "waist", "bottom", "footwear", "bodyCosmetics", "emote"
+    "headwear", "faceAccessory", "torso", "neck", "forearm", "hand", "waist", "bottom", "footwear", "bodyCosmetics", "characterSuit", "emote"
 ] as const;
 export type PlayerOutfitType = (typeof PlayerOutfitTypes)[number];
 export const PlayerAppearanceTypes = [
