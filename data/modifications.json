@@ -1077,5 +1077,85 @@
         "grade": "special",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2025-05-25"
+    },
+    "acrid": {
+        "id": "acrid",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [113, 188]
+            }
+        ],
+        "effectType": "extraElementalDamage",
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "noxious": {
+        "id": "noxious",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "effectType": "addElementalDamage",
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "direToxic": {
+        "id": "direToxic",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.09, 0.15]
+            }
+        ],
+        "effectType": "ignoreResistance",
+        "damageType": "toxic",
+        "requiredDamageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "amplifiedToxic": {
+        "id": "amplifiedToxic",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.225, 0.375]
+            }
+        ],
+        "effectType": "bonusElementalDamage",
+        "damageType": "toxic",
+        "requiredDamageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "advanced",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "antidotes": {
+        "id": "antidotes",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard"],
+                "range": [0.075, 0.125]
+            }
+        ],
+        "dropOnly": false,
+        "repairAccess": "exclusive",
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

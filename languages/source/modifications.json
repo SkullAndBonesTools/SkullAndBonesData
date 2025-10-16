@@ -307,6 +307,26 @@
         "longArmRepair": {
             "name": "Long Arm (Repair)",
             "description": "Hits that land at 70% of Maximum Range or further also restores %s-%s% more Repair Amount"
+        },
+        "acrid": {
+            "name": "Acrid",
+            "description": "Every hit deals an extra burst of %s-%s Toxic Damage"
+        },
+        "noxious": {
+            "name": "Noxious",
+            "description": "Adds %s-%s% damage as Toxic Damage"
+        },
+        "direToxic": {
+            "name": "Dire Toxic",
+            "description": "Hits ignore %s-%s% of the target's Toxic resistance"
+        },
+        "amplifiedToxic": {
+            "name": "Amplified Toxic",
+            "description": "Increases existing Toxic Damage by %s-%s%"
+        },
+        "antidotes": {
+            "name": "Antidotes",
+            "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
         }
     }
 }
