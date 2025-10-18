@@ -301,7 +301,7 @@
         },
         "floodingDuration": {
             "description": {
-                "1": "Increases duration of the Flooded effect on enemy ships by 10%"
+                "1": "Die Dauer des Effekts \"Überflutet\" auf gegnerischen Schiffen wird um 10 % verlängert"
             }
         },
         "repairAmountFromRepairWeapons": {
@@ -1270,7 +1270,7 @@
         "padewakangSiegeUpgrade": {
             "name": "Belagerung",
             "description": {
-                "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
+                "general": "Bei halben Segeln oder vor Anker wird Waffenschaden um 35 % erhöht, während Nachladezeit für Sprengwaffen um 15 % verringert wird"
             }
         },
         "padewakangUpgrade": {

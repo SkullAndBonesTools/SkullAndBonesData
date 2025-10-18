@@ -165,8 +165,8 @@
             "description": "Segle %s Minuten lang durch einen Sturm."
         },
         "colossalVessel": {
-            "name": "Colossal Vessel",
-            "description": "Build %s Large Frigate"
+            "name": "Kolossales Schiff",
+            "description": "Baue %s große Fregatte"
         },
         "pirateKnight": {
             "name": "Piratenritter",

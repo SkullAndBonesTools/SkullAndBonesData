@@ -2151,13 +2151,13 @@
             }
         },
         "whiteAriaChest": {
-            "name": "White Aria Chest",
+            "name": "Weiße Aria Truhe",
             "description": {
                 "general": "A treasure chest seized from Bertrand Hubac's flagship."
             }
         },
         "blackAriaChest": {
-            "name": "Black Aria Chest",
+            "name": "Schwarze Aria Truhe",
             "description": {
                 "general": "A treasure chest seized from Armand Hubac's flagship."
             }
