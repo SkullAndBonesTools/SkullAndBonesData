@@ -13,7 +13,10 @@ export type Grade = (typeof ModificationGrades)[number];
 export type RepairAccess = "none" | "shared" | "exclusive";
 export type EffectType = "ignoreResistance" | "bonusElementalDamage" | "addElementalDamage" | "increaseDamage" | "increaseReloadSpeed" | "extraElementalDamage" | 
     "extraDamage" | "increaseProjectileSpeed" | "increaseProjectileRange" | "reduceTimeToTarget" | "increaseCritDamage" | "increaseSiegeDamage" |
-    "increaseSailDamage" | "increaseBlastRadius" | "increaseBuoyOperationTime" | "increaseBuoyHealth";
+    "increaseSailDamage" | "increaseBlastRadius" | "increaseBuoyOperationTime" | "increaseBuoyHealth" |
+    // Armor related effects
+    "increaseArmor" | "reduceDamageWhileBracing" | "increaseElementalResistance" | "increaseHullHealth" | "increaseBraceStrength" | "increaseStamina" |
+    "hullRepairPerSecond" | "increaseBraceStrengthRecovery" | "increaseRepairAmountOfRepairKits";
 export const DamageTypes = [
     "piercing", "electric", "explosive", "flooding", "burning", "tearing", "toxic", "overall", "base"
 ] as const;

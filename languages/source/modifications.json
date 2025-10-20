@@ -327,6 +327,54 @@
         "antidotes": {
             "name": "Antidotes",
             "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
+        },
+        "armored": {
+            "name": "Armored",
+            "description": "Increases Armor by %s-%s"
+        },
+        "rugged": {
+            "name": "Rugged",
+            "description": "Reduces incoming damage by %s-%s while Bracing"
+        },
+        "fireResistant": {
+            "name": "Fire Resistant",
+            "description": "Increases Fire Resistance by %s-%s%"
+        },
+        "floodingResistant": {
+            "name": "Flooding Resistant",
+            "description": "Increases Flooding Resistance by %s-%s%"
+        },
+        "piercingResistant": {
+            "name": "Piercing Resistant",
+            "description": "Increases Piercing Resistance by %s-%s%"
+        },
+        "explosiveResistant": {
+            "name": "Explosive Resistant",
+            "description": "Increases Explosive Resistance by %s-%s%"
+        },
+        "electricResistant": {
+            "name": "Electric Resistant",
+            "description": "Increases Electric Resistance by %s-%s%"
+        },
+        "toxicResistant": {
+            "name": "Toxic Resistant",
+            "description": "Increases Toxic Resistance by %s-%s%"
+        },
+        "tearingResistant": {
+            "name": "Tearing Resistant",
+            "description": "Increases Tearing Resistance by %s-%s%"
+        },
+        "stout": {
+            "name": "Stout",
+            "description": "Increases Hull Health by %s-%s"
+        },
+        "strength": {
+            "name": "Strength",
+            "description": "Increases Brace Strength by %s-%s"
+        },
+        "vigor": {
+            "name": "Vigor",
+            "description": "Increases Crew Stamina by %s-%s"
         }
     }
 }

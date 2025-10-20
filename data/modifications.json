@@ -1157,5 +1157,192 @@
         "grade": "basic",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "armored": {
+        "id": "armored",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [75, 125]
+            }
+        ],
+        "effectType": "increaseArmor",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "rugged": {
+        "id": "rugged",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [120, 180]
+            }
+        ],
+        "effectType": "reduceDamageWhileBracing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "fireResistant": {
+        "id": "fireResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "burning",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "floodingResistant": {
+        "id": "floodingResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "flooding",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "piercingResistant": {
+        "id": "piercingResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "piercing",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "explosiveResistant": {
+        "id": "explosiveResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "explosive",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "electricResistant": {
+        "id": "electricResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "electric",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "toxicResistant": {
+        "id": "toxicResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "toxic",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "tearingResistant": {
+        "id": "tearingResistant",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.07]
+            }
+        ],
+        "damageType": "tearing",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "stout": {
+        "id": "stout",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [3750, 6250]
+            }
+        ],
+        "effectType": "increaseHullHealth",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "strength": {
+        "id": "strength",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [2000, 3000]
+            }
+        ],
+        "effectType": "increaseBraceStrength",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "vigor": {
+        "id": "vigor",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.1, 0.2]
+            }
+        ],
+        "effectType": "increaseStamina",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

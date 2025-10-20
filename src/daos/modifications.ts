@@ -3,7 +3,7 @@ import { WeaponType } from '../types/ItemProperties';
 import { DamageType, EffectType, Grade, RepairAccess } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
-    itemType: WeaponType[],
+    itemType: WeaponType[] | "armor",
     range: number[]
 }
 
