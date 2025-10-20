@@ -14702,5 +14702,69 @@
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "stinkpotStation": {
+        "id": "stinkpotStation",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "stinkpotStation"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sheetingWinchConsole": {
+        "id": "sheetingWinchConsole",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "sheetingWinchConsole"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "gimbalRingStores": {
+        "id": "gimbalRingStores",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "gimbalRingStores"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "siphonFurnace": {
+        "id": "siphonFurnace",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "siphonFurnace"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

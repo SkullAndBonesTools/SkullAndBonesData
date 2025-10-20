@@ -2765,6 +2765,30 @@
             "description": {
                 "general": ""
             }
+        },
+        "stinkpotStation": {
+            "name": "Stinkpot Station",
+            "description": {
+                "general": "A station patchworked together with La Peste's many designs, boosting the efectiveness of Toxic Weapons and Poisoned Status effect."
+            }
+        },
+        "sheetingWinchConsole": {
+            "name": "Sheeting Winch Console",
+            "description": {
+                "general": "A shelf of equipment that ease sailing maneuvers, boosting weapon damage and sailing speed."
+            }
+        },
+        "gimbalRingStores": {
+            "name": "Gimbal Ring Stores",
+            "description": {
+                "general": "A table used to optimize Demicannon projectiles, enhancing Demicannon weapons with range and speed."
+            }
+        },
+        "siphonFurnace": {
+            "name": "Siphon Furnace",
+            "description": {
+                "general": "A table used to optimize Toxic Weapons, enhancing their range and speed."
+            }
         }
     }
 }

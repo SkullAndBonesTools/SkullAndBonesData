@@ -2860,6 +2860,42 @@
             "description": {
                 "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
             }
+        },
+        "stinkpotStation": {
+            "description": {
+                "general": [
+                    "Hits with a Toxic Weapon on a target within 250m, deal 12% more damage if they are Bracing",
+                    "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
+                    "Increases Toxic Damage to enemy ships by 8%"
+                ]
+            }
+        },
+        "sheetingWinchConsole": {
+            "description": {
+                "general": [
+                    "Gain 0.8% weapon damage per 1kts of sailing Speed",
+                    "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
+                    "Increases Acceleration by 20%"
+                ]
+            }
+        },
+        "gimbalRingStores": {
+            "description": {
+                "general": [
+                    "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
+                    "Increases Projectile Speed of Demicannon Weapons by 14%",
+                    "Increases Maximum Range of Demicannon Weapons by 12%"
+                ]
+            }
+        },
+        "siphonFurnace": {
+            "description": {
+                "general": [
+                    "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
+                    "Increases Projectile Speed of Toxic Weapons by 12%",
+                    "Increases Maximum Range of Toxic Weapons by 10%"
+                ]
+            }
         }
     }
 }
