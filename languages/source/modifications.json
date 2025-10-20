@@ -415,6 +415,29 @@
         "supreme": {
             "name": "Supreme",
             "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
+        },
+        "steelIntegration": {
+            "name": "Steel Integration",
+            "description": [
+                "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
+                "Adds 5% Piercing and Explosive resistance"
+            ]
+        },
+        "coalesce": {
+            "name": "Coalesce",
+            "description": "%s-%s% chance that 50% of damage braced restores Hull Health. This effect only occurs after bracing ends"
+        },
+        "watcher": {
+            "name": "Watcher",
+            "description": "Any damage taken while Bracing has a %s-%s% chance of being reduced by 1750"
+        },
+        "respite": {
+            "name": "Respite",
+            "description": "When Bracing damage, there's a %s-%s% chance to repair 500 Hull Health and 100 Severe Damage per second for the net 5 seconds. This effect has a cooldown of 10 seconds"
+        },
+        "jester": {
+            "name": "Jester",
+            "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
         }
     }
 }

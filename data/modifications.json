@@ -1490,5 +1490,75 @@
         "grade": "advanced",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "steelIntegration": {
+        "id": "steelIntegration",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [3, 15]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "coalesce": {
+        "id": "coalesce",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.05, 0.2]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "watcher": {
+        "id": "watcher",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.05, 0.2]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "respite": {
+        "id": "respite",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.05, 0.25]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "jester": {
+        "id": "jester",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.11, 0.17]
+            }
+        ],
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "special",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
