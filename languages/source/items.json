@@ -2747,6 +2747,24 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of Suave Seadog Set"
             }
+        },
+        "trondraDra": {
+            "name": "Trondra-dra",
+            "description": {
+                "general": ""
+            }
+        },
+        "rivotrasGrace": {
+            "name": "Rivotra's Grace",
+            "description": {
+                "general": ""
+            }
+        },
+        "sumuSunder": {
+            "name": "Sumu Sunder",
+            "description": {
+                "general": ""
+            }
         }
     }
 }

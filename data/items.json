@@ -14627,5 +14627,80 @@
         "weight": 100,
         "dateAdded": "2025-09-30",
         "lastUpdated": "2025-09-30"
+    },
+    "trondraDra": {
+        "id": "trondraDra",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 100,
+        "armor": 1000,
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "resurgence"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "rivotrasGrace": {
+        "id": "rivotrasGrace",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 100,
+        "armor": 1000,
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "windcaller"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sumuSunder": {
+        "id": "sumuSunder",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 100,
+        "armor": 1000,
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0
+        },
+        "required": {},
+        "obtainable": "",
+        "perks": [
+            "immunity"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
