@@ -375,6 +375,46 @@
         "vigor": {
             "name": "Vigor",
             "description": "Increases Crew Stamina by %s-%s"
+        },
+        "ironclad": {
+            "name": "Ironclad",
+            "description": "Increases Armor by %s-%s%"
+        },
+        "stalwart": {
+            "name": "Stalwart",
+            "description": "Increases Hull Health by %s-%s%"
+        },
+        "fortitude": {
+            "name": "Fortitude",
+            "description": "Increases Brace Strength by %s-%s%"
+        },
+        "maintenance": {
+            "name": "Maintenance",
+            "description": "Repairs %s-%s Hull Health per second"
+        },
+        "determination": {
+            "name": "Determination",
+            "description": "Increases Brace Strength Recovery by %s-%s% per second"
+        },
+        "barbarian": {
+            "name": "Barbarian",
+            "description": "When Hull Health is below 25%, increases Weapon damage by %s-%s%"
+        },
+        "survivor": {
+            "name": "Survivor",
+            "description": "When Hull Health drops below 25%, repairs %s-%s% Hull Health over 10 seconds. This effect has a 30 second cooldown"
+        },
+        "craftsman": {
+            "name": "Craftsman",
+            "description": "Increases Repair Amount of Repair Kits by %s-%s%"
+        },
+        "resilience": {
+            "name": "Resilience",
+            "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
+        },
+        "supreme": {
+            "name": "Supreme",
+            "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
         }
     }
 }
