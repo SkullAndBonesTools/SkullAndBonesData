@@ -2789,6 +2789,30 @@
             "description": {
                 "general": "A table used to optimize Toxic Weapons, enhancing their range and speed."
             }
+        },
+        "causticSpallStation": {
+            "name": "Caustic Spall Station",
+            "description": {
+                "general": "A workbench used to tinker with Flooding Weapon ammo, boosting the Flooding damage dealt and Flooded Status Effect."
+            }
+        },
+        "leydenVaultArray": {
+            "name": "Leyden Vault Array",
+            "description": {
+                "general": "A cupboard holding materials salvaged from the Shadowbeast's waters, enhancing Lightning Weapons and the Stormstruck effect."
+            }
+        },
+        "cascadeCoilBench": {
+            "name": "Cascade Coil Bench",
+            "description": {
+                "general": "A table used to optimize Sea Fire Weapons, enhancing their range and damage."
+            }
+        },
+        "curareCrushingBench": {
+            "name": "Curare Crushing Bench",
+            "description": {
+                "general": "A table used to optimize Toxic damage dealt, enhancing the Poisoned Status Duration and Charge rate."
+            }
         }
     }
 }

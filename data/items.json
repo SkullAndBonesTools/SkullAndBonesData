@@ -14766,5 +14766,65 @@
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "causticSpallStation": {
+        "id": "causticSpallStation",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "obtainable": "",
+        "perks": [
+            "causticSpallStation"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "leydenVaultArray": {
+        "id": "leydenVaultArray",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "obtainable": "",
+        "perks": [
+            "leydenVaultArray"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "cascadeCoilBench": {
+        "id": "cascadeCoilBench",
+        "rarity": "rare",
+        "season": "gutsAndGlory",
+        "type": "",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "obtainable": "",
+        "perks": [
+            "cascadeCoilBench"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "curareCrushingBench": {
+        "id": "curareCrushingBench",
+        "rarity": "rare",
+        "season": "gutsAndGlory",
+        "type": "",
+        "gearScore": 25,
+        "value": 1,
+        "weight": 80,
+        "obtainable": "",
+        "perks": [
+            "curareCrushingBench"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

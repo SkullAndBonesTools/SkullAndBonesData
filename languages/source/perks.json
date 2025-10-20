@@ -2896,6 +2896,40 @@
                     "Increases Maximum Range of Toxic Weapons by 10%"
                 ]
             }
+        },
+        "causticSpallStation": {
+            "description": {
+                "general": [
+                    "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
+                    "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
+                    "Increases damage to enemy ships with the Flooding effect by 10%"
+                ]
+            }
+        },
+        "leydenVaultArray": {
+            "description": {
+                "general": [
+                    "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
+                    "Reduces Reload Time of Electric Weapons by 6%",
+                    "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+                ]
+            }
+        },
+        "cascadeCoilBench": {
+            "description": {
+                "general": [
+                    "Increases weapon damage of Sea Fire by 13%",
+                    "Increases Secondary damage of Sea Fire by 15%"
+                ]
+            }
+        },
+        "curareCrushingBench": {
+            "description": {
+                "general": [
+                    "Increases Charge rate of the Poisoned status effect on a target by 8%",
+                    "Increases duration of the Poisoned effect on enemy ships by 8%"
+                ]
+            }
         }
     }
 }
