@@ -601,12 +601,12 @@
         "laPotenceSchematics": {
             "description": {
                 "general": [
-                    "Increases damage to weakpoints to enemy ships",
-                    "Reveals weakpoints on the Fleet of Pestilence"
+                    "Increases damage to weakpoints to enemy ships by 10%",
+                    "Penetrates 10% of Toxic Resistance"
                 ],
                 "1": [
                     "Increases damage to weakpoints to enemy ships by 10%",
-                    "Reveals weakpoints on the Fleet of Pestilence"
+                    "Penetrates 10% of Toxic Resistance"
                 ]
             }
         },
