@@ -2929,6 +2929,42 @@
                     "Increases duration of the Poisoned effect on enemy ships by 8%"
                 ]
             }
+        },
+        "infectious": {
+            "name": "Infectious",
+            "description": {
+                "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+            }
+        },
+        "lancerSeaFire": {
+            "name": "Lancer",
+            "description": {
+                "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+            }
+        },
+        "virulent": {
+            "name": "Virulent",
+            "description": {
+                "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+            }
+        },
+        "contagion": {
+            "name": "Contagion",
+            "description": {
+                "general": "Afflicts target with the Gaseous status effect for 4s, which deals 300 Toxic damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+            }
+        },
+        "perforator": {
+            "name": "Perforator",
+            "description": {
+                "general": "Hitting a Weakpoint deals 100% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 150%"
+            }
+        },
+        "countdown": {
+            "name": "Countdown",
+            "description": {
+                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. This chance increases to 100% when hitting at last 2 targets. For targets already afflicted, additional hits will add 2500 damage to the delayed explosion"
+            }
         }
     }
 }

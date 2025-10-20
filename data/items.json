@@ -14826,5 +14826,141 @@
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "virulentAccord": {
+        "id": "virulentAccord",
+        "type": "seaFire",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 750,
+        "gearScore": 10,
+        "projectilesPerShot": 10,
+        "damagePerShot": 10,
+        "fireDuration": 1000,
+        "rateOfFire": 0,
+        "reloadSpeed": 1000,
+        "projectileSpeed": 1,
+        "optimalRange": 125,
+        "perks": [
+            "infectious",
+            "toxic3"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "heavenlyThunder": {
+        "id": "heavenlyThunder",
+        "type": "seaFire",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 750,
+        "gearScore": 10,
+        "projectilesPerShot": 10,
+        "damagePerShot": 10,
+        "fireDuration": 1000,
+        "rateOfFire": 0,
+        "reloadSpeed": 1000,
+        "projectileSpeed": 1,
+        "optimalRange": 125,
+        "perks": [
+            "lancerSeaFire",
+            "electric3",
+            "burning1"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theRotmouth": {
+        "id": "theRotmouth",
+        "type": "culverin",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 1000,
+        "rateOfFire": 0,
+        "reloadSpeed": 4000,
+        "optimalRange": 600,
+        "projectileSpeed": 210,
+        "perks": [
+            "virulent",
+            "toxic3"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "blightbringer": {
+        "id": "blightbringer",
+        "type": "torpedo",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "obtainable": "",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 1000,
+        "rateOfFire": 0,
+        "reloadSpeed": 4500,
+        "optimalRange": 675,
+        "projectileSpeed": 75,
+        "perks": [
+            "contagion",
+            "arming",
+            "flooding2",
+            "toxic3"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theDrownedOne": {
+        "id": "theDrownedOne",
+        "type": "longGun",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "obtainable": "",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 1,
+        "rateOfFire": 600,
+        "reloadSpeed": 7200,
+        "optimalRange": 1000,
+        "projectileSpeed": 350,
+        "perks": [
+            "perforator",
+            "flooding2",
+            "piercing2"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "frostwail": {
+        "id": "frostwail",
+        "type": "bombard",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 1,
+        "rateOfFire": 600,
+        "reloadSpeed": 7500,
+        "optimalRange": 550,
+        "projectileSpeed": 135,
+        "blastRadius": 30,
+        "obtainable": "",
+        "perks": [
+            "countdown",
+            "explosive2"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

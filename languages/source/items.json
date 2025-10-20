@@ -2813,6 +2813,42 @@
             "description": {
                 "general": "A table used to optimize Toxic damage dealt, enhancing the Poisoned Status Duration and Charge rate."
             }
+        },
+        "virulentAccord": {
+            "name": "Virulent Accord",
+            "description": {
+                "general": ""
+            }
+        },
+        "heavenlyThunder": {
+            "name": "Heavenly Thunder",
+            "description": {
+                "general": ""
+            }
+        },
+        "theRotmouth": {
+            "name": "The Rotmouth",
+            "description": {
+                "general": ""
+            }
+        },
+        "blightbringer": {
+            "name": "Blightbringer",
+            "description": {
+                "general": ""
+            }
+        },
+        "theDrownedOne": {
+            "name": "The Drowned One",
+            "description": {
+                "general": ""
+            }
+        },
+        "frostwail": {
+            "name": "Frostwail",
+            "description": {
+                "general": ""
+            }
         }
     }
 }
