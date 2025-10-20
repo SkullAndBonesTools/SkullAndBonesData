@@ -827,8 +827,7 @@
             "name": "Toxic",
             "description": {
                 "3": [
-                    "Hits from this weapon saps Crew Stamina",
-                    "Adds 20% damage that cannot be blocked by Bracing"
+                    "20% of Toxic damage dealt with this weapon saps Crew Stamina"
                 ]
             }
         },
