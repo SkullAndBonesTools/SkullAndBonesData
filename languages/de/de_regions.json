@@ -1,16 +1,16 @@
 {
     "regions": {
         "redIsle": {
-            "name": "Red Isle"
+            "name": "Rote Insel"
         },
         "openSeas": {
-            "name": "Open Seas"
+            "name": "Offene See"
         },
         "coastOfAfrica": {
-            "name": "Coast of Africa"
+            "name": "Küste von Afrika"
         },
         "eastIndies": {
-            "name": "East Indies"
+            "name": "Niederländisch-Indien"
         }
     }
 }
