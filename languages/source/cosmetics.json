@@ -18551,6 +18551,30 @@
             "description": {
                 "general": "Let the waves swallow what remains"
             }
+        },
+        "theNextLife": {
+            "name": "The Next Life",
+            "description": {
+                "general": "Their time shall come before yours"
+            }
+        },
+        "steelySmile": {
+            "name": "Steely Smile",
+            "description": {
+                "general": "It masks the fire in your blood"
+            }
+        },
+        "buccaneersRevenge": {
+            "name": "Buccaneer's Revenge",
+            "description": {
+                "general": "Crush those who sought to cage you"
+            }
+        },
+        "borrowedTime": {
+            "name": "Borrowed Time",
+            "description": {
+                "general": "There will be hell to pay"
+            }
         }
     }
 }

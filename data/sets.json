@@ -1370,5 +1370,9 @@
     "harbingerOfDeath": {
         "id": "harbingerOfDeath",
         "type": "player"
+    },
+    "kingOfChains": {
+        "id": "kingOfChains",
+        "type": "ship"
     }
 }
