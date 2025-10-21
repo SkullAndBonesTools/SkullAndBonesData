@@ -9573,6 +9573,7 @@
         "rarity": "epic",
         "season": "intoTheDragonsWake",
         "obtainable": "legacyCache4",
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9583,7 +9584,13 @@
         "optimalRange": 550,
         "projectileSpeed": 135,
         "blastRadius": 33,
-        "required": {},
+        "required": {
+            "dryCastingSand": 16,
+            "naphtha": 10,
+            "eelSturdyRopes": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 3630
+        },
         "perks": [
             "deluge",
             "flooding2",
@@ -9642,7 +9649,16 @@
         "value": 1,
         "weight": 80,
         "gearScore": 20,
-        "required": {},
+        "required": {
+            "roselleCloth": 12,
+            "greenheartPlank": 12,
+            "azureDragonHead": 6,
+            "yellowDragonBanner": 4,
+            "eelSturdyRopes": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 3600
+        },
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "obtainable": "legacyCache4",
         "perks": [
             "emergencySails"
