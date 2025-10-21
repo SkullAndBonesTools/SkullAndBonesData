@@ -442,7 +442,7 @@
     },
     "warlord1": {
         "id": "warlord1",
-        "category": "TBD",
+        "category": "factionWar",
         "tier": 1,
         "goal": 10000,
         "dateAdded": "2025-10-21",
@@ -450,7 +450,7 @@
     },
     "warlord2": {
         "id": "warlord2",
-        "category": "TBD",
+        "category": "factionWar",
         "tier": 2,
         "goal": 20000,
         "dateAdded": "2025-10-21",
@@ -458,7 +458,7 @@
     },
     "warlord3": {
         "id": "warlord3",
-        "category": "TBD",
+        "category": "factionWar",
         "tier": 3,
         "goal": 30000,
         "dateAdded": "2025-10-21",
@@ -466,56 +466,56 @@
     },
     "hubacHunter": {
         "id": "hubacHunter",
-        "category": "TBD",
+        "category": "domains",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "laPesteHunter": {
         "id": "laPesteHunter",
-        "category": "TBD",
+        "category": "domains",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "liTianNingHunter": {
         "id": "liTianNingHunter",
-        "category": "TBD",
+        "category": "domains",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "vikramHunter": {
         "id": "vikramHunter",
-        "category": "TBD",
+        "category": "domains",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "dominator": {
         "id": "dominator",
-        "category": "TBD",
+        "category": "deathTides",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "doomsday": {
         "id": "doomsday",
-        "category": "TBD",
+        "category": "deathTides",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "pirateHunter": {
         "id": "pirateHunter",
-        "category": "TBD",
+        "category": "deathTides",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "theMedic": {
         "id": "theMedic",
-        "category": "TBD",
+        "category": "deathTides",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -529,14 +529,14 @@
     },
     "deadeye": {
         "id": "deadeye",
-        "category": "TBD",
+        "category": "seasonal",
         "goal": 1000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
     "invader1": {
         "id": "invader1",
-        "category": "TBD",
+        "category": "seasonal",
         "tier": 1,
         "goal": 10,
         "dateAdded": "2025-10-21",

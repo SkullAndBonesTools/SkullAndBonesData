@@ -7,6 +7,6 @@ export const MaterialCategories = [
 ] as const;
 export type MaterialCategory = (typeof MaterialCategories)[number];
 export const AchievementCategories = [
-    "mastery", "enterprise", "legends", "cooperative", "seasonal"
+    "mastery", "enterprise", "legends", "cooperative", "seasonal", "domains", "deathTides", "factionWar"
 ] as const;
 export type AchievementCategory = (typeof AchievementCategories)[number];
