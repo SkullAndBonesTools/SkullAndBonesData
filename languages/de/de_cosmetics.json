@@ -18551,6 +18551,90 @@
             "description": {
                 "general": "Let the waves swallow what remains"
             }
+        },
+        "theNextLife": {
+            "name": "The Next Life",
+            "description": {
+                "general": "Their time shall come before yours"
+            }
+        },
+        "steelySmile": {
+            "name": "Steely Smile",
+            "description": {
+                "general": "It masks the fire in your blood"
+            }
+        },
+        "buccaneersRevenge": {
+            "name": "Buccaneer's Revenge",
+            "description": {
+                "general": "Crush those who sought to cage you"
+            }
+        },
+        "borrowedTime": {
+            "name": "Borrowed Time",
+            "description": {
+                "general": "There will be hell to pay"
+            }
+        },
+        "sovereignOfTheSea": {
+            "name": "Sovereign of the Sea",
+            "description": {
+                "general": "\"I have found my place, wild and full of promise."
+            }
+        },
+        "linesInTheSky": {
+            "name": "Lines in the Sky",
+            "description": {
+                "general": "You wonder if they tell your fate"
+            }
+        },
+        "lifesVoyage": {
+            "name": "Life's Voyage",
+            "description": {
+                "general": "\"I was born on a ship, and I'll die on a ship.\""
+            }
+        },
+        "withTheWaves": {
+            "name": "With the Waves",
+            "description": {
+                "general": "You understand the ocean, and it understands you"
+            }
+        },
+        "livingSun": {
+            "name": "Living Sun",
+            "description": {
+                "general": "A tribute to the crown and a famed empire"
+            }
+        },
+        "blackDiamond": {
+            "name": "Black Diamond",
+            "description": {
+                "general": "\"No sea-scum could ever break our will.\""
+            }
+        },
+        "momentousStride": {
+            "name": "Momentous Stride",
+            "description": {
+                "general": "\"Fall in line, and pledge your lives.\""
+            }
+        },
+        "gildedEpic": {
+            "name": "Gilded Epic",
+            "description": {
+                "general": "\"Long after we are gone, our tale will live on.\""
+            }
+        },
+        "corsaire": {
+            "name": "Corsaire",
+            "description": {
+                "general": "\"May their blood sweeten our wine.\""
+            }
+        },
+        "mayhemBringer": {
+            "name": "Mayhem Bringer",
+            "description": {
+                "general": "\"Now, there's a pirate to watch.\""
+            }
         }
     }
 }

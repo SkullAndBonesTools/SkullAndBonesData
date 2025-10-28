@@ -43,6 +43,7 @@
         "theHelmSeasonShadowsOfTheDeep": "Ist/war im Ruder (Yanita, Houma) während {{shadowsOfTheDeep}} käuflich",
         "theHelmSeasonAscentIntoChaos": "Ist/war im Ruder (Yanita, Houma) während {{ascentIntoChaos}} käuflich",
         "theHelmSeasonOathsOfWar": "Ist/war im Ruder (Yanita, Houma) während {{oathsOfWar}} käuflich",
+        "theHelmSeasonGutsAndGlory": "Is/was purchasable in the Helm (Yanita, Houma) during {{gutsAndGlory}}",
         "theHelmEvent": "Ist/war kaufbar beim Ruder (Yanita, Houma) während des Events",
         "outpostLostCityOfPrei": "Außenposten Prei, die verlorene Stadt",
         "outpostReturnFleetBight": "Außenposten Bucht der Rückkehrerflotte",
@@ -160,6 +161,7 @@
         "williamBlackwoodRotatingStoreShadowsOfTheDeep": "Ist/war während {{shadowsOfTheDeep}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreAscentIntoChaos": "Ist/war während {{ascentIntoChaos}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreOathsOfWar": "Ist/war während {{oathsOfWar}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
+        "williamBlackwoodRotatingStoreGutsAndGlory": "Is/was purchasable at William Blackwood's rotating store during {{gutsAndGlory}}",
         "ungwanaConvoyTreasureChest": "Mögliche Belohnung aus Ungwana Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Ungwana Händlerkonvoi)",
         "rempahConvoyTreasureChest": "Mögliche Belohnung aus Rempah Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Rempah Händlerkonvoi)",
         "faraConvoyTreasureChest": "Mögliche Belohnung aus Fara Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Fara Händlerkonvoi)",
@@ -194,6 +196,7 @@
         "williamBlackwoodSeasonalItemShadowsOfTheDeep": "Ist/war während {{shadowsOfTheDeep}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemAscentIntoChaos": "Ist/war während {{ascentIntoChaos}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemOathsOfWar": "Ist/war während {{oathsOfWar}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
+        "williamBlackwoodSeasonalItemGutsAndGlory": "Is/was purchasable as seasonal item in William Blackwood's store during {{gutsAndGlory}}",
         "corruptCompagnieOfficerOutpost": "Korrupter Offizier der Compagnie",
         "corruptDmcOfficerOutpost": "Korrupter Offizier der NHG",
         "ungwanaMerchantOutpost": "Ungwanischer Händler bei verschiedenen Außenposten",
@@ -231,6 +234,14 @@
         "eventPass": "Event-Pass",
         "premiumEventPass": "Premium Event-Pass",
         "darktideAltarTelokPenjarah": "Kaufbar während des Dunkelflut-Wiegenlied-Events am Dunkelflut-Altar in Telok Penjarah",
-        "notIntendedToBeObtainable": "Not intended to be obtainable"
+        "notIntendedToBeObtainable": "Not intended to be obtainable",
+        "twitchDropStartYear2Season3": "Twitch Drops at the start of {{gutsAndGlory}}",
+        "factionWarEffortReward": "Reward for contributing War Assets to the Faction War",
+        "factionWarRewardWonTerritory1": "Reward for winning one territory in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory4": "Reward for winning four territories in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory5": "Reward for winning five territories in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory8": "Reward for winning eight territories in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory11": "Reward for winning eleven territories in the Faction War with the aligned faction",
+        "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals"
     }
 }

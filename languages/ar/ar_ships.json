@@ -95,6 +95,12 @@
             "description": {
                 "general": "سفينة كبيرة ذات دفاعات لا مثيل لها. تشع هالة قوية تقوي الحلفاء. منتج من براعة شركة كومباني والمواد المتقدمة القادمة من أوروبا."
             }
+        },
+        "sloopOfWar": {
+            "name": "Sloop of War",
+            "description": {
+                "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+            }
         }
     }
 }

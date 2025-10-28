@@ -95,6 +95,12 @@
             "description": {
                 "general": "Un gran barco con defensas sin igual. Irradia un aura poderosa que fortalece a los aliados. Un producto del ingenio de la Compagnie y de materiales avanzados procedentes de Europa."
             }
+        },
+        "sloopOfWar": {
+            "name": "Sloop of War",
+            "description": {
+                "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+            }
         }
     }
 }
