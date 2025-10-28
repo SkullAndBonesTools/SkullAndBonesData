@@ -2835,7 +2835,7 @@
         "spite": {
             "name": "Spite",
             "description": {
-                "general": "When attacking a target under the Poisoned status effect, the target will deal 50 Toxic Damage per second to nearby hostiles within 300m for 10 seconds. It decreases weapon damage received from the targets under Poisoned status effect by 30%"
+                "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
             }
         },
         "resurgence": {

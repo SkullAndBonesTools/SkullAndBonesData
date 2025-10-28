@@ -14983,5 +14983,182 @@
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade1": {
+        "id": "sloopOfWarUpgrade1",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 1,
+        "value": 1,
+        "required": {
+            "silver": 18000,
+            "juniperPlank": 7,
+            "plagueDust": 3,
+            "upgradeParts": 2
+        },
+        "perks": [
+            "sloopOfWarUpgrade1"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade2": {
+        "id": "sloopOfWarUpgrade2",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 2,
+        "value": 1,
+        "required": {
+            "silver": 25000,
+            "juniperPlank": 10,
+            "plagueDust": 5,
+            "deepIron": 3,
+            "upgradeParts": 3
+        },
+        "perks": [
+            "sloopOfWarUpgrade2"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade3": {
+        "id": "sloopOfWarUpgrade3",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 3,
+        "value": 1,
+        "required": {
+            "piecesOfEight": 1250,
+            "juniperPlank": 15,
+            "blightedFuel": 5,
+            "deepIron": 5,
+            "upgradeParts": 4
+        },
+        "perks": [
+            "sloopOfWarUpgrade3",
+            "deepBlue"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade4": {
+        "id": "sloopOfWarUpgrade4",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 4,
+        "value": 1,
+        "required": {
+            "piecesOfEight": 4000,
+            "greenheartPlank": 15,
+            "magnetiteIngot": 15,
+            "plagueDust": 5,
+            "deepIron": 5,
+            "upgradeParts": 5
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0,
+            "toxic": 0.03
+        },
+        "perks": [
+            "sloopOfWarUpgrade4"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade5": {
+        "id": "sloopOfWarUpgrade5",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 5,
+        "value": 1,
+        "required": {
+            "piecesOfEight": 6500,
+            "plagueDust": 7,
+            "deepIronPlates": 5,
+            "blightedFuel": 5,
+            "wyrmsBreath": 3,
+            "upgradeParts": 5
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0,
+            "toxic": 0.05
+        },
+        "perks": [
+            "sloopOfWarUpgrade5"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade6": {
+        "id": "sloopOfWarUpgrade6",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 6,
+        "value": 1,
+        "required": {
+            "piecesOfEight": 10000,
+            "plagueDust": 10,
+            "deepIronPlates": 5,
+            "blightedFuel": 5,
+            "eelsTwine": 3,
+            "gannetsSaltpeter": 3,
+            "upgradeParts": 6
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.1,
+            "electric": 0,
+            "toxic": 0.1
+        },
+        "perks": [
+            "sloopOfWarUpgrade6",
+            "spite"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sloopOfWarUpgrade7": {
+        "id": "sloopOfWarUpgrade7",
+        "type": "shipUpgrade",
+        "season": "gutsAndGlory",
+        "tier": 7,
+        "value": 1,
+        "required": {
+            "piecesOfEight": 15000,
+            "silver": 50000,
+            "plagueDust": 6,
+            "deepIronPlates": 5,
+            "blightedFuel": 3,
+            "wyrmVolatileNapalm": 2,
+            "masterworkKit": 1,
+            "upgradeParts": 12
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.15,
+            "electric": 0,
+            "toxic": 0.2
+        },
+        "perks": [
+            "sloopOfWarUpgrade7"
+        ],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

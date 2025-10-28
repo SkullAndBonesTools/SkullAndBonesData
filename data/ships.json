@@ -855,7 +855,16 @@
             "cargoSlots": 50,
             "cargoMaxWeight": 90000
         },
-        "required": {},
+        "required": {
+            "greenheartPlank": 6,
+            "plagueDust": 4,
+            "deepIron": 4,
+            "sinewString": 2,
+            "blightedFuel": 2,
+            "eelsTwine": 1,
+            "orcasMechanism": 1,
+            "silver": 12000
+        },
         "slots": {
             "attachement": [1,1],
             "frontWeapon": [1,{
@@ -871,7 +880,8 @@
                 "lower": 3
             }],
             "aftWeapon": [1,{
-                "top": 2
+                "top": 2,
+                "lower": 2
             }],
             "auxiliaryWeapon": [1,1],
             "furniture": [5,1],
