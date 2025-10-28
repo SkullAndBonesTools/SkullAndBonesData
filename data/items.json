@@ -10517,6 +10517,7 @@
             "hallowedGravestoneSaintAnne",
             "reapersCache"
         ],
+        "blueprint": "hallowedGravestoneSaintAnne",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -10527,14 +10528,19 @@
         "optimalRange": 600,
         "projectileSpeed": 210,
         "required": {
-            "reapersToll": 600
+            "vengefulEssence": 12,
+            "xanthousStone": 12,
+            "sinewString": 6,
+            "naphtha": 6,
+            "gannetDenseNiter": 2,
+            "silver": 3300
         },
         "perks": [
             "phantomMending",
             "burning2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "freemansEmbrace": {
         "id": "freemansEmbrace",
@@ -10634,18 +10640,25 @@
         "weight": 80,
         "gearScore": 20,
         "required": {
-            "reapersToll": 300
+            "magnetiteIngot": 12,
+            "greenheartPlank": 12,
+            "roselleCloth": 12,
+            "purifiedSaltpeter": 6,
+            "naphtha": 4,
+            "gannetDenseNiter": 2,
+            "silver": 3600
         },
         "obtainable": [
             "hallowedGravestoneSaintAnne",
             "reapersCache",
             "darktideChest"
         ],
+        "blueprint": "hallowedGravestoneSaintAnne",
         "perks": [
             "quickIgnitingPowder"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "ballistaFurnace1": {
         "id": "ballistaFurnace1",
