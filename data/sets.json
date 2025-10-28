@@ -1374,5 +1374,9 @@
     "kingOfChains": {
         "id": "kingOfChains",
         "type": "ship"
+    },
+    "2024HellfestShip": {
+        "id": "2024HellfestShip",
+        "type": "ship"
     }
 }

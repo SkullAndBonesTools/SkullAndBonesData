@@ -12528,16 +12528,18 @@
     "violentOrchestra": {
         "id": "violentOrchestra",
         "type": "sailsEmblem",
+        "set": "2024HellfestShip",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2025-08-28"
+        "lastUpdated": "2025-10-21"
     },
     "boltsOfFury": {
         "id": "boltsOfFury",
         "type": "sailsPattern",
+        "set": "2024HellfestShip",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2025-08-28"
+        "lastUpdated": "2025-10-21"
     },
     "solemnMuse": {
         "id": "solemnMuse",
