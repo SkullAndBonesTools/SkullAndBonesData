@@ -823,9 +823,7 @@
         "toxic": {
             "name": "Toxic",
             "description": {
-                "3": [
-                    "20% of Toxic damage dealt with this weapon saps Crew Stamina"
-                ]
+                "3": "Adds 30% of damage as Toxic Damage"
             }
         },
         "homing": {
@@ -1762,7 +1760,8 @@
             "description": {
                 "1": "Adds 10% of damage as Electric Damage",
                 "2": "Adds 20% of damage as Electric Damage",
-                "3": "Adds 30% of damage as Electric Damage"
+                "3": "Adds 30% of damage as Electric Damage",
+                "4": "Adds 40% of damage as Electric Damage"
             }
         },
         "organHarvestingStation": {
