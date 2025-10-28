@@ -565,10 +565,7 @@
         "putrefying": {
             "name": "Putrefying",
             "description": {
-                "general": [
-                    "Releases toxic fumes for a short period upon impact, dealing damage and sapping Crew Stamina",
-                    "Damage from toxic fumes cannot be blocked by bracing"
-                ]
+                "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
             }
         },
         "venemousVengeance": {
@@ -2951,19 +2948,19 @@
         "contagion": {
             "name": "Contagion",
             "description": {
-                "general": "Afflicts target with the Gaseous status effect for 4s, which deals 300 Toxic damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+                "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
             }
         },
         "perforator": {
             "name": "Perforator",
             "description": {
-                "general": "Hitting a Weakpoint deals 100% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 150%"
+                "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
             }
         },
         "countdown": {
             "name": "Countdown",
             "description": {
-                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. This chance increases to 100% when hitting at last 2 targets. For targets already afflicted, additional hits will add 2500 damage to the delayed explosion"
+                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
             }
         }
     }
