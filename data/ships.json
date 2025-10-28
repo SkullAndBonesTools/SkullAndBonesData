@@ -45,7 +45,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 20000
+            "cargoMaxWeight": 40000
         },
         "required": {
             "silver": 360,
@@ -71,7 +71,7 @@
         },
         "perks": ["lancer"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "hulk": {
         "id": "hulk",
@@ -92,7 +92,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 46000
+            "cargoMaxWeight": 92000
         },
         "required": {
             "silver": 1080,
@@ -121,7 +121,7 @@
         },
         "perks": ["ironclad"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "cutter": {
         "id": "cutter",
@@ -143,7 +143,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 26000
+            "cargoMaxWeight": 52000
         },
         "required": {
             "silver": 1080,
@@ -169,7 +169,7 @@
         },
         "perks": ["unburden"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "barge": {
         "id": "barge",
@@ -190,7 +190,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 30000
+            "cargoMaxWeight": 60000
         },
         "required": {
             "silver": 2700,
@@ -220,7 +220,7 @@
         },
         "perks": ["wildfire"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "sloop": {
         "id": "sloop",
@@ -241,7 +241,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 40000
+            "cargoMaxWeight": 80000
         },
         "required": {
             "silver": 2700,
@@ -268,7 +268,7 @@
         },
         "perks": ["outburst"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "padewakang": {
         "id": "padewakang",
@@ -289,7 +289,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 70000
+            "cargoMaxWeight": 140000
         },
         "required": {
             "silver": 2880,
@@ -323,7 +323,7 @@
         },
         "perks": ["detonate"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "snow": {
         "id": "snow",
@@ -344,7 +344,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 80000
+            "cargoMaxWeight": 160000
         },
         "required": {
             "silver": 57660,
@@ -378,7 +378,7 @@
         },
         "perks": ["tenacity"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "brigantine": {
         "id": "brigantine",
@@ -399,7 +399,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 45000
+            "cargoMaxWeight": 90000
         },
         "required": {
             "silver": 8640,
@@ -434,7 +434,7 @@
         },
         "perks": ["bullhorn"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "sambuk": {
         "id": "sambuk",
@@ -455,7 +455,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 70000
+            "cargoMaxWeight": 140000
         },
         "required": {
             "silver": 12000,
@@ -491,7 +491,7 @@
         },
         "perks": ["scorched"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "barque": {
         "id": "barque",
@@ -512,7 +512,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 36000
+            "cargoMaxWeight": 72000
         },
         "required": {
             "silver": 12000,
@@ -548,7 +548,7 @@
         },
         "perks": ["revitalized"],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "brig": {
         "id": "brig",
@@ -569,7 +569,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 70000
+            "cargoMaxWeight": 140000
         },
         "required": {
             "magnetiteIngot": 14,
@@ -605,7 +605,7 @@
         },
         "perks": ["artificer"],
         "dateAdded": "2024-05-28",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "battleJunk": {
         "id": "battleJunk",
@@ -626,7 +626,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 70000
+            "cargoMaxWeight": 140000
         },
         "required": {
             "quicklime": 5,
@@ -661,7 +661,7 @@
         },
         "perks": ["provoke"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "garuda": {
         "id": "garuda",
@@ -682,7 +682,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 45000
+            "cargoMaxWeight": 90000
         },
         "required": {
             "greenheartPlank": 8,
@@ -717,7 +717,7 @@
         },
         "perks": ["deadeye"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "schooner": {
         "id": "schooner",
@@ -738,7 +738,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 50000
+            "cargoMaxWeight": 100000
         },
         "required": {
             "greenheartPlank": 6,
@@ -773,7 +773,7 @@
         },
         "perks": ["fury"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "frigate": {
         "id": "frigate",
@@ -794,7 +794,7 @@
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 80000
+            "cargoMaxWeight": 160000
         },
         "required": {
             "magnetiteIngot": 16,
@@ -832,7 +832,7 @@
         },
         "perks": ["grit","colossal","abundantGunports"],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-08-14"
+        "lastUpdated": "2025-10-21"
     },
     "sloopOfWar": {
         "id": "sloopOfWar",
