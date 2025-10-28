@@ -2860,7 +2860,7 @@
         "stinkpotStation": {
             "description": {
                 "general": [
-                    "Hits with a Toxic Weapon on a target within 250m, deal 12% more damage if they are Bracing",
+                    "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
                     "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
                     "Increases Toxic Damage to enemy ships by 8%"
                 ]
@@ -2898,7 +2898,7 @@
                 "general": [
                     "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
                     "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
-                    "Increases damage to enemy ships with the Flooding effect by 10%"
+                    "Increases damage to enemy ships with the Flooded effect by 10%"
                 ]
             }
         },

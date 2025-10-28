@@ -2769,85 +2769,85 @@
         "stinkpotStation": {
             "name": "Stinkpot Station",
             "description": {
-                "general": "A station patchworked together with La Peste's many designs, boosting the efectiveness of Toxic Weapons and Poisoned Status effect."
+                "general": "The grim laboratories of La Peste churn out noxious bombs filled with sulfur and antimony."
             }
         },
         "sheetingWinchConsole": {
             "name": "Sheeting Winch Console",
             "description": {
-                "general": "A shelf of equipment that ease sailing maneuvers, boosting weapon damage and sailing speed."
+                "general": "DMC-styled capstan-powered winches used for swift trimming and agile maneuvers."
             }
         },
         "gimbalRingStores": {
             "name": "Gimbal Ring Stores",
             "description": {
-                "general": "A table used to optimize Demicannon projectiles, enhancing Demicannon weapons with range and speed."
+                "general": "Compagnie-designed trunnion-mounted rings level guns through pitch and roll."
             }
         },
         "siphonFurnace": {
             "name": "Siphon Furnace",
             "description": {
-                "general": "A table used to optimize Toxic Weapons, enhancing their range and speed."
+                "general": "Used by the Ungwana to heat and hurl caustic oils brewed from belladonna and arsenic."
             }
         },
         "causticSpallStation": {
             "name": "Caustic Spall Station",
             "description": {
-                "general": "A workbench used to tinker with Flooding Weapon ammo, boosting the Flooding damage dealt and Flooded Status Effect."
+                "general": "Designed by the Fara to rupture hulls and rot internal beams."
             }
         },
         "leydenVaultArray": {
             "name": "Leyden Vault Array",
             "description": {
-                "general": "A cupboard holding materials salvaged from the Shadowbeast's waters, enhancing Lightning Weapons and the Stormstruck effect."
+                "general": "Glass and foil-lined jars from the remains of the Shadowbeast wired to unleash high-voltage arcs."
             }
         },
         "cascadeCoilBench": {
             "name": "Cascade Coil Bench",
             "description": {
-                "general": "A table used to optimize Sea Fire Weapons, enhancing their range and damage."
+                "general": "Copper coils are wound around flame nozzles, igniting secondary bursts of naptha and sulfur dust."
             }
         },
         "curareCrushingBench": {
             "name": "Curare Crushing Bench",
             "description": {
-                "general": "A table used to optimize Toxic damage dealt, enhancing the Poisoned Status Duration and Charge rate."
+                "general": "Basins of curare paste with paralytic toxins, packed into splintered shot."
             }
         },
         "virulentAccord": {
             "name": "Virulent Accord",
             "description": {
-                "general": ""
+                "general": "Born of pact and poison, the first flames are always lit by friends turned foes."
             }
         },
         "heavenlyThunder": {
             "name": "Heavenly Thunder",
             "description": {
-                "general": ""
+                "general": "When Tianlei speaks, the sea listens, the storm obeys."
             }
         },
         "theRotmouth": {
             "name": "The Rotmouth",
             "description": {
-                "general": ""
+                "general": "Each bark is a pestilent cough from the Plague King's maw."
             }
         },
         "blightbringer": {
             "name": "Blightbringer",
             "description": {
-                "general": ""
+                "general": "Each charge is said to carry a volatile mix from the bilge-forges of La Peste himself."
             }
         },
         "theDrownedOne": {
             "name": "The Drowned One",
             "description": {
-                "general": ""
+                "general": "The Sea People believe its aim is guided by those who were lost at sea."
             }
         },
         "frostwail": {
             "name": "Frostwail",
             "description": {
-                "general": ""
+                "general": "Some say the screams are from those trapped within the Dark Beyond."
             }
         }
     }

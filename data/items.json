@@ -14728,8 +14728,7 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
-        "obtainable": "",
+        "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
         "perks": [
             "stinkpotStation"
         ],
@@ -14741,11 +14740,11 @@
         "type": "majorFurniture",
         "rarity": "epic",
         "season": "gutsAndGlory",
+        "event": "azureSolstice",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
-        "obtainable": "",
+        "obtainable": "azureStrongbox",
         "perks": [
             "sheetingWinchConsole"
         ],
@@ -14760,8 +14759,7 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
-        "obtainable": "",
+        "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
         "perks": [
             "gimbalRingStores"
         ],
@@ -14776,8 +14774,7 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
-        "obtainable": "",
+        "obtainable": "smugglerPass",
         "perks": [
             "siphonFurnace"
         ],
@@ -14788,11 +14785,12 @@
         "id": "causticSpallStation",
         "rarity": "epic",
         "season": "gutsAndGlory",
-        "type": "",
+        "type": "offensiveFurniture",
+        "event": "requiemOfTheLost",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "obtainable": "",
+        "obtainable": "hallowedGravestoneSaintAnne",
         "perks": [
             "causticSpallStation"
         ],
@@ -14803,7 +14801,7 @@
         "id": "leydenVaultArray",
         "rarity": "epic",
         "season": "gutsAndGlory",
-        "type": "",
+        "type": "offensiveFurniture",
         "gearScore": 25,
         "value": 1,
         "weight": 80,
@@ -14818,8 +14816,8 @@
         "id": "cascadeCoilBench",
         "rarity": "rare",
         "season": "gutsAndGlory",
-        "type": "",
-        "gearScore": 25,
+        "type": "offensiveFurniture",
+        "gearScore": 20,
         "value": 1,
         "weight": 80,
         "obtainable": "",
@@ -14833,8 +14831,8 @@
         "id": "curareCrushingBench",
         "rarity": "rare",
         "season": "gutsAndGlory",
-        "type": "",
-        "gearScore": 25,
+        "type": "offensiveFurniture",
+        "gearScore": 20,
         "value": 1,
         "weight": 80,
         "obtainable": "",
