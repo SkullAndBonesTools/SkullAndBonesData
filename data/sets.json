@@ -1378,5 +1378,9 @@
     "2024HellfestShip": {
         "id": "2024HellfestShip",
         "type": "ship"
+    },
+    "theAnchorborn": {
+        "id": "theAnchorborn",
+        "type": "ship"
     }
 }

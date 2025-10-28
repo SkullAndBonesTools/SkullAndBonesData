@@ -18575,6 +18575,30 @@
             "description": {
                 "general": "There will be hell to pay"
             }
+        },
+        "sovereignOfTheSea": {
+            "name": "Sovereign of the Sea",
+            "description": {
+                "general": "\"I have found my place, wild and full of promise."
+            }
+        },
+        "linesInTheSky": {
+            "name": "Lines in the Sky",
+            "description": {
+                "general": "You wonder if they tell your fate"
+            }
+        },
+        "lifesVoyage": {
+            "name": "Life's Voyage",
+            "description": {
+                "general": "\"I was born on a ship, and I'll die on a ship.\""
+            }
+        },
+        "withTheWaves": {
+            "name": "With the Waves",
+            "description": {
+                "general": "You understand the ocean, and it understands you"
+            }
         }
     }
 }

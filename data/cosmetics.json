@@ -26571,5 +26571,38 @@
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "sovereignOfTheSea": {
+        "id": "sovereignOfTheSea",
+        "type": "sailsEmblem",
+        "set": "theAnchorborn",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-10-22",
+        "lastUpdated": "2025-10-22"
+    },
+    "linesInTheSky": {
+        "id": "linesInTheSky",
+        "type": "sailsPattern",
+        "set": "theAnchorborn",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-10-22",
+        "lastUpdated": "2025-10-22"
+    },
+    "lifesVoyage": {
+        "id": "lifesVoyage",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "theAnchorborn",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-10-22",
+        "lastUpdated": "2025-10-22"
+    },
+    "withTheWaves": {
+        "id": "withTheWaves",
+        "type": "hull",
+        "set": "theAnchorborn",
+        "obtainable": [["twitchDrop","twitchDropTheDeck"]],
+        "dateAdded": "2025-10-22",
+        "lastUpdated": "2025-10-22"
     }
 }
