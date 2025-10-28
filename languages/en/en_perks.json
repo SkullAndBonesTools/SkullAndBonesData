@@ -565,10 +565,7 @@
         "putrefying": {
             "name": "Putrefying",
             "description": {
-                "general": [
-                    "Releases toxic fumes for a short period upon impact, dealing damage and sapping Crew Stamina",
-                    "Damage from toxic fumes cannot be blocked by bracing"
-                ]
+                "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
             }
         },
         "venemousVengeance": {
@@ -601,12 +598,12 @@
         "laPotenceSchematics": {
             "description": {
                 "general": [
-                    "Increases damage to weakpoints to enemy ships",
-                    "Reveals weakpoints on the Fleet of Pestilence"
+                    "Increases damage to weakpoints to enemy ships by 10%",
+                    "Penetrates 10% of Toxic Resistance"
                 ],
                 "1": [
                     "Increases damage to weakpoints to enemy ships by 10%",
-                    "Reveals weakpoints on the Fleet of Pestilence"
+                    "Penetrates 10% of Toxic Resistance"
                 ]
             }
         },
@@ -826,10 +823,7 @@
         "toxic": {
             "name": "Toxic",
             "description": {
-                "3": [
-                    "Hits from this weapon saps Crew Stamina",
-                    "Adds 20% damage that cannot be blocked by Bracing"
-                ]
+                "3": "Adds 30% of damage as Toxic Damage"
             }
         },
         "homing": {
@@ -1766,7 +1760,8 @@
             "description": {
                 "1": "Adds 10% of damage as Electric Damage",
                 "2": "Adds 20% of damage as Electric Damage",
-                "3": "Adds 30% of damage as Electric Damage"
+                "3": "Adds 30% of damage as Electric Damage",
+                "4": "Adds 40% of damage as Electric Damage"
             }
         },
         "organHarvestingStation": {
@@ -2826,6 +2821,145 @@
                     "After ramming a target, increases Acceleration by 300% for 5s",
                     "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
                 ]
+            }
+        },
+        "plaguebringer": {
+            "name": "Plaguebringer",
+            "description": {
+                "general": [
+                    "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
+                    "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+                ]
+            }
+        },
+        "spite": {
+            "name": "Spite",
+            "description": {
+                "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
+            }
+        },
+        "resurgence": {
+            "name": "Resurgence",
+            "description": {
+                "general": "Killing a target grants a 100% boost to Maximum Brace Strength for 11s and instantly restores 60% Brace Strength and 25% Hull Health. This effect has a cooldown of 60s"
+            }
+        },
+        "windcaller": {
+            "name": "Windcaller",
+            "description": {
+                "general": "While bracing, increase Acceleration and Turning Speed by 2% each second. When Bracing ends, retain acceleration and Turning Speed for 6s. For this duration, increase Sailing Speed by 14%"
+            }
+        },
+        "immunity": {
+            "name": "Immunity",
+            "description": {
+                "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
+            }
+        },
+        "stinkpotStation": {
+            "description": {
+                "general": [
+                    "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
+                    "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
+                    "Increases Toxic Damage to enemy ships by 8%"
+                ]
+            }
+        },
+        "sheetingWinchConsole": {
+            "description": {
+                "general": [
+                    "Gain 0.8% weapon damage per 1kts of sailing Speed",
+                    "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
+                    "Increases Acceleration by 20%"
+                ]
+            }
+        },
+        "gimbalRingStores": {
+            "description": {
+                "general": [
+                    "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
+                    "Increases Projectile Speed of Demicannon Weapons by 14%",
+                    "Increases Maximum Range of Demicannon Weapons by 12%"
+                ]
+            }
+        },
+        "siphonFurnace": {
+            "description": {
+                "general": [
+                    "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
+                    "Increases Projectile Speed of Toxic Weapons by 12%",
+                    "Increases Maximum Range of Toxic Weapons by 10%"
+                ]
+            }
+        },
+        "causticSpallStation": {
+            "description": {
+                "general": [
+                    "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
+                    "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
+                    "Increases damage to enemy ships with the Flooded effect by 10%"
+                ]
+            }
+        },
+        "leydenVaultArray": {
+            "description": {
+                "general": [
+                    "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
+                    "Reduces Reload Time of Electric Weapons by 6%",
+                    "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+                ]
+            }
+        },
+        "cascadeCoilBench": {
+            "description": {
+                "general": [
+                    "Increases weapon damage of Sea Fire by 13%",
+                    "Increases Secondary damage of Sea Fire by 15%"
+                ]
+            }
+        },
+        "curareCrushingBench": {
+            "description": {
+                "general": [
+                    "Increases Charge rate of the Poisoned status effect on a target by 8%",
+                    "Increases duration of the Poisoned effect on enemy ships by 8%"
+                ]
+            }
+        },
+        "infectious": {
+            "name": "Infectious",
+            "description": {
+                "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+            }
+        },
+        "lancerSeaFire": {
+            "name": "Lancer",
+            "description": {
+                "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+            }
+        },
+        "virulent": {
+            "name": "Virulent",
+            "description": {
+                "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+            }
+        },
+        "contagion": {
+            "name": "Contagion",
+            "description": {
+                "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+            }
+        },
+        "perforator": {
+            "name": "Perforator",
+            "description": {
+                "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
+            }
+        },
+        "countdown": {
+            "name": "Countdown",
+            "description": {
+                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
             }
         }
     }

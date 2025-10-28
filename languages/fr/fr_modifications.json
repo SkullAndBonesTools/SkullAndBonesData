@@ -307,6 +307,137 @@
         "longArmRepair": {
             "name": "Long Arm (Repair)",
             "description": "Hits that land at 70% of Maximum Range or further also restores %s-%s% more Repair Amount"
+        },
+        "acrid": {
+            "name": "Acrid",
+            "description": "Every hit deals an extra burst of %s-%s Toxic Damage"
+        },
+        "noxious": {
+            "name": "Noxious",
+            "description": "Adds %s-%s% damage as Toxic Damage"
+        },
+        "direToxic": {
+            "name": "Dire Toxic",
+            "description": "Hits ignore %s-%s% of the target's Toxic resistance"
+        },
+        "amplifiedToxic": {
+            "name": "Amplified Toxic",
+            "description": "Increases existing Toxic Damage by %s-%s%"
+        },
+        "antidotes": {
+            "name": "Antidotes",
+            "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
+        },
+        "armored": {
+            "name": "Armored",
+            "description": "Increases Armor by %s-%s"
+        },
+        "rugged": {
+            "name": "Rugged",
+            "description": "Reduces incoming damage by %s-%s while Bracing"
+        },
+        "fireResistant": {
+            "name": "Fire Resistant",
+            "description": "Increases Fire Resistance by %s-%s%"
+        },
+        "floodingResistant": {
+            "name": "Flooding Resistant",
+            "description": "Increases Flooding Resistance by %s-%s%"
+        },
+        "piercingResistant": {
+            "name": "Piercing Resistant",
+            "description": "Increases Piercing Resistance by %s-%s%"
+        },
+        "explosiveResistant": {
+            "name": "Explosive Resistant",
+            "description": "Increases Explosive Resistance by %s-%s%"
+        },
+        "electricResistant": {
+            "name": "Electric Resistant",
+            "description": "Increases Electric Resistance by %s-%s%"
+        },
+        "toxicResistant": {
+            "name": "Toxic Resistant",
+            "description": "Increases Toxic Resistance by %s-%s%"
+        },
+        "tearingResistant": {
+            "name": "Tearing Resistant",
+            "description": "Increases Tearing Resistance by %s-%s%"
+        },
+        "stout": {
+            "name": "Stout",
+            "description": "Increases Hull Health by %s-%s"
+        },
+        "strength": {
+            "name": "Strength",
+            "description": "Increases Brace Strength by %s-%s"
+        },
+        "vigor": {
+            "name": "Vigor",
+            "description": "Increases Crew Stamina by %s-%s"
+        },
+        "ironclad": {
+            "name": "Ironclad",
+            "description": "Increases Armor by %s-%s%"
+        },
+        "stalwart": {
+            "name": "Stalwart",
+            "description": "Increases Hull Health by %s-%s%"
+        },
+        "fortitude": {
+            "name": "Fortitude",
+            "description": "Increases Brace Strength by %s-%s%"
+        },
+        "maintenance": {
+            "name": "Maintenance",
+            "description": "Repairs %s-%s Hull Health per second"
+        },
+        "determination": {
+            "name": "Determination",
+            "description": "Increases Brace Strength Recovery by %s-%s% per second"
+        },
+        "barbarian": {
+            "name": "Barbarian",
+            "description": "When Hull Health is below 25%, increases Weapon damage by %s-%s%"
+        },
+        "survivor": {
+            "name": "Survivor",
+            "description": "When Hull Health drops below 25%, repairs %s-%s% Hull Health over 10 seconds. This effect has a 30 second cooldown"
+        },
+        "craftsman": {
+            "name": "Craftsman",
+            "description": "Increases Repair Amount of Repair Kits by %s-%s%"
+        },
+        "resilience": {
+            "name": "Resilience",
+            "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
+        },
+        "supreme": {
+            "name": "Supreme",
+            "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
+        },
+        "steelIntegration": {
+            "name": "Steel Integration",
+            "description": [
+                "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
+                "Adds 5% Piercing and Explosive resistance"
+            ]
+        },
+        "coalesce": {
+            "name": "Coalesce",
+            "description": "%s-%s% chance that 50% of damage braced restores Hull Health. This effect only occurs after bracing ends"
+        },
+        "watcher": {
+            "name": "Watcher",
+            "description": "Any damage taken while Bracing has a %s-%s% chance of being reduced by 1750"
+        },
+        "respite": {
+            "name": "Respite",
+            "description": "When Bracing damage, there's a %s-%s% chance to repair 500 Hull Health and 100 Severe Damage per second for the net 5 seconds. This effect has a cooldown of 10 seconds"
+        },
+        "jester": {
+            "name": "Jester",
+            "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
         }
     }
 }

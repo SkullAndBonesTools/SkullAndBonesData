@@ -2747,6 +2747,121 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of Suave Seadog Set"
             }
+        },
+        "tondraDra": {
+            "name": "Tondra-dra",
+            "description": {
+                "general": "The raiders of the Red Isle have always believed their ships bled the shade of their soil, before biting back."
+            }
+        },
+        "rivotrasGrace": {
+            "name": "Rivotra's Grace",
+            "description": {
+                "general": "To the Sea People, the wind has always brought the best protection to their sails."
+            }
+        },
+        "sumuSunder": {
+            "name": "Sumu Sunder",
+            "description": {
+                "general": "To master a fever, one must first break it -- for the ship lords off the Coast of Africa, poison can be the sternest teacher."
+            }
+        },
+        "stinkpotStation": {
+            "name": "Stinkpot Station",
+            "description": {
+                "general": "The grim laboratories of La Peste churn out noxious bombs filled with sulfur and antimony."
+            }
+        },
+        "sheetingWinchConsole": {
+            "name": "Sheeting Winch Console",
+            "description": {
+                "general": "DMC-styled capstan-powered winches used for swift trimming and agile maneuvers."
+            }
+        },
+        "gimbalRingStores": {
+            "name": "Gimbal Ring Stores",
+            "description": {
+                "general": "Compagnie-designed trunnion-mounted rings level guns through pitch and roll."
+            }
+        },
+        "siphonFurnace": {
+            "name": "Siphon Furnace",
+            "description": {
+                "general": "Used by the Ungwana to heat and hurl caustic oils brewed from belladonna and arsenic."
+            }
+        },
+        "causticSpallStation": {
+            "name": "Caustic Spall Station",
+            "description": {
+                "general": "Designed by the Fara to rupture hulls and rot internal beams."
+            }
+        },
+        "leydenVaultArray": {
+            "name": "Leyden Vault Array",
+            "description": {
+                "general": "Glass and foil-lined jars from the remains of the Shadowbeast wired to unleash high-voltage arcs."
+            }
+        },
+        "cascadeCoilBench": {
+            "name": "Cascade Coil Bench",
+            "description": {
+                "general": "Copper coils are wound around flame nozzles, igniting secondary bursts of naptha and sulfur dust."
+            }
+        },
+        "curareCrushingBench": {
+            "name": "Curare Crushing Bench",
+            "description": {
+                "general": "Basins of curare paste with paralytic toxins, packed into splintered shot."
+            }
+        },
+        "virulentAccord": {
+            "name": "Virulent Accord",
+            "description": {
+                "general": "Born of pact and poison, the first flames are always lit by friends turned foes."
+            }
+        },
+        "heavenlyThunder": {
+            "name": "Heavenly Thunder",
+            "description": {
+                "general": "When Tianlei speaks, the sea listens, the storm obeys."
+            }
+        },
+        "theRotmouth": {
+            "name": "The Rotmouth",
+            "description": {
+                "general": "Each bark is a pestilent cough from the Plague King's maw."
+            }
+        },
+        "blightbringer": {
+            "name": "Blightbringer",
+            "description": {
+                "general": "Each charge is said to carry a volatile mix from the bilge-forges of La Peste himself."
+            }
+        },
+        "theDrownedOne": {
+            "name": "The Drowned One",
+            "description": {
+                "general": "The Sea People believe its aim is guided by those who were lost at sea."
+            }
+        },
+        "frostwail": {
+            "name": "Frostwail",
+            "description": {
+                "general": "Some say the screams are from those trapped within the Dark Beyond."
+            }
+        },
+        "sloopOfWarUpgrade": {
+            "name": "Sloop of War Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Sloop of War.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
         }
     }
 }

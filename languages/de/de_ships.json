@@ -95,6 +95,12 @@
             "description": {
                 "general": "Ein großes Schiff mit unvergleichlicher Verteidigung. Es verströmt eine mächtige Aura, die Verbündete stärkt. Ein Produkt des Einfallsreichtums der Compagnie und verbesserter Materialien aus Europa."
             }
+        },
+        "sloopOfWar": {
+            "name": "Sloop of War",
+            "description": {
+                "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+            }
         }
     }
 }
