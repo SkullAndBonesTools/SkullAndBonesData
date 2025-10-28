@@ -235,6 +235,7 @@
         "premiumEventPass": "Premium Event Pass",
         "darktideAltarTelokPenjarah": "Purchasable during the Darktide Lullaby event at the Darktide Altar in Telok Penjarah",
         "notIntendedToBeObtainable": "Not intended to be obtainable",
-        "twitchDropStartYear2Season3": "Twitch Drops at the start of {{gutsAndGlory}}"
+        "twitchDropStartYear2Season3": "Twitch Drops at the start of {{gutsAndGlory}}",
+        "factionWarEffortReward": "Reward for contributing War Assets to the Faction War"
     }
 }

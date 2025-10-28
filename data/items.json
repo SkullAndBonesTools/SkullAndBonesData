@@ -14805,7 +14805,7 @@
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "obtainable": "",
+        "obtainable": "factionWarEffortReward",
         "perks": [
             "leydenVaultArray"
         ],
@@ -14820,7 +14820,7 @@
         "gearScore": 20,
         "value": 1,
         "weight": 80,
-        "obtainable": "",
+        "obtainable": "factionWarEffortReward",
         "perks": [
             "cascadeCoilBench"
         ],
@@ -14835,7 +14835,7 @@
         "gearScore": 20,
         "value": 1,
         "weight": 80,
-        "obtainable": "",
+        "obtainable": "factionWarEffortReward",
         "perks": [
             "curareCrushingBench"
         ],
@@ -14847,20 +14847,22 @@
         "type": "seaFire",
         "rarity": "epic",
         "season": "gutsAndGlory",
+        "requiredSize": "medium",
         "value": 1,
         "weight": 750,
-        "gearScore": 10,
+        "gearScore": 91,
         "projectilesPerShot": 10,
-        "damagePerShot": 10,
+        "damagePerShot": 475,
         "fireDuration": 1000,
-        "rateOfFire": 0,
-        "reloadSpeed": 1000,
+        "rateOfFire": 250,
+        "reloadSpeed": 400,
         "projectileSpeed": 1,
         "optimalRange": 125,
         "perks": [
             "infectious",
             "toxic3"
         ],
+        "obtainable": "factionWarEffortReward",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -14869,20 +14871,21 @@
         "type": "seaFire",
         "rarity": "epic",
         "season": "gutsAndGlory",
+        "requiredSize": "medium",
         "value": 1,
         "weight": 750,
-        "gearScore": 10,
+        "gearScore": 91,
         "projectilesPerShot": 10,
-        "damagePerShot": 10,
+        "damagePerShot": 594,
         "fireDuration": 1000,
-        "rateOfFire": 0,
-        "reloadSpeed": 1000,
+        "rateOfFire": 250,
+        "reloadSpeed": 400,
         "projectileSpeed": 1,
-        "optimalRange": 125,
+        "optimalRange": 200,
+        "obtainable": "factionWarEffortReward",
         "perks": [
             "lancerSeaFire",
-            "electric3",
-            "burning1"
+            "electric4"
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
