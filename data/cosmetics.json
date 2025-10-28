@@ -26540,7 +26540,7 @@
         "lastUpdated": "2025-09-09"
     },
     "theNextLife": {
-        "id": "washedGray",
+        "id": "theNextLife",
         "type": "hull",
         "set": "kingOfChains",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
@@ -26548,7 +26548,7 @@
         "lastUpdated": "2025-10-21"
     },
     "steelySmile": {
-        "id": "bleakBanners",
+        "id": "steelySmile",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "kingOfChains",
@@ -26557,7 +26557,7 @@
         "lastUpdated": "2025-10-21"
     },
     "buccaneersRevenge": {
-        "id": "headsWillRoll",
+        "id": "buccaneersRevenge",
         "type": "sailsEmblem",
         "set": "kingOfChains",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
@@ -26565,7 +26565,7 @@
         "lastUpdated": "2025-10-21"
     },
     "borrowedTime": {
-        "id": "flamingWill",
+        "id": "borrowedTime",
         "type": "sailsPattern",
         "set": "kingOfChains",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
