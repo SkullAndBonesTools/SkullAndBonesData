@@ -18629,6 +18629,12 @@
             "description": {
                 "general": "\"May their blood sweeten our wine.\""
             }
+        },
+        "mayhemBringer": {
+            "name": "Mayhem Bringer",
+            "description": {
+                "general": "\"Now, there's a pirate to watch.\""
+            }
         }
     }
 }

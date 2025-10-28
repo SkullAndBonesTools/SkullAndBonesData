@@ -26650,5 +26650,12 @@
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "mayhemBringer": {
+        "id": "mayhemBringer",
+        "type": "sailsEmblem",
+        "obtainable": ["twitchDrop","twitchDropSpammals"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
