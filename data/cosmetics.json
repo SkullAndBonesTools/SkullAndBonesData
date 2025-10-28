@@ -26604,5 +26604,51 @@
         "obtainable": [["twitchDrop","twitchDropTheDeck"]],
         "dateAdded": "2025-10-22",
         "lastUpdated": "2025-10-22"
+    },
+    "livingSun": {
+        "id": "livingSun",
+        "type": "sailsEmblem",
+        "set": "",
+        "obtainable": "factionWarRewardWonTerritory1",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "blackDiamond": {
+        "id": "blackDiamond",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "factionWarRewardWonTerritory4",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "momentousStride": {
+        "id": "momentousStride",
+        "type": "hull",
+        "set": "",
+        "obtainable": "factionWarRewardWonTerritory5",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "gildedEpic": {
+        "id": "gildedEpic",
+        "type": "sailsPattern",
+        "set": "",
+        "obtainable": "factionWarRewardWonTerritory8",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "corsaire": {
+        "id": "corsaire",
+        "type": "nameplate",
+        "set": "",
+        "obtainable": "factionWarRewardWonTerritory11",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

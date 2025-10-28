@@ -18599,6 +18599,36 @@
             "description": {
                 "general": "You understand the ocean, and it understands you"
             }
+        },
+        "livingSun": {
+            "name": "Living Sun",
+            "description": {
+                "general": "A tribute to the crown and a famed empire"
+            }
+        },
+        "blackDiamond": {
+            "name": "Black Diamond",
+            "description": {
+                "general": "\"No sea-scum could ever break our will.\""
+            }
+        },
+        "momentousStride": {
+            "name": "Momentous Stride",
+            "description": {
+                "general": "\"Fall in line, and pledge your lives.\""
+            }
+        },
+        "gildedEpic": {
+            "name": "Gilded Epic",
+            "description": {
+                "general": "\"Long after we are gone, our tale will live on.\""
+            }
+        },
+        "corsaire": {
+            "name": "Corsaire",
+            "description": {
+                "general": "\"May their blood sweeten our wine.\""
+            }
         }
     }
 }
