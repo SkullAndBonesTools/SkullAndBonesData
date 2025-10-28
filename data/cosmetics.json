@@ -26657,5 +26657,42 @@
         "obtainable": ["twitchDrop","twitchDropSpammals"],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "scorpionOfTheSea": {
+        "id": "scorpionOfTheSea",
+        "type": "sailsEmblem",
+        "set": "gutsOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "drownedHopes": {
+        "id": "drownedHopes",
+        "type": "hull",
+        "set": "gutsOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "outsailDeath": {
+        "id": "outsailDeath",
+        "type": "sailsColor",
+        "set": "gutsOfWar",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "crackTheWhip": {
+        "id": "crackTheWhip",
+        "type": "sailsPattern",
+        "set": "gutsOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

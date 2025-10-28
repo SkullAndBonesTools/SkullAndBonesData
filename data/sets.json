@@ -1382,5 +1382,9 @@
     "theAnchorborn": {
         "id": "theAnchorborn",
         "type": "ship"
+    },
+    "gutsOfWar": {
+        "id": "gutsOfWar",
+        "type": "ship"
     }
 }

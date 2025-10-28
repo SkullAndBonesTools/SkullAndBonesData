@@ -18635,6 +18635,30 @@
             "description": {
                 "general": "\"Now, there's a pirate to watch.\""
             }
+        },
+        "scorpionOfTheSea": {
+            "name": "Scorpion of The Sea",
+            "description": {
+                "general": "Built to fight and dominate"
+            }
+        },
+        "drownedHopes": {
+            "name": "Drowned Hopes",
+            "description": {
+                "general": "To the bottom, they go"
+            }
+        },
+        "outsailDeath": {
+            "name": "Outsail Death",
+            "description": {
+                "general": "May your luck run as long as the sea is wide"
+            }
+        },
+        "crackTheWhip": {
+            "name": "Crack the Whip",
+            "description": {
+                "general": "For a captain who never loses their target"
+            }
         }
     }
 }
