@@ -26694,5 +26694,50 @@
         "obtainable": ["smugglerPass","smugglerPass50Reward"],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "deadmansDrift": {
+        "id": "deadmansDrift",
+        "type": "sailsColor",
+        "set": "daggersOath",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "adventuresAfoot": {
+        "id": "adventuresAfoot",
+        "type": "hull",
+        "set": "daggersOath",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "nimblePhantom": {
+        "id": "nimblePhantom",
+        "type": "sailsEmblem",
+        "set": "daggersOath",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "flintfang": {
+        "id": "flintfang",
+        "type": "nameplate",
+        "set": "daggersOath",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "allEyes": {
+        "id": "allEyes",
+        "type": "sailsPattern",
+        "set": "daggersOath",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

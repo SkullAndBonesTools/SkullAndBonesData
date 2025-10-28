@@ -1386,5 +1386,9 @@
     "gutsOfWar": {
         "id": "gutsOfWar",
         "type": "ship"
+    },
+    "daggersOath": {
+        "id": "daggersOath",
+        "type": "ship"
     }
 }

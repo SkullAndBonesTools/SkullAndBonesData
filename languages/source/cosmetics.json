@@ -18659,6 +18659,36 @@
             "description": {
                 "general": "For a captain who never loses their target"
             }
+        },
+        "deadmansDrift": {
+            "name": "Deadman's Drift",
+            "description": {
+                "general": "\"As long as we breathe, we hunt and fight.\""
+            }
+        },
+        "adventuresAfoot": {
+            "name": "Adventures Afoot",
+            "description": {
+                "general": "\"To the seas we go, lads!\""
+            }
+        },
+        "nimblePhantom": {
+            "name": "Nimble Phantom",
+            "description": {
+                "general": "\"Know when you've been outmatched.\""
+            }
+        },
+        "flintfang": {
+            "name": "Flintfang",
+            "description": {
+                "general": "Fight fiercely, and look dashing while you're at it"
+            }
+        },
+        "allEyes": {
+            "name": "All Eyes",
+            "description": {
+                "general": "\"Always watch and plan before you act.\""
+            }
         }
     }
 }
