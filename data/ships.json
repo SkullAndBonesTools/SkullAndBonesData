@@ -841,19 +841,19 @@
         "archetype": "dps",
         "blueprint": "smugglerPass45Reward",
         "season": "gutsAndGlory",
-        "hitpoints": 0,
-        "braceStrength": 0,
+        "hitpoints": 32000,
+        "braceStrength": 6400,
         "braceStrengthRecovery": 1,
         "stamina": 100,
         "baseRank": 4,
         "sailSpeed": {
-            "halfSail": 0,
-            "fullSail": 0,
-            "travelSail": 0
+            "halfSail": 9,
+            "fullSail": 12,
+            "travelSail": 18
         },
         "cargo": {
             "cargoSlots": 50,
-            "cargoMaxWeight": 0
+            "cargoMaxWeight": 90000
         },
         "required": {},
         "slots": {
