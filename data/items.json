@@ -14645,25 +14645,25 @@
         "dateAdded": "2025-09-30",
         "lastUpdated": "2025-09-30"
     },
-    "trondraDra": {
-        "id": "trondraDra",
+    "tondraDra": {
+        "id": "tondraDra",
         "rarity": "epic",
         "season": "gutsAndGlory",
         "type": "armor",
         "value": 1,
         "weight": 500,
-        "gearScore": 100,
-        "armor": 1000,
+        "gearScore": 297,
+        "armor": 1200,
         "damageMitigation": {
-            "explosive": 0,
-            "flooding": 0,
-            "fire": 0,
+            "explosive": 0.1,
+            "flooding": 0.25,
+            "fire": 0.4,
             "tearing": 0,
-            "piercing": 0,
-            "electric": 0
+            "piercing": 0.2,
+            "electric": 0.25,
+            "toxic": 0
         },
-        "required": {},
-        "obtainable": "",
+        "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
         "perks": [
             "resurgence"
         ],
@@ -14677,18 +14677,18 @@
         "type": "armor",
         "value": 1,
         "weight": 500,
-        "gearScore": 100,
-        "armor": 1000,
+        "gearScore": 297,
+        "armor": 1100,
         "damageMitigation": {
-            "explosive": 0,
-            "flooding": 0,
-            "fire": 0,
-            "tearing": 0,
-            "piercing": 0,
-            "electric": 0
+            "explosive": 0.05,
+            "flooding": 0.4,
+            "fire": 0.25,
+            "tearing": 0.45,
+            "piercing": 0.1,
+            "electric": 0,
+            "toxic": 0
         },
-        "required": {},
-        "obtainable": "",
+        "obtainable": "smugglerPass",
         "perks": [
             "windcaller"
         ],
@@ -14702,18 +14702,18 @@
         "type": "armor",
         "value": 1,
         "weight": 500,
-        "gearScore": 100,
-        "armor": 1000,
+        "gearScore": 270,
+        "armor": 1250,
         "damageMitigation": {
-            "explosive": 0,
-            "flooding": 0,
-            "fire": 0,
+            "explosive": 0.05,
+            "flooding": 0.28,
+            "fire": 0.25,
             "tearing": 0,
             "piercing": 0,
-            "electric": 0
+            "electric": 0.1,
+            "toxic": 0.4
         },
-        "required": {},
-        "obtainable": "",
+        "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
         "perks": [
             "immunity"
         ],
