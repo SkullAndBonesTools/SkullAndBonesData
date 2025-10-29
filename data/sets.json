@@ -1390,5 +1390,21 @@
     "daggersOath": {
         "id": "daggersOath",
         "type": "ship"
+    },
+    "goldenGlory": {
+        "id": "goldenGlory",
+        "type": "ship"
+    },
+    "bonehooked": {
+        "id": "bonehooked",
+        "type": "ship"
+    },
+    "deathsMuse": {
+        "id": "deathsMuse",
+        "type": "ship"
+    },
+    "flamesOfWar": {
+        "id": "flamesOfWar",
+        "type": "ship"
     }
 }

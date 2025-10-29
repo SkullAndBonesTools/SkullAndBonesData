@@ -18689,6 +18689,174 @@
             "description": {
                 "general": "\"Always watch and plan before you act.\""
             }
+        },
+        "intricatelyYours": {
+            "name": "Intricately Yours",
+            "description": {
+                "general": "Might as well enjoy the finer things"
+            }
+        },
+        "clinkClink": {
+            "name": "Clink Clink",
+            "description": {
+                "general": "\"Coin is what it's all about, mateys.\""
+            }
+        },
+        "raidMadness": {
+            "name": "Raid Madness",
+            "description": {
+                "general": "\"Smash their hulls and crush their skulls!\""
+            }
+        },
+        "fortuneLord": {
+            "name": "Fortune Lord",
+            "description": {
+                "general": "Fill your coffers, find your freedom"
+            }
+        },
+        "festiveNight": {
+            "name": "Festive Night",
+            "description": {
+                "general": "After dark, relish your spoils"
+            }
+        },
+        "imperialEchoes": {
+            "name": "Imperial Echoes",
+            "description": {
+                "general": "\"Kings and queens shall envy my fortune.\""
+            }
+        },
+        "aBrilliantEpoch": {
+            "name": "A Brilliant Epoch",
+            "description": {
+                "general": "\"Know what you want, and go after it, mateys.\""
+            }
+        },
+        "allConsuming": {
+            "name": "All Consuming",
+            "description": {
+                "general": "With fire and fury, you seize all that you desire"
+            }
+        },
+        "devourTheSea": {
+            "name": "Devour the Sea",
+            "description": {
+                "general": "More than enough for the taking"
+            }
+        },
+        "perfectCatch": {
+            "name": "Perfect Catch",
+            "description": {
+                "general": "\"Reel em' in, mateys!\""
+            }
+        },
+        "digInDiveIn": {
+            "name": "Dig In, Dive In",
+            "description": {
+                "general": "Enjoy your spoils to the last"
+            }
+        },
+        "takeUsHome": {
+            "name": "Take Us Home",
+            "description": {
+                "general": "\"For we have lost our way.\""
+            }
+        },
+        "seepsAndFlows": {
+            "name": "Seeps and Flows",
+            "description": {
+                "general": "\"Blood binds us all, does it not?\""
+            }
+        },
+        "tomorrowsSorrow": {
+            "name": "Tomorrow's Sorrow",
+            "description": {
+                "general": "All the world's treasures bring no joy or peace"
+            }
+        },
+        "endlessLament": {
+            "name": "Endless Lament",
+            "description": {
+                "general": "Never stop, not even with hands worn to the bone"
+            }
+        },
+        "melodicGrasp": {
+            "name": "Melodic Grasp",
+            "description": {
+                "general": "Enchant your enemies into doing your bidding"
+            }
+        },
+        "deathSong": {
+            "name": "Death Song",
+            "description": {
+                "general": "\"It seizes the mind and stops the heart.\""
+            }
+        },
+        "burdenOfSong": {
+            "name": "Burden of Song",
+            "description": {
+                "general": "\"We are fools to think we orchestrate our own fate.\""
+            }
+        },
+        "chaosBard": {
+            "name": "Chaos Bard",
+            "description": {
+                "general": "Plays badly enough to kill"
+            }
+        },
+        "apianto": {
+            "name": "Apianto",
+            "description": {
+                "general": "Usually placid, dangerous when disturbed"
+            }
+        },
+        "raiseHell": {
+            "name": "Raise Hell",
+            "description": {
+                "general": "\"Give me something to shoot, damn it!\""
+            }
+        },
+        "silentAsTheGrave": {
+            "name": "Silent as the Grave",
+            "description": {
+                "general": "Something sinister waits in the shadows"
+            }
+        },
+        "glowInTheNight": {
+            "name": "Glow in the Night",
+            "description": {
+                "general": "An eerie beacon for the condemned"
+            }
+        },
+        "plumeParade": {
+            "name": "Plume Parade",
+            "description": {
+                "general": "Choking smoke blots out sea and sky"
+            }
+        },
+        "charredBlood": {
+            "name": "Charred Blood",
+            "description": {
+                "general": "You will never forget how it sticks and clings"
+            }
+        },
+        "graveOfAshes": {
+            "name": "Grave of Ashes",
+            "description": {
+                "general": "Corpses torched, bones lost"
+            }
+        },
+        "mutinousFire": {
+            "name": "Mutinous Fire",
+            "description": {
+                "general": "You may be a traitor, but you are your own pirate"
+            }
+        },
+        "cinderking": {
+            "name": "Cinderking",
+            "description": {
+                "general": "Your fury could scorch the heavens"
+            }
         }
     }
 }

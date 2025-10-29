@@ -26739,5 +26739,264 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "intricatelyYours": {
+        "id": "intricatelyYours",
+        "type": "sailsPattern",
+        "set": "goldenGlory",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "clinkClink": {
+        "id": "clinkClink",
+        "type": "sailsEmblem",
+        "set": "goldenGlory",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "raidMadness": {
+        "id": "raidMadness",
+        "type": "figureHead",
+        "set": "goldenGlory",
+        "effect": ["emissive","combatReactive"],
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "fortuneLord": {
+        "id": "fortuneLord",
+        "type": "nameplate",
+        "set": "goldenGlory",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "festiveNight": {
+        "id": "festiveNight",
+        "type": "hull",
+        "set": "goldenGlory",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "imperialEchoes": {
+        "id": "imperialEchoes",
+        "type": "sailsColor",
+        "set": "goldenGlory",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "aBrilliantEpoch": {
+        "id": "aBrilliantEpoch",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "goldenGlory",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "allConsuming": {
+        "id": "allConsuming",
+        "type": "hull",
+        "set": "bonehooked",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "devourTheSea": {
+        "id": "devourTheSea",
+        "type": "sailsColor",
+        "set": "bonehooked",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "perfectCatch": {
+        "id": "perfectCatch",
+        "type": "sailsEmblem",
+        "set": "bonehooked",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "digInDiveIn": {
+        "id": "digInDiveIn",
+        "type": "sailsPattern",
+        "set": "bonehooked",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "takeUsHome": {
+        "id": "takeUsHome",
+        "type": "hull",
+        "set": "deathsMuse",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "seepsAndFlows": {
+        "id": "seepsAndFlows",
+        "type": "sailsColor",
+        "set": "deathsMuse",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "tomorrowsSorrow": {
+        "id": "tomorrowsSorrow",
+        "type": "sailsPattern",
+        "set": "deathsMuse",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "endlessLament": {
+        "id": "endlessLament",
+        "type": "sailsEmblem",
+        "set": "deathsMuse",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "melodicGrasp": {
+        "id": "melodicGrasp",
+        "type": "wheel",
+        "set": "deathsMuse",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "deathSong": {
+        "id": "deathSong",
+        "type": "nameplate",
+        "set": "deathsMuse",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "burdenOfSong": {
+        "id": "burdenOfSong",
+        "type": "figureHead",
+        "set": "deathsMuse",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "chaosBard": {
+        "id": "chaosBard",
+        "type": "pet",
+        "season": "gutsAndGlory",
+        "obtainable": ["smugglerPass","smugglerPassFinalReward"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "apianto": {
+        "id": "apianto",
+        "type": "pet",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "raiseHell": {
+        "id": "raiseHell",
+        "type": "firework",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "silentAsTheGrave": {
+        "id": "silentAsTheGrave",
+        "type": "figureHead",
+        "set": "flamesOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "glowInTheNight": {
+        "id": "glowInTheNight",
+        "type": "wheel",
+        "set": "flamesOfWar",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "plumeParade": {
+        "id": "plumeParade",
+        "type": "sailsPattern",
+        "set": "flamesOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "charredBlood": {
+        "id": "charredBlood",
+        "type": "sailsColor",
+        "set": "flamesOfWar",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "graveOfAshes": {
+        "id": "graveOfAshes",
+        "type": "hull",
+        "set": "flamesOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "mutinousFire": {
+        "id": "mutinousFire",
+        "type": "sailsEmblem",
+        "set": "flamesOfWar",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "cinderking": {
+        "id": "cinderking",
+        "type": "nameplate",
+        "set": "flamesOfWar",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
