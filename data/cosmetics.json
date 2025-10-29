@@ -22084,6 +22084,7 @@
         "pieces": ["figureHead","ornaments","nameplate"],
         "effect": ["emissive","combatReactive"],
         "set": "blackTorch",
+        "season": "ascentIntoChaos",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
         "lastUpdated": "2025-04-15"
@@ -27247,5 +27248,57 @@
         "obtainable": "eventPass",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "deathSentence": {
+        "id": "deathSentence",
+        "type": "shipSkin",
+        "pieces": ["figureHead","ornaments","nameplate"],
+        "effect": ["emissive","combatReactive"],
+        "set": "cursedSteel",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "killingCrown": {
+        "id": "killingCrown",
+        "type": "sailsEmblem",
+        "set": "cursedSteel",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "lockdown": {
+        "id": "lockdown",
+        "type": "sailsPattern",
+        "set": "cursedSteel",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "stiflingShadows": {
+        "id": "stiflingShadows",
+        "type": "sailsColor",
+        "set": "cursedSteel",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "fogbound": {
+        "id": "fogbound",
+        "type": "hull",
+        "set": "cursedSteel",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theSeveringHand": {
+        "id": "theSeveringHand",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "cursedSteel",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

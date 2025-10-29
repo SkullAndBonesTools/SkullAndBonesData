@@ -1414,5 +1414,9 @@
     "hallowedShadow": {
         "id": "hallowedShadow",
         "type": "player"
+    },
+    "cursedSteel": {
+        "id": "cursedSteel",
+        "type": "ship"
     }
 }
