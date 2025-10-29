@@ -18911,6 +18911,60 @@
             "description": {
                 "general": "The abyss awaits, its hunger immense"
             }
+        },
+        "deadMansCap": {
+            "name": "Dead Man's Cap",
+            "description": {
+                "general": "Doesn't help you blend in much"
+            }
+        },
+        "cryptMask": {
+            "name": "Crypt Mask",
+            "description": {
+                "general": "Does little against the stench of the dead"
+            }
+        },
+        "nightOfTheAbyss": {
+            "name": "Night of the Abyss",
+            "description": {
+                "general": "Some call your messenger of the spirit-gods"
+            }
+        },
+        "ravenswingCoat": {
+            "name": "Ravenswing Coat",
+            "description": {
+                "general": "Every voyage spreads despair"
+            }
+        },
+        "harbingersScarf": {
+            "name": "Harbinger's Scarf",
+            "description": {
+                "general": "Dark as a still night among tombs"
+            }
+        },
+        "streaksOfDeath": {
+            "name": "Streaks of Death",
+            "description": {
+                "general": "Stained with old blood and grave dirt"
+            }
+        },
+        "coffinSilkSash": {
+            "name": "Coffin Silk Sash",
+            "description": {
+                "general": "Too exquisite to leave to the dead"
+            }
+        },
+        "draggedThroughHell": {
+            "name": "Dragged through Hell",
+            "description": {
+                "general": "You were never to know peace"
+            }
+        },
+        "shredStitchedShoes": {
+            "name": "Shred-stitched Shoes",
+            "description": {
+                "general": "\"You don't want to know what they're made of.\""
+            }
         }
     }
 }

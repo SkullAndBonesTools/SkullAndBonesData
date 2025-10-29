@@ -1410,5 +1410,9 @@
     "hallowedChildren": {
         "id": "hallowedChildren",
         "type": "ship"
+    },
+    "hallowedShadow": {
+        "id": "hallowedShadow",
+        "type": "player"
     }
 }

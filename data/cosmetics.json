@@ -27090,5 +27090,97 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "deadMansCap": {
+        "id": "deadMansCap",
+        "type": "headwear",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "cryptMask": {
+        "id": "cryptMask",
+        "type": "faceAccessory",
+        "effect": "emissive",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "nightOfTheAbyss": {
+        "id": "nightOfTheAbyss",
+        "type": "eyeColor",
+        "set": "hallowedShadow",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "ravenswingCoat": {
+        "id": "ravenswingCoat",
+        "type": "torso",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "harbingersScarf": {
+        "id": "harbingersScarf",
+        "type": "neck",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "streaksOfDeath": {
+        "id": "streaksOfDeath",
+        "type": "forearm",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "coffinSilkSash": {
+        "id": "coffinSilkSash",
+        "type": "waist",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "draggedThroughHell": {
+        "id": "draggedThroughHell",
+        "type": "bottom",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "shredStitchedShoes": {
+        "id": "shredStitchedShoes",
+        "type": "footwear",
+        "set": "hallowedShadow",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
