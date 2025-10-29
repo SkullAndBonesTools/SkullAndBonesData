@@ -19055,6 +19055,12 @@
             "description": {
                 "general": "Echoes with an ancient essence"
             }
+        },
+        "theDevilsWindow": {
+            "name": "The Devil's Window",
+            "description": {
+                "general": "Care to look inside?"
+            }
         }
     }
 }

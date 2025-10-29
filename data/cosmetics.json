@@ -27316,5 +27316,13 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "theDevilsWindow": {
+        "id": "theDevilsWindow",
+        "type": "torpedoWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
