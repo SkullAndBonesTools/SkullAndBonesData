@@ -1418,5 +1418,9 @@
     "cursedSteel": {
         "id": "cursedSteel",
         "type": "ship"
+    },
+    "joyfulReaper": {
+        "id": "joyfulReaper",
+        "type": "ship"
     }
 }
