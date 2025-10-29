@@ -1335,9 +1335,9 @@
         "type": "hull",
         "set": "theBrazenHealer",
         "season": "ragingTides",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-06-20"
+        "lastUpdated": "2025-10-21"
     },
     "emeraldShine": {
         "id": "emeraldShine",
@@ -1936,9 +1936,9 @@
         "type": "sailsColor",
         "set": "theBrazenHealer",
         "season": "ragingTides",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-06-20"
+        "lastUpdated": "2025-10-21"
     },
     "opulentFlair": {
         "id": "opulentFlair",
@@ -2589,9 +2589,9 @@
         "type": "sailsPattern",
         "set": "theBrazenHealer",
         "season": "ragingTides",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-06-20"
+        "lastUpdated": "2025-10-21"
     },
     "theHonorless": {
         "id": "theHonorless",
@@ -2790,9 +2790,9 @@
         "type": "sailsEmblem",
         "set": "theBrazenHealer",
         "season": "ragingTides",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-20"
+        "lastUpdated": "2025-10-21"
     },
     "oceanborn": {
         "id": "oceanborn",
@@ -4383,9 +4383,9 @@
     "skellyWelly": {
         "id": "skellyWelly",
         "type": "pet",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2024-04-06",
-        "lastUpdated": "2024-04-06"
+        "lastUpdated": "2025-10-21"
     },
     "introverting": {
         "id": "introverting",
@@ -11434,36 +11434,36 @@
         "type": "sailsEmblem",
         "set": "engineer",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-04"
+        "lastUpdated": "2025-10-21"
     },
     "mayhemAtWork": {
         "id": "mayhemAtWork",
         "type": "sailsPattern",
         "set": "engineer",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-04"
+        "lastUpdated": "2025-10-21"
     },
     "elbowGrease": {
         "id": "elbowGrease",
         "type": "sailsColor",
         "set": "engineer",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-04"
+        "lastUpdated": "2025-10-21"
     },
     "makeOrBreak": {
         "id": "makeOrBreak",
         "type": "hull",
         "set": "engineer",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-04"
+        "lastUpdated": "2025-10-21"
     },
     "wheelOfTheSongstress": {
         "id": "wheelOfTheSongstress",
@@ -12207,9 +12207,9 @@
         "id": "hermitHarriet",
         "type": "pet",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPass70Reward",
+        "obtainable": [["smugglerPass","smugglerPass70Reward"]],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2025-10-21"
     },
     "skullAndBonesFieryWelcome": {
         "id": "skullAndBonesFieryWelcome",
@@ -12618,9 +12618,9 @@
         "id": "conqueror",
         "type": "nameplate",
         "season": "chorusOfHavoc",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2024-06-18",
-        "lastUpdated": "2024-06-18"
+        "lastUpdated": "2025-10-21"
     },
     "lanunWraps": {
         "id": "lanunWraps",
@@ -15351,36 +15351,36 @@
         "type": "sailsEmblem",
         "set": "theBattleJunk",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "mountainsMight": {
         "id": "mountainsMight",
         "type": "hull",
         "set": "theBattleJunk",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "redDawn": {
         "id": "redDawn",
         "type": "sailsColor",
         "set": "theBattleJunk",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "relentlessTides": {
         "id": "relentlessTides",
         "type": "sailsPattern",
         "set": "theBattleJunk",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass45Reward",
+        "obtainable": [["smugglerPass","smugglerPass45Reward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "wistfulDeath": {
         "id": "wistfulDeath",
@@ -15547,18 +15547,18 @@
         "id": "lazyIggy",
         "type": "pet",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPass70Reward",
+        "obtainable": [["smugglerPass","smugglerPass70Reward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "silverHaze": {
         "id": "silverHaze",
         "type": "aura",
         "effect": "bossKillReactive",
         "season": "intoTheDragonsWake",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2025-10-21"
     },
     "shimmerScaleCoat": {
         "id": "shimmerScaleCoat",
@@ -19654,52 +19654,52 @@
         "type": "sailsEmblem",
         "season": "shadowsOfTheDeep",
         "set": "deadeye",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-10-21"
     },
     "hideyHoles": {
         "id": "hideyHoles",
         "type": "hull",
         "season": "shadowsOfTheDeep",
         "set": "deadeye",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-10-21"
     },
     "daggersInShadows": {
         "id": "daggersInShadows",
         "type": "sailsColor",
         "season": "shadowsOfTheDeep",
         "set": "deadeye",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-10-21"
     },
     "preySeekers": {
         "id": "preySeekers",
         "type": "sailsPattern",
         "season": "shadowsOfTheDeep",
         "set": "deadeye",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-10-21"
     },
     "scarlett": {
         "id": "scarlett",
         "type": "pet",
         "season": "shadowsOfTheDeep",
-        "obtainable": "smugglerPass70Reward",
+        "obtainable": [["smugglerPass","smugglerPass70Reward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-10-21"
     },
     "immortal": {
         "id": "immortal",
         "type": "nameplate",
         "season": "shadowsOfTheDeep",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "nautilianRascals": {
         "id": "nautilianRascals",
@@ -22087,7 +22087,7 @@
         "season": "ascentIntoChaos",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "crownedDeath": {
         "id": "crownedDeath",
@@ -22752,36 +22752,36 @@
         "type": "sailsEmblem",
         "set": "buccaneersBones",
         "season": "ascentIntoChaos",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "emberedWreck": {
         "id": "emberedWreck",
         "type": "hull",
         "set": "buccaneersBones",
         "season": "ascentIntoChaos",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "ashenVeil": {
         "id": "ashenVeil",
         "type": "sailsColor",
         "set": "buccaneersBones",
         "season": "ascentIntoChaos",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "shatteredWake": {
         "id": "shatteredWake",
         "type": "sailsPattern",
         "set": "buccaneersBones",
         "season": "ascentIntoChaos",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "chainlinkSash": {
         "id": "chainlinkSash",
@@ -22868,9 +22868,9 @@
         "id": "tejas",
         "type": "pet",
         "season": "ascentIntoChaos",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2025-10-21"
     },
     "shiningApex": {
         "id": "shiningApex",
@@ -23568,36 +23568,36 @@
         "type": "sailsEmblem",
         "set": "fleetsEyes",
         "season": "oathsOfWar",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "turnTheTide": {
         "id": "turnTheTide",
         "type": "hull",
         "set": "fleetsEyes",
         "season": "oathsOfWar",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "raidItAll": {
         "id": "raidItAll",
         "type": "sailsColor",
         "set": "fleetsEyes",
         "season": "oathsOfWar",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "queenOfTheSeas": {
         "id": "queenOfTheSeas",
         "type": "sailsPattern",
         "set": "fleetsEyes",
         "season": "oathsOfWar",
-        "obtainable": "smugglerPass50Reward",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "mutineersFate": {
         "id": "mutineersFate",
@@ -23894,9 +23894,9 @@
         "id": "littlePeach",
         "type": "pet",
         "season": "oathsOfWar",
-        "obtainable": "smugglerPassFinalReward",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "beltOfTheForsaken": {
         "id": "beltOfTheForsaken",
@@ -26664,7 +26664,7 @@
         "type": "sailsEmblem",
         "set": "gutsOfWar",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -26673,7 +26673,7 @@
         "type": "hull",
         "set": "gutsOfWar",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -26683,7 +26683,7 @@
         "set": "gutsOfWar",
         "effect": "emissive",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -26692,7 +26692,7 @@
         "type": "sailsPattern",
         "set": "gutsOfWar",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPass50Reward"],
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -26914,7 +26914,7 @@
         "id": "chaosBard",
         "type": "pet",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPassFinalReward"],
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
