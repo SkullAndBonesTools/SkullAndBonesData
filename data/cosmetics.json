@@ -27300,5 +27300,21 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "mawOfStillness": {
+        "id": "mawOfStillness",
+        "type": "mortarWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "mawOfSilence": {
+        "id": "mawOfSilence",
+        "type": "rocketWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

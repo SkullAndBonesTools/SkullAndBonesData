@@ -19043,6 +19043,18 @@
             "description": {
                 "general": "The life you once had eludes you"
             }
+        },
+        "mawOfStillness": {
+            "name": "Maw of Stillness",
+            "description": {
+                "general": "Reminds one of the eeriesness of the depths"
+            }
+        },
+        "mawOfSilence": {
+            "name": "Maw of Silence",
+            "description": {
+                "general": "Echoes with an ancient essence"
+            }
         }
     }
 }

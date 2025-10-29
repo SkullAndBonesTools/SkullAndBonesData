@@ -5,7 +5,8 @@ export type CosmeticEffect = (typeof CosmeticEffects)[number];
 export const ShipCosmeticTypes = [
     "sailsEmblem", "sailsPattern", "sailsColor", "hull", "crowsNest", "trophy", "wheel", "helmDecor", "ornaments", "figureHead", "nameplate",
     "pet", "crewLook", "aura", "shipSkin", "armorSkin", "firework",
-    "culverinWeaponSkin", "demicannonWeaponSkin", "longGunWeaponSkin", "bombardWeaponSkin", "ballistaWeaponSkin", "torpedoWeaponSkin"
+    "culverinWeaponSkin", "demicannonWeaponSkin", "longGunWeaponSkin", "bombardWeaponSkin", "ballistaWeaponSkin", "torpedoWeaponSkin", "mortarWeaponSkin",
+    "rocketWeaponSkin"
 ] as const;
 export type ShipCosmeticType = (typeof ShipCosmeticTypes)[number];
 export const PlayerOutfitTypes = [
