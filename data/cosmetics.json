@@ -27067,6 +27067,7 @@
         "id": "stabTheDeep",
         "type": "ornaments",
         "season": "gutsAndGlory",
+        "set": "hallowedChildren",
         "effect": "emissive",
         "event": "requiemOfTheLost",
         "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
