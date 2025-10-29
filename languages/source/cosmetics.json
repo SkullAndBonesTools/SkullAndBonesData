@@ -19061,6 +19061,18 @@
             "description": {
                 "general": "Care to look inside?"
             }
+        },
+        "troubleFindsYou": {
+            "name": "Trouble Finds You",
+            "description": {
+                "general": "\"Better make peace with your gods.\""
+            }
+        },
+        "finalInsult": {
+            "name": "Final Insult",
+            "description": {
+                "general": "\"You had your chance.\""
+            }
         }
     }
 }
