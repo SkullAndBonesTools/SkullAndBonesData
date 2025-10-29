@@ -9559,7 +9559,15 @@
         "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
-        "required": {},
+        "required": {
+            "planetaryGearset": 12,
+            "torsionSpring": 10,
+            "precisionDrillingBit": 10,
+            "orcaIntricateApparatus": 1,
+            "eelSturdyRopes": 1,
+            "silver": 3300
+        },
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "obtainable": ["legacyCache3","legacyCache4"],
         "perks": [
             "sharedSupply",
@@ -9606,6 +9614,7 @@
         "rarity": "epic",
         "season": "intoTheDragonsWake",
         "obtainable": ["legacyCache3"],
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -9616,7 +9625,14 @@
         "optimalRange": 600,
         "timeToTarget": 5750,
         "blastRadius": 50,
-        "required": {},
+        "required": {
+            "dryCastingSand": 14,
+            "naphtha": 6,
+            "rubber": 6,
+            "precisionDrillingBit": 6,
+            "eelSturdyRopes": 2,
+            "silver": 4290
+        },
         "perks": [
             "taunting",
             "blast",
@@ -9634,7 +9650,16 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "wormDrive": 8,
+            "torsionSpring": 6,
+            "precisionDrillingBit": 6,
+            "eelSturdyRopes": 1,
+            "wyrmVolatileNapalm": 1,
+            "gannetDenseNiter": 1,
+            "silver": 5760
+        },
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "obtainable": ["legacyCache3"],
         "perks": [
             "spitefulSpikesStation"
@@ -9686,7 +9711,15 @@
             "electric": 0.2,
             "toxic": 0.05
         },
-        "required": {},
+        "required": {
+            "planetaryGearset": 12,
+            "wormDrive": 12,
+            "sinewString": 10,
+            "wyrmVolatileNapalm": 1,
+            "gannetDenseNiter": 1,
+            "silver": 3800
+        },
+        "blueprint": "theHelmSeasonGutsAndGlory",
         "perks": [
             "lightningStream"
         ],
