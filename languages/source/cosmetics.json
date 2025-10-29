@@ -18857,6 +18857,60 @@
             "description": {
                 "general": "Your fury could scorch the heavens"
             }
+        },
+        "fieryPits": {
+            "name": "Fiery Pits",
+            "description": {
+                "general": "The smell of blood and sulfur assault the senses"
+            }
+        },
+        "cursedWanderer": {
+            "name": "Cursed Wanderer",
+            "description": {
+                "general": "You shall reap till the end of days"
+            }
+        },
+        "wrathOfMoons": {
+            "name": "Wrath of Moons",
+            "description": {
+                "general": "\"Time to say goodnight, mateys.\""
+            }
+        },
+        "hallowed": {
+            "name": "Hallowed",
+            "description": {
+                "general": "From the ship to its captain, all are damned"
+            }
+        },
+        "underseaCrossing": {
+            "name": "Undersea Crossing",
+            "description": {
+                "general": "An arduous journey that all seafarers must make"
+            }
+        },
+        "shroudToRegret": {
+            "name": "Shroud to Regret",
+            "description": {
+                "general": "How long for it all to end"
+            }
+        },
+        "stabTheDeep": {
+            "name": "Stab the Deep",
+            "description": {
+                "general": "The seas attract chaos, as do you"
+            }
+        },
+        "hallowedFliers": {
+            "name": "Hallowed Fliers",
+            "description": {
+                "general": "The skies are filled with dark omens"
+            }
+        },
+        "helloDeath": {
+            "name": "Hello, Death",
+            "description": {
+                "general": "The abyss awaits, its hunger immense"
+            }
         }
     }
 }

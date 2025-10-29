@@ -26998,5 +26998,97 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "fieryPits": {
+        "id": "fieryPits",
+        "type": "sailsPattern",
+        "set": "hallowedChildren",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "cursedWanderer": {
+        "id": "cursedWanderer",
+        "type": "sailsEmblem",
+        "set": "hallowedChildren",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "wrathOfMoons": {
+        "id": "wrathOfMoons",
+        "type": "figureHead",
+        "set": "hallowedChildren",
+        "effect": ["emissive","combatReactive"],
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "hallowed": {
+        "id": "hallowed",
+        "type": "nameplate",
+        "set": "hallowedChildren",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "underseaCrossing": {
+        "id": "underseaCrossing",
+        "type": "hull",
+        "set": "hallowedChildren",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "shroudToRegret": {
+        "id": "shroudToRegret",
+        "type": "sailsColor",
+        "set": "hallowedChildren",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "stabTheDeep": {
+        "id": "stabTheDeep",
+        "type": "ornaments",
+        "season": "gutsAndGlory",
+        "effect": "emissive",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "hallowedFliers": {
+        "id": "hallowedFliers",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "helloDeath": {
+        "id": "helloDeath",
+        "type": "firework",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
