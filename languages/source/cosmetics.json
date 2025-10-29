@@ -18965,6 +18965,48 @@
             "description": {
                 "general": "\"You don't want to know what they're made of.\""
             }
+        },
+        "eveOfTheEnd": {
+            "name": "Eve of the End",
+            "description": {
+                "general": "Feels as if a shroud of death clings to the ship"
+            }
+        },
+        "lostAndBound": {
+            "name": "Lost and Bound",
+            "description": {
+                "general": "Let the dead have their fun"
+            }
+        },
+        "pumpkinbeak": {
+            "name": "Pumpkinbeak",
+            "description": {
+                "general": "Wants both tricks and treats"
+            }
+        },
+        "cursedGrail": {
+            "name": "Cursed Grail",
+            "description": {
+                "general": "Reap enough, and perhaps redemption will be yours"
+            }
+        },
+        "thornyTales": {
+            "name": "Thorny Tales",
+            "description": {
+                "general": "\"The stories are indeed true.\""
+            }
+        },
+        "bloodAndGore": {
+            "name": "Blood and Gore",
+            "description": {
+                "general": "Death is sweet"
+            }
+        },
+        "deathSwing": {
+            "name": "Death Swing",
+            "description": {
+                "general": "Done blow, numerous souls"
+            }
         }
     }
 }

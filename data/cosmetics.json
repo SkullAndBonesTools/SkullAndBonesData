@@ -27182,5 +27182,70 @@
         "obtainable": ["ubisoftStoreRedeemableWithEventToken","ubisoftStore"],
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "eveOfTheEnd": {
+        "id": "eveOfTheEnd",
+        "type": "armorSkin",
+        "season": "gutsAndGlory",
+        "effect": "emissive",
+        "event": "requiemOfTheLost",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "lostAndBound": {
+        "id": "lostAndBound",
+        "type": "culverinWeaponSkin",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "pumpkinbeak": {
+        "id": "pumpkinbeak",
+        "type": "pet",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "cursedGrail": {
+        "id": "cursedGrail",
+        "type": "hull",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "thornyTales": {
+        "id": "thornyTales",
+        "type": "sailsPattern",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "bloodAndGore": {
+        "id": "bloodAndGore",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "deathSwing": {
+        "id": "deathSwing",
+        "type": "sailsEmblem",
+        "season": "gutsAndGlory",
+        "event": "requiemOfTheLost",
+        "obtainable": "eventPass",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
