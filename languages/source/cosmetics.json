@@ -19115,6 +19115,18 @@
             "description": {
                 "general": "Every sinner pays the price"
             }
+        },
+        "theWanderer": {
+            "name": "The Wanderer",
+            "description": {
+                "general": "Dignity in solitude"
+            }
+        },
+        "whackAttack": {
+            "name": "Whack Attack",
+            "description": {
+                "general": "Stay clear or lose a finger"
+            }
         }
     }
 }
