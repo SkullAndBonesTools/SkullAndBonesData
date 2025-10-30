@@ -27417,5 +27417,124 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "diabolus": {
+        "id": "diabolus",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "recklessAbandon": {
+        "id": "recklessAbandon",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "lightsOfHell": {
+        "id": "lightsOfHell",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "mournfulMirror": {
+        "id": "mournfulMirror",
+        "type": "sailsColor",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "brimstonesCurse": {
+        "id": "brimstonesCurse",
+        "type": "hull",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "jaggedWindows": {
+        "id": "jaggedWindows",
+        "type": "sailsPattern",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "demonsRepose": {
+        "id": "demonsRepose",
+        "type": "sailsEmblem",
+        "set": "devilsPact",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "brokenSaint": {
+        "id": "brokenSaint",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "justiceWaits": {
+        "id": "justiceWaits",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "searingLight": {
+        "id": "searingLight",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "theSeasSplit": {
+        "id": "theSeasSplit",
+        "type": "hull",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "profaneProphet": {
+        "id": "profaneProphet",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "ungodlyHalo": {
+        "id": "ungodlyHalo",
+        "type": "sailsEmblem",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "voicesOfTheWicked": {
+        "id": "voicesOfTheWicked",
+        "type": "sailsPattern",
+        "set": "saintOfWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }

@@ -1426,5 +1426,13 @@
     "cursedFortunes": {
         "id": "cursedFortunes",
         "type": "ship"
+    },
+    "devilsPact": {
+        "id": "devilsPact",
+        "type": "ship"
+    },
+    "saintOfWrath": {
+        "id": "saintOfWrath",
+        "type": "ship"
     }
 }

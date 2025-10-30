@@ -19127,6 +19127,90 @@
             "description": {
                 "general": "Stay clear or lose a finger"
             }
+        },
+        "diabolus": {
+            "name": "Diabolus",
+            "description": {
+                "general": "You would rival the devil himself"
+            }
+        },
+        "recklessAbandon": {
+            "name": "Reckless Abandon",
+            "description": {
+                "general": "Sail without fear or remorse"
+            }
+        },
+        "lightsOfHell": {
+            "name": "Lights of Hell",
+            "description": {
+                "general": "Said to consume souls"
+            }
+        },
+        "mournfulMirror": {
+            "name": "Mournful Mirror",
+            "description": {
+                "general": "Rage eclipses the tragedies of the past"
+            }
+        },
+        "brimstonesCurse": {
+            "name": "Brimstone's Curse",
+            "description": {
+                "general": "Rise from below and conquer all"
+            }
+        },
+        "jaggedWindows": {
+            "name": "Jagged Windows",
+            "description": {
+                "general": "Some souls are fractured beyond recognition"
+            }
+        },
+        "demonsRepose": {
+            "name": "Demon's Repose",
+            "description": {
+                "general": "Wickedness lurks in the shadows and quit"
+            }
+        },
+        "brokenSaint": {
+            "name": "Broken Saint",
+            "description": {
+                "general": "Sinners beware"
+            }
+        },
+        "justiceWaits": {
+            "name": "Justice Waits",
+            "description": {
+                "general": "It never sleeps or falters"
+            }
+        },
+        "searingLight": {
+            "name": "Searing Light",
+            "description": {
+                "general": "Judgment is harh but necessary"
+            }
+        },
+        "theSeasSplit": {
+            "name": "The Seas Split",
+            "description": {
+                "general": "Send your enemies to their next punishment"
+            }
+        },
+        "profaneProphet": {
+            "name": "Profane Prophet",
+            "description": {
+                "general": "Reap for the reckoning"
+            }
+        },
+        "ungodlyHalo": {
+            "name": "Ungodly Halo",
+            "description": {
+                "general": "Hardly a blessing to see"
+            }
+        },
+        "voicesOfTheWicked": {
+            "name": "Voices of the Wicked",
+            "description": {
+                "general": "Guard against their lies and pleas"
+            }
         }
     }
 }
