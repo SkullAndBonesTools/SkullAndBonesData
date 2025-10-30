@@ -23460,8 +23460,10 @@
         "id": "consumingDesire",
         "type": "wheel",
         "set": "fortuneFounders",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2025-10-21"
     },
     "allWeCovet": {
         "id": "allWeCovet",
