@@ -27350,8 +27350,8 @@
         "set": "cursedFortunes",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "everlastingFate": {
         "id": "everlastingFate",
@@ -27359,16 +27359,16 @@
         "set": "cursedFortunes",
         "effect": ["emissive","combatReactive"],
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "toTheNines": {
         "id": "toTheNines",
         "type": "hull",
         "set": "cursedFortunes",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "spiritsSheen": {
         "id": "spiritsSheen",
@@ -27376,16 +27376,16 @@
         "set": "cursedFortunes",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "sentinelsAboard": {
         "id": "sentinelsAboard",
         "type": "sailsPattern",
         "set": "cursedFortunes",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "goldentide": {
         "id": "goldentide",
@@ -27393,16 +27393,16 @@
         "set": "cursedFortunes",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "goldAndGrace": {
         "id": "goldAndGrace",
         "type": "sailsEmblem",
         "set": "cursedFortunes",
         "obtainable": "ubisoftStore",
-        "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     },
     "theWanderer": {
         "id": "theWanderer",
