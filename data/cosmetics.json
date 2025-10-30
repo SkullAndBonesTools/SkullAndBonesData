@@ -27538,5 +27538,21 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "jua": {
+        "id": "jua",
+        "type": "pet",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "raiseYourCup": {
+        "id": "raiseYourCup",
+        "type": "emote",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
