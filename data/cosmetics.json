@@ -27343,5 +27343,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "burningGrasp": {
+        "id": "burningGrasp",
+        "type": "ornaments",
+        "set": "cursedFortunes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "everlastingFate": {
+        "id": "everlastingFate",
+        "type": "figureHead",
+        "set": "cursedFortunes",
+        "effect": ["emissive","combatReactive"],
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "toTheNines": {
+        "id": "toTheNines",
+        "type": "hull",
+        "set": "cursedFortunes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "spiritsSheen": {
+        "id": "spiritsSheen",
+        "type": "sailsColor",
+        "set": "cursedFortunes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sentinelsAboard": {
+        "id": "sentinelsAboard",
+        "type": "sailsPattern",
+        "set": "cursedFortunes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "goldentide": {
+        "id": "goldentide",
+        "type": "nameplate",
+        "set": "cursedFortunes",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "goldAndGrace": {
+        "id": "goldAndGrace",
+        "type": "sailsEmblem",
+        "set": "cursedFortunes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

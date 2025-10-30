@@ -1422,5 +1422,9 @@
     "joyfulReaper": {
         "id": "joyfulReaper",
         "type": "ship"
+    },
+    "cursedFortunes": {
+        "id": "cursedFortunes",
+        "type": "ship"
     }
 }

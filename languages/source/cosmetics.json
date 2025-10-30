@@ -19073,6 +19073,48 @@
             "description": {
                 "general": "\"You had your chance.\""
             }
+        },
+        "burningGrasp": {
+            "name": "Burning Grasp",
+            "description": {
+                "general": "Their light is merciless"
+            }
+        },
+        "everlastingFate": {
+            "name": "Everlasting Fate",
+            "description": {
+                "general": "Condemned by greed"
+            }
+        },
+        "toTheNines": {
+            "name": "To The Nines",
+            "description": {
+                "general": "Can you cheat your own fate?"
+            }
+        },
+        "spiritsSheen": {
+            "name": "Spirit's Sheen",
+            "description": {
+                "general": "Breathtaking yet unnerving"
+            }
+        },
+        "sentinelsAboard": {
+            "name": "Sentinels Aboard",
+            "description": {
+                "general": "Eyes hide in the ship's walls"
+            }
+        },
+        "goldentide": {
+            "name": "Goldentide",
+            "description": {
+                "general": "Melted gold flows like blood and water"
+            }
+        },
+        "goldAndGrace": {
+            "name": "Gold and Grace",
+            "description": {
+                "general": "Every sinner pays the price"
+            }
         }
     }
 }
