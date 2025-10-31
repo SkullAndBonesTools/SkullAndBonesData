@@ -317,5 +317,10 @@
         "id": "soleilRoyal",
         "type": "eliteWarship",
         "faction": "compagnieRoyale"
+    },
+    "reapItAndWeep": {
+        "id": "reapItAndWeep",
+        "type": "eliteWarship",
+        "faction": "theUnhallowed"
     }
 }
