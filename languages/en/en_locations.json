@@ -242,6 +242,8 @@
         "factionWarRewardWonTerritory5": "Reward for winning five territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory8": "Reward for winning eight territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory11": "Reward for winning eleven territories in the Faction War with the aligned faction",
-        "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals"
+        "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals",
+        "unboundReaperReward": "Obtained when defeating the Unbound Reaper",
+        "dropDuringMythicLaPesteEncounter": "Possible drop from La Peste's reinforcements during the Mythic La Peste encounter"
     }
 }
