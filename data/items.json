@@ -302,9 +302,9 @@
             "raider",
             "piercing2"
         ],
-        "obtainable": ["darktideChest"],
+        "obtainable": ["darktideChest","hauntedReapersCache"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "carronade": {
         "id": "carronade",
