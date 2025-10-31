@@ -19475,6 +19475,48 @@
             "description": {
                 "general": "You have witnessed one injustice too many"
             }
+        },
+        "darkenedDoublet": {
+            "name": "Darkened Doublet",
+            "description": {
+                "general": "May it protect you against enemies in the midst"
+            }
+        },
+        "fancyFlurry": {
+            "name": "Fancy Flurry",
+            "description": {
+                "general": "Strike like a whirlwind"
+            }
+        },
+        "shadowBreeches": {
+            "name": "Shadow Breeches",
+            "description": {
+                "general": "You stalk your enemies in the shadow of the moon"
+            }
+        },
+        "scourgeCloak": {
+            "name": "Scourge Cloak",
+            "description": {
+                "general": "Few deal death the way you do"
+            }
+        },
+        "thornyTricorn": {
+            "name": "Thorny Tricorn",
+            "description": {
+                "general": "Adorned with the tiniest, sharpest barbs"
+            }
+        },
+        "snatchersWraps": {
+            "name": "Snatcher's Wraps",
+            "description": {
+                "general": "You steal it, you earned it"
+            }
+        },
+        "pouchOfSmiles": {
+            "name": "Pouch of Smiles",
+            "description": {
+                "general": "The rattle of teeth can be heard inside"
+            }
         }
     }
 }

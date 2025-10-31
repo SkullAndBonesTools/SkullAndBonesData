@@ -27960,5 +27960,68 @@
         "obtainable": "premiumPass",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "darkenedDoublet": {
+        "id": "darkenedDoublet",
+        "type": "torso",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "fancyFlurry": {
+        "id": "fancyFlurry",
+        "type": "footwear",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "shadowBreeches": {
+        "id": "shadowBreeches",
+        "type": "bottom",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "scourgeCloak": {
+        "id": "scourgeCloak",
+        "type": "neck",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "thornyTricorn": {
+        "id": "thornyTricorn",
+        "type": "headwear",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "snatchersWraps": {
+        "id": "snatchersWraps",
+        "type": "forearm",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "pouchOfSmiles": {
+        "id": "pouchOfSmiles",
+        "type": "waist",
+        "set": "",
+        "season": "gutsAndGlory",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
