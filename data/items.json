@@ -13218,10 +13218,11 @@
         "season": "intoTheDragonsWake",
         "type": "chest",
         "event": "requiemOfTheLost",
+        "worldEvent": "reaperOfTheLost",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-05-11",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-28"
     },
     "legacyCache1": {
         "id": "legacyCache1",
