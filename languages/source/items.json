@@ -2862,6 +2862,30 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "ascendedRequiemOfTheLostEventCache": {
+            "name": "Ascended Event Cache (Requiem of the Lost)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
+        },
+        "ascendedTheDrownedOneChest": {
+            "name": "Ascended The Drowned One Chest",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+            }
+        },
+        "exoticArmorAscendedCache": {
+            "name": "Exotic Armor Ascended Cache",
+            "description": {
+                "general": "A collection of Exotic Armor that will be ascended upon opening"
+            }
+        },
+        "hauntedReapersCache": {
+            "name": "Haunted Reaper's Cache",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
+            }
         }
     }
 }

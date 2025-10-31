@@ -1382,7 +1382,7 @@
         "perks": [
             "resolute"
         ],
-        "obtainable": ["legacyCache3","legacyCache1"],
+        "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2025-10-21"
     },
@@ -1469,7 +1469,8 @@
         "obtainable": [
             "smugglerPass",
             "williamBlackwoodRotatingStore",
-            "teulingsWeaponChest1"
+            "teulingsWeaponChest1",
+            "exoticArmorAscendedCache"
         ],
         "type": "armor",
         "value": 1,
@@ -1504,7 +1505,7 @@
         "rarity": "epic",
         "season": "release",
         "requiredRank": "kingpin1",
-        "obtainable": "worldEventMerchantConvoy",
+        "obtainable": ["worldEventMerchantConvoy","exoticArmorAscendedCache"],
         "blueprint": "theHelm",
         "type": "armor",
         "value": 1,
@@ -6234,7 +6235,7 @@
         "perks": [
             "bloodAndGold"
         ],
-        "obtainable": ["legacyCache3","legacyCache1"],
+        "obtainable": ["legacyCache3","legacyCache1","exoticArmorAscendedCache"],
         "dateAdded": "2024-05-26",
         "lastUpdated": "2025-10-21"
     },
@@ -10059,7 +10060,8 @@
                 "contractReward",
                 "shipwrightSainteAnne"
             ],
-            "mooncakeRegattaChest"
+            "mooncakeRegattaChest",
+            "hauntedReapersCache"
         ],
         "required": {},
         "perks": [
@@ -10287,7 +10289,7 @@
             "silver": 3800
         },
         "blueprint": "smugglerPassPinnacleStore",
-        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1","exoticArmorAscendedCache"],
         "perks": [
             "indomitable"
         ],
@@ -10565,7 +10567,8 @@
         "event": "requiemOfTheLost",
         "obtainable": [
             "hallowedGravestoneSaintAnne",
-            "reapersCache"
+            "reapersCache",
+            "ascendedRequiemOfTheLostEventCache"
         ],
         "blueprint": "hallowedGravestoneSaintAnne",
         "value": 1,
@@ -10590,7 +10593,7 @@
             "burning2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-10-28"
     },
     "freemansEmbrace": {
         "id": "freemansEmbrace",
@@ -12148,7 +12151,7 @@
         "type": "bombard",
         "rarity": "epic",
         "season": "ascentIntoChaos",
-        "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12164,10 +12167,13 @@
             "bloodiedStrongbox",
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
-            "ascendedDarktideLullabyEventCache"
+            "ascendedDarktideLullabyEventCache",
+            "hallowedGravestoneSaintAnne",
+            "ascendedRequiemOfTheLostEventCache"
         ],
         "required": {
-            "bloodiedDoubloon": 1000
+            "bloodiedDoubloon": 1000,
+            "reapersToll": 1100
         },
         "perks": [
             "afterShock",
@@ -12175,7 +12181,7 @@
             "electric1"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-28"
     },
     "tearingLongGun1": {
         "id": "tearingLongGun1",
@@ -12337,7 +12343,7 @@
             "theHelm",
             "corruptDmcOfficerOutpost"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12600,9 +12606,10 @@
             "bloodiedStrongbox",
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
-            "ascendedDarktideLullabyEventCache"
+            "ascendedDarktideLullabyEventCache",
+            "ascendedRequiemOfTheLostEventCache"
         ],
-        "event": ["theHonorless","moonshineLarceny","darktideLullaby"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12620,7 +12627,7 @@
             "combustion3"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-28"
     },
     "fireCulverin1": {
         "id": "fireCulverin1",
@@ -13605,9 +13612,9 @@
         "rarity": "epic",
         "season": "oathsOfWar",
         "type": "consumable",
-        "event": "moonshineLarceny",
+        "event": ["moonshineLarceny","requiemOfTheLost"],
         "worldEvent": "theManicMoonshinerFleet",
-        "obtainable": "defeatingMoonshiners",
+        "obtainable": ["defeatingMoonshiners","hallowedGravestoneSaintAnne"],
         "value": 1,
         "weight": 10,
         "buffDuration": 20,
@@ -14880,7 +14887,7 @@
         "gearScore": 25,
         "value": 1,
         "weight": 80,
-        "obtainable": "hallowedGravestoneSaintAnne",
+        "obtainable": ["hallowedGravestoneSaintAnne","hauntedReapersCache"],
         "perks": [
             "causticSpallStation"
         ],
@@ -15032,7 +15039,7 @@
         "rarity": "epic",
         "season": "gutsAndGlory",
         "event": "requiemOfTheLost",
-        "obtainable": "hallowedGravestoneSaintAnne",
+        "obtainable": ["hallowedGravestoneSaintAnne","ascendedRequiemOfTheLostEventCache","ascendedTheDrownedOneChest","hauntedReapersCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15048,7 +15055,7 @@
             "piercing2"
         ],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-10-28"
     },
     "frostwail": {
         "id": "frostwail",
@@ -15250,5 +15257,59 @@
         ],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "ascendedRequiemOfTheLostEventCache": {
+        "id": "ascendedRequiemOfTheLostEventCache",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "requiemOfTheLost",
+        "obtainable": "hallowedGravestoneSaintAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "reapersToll": 1200
+        },
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "ascendedTheDrownedOneChest": {
+        "id": "ascendedTheDrownedOneChest",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "requiemOfTheLost",
+        "obtainable": ["hallowedGravestoneSaintAnne","eventPass"],
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "reapersToll": 1300
+        },
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "exoticArmorAscendedCache": {
+        "id": "exoticArmorAscendedCache",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "obtainable": "hallowedGravestoneSaintAnne",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "hauntedReapersCache": {
+        "id": "hauntedReapersCache",
+        "rarity": "epic",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "requiemOfTheLost",
+        "obtainable": "unboundReaperReward",
+        "worldEvent": "reapItAndWeep",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }
