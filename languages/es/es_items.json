@@ -2862,6 +2862,66 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "ascendedRequiemOfTheLostEventCache": {
+            "name": "Ascended Event Cache (Requiem of the Lost)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
+        },
+        "ascendedTheDrownedOneChest": {
+            "name": "Ascended The Drowned One Chest",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+            }
+        },
+        "exoticArmorAscendedCache": {
+            "name": "Exotic Armor Ascended Cache",
+            "description": {
+                "general": "A collection of Exotic Armor that will be ascended upon opening"
+            }
+        },
+        "hauntedReapersCache": {
+            "name": "Haunted Reaper's Cache",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
+            }
+        },
+        "gildedProtectorChest": {
+            "name": "Gilded Protector Chest",
+            "description": {
+                "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+            }
+        },
+        "slayersChest": {
+            "name": "Slayer's Chest",
+            "description": {
+                "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+            }
+        },
+        "gildedSlayersChest": {
+            "name": "Gilded Slayer's Chest",
+            "description": {
+                "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+            }
+        },
+        "laPestesLockerMythic": {
+            "name": "La Peste's Locker (Mythic)",
+            "description": {
+                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+            }
+        },
+        "emeraldSkullTalisman": {
+            "name": "Emerald Skull Talisman",
+            "description": {
+                "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+            }
+        },
+        "eerieRing": {
+            "name": "Eerie Ring",
+            "description": {
+                "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
+            }
         }
     }
 }
