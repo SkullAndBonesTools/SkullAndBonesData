@@ -9769,7 +9769,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+        "blueprint": ["seaPeopleHunterMasterOutpostLanitra","smugglerPassPinnacleStore"],
         "bounty": "divineRetribution",
         "worldEvent": "divineRetribution",
         "obtainable": "elderShadowbeastChest",
@@ -9784,7 +9784,7 @@
         "projectileSpeed": 210,
         "required": {
             "lightningDragonClaw": 6,
-            "quicklime": 12,
+            "dryCastingSand": 12,
             "naphtha": 8,
             "wyrmVolatileNapalm": 1,
             "gannetDenseNiter": 1,
@@ -9795,7 +9795,7 @@
             "electric2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "phoenixTalons": {
         "id": "phoenixTalons",
@@ -10278,7 +10278,15 @@
             "electric": 0.09,
             "toxic": 0.09
         },
-        "required": {},
+        "required": {
+            "magnetiteIngot": 16,
+            "wormDrive": 10,
+            "precisionDrillingBit": 6,
+            "torsionSpring": 6,
+            "orcaIntricateApparatus": 2,
+            "silver": 3800
+        },
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "perks": [
             "indomitable"
@@ -10343,12 +10351,21 @@
         "weight": 80,
         "gearScore": 25,
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
-        "required": {},
+        "blueprint": "smugglerPassPinnacleStore",
+        "required": {
+            "lightningDragonScale": 6,
+            "monstrousTooth": 6,
+            "dryCastingSand": 4,
+            "planetaryGearset": 4,
+            "sinewString": 2,
+            "eelSturdyRopes": 2,
+            "silver": 4680
+        },
         "perks": [
             "chargeStores"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "battleJunkUpgrade1": {
         "id": "battleJunkUpgrade1",
@@ -10583,7 +10600,16 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "greenheartPlank": 12,
+            "magnetiteIngot": 12,
+            "phoenixPinion": 4,
+            "purifiedSaltpeter": 4,
+            "jadePhoenixStatue": 4,
+            "gannetDenseNiter": 2,
+            "silver": 5760
+        },
+        "blueprint": "smugglerPassPinnacleStore",
         "bounty": "theGloriousPhoenix",
         "worldEvent": "theGloriousPhoenix",
         "obtainable": [
@@ -10594,7 +10620,7 @@
             "freemansEmbrace"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "cannonballCarvingStation": {
         "id": "cannonballCarvingStation",
@@ -10604,13 +10630,22 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "greenheartPlank": 8,
+            "phoenixBeak": 6,
+            "azureDragonHead": 6,
+            "jadePhoenixStatue": 4,
+            "yellowDragonBanner": 4,
+            "wyrmVolatileNapalm": 1,
+            "silver": 5760
+        },
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": "williamBlackwoodRotatingStore",
         "perks": [
             "cannonballCarvingStation"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "bloodyRed": {
         "id": "bloodyRed",
@@ -10620,7 +10655,16 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "phoenixBeak": 8,
+            "rubber": 4,
+            "jadePhoenixStatue": 4,
+            "precisionDrillingBit": 4,
+            "eelSturdyRopes": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 5760
+        },
+        "blueprint": "smugglerPassPinnacleStore",
         "bounty": "theGloriousPhoenix",
         "worldEvent": "theGloriousPhoenix",
         "obtainable": [
@@ -10632,7 +10676,7 @@
             "bloodyRed"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "plaguebringersWard": {
         "id": "plaguebringersWard",
