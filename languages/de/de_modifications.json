@@ -324,8 +324,8 @@
             "name": "Amplified Toxic",
             "description": "Increases existing Toxic Damage by %s-%s%"
         },
-        "antidotes": {
-            "name": "Antidotes",
+        "antidote": {
+            "name": "Antidote",
             "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
         },
         "armored": {

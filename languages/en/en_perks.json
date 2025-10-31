@@ -823,7 +823,7 @@
         "toxic": {
             "name": "Toxic",
             "description": {
-                "3": "Adds 30% of damage as Toxic Damage"
+                "3": "Adds 20% of damage as Toxic Damage"
             }
         },
         "homing": {
