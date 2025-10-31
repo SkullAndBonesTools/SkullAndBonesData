@@ -1442,5 +1442,17 @@
     "goldDrunk": {
         "id": "goldDrunk",
         "type": "player"
+    },
+    "bardsSoul": {
+        "id": "bardsSoul",
+        "type": "player"
+    },
+    "rumAndGold": {
+        "id": "rumAndGold",
+        "type": "player"
+    },
+    "ashesOfMemories": {
+        "id": "ashesOfMemories",
+        "type": "player"
     }
 }

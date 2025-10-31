@@ -27663,5 +27663,243 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "slingingVerses": {
+        "id": "slingingVerses",
+        "type": "waist",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "chantersWraps": {
+        "id": "chantersWraps",
+        "type": "forearm",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "legendLocks": {
+        "id": "legendLocks",
+        "type": "faceAccessory",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "rhymesAndDimes": {
+        "id": "rhymesAndDimes",
+        "type": "hand",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "piratesPipes": {
+        "id": "piratesPipes",
+        "type": "neck",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "rollingSwagger": {
+        "id": "rollingSwagger",
+        "type": "bottom",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "tapAway": {
+        "id": "tapAway",
+        "type": "footwear",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "ochreNotes": {
+        "id": "ochreNotes",
+        "type": "torso",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "verseOfCourage": {
+        "id": "verseOfCourage",
+        "type": "bodyCosmetics",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "damballahStrandsBard": {
+        "id": "damballahStrandsBard",
+        "type": "hair",
+        "set": "bardsSoul",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "ostentatiousEye": {
+        "id": "ostentatiousEye",
+        "type": "waist",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "scoundrelsSerenade": {
+        "id": "scoundrelsSerenade",
+        "type": "faceAccessory",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "jewelJamboree": {
+        "id": "jewelJamboree",
+        "type": "hand",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "frenziedCrown": {
+        "id": "frenziedCrown",
+        "type": "headwear",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "toTheHelm": {
+        "id": "toTheHelm",
+        "type": "neck",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "lustyScurry": {
+        "id": "lustyScurry",
+        "type": "bottom",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "wavebiters": {
+        "id": "wavebiters",
+        "type": "footwear",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "wantonEmbrace": {
+        "id": "wantonEmbrace",
+        "type": "torso",
+        "set": "rumAndGold",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "silvermist": {
+        "id": "silvermist",
+        "type": "waist",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "saltAndSoot": {
+        "id": "saltAndSoot",
+        "type": "headwear",
+        "effect": "emissive",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "pyresGift": {
+        "id": "pyresGift",
+        "type": "neck",
+        "effect": "emissive",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "coolEmbers": {
+        "id": "coolEmbers",
+        "type": "bottom",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "firewalker": {
+        "id": "firewalker",
+        "type": "footwear",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "smokyMantle": {
+        "id": "smokyMantle",
+        "type": "torso",
+        "effect": "emissive",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "writhingFlames": {
+        "id": "writhingFlames",
+        "type": "bodyCosmetics",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sightOfGods": {
+        "id": "sightOfGods",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "ashesOfMemories",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

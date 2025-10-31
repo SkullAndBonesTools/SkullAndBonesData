@@ -19301,6 +19301,162 @@
             "description": {
                 "general": "\"My desire becomes me.\""
             }
+        },
+        "slingingVerses": {
+            "name": "Slinging Verses",
+            "description": {
+                "general": "You spread song, whether others want it or not"
+            }
+        },
+        "chantersWraps": {
+            "name": "Chanter's Wraps",
+            "description": {
+                "general": "Tuck song-notes in the folds"
+            }
+        },
+        "legendLocks": {
+            "name": "Legend Locks",
+            "description": {
+                "general": "\"This would make a fine ditty.\""
+            }
+        },
+        "rhymesAndDimes": {
+            "name": "Rhymes and Dimes",
+            "description": {
+                "general": "Tokens and praise are appreciated"
+            }
+        },
+        "piratesPipes": {
+            "name": "Pirate's Pipes",
+            "description": {
+                "general": "Who cares what your voice sounds like?"
+            }
+        },
+        "rollingSwagger": {
+            "name": "Rolling Swagger",
+            "description": {
+                "general": "There's nothing like a captive audience"
+            }
+        },
+        "tapAway": {
+            "name": "Tap Away",
+            "description": {
+                "general": "You live for the beat of battle"
+            }
+        },
+        "ochreNotes": {
+            "name": "Ochre Notes",
+            "description": {
+                "general": "The oceans sing through you"
+            }
+        },
+        "verseOfCourage": {
+            "name": "Verse of Courage",
+            "description": {
+                "general": "Song and melody drown out doubt and fear"
+            }
+        },
+        "damballahStrandsBard": {
+            "name": "Damballah Strands",
+            "description": {
+                "general": "The serpents grant you peace and purity"
+            }
+        },
+        "ostentatiousEye": {
+            "name": "Ostentatious Eye",
+            "description": {
+                "general": "\"Caught your attention, didn't it?\""
+            }
+        },
+        "scoundrelsSerenade": {
+            "name": "Scoundrel's Serenade",
+            "description": {
+                "general": "\"Silver is my favorite mistress.\""
+            }
+        },
+        "jewelJamboree": {
+            "name": "Jewel Jamboree",
+            "description": {
+                "general": "\"Don't you touch my share.\""
+            }
+        },
+        "frenziedCrown": {
+            "name": "Frenzied Crown",
+            "description": {
+                "general": "You just want it all, don't you?"
+            }
+        },
+        "toTheHelm": {
+            "name": "To The Helm",
+            "description": {
+                "general": "\"One day, I'll be even richer than them.\""
+            }
+        },
+        "lustyScurry": {
+            "name": "Lusty Scurry",
+            "description": {
+                "general": "\"Quick! Before others see those spoils.\""
+            }
+        },
+        "wavebiters": {
+            "name": "Wavebiters",
+            "description": {
+                "general": "\"The sea brings me my fortune.\""
+            }
+        },
+        "wantonEmbrace": {
+            "name": "Wanton Embrace",
+            "description": {
+                "general": "\"No one commands me.\""
+            }
+        },
+        "silvermist": {
+            "name": "Silvermist",
+            "description": {
+                "general": "Icy rage burns deep within"
+            }
+        },
+        "saltAndSoot": {
+            "name": "Salt and Soot",
+            "description": {
+                "general": "Even flames would not crack the leather"
+            }
+        },
+        "pyresGift": {
+            "name": "Pyre's Gift",
+            "description": {
+                "general": "Endures the harshest conditions"
+            }
+        },
+        "coolEmbers": {
+            "name": "Cool Embers",
+            "description": {
+                "general": "Soft as the quit that follows death"
+            }
+        },
+        "firewalker": {
+            "name": "Firewalker",
+            "description": {
+                "general": "Every battle leaves an imprint"
+            }
+        },
+        "smokyMantle": {
+            "name": "Smoky Mantle",
+            "description": {
+                "general": "The dappled patterns dance before your eyes"
+            }
+        },
+        "writhingFlames": {
+            "name": "Writhing Flames",
+            "description": {
+                "general": "Bathed in rivers of fire, you inflict terror upon the seas"
+            }
+        },
+        "sightOfGods": {
+            "name": "Sight of Gods",
+            "description": {
+                "general": "You have witnessed one injustice too many"
+            }
         }
     }
 }
