@@ -12750,6 +12750,12 @@
                 "general": "She unleashes cold fury"
             }
         },
+        "pierceTheVeil": {
+            "name": "Pierce the Veil",
+            "description": {
+                "general": "At times, the ship seems to serve the will of another"
+            }
+        },
         "wintertide": {
             "name": "Wintertide",
             "description": {
@@ -18820,6 +18826,18 @@
             "name": "Silent as the Grave",
             "description": {
                 "general": "Something sinister waits in the shadows"
+            }
+        },
+        "burningBloodlust": {
+            "name": "Burning Bloodlust",
+            "description": {
+                "general": "Set the Indian Ocean aflame"
+            }
+        },
+        "theSunkenBeyond": {
+            "name": "The Sunken Beyond",
+            "description": {
+                "general": "A reaper emerges from the unknowable depths"
             }
         },
         "glowInTheNight": {

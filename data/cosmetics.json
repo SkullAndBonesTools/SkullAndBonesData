@@ -18003,7 +18003,7 @@
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
         "effect": "emissive",
-        "upgrades": ["watchfulIceMaiden","vengefulIceMaiden"],
+        "upgrades": ["watchfulIceMaiden","vengefulIceMaiden","pierceTheVeil"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
         "lastUpdated": "2024-12-03"
@@ -18016,7 +18016,7 @@
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
         "effect": "emissive",
-        "upgrades": ["vengefulIceMaiden"],
+        "upgrades": ["vengefulIceMaiden","pierceTheVeil"],
         "basic": "stonyIceMaiden",
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "required": {
@@ -18036,7 +18036,7 @@
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
         "effect": ["emissive","combatReactive"],
-        "upgrades": ["watchfulIceMaiden"],
+        "upgrades": ["pierceTheVeil"],
         "basic": "stonyIceMaiden",
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "required": {
@@ -18048,6 +18048,26 @@
         },
         "dateAdded": "2024-12-03",
         "lastUpdated": "2024-12-03"
+    },
+    "pierceTheVeil": {
+        "id": "pierceTheVeil",
+        "tier": 3,
+        "type": "figureHead",
+        "set": "wintersBite",
+        "season": "gutsAndGlory",
+        "event": "azureSolstice",
+        "effect": ["emissive","combatReactive"],
+        "basic": "stonyIceMaiden",
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "required": {
+            "azureDragonHead": 5,
+            "yellowDragonBanner": 3,
+            "precisionDrillingBit": 3,
+            "orcaIntricateApparatus": 2,
+            "artisansRefinementPack": 7
+        },
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     },
     "icyVengeance": {
         "id": "icyVengeance",
@@ -26941,7 +26961,46 @@
         "type": "figureHead",
         "set": "flamesOfWar",
         "season": "gutsAndGlory",
+        "upgrades": ["burningBloodlust","theSunkenBeyond"],
         "obtainable": "premiumPass",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "burningBloodlust": {
+        "id": "burningBloodlust",
+        "type": "figureHead",
+        "tier": 1,
+        "set": "flamesOfWar",
+        "basis": "silentAsTheGrave",
+        "season": "gutsAndGlory",
+        "effect": "emissive",
+        "upgrades": ["theSunkenBeyond"],
+        "required": {
+            "greenheartPlank": 7,
+            "phoenixPinion": 3,
+            "azureDragonHead": 3,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theSunkenBeyond": {
+        "id": "theSunkenBeyond",
+        "type": "figureHead",
+        "tier": 2,
+        "set": "flamesOfWar",
+        "basis": "silentAsTheGrave",
+        "season": "gutsAndGlory",
+        "effect": ["emissive","combatReactive"],
+        "required": {
+            "phoenixBeak": 5,
+            "azureDragonHead": 5,
+            "jadePhoenixStatue": 2,
+            "yellowDragonBanner": 2,
+            "artisansRefinementPack": 5
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
