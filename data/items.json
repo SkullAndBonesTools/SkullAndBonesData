@@ -15370,5 +15370,20 @@
         "weight": 100,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "emeraldSkullTalisman": {
+        "id": "emeraldSkullTalisman",
+        "season": "gutsAndGlory",
+        "type": "quest",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "eerieRing": {
+        "id": "eerieRing",
+        "season": "ragingTides",
+        "worldEvent": "anguishFromTheAbyss",
+        "type": "quest",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

@@ -2910,6 +2910,18 @@
             "description": {
                 "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
             }
+        },
+        "emeraldSkullTalisman": {
+            "name": "Emerald Skull Talisman",
+            "description": {
+                "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+            }
+        },
+        "eerieRing": {
+            "name": "Eerie Ring",
+            "description": {
+                "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
+            }
         }
     }
 }
