@@ -322,5 +322,10 @@
         "id": "reapItAndWeep",
         "type": "eliteWarship",
         "faction": "theUnhallowed"
+    },
+    "reaperOfTheLost": {
+        "id": "reaperOfTheLost",
+        "type": "eliteWarship",
+        "faction": "theUnhallowed"
     }
 }
