@@ -1144,8 +1144,8 @@
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
-    "antidotes": {
-        "id": "antidotes",
+    "antidote": {
+        "id": "antidote",
         "variants": [
             {
                 "itemType": ["springloader","longGun","culverin","mortar","bombard"],
