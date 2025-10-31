@@ -28023,5 +28023,12 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "clingingCurse": {
+        "id": "clingingCurse",
+        "type": "aura",
+        "obtainable": "laPestesLockerMythic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

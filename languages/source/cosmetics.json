@@ -19517,6 +19517,12 @@
             "description": {
                 "general": "The rattle of teeth can be heard inside"
             }
+        },
+        "clingingCurse": {
+            "name": "Clinging Curse",
+            "description": {
+                "general": "\"Can't be wise to get too close...\""
+            }
         }
     }
 }

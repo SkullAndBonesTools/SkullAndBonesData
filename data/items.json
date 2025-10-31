@@ -315,7 +315,8 @@
         "obtainable": [
             "smugglerPass",
             "williamBlackwoodRotatingStore",
-            "teulingsWeaponChest1"
+            "teulingsWeaponChest1",
+            "laPestesLockerMythic"
         ],
         "value": 1,
         "weight": 500,
@@ -339,7 +340,7 @@
             "flooding1"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-10-21"
     },
     "demicannon1": {
         "id": "demicannon1",
@@ -1837,7 +1838,7 @@
         "rarity": "epic",
         "season": "ragingTides",
         "requiredRank": "kingpin1",
-        "obtainable": ["laPestesStrongbox","legacyCache1"],
+        "obtainable": ["laPestesStrongbox","legacyCache1","laPestesLockerMythic"],
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
@@ -10706,14 +10707,15 @@
         },
         "obtainable": [
             "williamBlackwoodRotatingStore",
-            "laPestesLocker"
+            "laPestesLocker",
+            "laPestesLockerMythic"
         ],
         "worldEvent": "tidesOfTerror",
         "perks": [
             "plaguebringersWard"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-09-16"
+        "lastUpdated": "2025-10-21"
     },
     "quickIgnitingPowder": {
         "id": "quickIgnitingPowder",
@@ -15357,6 +15359,16 @@
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-10-21"
+    },
+    "laPestesLockerMythic": {
+        "id": "laPestesLockerMythic",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     }
 }

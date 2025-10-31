@@ -2904,6 +2904,12 @@
             "description": {
                 "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
             }
+        },
+        "laPestesLockerMythic": {
+            "name": "La Peste's Locker (Mythic)",
+            "description": {
+                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+            }
         }
     }
 }
