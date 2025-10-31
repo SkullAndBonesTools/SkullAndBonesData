@@ -1434,5 +1434,13 @@
     "saintOfWrath": {
         "id": "saintOfWrath",
         "type": "ship"
+    },
+    "nightWight": {
+        "id": "nightWight",
+        "type": "player"
+    },
+    "goldDrunk": {
+        "id": "goldDrunk",
+        "type": "player"
     }
 }

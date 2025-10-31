@@ -27554,5 +27554,114 @@
         "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "walkingRemains": {
+        "id": "walkingRemains",
+        "type": "characterSuit",
+        "set": "nightWight",
+        "pieces": ["faceAccessory","neck","torso","waist","forearm","hand","bottom"],
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "aCurseDescends": {
+        "id": "aCurseDescends",
+        "type": "headwear",
+        "set": "nightWight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "doomSpell": {
+        "id": "doomSpell",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "nightWight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "thePullOfMadness": {
+        "id": "thePullOfMadness",
+        "type": "footwear",
+        "set": "nightWight",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "brimOfWant": {
+        "id": "brimOfWant",
+        "type": "headwear",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "aurumGaze": {
+        "id": "aurumGaze",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "coinlordsCloak": {
+        "id": "coinlordsCloak",
+        "type": "torso",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "flowingFortunes": {
+        "id": "flowingFortunes",
+        "type": "neck",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "hoardersGrasp": {
+        "id": "hoardersGrasp",
+        "type": "forearm",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "temptationsToll": {
+        "id": "temptationsToll",
+        "type": "waist",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "sinsAndSpoils": {
+        "id": "sinsAndSpoils",
+        "type": "bottom",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "goldtrailMarchers": {
+        "id": "goldtrailMarchers",
+        "type": "footwear",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
+    },
+    "fortunesAflame": {
+        "id": "fortunesAflame",
+        "type": "bodyCosmetics",
+        "set": "goldDrunk",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }

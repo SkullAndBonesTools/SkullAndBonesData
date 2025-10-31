@@ -19223,6 +19223,84 @@
             "description": {
                 "general": "Time for a seadog's toast"
             }
+        },
+        "walkingRemains": {
+            "name": "Walking Remains",
+            "description": {
+                "general": "No one knows what tethers you to this world"
+            }
+        },
+        "aCurseDescends": {
+            "name": "A Curse Descends",
+            "description": {
+                "general": "\"Let this fate be on both our heads!\""
+            }
+        },
+        "doomSpell": {
+            "name": "Doom Spell",
+            "description": {
+                "general": "It may take centuries but a downfall is inevitable"
+            }
+        },
+        "thePullOfMadness": {
+            "name": "The Pull of Madness",
+            "description": {
+                "general": "Some forces cannot be defied"
+            }
+        },
+        "brimOfWant": {
+            "name": "Brim of Want",
+            "description": {
+                "general": "The most decorated head ever wanted by the crown"
+            }
+        },
+        "aurumGaze": {
+            "name": "Aurum Gaze",
+            "description": {
+                "general": "\"Where there be treasure, I will find it.\""
+            }
+        },
+        "coinlordsCloak": {
+            "name": "Coinlord's Cloak",
+            "description": {
+                "general": "\"I get what I deserve, aye.\""
+            }
+        },
+        "flowingFortunes": {
+            "name": "Flowing Fortunes",
+            "description": {
+                "general": "\"I can always get more.\""
+            }
+        },
+        "hoardersGrasp": {
+            "name": "Hoarder's Grasp",
+            "description": {
+                "general": "Never let go of what you have earned"
+            }
+        },
+        "temptationsToll": {
+            "name": "Temptation's Toll",
+            "description": {
+                "general": "Why deny yourself what you desire?"
+            }
+        },
+        "sinsAndSpoils": {
+            "name": "Sins and Spoils",
+            "description": {
+                "general": "The more you gain, the more you crave"
+            }
+        },
+        "goldtrailMarchers": {
+            "name": "Goldtrail Marchers",
+            "description": {
+                "general": "Others are ill with envy"
+            }
+        },
+        "fortunesAflame": {
+            "name": "Fortunes Aflame",
+            "description": {
+                "general": "\"My desire becomes me.\""
+            }
         }
     }
 }
