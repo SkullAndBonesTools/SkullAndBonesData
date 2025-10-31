@@ -1432,7 +1432,8 @@
         "obtainable": [
             "theHelm",
             "laPestesStrongbox",
-            "legacyCache1"
+            "legacyCache1",
+            "laPestesLockerMythic"
         ],
         "worldEvent": "thePlagueKing",
         "type": "armor",
@@ -2256,7 +2257,7 @@
         "rarity": "epic",
         "season": "release",
         "requiredRank": "kingpin1",
-        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1"],
+        "obtainable": ["theHelmSeasonal","legacyCache3","legacyCache1","laPestesLockerMythic"],
         "blueprint": "theHelmSeasonOathsOfWar",
         "value": 1,
         "weight": 750,
@@ -2281,7 +2282,7 @@
             "piercing2"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2025-10-21"
     },
     "seaFire1": {
         "id": "seaFire1",
@@ -6074,7 +6075,7 @@
         "rarity": "rare",
         "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
-        "obtainable": "laPestesStrongbox",
+        "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic"],
         "blueprint": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 500,
@@ -6098,7 +6099,7 @@
             "toxic3"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-09-06"
+        "lastUpdated": "2025-10-21"
     },
     "theWarhammer": {
         "id": "theWarhammer",
@@ -15021,7 +15022,7 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "gutsAndGlory",
-        "obtainable": "williamBlackwoodSeasonalItemGutsAndGlory",
+        "obtainable": ["williamBlackwoodSeasonalItemGutsAndGlory","laPestesLockerMythic"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
