@@ -1391,6 +1391,7 @@
         "rarity": "epic",
         "season": "release",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+        "obtainable": "gildedProtectorChest",
         "requiredRank": "kingpin1",
         "type": "armor",
         "value": 1,
@@ -2221,6 +2222,7 @@
         "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+        "obtainable": ["slayersChest","gildedSlayersChest"],
         "value": 1,
         "weight": 750,
         "gearScore": 83,
@@ -2245,7 +2247,7 @@
             "tearing2"
         ],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "twinWinchBallista": {
         "id": "twinWinchBallista",
@@ -6609,6 +6611,7 @@
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
+        "obtainable": "gildedProtectorChest",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -9697,7 +9700,7 @@
         "id": "celestialDance",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": ["legacyCache3","legacyCache1"],
+        "obtainable": ["legacyCache3","legacyCache1","gildedProtectorChest"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -9773,7 +9776,7 @@
         "blueprint": ["seaPeopleHunterMasterOutpostLanitra","smugglerPassPinnacleStore"],
         "bounty": "divineRetribution",
         "worldEvent": "divineRetribution",
-        "obtainable": "elderShadowbeastChest",
+        "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9998,7 +10001,9 @@
                 "contractReward",
                 "personRahmaTelokPenjarah"
             ],
-            "dragonsClawMysteriousChest"
+            "dragonsClawMysteriousChest",
+            "slayersChest",
+            "gildedSlayersChest"
         ],
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "contract": "scorchedHorizon",
@@ -10025,7 +10030,7 @@
             "flooding2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-10-21"
     },
     "lestariStew": {
         "id": "lestariStew",
@@ -11088,7 +11093,7 @@
         "season": "shadowsOfTheDeep",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "worldEvent": "reaversVengeance",
-        "obtainable": ["risenZamaharibuChest","risenMegaLestariChest"],
+        "obtainable": ["risenZamaharibuChest","risenMegaLestariChest","gildedProtectorChest"],
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -15311,5 +15316,47 @@
         "weight": 100,
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "gildedProtectorChest": {
+        "id": "gildedProtectorChest",
+        "rarity": "common",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+        "required": {
+            "primevalFang": 5
+        },
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "slayersChest": {
+        "id": "slayersChest",
+        "rarity": "common",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+        "required": {
+            "primevalFang": 3
+        },
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-10-21"
+    },
+    "gildedSlayersChest": {
+        "id": "gildedSlayersChest",
+        "rarity": "common",
+        "season": "oathsOfWar",
+        "type": "chest",
+        "obtainable": "seaPeopleHunterMasterOutpostLanitra",
+        "required": {
+            "primevalFang": 5
+        },
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-07-15",
+        "lastUpdated": "2025-10-21"
     }
 }

@@ -2886,6 +2886,24 @@
             "description": {
                 "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
             }
+        },
+        "gildedProtectorChest": {
+            "name": "Gilded Protector Chest",
+            "description": {
+                "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+            }
+        },
+        "slayersChest": {
+            "name": "Slayer's Chest",
+            "description": {
+                "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+            }
+        },
+        "gildedSlayersChest": {
+            "name": "Gilded Slayer's Chest",
+            "description": {
+                "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+            }
         }
     }
 }
