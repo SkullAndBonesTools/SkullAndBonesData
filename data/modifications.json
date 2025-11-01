@@ -1193,7 +1193,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "burning",
@@ -1209,7 +1209,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "flooding",
@@ -1225,7 +1225,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "piercing",
@@ -1241,7 +1241,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "explosive",
@@ -1257,7 +1257,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "electric",
@@ -1273,7 +1273,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "toxic",
@@ -1289,10 +1289,26 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [0.03, 0.07]
+                "range": [0.03, 0.12]
             }
         ],
         "damageType": "tearing",
+        "effectType": "increaseElementalResistance",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "basic",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "resistAll": {
+        "id": "resistAll",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.02, 0.06]
+            }
+        ],
+        "damageType": "overall",
         "effectType": "increaseElementalResistance",
         "repairAccess": "none",
         "dropOnly": false,
