@@ -1454,5 +1454,21 @@
     "ashesOfMemories": {
         "id": "ashesOfMemories",
         "type": "player"
+    },
+    "bladeBallet": {
+        "id": "bladeBallet",
+        "type": "ship"
+    },
+    "majesticMadness": {
+        "id": "majesticMadness",
+        "type": "ship"
+    },
+    "rawFury": {
+        "id": "rawFury",
+        "type": "ship"
+    },
+    "wolfheartsSeas": {
+        "id": "wolfheartsSeas",
+        "type": "ship"
     }
 }
