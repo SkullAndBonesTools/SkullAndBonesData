@@ -19523,6 +19523,276 @@
             "description": {
                 "general": "\"Can't be wise to get too close...\""
             }
+        },
+        "sirensCrest": {
+            "name": "Siren's Crest",
+            "description": {
+                "general": "An alluring tilt tempts foes"
+            }
+        },
+        "drapedInSplendor": {
+            "name": "Draped in Splendor",
+            "description": {
+                "general": "Befitting one who dances with death"
+            }
+        },
+        "heartstopper": {
+            "name": "Heartstopper",
+            "description": {
+                "general": "Kill or be killed"
+            }
+        },
+        "muddiedWaters": {
+            "name": "Muddied Waters",
+            "description": {
+                "general": "All that matters if that they last a lifetime"
+            }
+        },
+        "scarletSiren": {
+            "name": "Scarlet Siren",
+            "description": {
+                "general": "Ready to prove your prowess"
+            }
+        },
+        "stormsShine": {
+            "name": "Storm's Shine",
+            "description": {
+                "general": "Tough battles yield the loveliest spoils"
+            }
+        },
+        "gritwornBreeches": {
+            "name": "Gritworn Breeches",
+            "description": {
+                "general": "\"Retreat? Never.\""
+            }
+        },
+        "renewedBoots": {
+            "name": "Renewed Boots",
+            "description": {
+                "general": "Little touches were added to make it your own"
+            }
+        },
+        "aSoulFreed": {
+            "name": "A Soul Freed",
+            "description": {
+                "general": "That which is truly valuable must be fought for"
+            }
+        },
+        "unchainedSaga": {
+            "name": "Unchained Saga",
+            "description": {
+                "general": "By your hand, tyrants shall fall"
+            }
+        },
+        "righteousRage": {
+            "name": "Righteous Rage",
+            "description": {
+                "general": "Even the oceans cannot quench your fury"
+            }
+        },
+        "wrathSoars": {
+            "name": "Wrath Soars",
+            "description": {
+                "general": "Seize victory, no matter the cost"
+            }
+        },
+        "theSeaKnows": {
+            "name": "The Sea Knows",
+            "description": {
+                "general": "The ship is your sword"
+            }
+        },
+        "scarlet": {
+            "name": "Scarlet",
+            "description": {
+                "general": "Guided by fury, yet known for finesse"
+            }
+        },
+        "defiantHeart": {
+            "name": "Defiant Heart",
+            "description": {
+                "general": "Rather than bend and break, you rose above"
+            }
+        },
+        "maneOfTheRavenous": {
+            "name": "Mane of the Ravenous",
+            "description": {
+                "general": "\"I am compelled to feed.\""
+            }
+        },
+        "moonshadeMantle": {
+            "name": "Moonshade Mantle",
+            "description": {
+                "general": "Night is a familiar companion"
+            }
+        },
+        "wolfsHeadChains": {
+            "name": "Wolf's Head Chains",
+            "description": {
+                "general": "The hunt never ends"
+            }
+        },
+        "grayLightGuards": {
+            "name": "Gray Light Guards",
+            "description": {
+                "general": "When dusk descends, you make ready"
+            }
+        },
+        "goldpeltCords": {
+            "name": "Goldpelt Cords",
+            "description": {
+                "general": "Find your honor"
+            }
+        },
+        "clawsOut": {
+            "name": "Claws Out",
+            "description": {
+                "general": "Teeth in the night, growls in the shadows"
+            }
+        },
+        "lonestrideLeathers": {
+            "name": "Lonestride Leathers",
+            "description": {
+                "general": "You wander in search of a better fate"
+            }
+        },
+        "isolatedSteps": {
+            "name": "Isolated Steps",
+            "description": {
+                "general": "Your path is your own"
+            }
+        },
+        "theWolfheart": {
+            "name": "The Wolfheart",
+            "description": {
+                "general": "Claim honor, deliver justice"
+            }
+        },
+        "snakeWisps": {
+            "name": "Snake Wisps",
+            "description": {
+                "general": "As deadly you are as quick"
+            }
+        },
+        "denShadows": {
+            "name": "Den Shadows",
+            "description": {
+                "general": "This is your court, your throne"
+            }
+        },
+        "unwaveringLight": {
+            "name": "Unwavering Light",
+            "description": {
+                "general": "Strength through struggle"
+            }
+        },
+        "huntAndSurvive": {
+            "name": "Hunt and Survive",
+            "description": {
+                "general": "Wander the seas in search of your fate"
+            }
+        },
+        "wolfRonin": {
+            "name": "Wolf Ronin",
+            "description": {
+                "general": "Follow no code but your own"
+            }
+        },
+        "bladesOfTheWolf": {
+            "name": "Blades of the Wolf",
+            "description": {
+                "general": "Watch for their bite"
+            }
+        },
+        "roninsHowl": {
+            "name": "Ronin's Howl",
+            "description": {
+                "general": "Spew your rage. Make them fall."
+            }
+        },
+        "eatThis": {
+            "name": "Eat This!",
+            "description": {
+                "general": "This grand predator lives on after its demise"
+            }
+        },
+        "hookedOnMadness": {
+            "name": "Hooked on Madness",
+            "description": {
+                "general": "Shock and confusion are all part of the plan"
+            }
+        },
+        "channelsWaters": {
+            "name": "Channel's Waters",
+            "description": {
+                "general": "Where you defeated the beast that now fronts your ship"
+            }
+        },
+        "jawDropper": {
+            "name": "Jaw Dropper",
+            "description": {
+                "general": "Fangs and firepower in one"
+            }
+        },
+        "blackBlast": {
+            "name": "Black Blast",
+            "description": {
+                "general": "You can never have too much firepower"
+            }
+        },
+        "sharkbane": {
+            "name": "Sharkbane",
+            "description": {
+                "general": "From terror of the seas to a bizarre showpiece"
+            }
+        },
+        "predatorsReins": {
+            "name": "Predator's Reins",
+            "description": {
+                "general": "Your ship is the beast, and you its master"
+            }
+        },
+        "lilBlackstripe": {
+            "name": "Lil' Blackstripe",
+            "description": {
+                "general": "A furry bundle of trouble"
+            }
+        },
+        "rockTheRoar": {
+            "name": "Rock the Roar",
+            "description": {
+                "general": "Won't stand for anyone challenging the captain"
+            }
+        },
+        "roguesGreeting": {
+            "name": "Rogue's Greeting",
+            "description": {
+                "general": "\"Let us trade names, and then cannonfire.\""
+            }
+        },
+        "swishAndSwirl": {
+            "name": "Swish and Swirl",
+            "description": {
+                "general": "Let your fury unfurl"
+            }
+        },
+        "theBoldestHeart": {
+            "name": "The Boldest Heart",
+            "description": {
+                "general": "\"Fly our colors proudly. Let them come.\""
+            }
+        },
+        "venturedAndGained": {
+            "name": "Ventured and Gained",
+            "description": {
+                "general": "Always looking for the next great adventure"
+            }
+        },
+        "daggerhand": {
+            "name": "Daggerhand",
+            "description": {
+                "general": "\"This fight shall be your last.\""
+            }
         }
     }
 }
