@@ -28030,5 +28030,381 @@
         "obtainable": "laPestesLockerMythic",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "sirensCrest": {
+        "id": "sirensCrest",
+        "type": "headwear",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "drapedInSplendor": {
+        "id": "drapedInSplendor",
+        "type": "torso",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "heartstopper": {
+        "id": "heartstopper",
+        "type": "neck",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "muddiedWaters": {
+        "id": "muddiedWaters",
+        "type": "forearm",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "scarletSiren": {
+        "id": "scarletSiren",
+        "type": "waist",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "stormsShine": {
+        "id": "stormsShine",
+        "type": "hand",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "gritwornBreeches": {
+        "id": "gritwornBreeches",
+        "type": "bottom",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "renewedBoots": {
+        "id": "renewedBoots",
+        "type": "footwear",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "aSoulFreed": {
+        "id": "aSoulFreed",
+        "type": "sailsEmblem",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "unchainedSaga": {
+        "id": "unchainedSaga",
+        "type": "sailsPattern",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "righteousRage": {
+        "id": "righteousRage",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "wrathSoars": {
+        "id": "wrathSoars",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theSeaKnows": {
+        "id": "theSeaKnows",
+        "type": "hull",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "scarlet": {
+        "id": "scarlet",
+        "type": "nameplate",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "defiantHeart": {
+        "id": "defiantHeart",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "maneOfTheRavenous": {
+        "id": "maneOfTheRavenous",
+        "type": "headwear",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "moonshadeMantle": {
+        "id": "moonshadeMantle",
+        "type": "torso",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "wolfsHeadChains": {
+        "id": "wolfsHeadChains",
+        "type": "neck",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "grayLightGuards": {
+        "id": "grayLightGuards",
+        "type": "forearm",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "goldpeltCords": {
+        "id": "goldpeltCords",
+        "type": "waist",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "clawsOut": {
+        "id": "clawsOut",
+        "type": "hand",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "lonestrideLeathers": {
+        "id": "lonestrideLeathers",
+        "type": "bottom",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "isolatedSteps": {
+        "id": "isolatedSteps",
+        "type": "footwear",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theWolfheart": {
+        "id": "theWolfheart",
+        "type": "sailsEmblem",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "snakeWisps": {
+        "id": "snakeWisps",
+        "type": "sailsPattern",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "denShadows": {
+        "id": "denShadows",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "unwaveringLight": {
+        "id": "unwaveringLight",
+        "type": "figureHead",
+        "set": "",
+        "effect": ["emissive","combatReactive"],
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "huntAndSurvive": {
+        "id": "huntAndSurvive",
+        "type": "hull",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "wolfRonin": {
+        "id": "wolfRonin",
+        "type": "nameplate",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "bladesOfTheWolf": {
+        "id": "bladesOfTheWolf",
+        "type": "wheel",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "roninsHowl": {
+        "id": "roninsHowl",
+        "type": "longGunWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "eatThis": {
+        "id": "eatThis",
+        "type": "sailsEmblem",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "hookedOnMadness": {
+        "id": "hookedOnMadness",
+        "type": "sailsPattern",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "channelsWaters": {
+        "id": "channelsWaters",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "jawDropper": {
+        "id": "jawDropper",
+        "type": "figureHead",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "blackBlast": {
+        "id": "blackBlast",
+        "type": "hull",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "sharkbane": {
+        "id": "sharkbane",
+        "type": "nameplate",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "predatorsReins": {
+        "id": "predatorsReins",
+        "type": "wheel",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "lilBlackstripe": {
+        "id": "lilBlackstripe",
+        "type": "pet",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "rockTheRoar": {
+        "id": "rockTheRoar",
+        "type": "emote",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "roguesGreeting": {
+        "id": "roguesGreeting",
+        "type": "sailsEmblem",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "swishAndSwirl": {
+        "id": "swishAndSwirl",
+        "type": "sailsPattern",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "theBoldestHeart": {
+        "id": "theBoldestHeart",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "venturedAndGained": {
+        "id": "venturedAndGained",
+        "type": "hull",
+        "set": "",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "daggerhand": {
+        "id": "daggerhand",
+        "type": "nameplate",
+        "set": "",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
