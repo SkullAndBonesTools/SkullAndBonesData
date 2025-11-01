@@ -364,6 +364,10 @@
             "name": "Tearing Resistant",
             "description": "Increases Tearing Resistance by %s-%s%"
         },
+        "resistAll": {
+            "name": "Resist All",
+            "description": "Increases All Secondary Damage Resistances by %s-%s%"
+        },
         "stout": {
             "name": "Stout",
             "description": "Increases Hull Health by %s-%s"
