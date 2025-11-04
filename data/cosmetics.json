@@ -28439,5 +28439,51 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-04",
         "lastUpdated": "2025-11-04"
+    },
+    "orderAndPurpose": {
+        "id": "orderAndPurpose",
+        "type": "sailsEmblem",
+        "set": "waveConqueror",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "factionWarRewardWonTerritory1",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "brightHorizons": {
+        "id": "brightHorizons",
+        "type": "sailsPattern",
+        "set": "waveConqueror",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "factionWarRewardWonTerritory8",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "deadWake": {
+        "id": "deadWake",
+        "type": "sailsColor",
+        "set": "waveConqueror",
+        "faction": "dutchMerchantCompany",
+        "effect": "emissive",
+        "obtainable": "factionWarRewardWonTerritory4",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "anchorsEdge": {
+        "id": "anchorsEdge",
+        "type": "hull",
+        "set": "waveConqueror",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "factionWarRewardWonTerritory5",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "kaper": {
+        "id": "kaper",
+        "type": "nameplate",
+        "set": "waveConqueror",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "factionWarRewardWonTerritory11",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }

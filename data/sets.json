@@ -1486,5 +1486,9 @@
     "bloodQueen": {
         "id": "bloodQueen",
         "type": "player"
+    },
+    "waveConqueror": {
+        "id": "waveConqueror",
+        "type": "ship"
     }
 }
