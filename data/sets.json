@@ -1482,5 +1482,9 @@
     "theLastHowl": {
         "id": "theLastHowl",
         "type": "player"
+    },
+    "bloodQueen": {
+        "id": "bloodQueen",
+        "type": "player"
     }
 }

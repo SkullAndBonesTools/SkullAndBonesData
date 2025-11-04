@@ -28034,7 +28034,7 @@
     "sirensCrest": {
         "id": "sirensCrest",
         "type": "headwear",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28042,7 +28042,7 @@
     "drapedInSplendor": {
         "id": "drapedInSplendor",
         "type": "torso",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28050,7 +28050,7 @@
     "heartstopper": {
         "id": "heartstopper",
         "type": "neck",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28058,7 +28058,7 @@
     "muddiedWaters": {
         "id": "muddiedWaters",
         "type": "forearm",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28066,7 +28066,7 @@
     "scarletSiren": {
         "id": "scarletSiren",
         "type": "waist",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28074,7 +28074,7 @@
     "stormsShine": {
         "id": "stormsShine",
         "type": "hand",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28082,7 +28082,7 @@
     "gritwornBreeches": {
         "id": "gritwornBreeches",
         "type": "bottom",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28090,7 +28090,7 @@
     "renewedBoots": {
         "id": "renewedBoots",
         "type": "footwear",
-        "set": "",
+        "set": "bloodQueen",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
