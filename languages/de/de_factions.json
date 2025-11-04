@@ -40,7 +40,7 @@
             "name": "Pestilenzflotte"
         },
         "azureFleet": {
-            "name": "Azure Fleet"
+            "name": "Azure Flotte"
         },
         "theUnhallowed": {
             "name": "Die Entweihten"
@@ -64,7 +64,7 @@
             "name": "Scurlocks Abtrünnige"
         },
         "weepingSpecters": {
-            "name": "Weeping Specters"
+            "name": "Klagende Schemen"
         }
     }
 }
