@@ -28158,7 +28158,7 @@
     "maneOfTheRavenous": {
         "id": "maneOfTheRavenous",
         "type": "headwear",
-        "set": "",
+        "set": "theLastHowl",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
@@ -28167,7 +28167,7 @@
     "moonshadeMantle": {
         "id": "moonshadeMantle",
         "type": "torso",
-        "set": "",
+        "set": "theLastHowl",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
@@ -28176,7 +28176,7 @@
     "wolfsHeadChains": {
         "id": "wolfsHeadChains",
         "type": "neck",
-        "set": "",
+        "set": "theLastHowl",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
@@ -28185,7 +28185,7 @@
     "grayLightGuards": {
         "id": "grayLightGuards",
         "type": "forearm",
-        "set": "",
+        "set": "theLastHowl",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
@@ -28194,7 +28194,7 @@
     "goldpeltCords": {
         "id": "goldpeltCords",
         "type": "waist",
-        "set": "",
+        "set": "theLastHowl",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28202,7 +28202,7 @@
     "clawsOut": {
         "id": "clawsOut",
         "type": "hand",
-        "set": "",
+        "set": "theLastHowl",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28210,7 +28210,7 @@
     "lonestrideLeathers": {
         "id": "lonestrideLeathers",
         "type": "bottom",
-        "set": "",
+        "set": "theLastHowl",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -28218,7 +28218,7 @@
     "isolatedSteps": {
         "id": "isolatedSteps",
         "type": "footwear",
-        "set": "",
+        "set": "theLastHowl",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"

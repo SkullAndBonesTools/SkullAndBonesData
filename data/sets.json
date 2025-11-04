@@ -1478,5 +1478,9 @@
     "sinnersGrasp": {
         "id": "sinnersGrasp",
         "type": "ship"
+    },
+    "theLastHowl": {
+        "id": "theLastHowl",
+        "type": "player"
     }
 }
