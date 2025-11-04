@@ -19793,6 +19793,60 @@
             "description": {
                 "general": "\"This fight shall be your last.\""
             }
+        },
+        "outForOpportunity": {
+            "name": "Out for Opportunity",
+            "description": {
+                "general": "The seas belong to the quick and mighty"
+            }
+        },
+        "trailOfForsaken": {
+            "name": "Trail of Forsaken",
+            "description": {
+                "general": "Every enemy's fall adds to your rise"
+            }
+        },
+        "theWindsMeet": {
+            "name": "The Winds Meet",
+            "description": {
+                "general": "They offer fortune for your exploits"
+            }
+        },
+        "clamoringSpirits": {
+            "name": "Clamoring Spirits",
+            "description": {
+                "general": "They call for retribution"
+            }
+        },
+        "orderAndPurpose": {
+            "name": "Order and Purpose",
+            "description": {
+                "general": "Rise above the strife and find your place"
+            }
+        },
+        "brightHorizons": {
+            "name": "Bright Horizons",
+            "description": {
+                "general": "Even fame and fortune are not enough"
+            }
+        },
+        "deadWake": {
+            "name": "Dead Wake",
+            "description": {
+                "general": "Let the Indian Ocean see what becomes of your enemies"
+            }
+        },
+        "anchorsEdge": {
+            "name": "Anchor's Edge",
+            "description": {
+                "general": "Expect battle at every turn"
+            }
+        },
+        "kaper": {
+            "name": "Kaper",
+            "description": {
+                "general": "\"It is not enough to survive. We must triumph and prosper.\""
+            }
         }
     }
 }

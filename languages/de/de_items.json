@@ -2097,9 +2097,9 @@
             }
         },
         "rodeMaangodinChest": {
-            "name": "Mysterious Chest (Rode Maangodin)",
+            "name": "Geheimnisvolle Truhe (Rode Maangodin)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welche Raritäten wohl darin verborgen sind?"
             }
         },
         "bloodiedStrongbox": {
@@ -2121,9 +2121,9 @@
             }
         },
         "maangodinChest": {
-            "name": "Mysterious Chest (Maangodin)",
+            "name": "Geheimnisvolle Truhe (Maangodin)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welche Raritäten wohl darin verborgen sind?"
             }
         },
         "reapersCache": {
@@ -2145,9 +2145,9 @@
             }
         },
         "soleilRoyalTreasureChest": {
-            "name": "Treasure Chest (Soleil Royal)",
+            "name": "Schatztruhe (Soleil Royal)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "whiteAriaChest": {

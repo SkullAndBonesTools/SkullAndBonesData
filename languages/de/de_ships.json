@@ -97,9 +97,9 @@
             }
         },
         "sloopOfWar": {
-            "name": "Sloop of War",
+            "name": "Kampf-Slup",
             "description": {
-                "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+                "general": "Ein Schiff, das besonders gut darin ist, Giftstoffe zu verbreiten. Manche sagen, dass der Seuchenkönig selbst auf seine Segel haucht und so in seinem Kielwasser die Pest verbreitet."
             }
         }
     }
