@@ -19793,6 +19793,30 @@
             "description": {
                 "general": "\"This fight shall be your last.\""
             }
+        },
+        "outForOpportunity": {
+            "name": "Out for Opportunity",
+            "description": {
+                "general": "The seas belong to the quick and mighty"
+            }
+        },
+        "trailOfForsaken": {
+            "name": "Trail of Forsaken",
+            "description": {
+                "general": "Every enemy's fall adds to your rise"
+            }
+        },
+        "theWindsMeet": {
+            "name": "The Winds Meet",
+            "description": {
+                "general": "They offer fortune for your exploits"
+            }
+        },
+        "clamoringSpirits": {
+            "name": "Clamoring Spirits",
+            "description": {
+                "general": "They call for retribution"
+            }
         }
     }
 }

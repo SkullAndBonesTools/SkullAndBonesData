@@ -28406,5 +28406,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "outForOpportunity": {
+        "id": "outForOpportunity",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "sinnersGrasp",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-04",
+        "lastUpdated": "2025-11-04"
+    },
+    "trailOfForsaken": {
+        "id": "trailOfForsaken",
+        "type": "sailsPattern",
+        "set": "sinnersGrasp",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-04",
+        "lastUpdated": "2025-11-04"
+    },
+    "theWindsMeet": {
+        "id": "theWindsMeet",
+        "type": "sailsColor",
+        "set": "sinnersGrasp",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-04",
+        "lastUpdated": "2025-11-04"
+    },
+    "clamoringSpirits": {
+        "id": "clamoringSpirits",
+        "type": "hull",
+        "set": "sinnersGrasp",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-04",
+        "lastUpdated": "2025-11-04"
     }
 }

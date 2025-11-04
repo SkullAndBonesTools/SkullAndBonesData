@@ -1474,5 +1474,9 @@
     "valiantBlood": {
         "id": "valiantBlood",
         "type": "ship"
+    },
+    "sinnersGrasp": {
+        "id": "sinnersGrasp",
+        "type": "ship"
     }
 }
