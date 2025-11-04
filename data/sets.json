@@ -1470,5 +1470,9 @@
     "wolfheartsSeas": {
         "id": "wolfheartsSeas",
         "type": "ship"
+    },
+    "valiantBlood": {
+        "id": "valiantBlood",
+        "type": "ship"
     }
 }

@@ -26631,7 +26631,7 @@
     "livingSun": {
         "id": "livingSun",
         "type": "sailsEmblem",
-        "set": "",
+        "set": "valiantBlood",
         "obtainable": "factionWarRewardWonTerritory1",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
@@ -26640,7 +26640,7 @@
     "blackDiamond": {
         "id": "blackDiamond",
         "type": "sailsColor",
-        "set": "",
+        "set": "valiantBlood",
         "effect": "emissive",
         "obtainable": "factionWarRewardWonTerritory4",
         "faction": "compagnieRoyale",
@@ -26650,7 +26650,7 @@
     "momentousStride": {
         "id": "momentousStride",
         "type": "hull",
-        "set": "",
+        "set": "valiantBlood",
         "obtainable": "factionWarRewardWonTerritory5",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
@@ -26659,7 +26659,7 @@
     "gildedEpic": {
         "id": "gildedEpic",
         "type": "sailsPattern",
-        "set": "",
+        "set": "valiantBlood",
         "obtainable": "factionWarRewardWonTerritory8",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
@@ -26668,7 +26668,7 @@
     "corsaire": {
         "id": "corsaire",
         "type": "nameplate",
-        "set": "",
+        "set": "valiantBlood",
         "obtainable": "factionWarRewardWonTerritory11",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
