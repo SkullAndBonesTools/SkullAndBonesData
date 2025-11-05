@@ -2995,9 +2995,9 @@
             }
         },
         "gildedSkull": {
-            "name": "Gilded Skull",
+            "name": "Triumph!",
             "description": {
-                "general": "A prize worth taking"
+                "general": "See that, and you know a crew took a prize worth taking"
             }
         },
         "carnage": {
@@ -19846,6 +19846,12 @@
             "name": "Kaper",
             "description": {
                 "general": "\"It is not enough to survive. We must triumph and prosper.\""
+            }
+        },
+        "fancyAsCanBe": {
+            "name": "Fancy as Can Be",
+            "description": {
+                "general": "\"We are lords in our own right.\""
             }
         }
     }
