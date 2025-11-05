@@ -28485,5 +28485,12 @@
         "obtainable": "factionWarRewardWonTerritory11",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "fancyAsCanBe": {
+        "id": "fancyAsCanBe",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-10-28",
+        "lastUpdated": "2025-10-28"
     }
 }

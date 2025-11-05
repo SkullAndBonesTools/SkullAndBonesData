@@ -19847,6 +19847,12 @@
             "description": {
                 "general": "\"It is not enough to survive. We must triumph and prosper.\""
             }
+        },
+        "fancyAsCanBe": {
+            "name": "Fancy as Can Be",
+            "description": {
+                "general": "\"We are lords in our own right.\""
+            }
         }
     }
 }
