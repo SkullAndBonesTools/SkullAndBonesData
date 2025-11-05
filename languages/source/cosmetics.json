@@ -2995,9 +2995,9 @@
             }
         },
         "gildedSkull": {
-            "name": "Gilded Skull",
+            "name": "Triumph!",
             "description": {
-                "general": "A prize worth taking"
+                "general": "See that, and you know a crew took a prize worth taking"
             }
         },
         "carnage": {
