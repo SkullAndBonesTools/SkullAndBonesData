@@ -19853,6 +19853,30 @@
             "description": {
                 "general": "\"We are lords in our own right.\""
             }
+        },
+        "coilsOfFate": {
+            "name": "Coils of Fate",
+            "description": {
+                "general": "Power may well come at a cost"
+            }
+        },
+        "burrowingMadness": {
+            "name": "Burrowing Madness",
+            "description": {
+                "general": "They say each life taken deepens the curse"
+            }
+        },
+        "theEternalDuel": {
+            "name": "The Eternal Duel",
+            "description": {
+                "general": "Conflict and chaos come from long before"
+            }
+        },
+        "fangsOfBetrayal": {
+            "name": "Fangs of Betrayal",
+            "description": {
+                "general": "Treachery shadows you"
+            }
         }
     }
 }

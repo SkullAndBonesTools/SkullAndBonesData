@@ -2762,7 +2762,7 @@
         },
         "sterileGalley": {
             "description": {
-                "1": "Increases Maximum Stamina by 7%"
+                "1": "Maximale Ausdauer wird um 7 % erhöht"
             }
         },
         "balancedMast": {
@@ -2783,43 +2783,43 @@
         "royalSterilizationTent": {
             "description": {
                 "general": [
-                    "Increases Repair Amount of weapons by 21% for targets below 70% Hull Health",
-                    "1% of Repair Amount also restores 0.1% Crew Stamina to the target",
-                    "Reduces Reload Time of Repair Weapons by 11%"
+                    "Erhöht die Reperaturmenge von Waffen um 21 % für Ziele mit weniger als 70 % Rumpfzustand",
+                    "1 % der Reperaturmenge stellen zudem 0,1 % \"Ausdauer der Besatzung\" am Ziel wieder her",
+                    "\"Nachladezeit\" von Reperaturwaffen wird um 11 % verringert"
                 ]
             }
         },
         "atelierDeCuivrage": {
             "description": {
                 "general": [
-                    "While above 50% Hull Health, reduces incoming Secondary Damage by 24%, and increases Threat Generation by 15% and weapon damage by 10%",
-                    "Increases Armor Rating of equipped armor by 100"
+                    "Bei mehr als 50 % \"Rumpfzustand\" werden erlittener \"Sekundärschaden\" um 24 % verringert und \"Generierung von Bedrohung\" um 15 % sowie \"Waffenschaden\" um 10 % erhöht",
+                    "Panzerungswert von Panzerung ausgerüstet wird um 100 erhöht"
                 ]
             }
         },
         "rampantCarriageHold": {
             "description": {
                 "general": [
-                    "After 10 consecutive hits on targets, applies the Sea's Roar status effect to your ship and the nearest ally within 150m. Missing a shots resets the counter",
-                    "Sea's Roar increases the Secondary Damage dealt by 17% and reduces incoming Secondary Damage by 15% for 17s",
-                    "Decreases Reload Time of Weapons by 7%"
+                    "Verleiht deinem Schiff und dem des nächsten Verbündeten innerhalb von 150 m nach 10 aufeinanderfolgenden Treffern gegen Ziele den Statuseffekt \"Gebrüll des Meeres\". Verfehlt ein Schuss, wird der Zähler zurückgesetzt",
+                    "Gebrüll des Meeres: Erhöht für 17 s den verursachten Sekundärschaden um 17 % und verringert den erlittenen Sekundärschaden um 15 %",
+                    "Reduziert Nachladezeit von Waffen um 7 %"
                 ]
             }
         },
         "sandbagPaintingStation": {
             "description": {
                 "general": [
-                    "After receiving 12 hits, gains the Sea's Ward status effect for 30s, with a cooldown of 60s",
-                    "Sea's Ward increases Brace Strength by 18%. 3% of weapon damage builds up the Taunted status effect on enemies",
-                    "Reduces Crew Stamina Depletion while Bracing by 14%"
+                    "Gewährt nach dem Erleiden von 12 Treffern für 30 s den Statuseffekt \"Schutz des Meeres\" mit einer Abklingzeit von 60 s",
+                    "Schutz des Meeres: Erhöht \"Deckungsstärke\" um 18 %. 3 % von Waffenschaden bauen beim Gegner den Statuseffekt \"Verspottet\" auf",
+                    "Reduziert Ausdauerverbrauch der Besatzung während In Deckung gehen um 14 %"
                 ]
             }
         },
         "counterthrustLocker": {
             "description": {
                 "general": [
-                    "After ramming a target, increases Acceleration by 300% for 5s",
-                    "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
+                    "Erhöht nach dem Rammen eines Ziels für 5 s \"Beschleunigung\" um 300 %",
+                    "Erhöht beim Segeln gegen den Wind \"Höchstgeschwindigkeit\" um 10 % und verringert \"Ausdauerverbrauch der Besatzung\" im Kampf um 10 %"
                 ]
             }
         },
