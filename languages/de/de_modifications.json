@@ -309,139 +309,139 @@
             "description": "Treffer, die bei 70% von Maximale Reichweite oder weiter landen, stellen auch %s-%s% mehr Reparaturmenge her"
         },
         "acrid": {
-            "name": "Acrid",
-            "description": "Every hit deals an extra burst of %s-%s Toxic Damage"
+            "name": "Ätzend",
+            "description": "Jeder Treffer fügt extra %s-%s Giftschaden hinzu"
         },
         "noxious": {
-            "name": "Noxious",
-            "description": "Adds %s-%s% damage as Toxic Damage"
+            "name": "Schädlich",
+            "description": "Fügt %s-%s % Schaden als Giftschaden hinzu "
         },
         "direToxic": {
-            "name": "Dire Toxic",
-            "description": "Hits ignore %s-%s% of the target's Toxic resistance"
+            "name": "Fatal giftig",
+            "description": "Treffer ignorieren %s-%s% der Giftig-Resistenz des Ziels"
         },
         "amplifiedToxic": {
-            "name": "Amplified Toxic",
-            "description": "Increases existing Toxic Damage by %s-%s%"
+            "name": "Verstärkt giftig",
+            "description": "Verstärkt bereits vorhandenen Giftschaden um %s-%s%"
         },
         "antidote": {
             "name": "Antidote",
-            "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
+            "description": "Treffer verringern auch den Aufbau des Statuseffekts Vergiftet beim Ziel um %s-%s %"
         },
         "armored": {
-            "name": "Armored",
-            "description": "Increases Armor by %s-%s"
+            "name": "Gepanzert",
+            "description": "Panzerung wird um %s-%s erhöht."
         },
         "rugged": {
-            "name": "Rugged",
-            "description": "Reduces incoming damage by %s-%s while Bracing"
+            "name": "Robust",
+            "description": "Verringert erlittener Schaden um %s-%s bei In Deckung gehen"
         },
         "fireResistant": {
-            "name": "Fire Resistant",
-            "description": "Increases Fire Resistance by %s-%s%"
+            "name": "Feuerresistenz",
+            "description": "Resistenz gegen Feuerschaden wird um %s-%s % erhöht"
         },
         "floodingResistant": {
-            "name": "Flooding Resistant",
-            "description": "Increases Flooding Resistance by %s-%s%"
+            "name": "Überflutungsresistenz",
+            "description": "Resistenz gegen Überflutungsschaden wird um %s-%s % erhöht"
         },
         "piercingResistant": {
-            "name": "Piercing Resistant",
-            "description": "Increases Piercing Resistance by %s-%s%"
+            "name": "Durchschlagresistenz",
+            "description": "Resistenz gegen Durchschlagsschaden wird um %s-%s % erhöht"
         },
         "explosiveResistant": {
-            "name": "Explosive Resistant",
-            "description": "Increases Explosive Resistance by %s-%s%"
+            "name": "Explosionsresistenz",
+            "description": "Resistenz gegen Explositionsschaden wird um %s-%s % erhöht"
         },
         "electricResistant": {
-            "name": "Electric Resistant",
-            "description": "Increases Electric Resistance by %s-%s%"
+            "name": "Elektroresistenz",
+            "description": "Resistenz gegen Elektroschaden wird um %s-%s % erhöht"
         },
         "toxicResistant": {
-            "name": "Toxic Resistant",
-            "description": "Increases Toxic Resistance by %s-%s%"
+            "name": "Giftresistenz",
+            "description": "Resistenz gegen Giftschaden wird um %s-%s % erhöht"
         },
         "tearingResistant": {
-            "name": "Tearing Resistant",
-            "description": "Increases Tearing Resistance by %s-%s%"
+            "name": "Rissresistenz",
+            "description": "Resistenz gegen Rissschaden wird um %s-%s % erhöht"
         },
         "resistAll": {
-            "name": "Resist All",
-            "description": "Increases All Secondary Damage Resistances by %s-%s%"
+            "name": "Alles widerstehen",
+            "description": "Alle Resistenzen gegen Sekundärschäden werden um %s-%s % erhöht"
         },
         "stout": {
-            "name": "Stout",
-            "description": "Increases Hull Health by %s-%s"
+            "name": "Stabil",
+            "description": "Rumpfzustand wird um %s-%s erhöht"
         },
         "strength": {
-            "name": "Strength",
-            "description": "Increases Brace Strength by %s-%s"
+            "name": "Stärke",
+            "description": "Deckungsstärke wird um %s-%s erhöht"
         },
         "vigor": {
-            "name": "Vigor",
-            "description": "Increases Crew Stamina by %s-%s"
+            "name": "Tatkraft",
+            "description": "Maximale Ausdauer der Besatzung wird um %s-%s erhöht"
         },
         "ironclad": {
-            "name": "Ironclad",
-            "description": "Increases Armor by %s-%s%"
+            "name": "Eisern",
+            "description": "Panzerung wird um %s-%s% erhöht"
         },
         "stalwart": {
-            "name": "Stalwart",
-            "description": "Increases Hull Health by %s-%s%"
+            "name": "Unbeugsam",
+            "description": "Rumpfzustand wird um %s-%s% erhöht"
         },
         "fortitude": {
-            "name": "Fortitude",
-            "description": "Increases Brace Strength by %s-%s%"
+            "name": "Standhaftigkeit",
+            "description": "Deckungsstärke wird um %s-%s% erhöht"
         },
         "maintenance": {
-            "name": "Maintenance",
-            "description": "Repairs %s-%s Hull Health per second"
+            "name": "Reparatur",
+            "description": "Stellt pro Sekunde %s-%s Rumpfzustand wieder her"
         },
         "determination": {
-            "name": "Determination",
-            "description": "Increases Brace Strength Recovery by %s-%s% per second"
+            "name": "Entschlossenheit",
+            "description": "Erhöht Deckungsstärken-Wiederherstellung um %s-%s% pro Sekunde"
         },
         "barbarian": {
-            "name": "Barbarian",
-            "description": "When Hull Health is below 25%, increases Weapon damage by %s-%s%"
+            "name": "Barbar",
+            "description": "Wenn Rumpfzustand unter 25% ist, wird Waffenschaden um %s-%s% erhöht"
         },
         "survivor": {
-            "name": "Survivor",
-            "description": "When Hull Health drops below 25%, repairs %s-%s% Hull Health over 10 seconds. This effect has a 30 second cooldown"
+            "name": "Überlebender",
+            "description": "Fällt der Rumpfzustand unter 25%: %s-%s% Rumpfzustand werden über 10 Sek. repariert. Dieser Effekt hat eine Abklingzeit von 30 Sek."
         },
         "craftsman": {
-            "name": "Craftsman",
-            "description": "Increases Repair Amount of Repair Kits by %s-%s%"
+            "name": "Handwerker",
+            "description": "Reparaturmenge von Reparatursets wird um %s-%s% erhöht"
         },
         "resilience": {
-            "name": "Resilience",
-            "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
+            "name": "Resilienz",
+            "description": "Reparatursatz gewährt bei Benutzung für 5 Sek. %s-%s% Sekundärschaden-Verringerung"
         },
         "supreme": {
-            "name": "Supreme",
-            "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
+            "name": "Überlegen",
+            "description": "Erhöht den Schaden von Spezialangriffen der Panzerung um %s-%s%"
         },
         "steelIntegration": {
-            "name": "Steel Integration",
+            "name": "Stahleinbau",
             "description": [
-                "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
-                "Adds 5% Piercing and Explosive resistance"
+                "Je 1% Durchschlagend- und Explosiv-Resistenz fügen %s-%s Panzerung hinzu",
+                "Fügt 5% Durchschlagend- und Explosiv-Resistenz hinzu"
             ]
         },
         "coalesce": {
-            "name": "Coalesce",
-            "description": "%s-%s% chance that 50% of damage braced restores Hull Health. This effect only occurs after bracing ends"
+            "name": "Verschmelzen",
+            "description": "Chance von %s-%s%, dass 50% des Schadens in Deckung Rumpfzustand wiederherstellen. Der Effekt wird nach Verlassen der Deckung angewendet"
         },
         "watcher": {
-            "name": "Watcher",
-            "description": "Any damage taken while Bracing has a %s-%s% chance of being reduced by 1750"
+            "name": "Beobachter",
+            "description": "Schaden, der während \"In Deckung gehen\" erlitten wird, wird mit einer Chance von %s-%s% um 1750 verringert"
         },
         "respite": {
-            "name": "Respite",
-            "description": "When Bracing damage, there's a %s-%s% chance to repair 500 Hull Health and 100 Severe Damage per second for the net 5 seconds. This effect has a cooldown of 10 seconds"
+            "name": "Verschnaufen",
+            "description": "In Deckung besteht eine Chance von %s-%s% 500 Rumpfzustand und 100 Schwerer Schaden pro Sekunde für die nächsten 5 Sek. zu reparieren. Dieser Effekt hat eine Abklingzeit von 10 Sek."
         },
         "jester": {
-            "name": "Jester",
-            "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
+            "name": "Hofnarr",
+            "description": "Nach dem Erleiden von \"Verspottet\" werden Panzerungswert und Deckungsstärken-Wiederherstellung für 15 Sek. um %s-%s erhöht"
         }
     }
 }

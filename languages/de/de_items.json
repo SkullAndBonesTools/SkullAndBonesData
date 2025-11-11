@@ -2079,9 +2079,9 @@
             }
         },
         "azureCache": {
-            "name": "Azure Cache",
+            "name": "Azurblaues Lager",
             "description": {
-                "general": "A cache a merchant ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+                "general": "Ein Lager von einem Handelsschiff der Azur-Flotte. Es scheint der Umgebungsluft jegliche Wärme zu entziehen."
             }
         },
         "azureStrongbox": {
@@ -2153,13 +2153,13 @@
         "whiteAriaChest": {
             "name": "Weiße Aria Truhe",
             "description": {
-                "general": "A treasure chest seized from Bertrand Hubac's flagship."
+                "general": "Eine Schatztruhe, von Bertrand Hubacs Flaggschiff beschlagnahmt."
             }
         },
         "blackAriaChest": {
             "name": "Schwarze Aria Truhe",
             "description": {
-                "general": "A treasure chest seized from Armand Hubac's flagship."
+                "general": "Eine Schatztruhe, von Armand Hubacs Flaggschiff beschlagnahmt."
             }
         },
         "chorusFleetStrongbox": {
@@ -2175,21 +2175,21 @@
             }
         },
         "opwellingTreasureChest": {
-            "name": "Treasure Chest (Opwelling)",
+            "name": "Schatztruhe (Opwelling)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "vanderkillsLocker": {
-            "name": "Vanderkill's Locker",
+            "name": "Vanderkills Truhe",
             "description": {
-                "general": "Chest looted from infamous Vanderkill."
+                "general": "Eine Truhe, die dem berüchtigten Vanderkill abgenommen wurde."
             }
         },
         "roninCosmeticsChest": {
-            "name": "Ronin Cosmetics Chest",
+            "name": "Ronin-Verschönerungstruhe",
             "description": {
-                "general": "An opulent chest which may contain cosmetics from the Ronin Ship Set"
+                "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil des Ronin-Sets sind."
             }
         },
         "sengokuNightsCosmeticsChest": {
@@ -2199,21 +2199,21 @@
             }
         },
         "risenZamaharibuChest": {
-            "name": "Mysterious Chest (Risen Zamaharibu)",
+            "name": "Geheimnisvolle Truhe (Aufgestiegener Zamaharibu)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welche Raritäten wohl darin verborgen sind?"
             }
         },
         "risenMegaLestariChest": {
-            "name": "Mysterious Chest (Risen Mega Lestari)",
+            "name": "Geheimnisvolle Truhe (Aufgestiegener Mega-Lestari)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welche Raritäten wohl darin verborgen sind?"
             }
         },
         "elderShadowbeastChest": {
-            "name": "Mysterious Chest (Elder Shadowbeast)",
+            "name": "Geheimnisvolle Truhe (Altes Schattenbiest)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welche Raritäten wohl darin verborgen sind?"
             }
         },
         "regattaChest": {
@@ -2301,21 +2301,21 @@
             }
         },
         "mutuallyAssuredSetChest": {
-            "name": "Mutually Assured Set Chest",
+            "name": "Set \"Gegenseitig garantiert\"-Truhe",
             "description": {
-                "general": "A chest gifted by your unknown sponsor."
+                "general": "Von einem unbekannten Gönner gespendete Truhe."
             }
         },
         "serpentsDueSetChest": {
-            "name": "Serpent's Due Set Chest",
+            "name": "Set \"Anrecht der Schlange\"-Truhe",
             "description": {
-                "general": "A chest gifted by your unknown sponsor."
+                "general": "Von einem unbekannten Gönner gespendete Truhe."
             }
         },
         "divineInterventionSetChest": {
-            "name": "Divine Intervention Set Chest",
+            "name": "Set \"Göttliches Eingreifen\"-Truhe",
             "description": {
-                "general": "A chest gifted by your unknown sponsor."
+                "general": "Von einem unbekannten Gönner gespendete Truhe."
             }
         },
         "ascendedCache": {
@@ -2454,118 +2454,118 @@
         "ascendedAshbreakerChest": {
             "name": "Ascended Ashbreaker Chest",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "Enthält eine aufgestiegene Event-Waffe."
             }
         },
         "ascendedEventCache": {
-            "name": "Ascended Event Cache",
+            "name": "Aufgestiegenes Eventlager",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "Enthält eine aufgestiegene Event-Waffe"
             }
         },
         "topDeckWeaponsAscendedCache": {
-            "name": "Top-Deck Weapons Ascended Cache",
+            "name": "Oberdeck-Bewaffnung Aufstiegsbehälter ",
             "description": {
-                "general": "A collection of Top-Deck Weapons that will be ascended upon opening"
+                "general": "Eine Sammlung von Oberdeck-Bewaffnung, die beim Öffnen aufsteigen."
             }
         },
         "auxiliaryWeaponsAscendedCache": {
-            "name": "Auxiliary Weapons Ascended Cache",
+            "name": "Hilfswaffen Aufstiegsbehälter",
             "description": {
-                "general": "A collection of Auxiliary Weapons that will be ascended upon opening"
+                "general": "Eine Sammlung von Hilfswaffen, die beim Öffnen aufsteigen."
             }
         },
         "frontWeaponsAscendedCache": {
-            "name": "Front Weapons Ascended Cache",
+            "name": "Bugwaffen Aufstiegsbehälter",
             "description": {
-                "general": "A collection of Front Weapons that will be ascended upon opening"
+                "general": "Eine Sammlung von Bugwaffen, die beim Öffnen aufsteigen."
             }
         },
         "allDeckWeaponsAscendedCache": {
-            "name": "All-Deck Weapons Ascended Cache",
+            "name": "Gesamte Deck-Bewaffnung Aufstiegsbehälter",
             "description": {
-                "general": "A collection of All-Deck Weapons that will be ascended upon opening"
+                "general": "Eine Sammlung von Gesamte Deck-Bewaffnung, die beim Öffnen aufsteigen."
             }
         },
         "megafortCache": {
-            "name": "Megafort Cache",
+            "name": "Behälter \"Großfestung\"",
             "description": {
-                "general": "Spoils from the megacorporations' war, seized from Megafort Wolvenhol"
+                "general": "Beute aus dem Krieg der Kompanien, aus der Großfestung Wolfenhol geklaut."
             }
         },
         "teulingsMaterialsChest": {
-            "name": "Teuling's Materials Chest",
+            "name": "Teulings Materialien-Truhe ",
             "description": {
-                "general": "Contains a selection of rare materials for crafting."
+                "general": "Enthält eine Auswahl seltener Materialien zum Herstellen."
             }
         },
         "teulingsItemAscensionChest": {
-            "name": "Teuling's Item Ascension Chest",
+            "name": "Teulings Objektaufstiegs-Truhe",
             "description": {
-                "general": "Contains a selection of items for ascension."
+                "general": "Enthält eine Auswahl an Gegenständen für den Aufstieg."
             }
         },
         "teulingsArmorChest": {
-            "name": "Teuling's Armor Chest",
+            "name": "Teulings Panzerungs-Truhe",
             "description": {
-                "general": "Contains a random Smuggler Pass Armor.",
-                "1": "Contains a random Smuggler Pass Armor from Year 1."
+                "general": "Enthält eine zufällige Kaperbrief Panzerung.",
+                "1": "Enthält eine zufällige Kaperbrief Panzerung von Jahr 1."
             }
         },
         "teulingsFurnitureChest": {
-            "name": "Teuling's Furniture Chest",
+            "name": "Teulings Ausstattungs-Truhe",
             "description": {
-                "general": "Contains a random Smuggler Pass Furniture.",
-                "1": "Contains a random Smuggler Pass Furniture from Year 1."
+                "general": "Enthält eine zufällige Kaperbrief Ausstattung",
+                "1": "Enthält eine zufällige Kaperbrief Ausstattung von Jahr 1"
             }
         },
         "teulingsWeaponChest": {
-            "name": "Teuling's Weapon Chest",
+            "name": "Teulings Waffen-Truhe",
             "description": {
-                "general": "Contains a random Smuggler Pass Weapon.",
-                "1": "Contains a random Smuggler Pass Weapon from Year 1."
+                "general": "Enthält eine zufällige Kaperbrief Waffe.",
+                "1": "Enthält eine zufällige Kaperbrief Waffe von Jahr 1."
             }
         },
         "jokaKubwaTreasureChest": {
-            "name": "Treasure Chest (Joka Kubwa)",
+            "name": "Schatztruhe (Joka Kubwa)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "dianSinagaTreasureChest": {
-            "name": "Treasure Chest (Dian Sinaga)",
+            "name": "Schatztruhe (Dian Sinaga)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "dirkAnkerenTreasureChest": {
-            "name": "Treasure Chest (Dirk Ankeren)",
+            "name": "Schatztruhe (Dirk Ankeren)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "galvinRocheTreasureChest": {
-            "name": "Treasure Chest (Galvin Roche)",
+            "name": "Schatztruhe (Galvin Roche)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "tangenaRabeTreasureChest": {
-            "name": "Treasure Chest (Tangena Rabe)",
+            "name": "Schatztruhe (Tangena Rabe)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "ahPakTreasureChest": {
-            "name": "Treasure Chest (Ah Pak)",
+            "name": "Schatztruhe (Ah Pak)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "mizerjaTreasureChest": {
-            "name": "Treasure Chest (Mizerja)",
+            "name": "Schatztruhe (Mizerja)",
             "description": {
-                "general": "What valuables are stashed inside this chest?"
+                "general": "Welche Kostbarkeiten verbergen sich in dieser Truhe?"
             }
         },
         "elDoradoCosmeticsChest": {
@@ -2611,63 +2611,63 @@
             }
         },
         "shadowbeastsHorn": {
-            "name": "Shadowbeast's Horn",
+            "name": "Horn des Schattenbiests",
             "description": {
-                "general": "A horn of a great, celestial creature"
+                "general": "Das Horn einer großen, himmlischen Kreatur."
             }
         },
         "royalSterilizationTent": {
-            "name": "Royal Sterilization Tent",
+            "name": "Königliches Sterilisationszelt",
             "description": {
-                "general": "Equipped with antiseptics and surgical tools of Compagnie design, this station restores Crew Stamina and enables faster repairs."
+                "general": "Diese von der Compagnie entworfene Station mit Antiseptika und chirurgischen Werkzeugen stellt die Ausdauer der Besatzung wieder her und sorgt für schnellere Reparaturen."
             }
         },
         "atelierDeCuivrage": {
             "name": "Atelier de Cuivrage",
             "description": {
-                "general": "Reinforces the hull with finely hammered copper plating, reducing damage from elemental ammunition and easing the strain when Bracing against enemy fire."
+                "general": "Verstärkt den Rumpf durch ziselierte Kupferplatten, die den Schaden durch Elementmunition und die Belastung verringern, wenn man vor gegnerischem Feuer in Deckung geht."
             }
         },
         "rampantCarriageHold": {
-            "name": "Rampant Carriage Hold",
+            "name": "Bewehrte Schlittenstation",
             "description": {
-                "general": "Outfitted with reinforced carriages and specialized plating, this station amplifies elemental damage dealt while reducing incoming elemental effects."
+                "general": "Diese Station mit bewehrten Schlitten und einer speziellen Beschichtung verstärkt den verursachten Elementschaden und verringert erlittene Elementeffekte. "
             }
         },
         "sandbagPaintingStation": {
-            "name": "Sandbag Painting Station",
+            "name": "Bemalstation für Sandsäcke",
             "description": {
-                "general": "A crude but effective workshop where taunts are stenciled in blood and sand. Strengthens brace and further enrages enemies to attack."
+                "general": "Eine behelfsmäßige, aber effektive Werkstatt, in der Sand mit Spott und Blut verstärkt wird. Verstärkt die Deckung und macht Gegner noch wütender, damit sie weiter angreifen."
             }
         },
         "counterthrustLocker": {
-            "name": "Counterthrust Locker",
+            "name": "Gegenschub-Spind",
             "description": {
-                "general": "A clever system of reinforced pulleys and bracing rigs that converts drag into drive -- boosting speed when ramming or sailing against the wind."
+                "general": "Ein gewieftes System verstärkter Flaschenzüge und Brassen, dass Luftwiederstand in Fahrt umwandelt und so die Geschwindigkeit beim Rammen oder Segeln gegen den Wind erhöht."
             }
         },
         "darktideChest": {
-            "name": "Darktide Chest",
+            "name": "Dunkelflut-Truhe",
             "description": {
-                "general": "A waterlogged chest from the drowned depths."
+                "general": "Eine durchnässte Truhe aus den Tiefen der Ertrunkenen."
             }
         },
         "ascendedHellgateSerpentChest": {
-            "name": "Ascended Hellgate Serpent Chest",
+            "name": "Aufgestiegene Höllenschlange-Truhe",
             "description": {
-                "general": "Contains an Ascended Hellgate Serpent"
+                "general": "Enthält 1 Höllenschlange (aufgestiegen)"
             }
         },
         "ascendedDarktideLullabyEventCache": {
-            "name": "Ascended Event Cache (Darktide Lullaby)",
+            "name": "\"Aufgestiegen\"-Eventlager (Wiegenlied der Dunkelflut)",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "Enthält eine aufgestiegene Event-Waffe."
             }
         },
         "contractCache": {
-            "name": "Contract Cache",
+            "name": "Auftragslager ",
             "description": {
-                "general": "A beginner's cache of basic contracts"
+                "general": "Ein Lager mit einfachen Aufträgen für Anfänger"
             }
         },
         "advancedContractCache": {
@@ -2683,9 +2683,9 @@
             }
         },
         "tianNingsImperialCloak": {
-            "name": "Tian Ning's Imperial Cloak",
+            "name": "Tian Nings kaiserlicher Umhang",
             "description": {
-                "general": "Fine silk flows like a majestic serpent gliding through the clouds."
+                "general": "Feine Seide umfließt den Träger wie eine majestätische Schlange, die durch die Wolken gleitet."
             }
         },
         "laPestesHead": {
@@ -2695,15 +2695,15 @@
             }
         },
         "laPestesLocker": {
-            "name": "La Peste's Locker",
+            "name": "La Pestes Truhe",
             "description": {
-                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+                "general": "Welche Belohnungen könnten dich darin erwarten, außer Freunde, Pestilenz oder beidem?"
             }
         },
         "laPestesStrongbox": {
-            "name": "La Peste's Strongbox",
+            "name": "La Pestes Schatulle",
             "description": {
-                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+                "general": "Welche Belohnungen könnten dich darin erwarten, außer Freude, Pestilenz oder beidem?"
             }
         },
         "wreckedConductorBuoy": {
@@ -2725,15 +2725,15 @@
             }
         },
         "flaskOfClearLiquid": {
-            "name": "Flask of Clear Liquid",
+            "name": "Fläschchen mit klarer Flüssigkeit",
             "description": {
-                "general": "The liquid shimmers like the nectar of gods."
+                "general": "Die Flüssigkeit schimmert wie der Nektar der Götter."
             }
         },
         "gildedCompass": {
-            "name": "Gilded Compass",
+            "name": "Vergoldeter Kompass",
             "description": {
-                "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
+                "general": "Ein verziertes, klobiges Ding, das nur den höchstrangigen Mitgliedern der Niederländischen Handelsgesellschaft geschenkt wird. Wie genau jedoch seine Nadel die Richtung anzeigt, lässt sich schwer sagen."
             }
         },
         "zhangsClaw": {
@@ -2749,172 +2749,172 @@
             }
         },
         "tondraDra": {
-            "name": "Tondra-dra",
+            "name": "Tondra-drà",
             "description": {
-                "general": "The raiders of the Red Isle have always believed their ships bled the shade of their soil, before biting back."
+                "general": "Die Plünderer der Roten Insel haben immer geglaubt, dass sie besonders bösartig zurückschlagen würden, wenn Ihre Schiffe im Farbton Ihrer Insel bluten."
             }
         },
         "rivotrasGrace": {
-            "name": "Rivotra's Grace",
+            "name": "Rivotras Anmut",
             "description": {
-                "general": "To the Sea People, the wind has always brought the best protection to their sails."
+                "general": "Laut dem Seevolk ist der Wind immer der beste Schutz für Ihre Segel gewesen. "
             }
         },
         "sumuSunder": {
-            "name": "Sumu Sunder",
+            "name": "Sumu-Trennung ",
             "description": {
-                "general": "To master a fever, one must first break it -- for the ship lords off the Coast of Africa, poison can be the sternest teacher."
+                "general": "Um ein Fieber zu überwinden, muss man es zuerst senken – und für die Schiffsfürsten an der Küste von Afrika ist Gift der strengste Lehrer. "
             }
         },
         "stinkpotStation": {
-            "name": "Stinkpot Station",
+            "name": "Stinktopf-Werkstatt",
             "description": {
-                "general": "The grim laboratories of La Peste churn out noxious bombs filled with sulfur and antimony."
+                "general": "In den düsteren Labors von La Peste werden toxische Bomben hergestellt, die mit Schwefel und Antimon gefüllt sind. "
             }
         },
         "sheetingWinchConsole": {
-            "name": "Sheeting Winch Console",
+            "name": "Schotwindenkonsole",
             "description": {
-                "general": "DMC-styled capstan-powered winches used for swift trimming and agile maneuvers."
+                "general": "Winden mit Spille im NHG-Stil für schnelles Trimmen und agile Manöver."
             }
         },
         "gimbalRingStores": {
-            "name": "Gimbal Ring Stores",
+            "name": "Kardanring-Lager",
             "description": {
-                "general": "Compagnie-designed trunnion-mounted rings level guns through pitch and roll."
+                "general": "Von der Compagnie entworfene, auf Drehzapfen montierte Ringe stabilisieren die Ausrichtung der Kanonen durch Neigen und Rollen."
             }
         },
         "siphonFurnace": {
-            "name": "Siphon Furnace",
+            "name": "Siphonofen",
             "description": {
-                "general": "Used by the Ungwana to heat and hurl caustic oils brewed from belladonna and arsenic."
+                "general": "Wird von den Ugwanern verwendet, um aus Tollkirsche und Arsen gebraute Öle zu erhitzen und zu schleudern. "
             }
         },
         "causticSpallStation": {
-            "name": "Caustic Spall Station",
+            "name": "Ätzende Splitteranlage ",
             "description": {
-                "general": "Designed by the Fara to rupture hulls and rot internal beams."
+                "general": "Von den Fara entwickelt, um Rümpfe zu durchbrechen und innenliegende Balken zu schwächen."
             }
         },
         "leydenVaultArray": {
-            "name": "Leyden Vault Array",
+            "name": "Leidener-Flaschen-Reihe",
             "description": {
-                "general": "Glass and foil-lined jars from the remains of the Shadowbeast wired to unleash high-voltage arcs."
+                "general": "Mit Glas und Folie ausgekleidete Krüge aus den Überresten des Schattenbiests, die Hochspannungsbögen entfesseln können. "
             }
         },
         "cascadeCoilBench": {
-            "name": "Cascade Coil Bench",
+            "name": "Kupferspulen-Werkbank",
             "description": {
-                "general": "Copper coils are wound around flame nozzles, igniting secondary bursts of naptha and sulfur dust."
+                "general": "Flammendüsen sind von Kupferspiralen umwickelt, die sekundäre Explosionen von Naphtha und Schwefelstaub auslösen."
             }
         },
         "curareCrushingBench": {
-            "name": "Curare Crushing Bench",
+            "name": "Curaresplitter-Bank",
             "description": {
-                "general": "Basins of curare paste with paralytic toxins, packed into splintered shot."
+                "general": "Schalen mit Curare-Paste mit lähmenden Giftstoffen, die als Splittergeschosse verwendet werden."
             }
         },
         "virulentAccord": {
-            "name": "Virulent Accord",
+            "name": "Giftpakt",
             "description": {
-                "general": "Born of pact and poison, the first flames are always lit by friends turned foes."
+                "general": "Aus einem Pakt und einem Gift entstanden, werden die ersten Flammen immer von Freunden entzündet, die zu Feinden geworden sind. "
             }
         },
         "heavenlyThunder": {
-            "name": "Heavenly Thunder",
+            "name": "Himmlischer Donner",
             "description": {
-                "general": "When Tianlei speaks, the sea listens, the storm obeys."
+                "general": "Wenn Tianlei spricht, hört das Meer zu und der Sturm gehorcht."
             }
         },
         "theRotmouth": {
-            "name": "The Rotmouth",
+            "name": "Das Maul der Fäulnis",
             "description": {
-                "general": "Each bark is a pestilent cough from the Plague King's maw."
+                "general": "Jeder Angriff ist ein versuchtes Husten aus dem Rachen des Seuchenkönigs."
             }
         },
         "blightbringer": {
-            "name": "Blightbringer",
+            "name": "Pesthauch-Bringer",
             "description": {
-                "general": "Each charge is said to carry a volatile mix from the bilge-forges of La Peste himself."
+                "general": "Jede Ladung soll eine explosive Mischung aus den Bilgenschmieden von La Peste enthalten."
             }
         },
         "theDrownedOne": {
-            "name": "The Drowned One",
+            "name": "Der Ertrunkene",
             "description": {
-                "general": "The Sea People believe its aim is guided by those who were lost at sea."
+                "general": "Das Seevolk glaubt, dass sie von jenen gelenkt wird, die auf dem Meer verschollen sind."
             }
         },
         "frostwail": {
-            "name": "Frostwail",
+            "name": "Frostklage",
             "description": {
-                "general": "Some say the screams are from those trapped within the Dark Beyond."
+                "general": "Manche sagen, man höre dann die Schreie jener, die im finsteren Jenseits gefangen sind."
             }
         },
         "sloopOfWarUpgrade": {
-            "name": "Sloop of War Upgrade",
+            "name": "Kampf-Slup Verbesserung",
             "description": {
-                "general": "Ship upgrade for the Sloop of War.",
-                "1": "Upgrades the ship level from 0 to 1.",
-                "2": "Upgrades the ship level from 1 to 2.",
-                "3": "Upgrades the ship level from 2 to 3.",
-                "4": "Upgrades the ship level from 3 to 4.",
-                "5": "Upgrades the ship level from 4 to 5.",
-                "6": "Upgrades the ship level from 5 to 6.",
-                "7": "Upgrades the ship level from 6 to 7."
+                "general": "Schiffsverbesserung für die Kampf-Slup.",
+                "1": "Aufwertung der Verbesserungsstufe von 0 auf 1.",
+                "2": "Aufwertung der Verbesserungsstufe von 1 auf 2.",
+                "3": "Aufwertung der Verbesserungsstufe von 2 auf 3.",
+                "4": "Aufwertung der Verbesserungsstufe von 3 auf 4",
+                "5": "Aufwertung der Verbesserungsstufe von 4 auf 5.",
+                "6": "Aufwertung der Verbesserungsstufe von 5 auf 6.",
+                "7": "Aufwertung der Verbesserungsstufe von 6 auf 7."
             }
         },
         "ascendedRequiemOfTheLostEventCache": {
-            "name": "Ascended Event Cache (Requiem of the Lost)",
+            "name": "\"Aufgestiegen\"-Eventlager (Schnitter der Verlorenen)",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "Enthält eine aufgestiegene Event-Waffe."
             }
         },
         "ascendedTheDrownedOneChest": {
-            "name": "Ascended The Drowned One Chest",
+            "name": "Aufgestiegene Der Ertrunkene-Truhe ",
             "description": {
-                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+                "general": "Eine verzierte Truhe mit unbekannten Schätzen. Angeblich hört man hin und wieder ein Weinen aus der Truhe."
             }
         },
         "exoticArmorAscendedCache": {
-            "name": "Exotic Armor Ascended Cache",
+            "name": "Exotische Panzerung Aufstiegsbehälter",
             "description": {
-                "general": "A collection of Exotic Armor that will be ascended upon opening"
+                "general": "Eine Sammlung von Exotischer Panzerung, die beim Öffnen aufsteigen. "
             }
         },
         "hauntedReapersCache": {
-            "name": "Haunted Reaper's Cache",
+            "name": "Heimgesuchtes Schnitterversteck",
             "description": {
-                "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
+                "general": "Eine verzierte Truhe mit unbekannten Schätzen. Angeblich hört man hin und wieder ein Weinen aus der Truhe."
             }
         },
         "gildedProtectorChest": {
-            "name": "Gilded Protector Chest",
+            "name": "Vergoldete Truhe des Beschützers",
             "description": {
-                "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+                "general": "Eine Truhe mit aufgestiegener Panzerung. Ein Segen für jene, die tödliche Monster aus der Tiefe jagen."
             }
         },
         "slayersChest": {
-            "name": "Slayer's Chest",
+            "name": "Truhe des Schlächters",
             "description": {
-                "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+                "general": "Eine Truhe, die aufgestiegene Waffen enthalten kann. Ein Segen für jene, die tödliche Monster aus der Tiefe jagen."
             }
         },
         "gildedSlayersChest": {
-            "name": "Gilded Slayer's Chest",
+            "name": "Vergoldete Truhe des Schlächters",
             "description": {
-                "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+                "general": "Eine Truhe mit aufgestiegenen Waffen. Ein Segen für jemanden, der tödliche Monster aus der Tiefe jagt."
             }
         },
         "laPestesLockerMythic": {
-            "name": "La Peste's Locker (Mythic)",
+            "name": "La Pestes Truhe (Mythisch)",
             "description": {
-                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+                "general": "Welche Belohnungen könnten dich darin erwarten, außer Freunde, Pestilenz oder beidem?"
             }
         },
         "emeraldSkullTalisman": {
-            "name": "Emerald Skull Talisman",
+            "name": "Smaragdschädel-Talisman",
             "description": {
-                "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+                "general": "Ein in den Tiefen Afrikas gefundener Smaragd, von Ungwana-Kunsthandwerkern zu einem vorzüglichen Juwel geformt. Man glaubt, es hilft den Verfluchten und lindert den Schmerz der Fäulnis."
             }
         },
         "eerieRing": {

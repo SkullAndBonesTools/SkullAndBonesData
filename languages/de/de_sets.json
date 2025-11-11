@@ -329,11 +329,11 @@
         "devilsMirth": "Devil's Mirth Set",
         "talonStrike": "Talon Strike Set",
         "swiftTrigger": "Swift Trigger Set",
-        "cardsOfFate": "Cards of Fate Set",
-        "darktideMother": "Darktide Mother Set",
-        "cagedFury": "Caged Fury Set",
+        "cardsOfFate": "Karten des Schicksals Set",
+        "darktideMother": "Dunkelflut-Mutter Set",
+        "cagedFury": "Gefangene Wut Set",
         "creatureOfNight": "Creature of Night Set",
-        "paleMother": "Pale Mother Set",
+        "paleMother": "Blasse Mutter Set",
         "xianYuan": "Xian Yuan Set",
         "plagueReaper": "Plague Reaper Set",
         "nocturnesGrace": "Nocturne's Grace Set",
@@ -372,6 +372,7 @@
         "sinnersGrasp": "Sinner's Grasp Set",
         "theLastHowl": "The Last Howl Set",
         "bloodQueen": "Blood Queen Set",
-        "waveConqueror": "Wave Conqueror Set"
+        "waveConqueror": "Wave Conqueror Set",
+        "coilsOfFate": "Schlingen des Schicksals Set"
     }
 }
