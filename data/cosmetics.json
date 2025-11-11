@@ -28494,5 +28494,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
+    },
+    "coilsOfFate": {
+        "id": "coilsOfFate",
+        "type": "sailsEmblem",
+        "set": "coilsOfFate",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-11",
+        "lastUpdated": "2025-11-11"
+    },
+    "burrowingMadness": {
+        "id": "burrowingMadness",
+        "type": "sailsPattern",
+        "set": "coilsOfFate",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-11",
+        "lastUpdated": "2025-11-11"
+    },
+    "theEternalDuel": {
+        "id": "theEternalDuel",
+        "type": "sailsColor",
+        "set": "coilsOfFate",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-11",
+        "lastUpdated": "2025-11-11"
+    },
+    "fangsOfBetrayal": {
+        "id": "fangsOfBetrayal",
+        "type": "hull",
+        "set": "coilsOfFate",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-11",
+        "lastUpdated": "2025-11-11"
     }
 }

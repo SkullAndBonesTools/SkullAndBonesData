@@ -1490,5 +1490,9 @@
     "waveConqueror": {
         "id": "waveConqueror",
         "type": "ship"
+    },
+    "coilsOfFate": {
+        "id": "coilsOfFate",
+        "type": "ship"
     }
 }
