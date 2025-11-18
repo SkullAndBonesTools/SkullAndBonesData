@@ -10231,19 +10231,27 @@
         "season": "intoTheDragonsWake",
         "weight": 80,
         "gearScore": 20,
-        "blueprint": "williamBlackwoodRotatingStore",
+        "blueprint": ["williamBlackwoodRotatingStore","williamBlackwoodRotatingStoreGutsAndGlory"],
         "obtainable": [
             "dragonsClawGreenChest",
             "williamBlackwoodRotatingStore"
         ],
         "bounty": "flamesOfTheDragon",
         "worldEvent": "flamesOfTheDragon",
-        "required": {},
+        "required": {
+            "magnetiteIngot": 10,
+            "greenheartPlank": 10,
+            "phoenixBeak": 4,
+            "phoenixPinion": 4,
+            "jadePhoenixStatue": 2,
+            "eelSturdyRopes": 2,
+            "silver": 3600
+        },
         "perks": [
             "beamSupports"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-11-15"
     },
     "divineThunder": {
         "id": "divineThunder",
@@ -15387,5 +15395,16 @@
         "type": "quest",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "seaOfKingdomsCosmeticsChest": {
+        "id": "seaOfKingdomsCosmeticsChest",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
     }
 }
