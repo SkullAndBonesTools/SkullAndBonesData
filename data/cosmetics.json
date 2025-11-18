@@ -23041,34 +23041,42 @@
         "id": "creedOfTheLoyal",
         "type": "sailsEmblem",
         "set": "sengokuNights",
+        "event": "gloryAdorned",
+        "season": "ascentIntoChaos",
         "obtainable": ["ubisoftStore","sengokuNightsCosmeticsChest"],
         "dateAdded": "2025-04-29",
-        "lastUpdated": "2025-04-29"
+        "lastUpdated": "2025-11-18"
     },
     "bladesAndShadows": {
         "id": "bladesAndShadows",
         "type": "sailsColor",
         "set": "sengokuNights",
+        "event": "gloryAdorned",
+        "season": "ascentIntoChaos",
         "obtainable": ["ubisoftStore","sengokuNightsCosmeticsChest"],
         "dateAdded": "2025-04-29",
-        "lastUpdated": "2025-04-29"
+        "lastUpdated": "2025-11-18"
     },
     "loneSamurai": {
         "id": "loneSamurai",
         "type": "figureHead",
         "effect": "emissive",
         "set": "sengokuNights",
+        "event": "gloryAdorned",
+        "season": "ascentIntoChaos",
         "obtainable": ["ubisoftStore","sengokuNightsCosmeticsChest"],
         "dateAdded": "2025-04-29",
-        "lastUpdated": "2025-06-14"
+        "lastUpdated": "2025-11-18"
     },
     "standYourGround": {
         "id": "standYourGround",
         "type": "hull",
         "set": "sengokuNights",
+        "event": "gloryAdorned",
+        "season": "ascentIntoChaos",
         "obtainable": ["ubisoftStore","sengokuNightsCosmeticsChest"],
         "dateAdded": "2025-04-29",
-        "lastUpdated": "2025-04-29"
+        "lastUpdated": "2025-11-18"
     },
     "villainsAtHeart": {
         "id": "villainsAtHeart",
@@ -28532,7 +28540,9 @@
         "id": "defendersWatch",
         "type": "sailsEmblem",
         "set": "seaOfKingdoms",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     },
@@ -28541,7 +28551,9 @@
         "type": "sailsColor",
         "effect": "emissive",
         "set": "seaOfKingdoms",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     },
@@ -28549,7 +28561,9 @@
         "id": "aLifeOfChaos",
         "type": "hull",
         "set": "seaOfKingdoms",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     },
@@ -28590,8 +28604,10 @@
         "id": "honorableEnsemble",
         "type": "characterSuit",
         "set": "kingdomsWarrior",
-        "pieces": "",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "pieces": ["neck","torso","waist","forearm","hand","bottom"],
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     },
@@ -28599,7 +28615,9 @@
         "id": "protectorsCrown",
         "type": "headwear",
         "set": "kingdomsWarrior",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     },
@@ -28607,7 +28625,9 @@
         "id": "emperorsFootfall",
         "type": "footwear",
         "set": "kingdomsWarrior",
-        "obtainable": ["ubisoftStore"],
+        "event": "gloryAdorned",
+        "season": "gutsAndGlory",
+        "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
     }
