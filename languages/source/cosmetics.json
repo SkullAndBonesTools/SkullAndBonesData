@@ -19877,6 +19877,48 @@
             "description": {
                 "general": "Treachery shadows you"
             }
+        },
+        "defendersWatch": {
+            "name": "Defender's Watch",
+            "description": {
+                "general": "Never let the Indian Ocean fall"
+            }
+        },
+        "defiantRush": {
+            "name": "Defiant Rush",
+            "description": {
+                "general": "Stake your claim from the very first moment"
+            }
+        },
+        "aLifeOfChaos": {
+            "name": "A Life of Chaos",
+            "description": {
+                "general": "Find the will to fight"
+            }
+        },
+        "masksOfHonor": {
+            "name": "Masks of Honor",
+            "description": {
+                "general": "\"We are but blood, bone and savagery.\""
+            }
+        },
+        "theLongLost": {
+            "name": "The Long Lost",
+            "description": {
+                "general": "\"The dead have no sway, but we may still change fate.\""
+            }
+        },
+        "killingTime": {
+            "name": "Killing Time",
+            "description": {
+                "general": "\"One day, we'll hang, but until then, I'll have my fill.\""
+            }
+        },
+        "wantedNowhere": {
+            "name": "Wanted Nowhere",
+            "description": {
+                "general": "\"None of us has any place in civilized society.\""
+            }
         }
     }
 }

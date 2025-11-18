@@ -28527,5 +28527,63 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-11",
         "lastUpdated": "2025-11-11"
+    },
+    "defendersWatch": {
+        "id": "defendersWatch",
+        "type": "sailsEmblem",
+        "set": "seaOfKingdoms",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "defiantRush": {
+        "id": "defiantRush",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "seaOfKingdoms",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "aLifeOfChaos": {
+        "id": "aLifeOfChaos",
+        "type": "hull",
+        "set": "seaOfKingdoms",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "masksOfHonor": {
+        "id": "masksOfHonor",
+        "type": "sailsEmblem",
+        "set": "theFaceless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "theLongLost": {
+        "id": "theLongLost",
+        "type": "sailsPattern",
+        "set": "theFaceless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "killingTime": {
+        "id": "killingTime",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "theFaceless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "wantedNowhere": {
+        "id": "wantedNowhere",
+        "type": "hull",
+        "set": "theFaceless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
     }
 }

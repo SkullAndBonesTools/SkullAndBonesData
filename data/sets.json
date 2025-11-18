@@ -1494,5 +1494,13 @@
     "coilsOfFate": {
         "id": "coilsOfFate",
         "type": "ship"
+    },
+    "seaOfKingdoms": {
+        "id": "seaOfKingdoms",
+        "type": "ship"
+    },
+    "theFaceless": {
+        "id": "theFaceless",
+        "type": "ship"
     }
 }
