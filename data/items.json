@@ -15395,5 +15395,16 @@
         "type": "quest",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "seaOfKingdomsCosmeticsChest": {
+        "id": "seaOfKingdomsCosmeticsChest",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
     }
 }
