@@ -28585,5 +28585,30 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
+    },
+    "honorableEnsemble": {
+        "id": "honorableEnsemble",
+        "type": "characterSuit",
+        "set": "kingdomsWarrior",
+        "pieces": "",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "protectorsCrown": {
+        "id": "protectorsCrown",
+        "type": "headwear",
+        "set": "kingdomsWarrior",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
+    },
+    "emperorsFootfall": {
+        "id": "emperorsFootfall",
+        "type": "footwear",
+        "set": "kingdomsWarrior",
+        "obtainable": ["ubisoftStore"],
+        "dateAdded": "2025-11-18",
+        "lastUpdated": "2025-11-18"
     }
 }

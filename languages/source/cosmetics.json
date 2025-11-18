@@ -19919,6 +19919,24 @@
             "description": {
                 "general": "\"None of us has any place in civilized society.\""
             }
+        },
+        "honorableEnsemble": {
+            "name": "Honorable Ensemble",
+            "description": {
+                "general": "\"I have found that which is worth fighting for.\""
+            }
+        },
+        "protectorsCrown": {
+            "name": "Protector's Crown",
+            "description": {
+                "general": "You fight for a greater master"
+            }
+        },
+        "emperorsFootfall": {
+            "name": "Emperor's Footfall",
+            "description": {
+                "general": "Each steps rings like drums"
+            }
         }
     }
 }

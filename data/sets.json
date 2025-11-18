@@ -1502,5 +1502,9 @@
     "theFaceless": {
         "id": "theFaceless",
         "type": "ship"
+    },
+    "kingdomsWarrior": {
+        "id": "kingdomsWarrior",
+        "type": "player"
     }
 }
