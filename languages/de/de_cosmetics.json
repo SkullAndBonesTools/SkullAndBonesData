@@ -12751,9 +12751,9 @@
             }
         },
         "pierceTheVeil": {
-            "name": "Pierce the Veil",
+            "name": "Schleierbrecher",
             "description": {
-                "general": "At times, the ship seems to serve the will of another"
+                "general": "Manchmal scheint das Schiff dem Willen eines anderen zu folgen."
             }
         },
         "wintertide": {
@@ -15241,45 +15241,45 @@
             }
         },
         "deadlyHuntress": {
-            "name": "Deadly Huntress",
+            "name": "Tödliche Jägerin",
             "description": {
-                "general": "\"She is our fire, our fury, our desire.\""
+                "general": "\"Sie ist unser Feuer, unsere Wut, unser Verlangen.\""
             }
         },
         "everyShot": {
-            "name": "Every Shot",
+            "name": "Jeder Schuss",
             "description": {
-                "general": "One never tires of the thrill of the hunt"
+                "general": "Die Lust am Jagen währt ewig."
             }
         },
         "mauveMedley": {
-            "name": "Mauve Medley",
+            "name": "Malvenfarbenes Medley",
             "description": {
-                "general": "Like the skies and heavens at day's end"
+                "general": "Wie der Himmel am Ende eines Tages."
             }
         },
         "stalwartMaiden": {
-            "name": "Stalwart Maiden",
+            "name": "Unbeugsame Jungfer",
             "description": {
-                "general": "Firm in purpose, fearless at heart"
+                "general": "Entschlossen im Vorgehen, furchtlos im Herzen."
             }
         },
         "noLastWords": {
-            "name": "No Last Words",
+            "name": "Keine letzten Worte",
             "description": {
-                "general": "In dire moments, one cannot hesitate"
+                "general": "In fatalen Augenblicken darf man nicht zögern."
             }
         },
         "seasProwess": {
-            "name": "Sea's Prowess",
+            "name": "Geschick der See",
             "description": {
-                "general": "A might to cleave oceans"
+                "general": "Eine Macht, die Ozeane spaltet."
             }
         },
         "regalRise": {
-            "name": "Regal Rise",
+            "name": "Königlicher Aufstieg",
             "description": {
-                "general": "Our legacy is our pride"
+                "general": "Unser Vermächtnis ist unser Stolz."
             }
         },
         "spearOfWar": {
@@ -15525,7 +15525,7 @@
         "atsushi": {
             "name": "Atsushi",
             "description": {
-                "general": "Beast beneath the moonlight, a purring babe in your lap"
+                "general": "Bestie im Mondlicht, ein schnurrendes Kätzchen auf deinem Schoß."
             }
         },
         "sunkenSouls": {
@@ -15571,135 +15571,135 @@
             }
         },
         "theLionsSash": {
-            "name": "The Lion's Sash",
+            "name": "Die Löwenschärpe",
             "description": {
-                "general": "\"The mistress of the sea bows only to might.\""
+                "general": "\"Die Herrin des Meeres beugt sich nur der Stärke.\""
             }
         },
         "ascendedCuffs": {
-            "name": "Ascended Cuffs",
+            "name": "Aufgestiegene Manschetten",
             "description": {
-                "general": "\"The depths may hold power, but it is our hand that wields it above.\""
+                "general": "\"Den Tiefen mag Macht innewohnen, aber es ist deine Hand, die diese Macht über den Wellen trägt.\""
             }
         },
         "vanKroonsGaze": {
-            "name": "Van Kroon's Gaze",
+            "name": "Van Kroons Blick",
             "description": {
-                "general": "\"I see both the horizon and the folly of those who would tame it.\""
+                "general": "\"Ich sehe den Horizont und die Torheit jener, die ihn zu zähmen suchen.\""
             }
         },
         "admiraltysResolve": {
-            "name": "Admiralty's Resolve",
+            "name": "Entschlossenheit der Admiralität",
             "description": {
-                "general": "\"It's a symbol -- for others to follow or defy. You shall decide.\""
+                "general": "\"Dies ist ein Symbol: andere können ihm folgen oder es verachten. Deine Entscheidung.\""
             }
         },
         "fleetBreeches": {
-            "name": "Fleet Breeches",
+            "name": "Flottenhose",
             "description": {
-                "general": "\"We may falter on land, but we shall still march forward with the tide.\""
+                "general": "\"An Land mögen wir straucheln, aber dennoch marschieren wir voran mit der Flut.\""
             }
         },
         "empiresFootfall": {
-            "name": "Empire's Footfall",
+            "name": "Schritte des Reichs",
             "description": {
-                "general": "\"Deck and courts -- both are battlefields in their own right.\""
+                "general": "\"Schiffsdecks und königliche Höfe; beide sind auf ihre Weise ein Schlachtfeld.\""
             }
         },
         "commandersAegis": {
-            "name": "Commander's Aegis",
+            "name": "Ägide des Kommandanten",
             "description": {
-                "general": "\"We bear the scars of both cannonfire and those lost to it.\""
+                "general": "\"Wir tragen die Narben des Kanonenfeuers und jener, die ihm erlegen sind.\""
             }
         },
         "burningConviction": {
-            "name": "Burning Conviction",
+            "name": "Brennende Überzeugung",
             "description": {
-                "general": "One must follow their own beliefs"
+                "general": "Mann muss seinem eigenen Glauben folgen."
             }
         },
         "temptationsPull": {
-            "name": "Temptation's Pull",
+            "name": "Macht der Verlockung",
             "description": {
-                "general": "You have decided. You will find your own way."
+                "general": "Du hast entschieden. Du wirst deinen eigenen Weg finden."
             }
         },
         "onceHonored": {
-            "name": "Once Honored",
+            "name": "Einst ehrbar",
             "description": {
-                "general": "From noble to scoundrel"
+                "general": "Vom Adligen zum Halunken."
             }
         },
         "currentsOfDespair": {
-            "name": "Currents of Despair",
+            "name": "Wogen der Verzweiflung",
             "description": {
-                "general": "No more hope, no more dreams"
+                "general": "Keine Hoffnung mehr, keine Träume."
             }
         },
         "grimwave": {
-            "name": "Grimwave",
+            "name": "Grimmwelle",
             "description": {
-                "general": "This world corrupts all"
+                "general": "Diese Welt korrumpiert jeden."
             }
         },
         "flamesOfTruth": {
-            "name": "Flames of Truth",
+            "name": "Flammen der Wahrheit",
             "description": {
-                "general": "You have seen behind the veil"
+                "general": "Du hast hinter den Schleier geschaut."
             }
         },
         "lionHearted": {
-            "name": "Lion-Hearted",
+            "name": "Herz des Löwen",
             "description": {
-                "general": "Fight for your own ambitions"
+                "general": "Kämpfe für deine eigenen Ambitionen."
             }
         },
         "arrestingEvil": {
-            "name": "Arresting Evil",
+            "name": "Grotesker Schlaf",
             "description": {
-                "general": "Deeds so terrible, yet one cannot turn their gaze away"
+                "general": "Nur eine Frage der Zeit, bis dein Blut hochkocht."
             }
         },
         "baseInstincts": {
-            "name": "Base Instincts",
+            "name": "Einfachste Instinkte",
             "description": {
-                "general": "\"Wild and wicked is all I will ever be.\""
+                "general": "„Wild und Böse ist alles, was ich je sein werde.“"
             }
         },
         "jaggedBows": {
-            "name": "Jagged Bows",
+            "name": "Gezackte Bögen",
             "description": {
-                "general": "\"Spear them with your shots!\""
+                "general": "Spießt sie auf mit euren Schüssen!"
             }
         },
         "theGrotesque": {
-            "name": "The Grotesque",
+            "name": "Das Groteske",
             "description": {
-                "general": "Specters swarm from the maw of the forsaken"
+                "general": "Geister schwärmen aus dem Schlund der Verlorenen."
             }
         },
         "grotesqueSlumber": {
-            "name": "Grotesque Slumber",
+            "name": "Grotesker Schlaf",
             "description": {
-                "general": "\"Just a matter of time before your blood rises\""
+                "general": "Nur eine Frage der Zeit, bis dein Blut hochkocht."
             }
         },
         "grotesque": {
-            "name": "Grotesque",
+            "name": "Grotesk",
             "description": {
-                "general": "Better to embrace your hideous nature"
+                "general": "Es ist besser, man stellt sich seiner grauenhaften Natur."
             }
         },
         "deviantLegend": {
-            "name": "Deviant Legend",
+            "name": "Abartige Legende",
             "description": {
-                "general": "They speak your name with fear and revulsion"
+                "general": "Sie nennen deinen Namen mit Angst und Abscheu."
             }
         },
         "hellsBeacon": {
-            "name": "Hell's Beacon",
+            "name": "Leuchtfeuer der Hölle",
             "description": {
-                "general": "\"Am I the only one who sees that glow?\""
+                "general": "\"Sieht außer mir niemand dieses Leuchten?\""
             }
         },
         "likeClockwork": {
@@ -15763,39 +15763,39 @@
             }
         },
         "siltAndSteel": {
-            "name": "Silt and Steel",
+            "name": "Salz und Stahl",
             "description": {
-                "general": "Countless atrocities have sulled your soul"
+                "general": "Zahllose Gräueltaten haben deine Seele beschmutzt."
             }
         },
         "awakenedHorror": {
-            "name": "Awakened Horror",
+            "name": "Erweckter Schrecken",
             "description": {
-                "general": "\"Do you regret your actions now, you pathetic dogs?\""
+                "general": "\"Bereut Ihr eure Taten nun, Ihr armseligen Hunde?\""
             }
         },
         "shadesOfDespair": {
-            "name": "Shades of Despair",
+            "name": "Facetten der Verzweiflung",
             "description": {
-                "general": "They have no choice but to serve"
+                "general": "Sie haben keine Wahl, sie müssen dienen."
             }
         },
         "piercingDecree": {
-            "name": "Piercing Decree",
+            "name": "Durchdringendes Dekret",
             "description": {
-                "general": "Here, you decide, Captain."
+                "general": "Hier entscheidest du, Käpt'n."
             }
         },
         "callOfTheDepths": {
-            "name": "Call of the Depths",
+            "name": "Der Ruf der Tiefen",
             "description": {
-                "general": "Summon your forced, unravel the unknown"
+                "general": "Rufe deine Truppen und enthülle das Unbekannte."
             }
         },
         "unspokenCode": {
-            "name": "Unspoken Code",
+            "name": "Unausgesprochener Codex",
             "description": {
-                "general": "\"The crew and I are of the same mind.\""
+                "general": "\"Die Mannschaft und ich verstehen und blind.\""
             }
         },
         "quietGloom": {
@@ -15807,19 +15807,19 @@
         "noctivagus": {
             "name": "Noctivagus",
             "description": {
-                "general": "Roam and rove. Rise and reap."
+                "general": "Durchstreife die Welt. Erhebe dich und ernte."
             }
         },
         "boneBonds": {
-            "name": "Bone Bonds",
+            "name": "Knochenbande",
             "description": {
-                "general": "\"Every part of the ship heeds my will.\""
+                "general": "\"Jeder Teil des Schiffes gehorcht meinem Willen.\""
             }
         },
         "deadlyTerms": {
-            "name": "Deadly Terms",
+            "name": "Tödliche Bedingungen",
             "description": {
-                "general": "\"Any who do not follow will be erased.\""
+                "general": "\"Wer nicht folgt, wird ausgelöscht.\""
             }
         },
         "barnacledBrigand": {
@@ -15885,49 +15885,49 @@
         "underwaterBloom": {
             "name": "Unterwasserblüte",
             "description": {
-                "general": "Where all is quiet, and peace is a fallacy"
+                "general": "Wo alles lautlos ist, und er Feind täuscht."
             }
         },
         "waxAndWane": {
-            "name": "Wax and Wane",
+            "name": "Stärker und schwächer werden",
             "description": {
-                "general": "\"Our time will come. For now, we can only prepare.\""
+                "general": "\"Unsere Zeit wird kommen. Im Moment können wir uns nur vorbereiten.\""
             }
         },
         "riddenDeath": {
-            "name": "Ridden Death",
+            "name": "Berittener Tod",
             "description": {
-                "general": "One maniacal killer upon another"
+                "general": "Besessene Mörder unter sich."
             }
         },
         "lowBellied": {
-            "name": "Low Bellied",
+            "name": "Tiefbäuchig",
             "description": {
-                "general": "\"Would that I had a heart, my dear.\""
+                "general": "\"Hätte ich doch nur ein Herz, meine Liebste.\""
             }
         },
         "shearTheWaves": {
-            "name": "Shear the Waves",
+            "name": "Zerklüftete Wellen",
             "description": {
-                "general": "The ship's keel tears the way forward on a bold path"
+                "general": "Der Schiffskiel pflügt sich tapfer voran."
             }
         },
         "sharkRider": {
-            "name": "Shark Rider",
+            "name": "Haireiter",
             "description": {
-                "general": "Even sharks turn tail at the sight of you"
+                "general": "Selbst Haie verziehen sich, wenn sie dich sehen."
             }
         },
         "jabJab": {
-            "name": "Jab Jab",
+            "name": "Mampf Mampf",
             "description": {
-                "general": "If you  run out of biters, you can always grow more"
+                "general": "Wenn dir die Beißer ausgehen, lässt du dir einfach neue wachsen."
             }
         },
         "mawOfDaggers": {
-            "name": "Maw of Daggers",
+            "name": "Dolchbewährter Schlund",
             "description": {
-                "general": "Rend flesh from bone"
+                "general": "Löst das Fleisch von den Knochen."
             }
         },
         "cannoneersCreed": {
@@ -15949,9 +15949,9 @@
             }
         },
         "shatteredWake": {
-            "name": "Shattered Wake",
+            "name": "Zerschmettertes Kielwasser",
             "description": {
-                "general": "A warning to foes of the destruction you bring"
+                "general": "Eine Warnung an die Feine, die zeigt, zu welcher Zerstörung du imstande bist."
             }
         },
         "chainlinkSash": {
@@ -16011,7 +16011,7 @@
         "tejas": {
             "name": "Tejas",
             "description": {
-                "general": "An orphan from a distant land, destined to be a fearsome predator"
+                "general": "Dieses Waisenkind aus fernen Landen wird eines Tages ein furchterregendes Raubtier."
             }
         },
         "shiningApex": {
@@ -16417,9 +16417,9 @@
             }
         },
         "concealedArmor": {
-            "name": "Concealed Armor",
+            "name": "Verstecke Panzerung",
             "description": {
-                "general": "Hides equipped armor on your ship."
+                "general": "Verbirgt die verwendete Panzerung deines Schiffs."
             }
         },
         "covetous": {
@@ -16513,27 +16513,27 @@
             }
         },
         "mutineersFate": {
-            "name": "Mutineer's Fate",
+            "name": "Das Schicksal des Meuterers",
             "description": {
-                "general": "It certainly wasn't pretty"
+                "general": "Es war sicher nicht schön."
             }
         },
         "deathGroans": {
-            "name": "Death Groans",
+            "name": "Todesstöhnen",
             "description": {
-                "general": "A thousand ghosts lurk within"
+                "general": "Tausend Geister lauern im Inneren."
             }
         },
         "endlessExpanse": {
-            "name": "Endless Expanse",
+            "name": "Endlose Weite",
             "description": {
-                "general": "It's enough to drive a seadog mad"
+                "general": "Reicht, um einen Seebären in den Wahnsinn zu treiben."
             }
         },
         "myWordIsLaw": {
-            "name": "My Word is Law",
+            "name": "Mein Wort ist Gesetz",
             "description": {
-                "general": "Errant crew members will be cast to the sharks"
+                "general": "Abtrünnige Besatzungsmitglieder werden den Haien vorgeworfen."
             }
         },
         "voidSprung": {
@@ -16579,45 +16579,45 @@
             }
         },
         "winningHand": {
-            "name": "Winning Hand",
+            "name": "Die Siegeshand",
             "description": {
-                "general": "Cunning, patience, ruthlessness"
+                "general": "Gerissenheit, Geduld, Skrupellosigkeit."
             }
         },
         "fortunesGrin": {
-            "name": "Fortune's Grin",
+            "name": "Glücksgrinsen",
             "description": {
-                "general": "Hideous but said to be all a gambler could ask for"
+                "general": "Grässlich, aber angeblich alles, was sich ein Spieler wünschen kann."
             }
         },
         "foolsGame": {
-            "name": "Fool's Game",
+            "name": "Narrenspiel",
             "description": {
-                "general": "To be a pirate is to gamble through life and death"
+                "general": "Ein Pirat zu sein ist ein Spiel auf Leben und Tod."
             }
         },
         "gambler": {
-            "name": "Gambler",
+            "name": "Zocker",
             "description": {
-                "general": "Always ready to up the ante"
+                "general": "Immer bereit, den Einsatz zu erhöhen."
             }
         },
         "forbiddenRiches": {
-            "name": "Forbidden Riches",
+            "name": "Verbotene Reichtümer",
             "description": {
-                "general": "You may be a scoundrel, but you're far richer for it"
+                "general": "Du bist vielleicht ein Halunke, aber dafür um einiges reicher."
             }
         },
         "favoredOdds": {
-            "name": "Favored Odds",
+            "name": "Gute Chancen",
             "description": {
-                "general": "The greatest gambits are the ones you unravel at sea"
+                "general": "Die besten Spielzüge sind die, die man auf See ausführt."
             }
         },
         "eyeOnThePrizeWheel": {
-            "name": "Eye on the Prize Wheel",
+            "name": "Die Beute im Blick",
             "description": {
-                "general": "Never lose sight of what you're playing for"
+                "general": "Verliere nie aus den Augen, worum du spielst."
             }
         },
         "inTheBeyond": {
@@ -16675,9 +16675,9 @@
             }
         },
         "puddles": {
-            "name": "Puddles",
+            "name": "Pfützen",
             "description": {
-                "general": "Don't be fooled by his girth; this buccaneer guards his splash zone fiercely"
+                "general": "Lass dich nicht von seinem Umfang täuschen – dieser Seeräuber verteidigt sein Gebiet mit aller Kraft."
             }
         },
         "drownedSeadogs": {
@@ -16687,9 +16687,9 @@
             }
         },
         "littlePeach": {
-            "name": "Little Peach",
+            "name": "Kleiner Pfirsich",
             "description": {
-                "general": "Cute, round, and has a hell of a bite"
+                "general": "Süß, rund und mit einem höllischen Gebiss."
             }
         },
         "beltOfTheForsaken": {
@@ -16903,21 +16903,21 @@
             }
         },
         "seekAndDestroy": {
-            "name": "Seek and Destroy",
+            "name": "Suchen und vernichten",
             "description": {
-                "general": "\"Swallow this, scurvy seadogs!\""
+                "general": "\"Schluckt das, ihr elenden Schiffsratten!\""
             }
         },
         "rendAndEnd": {
-            "name": "Rend and End",
+            "name": "Zerfleischen und vernichten",
             "description": {
-                "general": "The chaos of the sea should be embraced"
+                "general": "Das Chaos auf See sollte man akzeptieren."
             }
         },
         "jawsOfTheUntamed": {
-            "name": "Jaws of the Untamed",
+            "name": "Schlund der Ungezähmten",
             "description": {
-                "general": "\"We'll give them something beastly, won't we?\""
+                "general": "\"Wir geben Ihnen etwas Bestialisches, was?\""
             }
         },
         "shaolinSentinel": {
@@ -17401,15 +17401,15 @@
             }
         },
         "ruckus": {
-            "name": "Ruckus",
+            "name": "Rabatz",
             "description": {
-                "general": "Known for getting into misadventures"
+                "general": "Bekannt dafür, in Missgeschicke zu geraten."
             }
         },
         "moony": {
             "name": "Moony",
             "description": {
-                "general": "Loves leaping out from the shadows to scare the crew"
+                "general": "Liebt es, aus dem Schatten zu springen, um die Besatzung zu erschrecken."
             }
         },
         "soarAndSmite": {
@@ -17839,15 +17839,15 @@
             }
         },
         "onTheDeck": {
-            "name": "On the Deck",
+            "name": "Auf Deck",
             "description": {
-                "general": "Gather for plunder, mateys"
+                "general": "Wir holen uns die Beute, Leute!"
             }
         },
         "crossedDeck": {
-            "name": "Crossed Deck",
+            "name": "Gekreuztes Deck",
             "description": {
-                "general": "Here there be monsters"
+                "general": "Hier gibt es Ungeheuer."
             }
         },
         "centerOfMadness": {
@@ -18001,9 +18001,9 @@
             }
         },
         "soulSpurned": {
-            "name": "Soul Spurned",
+            "name": "Verstoßene Seele",
             "description": {
-                "general": "The spirits would drag you to hell if they could"
+                "general": "Die Geister würden dich in die Hölle zerren, wenn sie könnten."
             }
         },
         "tali": {
@@ -18379,57 +18379,57 @@
             }
         },
         "plagueOmen": {
-            "name": "Plague Omen",
+            "name": "Seuchenomen",
             "description": {
-                "general": "A harbinger of the end"
+                "general": "Ein Vorbote des Endes."
             }
         },
         "flowingIchor": {
-            "name": "Flowing Ichor",
+            "name": "Fließendes Sekret",
             "description": {
-                "general": "The blood of gods is said to be deadly to man"
+                "general": "Das Blut der Götter soll für Menschen tödlich sein."
             }
         },
         "deathlyMiasma": {
-            "name": "Deathly Miasma",
+            "name": "Tödlicher Dunst",
             "description": {
-                "general": "Wickedness spreads and clouds all"
+                "general": "Das Böse breitet sich aus wie Gewitterwolken."
             }
         },
         "blightborn": {
-            "name": "Blightborn",
+            "name": "Verderbnisgeboren",
             "description": {
-                "general": "Others shun your every step"
+                "general": "Andere meiden jeden deiner Schritte."
             }
         },
         "crimsonHerald": {
-            "name": "Crimson Herald",
+            "name": "Blutroter Bote",
             "description": {
-                "general": "You thrive in the thick of despair"
+                "general": "Du gedeihst inmitten der Verzweiflung."
             }
         },
         "pestilentShadow": {
-            "name": "Pestilent Shadow",
+            "name": "Schatten der Pestilenz",
             "description": {
-                "general": "Ill winds arrive with you"
+                "general": "Üble Miasmen folgen deinen Winden."
             }
         },
         "seaScourge": {
-            "name": "Sea Scourge",
+            "name": "Plage der See",
             "description": {
-                "general": "Countless corpses drift in your wake"
+                "general": "Unzählige Leichen treiben in deinem Kielwasser."
             }
         },
         "noxdoctor": {
-            "name": "Noxdoctor",
+            "name": "Noxdoktor",
             "description": {
-                "general": "All in your midst are marked"
+                "general": "Alle in deiner Mitte sind gekennzeichnet."
             }
         },
         "hollowMask": {
-            "name": "Hollow Mask",
+            "name": "Hohle Maske",
             "description": {
-                "general": "Rumored to make one ill if near it for too long"
+                "general": "Angeblich wird man krank, wenn man sich zu lange in Ihrer Nähe aufhält."
             }
         },
         "vileCure": {
@@ -18607,33 +18607,33 @@
             }
         },
         "livingSun": {
-            "name": "Living Sun",
+            "name": "Lebendige Sonne",
             "description": {
-                "general": "A tribute to the crown and a famed empire"
+                "general": "Eine Hommage an die Krone und ein berühmtes Imperium."
             }
         },
         "blackDiamond": {
-            "name": "Black Diamond",
+            "name": "Schwarzer Diamant",
             "description": {
-                "general": "\"No sea-scum could ever break our will.\""
+                "general": "\"Kein Abschaum der Meere kann unseren Willen brechen.\""
             }
         },
         "momentousStride": {
-            "name": "Momentous Stride",
+            "name": "Bedeutender Schritt",
             "description": {
-                "general": "\"Fall in line, and pledge your lives.\""
+                "general": "\"In Reih und Glied, und schwört euer Leben.\""
             }
         },
         "gildedEpic": {
-            "name": "Gilded Epic",
+            "name": "Vergoldetes Epos",
             "description": {
-                "general": "\"Long after we are gone, our tale will live on.\""
+                "general": "\"Lange nach unserem Tod wird unsere Legende weiterleben.\""
             }
         },
         "corsaire": {
             "name": "Corsaire",
             "description": {
-                "general": "\"May their blood sweeten our wine.\""
+                "general": "\"Möge Ihr Blut unseren Wein versüßen.\""
             }
         },
         "mayhemBringer": {
@@ -18643,57 +18643,57 @@
             }
         },
         "scorpionOfTheSea": {
-            "name": "Scorpion of The Sea",
+            "name": "Skorpion des Meeres",
             "description": {
-                "general": "Built to fight and dominate"
+                "general": "Gebaut zum Kämpfen und Herrschen."
             }
         },
         "drownedHopes": {
-            "name": "Drowned Hopes",
+            "name": "Erdrosselte Hoffnungen",
             "description": {
-                "general": "To the bottom, they go"
+                "general": "Ab zum Meeresgrund."
             }
         },
         "outsailDeath": {
-            "name": "Outsail Death",
+            "name": "Dem Tod entkommen",
             "description": {
-                "general": "May your luck run as long as the sea is wide"
+                "general": "Möge euer Glück so weit reichen, wie das Meer breit ist."
             }
         },
         "crackTheWhip": {
-            "name": "Crack the Whip",
+            "name": "Die Peitsche schwingen",
             "description": {
-                "general": "For a captain who never loses their target"
+                "general": "Für einen Kapitän, der niemals sein Ziel aus den Augen verliert."
             }
         },
         "deadmansDrift": {
-            "name": "Deadman's Drift",
+            "name": "Drift des toten Mannes",
             "description": {
-                "general": "\"As long as we breathe, we hunt and fight.\""
+                "general": "\"Solange wir am Leben sind, jagen und kämpfen wir hier.\""
             }
         },
         "adventuresAfoot": {
-            "name": "Adventures Afoot",
+            "name": "Das Abenteuer beginnt",
             "description": {
-                "general": "\"To the seas we go, lads!\""
+                "general": "\"Hinaus auf See, Männer!\""
             }
         },
         "nimblePhantom": {
-            "name": "Nimble Phantom",
+            "name": "Flinkes Phantom",
             "description": {
-                "general": "\"Know when you've been outmatched.\""
+                "general": "\"Seid Euch bewusst, wann Ihr unterlegen seid.\""
             }
         },
         "flintfang": {
-            "name": "Flintfang",
+            "name": "Feuersteinzahn",
             "description": {
-                "general": "Fight fiercely, and look dashing while you're at it"
+                "general": "Kämpft erbittert und seht dabei gut aus."
             }
         },
         "allEyes": {
-            "name": "All Eyes",
+            "name": "Augen offen",
             "description": {
-                "general": "\"Always watch and plan before you act.\""
+                "general": "\"Immer wachsam sein und planen, bevor man etwas tut.\""
             }
         },
         "intricatelyYours": {
@@ -18739,69 +18739,69 @@
             }
         },
         "allConsuming": {
-            "name": "All Consuming",
+            "name": "Überwältigung",
             "description": {
-                "general": "With fire and fury, you seize all that you desire"
+                "general": "Mit Feuer und Wut ergreift Ihr alles, was Ihr begehrt."
             }
         },
         "devourTheSea": {
-            "name": "Devour the Sea",
+            "name": "Verschlingt das Meer",
             "description": {
-                "general": "More than enough for the taking"
+                "general": "Mehr als genug."
             }
         },
         "perfectCatch": {
-            "name": "Perfect Catch",
+            "name": "Perfekter Fang",
             "description": {
-                "general": "\"Reel em' in, mateys!\""
+                "general": "\"Einholen, Männer!\""
             }
         },
         "digInDiveIn": {
-            "name": "Dig In, Dive In",
+            "name": "Reinhauen und abtauchen",
             "description": {
-                "general": "Enjoy your spoils to the last"
+                "general": "Genießt Eure Beute bis zum letzten Tropfen."
             }
         },
         "takeUsHome": {
-            "name": "Take Us Home",
+            "name": "Bringt uns heim",
             "description": {
-                "general": "\"For we have lost our way.\""
+                "general": "\"Denn wir sind verloren.\""
             }
         },
         "seepsAndFlows": {
-            "name": "Seeps and Flows",
+            "name": "Sickern und Fließen",
             "description": {
-                "general": "\"Blood binds us all, does it not?\""
+                "general": "\"Blut verbindet uns alle, nicht wahr?\""
             }
         },
         "tomorrowsSorrow": {
-            "name": "Tomorrow's Sorrow",
+            "name": "Das Leiden von morgen",
             "description": {
-                "general": "All the world's treasures bring no joy or peace"
+                "general": "Alle Schätze der Welt bringen weder Freude noch Frieden."
             }
         },
         "endlessLament": {
-            "name": "Endless Lament",
+            "name": "Endlose Klage",
             "description": {
-                "general": "Never stop, not even with hands worn to the bone"
+                "general": "Gebt niemals auf, auch wenn Eure Hände bis auf die Knochen abgenutzt sind."
             }
         },
         "melodicGrasp": {
-            "name": "Melodic Grasp",
+            "name": "Melodischer Griff",
             "description": {
-                "general": "Enchant your enemies into doing your bidding"
+                "general": "Verzaubert Eure Gegner, damit sie Euren Befehlen folgen."
             }
         },
         "deathSong": {
-            "name": "Death Song",
+            "name": "Lied des Todes",
             "description": {
-                "general": "\"It seizes the mind and stops the heart.\""
+                "general": "\"Es fesselt den Verstand und lässt das Herz stillstehen.\""
             }
         },
         "burdenOfSong": {
-            "name": "Burden of Song",
+            "name": "Das Joch des Liedes",
             "description": {
-                "general": "\"We are fools to think we orchestrate our own fate.\""
+                "general": "\"Es ist närrisch zu denken, wir wären die Herren unseres Schicksals.\""
             }
         },
         "chaosBard": {
@@ -18823,111 +18823,111 @@
             }
         },
         "silentAsTheGrave": {
-            "name": "Silent as the Grave",
+            "name": "Totenstille",
             "description": {
-                "general": "Something sinister waits in the shadows"
+                "general": "Etwas Ungeheuerliches lauert im Schatten."
             }
         },
         "burningBloodlust": {
-            "name": "Burning Bloodlust",
+            "name": "Brennender Blutrausch",
             "description": {
-                "general": "Set the Indian Ocean aflame"
+                "general": "Entzünde den Indischen Ozean."
             }
         },
         "theSunkenBeyond": {
-            "name": "The Sunken Beyond",
+            "name": "Das versunkene Jenseits.",
             "description": {
-                "general": "A reaper emerges from the unknowable depths"
+                "general": "Ein Schnitter taucht aus den unergründlichen Tiefen auf."
             }
         },
         "glowInTheNight": {
-            "name": "Glow in the Night",
+            "name": "Ein Licht in der Nacht",
             "description": {
-                "general": "An eerie beacon for the condemned"
+                "general": "Ein unheimliches Leuchtfeuer für die Verurteilten."
             }
         },
         "plumeParade": {
-            "name": "Plume Parade",
+            "name": "Federparade",
             "description": {
-                "general": "Choking smoke blots out sea and sky"
+                "general": "Erdrückender Rauch verdeckt Meer und Himmel."
             }
         },
         "charredBlood": {
-            "name": "Charred Blood",
+            "name": "Verkohltes Blut",
             "description": {
-                "general": "You will never forget how it sticks and clings"
+                "general": "Ihr werdet nie vergessen, wie es an euch klebt."
             }
         },
         "graveOfAshes": {
-            "name": "Grave of Ashes",
+            "name": "Grab aus Asche",
             "description": {
-                "general": "Corpses torched, bones lost"
+                "general": "Leichen verkohlt, Knochen verloren."
             }
         },
         "mutinousFire": {
-            "name": "Mutinous Fire",
+            "name": "Meuterndes Feuer",
             "description": {
-                "general": "You may be a traitor, but you are your own pirate"
+                "general": "Ihr mögt zwar ein Verräter sein, aber Ihr seid Euch selbst treu."
             }
         },
         "cinderking": {
-            "name": "Cinderking",
+            "name": "Aschenkönig",
             "description": {
-                "general": "Your fury could scorch the heavens"
+                "general": "Eure Wut könnte den Himmel versengen."
             }
         },
         "fieryPits": {
-            "name": "Fiery Pits",
+            "name": "Feurige Gruben",
             "description": {
-                "general": "The smell of blood and sulfur assault the senses"
+                "general": "Der Geruch von Blut und Schwefel steigt einem in die Nase."
             }
         },
         "cursedWanderer": {
-            "name": "Cursed Wanderer",
+            "name": "Verfluchter Wanderer",
             "description": {
-                "general": "You shall reap till the end of days"
+                "general": "Ihr werdet bis zum Ende Eurer Tage die Früchte ernten."
             }
         },
         "wrathOfMoons": {
-            "name": "Wrath of Moons",
+            "name": "Zorn der Monde",
             "description": {
-                "general": "\"Time to say goodnight, mateys.\""
+                "general": "\"Träumt schön, Freundchen.\""
             }
         },
         "hallowed": {
-            "name": "Hallowed",
+            "name": "Geweiht",
             "description": {
-                "general": "From the ship to its captain, all are damned"
+                "general": "Alle sind verflucht – vom Schiff bis zum Käpitän."
             }
         },
         "underseaCrossing": {
-            "name": "Undersea Crossing",
+            "name": "Unterwasserfahrt",
             "description": {
-                "general": "An arduous journey that all seafarers must make"
+                "general": "Eine beschwerliche Reise, die alle Seeleute auf sich nehmen müssen."
             }
         },
         "shroudToRegret": {
-            "name": "Shroud to Regret",
+            "name": "Schleier der Reue",
             "description": {
-                "general": "How long for it all to end"
+                "general": "Wie sehr Ihr Euch danach sehnt, dass alles vorbei ist."
             }
         },
         "stabTheDeep": {
-            "name": "Stab the Deep",
+            "name": "Stich in die Tiefe",
             "description": {
-                "general": "The seas attract chaos, as do you"
+                "general": "Das Meer zieht Chaos an sich, so wie Ihr."
             }
         },
         "hallowedFliers": {
-            "name": "Hallowed Fliers",
+            "name": "Geweihte Flieger",
             "description": {
-                "general": "The skies are filled with dark omens"
+                "general": "Der Himmel ist voller dunkler Vorzeichen"
             }
         },
         "helloDeath": {
-            "name": "Hello, Death",
+            "name": "Hallo, Tod",
             "description": {
-                "general": "The abyss awaits, its hunger immense"
+                "general": "Der Abgrund wartet – sein Hunger unermesslich"
             }
         },
         "deadMansCap": {
@@ -18985,99 +18985,99 @@
             }
         },
         "eveOfTheEnd": {
-            "name": "Eve of the End",
+            "name": "Der letzte Abend",
             "description": {
-                "general": "Feels as if a shroud of death clings to the ship"
+                "general": "Es fühlt sich an, als ob der Schleier des Todes an unserem Schiff hängt."
             }
         },
         "lostAndBound": {
-            "name": "Lost and Bound",
+            "name": "Verloren und gebunden",
             "description": {
-                "general": "Let the dead have their fun"
+                "general": "Lasst die Toten ihren Spaß haben."
             }
         },
         "pumpkinbeak": {
-            "name": "Pumpkinbeak",
+            "name": "Kürbisschnabel",
             "description": {
-                "general": "Wants both tricks and treats"
+                "general": "Mancherorts auch Kürbo genannt!"
             }
         },
         "cursedGrail": {
-            "name": "Cursed Grail",
+            "name": "Verfluchter Gral",
             "description": {
-                "general": "Reap enough, and perhaps redemption will be yours"
+                "general": "Erntet genug, und vielleicht werdet Ihr erlöst werden."
             }
         },
         "thornyTales": {
-            "name": "Thorny Tales",
+            "name": "Dornige Geschichten",
             "description": {
-                "general": "\"The stories are indeed true.\""
+                "general": "\"Die Geschichten sind tatsächlich wahr.\""
             }
         },
         "bloodAndGore": {
-            "name": "Blood and Gore",
+            "name": "Blut und Gewalt",
             "description": {
-                "general": "Death is sweet"
+                "general": "Süßer Tod"
             }
         },
         "deathSwing": {
-            "name": "Death Swing",
+            "name": "Todesschwingen",
             "description": {
-                "general": "Done blow, numerous souls"
+                "general": "Ein Schlag, unzählige Seelen."
             }
         },
         "deathSentence": {
-            "name": "Death Sentence",
+            "name": "Todesstrafe",
             "description": {
-                "general": "You are a weapon, but for whom?"
+                "general": "Ihr seid eine Waffe, aber für wen?"
             }
         },
         "killingCrown": {
-            "name": "Killing Crown",
+            "name": "Todeskrone",
             "description": {
-                "general": "Are you truly master of the ship?"
+                "general": "Seid Ihr wirklich Herr des Schiffes?"
             }
         },
         "lockdown": {
-            "name": "Lockdown",
+            "name": "Gefängnis",
             "description": {
-                "general": "You and the crew are forever bound"
+                "general": "Ihr und die Besatzung seid für immer gebunden."
             }
         },
         "stiflingShadows": {
-            "name": "Stifling Shadows",
+            "name": "Erstickende Schatten",
             "description": {
-                "general": "Darkness has taken hold of all you possess"
+                "general": "Die Dunkelheit hat Eure Habseligkeiten in den Bann gezogen."
             }
         },
         "fogbound": {
-            "name": "Fogbound",
+            "name": "Schattenreise",
             "description": {
-                "general": "\"What in hell are we sailing through?\""
+                "general": "\"Wo zum Teufel segeln wir durch?\""
             }
         },
         "theSeveringHand": {
-            "name": "The Severing Hand",
+            "name": "Die trennende Hand",
             "description": {
-                "general": "The life you once had eludes you"
+                "general": "Das Leben, das Ihr einst hattet, entzieht sich Euch."
             }
         },
         "mawOfStillness": {
-            "name": "Maw of Stillness",
+            "name": "Schlund der Einsamkeit",
             "description": {
-                "general": "Reminds one of the eeriesness of the depths"
+                "general": "Erinnert an die schaurigen Tiefen"
             }
         },
         "mawOfSilence": {
-            "name": "Maw of Silence",
+            "name": "Schlund des Schweigens",
             "description": {
-                "general": "Echoes with an ancient essence"
+                "general": "Sie hallen mit einer uralten Essenz wieder."
             }
         },
         "theDevilsWindow": {
-            "name": "The Devil's Window",
+            "name": "Das Teufelsfenster",
             "description": {
-                "general": "Care to look inside?"
+                "general": "Wagt Ihr Euch, reinzuschauen?"
             }
         },
         "troubleFindsYou": {
@@ -19093,45 +19093,45 @@
             }
         },
         "burningGrasp": {
-            "name": "Burning Grasp",
+            "name": "Brennender Griff",
             "description": {
-                "general": "Their light is merciless"
+                "general": "Ihr Licht ist gnadenlos."
             }
         },
         "everlastingFate": {
-            "name": "Everlasting Fate",
+            "name": "Ewiges Schicksal",
             "description": {
-                "general": "Condemned by greed"
+                "general": "Von Gier Verurteilt."
             }
         },
         "toTheNines": {
-            "name": "To The Nines",
+            "name": "In Schale geworfen",
             "description": {
-                "general": "Can you cheat your own fate?"
+                "general": "Kann man sein eigenes Schicksal täuschen?"
             }
         },
         "spiritsSheen": {
-            "name": "Spirit's Sheen",
+            "name": "Geisterschimmer",
             "description": {
-                "general": "Breathtaking yet unnerving"
+                "general": "Atemberaubend und dennoch verstörend."
             }
         },
         "sentinelsAboard": {
-            "name": "Sentinels Aboard",
+            "name": "Wächter an Bord",
             "description": {
-                "general": "Eyes hide in the ship's walls"
+                "general": "Augen verbergen sich in den Schiffswänden."
             }
         },
         "goldentide": {
-            "name": "Goldentide",
+            "name": "Goldwelle",
             "description": {
-                "general": "Melted gold flows like blood and water"
+                "general": "Geschmolzenes Gold fließt wie Blut und Wasser."
             }
         },
         "goldAndGrace": {
-            "name": "Gold and Grace",
+            "name": "Gold und Eleganz",
             "description": {
-                "general": "Every sinner pays the price"
+                "general": "Jeder Sünder zahlt seinen Preis."
             }
         },
         "theWanderer": {
@@ -19149,49 +19149,49 @@
         "diabolus": {
             "name": "Diabolus",
             "description": {
-                "general": "You would rival the devil himself"
+                "general": "Ihr würdet dem Teufel selbst ein Rivale sein."
             }
         },
         "recklessAbandon": {
-            "name": "Reckless Abandon",
+            "name": "Hemmungslose Hingabe",
             "description": {
-                "general": "Sail without fear or remorse"
+                "general": "Segelt ohne Furcht oder Reue."
             }
         },
         "lightsOfHell": {
-            "name": "Lights of Hell",
+            "name": "Höllenlicht",
             "description": {
-                "general": "Said to consume souls"
+                "general": "Man sagt, es verschlingt Seelen."
             }
         },
         "mournfulMirror": {
-            "name": "Mournful Mirror",
+            "name": "Trauerspiegel",
             "description": {
-                "general": "Rage eclipses the tragedies of the past"
+                "general": "Die Wut verfinstert die Tragödien der Vergangenheit."
             }
         },
         "brimstonesCurse": {
-            "name": "Brimstone's Curse",
+            "name": "Der Fluch von Schwefelstein",
             "description": {
-                "general": "Rise from below and conquer all"
+                "general": "Steigt auf und erobert alles."
             }
         },
         "jaggedWindows": {
-            "name": "Jagged Windows",
+            "name": "Zersplitterte Fenster",
             "description": {
-                "general": "Some souls are fractured beyond recognition"
+                "general": "Manche Seelen sind bis zur Unerkennbarkeit zersplittert."
             }
         },
         "demonsRepose": {
-            "name": "Demon's Repose",
+            "name": "Ruhestätte des Dämons",
             "description": {
-                "general": "Wickedness lurks in the shadows and quit"
+                "general": "Das Böse lauert im schweigendem Schatten."
             }
         },
         "brokenSaint": {
-            "name": "Broken Saint",
+            "name": "Gebrochener Heiliger",
             "description": {
-                "general": "Sinners beware"
+                "general": "Sünder, nehmt euch in Acht."
             }
         },
         "justiceWaits": {
@@ -19201,33 +19201,33 @@
             }
         },
         "searingLight": {
-            "name": "Searing Light",
+            "name": "Sengendes Licht",
             "description": {
-                "general": "Judgment is harh but necessary"
+                "general": "Das Urteil ist Hart, aber notwendig."
             }
         },
         "theSeasSplit": {
-            "name": "The Seas Split",
+            "name": "Die Meere spalten sich",
             "description": {
-                "general": "Send your enemies to their next punishment"
+                "general": "Schicke deine Feinde zu Ihrer nächsten Strafe."
             }
         },
         "profaneProphet": {
-            "name": "Profane Prophet",
+            "name": "Profaner Prophet",
             "description": {
-                "general": "Reap for the reckoning"
+                "general": "Reif zum Ernten."
             }
         },
         "ungodlyHalo": {
-            "name": "Ungodly Halo",
+            "name": "Gottloses Halo",
             "description": {
-                "general": "Hardly a blessing to see"
+                "general": "Kaum ein gesegneter Anblick."
             }
         },
         "voicesOfTheWicked": {
-            "name": "Voices of the Wicked",
+            "name": "Stimmen der Bösen",
             "description": {
-                "general": "Guard against their lies and pleas"
+                "general": "Hütet euch vor ihren Lügen und Bitten."
             }
         },
         "jua": {
@@ -19519,9 +19519,9 @@
             }
         },
         "clingingCurse": {
-            "name": "Clinging Curse",
+            "name": "Anklammernder Fluch",
             "description": {
-                "general": "\"Can't be wise to get too close...\""
+                "general": "\"Es ist nicht ratsam, zu nahe heranzugehen ...\""
             }
         },
         "sirensCrest": {
@@ -19879,63 +19879,63 @@
             }
         },
         "defendersWatch": {
-            "name": "Defender's Watch",
+            "name": "Wache des Verteidigers",
             "description": {
-                "general": "Never let the Indian Ocean fall"
+                "general": "Der Indische Ozean darf niemals untergehen."
             }
         },
         "defiantRush": {
-            "name": "Defiant Rush",
+            "name": "Kühner Rausch",
             "description": {
-                "general": "Stake your claim from the very first moment"
+                "general": "Sichert Euren Anspruch von Anfang an"
             }
         },
         "aLifeOfChaos": {
-            "name": "A Life of Chaos",
+            "name": "Ein Leben des Chaos",
             "description": {
-                "general": "Find the will to fight"
+                "general": "Finde den Willen, um zu kämpfen"
             }
         },
         "masksOfHonor": {
-            "name": "Masks of Honor",
+            "name": "Masken der Ehre",
             "description": {
-                "general": "\"We are but blood, bone and savagery.\""
+                "general": "\"Wir sind nichts als Blut, Knochen und Brutalität.\""
             }
         },
         "theLongLost": {
-            "name": "The Long Lost",
+            "name": "Das Lang Vergessene",
             "description": {
-                "general": "\"The dead have no sway, but we may still change fate.\""
+                "general": "\"Die Toten haben keine Macht, aber wir können das Schicksal noch ändern.\""
             }
         },
         "killingTime": {
-            "name": "Killing Time",
+            "name": "Zeit zum Töten",
             "description": {
-                "general": "\"One day, we'll hang, but until then, I'll have my fill.\""
+                "general": "\"Eines Tages werden wir hängen, aber bis dahin werde ich meinen Spaß haben.\""
             }
         },
         "wantedNowhere": {
-            "name": "Wanted Nowhere",
+            "name": "Nirgends erwünscht",
             "description": {
-                "general": "\"None of us has any place in civilized society.\""
+                "general": "\"Niemand von uns gehört in die zivilisierte Gesellschaft.\""
             }
         },
         "honorableEnsemble": {
-            "name": "Honorable Ensemble",
+            "name": "Ehrenvolles Ensemble",
             "description": {
-                "general": "\"I have found that which is worth fighting for.\""
+                "general": "\"Ich hab etwas gefunden, das es wert ist, dafür zu kämpfen.\""
             }
         },
         "protectorsCrown": {
-            "name": "Protector's Crown",
+            "name": "Krone des Beschützers",
             "description": {
-                "general": "You fight for a greater master"
+                "general": "Ihr kämpft für einen größeren Meister."
             }
         },
         "emperorsFootfall": {
-            "name": "Emperor's Footfall",
+            "name": "Des Kaisers Schritte",
             "description": {
-                "general": "Each steps rings like drums"
+                "general": "Jeder Schritt hämmert wie eine Trommel."
             }
         }
     }
