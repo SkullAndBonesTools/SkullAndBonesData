@@ -2922,6 +2922,12 @@
             "description": {
                 "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
             }
+        },
+        "seaOfKingdomsCosmeticsChest": {
+            "name": "Sea of Kingdoms Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
+            }
         }
     }
 }
