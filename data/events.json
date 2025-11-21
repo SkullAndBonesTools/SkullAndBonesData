@@ -17,7 +17,7 @@
     },
     "azureSolstice": {
         "id": "azureSolstice",
-        "seasons": ["shadowsOfTheDeep"]
+        "seasons": ["shadowsOfTheDeep","gutsAndGlory"]
     },
     "enterTheNian": {
         "id": "enterTheNian",
