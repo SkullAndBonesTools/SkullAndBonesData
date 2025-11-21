@@ -28630,5 +28630,25 @@
         "obtainable": ["ubisoftStore","seaOfKingdomsCosmeticsChest"],
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
+    },
+    "frostreaver": {
+        "id": "frostreaver",
+        "type": "nameplate",
+        "set": "wintersBite",
+        "season": "gutsAndGlory",
+        "event": "azureSolstice",
+        "effect": "emissive",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
+    },
+    "voicesInTheVeins": {
+        "id": "voicesInTheVeins",
+        "type": "ornaments",
+        "set": "wintersBite",
+        "season": "gutsAndGlory",
+        "event": "azureSolstice",
+        "effect": "emissive",
+        "dateAdded": "2025-10-21",
+        "lastUpdated": "2025-10-21"
     }
 }
