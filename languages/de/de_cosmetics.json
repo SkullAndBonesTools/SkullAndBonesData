@@ -2941,7 +2941,7 @@
             }
         },
         "ogreKingsTriumph": {
-            "name": "Triumph des Trollkönigs",
+            "name": "Sovereign",
             "description": {
                 "general": "Einen Namen macht man sich durch bedeutsame Taten."
             }
@@ -19936,6 +19936,18 @@
             "name": "Des Kaisers Schritte",
             "description": {
                 "general": "Jeder Schritt hämmert wie eine Trommel."
+            }
+        },
+        "frostreaver": {
+            "name": "Eure Adern sind mit eisiger Rache erfüllt.",
+            "description": {
+                "general": "Frosträuber"
+            }
+        },
+        "voicesInTheVeins": {
+            "name": "Stimmen in den Adern",
+            "description": {
+                "general": "Sie summen und flüstern aus der Tiefe."
             }
         }
     }

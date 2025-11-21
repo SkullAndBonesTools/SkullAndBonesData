@@ -2941,7 +2941,7 @@
             }
         },
         "ogreKingsTriumph": {
-            "name": "Triunfo del Rey Ogro",
+            "name": "Sovereign",
             "description": {
                 "general": "Un nombre se construye con hechos que importan"
             }
@@ -19936,6 +19936,18 @@
             "name": "Emperor's Footfall",
             "description": {
                 "general": "Each steps rings like drums"
+            }
+        },
+        "frostreaver": {
+            "name": "Frostreaver",
+            "description": {
+                "general": "Your veins are filled with icy vengeance"
+            }
+        },
+        "voicesInTheVeins": {
+            "name": "Voices in the Veins",
+            "description": {
+                "general": "They hum with whispers from the abyss"
             }
         }
     }
