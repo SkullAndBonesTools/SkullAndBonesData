@@ -26353,7 +26353,7 @@
     "crimsonHerald": {
         "id": "crimsonHerald",
         "tier": 1,
-        "type": "hull",
+        "type": "figureHead",
         "set": "plagueReaper",
         "effects": "emissive",
         "basic": "blightborn",
@@ -26365,7 +26365,7 @@
     "pestilentShadow": {
         "id": "pestilentShadow",
         "tier": 2,
-        "type": "nameplate",
+        "type": "figureHead",
         "set": "plagueReaper",
         "effects": ["emissive","combatReactive"],
         "basic": "blightborn",
