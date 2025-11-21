@@ -26980,7 +26980,7 @@
         "type": "figureHead",
         "tier": 1,
         "set": "flamesOfWar",
-        "basis": "silentAsTheGrave",
+        "basic": "silentAsTheGrave",
         "season": "gutsAndGlory",
         "effect": "emissive",
         "upgrades": ["theSunkenBeyond"],
@@ -26999,7 +26999,7 @@
         "type": "figureHead",
         "tier": 2,
         "set": "flamesOfWar",
-        "basis": "silentAsTheGrave",
+        "basic": "silentAsTheGrave",
         "season": "gutsAndGlory",
         "effect": ["emissive","combatReactive"],
         "required": {
