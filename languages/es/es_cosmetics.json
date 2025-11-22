@@ -751,7 +751,7 @@
             }
         },
         "barbarianKing": {
-            "name": "Rey de los Bárbaros",
+            "name": "Ravager",
             "description": {
                 "general": "Temibles como son"
             }
@@ -17347,7 +17347,7 @@
             }
         },
         "harbingerNameplate": {
-            "name": "Harbinger Nameplate",
+            "name": "Harbinger",
             "description": {
                 "general": "\"Esteemed voices call on me to punish and destroy.\""
             }
@@ -17389,7 +17389,7 @@
             }
         },
         "judgmentNameplate": {
-            "name": "Judgment Nameplate",
+            "name": "Judgment",
             "description": {
                 "general": "Delivered with grave conviction"
             }
