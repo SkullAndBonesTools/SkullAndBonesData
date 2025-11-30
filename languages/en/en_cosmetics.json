@@ -751,7 +751,7 @@
             }
         },
         "barbarianKing": {
-            "name": "Barbarian King",
+            "name": "Ravager",
             "description": {
                 "general": "Fearsome, as they fare"
             }
@@ -17347,7 +17347,7 @@
             }
         },
         "harbingerNameplate": {
-            "name": "Harbinger Nameplate",
+            "name": "Harbinger",
             "description": {
                 "general": "\"Esteemed voices call on me to punish and destroy.\""
             }
@@ -17389,7 +17389,7 @@
             }
         },
         "judgmentNameplate": {
-            "name": "Judgment Nameplate",
+            "name": "Judgment",
             "description": {
                 "general": "Delivered with grave conviction"
             }

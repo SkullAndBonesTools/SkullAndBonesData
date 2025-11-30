@@ -56,6 +56,10 @@
             "name": "Smuggler's Mark",
             "description": ""
         },
+        "eventPassPoints": {
+            "name": "Event Pass Points",
+            "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
+        },
         "coconut": {
             "name": "Noix de coco",
             "description": "A stranded-island staple."

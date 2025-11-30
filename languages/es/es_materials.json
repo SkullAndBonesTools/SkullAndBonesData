@@ -56,6 +56,10 @@
             "name": "Enseña de contrabandista",
             "description": ""
         },
+        "eventPassPoints": {
+            "name": "Event Pass Points",
+            "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
+        },
         "coconut": {
             "name": "Coco",
             "description": "Alimento esencial en una isla desierta"

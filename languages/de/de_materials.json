@@ -56,6 +56,10 @@
             "name": "Smuggler's Mark",
             "description": ""
         },
+        "eventPassPoints": {
+            "name": "Event-Pass-Punkte",
+            "description": "Besiege Elite-Kriegsschiffe und sammle Event-Punkte, um im Event-Pass Belohnungen freizuschalten."
+        },
         "coconut": {
             "name": "Kokosnuss",
             "description": "A stranded-island staple."
