@@ -1506,5 +1506,9 @@
     "kingdomsWarrior": {
         "id": "kingdomsWarrior",
         "type": "player"
+    },
+    "eyeOfMadness": {
+        "id": "eyeOfMadness",
+        "type": "ship"
     }
 }

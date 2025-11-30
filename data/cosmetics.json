@@ -28650,5 +28650,34 @@
         "effect": "emissive",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "passJudgment": {
+        "id": "passJudgment",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "eyeOfMadness",
+        "dateAdded": "2025-11-25",
+        "lastUpdated": "2025-11-25"
+    },
+    "infinitePeril": {
+        "id": "infinitePeril",
+        "type": "sailsPattern",
+        "set": "eyeOfMadness",
+        "dateAdded": "2025-11-25",
+        "lastUpdated": "2025-11-25"
+    },
+    "howlingHearts": {
+        "id": "howlingHearts",
+        "type": "sailsColor",
+        "set": "eyeOfMadness",
+        "dateAdded": "2025-11-25",
+        "lastUpdated": "2025-11-25"
+    },
+    "doggedPursuit": {
+        "id": "doggedPursuit",
+        "type": "hull",
+        "set": "eyeOfMadness",
+        "dateAdded": "2025-11-25",
+        "lastUpdated": "2025-11-25"
     }
 }
