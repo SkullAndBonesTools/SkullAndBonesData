@@ -19949,6 +19949,30 @@
             "description": {
                 "general": "They hum with whispers from the abyss"
             }
+        },
+        "passJudgment": {
+            "name": "Pass Judgment",
+            "description": {
+                "general": "Those who come under your gaze shall perish"
+            }
+        },
+        "infinitePeril": {
+            "name": "Infinite Peril",
+            "description": {
+                "general": "Your enemies can never rest easy"
+            }
+        },
+        "howlingHearts": {
+            "name": "Howling Hearts",
+            "description": {
+                "general": "Blood brings life"
+            }
+        },
+        "doggedPursuit": {
+            "name": "Dogged Pursuit",
+            "description": {
+                "general": "The chase makes triumph sweeter"
+            }
         }
     }
 }
