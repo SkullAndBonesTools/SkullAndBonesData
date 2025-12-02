@@ -9978,7 +9978,16 @@
             "phoenixsTalonStrongbox",
             "williamBlackwoodRotatingStore"
         ],
-        "required": {},
+        "blueprint": ["williamBlackwoodRotatingStore","williamBlackwoodRotatingStoreOathsOfWar"],
+        "required": {
+            "greenheartPlank": 8,
+            "magnetiteIngot": 8,
+            "roselleCloth": 8,
+            "phoenixPinion": 6,
+            "jadePhoenixStatue": 4,
+            "orcaIntricateApparatus": 2,
+            "silver": 3600
+        },
         "bounty": [
             "flamesOfThePhoenix",
             "theGloriousPhoenix"
@@ -9991,7 +10000,7 @@
             "bracedGunwales"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-12-02"
     },
     "heavenlyLance": {
         "id": "heavenlyLance",
