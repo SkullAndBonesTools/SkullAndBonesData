@@ -1,0 +1,70 @@
+{
+    "factions": {
+        "compagnieRoyale": {
+            "name": "Compagnie Royale"
+        },
+        "dutchMerchantCompany": {
+            "name": "Dutch Merchant Company"
+        },
+        "britishTradingAlliance": {
+            "name": "British Trading Alliance"
+        },
+        "confederationOfUngwana": {
+            "name": "Confederation of Ungwana"
+        },
+        "clanOfFara": {
+            "name": "Clan of Fara"
+        },
+        "chorusFleet": {
+            "name": "Chorus Fleet"
+        },
+        "pirates": {
+            "name": "Pirates"
+        },
+        "phoenixsTalon": {
+            "name": "Phoenix's Talon"
+        },
+        "dragonsClaw": {
+            "name": "Dragon's Claw"
+        },
+        "privateers": {
+            "name": "Privateers"
+        },
+        "shadowLegion": {
+            "name": "Shadow Legion"
+        },
+        "dominionOfRempah": {
+            "name": "Dominion of Rempah"
+        },
+        "fleetOfPestilence": {
+            "name": "Fleet of Pestilence"
+        },
+        "azureFleet": {
+            "name": "Azure Fleet"
+        },
+        "theUnhallowed": {
+            "name": "The Unhallowed"
+        },
+        "seaPeople": {
+            "name": "Sea People"
+        },
+        "rogues": {
+            "name": "Rogues"
+        },
+        "theHelm": {
+            "name": "The Helm"
+        },
+        "scavengers": {
+            "name": "Scavengers"
+        },
+        "sultanateOfSohar": {
+            "name": "Sultanate of Sohar"
+        },
+        "scurlocksRogues": {
+            "name": "Scurlock's Rogues"
+        },
+        "weepingSpecters": {
+            "name": "Weeping Specters"
+        }
+    }
+}

@@ -1,0 +1,178 @@
+{
+    "territories": {
+        "islandsOfTheMoon": {
+            "name": "Islands of the Moon"
+        },
+        "angayaCoast": {
+            "name": "Angaya Coast"
+        },
+        "theGiantsLeap": {
+            "name": "The Giant's Leap"
+        },
+        "riverMouths": {
+            "name": "River Mouths"
+        },
+        "rovaHill": {
+            "name": "Rova Hill"
+        },
+        "reefSea": {
+            "name": "Reef Sea"
+        },
+        "southwestPassage": {
+            "name": "Southwest Passage"
+        },
+        "learntMensHill": {
+            "name": "Learnt Men's Hill"
+        },
+        "noisyBe": {
+            "name": "Noisy Be"
+        },
+        "teninaCoast": {
+            "name": "Tenina Coast"
+        },
+        "sainteAnne": {
+            "name": "Sainte-Anne"
+        },
+        "bloodyChannel": {
+            "name": "Bloody Channel"
+        },
+        "ileRoyale": {
+            "name": "Île Royale"
+        },
+        "portLHermine": {
+            "name": "Port L'Hermine"
+        },
+        "baixioGrande": {
+            "name": "Baixio Grande"
+        },
+        "lEscale": {
+            "name": "L'Escale"
+        },
+        "easternBasin": {
+            "name": "Eastern Basin"
+        },
+        "centralBasin": {
+            "name": "Central Basin"
+        },
+        "southernBasin": {
+            "name": "Southern Basin"
+        },
+        "bataviaReefs": {
+            "name": "Batavia Reefs"
+        },
+        "westernBasin": {
+            "name": "Western Basin"
+        },
+        "pembe": {
+            "name": "Pembe"
+        },
+        "lakeBwawa": {
+            "name": "Lake Bwawa"
+        },
+        "jiwe": {
+            "name": "Jiwe"
+        },
+        "ziwaKubwa": {
+            "name": "Ziwa Kubwa"
+        },
+        "harufu": {
+            "name": "Harufu"
+        },
+        "lakeBuri": {
+            "name": "Lake Buri"
+        },
+        "sultaniIsland": {
+            "name": "Sultani Island"
+        },
+        "rondavels": {
+            "name": "Rondavels"
+        },
+        "pilotBay": {
+            "name": "Pilot Bay"
+        },
+        "panyarJungle": {
+            "name": "Panyar Jungle"
+        },
+        "deltaOfSain": {
+            "name": "Delta of Sain"
+        },
+        "patamyarMountains": {
+            "name": "Patamyar Mountains"
+        },
+        "sunyOutskirts": {
+            "name": "Suny Outskirts"
+        },
+        "berukSea": {
+            "name": "Beruk Sea"
+        },
+        "chichomneahJungle": {
+            "name": "Chichomneah Jungle"
+        },
+        "deltaOfMe": {
+            "name": "Delta of Me"
+        },
+        "kaongkangCoast": {
+            "name": "Kaongkang Coast"
+        },
+        "gulfOfNakh": {
+            "name": "Gulf of Nakh"
+        },
+        "harimauPeninsula": {
+            "name": "Harimau Peninsula"
+        },
+        "fortHarimau": {
+            "name": "Fort Harimau"
+        },
+        "telokPenjarah": {
+            "name": "Telok Penjarah"
+        },
+        "straitOfHarimau": {
+            "name": "Strait of Harimau"
+        },
+        "pemburuIslands": {
+            "name": "Pemburu Islands"
+        },
+        "zamrud": {
+            "name": "Zamrud"
+        },
+        "easternGateSea": {
+            "name": "Eastern Gate Sea"
+        },
+        "nilamSea": {
+            "name": "Nilam Sea"
+        },
+        "logamHighlands": {
+            "name": "Logam Highlands"
+        },
+        "musonStrait": {
+            "name": "Muson Strait"
+        },
+        "hutanRainforest": {
+            "name": "Hutan Rainforest"
+        },
+        "hutanHighlands": {
+            "name": "Hutan Highlands"
+        },
+        "trisulaSea": {
+            "name": "Trisula Sea"
+        },
+        "nagaSea": {
+            "name": "Naga Sea"
+        },
+        "cendonoStrait": {
+            "name": "Cendono Strait"
+        },
+        "trisulaCoast": {
+            "name": "Trisula Coast"
+        },
+        "nagaCoast": {
+            "name": "Naga Coast"
+        },
+        "spiceIslands": {
+            "name": "Spice Islands"
+        },
+        "ringOfFire": {
+            "name": "Ring of Fire"
+        }
+    }
+}

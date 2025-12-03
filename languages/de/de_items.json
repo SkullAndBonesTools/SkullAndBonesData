@@ -2187,7 +2187,7 @@
             }
         },
         "roninCosmeticsChest": {
-            "name": "Ronin Cosmetics Chest",
+            "name": "Set „Ronin“-Truhe",
             "description": {
                 "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil des Ronin-Sets sind."
             }
@@ -2575,9 +2575,9 @@
             }
         },
         "hellfestShipCosmeticsChest": {
-            "name": "Hellfest Ship Cosmetics Chest",
+            "name": "Set „Höllenfest-Schiff“-Truhe",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
+                "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil des Sets „Höllenfest-Schiff“ sind."
             }
         },
         "freemansLetter": {
@@ -2671,9 +2671,9 @@
             }
         },
         "advancedContractCache": {
-            "name": "Advanced Contract Cache",
+            "name": "Ein Lager mit fortgeschrittenen Aufträgen",
             "description": {
-                "general": "A cache of treasures for those who have proven their worth on the high seas"
+                "general": "Ein Lager mit Schätzen für die, die sich auf hoher See als würdig erwiesen haben."
             }
         },
         "locketOfTheDamned": {
@@ -2924,9 +2924,9 @@
             }
         },
         "seaOfKingdomsCosmeticsChest": {
-            "name": "Sea of Kingdoms Cosmetics Chest",
+            "name": "Set „Meere der Königreiche“-Truhe",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
+                "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil des Sets „Meere der Königreiche“ sind."
             }
         }
     }

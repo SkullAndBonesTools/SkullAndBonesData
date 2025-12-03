@@ -565,7 +565,7 @@
         "putrefying": {
             "name": "Ansteckend",
             "description": {
-                "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
+                "general": "Stößt beim Aufprall für kurze Zeit toxische Gase aus, die die Ausdauer der Zielbesatzung um 1 % des verursachten Giftschadens verringern"
             }
         },
         "venemousVengeance": {
@@ -598,12 +598,12 @@
         "laPotenceSchematics": {
             "description": {
                 "general": [
-                    "Increases damage to weakpoints to enemy ships by 10%",
-                    "Penetrates 10% of Toxic Resistance"
+                    "Schaden gegen Schwachpunkte an gegnerischen Schiffen wird um 10 % erhöht",
+                    "Waffentreffer ignorieren 10 % der Giftig-Resistenz des Ziels"
                 ],
                 "1": [
                     "Schaden gegen Schwachpunkte an gegnerischen Schiffen wird um 10% erhöht",
-                    "Penetrates 10% of Toxic Resistance"
+                    "Waffentreffer ignorieren 10 % der Giftig-Resistenz des Ziels"
                 ]
             }
         },
@@ -823,7 +823,7 @@
         "toxic": {
             "name": "Toxisch",
             "description": {
-                "3": "Adds 20% of damage as Toxic Damage"
+                "3": "Fügt 20 % des Schadens als Giftschaden zu"
             }
         },
         "homing": {
@@ -1761,7 +1761,7 @@
                 "1": "10% des Schadens wird zu Elektroschaden",
                 "2": "20% des Schadens wird zu Elektroschaden",
                 "3": "30% des Schadens wird zu Elektroschaden",
-                "4": "Adds 40% of damage as Electric Damage"
+                "4": "Fügt 40 % des Schadens als Elektroschaden zu"
             }
         },
         "organHarvestingStation": {
@@ -2015,7 +2015,7 @@
             "description": {
                 "general": [
                     "Der Waffenschaden erhöht sich je nachdem, wie weit du vom Ziel entfernt bist, bis zu einer Obergrenze von 60%",
-                    "When your Hull Health is 40% or lower, increases Armor by 500 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
+                    "Wenn dein Rumpfzustand 40 % oder niedriger ist, erhöht sich deine Panzerung um 500 und das Trimmen kostet für 10 Sekunden keine Ausdauer der Besatzung mehr. Dieser Effekt hat eine Abklingzeit von 40 Sekunden"
                 ]
             }
         },
@@ -2249,8 +2249,8 @@
         "debrisLocker": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 50%",
-                    "Increases Charge Rate of the Torn Sails status effect on a target by 16%"
+                    "Erhöht die Ladegeschwindigkeit des Überflutet-Statuseffekts auf gegnerische Ziele, die bereits von dem Zerrissene Segel-Statuseffekts betroffen sind, um 50%",
+                    "Ladegeschwindigkeit des Statuseffekts \"Zerrissene Segel\" auf einem Ziel wird um 16 % erhöht"
                 ]
             }
         },
@@ -2556,7 +2556,7 @@
         },
         "rocketProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Rocket by 15%"
+                "15": "Projektilgeschwindigkeit von Rakete wird um 15 % erhöht"
             }
         },
         "joineryWorkshop": {
@@ -2611,7 +2611,7 @@
                 "6": [
                     "Grundschiffsrang wird auf 8 erhöht",
                     "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
-                    "Adds 'Resolve' perk"
+                    "Fügt den Vorteil \"Entschlossenheit\" hinzu"
                 ],
                 "7": [
                     "Grundschiffsrang wird auf 9 erhöht",
@@ -2824,142 +2824,142 @@
             }
         },
         "plaguebringer": {
-            "name": "Plaguebringer",
+            "name": "Seuchenbringer",
             "description": {
                 "general": [
-                    "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
-                    "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+                    "Wenn du ein feindliches Schiff mit dem Statuseffekt Vergiftet angreifst, erhöht sich der Statuseffekt-Schaden von Vergiftet mit jedem Treffer in Folge um 6 % und die Dauer um 20 %, bis zu 30 % Schaden und 100 % Dauer. Jeder Waffentreffer hat die Chance, eine Explosion mit einem Radius von 300 m um das Ziel mit Vergiftet auszulösen, die 1000 Giftschaden an Gegnern verursacht.",
+                    "Erhöht den Schaden von Giftwafffen um 20 % und die Vergiftet Ladegeschwindigkeit um 150 %."
                 ]
             }
         },
         "spite": {
-            "name": "Spite",
+            "name": "Boshaftigkeit",
             "description": {
-                "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
+                "general": "Wenn du ein feindliches Schiff mit dem Statuseffekt \"Vergiftet\" angreifst, fügt das feindliche Schiff 50 Giftschaden pro Sekunde an Zielen in einem Umkreis von 300 m zu (10 Sek. lang). Der Schaden, den du von Zielen mit dem Statuseffekt \"Vergiftet\" erleidest, wird um 30 % verringert."
             }
         },
         "resurgence": {
-            "name": "Resurgence",
+            "name": "Wiederkehr",
             "description": {
-                "general": "Killing a target grants a 100% boost to Maximum Brace Strength for 11s and instantly restores 60% Brace Strength and 25% Hull Health. This effect has a cooldown of 60s"
+                "general": "Das Töten eines Ziels erhöht 11 Sekunden lang die maximale Deckungsstärke um 100 % und stellt sofort 60 % Deckungsstärke sowie 25 % Rumpfzustand wieder her. Dieser Effekt hat eine Abklingzeit von 60 Sek."
             }
         },
         "windcaller": {
-            "name": "Windcaller",
+            "name": "Windrufer",
             "description": {
-                "general": "While bracing, increase Acceleration and Turning Speed by 2% each second. When Bracing ends, retain acceleration and Turning Speed for 6s. For this duration, increase Sailing Speed by 14%"
+                "general": "Wenn du in Deckung gehst, werden Beschleunigung und Wendegeschwindigkeit jede Sekunde um 2 % erhöht. Behalte 6 Sek.  lang Beschleunigung und Wendegeschwindigkeit, wenn du aus Deckung gehst. In dieser Zeit wird Segelgeschwindigkeit um 14 % erhöht"
             }
         },
         "immunity": {
-            "name": "Immunity",
+            "name": "Immunität",
             "description": {
-                "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
+                "general": "Reduziert den durch Gift-Statuseffekt verursachten Schaden von Deckungsstärke bis Rumpfzustand um 50 %. Reduziert ebenso die Dauer des Gift-Statuseffekts um 25 %"
             }
         },
         "stinkpotStation": {
             "description": {
                 "general": [
-                    "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
-                    "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
-                    "Increases Toxic Damage to enemy ships by 8%"
+                    "Treffer einer Waffe vom Typ \"Giftig\" auf ein Ziel innerhalb von 250 m fügen 10 % mehr Schaden zu, wenn das Ziel In Deckung ist",
+                    "\"Vergiftet\"-Statuseffekt, der auf Ziele innerhalb von 250 m angewandt wird, verursacht 10 % erhöhten Schaden",
+                    "Erhöht den Giftig-Schaden an gegnerischen Schiffen um 8 %"
                 ]
             }
         },
         "sheetingWinchConsole": {
             "description": {
                 "general": [
-                    "Gain 0.8% weapon damage per 1kts of sailing Speed",
-                    "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
-                    "Increases Acceleration by 20%"
+                    "Gibt 0,8 % Waffenschaden pro 1 kn Segelgeschwindigkeit.",
+                    "Erleidest du 5 s lang beim Trimmen der Segel keinen Schaden, wird die Nachladezeit der Breitseitenwaffen 10 s lang um 12 % verringert.",
+                    "Beschleunigung wird um 20 % erhöht"
                 ]
             }
         },
         "gimbalRingStores": {
             "description": {
                 "general": [
-                    "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
-                    "Increases Projectile Speed of Demicannon Weapons by 14%",
-                    "Increases Maximum Range of Demicannon Weapons by 12%"
+                    "Triffst du ein Ziel, das mehr als 180 m entfernt ist, so wird der Schaden von Halbkanonen für 12 s um 17 % erhöht ",
+                    "Projektilgeschwindigkeit von Halbkanonen wird um 14 % erhöht ",
+                    "Maximale Reichweite von Halbkanonen wird um 12 % erhöht"
                 ]
             }
         },
         "siphonFurnace": {
             "description": {
                 "general": [
-                    "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
-                    "Increases Projectile Speed of Toxic Weapons by 12%",
-                    "Increases Maximum Range of Toxic Weapons by 10%"
+                    "Ist das Ziel vergiftet, wird der Schaden von Giftwaffen um 10 % erhöht",
+                    "Projektilgeschwindigkeit von Giftwaffen wird um 12 % erhöht",
+                    "Maximale Reichweite von Giftwaffen wird um 10 % erhöht"
                 ]
             }
         },
         "causticSpallStation": {
             "description": {
                 "general": [
-                    "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
-                    "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
-                    "Increases damage to enemy ships with the Flooded effect by 10%"
+                    "Der Schaden, der mit einer Waffe vom Typ Überflutung aus einer Entfernung von mehr als 200 m verursacht wird, erhöht \"Überflutungsschaden\"  für 10 s um 13 %",
+                    "Für jede Projektilgeschwindigkeit-Erhöhung um 1 % für Waffen durch Boni wird der Überflutungsschaden dieser Waffe um 1 % erhöht. ",
+                    "Erhöht den Schaden an gegnerischen Schiffen mit dem Effekt \"Überflutet\" um 10 %"
                 ]
             }
         },
         "leydenVaultArray": {
             "description": {
                 "general": [
-                    "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
-                    "Reduces Reload Time of Electric Weapons by 6%",
-                    "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+                    "Für je 5 m Wirkungsbereich-Radius der Waffe wird Waffenschaden als Elektroschaden um 2 % erhöht",
+                    "Nachladezeit von elektrischen Waffen wird um 6 % verringert. ",
+                    "Erhöht den Schaden an gegnerischen Schiffen mit dem Effekt \"Elektrisiert\" um 8 %"
                 ]
             }
         },
         "cascadeCoilBench": {
             "description": {
                 "general": [
-                    "Increases weapon damage of Sea Fire by 13%",
-                    "Increases Secondary damage of Sea Fire by 15%"
+                    "Waffenschaden von Seefeuer wird um 13 % erhöht",
+                    "Sekundärschaden von Seefeuer wird um 15 % erhöht"
                 ]
             }
         },
         "curareCrushingBench": {
             "description": {
                 "general": [
-                    "Increases Charge rate of the Poisoned status effect on a target by 8%",
-                    "Increases duration of the Poisoned effect on enemy ships by 8%"
+                    "Ladegeschwindigkeit des Statuseffekts \"Vergiftet\" auf einem Ziel wird um 8 % erhöht",
+                    "Die Dauer des Effektes \"Vergiftet\" auf gegnerischen Schiffen wird um 8 % verlängert"
                 ]
             }
         },
         "infectious": {
-            "name": "Infectious",
+            "name": "Ansteckend",
             "description": {
-                "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+                "general": "Wenn du dasselbe Ziel 8 Mal triffst, verursachst du an Gegnern in einem Umkreis von 150 m 13 % Giftschaden. Der Waffenschaden erhöht sich mit jedem weiteren Treffer auf dasselbe Ziel um 1 %"
             }
         },
         "lancerSeaFire": {
-            "name": "Lancer",
+            "name": "Lancier",
             "description": {
-                "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+                "general": "Feuert einen Blitz ab, der bis zu 4 Ziele in der Nähe treffen kann. Erhöht den Schaden um 1 % pro 10 m Waffenreichweite. Erhöht die Waffenreichweite um 75 m "
             }
         },
         "virulent": {
-            "name": "Virulent",
+            "name": "Kontaminiert",
             "description": {
-                "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+                "general": "Jeweils 50 % Giftschaden verringern für 10 Sek. die maximale Deckungsstärke. Wenn das Ziel vergiftet ist, wird der Giftschaden um 75 % erhöht"
             }
         },
         "contagion": {
-            "name": "Contagion",
+            "name": "Verseuchung",
             "description": {
-                "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+                "general": "Wenn das Projektil scharfgemacht ist, belegt es das Ziel 4 Sek lang mit dem Statuseffekt \"Gasodem\", der allen Gegnern in einem Umkreis von 150 m um das Ziel pro Sekunde 300 Giftschaden zufügt. Der Effekt kann bis zu 8 Mal gestapelt werden"
             }
         },
         "perforator": {
             "name": "Perforator",
             "description": {
-                "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
+                "general": "Ein Treffer auf einen Schwachpunkt verursacht 150 % Überflutungsschaden als zusätzlichen schweren Schaden.  Wenn ein Ziel bereits von Überflutung betroffen ist, erhöht sich der zusätzliche Schaden auf 200 %"
             }
         },
         "countdown": {
             "name": "Countdown",
             "description": {
-                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
+                "general": "Treffer haben eine Chance von 15 %, eine verzögerte Explosion auszulösen, die nach 4 Sek. in einem Radius von 65 m 2500 Schaden verursacht. Die Chance steigt mit jedem getroffenen Ziel um 15 %, bis zu 5 Zielen und einer Chance von 75 %"
             }
         }
     }

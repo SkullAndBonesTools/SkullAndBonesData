@@ -1,0 +1,248 @@
+{
+    "achievements": {
+        "ballistaMastery": {
+            "name": "Ballista Mastery",
+            "description": "Deal %s damage using Ballista."
+        },
+        "mortarMastery": {
+            "name": "Mortar Mastery",
+            "description": "Deal %s damage using Mortar."
+        },
+        "seaFireMastery": {
+            "name": "Sea Fire Mastery",
+            "description": "Deal %s damage using Sea Fire."
+        },
+        "springloaderMastery": {
+            "name": "Springloader Mastery",
+            "description": "Deal %s damage using Springloader."
+        },
+        "torpedoMastery": {
+            "name": "Torpedo Mastery",
+            "description": "Deal %s damage using Torpedoes."
+        },
+        "bombardMastery": {
+            "name": "Bombard Mastery",
+            "description": "Deal %s damage using Bombard."
+        },
+        "culverinMastery": {
+            "name": "Culverin Mastery",
+            "description": "Deal %s damage using Culverin."
+        },
+        "demicannonMastery": {
+            "name": "Demi-Cannon Mastery",
+            "description": "Deal %s damage using Demi-Cannon."
+        },
+        "longGunMastery": {
+            "name": "Long Gun Mastery",
+            "description": "Deal %s damage using Long Gun."
+        },
+        "rocketMastery": {
+            "name": "Rocket Mastery",
+            "description": "Deal %s damage using Rocket."
+        },
+        "explosiveLongGunMastery": {
+            "name": "Explosive Long Gun Mastery",
+            "description": "Deal %s damage using Lange Kartouwe."
+        },
+        "unisonCulverinMastery": {
+            "name": "Unison Culverin Mastery",
+            "description": "Deal %s damage using Urban's Great Gun."
+        },
+        "explosiveDemicannonMastery": {
+            "name": "Explosive Demi-Cannon Mastery",
+            "description": "Deal %s damage using Kleine Kartouwe."
+        },
+        "weaponAscension": {
+            "name": "Weapon Ascension",
+            "description": "Ascend %s weapons."
+        },
+        "weaponModification": {
+            "name": "Weapon Modification",
+            "description": "Modify %s weapons."
+        },
+        "burningBallistaMastery": {
+            "name": "Burning Ballista Mastery",
+            "description": "Deal %s damage using Alecto."
+        },
+        "lightningBombardMastery": {
+            "name": "Lightning Bombard Mastery",
+            "description": "Deal %s damage using Divine Wind."
+        },
+        "lumberjack": {
+            "name": "Lumberjack",
+            "description": "Gather %s Wood."
+        },
+        "masterChef": {
+            "name": "Master Chef",
+            "description": "Gather %s Food."
+        },
+        "masterHarvester": {
+            "name": "Master Harvester",
+            "description": "Gather %s Fiber."
+        },
+        "masterSmith": {
+            "name": "Master Smith",
+            "description": "Craft %s Metal."
+        },
+        "silversmith": {
+            "name": "Silversmith",
+            "description": "Earn %s Silver."
+        },
+        "fortuneFinder": {
+            "name": "Fortune Finder",
+            "description": "Complete %s Treasure Maps."
+        },
+        "keeperOfEights": {
+            "name": "Keeper of Eights",
+            "description": "Earn %s Pieces of Eight."
+        },
+        "plagueEnder": {
+            "name": "Plague Ender",
+            "description": "Complete the \"The Plague King\" world event %s times."
+        },
+        "cursebreaker": {
+            "name": "Cursebreaker",
+            "description": "Complete the \"The Looming Schadow\" world event %s times."
+        },
+        "redeemer": {
+            "name": "Redeemer",
+            "description": "Complete the \"The Great Schadow\" world event %s times."
+        },
+        "showstopper": {
+            "name": "Showstopper",
+            "description": "Complete the \"Chorus of Havoc\" world event %s times."
+        },
+        "unsighted": {
+            "name": "Unsighted",
+            "description": "Complete the \"The Glorious Phoenix\" world event %s times."
+        },
+        "plunderer": {
+            "name": "Plunderer",
+            "description": "Complete %s plunders while in a group."
+        },
+        "wolfpack": {
+            "name": "Wolfpack",
+            "description": "Land the final hit on %s ships while sailing in a group."
+        },
+        "handOfJudgment": {
+            "name": "Hand of Judgment",
+            "description": "Use %s Bloodied Strongbox"
+        },
+        "azureTidings": {
+            "name": "Azure Tidings",
+            "description": "Use %s Azure Cache"
+        },
+        "claimToFame": {
+            "name": "Claim to Fame (Y2S1)",
+            "description": "Gain %s Infamy in Year 2 Season 1"
+        },
+        "enterTheNian": {
+            "name": "Enter the Nian",
+            "description": "Use %s Nian Strongbox"
+        },
+        "ghoulsBane": {
+            "name": "Ghoul's Bane",
+            "description": "Use %s Reaper's Cache"
+        },
+        "claimToFameY2S2": {
+            "name": "Claim to Fame (Y2S2)",
+            "description": "Gain %s Infamy in Year 2 Season 2"
+        },
+        "darktideSurvivor": {
+            "name": "Darktide Survivor",
+            "description": "Use %s Darktide Lullaby caches"
+        },
+        "moonshineRaider": {
+            "name": "Moonshine Raider",
+            "description": "Use %s Moonshine Larceny caches"
+        },
+        "fleetMaster": {
+            "name": "Fleet Master",
+            "description": "Build %s ships"
+        },
+        "stormSailor": {
+            "name": "Storm Sailor",
+            "description": "Sail through storms for %s minutes"
+        },
+        "colossalVessel": {
+            "name": "Colossal Vessel",
+            "description": "Build %s Large Frigate"
+        },
+        "pirateKnight": {
+            "name": "Pirate Knight",
+            "description": "Loot %s Merchant Convoys"
+        },
+        "warlord": {
+            "name": "Warlord",
+            "description": "Earn %s war assets in Faction War"
+        },
+        "hubacHunter": {
+            "name": "Hubac Hunter",
+            "description": "Deal %s weak-point damage with Culverin in Hubac Twins' Domain"
+        },
+        "laPesteHunter": {
+            "name": "La Peste Hunter",
+            "description": "Deal %s weak-point damage with Torpedoes in La Peste's Domain"
+        },
+        "liTianNingHunter": {
+            "name": "Li Tian Ning Hunter",
+            "description": "Deal %s weak-point damage with Ballista in Li Tian Ning's Domain"
+        },
+        "vikramHunter": {
+            "name": "Vikram Hunter",
+            "description": "Deal %s weak-point damage with Sea Fire in Vikram's Domain"
+        },
+        "dominator": {
+            "name": "Dominator",
+            "description": "Capture %s points in Tidebreaker"
+        },
+        "doomsday": {
+            "name": "Doomsday",
+            "description": "Win %s rounds in Fleetfire"
+        },
+        "pirateHunter": {
+            "name": "Pirate Hunter",
+            "description": "Defeat %s pirates in Fleetfire"
+        },
+        "theMedic": {
+            "name": "The Medic",
+            "description": "Repair %s value on friendly pirates in Tidebreaker"
+        },
+        "claimToFameY2S3": {
+            "name": "Claim to Fame (Y2S3)",
+            "description": "Gain %s Infamy in Year 2 Season 3"
+        },
+        "deadeye": {
+            "name": "Deadeye",
+            "description": "Deal %s weak-point damage in Halloween"
+        },
+        "invader": {
+            "name": "Invader",
+            "description": "Complete Halloween events %s times"
+        },
+        "epicFloodingGunMastery": {
+            "name": "Epic Flooding Gun Mastery",
+            "description": "Deal %s weak-point damage using The Drowned One"
+        },
+        "epicPoisonCulverinMastery": {
+            "name": "Epic Poison Culverin Mastery",
+            "description": "Deal %s weak-point damage using Rotmouth"
+        },
+        "epicPoisonSeaFireMastery": {
+            "name": "Epic Poison Sea Fire Mastery",
+            "description": "Deal %s weak-point damage using Virulent Accord"
+        },
+        "epicPoisonTorpedoMastery": {
+            "name": "Epic Poison Torpedo Mastery",
+            "description": "Deal %s weak-point damage using Blightbringer"
+        },
+        "genericBombardMastery": {
+            "name": "Generic Bombard Mastery",
+            "description": "Deal %s weak-point damage using Frostwail"
+        },
+        "lightningSeaFireMastery": {
+            "name": "Lightning Sea Fire Mastery",
+            "description": "Deal %s weak-point damage using Heavenly Thunder"
+        }
+    }
+}
