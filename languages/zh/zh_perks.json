@@ -1,0 +1,2966 @@
+{
+    "perks": {
+        "tearing": {
+            "name": "Tearing",
+            "description": {
+                "1": "Increases damage by 25% when hitting sails",
+                "2": "Increases damage by 50% when hitting sails",
+                "3": "Increases damage by 75% when hitting sails"
+            }
+        },
+        "piercing": {
+            "name": "Piercing",
+            "description": {
+                "1": [
+                    "Adds 10% of damage as Piercing Damage",
+                    "Increases damage to weakpoints by 50%"
+                ],
+                "2": [
+                    "Adds 20% of damage as Piercing Damage",
+                    "Increases damage to weakpoints by 75%"
+                ],
+                "3": [
+                    "Adds 30% of damage as Piercing Damage",
+                    "Increases damage to weakpoints by 100%"
+                ]
+            }
+        },
+        "raider": {
+            "name": "Raider",
+            "description": {
+                "general": "Increases Charge Rate of the Vulnerable effect by 50%"
+            }
+        },
+        "flooding": {
+            "name": "Flooding",
+            "description": {
+                "1": "Adds 10% of damage as Flooding Damage",
+                "2": "Adds 20% of damage as Flooding Damage",
+                "3": "Adds 30% of damage as Flooding Damage"
+            }
+        },
+        "burning": {
+            "name": "Burning",
+            "description": {
+                "1": "Adds 10% of damage as Burning Damage",
+                "2": "Adds 20% of damage as Burning Damage",
+                "3": "Adds 30% of damage as Burning Damage"
+            }
+        },
+        "repair": {
+            "name": "Repair",
+            "description": {
+                "general": "Restores Hull Health of a friendly ship",
+                "2": "Greater restoration of Hull Health of a friendly ship"
+            }
+        },
+        "mastBreaker": {
+            "name": "Mast Breaker",
+            "description": {
+                "general": "Deals 7000 damage after the Torn Sails effect is applied"
+            }
+        },
+        "explosive": {
+            "name": "Explosive",
+            "description": {
+                "1": "Adds 10% of damage as Explosive Damage in a 30m Blast Radius",
+                "2": "Adds 20% of damage as Explosive Damage in a 35m Blast Radius",
+                "3": "Adds 30% of damage as Explosive Damage in a 40m Blast Radius"
+            }
+        },
+        "repairBomb": {
+            "name": "Repair Bomb",
+            "description": {
+                "general": "Restores Hull Health of a friendly ship in a 35m Blast Radius"
+            }
+        },
+        "siege": {
+            "name": "Siege",
+            "description": {
+                "general": "Increases damage to structures by 50%"
+            }
+        },
+        "unison": {
+            "name": "Unison",
+            "description": {
+                "general": "Allows all weapons in the same quadrant to fire simultaneously"
+            }
+        },
+        "arming": {
+            "name": "Arming",
+            "description": {
+                "general": "Increases damage from torpedoes by 150% when target is beyond 85m"
+            }
+        },
+        "cataclysmic": {
+            "name": "Cataclysmic",
+            "description": {
+                "general": "Deals an increasing amount of damage for every simultaneous hit"
+            }
+        },
+        "draw": {
+            "name": "Draw",
+            "description": {
+                "general": [
+                    "This weapon can be charged for increased damage and range",
+                    "At maximum charge, damage increases to 300% and range to 900m"
+                ]
+            }
+        },
+        "doubleDraw": {
+            "name": "Double Draw",
+            "description": {
+                "general": [
+                    "This weapon can be charged twice as long for increased damage and range",
+                    "At maximum charge, damage increases to 600% and range to 1350m"
+                ]
+            }
+        },
+        "superheated": {
+            "name": "Superheated",
+            "description": {
+                "general": "Deals an increasing amount of damage when focusing attacks on the same target"
+            }
+        },
+        "blast": {
+            "name": "Blast",
+            "description": {
+                "general": "Adds 15% of damage as Explosive Damage in a 50m Blast Radius"
+            }
+        },
+        "repairBlast": {
+            "name": "Repair Blast",
+            "description": {
+                "general": "Restores Hull Health of a friendly ship in a 50m Blast Radius"
+            }
+        },
+        "rampart": {
+            "name": "Rampart",
+            "description": {
+                "general": "Reduces incoming damage from ramming by 75%"
+            }
+        },
+        "sealing": {
+            "name": "Sealing",
+            "description": {
+                "general": "Reduces damage taken from the Flooded effect by 28%"
+            }
+        },
+        "resolute": {
+            "name": "Resolute",
+            "description": {
+                "general": "Reduces damage taken by 40% when Hull Health is less than 33%"
+            }
+        },
+        "amalgamate": {
+            "name": "Amalgamate",
+            "description": {
+                "general": [
+                    "Restores 15% of Hull Health while bracing",
+                    "The effect only occurs after bracing ends"
+                ]
+            }
+        },
+        "restoration": {
+            "name": "Restoration",
+            "description": {
+                "general": "Restores 100 Severe Damage every second"
+            }
+        },
+        "hunter": {
+            "name": "Hunter",
+            "description": {
+                "general": "Preserves wildlife materials from hunting"
+            }
+        },
+        "outOfSight": {
+            "name": "Out of Sight",
+            "description": {
+                "general": "Reduces detection by ships bigger than yours by 40%"
+            }
+        },
+        "lancer": {
+            "name": "Lancer",
+            "description": {
+                "general": [
+                    "Increases damage from ramming by 25% and gain additional speed while pursuing an enemy ship within 300m",
+                    "Applies the Flooded status to an enemy ship upon ramming and slows its Reload Time by 30% for 30 seconds"
+                ]
+            }
+        },
+        "ironclad": {
+            "name": "Ironclad",
+            "description": {
+                "general": [
+                    "Increases Armor by 350 for 30 seconds after bracing damage",
+                    "Increases Brace Strength by 275% and Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "unburden": {
+            "name": "Unburden",
+            "description": {
+                "general": [
+                    "Restores Severe Damage by 0.4% and Hull Health by 0.4% per second",
+                    "Restores Hull Health of all friendly ships in a 100m radius of a repaired target by 2%",
+                    "Restores 60% more of Hull Health on a friendly ship while using a Repair Weapon",
+                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                ]
+            }
+        },
+        "wildfire": {
+            "name": "Wildfire",
+            "description": {
+                "general": [
+                    "Applying the Ablaze effect to a ship will apply the same effect to all enemies in a radius of 125m",
+                    "Increases weapon damage by 35%",
+                    "Burning Damage increases Ablaze charge speed by 175%"
+                ]
+            }
+        },
+        "outburst": {
+            "name": "Outburst",
+            "description": {
+                "general": [
+                    "Explosive hits have a 50% chance of triggering an explosion, which deals 1500 damage within a Blast Radius of 150m",
+                    "Increases damage to structures by 40% and Explosive Damage by 15%"
+                ]
+            }
+        },
+        "detonate": {
+            "name": "Detonate",
+            "description": {
+                "general": [
+                    "Explosive hits have a 70% chance of triggering an explosion, which deals 1000 damage within a 125m Blast Radius. Increases to 100% if target ship is Ablaze",
+                    "Increases damage to structures by 50% and Weapon Damage Radius by 12%"
+                ]
+            }
+        },
+        "tenacity": {
+            "name": "Tenacity",
+            "description": {
+                "general": [
+                    "Recovers Brace Strength by 5% per second, while bracing",
+                    "Increases Brace Strength by 50% and Brace Strength Recovery by 150%"
+                ]
+            }
+        },
+        "bullhorn": {
+            "name": "Bullhorn",
+            "description": {
+                "general": [
+                    "Increases damage from ramming by 45% and gain additional speed while pursuing an enemy ship within 300m",
+                    "Increase Flooding Weapon Damage by 20% and deal 20% more weapon damage to Flooded targets"
+                ]
+            }
+        },
+        "scorched": {
+            "name": "Scorched",
+            "description": {
+                "general": [
+                    "Deals 5000 Burning Damage when you apply the Ablaze effect to an enemy ship. Ablaze will be applied to enemies in a radius of 150m",
+                    "Increases damage to ships with Ablaze effect by 30%"
+                ]
+            }
+        },
+        "revitalized": {
+            "name": "Revitalized",
+            "description": {
+                "general": [
+                    "Restores 0.4% of Severe Damage and 0.4% of Hull Health per second, as well as nearby friendly ships",
+                    "Restores 15% of Stamina, 10% of Severe Damage and 60% more of Hull Health on a friendly ship while using a repair weapon",
+                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                ]
+            }
+        },
+        "refortify": {
+            "name": "Refortify",
+            "description": {
+                "general": "Applies the Fortified effect for 12 seconds after using a repair kit, which increases Armor by 35%"
+            }
+        },
+        "lootFromHarvesting": {
+            "description": {
+                "1": "Increases loot from harvesting by 1 when hitting the bonus zones"
+            }
+        },
+        "cargoCapacity": {
+            "description": {
+                "1": "Increases Cargo Capacity by 10%"
+            }
+        },
+        "repairSevereDmgOfHullOutOfCombat": {
+            "description": {
+                "1": "Restores 1% Severe Damage per second while out of combat"
+            }
+        },
+        "maximumHull": {
+            "description": {
+                "05": "Increases Max Hull Health by 5%"
+            }
+        },
+        "floodingDuration": {
+            "description": {
+                "1": "Increases duration of the Flooded effect on enemy ships by 10%"
+            }
+        },
+        "repairAmountFromRepairWeapons": {
+            "description": {
+                "1": "Increases Repair Amount from Repair Weapons by 10%"
+            }
+        },
+        "crewAttackChargeSpeed": {
+            "description": {
+                "1": "Increases Charge Rate of Crew Attack by 10%"
+            }
+        },
+        "crewAttackDamage": {
+            "description": {
+                "1": "Increases Crew Attack damage by 10%"
+            }
+        },
+        "ablazeDamage": {
+            "description": {
+                "1": "Increases damage to enemy ships with the Ablaze effect by 10%"
+            }
+        },
+        "ablazeChargingSpeed": {
+            "description": {
+                "1": "Increases Charge Rate of the Ablaze effect on enemy ships by 10%"
+            }
+        },
+        "ablazeDuration": {
+            "description": {
+                "1": "Increases duration of the Ablaze effect on enemy ships by 10%"
+            }
+        },
+        "tornSailsDuration": {
+            "description": {
+                "1": "Increases duration of the Torn Sails effect on enemy ships by 10%"
+            }
+        },
+        "threatGeneration": {
+            "description": {
+                "05": "Increases Thread Generation by 5%"
+            }
+        },
+        "structureDamage": {
+            "description": {
+                "15": "Increases damage to structures by 15%"
+            }
+        },
+        "frontWeaponDamage": {
+            "description": {
+                "1": "Increases Front Weapon damage by 10%"
+            }
+        },
+        "rammingDamage": {
+            "description": {
+                "25": "Increases damage from ramming by 25%"
+            }
+        },
+        "portWeaponDamage": {
+            "description": {
+                "1": "Increases Port Weapon damage by 10%"
+            }
+        },
+        "starboardWeaponDamage": {
+            "description": {
+                "1": "Increases Starboard Weapon damage by 10%"
+            }
+        },
+        "auxiliaryDamage": {
+            "description": {
+                "1": "Increases damage from auxiliary weapons by 10%"
+            }
+        },
+        "ballistaElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Ballista by 19%"
+            }
+        },
+        "bombardElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Bombard by 19%"
+            }
+        },
+        "culverinElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Culverin by 19%"
+            }
+        },
+        "flamethrowerElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Sea Fire by 19%"
+            }
+        },
+        "mortarElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Mortar by 19%"
+            }
+        },
+        "rocketElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Rocket by 19%"
+            }
+        },
+        "torpedoElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Torpedo by 19%"
+            }
+        },
+        "demicannonElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Demicannon by 19%"
+            }
+        },
+        "longGunElementalDamage": {
+            "description": {
+                "19": "Increases Elemental Damage Multiplier of Long Gun by 19%"
+            }
+        },
+        "bombardAreaOfEffectRadius": {
+            "description": {
+                "1": "Increases Area-of-effect Radius of Bombard by 10%"
+            }
+        },
+        "mortarAreaOfEffectRadius": {
+            "description": {
+                "1": "Increases Area-of-effect Radius of Mortar by 10%"
+            }
+        },
+        "springloaderAreaOfEffectRadius": {
+            "description": {
+                "1": "Increases Area-of-effect Radius of Buoys by 10%"
+            }
+        },
+        "demicannonMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Demicannon by 10%"
+            }
+        },
+        "flamethrowerMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Sea Fire by 10%"
+            }
+        },
+        "mortarMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Mortar by 10%"
+            }
+        },
+        "rocketMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Rocket by 10%"
+            }
+        },
+        "torpedoMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Torpedo by 10%"
+            }
+        },
+        "springloaderMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Springloader weapons by 10%"
+            }
+        },
+        "overallMaximumRange": {
+            "description": {
+                "05": "Increases Maximum Range of all weapons by 5%"
+            }
+        },
+        "torpedoProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Torpedo by 15%"
+            }
+        },
+        "bombardProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Bombard by 15%"
+            }
+        },
+        "culverinProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Culverin by 15%"
+            }
+        },
+        "ballistaProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Ballista by 15%"
+            }
+        },
+        "longGunProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Long Gun by 15%"
+            }
+        },
+        "overallProjectileSpeed": {
+            "description": {
+                "05": "Increases Projectile Speed of all weapons by 5%, except for Sea Fire and auxiliary weapons"
+            }
+        },
+        "signalGong": {
+            "description": {
+                "general": "Increases damage by 20% after a Crew Attack for 30 seconds"
+            }
+        },
+        "ironCapstan": {
+            "description": {
+                "general": "Reduces damage taken by 15% and increases Thread Generation by 100% while Anchored"
+            }
+        },
+        "megaphone": {
+            "description": {
+                "general": "Consecutive hits decrease Reload Time by 0.5%, up to a maximum of 15%. This effect resets after 10 seconds"
+            }
+        },
+        "ropeLocker": {
+            "description": {
+                "general": "Increases Acceleration to 450% when trim is activated at full Stamina. 7% of Stamina is instantly consumed to trigger this effect"
+            }
+        },
+        "riggingStation": {
+            "description": {
+                "general": "Recovers 1% Hull Health per second when Hull Health is less than 20%"
+            }
+        },
+        "warDrums": {
+            "description": {
+                "general": "While trimming, reduces Brace Stamina Consumption by 50% and increases Armor Rating by 200"
+            }
+        },
+        "scopingStation": {
+            "description": {
+                "general": "Hitting a target more than 320m away applies the Marked status. Targets with the Marked status take 100% more damage to weakpoints"
+            }
+        },
+        "firstAidStation": {
+            "description": {
+                "general": "Increases Repair Amount of Repair Weapons by 30% for ships with less than 33% of Hull Health"
+            }
+        },
+        "scrapperStation": {
+            "description": {
+                "general": "Restores 8000 Hull Health after a Crew Attack"
+            }
+        },
+        "munitionsMixer": {
+            "description": {
+                "general": "Increases duration of Flooded and Ablaze effects applied to enemy ships by 100%. But reduces damage dealt from these effects by 20%"
+            }
+        },
+        "gunnersQuadrant": {
+            "description": {
+                "general": "Decreases Reload Time by 15% for the same weapon used to hit a weakpoint from at least 160m range. This effect lasts for 10s"
+            }
+        },
+        "waterTank": {
+            "description": {
+                "general": [
+                    "Reduces Crew Stamina Depletion by 50% while Bracing",
+                    "Increases Stamina Recovery by 20%"
+                ]
+            }
+        },
+        "putrefying": {
+            "name": "Putrefying",
+            "description": {
+                "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
+            }
+        },
+        "venemousVengeance": {
+            "name": "Venemous Vengeance",
+            "description": {
+                "general": [
+                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 5000 Poison damage and depletes Crew Stamina",
+                    "Has a cooldown of 10 seconds"
+                ]
+            }
+        },
+        "riptide": {
+            "name": "Riptide",
+            "description": {
+                "general": "Adds 50% of damage as Severe Damage when target is Flooded"
+            }
+        },
+        "toxicResistant": {
+            "name": "Toxic Resistant",
+            "description": {
+                "general": "Reduces Damage and Crew Stamina Depletion from toxic attacks by 50%"
+            }
+        },
+        "agileGuard": {
+            "name": "Agile Guard",
+            "description": {
+                "general": "Reduces Crew Stamina Depletion at the start of bracing by 40%"
+            }
+        },
+        "laPotenceSchematics": {
+            "description": {
+                "general": [
+                    "Increases damage to weakpoints to enemy ships by 10%",
+                    "Penetrates 10% of Toxic Resistance"
+                ],
+                "1": [
+                    "Increases damage to weakpoints to enemy ships by 10%",
+                    "Penetrates 10% of Toxic Resistance"
+                ]
+            }
+        },
+        "grilledCoconut": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledFish": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledPrimeCrocodile": {
+            "description": {
+                "general": "Restores Stamina by 55%"
+            }
+        },
+        "tylosaurusSteak": {
+            "description": {
+                "general": "Restores Stamina by 60%"
+            }
+        },
+        "grilledCrocodile": {
+            "description": {
+                "general": "Restores Stamina by 50%"
+            }
+        },
+        "grilledHippo": {
+            "description": {
+                "general": "Restores Stamina by 50%"
+            }
+        },
+        "grilledShark": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledBanana": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledBeef": {
+            "description": {
+                "general": "Restores Stamina by 45%"
+            }
+        },
+        "grilledBread": {
+            "description": {
+                "general": "Restores Stamina by 45%"
+            }
+        },
+        "grilledChicken": {
+            "description": {
+                "general": "Restores Stamina by 45%"
+            }
+        },
+        "grilledDurian": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledMutton": {
+            "description": {
+                "general": "Restores Stamina by 45%"
+            }
+        },
+        "grilledPrimeHippo": {
+            "description": {
+                "general": "Restores Stamina by 55%"
+            }
+        },
+        "grilledScrewpine": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledVegetables": {
+            "description": {
+                "general": "Restores Stamina by 45%"
+            }
+        },
+        "godrogodro": {
+            "description": {
+                "general": [
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
+                    "Restores Repair Kit Effeciency by 10%",
+                    "Restores Stamina Regen by 30%"
+                ]
+            }
+        },
+        "trondroGasy": {
+            "description": {
+                "general": [
+                    "Restores Repair Kit Effeciency by 15%",
+                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
+                    "Restores Stamina Regen by 30%"
+                ]
+            }
+        },
+        "varyBeMenaka": {
+            "description": {
+                "general": [
+                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
+                    "Restores Repair Kit Effeciency by 10%",
+                    "Restores Stamina Regen by 30%"
+                ]
+            }
+        },
+        "ndiziNaNyama": {
+            "description": {
+                "general": [
+                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
+                    "Restores Brace Mitigation by 20%",
+                    "Restores Stamina Regen by 30%"
+                ]
+            }
+        },
+        "ragout": {
+            "description": {
+                "general": [
+                    "Restores Brace Mitigation by 30%",
+                    "Restores Crew-to-Crew Damage by 10%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "sateKambing": {
+            "description": {
+                "general": [
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
+                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "bitterballen": {
+            "description": {
+                "general": [
+                    "Restores Crew-to-Crew Damage by 15%",
+                    "Restores Brace Mitigation by 20%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "ronakoho": {
+            "description": {
+                "general": [
+                    "Restores Crew-to-Crew Damage by 15%",
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "mchuziWaKuharibu": {
+            "description": {
+                "general": [
+                    "Restores Brace Mitigation by 30%",
+                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "otakOtak": {
+            "description": {
+                "general": [
+                    "Restores Crew-to-Crew Damage by 15%",
+                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
+                    "Restores Stamina Regen by 50%"
+                ]
+            }
+        },
+        "artificer": {
+            "name": "Artificer",
+            "description": {
+                "general": [
+                    "Consecutive weapon hits to targets increases effectiveness of subsequent Buoys by 3%, capping at 45%. Resets if more than 12 seconds pass between hits",
+                    "Reduces reload time of Auxiliary Weapons by 10%, as well as for nearby friendly ships",
+                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                ]
+            }
+        },
+        "unsinkable": {
+            "name": "Unsinkable",
+            "description": {
+                "general": "While bracing, the effects of being afflicting with Flooded is negated"
+            }
+        },
+        "ironPlastron": {
+            "name": "Iron Plastron",
+            "description": {
+                "general": "Reduces damage from torpedoes by 30% and by an additional 30% while bracing"
+            }
+        },
+        "crescendo": {
+            "name": "Crescendo",
+            "description": {
+                "general": [
+                    "Holding brace charges up a sonic attack, dealing up to 7200 damage to surrounding hostiles",
+                    "Range when fully charged: 150m"
+                ]
+            }
+        },
+        "bloodAndGold": {
+            "name": "Blood and Gold",
+            "description": {
+                "general": "Destroying a target confers the 'Blood and Gold' status on your ship, which increases Weapon Damage and Armor by 25% for 30 seconds"
+            }
+        },
+        "ricochet": {
+            "name": "Ricochet",
+            "description": {
+                "general": "Hits that land on a ship's hull or structure ricochet towards a nearby target, dealing 75% of the original damage"
+            }
+        },
+        "toxic": {
+            "name": "Toxic",
+            "description": {
+                "3": "Adds 20% of damage as Toxic Damage"
+            }
+        },
+        "homing": {
+            "name": "Homing",
+            "description": {
+                "general": "Projectiles home in on a hostile target"
+            }
+        },
+        "quickArming": {
+            "name": "Quick-Arming",
+            "description": {
+                "general": "Increases damage from torpedoes by 150% when target is beyond 65m"
+            }
+        },
+        "rocketArtillery": {
+            "name": "Rocket Artillery",
+            "description": {
+                "general": "Fires a volley of 10 heavy rockets instead of many smaller rockets"
+            }
+        },
+        "dummySpringloader": {
+            "description": {
+                "1": [
+                    "Reduces Reload Time of Springloader weapons by 20% when Crew Stamina is full",
+                    "Reduces duration of incoming Torn Sails effect by 25%",
+                    "Reduces incoming Flooding Charge by 20%"
+                ]
+            }
+        },
+        "fatanaStation": {
+            "description": {
+                "1": [
+                    "Increases Secondary Damage of Rocket by 12%",
+                    "Increases damage to structures by 12%"
+                ]
+            }
+        },
+        "tuningStation": {
+            "description": {
+                "1": [
+                    "Increases Secondary Damage of Torpedo by 20%",
+                    "Increases Projectile Speed of Torpedo by 13%",
+                    "Restores 10% Crew Stamina per Second while out of combat"
+                ]
+            }
+        },
+        "dampened": {
+            "name": "Dampened",
+            "description": {
+                "general": "Reduces duration of the Ablaze effect by 33%"
+            }
+        },
+        "hydrodynamic": {
+            "name": "Hydrodynamic",
+            "description": {
+                "general": "Every knot of Sailing Speed increases Armor by 1.4%"
+            }
+        },
+        "impenetrable": {
+            "name": "Impenetrable",
+            "description": {
+                "general": "Reduces Weakpoint Damage by 35%"
+            }
+        },
+        "raisedQuarterdeck": {
+            "description": {
+                "1": [
+                    "Reduces Incoming Flooding Damage from enemy ships by 15%",
+                    "Reduces Incoming Flooding Charge from enemy ships by 10%"
+                ]
+            }
+        },
+        "machinistStationRepair": {
+            "description": {
+                "1": [
+                    "Increases Area-of-Operation Radius of Repair Buoys by 25%",
+                    "Increases Repair Amount of Repair Buoys by 25%"
+                ]
+            }
+        },
+        "buoyLocker": {
+            "description": {
+                "1": [
+                    "Increases the maximum number of active buoys by 1",
+                    "Increases Max Health of Buoys by 25%",
+                    "Reduces Reload Time of Auxiliary Weapons by 7%"
+                ]
+            }
+        },
+        "brouwersPowderhouse": {
+            "description": {
+                "1": [
+                    "Increases Area-of-effect Radius of Mortar by 10%",
+                    "Reduces Reload Time of Mortar by 7%"
+                ]
+            }
+        },
+        "maintainedArsenal": {
+            "description": {
+                "1": "Increases Damage from Auxiliary Weapons by 13%"
+            }
+        },
+        "compagnieScreens": {
+            "description": {
+                "general": [
+                    "Reduces incoming Area-of-effect Damage from enemy ships by 20%",
+                    "Reduces Incoming Burning Charge by 10%",
+                    "Increases Max Hull Health by 5%"
+                ]
+            }
+        },
+        "medicineCabinet": {
+            "description": {
+                "general": [
+                    "Reduces Crew Stamina Depletion from attacks by 20%",
+                    "Increases Stamina Recovery by 8% while in combat",
+                    "Increases Maximum Stamina by 5%"
+                ]
+            }
+        },
+        "compagnieSpiritsLocker": {
+            "description": {
+                "general": [
+                    "Reduces Crew Stamina Depletion at start of bracing by 20% while slowed by Flooding, Torn Sails or other status effects",
+                    "Increases Brace Strength by 15%",
+                    "Increases Armor Rating of equipped armor by 7%"
+                ]
+            }
+        },
+        "secretCache": {
+            "description": {
+                "1": [
+                    "Reduces the effects of the Ship Encumbered state by 15%",
+                    "Increases Turning Speed by 16%",
+                    "Increases Acceleration by 16%"
+                ]
+            }
+        },
+        "bombardMenuiserie": {
+            "description": {
+                "1": [
+                    "Increases Bombard Damage by 10%",
+                    "Increases damage to structures by 8%",
+                    "Increases Repair Amount from Repair Weapons by 5%"
+                ]
+            }
+        },
+        "cursedBanner": {
+            "description": {
+                "general": [
+                    "Increases Thread Generation by 10%",
+                    "Increases damage from auxiliary weapons by 7%",
+                    "Increases Max Hull Health by 3%"
+                ]
+            }
+        },
+        "lemariMakanan": {
+            "description": {
+                "1": [
+                    "Increases Crew Stamina Recovery Speed by 13%",
+                    "Increases Maximum Stamina by 5%",
+                    "Increases Torn Sails Charge Speed by 3%"
+                ]
+            }
+        },
+        "gunportsUpgrade": {
+            "name": "Gunports Upgrade",
+            "description": {
+                "general": "Able to equip Front Weapons and unlocks rear gunport. Increases damage and repair amount by 25% on broadside weapons"
+            }
+        },
+        "heavyArsenal": {
+            "name": "Heavy Arsenal",
+            "description": {
+                "general": "Able to equip Front Weapons, Auxiliary Weapons and unlocks rear gunport. Increases damage and repair amount by 50% on broadside weapons"
+            }
+        },
+        "riverRat": {
+            "name": "River Rat",
+            "description": {
+                "general": "Improves Speed, Turning Speed when traversing rivers"
+            }
+        },
+        "jousting": {
+            "name": "Jousting",
+            "description": {
+                "general": "Increases damage from ramming based on current speed (capped at 150%). Ramming a target reduces its Armor by 300 for 30 seconds"
+            }
+        },
+        "bedarUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Base Ship Rank to 2",
+                    "Increases Hull Health to 38000",
+                    "Increases Brace Strength to 7600",
+                    "Adds 'Gunports Upgrade' perk"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 3",
+                    "Increases Top Speed to 10kn",
+                    "Increases Trimming Speed to 15kn",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 4",
+                    "Increases Hull Health to 45000",
+                    "Increases Brace Strength to 9000",
+                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 58000",
+                    "Adds 'River Rat' perk"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Jousting' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 48200",
+                    "Increases Brace Strength to 9640",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "stationsUpgrade": {
+            "name": "Stations Upgrade",
+            "description": {
+                "general": "Able to equip Front Weapons. Increases damage and repair amount by 25% on broadside weapons"
+            }
+        },
+        "bigGuns": {
+            "name": "Big Guns",
+            "description": {
+                "general": "Able to equip Front Weapons and Auxiliary Weapons. Increases damage and repair amount by 50% on broadside weapons"
+            }
+        },
+        "ironwill": {
+            "name": "Ironwill",
+            "description": {
+                "general": "Increases Armor Rating by 300 for yourself and nearby allies"
+            }
+        },
+        "hulkUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Base Ship Rank to 4",
+                    "Increases Hull Health to 40000",
+                    "Increases Brace Strength to 28000",
+                    "Adds 'Stations Upgrade' perk"
+                ],
+                "2": [
+                    "Increases Top Speed to 10kn",
+                    "Increases Trimming Speed to 13kn",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Hull Health to 58000",
+                    "Increases Brace Strength to 40600",
+                    "Replaces 'Stations Upgrade' with 'Big Guns' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Cargo to 70000",
+                    "Adds 'River Rat' perk"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Ironwill' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 62100",
+                    "Increases Brace Strength to 43470",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "unsparing": {
+            "name": "Unsparing",
+            "description": {
+                "general": "Increases Repair Effectiveness of allies by 30% after repairing"
+            }
+        },
+        "cutterUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Base Ship Rank to 3",
+                    "Increases Hull Health to 35000",
+                    "Increases Brace Strength to 7000",
+                    "Adds 'Gunports Upgrade' perk"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 4",
+                    "Increases Top Speed to 11kn",
+                    "Increases Trimming Speed to 15kn",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Hull Health to 46000",
+                    "Increases Brace Strength to 9200",
+                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Cargo to 68000",
+                    "Adds 'River Rat' perk"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Unsparing' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 49300",
+                    "Increases Brace Strength to 9860",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "devouring": {
+            "name": "Devouring",
+            "description": {
+                "general": "Builds up Torn Sails when hitting a target with Ablaze"
+            }
+        },
+        "bargeUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Base Ship Rank to 4",
+                    "Increases Hull Health to 36000",
+                    "Increases Brace Strength to 7200",
+                    "Adds 'Stations Upgrade' perk"
+                ],
+                "2": [
+                    "Increases Top Speed to 11kn",
+                    "Increases Trimming Speed to 14kn",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Hull Health to 46000",
+                    "Increases Brace Strength to 9200",
+                    "Replaces 'Stations Upgrade' with 'Big Guns' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Cargo to 65000",
+                    "Adds 'River Rat' perk"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Devouring' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 49300",
+                    "Increases Brace Strength to 9860",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "ruin": {
+            "name": "Ruin",
+            "description": {
+                "general": "Explosive Damage hits decrease enemy's weapon damage by 20%"
+            }
+        },
+        "sloopUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 37000",
+                    "Increases Brace Strength to 7400",
+                    "Adds 'Gunports Upgrade' perk"
+                ],
+                "2": [
+                    "Increases Top Speed to 11kn",
+                    "Increases Trimming Speed to 14kn",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Hull Health to 45000",
+                    "Increases Brace Strength to 9000",
+                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Cargo to 65000",
+                    "Adds 'River Rat' perk"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Ruin' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 48200",
+                    "Increases Brace Strength to 9640",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "deepBlue": {
+            "name": "Deep Blue",
+            "description": {
+                "general": "Improves Turning Speed when traversing seas"
+            }
+        },
+        "padewakangSiegeUpgrade": {
+            "name": "Siege",
+            "description": {
+                "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
+            }
+        },
+        "padewakangUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 43000",
+                    "Increases Brace Strength to 8600"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 75000",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 48000",
+                    "Increases Brace Strength to 9600"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Siege' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 52800",
+                    "Increases Brace Strength to 10560",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "vindictive": {
+            "name": "Vindictive",
+            "description": {
+                "general": "After bracing damage, increases Weapon Damage by 20% for 20 seconds"
+            }
+        },
+        "snowUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 55000",
+                    "Increases Brace Strength to 27500"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 85000",
+                    "Increases Furniture Slots to 5"
+                ],
+                "3": [
+                    "Increases Top Speed to 11kn",
+                    "Increases Trimming Speed to 14kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 60000",
+                    "Increases Brace Strength to 30000"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Hull Health to 66000",
+                    "Increases Brace Strength to 33000",
+                    "Adds 'Vindictive' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 79200",
+                    "Increases Brace Strength to 39600"
+                ]
+            }
+        },
+        "headstrong": {
+            "name": "Headstrong",
+            "description": {
+                "general": "Increases damage from ramming based on current speed (cappet at 80%). If target is Flooded, deal additional 7000 damage when ramming"
+            }
+        },
+        "brigantineUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 43000",
+                    "Increases Brace Strength to 8600"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 60000"
+                ],
+                "3": [
+                    "Increases Top Speed to 13kn",
+                    "Increases Trimming Speed to 20kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 45000",
+                    "Increases Brace Strength to 9000"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Headstrong' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 49500",
+                    "Increases Brace Strength to 9900",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "firebug": {
+            "name": "Firebug",
+            "description": {
+                "general": [
+                    "Ablaze deals 100% more damage but lasts 50% of the duration",
+                    "Decreases Fire Weapons Reload Time by 12%"
+                ]
+            }
+        },
+        "sambukUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 40000",
+                    "Increases Brace Strength to 8000"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 75000"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 45000",
+                    "Increases Brace Strength to 9000"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Firebug' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 49500",
+                    "Increases Brace Strength to 9900",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "mend": {
+            "name": "Mend",
+            "description": {
+                "general": "Increase Repair Amount of Repair Weapons by 40% for ships with less than 33% of Hull Health"
+            }
+        },
+        "barqueUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 41000",
+                    "Increases Brace Strength to 8200"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 80000"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 17kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 46000",
+                    "Increases Brace Strength to 9200"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Mend' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 50600",
+                    "Increases Brace Strength to 10120",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "evolved": {
+            "name": "Evolved",
+            "description": {
+                "general": "Increase weapon damage and Repair Amount of Auxiliary Weapons by 15%"
+            }
+        },
+        "brigUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 40000",
+                    "Increases Brace Strength to 8000"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 75000"
+                ],
+                "3": [
+                    "Increases Top Speed to 13kn",
+                    "Increases Trimming Speed to 18kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 45000",
+                    "Increases Brace Strength to 9000"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Evolved' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 49500",
+                    "Increases Brace Strength to 9900",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "boatswainsToll": {
+            "description": {
+                "1": [
+                    "Increases Crew Attack damage by 7%",
+                    "Increases Charge Rate of Crew Attack by 6%",
+                    "Restores 5% Crew Stamina per second while out of combat"
+                ]
+            }
+        },
+        "scupperStation": {
+            "description": {
+                "1": [
+                    "While under the effect of Flooded, reduces Crew Stamina Depletion while trimming sails by 15%",
+                    "While under the effect of Flooded, reduces Crew Stamina Depletion while bracing by 10%"
+                ]
+            }
+        },
+        "waterFlask": {
+            "description": {
+                "general": "Restores Sailing Speed by 10%"
+            }
+        },
+        "waterBarrel": {
+            "description": {
+                "general": "Restores Sailing Speed by 15%"
+            }
+        },
+        "teulingsCoffee": {
+            "description": {
+                "general": "Restores Sailing Speed by 15%"
+            }
+        },
+        "zongZi": {
+            "description": {
+                "general": [
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
+                    "Restores Stamina Regen by 50%",
+                    "+5 Reload Speed"
+                ]
+            }
+        },
+        "rumFruitcake": {
+            "description": {
+                "general": [
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
+                    "Increases Stamina Regen by 50%",
+                    "+5 Reload Speed"
+                ]
+            }
+        },
+        "teulingsSpecialSteakDinner": {
+            "description": {
+                "general": [
+                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
+                    "Restores Stamina Regen by 30%"
+                ]
+            }
+        },
+        "mermaidsTears": {
+            "description": {
+                "general": [
+                    "Restores Brace Mitigation by 50%",
+                    "Restores Stamina Regen by 10%"
+                ]
+            }
+        },
+        "darkNStormy": {
+            "description": {
+                "general": [
+                    "Restores Repair Kit efficiency by 50%",
+                    "Restores Stamina Regen by 10%"
+                ]
+            }
+        },
+        "scallyGrog": {
+            "description": {
+                "general": [
+                    "Restores Brace Stamina Consumption at the start of bracing by 50%",
+                    "Restores Stamina Regen by 10%"
+                ]
+            }
+        },
+        "bloodyAnnie": {
+            "description": {
+                "general": [
+                    "Restores Crew-to-Crew Damage by 50%",
+                    "Restores Stamina Regen by 10%"
+                ]
+            }
+        },
+        "lestarisMeat": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "grilledLestariMeat": {
+            "description": {
+                "general": "Restores Stamina by 60%"
+            }
+        },
+        "leatherFashioningStation": {
+            "description": {
+                "1": [
+                    "Reduces Ablaze Damage from enemy ships by 15%",
+                    "Reduces Incoming Burning Charge from enemy ships by 12%",
+                    "Reduces duration of incoming Ablaze effect by 10%"
+                ]
+            }
+        },
+        "incinerate": {
+            "name": "Incinerate",
+            "description": {
+                "general": "Deployed buoy erupts into a fiery explosion when destroyed, dealing 300% damage and instantly causing targets to be set Ablaze"
+            }
+        },
+        "lestariTrophy": {
+            "description": {
+                "general": [
+                    "Increases Crew Attack damage by 7%",
+                    "Increases Cargo Capacity by 8%",
+                    "Increases Acceleration by 14%"
+                ]
+            }
+        },
+        "hubacTuningRack": {
+            "description": {
+                "general": [
+                    "Increases Maximum Range of Torpedo by 14%",
+                    "Reduces Arming Distance for Torpedo weapons by 25%",
+                    "Increases Projectile Speed of Torpedo by 10%"
+                ]
+            }
+        },
+        "machinistStationMines": {
+            "description": {
+                "1": [
+                    "Increases Minefield Buoy Damage by 20%",
+                    "Increases Area-of-Operation Radius of Minefield Buoys by 20%"
+                ]
+            }
+        },
+        "sharedSupply": {
+            "name": "Shared Supply",
+            "description": {
+                "general": "Hits on an allied ship will also repair the nearest allied ship for 75% of the original repaired amount"
+            }
+        },
+        "deluge": {
+            "name": "Deluge",
+            "description": {
+                "general": "15% chance to deal 2500 Severe Damage. This chance increases to 30% when the target ship has the Flooded status effect"
+            }
+        },
+        "taunting": {
+            "name": "Taunting",
+            "description": {
+                "general": "Hitting a target instantly confers the Taunted status effect"
+            }
+        },
+        "spitefulSpikesStation": {
+            "description": {
+                "general": [
+                    "Hitting a weakpoint has a  40% chance of reducing all Repair effects on the target by 75% for 15s, regardless of source",
+                    "Increases damage to weakpoints by Auxiliary Weapons by 10%",
+                    "Reduces Reload Time of Auxiliary Weapons by 7%"
+                ]
+            }
+        },
+        "emergencySails": {
+            "description": {
+                "general": [
+                    "Increases Trim Speed by 10% while pursuing an enemy ship within 400m",
+                    "Increases Charge Rate of the Torn Sails status effect by 10% while pursuing an enemy ship within 400m"
+                ]
+            }
+        },
+        "lightningStream": {
+            "name": "Lightning Stream",
+            "description": {
+                "general": [
+                    "Bracing charges a Lightning attack that will chain up to 4 targets and deal a maximum of 1850 Electric Damage per target",
+                    "The longer Bracing is held, the more powerful the attack the further the Lightning will reach"
+                ]
+            }
+        },
+        "provoking": {
+            "name": "Provoking",
+            "description": {
+                "general": "Hits on a target cause build up of the Taunted status effect"
+            }
+        },
+        "heavensWrath": {
+            "name": "Heaven's Wrath",
+            "description": {
+                "general": "If a target is afflicted with the Electrified status effect, hits have a 15% chance to summon a devastating Lightning strike that deals 1500 Electric Damage"
+            }
+        },
+        "eighteenStrikes": {
+            "name": "Eighteen Strikes",
+            "description": {
+                "general": [
+                    "Landing 18 hits in a single volley will instantly deal 1888 Burning Damage",
+                    "This effect deals 200% as much damage on a target with the Ablaze status effect"
+                ]
+            }
+        },
+        "unrelentingDrill": {
+            "name": "Unrelenting Drill",
+            "description": {
+                "general": "Fires a drill-bolt that travels in a straight path, piercing multiple targets. Drill-bolts deal additional 50% to subsequent targets after hitting a first target."
+            }
+        },
+        "longDraw": {
+            "name": "Long Draw",
+            "description": {
+                "general": "This weapon can be charged for up to 420% increased damage and 900m increased range."
+            }
+        },
+        "revile": {
+            "name": "Revile",
+            "description": {
+                "general": "Every hit received while Bracing will build up the Taunted status effect on an attacking enemy"
+            }
+        },
+        "gloat": {
+            "name": "Gloat",
+            "description": {
+                "general": "Increases Brace Strength Recovery by 100% for each enemy with the Taunted status effect that is actively targeting your ship, up to a maximum of 10 enemy ships"
+            }
+        },
+        "electric": {
+            "name": "Electric",
+            "description": {
+                "1": "Adds 10% of damage as Electric Damage",
+                "2": "Adds 20% of damage as Electric Damage",
+                "3": "Adds 30% of damage as Electric Damage",
+                "4": "Adds 40% of damage as Electric Damage"
+            }
+        },
+        "organHarvestingStation": {
+            "description": {
+                "general": [
+                    "Increases Rocket damage by 5% for every 20% of Hull Health missing on player's ship",
+                    "Increases Secondary Damage of Rocket by 10%",
+                    "Reduces Reload Time of Rocket by 5%"
+                ]
+            }
+        },
+        "bracedGunwales": {
+            "description": {
+                "general": [
+                    "Reduces incoming Secondary Damage by 20% while Anchored",
+                    "Increases Deceleration by 75% while dropping anchor"
+                ]
+            }
+        },
+        "lestariStew": {
+            "description": {
+                "general": [
+                    "Increases Crew-to-Crew Damage by 10%",
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
+                    "Increases Stamina Regen by 50%"
+                ]
+            }
+        },
+        "firstMatesLedger": {
+            "description": {
+                "general": [
+                    "Restores 15% Severe Damage after hitting a target with a Crew Attack",
+                    "Icnreases Crew Stamina Recovery by 10% for 10s after each use of a Crew Ability",
+                    "Increases Crew Ability Range by 5%"
+                ]
+            }
+        },
+        "kinckelsLaboratory": {
+            "description": {
+                "1": [
+                    "Increases Area-of-effect Radius of Mortar by 5%",
+                    "Increases Armor Rating of equipped armor by 5%",
+                    "Increases damage to structures by 5%"
+                ]
+            }
+        },
+        "shellPackingStation": {
+            "description": {
+                "general": [
+                    "Increases Area-of-effect Radius of Bombard weapons by 5%",
+                    "Reduces Reload Time of Bombard weapons by 5%"
+                ]
+            }
+        },
+        "densityFurnace": {
+            "description": {
+                "general": [
+                    "Increases Charge Rate of the Flooded status effect on a target by 12%",
+                    "Increases duration of the Flooded status effect on a target by 12%"
+                ]
+            }
+        },
+        "langrageBarrels": {
+            "description": {
+                "general": [
+                    "Increases Charge Rate of the Torn Sails status effect on a target by 8%",
+                    "Increases duration of the Torn Sails status effect on a target by 8%"
+                ]
+            }
+        },
+        "gearsWorkshop": {
+            "description": {
+                "general": [
+                    "Reduces Reload Time of Ballista weapons by 12%",
+                    "Reduces Charge Time of Ballista weapons by 10%"
+                ]
+            }
+        },
+        "smokedCanisters": {
+            "description": {
+                "general": [
+                    "Increases Ammo Capacity of Sea Fire weapons by 20%",
+                    "Reduces Reload Time of Sea Fire weapons by 10%",
+                    "Increases Maximum Range of Sea Fire weapons by 5%"
+                ]
+            }
+        },
+        "beamSupports": {
+            "description": {
+                "general": [
+                    "Increases Max Hull Health by 7%",
+                    "Increases Armor Rating of equipped armor by 7%"
+                ]
+            }
+        },
+        "heavensEye": {
+            "name": "Heaven's Eye",
+            "description": {
+                "general": "Hits to a target's weakpoint have a 35% chance to summon a devastating Lightning strike that deals 3000 Electric Damage"
+            }
+        },
+        "indomitable": {
+            "name": "Indomitable",
+            "description": {
+                "general": "Prevents a killing blow from sinking this ship and this ship becomes invulnerable for the next 5 seconds. This effect has a 180 second cooldown"
+            }
+        },
+        "insulation": {
+            "name": "Insulation",
+            "description": {
+                "general": "Reduces damage from the Stormstruck status effect by 25%"
+            }
+        },
+        "amberCoatingStation": {
+            "description": {
+                "general": [
+                    "Increases Charge Rate of the Stormstruck status effect on a target by 8%",
+                    "Increases duration of the Stormstruck status effect on a target by 8%"
+                ]
+            }
+        },
+        "chargeStores": {
+            "description": {
+                "general": [
+                    "After triggering the Stormstruck status effect, increases damage from next attack by 50%",
+                    "Increases Charge Rate of the Ablaze status effect by 10% on targets already affected by the Stormstruck status effect",
+                    "Increases damage of Electric weapons by 5%"
+                ]
+            }
+        },
+        "provoke": {
+            "name": "Provoke",
+            "description": {
+                "general": [
+                    "Damage dealt within 200m range applies Taunted charges. Applying Taunted with this ship makes target vulnerable to 50% increased weakpoint damage from all sources",
+                    "Increases Brace Strength by 150% and Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "battleJunkUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 53000",
+                    "Increases Brace Strength to 26500"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 80000"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 58000",
+                    "Increases Brace Strength to 29000"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Endure' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 63800",
+                    "Increases Brace Strength to 31900",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "endure": {
+            "name": "Endure",
+            "description": {
+                "general": [
+                    "Receives 2% less damage per attack each time incoming damage is braced. This effect can stack up to 20% and expires if no damage has been braced in the last 12 seconds",
+                    "Inflicts Taunted charges to hostile targets within 125m while bracing against hits"
+                ]
+            }
+        },
+        "lotusMooncake": {
+            "description": {
+                "general": [
+                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
+                    "Increases Stamina Regen by 50%",
+                    "+5% Reload Speed"
+                ]
+            }
+        },
+        "phantomMending": {
+            "name": "Phantom Mending",
+            "description": {
+                "general": "10% of damage dealt from this weapon restores Hull Health"
+            }
+        },
+        "freemansEmbrace": {
+            "description": {
+                "general": [
+                    "Damaging status effects on your ship will spread to any enemy ships you ram",
+                    "Increases the duration of damaging status effects on your ship by 30%",
+                    "Reduces damage from status effects on your ship by 30%"
+                ]
+            }
+        },
+        "cannonballCarvingStation": {
+            "description": {
+                "general": [
+                    "Hitting a weakpoint applies Taunting Charge on the target",
+                    "Increases Taunt Duration by 15%",
+                    "Reduces Reload Time of Piercing weapons by 5%"
+                ]
+            }
+        },
+        "bloodyRed": {
+            "description": {
+                "general": [
+                    "Reduces Threat Generation of nearby friendly ships by 60%",
+                    "Increases Taunt Bonus Threat by 40%",
+                    "Increases Threat Generation by 25%"
+                ]
+            }
+        },
+        "plaguebringersWard": {
+            "description": {
+                "general": [
+                    "Reduces Reload Time of Toxic weapons by 7%",
+                    "Increases damage from Toxic weapons by 4%"
+                ]
+            }
+        },
+        "quickIgnitingPowder": {
+            "description": {
+                "general": [
+                    "Increases Charge Rate of the Ablaze status effect on a target by 8%",
+                    "Increases duration of the Ablaze status effect on a target by 8%"
+                ]
+            }
+        },
+        "ballistaMaximumRange": {
+            "description": {
+                "1": "Increases Maximum Range of Ballista by 10%"
+            }
+        },
+        "deadeye": {
+            "name": "Deadeye",
+            "description": {
+                "general": [
+                    "Weapon damage is increased based on how far you are from the target, capped at 60%",
+                    "When your Hull Health is 40% or lower, increases Armor by 500 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
+                ]
+            }
+        },
+        "garudaUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 38000",
+                    "Increases Brace Strength to 7600"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 65000"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 43000",
+                    "Increases Brace Strength to 8600"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Revolver' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 47300",
+                    "Increases Brace Strength to 9460",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "revolver": {
+            "name": "Revolver",
+            "description": {
+                "general": [
+                    "Increase Piercing weapon damage by 20%. Increases to 30% when hitting a target with Punctured",
+                    "The Long Gun is no longer a top-deck only weapon when equipped at the bow",
+                    "Long Guns equipped at the bow will deal 40% less damage and have 60% longer reload times"
+                ]
+            }
+        },
+        "fury": {
+            "name": "Fury",
+            "description": {
+                "general": [
+                    "Increases damage to structures by 50% and increases Weakpoint Damage taken by 30% for 10 seconds",
+                    "Weapon hits have a 20% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 20%",
+                    "While active, broadside hits can trigger a 700 damaging explosion every 3s within a 100m Blast Radius"
+                ]
+            }
+        },
+        "schoonerUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 41000",
+                    "Increases Brace Strength to 8200"
+                ],
+                "2": [
+                    "Increases Base Ship Rank to 5",
+                    "Increases Cargo to 75000"
+                ],
+                "3": [
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 17kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Hull Health to 46000",
+                    "Increases Brace Strength to 9200"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Volatile' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 50600",
+                    "Increases Brace Strength to 10120",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "volatile": {
+            "name": "Volatile",
+            "description": {
+                "general": "All weapons equipped on the broadsides on this ship will deal bonus 20% explosive damage and decreases explosive weapon Reload Time by 10%"
+            }
+        },
+        "chainReaction": {
+            "name": "Chain Reaction",
+            "description": {
+                "general": [
+                    "Increases damage dealt by this weapon by 5% after every hit",
+                    "Effect resets after 7 seconds from the initial hit"
+                ]
+            }
+        },
+        "pneumaticEngine": {
+            "name": "Pneumatic Engine",
+            "description": {
+                "general": [
+                    "Rapidly fires Sea Fire darts up to a range of 250m",
+                    "Weapon takes a moment to wind up before firing"
+                ]
+            }
+        },
+        "tempest": {
+            "name": "Tempest",
+            "description": {
+                "general": "Every target hit causes a lightning arc to strike the nearest enemy within 150m, dealing 2500 Electric Damage"
+            }
+        },
+        "soulShield": {
+            "name": "Soul Shield",
+            "description": {
+                "general": "Deployed buoy creates a protective dome that absorbs enemy projectiles but is weak against Piercing damage"
+            }
+        },
+        "rally": {
+            "name": "Rally",
+            "description": {
+                "general": "Using a Crew Attack increases Broadside weapon damage by 33% and Stamina Recovery by 100% for the next 15 seconds"
+            }
+        },
+        "phantasmicThrust": {
+            "name": "Phantasmic Thrust",
+            "description": {
+                "general": "Ramming a target repairs your ship's Hull Health by 138% of damage inflicted"
+            }
+        },
+        "darkMeditation": {
+            "name": "Dark Meditation",
+            "description": {
+                "general": "While bracing, reduces the duration of negative status effects by 10% of their maximum durations every second"
+            }
+        },
+        "painPiper": {
+            "description": {
+                "general": [
+                    "Getting hit by a Crew Attack increases damage of your next Crew Attack by 80%",
+                    "Decreases incoming Crew Attack damage by 10%",
+                    "Increases Maximum Stamina by 5%"
+                ]
+            }
+        },
+        "drownedOnesToll": {
+            "description": {
+                "general": [
+                    "When above 60% of Crew Stamina and below Max Hull Health, 6% of Crew Stamina is consumed to restore 0.28% of Hull Health per second",
+                    "Increases Max Hull Health by 8%",
+                    "Increases Crew Stamina Recovery Speed by 6% while out of combat"
+                ]
+            }
+        },
+        "chainedLinks": {
+            "description": {
+                "general": [
+                    "While trimming sails, reduces incoming Weakpoint Damage by 60%, at the cost of 10% Crew Stamina per hit",
+                    "Reduces incoming damage to weakpoints by 20%",
+                    "Increases Armor Rating of equipped armor by 10%"
+                ]
+            }
+        },
+        "teulingsGuidance": {
+            "description": {
+                "general": [
+                    "Hitting a weakpoint increases the damage dealt by the next weakpoint hit within 8 seconds by 30%",
+                    "Increases damage to weakpoints with Front Weapons by 12%",
+                    "Reduces Reload Time of Front Weapons by 5%"
+                ]
+            }
+        },
+        "strangeElixir": {
+            "description": {
+                "general": [
+                    "Increases Crew Ability Range by 25% while Crew Stamina is above 50%",
+                    "Increases Crew Attack Charge Rate by 15%",
+                    "Reduces Crew Stamina Depletion from Bracing by 5%"
+                ]
+            }
+        },
+        "decoyDeck": {
+            "description": {
+                "general": [
+                    "For every target that has received the Taunted status effect by your ship, increases incoming Repair Amount by 5%, up to a maximum of 20%",
+                    "Increases the Charge Rate of the Taunted status effect on enemy targets by 7%",
+                    "Increases Threat Generation by 7%"
+                ]
+            }
+        },
+        "floatCollars": {
+            "description": {
+                "general": [
+                    "Increases Max Health of Buoys by 100%",
+                    "Increases Deployment Duration of Buoys by 50%"
+                ]
+            }
+        },
+        "mineClearingLocker": {
+            "description": {
+                "general": [
+                    "While sailing at half-sails or less, your ship has a 80% chance to avoid triggering Mine Buoys",
+                    "Reduces all incoming damage from Mine Buoys by 15%",
+                    "Increases Brace Strength by 5%"
+                ]
+            }
+        },
+        "devilsConcoction": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage of Burning weapons by 12%",
+                    "Increases Maximum Range of Burning weapons by 8%"
+                ]
+            }
+        },
+        "debrisLocker": {
+            "description": {
+                "general": [
+                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 50%",
+                    "Increases Charge Rate of the Torn Sails status effect on a target by 16%"
+                ]
+            }
+        },
+        "expandingCorkscrewStation": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage of Flooding weapons by 12%",
+                    "Increases Maximum Range of Flooding weapons by 8%"
+                ]
+            }
+        },
+        "cannonballChargingStation": {
+            "description": {
+                "general": [
+                    "Increases the Charge Rate of the Stormstruck status effect on enemy targets already affected by the Punctured status effect by 50%",
+                    "Increases Charge Rate of the Punctured status effect on a target by 16%"
+                ]
+            }
+        },
+        "copperFasteningStation": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage of Electric weapons by 12%",
+                    "Increases maximum Range of Electric weapons by 8%"
+                ]
+            }
+        },
+        "rifledBarrelWorkshop": {
+            "description": {
+                "general": [
+                    "Increases the Charge Rate of the Punctured status effect on enemy targets already affected by the Flooded status effect by 50%",
+                    "Increases Charge Rate of the Flooded status effect on a target by 16%"
+                ]
+            }
+        },
+        "highVelocityKegs": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage of Piercing weapons by 12%",
+                    "Increases Maximum Range of Piercing weapons by 8%"
+                ]
+            }
+        },
+        "ghostlyMending": {
+            "name": "Ghostly Mending",
+            "description": {
+                "general": [
+                    "5% of damage dealt from this weapon restores Hull Health",
+                    "When a weakpoint is hit, the repair amount is multiplied by 700%"
+                ]
+            }
+        },
+        "sunder": {
+            "name": "Sunder",
+            "description": {
+                "general": [
+                    "Once armed, torpedoes increase speed by 100% and penetrate through target ships",
+                    "Torpedoes also reduce armor by 200 for 10s"
+                ]
+            }
+        },
+        "reinforced": {
+            "name": "Reinforced",
+            "description": {
+                "general": "Reduces damage taken from the Punctured status effect by 25%"
+            }
+        },
+        "crocodileMeat": {
+            "description": {
+                "general": "Restores Stamina by 30%"
+            }
+        },
+        "tylosaurusFlesh": {
+            "description": {
+                "general": "Restores Stamina by 40%"
+            }
+        },
+        "fish": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "durian": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "coconut": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "ndizi": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "rawChicken": {
+            "description": {
+                "general": "Restores Stamina by 25%"
+            }
+        },
+        "flour": {
+            "description": {
+                "general": "Restores Stamina by 25%"
+            }
+        },
+        "rawMutton": {
+            "description": {
+                "general": "Restores Stamina by 25%"
+            }
+        },
+        "rawVegetables": {
+            "description": {
+                "general": "Restores Stamina by 25%"
+            }
+        },
+        "screwpine": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "hippoMeat": {
+            "description": {
+                "general": "Restores Stamina by 30%"
+            }
+        },
+        "sharkMeat": {
+            "description": {
+                "general": "Restores Stamina by 20%"
+            }
+        },
+        "rawBeef": {
+            "description": {
+                "general": "Restores Stamina by 25%"
+            }
+        },
+        "primeHippoMeat": {
+            "description": {
+                "general": "Restores Stamina by 35%"
+            }
+        },
+        "primeCrocodileMeat": {
+            "description": {
+                "general": "Restores Stamina by 35%"
+            }
+        },
+        "libertyCap": {
+            "description": {
+                "general": [
+                    "Increases Crew-to-Crew Damage by 30%",
+                    "Decreases Stamina Regen by 50%"
+                ]
+            }
+        },
+        "shelter": {
+            "name": "Shelter",
+            "description": {
+                "general": "Reduces damage received from Shell-Shocked by 25% and its duration by 50%"
+            }
+        },
+        "cindershield": {
+            "name": "Cindershield",
+            "description": {
+                "general": "While bracing, the effects of being afflicted with Ablaze is negated"
+            }
+        },
+        "emberWard": {
+            "name": "Ember Ward",
+            "description": {
+                "general": "Reduces damage taken by Burning Weapons by 30% and by an additional 30% while bracing"
+            }
+        },
+        "euphoria": {
+            "name": "Euphoria",
+            "description": {
+                "general": "Increases weapon damage by 15% while Hull Health is above 75%"
+            }
+        },
+        "vigilance": {
+            "name": "Vigilance",
+            "description": {
+                "general": [
+                    "During the first 2s of Bracing, any damage taken is reduced by 3000",
+                    "After 2s, Bracing reduces damage taken by 200",
+                    "Activating bracing consumes twice as much Crew Stamina"
+                ]
+            }
+        },
+        "afterShock": {
+            "name": "After Shock",
+            "description": {
+                "general": "Summons a Lightning strike after 2s at the location a show lands, dealing 2000 Electric Damage"
+            }
+        },
+        "impendingBoom": {
+            "name": "Impending Boom",
+            "description": {
+                "general": [
+                    "Hits have a 15% chance to inflict a delayed epxlosion that deals 7500 damage in a 65m radius after 4s",
+                    "This chance increases to 100% when hitting a weakpoint",
+                    "May only inflict one delayed attack per target"
+                ]
+            }
+        },
+        "tripleThreat": {
+            "name": "Triple Threat",
+            "description": {
+                "general": "Fires 3 shots at once. Deals additional 400 fire damage if all 3 shots hit the same target"
+            }
+        },
+        "combustion": {
+            "name": "Combustion",
+            "description": {
+                "1": "Adds 10% of damage as Explosive Damage",
+                "2": "Adds 20% of damage as Explosive Damage",
+                "3": "Adds 30% of damage as Explosive Damage"
+            }
+        },
+        "imminentBang": {
+            "name": "Imminent Bang",
+            "description": {
+                "general": [
+                    "Hits have a 3% chance to inflict a delayed explosion that deals 7500 damage in a 65m radius after 4s",
+                    "May only inflict one delayed attack per target"
+                ]
+            }
+        },
+        "bilgefireBarrels": {
+            "description": {
+                "general": [
+                    "Weapon hits against a target with a damaging status effect have a 5% chance to fully recharge those status effects. This effect has a 30s cooldown",
+                    "Increases Secondary Damage of Broadside Weapons by 10%",
+                    "Increases Broadside Weapons damage by 5%"
+                ]
+            }
+        },
+        "emergencyLocker": {
+            "description": {
+                "general": [
+                    "Reduces duration of all damaging status effects applied to your ship by 50% but increases damage dealt by these by 15%",
+                    "Reduces incoming Secondary Damage by 10%",
+                    "Increases Max Hull Health by 6%"
+                ]
+            }
+        },
+        "wyrmsBreathChurner": {
+            "description": {
+                "general": [
+                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 20% for 10s",
+                    "Increases Secondary Damage of Explosive Weapons by 20%",
+                    "Increases weapon damage of Explosive Weapons by 5%"
+                ]
+            }
+        },
+        "markOfTheWolf": {
+            "description": {
+                "general": [
+                    "Triggering Ablaze on the target also increases Shell-Shocked charge rate by 50% for 7s",
+                    "Inceases Fire Rate of Explosive Weapons by 20%",
+                    "Increases damage to structures by 5%"
+                ]
+            }
+        },
+        "fuseFusingStation": {
+            "description": {
+                "general": [
+                    "Decreases Reload Time of Front and Rear Weapons by 9%",
+                    "Increases Secondary Damage dealt by Front and Rear weapons by 9%"
+                ]
+            }
+        },
+        "ramrodWorkshop": {
+            "description": {
+                "general": [
+                    "Decreases Reload Time of Broadside Weapons by 7%",
+                    "Increases Secondary Damage dealt by Broadside Weapons by 7%"
+                ]
+            }
+        },
+        "breechlockFurnace": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage dealt by up to 20% the closer the target is, reduced by 2% per 50m to the target",
+                    "Increases Charge Rate of the Shell-Shocked effect on enemy ships by 5%",
+                    "Increases damage dealt by the Shell-Shocked status effect on a target by 3%"
+                ]
+            }
+        },
+        "dynamicBallastControl": {
+            "description": {
+                "general": [
+                    "Reduces incoming Secondary Damage for every 100m to attack, capped at 30% at 600m",
+                    "Reduces incoming Piercing Charge from enemy ships by 8%",
+                    "Increases Armor Rating of equipped armor by 3%"
+                ]
+            }
+        },
+        "mortarProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Mortar by 15%"
+            }
+        },
+        "rocketProjectileSpeed": {
+            "description": {
+                "15": "Increases Projectile Speed of Rocket by 15%"
+            }
+        },
+        "joineryWorkshop": {
+            "description": {
+                "1": "Increases Repair Amount from Repair Weapons by 6%"
+            }
+        },
+        "grit": {
+            "name": "Grit",
+            "description": {
+                "general": [
+                    "Gain a stack of Grit when you take damage. Each stack of Grit increases Armor by 40, up to a maximum of 10 stacks. Each stack of Grit lasts 15 seconds",
+                    "Allied XSML, SML and MED ships within 200m take 10% reduced damage. When you have 10 stacks of Grit, reduce 20% damage instead"
+                ]
+            }
+        },
+        "colossal": {
+            "name": "Colossal",
+            "description": {
+                "general": "Reduces Sailing Speed in Rivers and Shallows by 30%"
+            }
+        },
+        "abundantGunports": {
+            "name": "Abundant Gunports",
+            "description": {
+                "general": "Increases received damage to Weakpoints by 30%"
+            }
+        },
+        "frigateUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 104000",
+                    "Increases Brace Strength to 31200"
+                ],
+                "2": [
+                    "Increases Cargo to 95000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 15kn",
+                    "Increases Trimming Speed to 20kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 107000",
+                    "Increases Brace Strength to 32100"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Resolve' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 128400",
+                    "Increases Brace Strength to 38520",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "resolve": {
+            "name": "Resolve",
+            "description": {
+                "general": [
+                    "At 10 stacks of Grit, taking damage grants you Resolve",
+                    "Resolve restores 10% Brace Strength on activation, decreases status effect damage by 20% and increases threat generation by 100% for 10 seconds"
+                ]
+            }
+        },
+        "poseidonsBrew": {
+            "description": {
+                "general": [
+                    "Removes all negative status effects from the ship",
+                    "Immunity against status effects for 20 seconds"
+                ]
+            }
+        },
+        "skyrend": {
+            "name": "Skyrend",
+            "description": {
+                "general": [
+                    "Each volley of cannon fire on enemy sails has a chance of summoning a lightning strike that deals 5000 Electric Damage",
+                    "Every 5 hits adds a 15% chance, up to a maximum of 45%",
+                    "Lightning strike damage increases to 10000 if target has Torn Sails"
+                ]
+            }
+        },
+        "marauder": {
+            "name": "Marauder",
+            "description": {
+                "general": [
+                    "Every 1% of Burning Damage also increases the build-up rate of the Vulnerable status effect by 1%",
+                    "Additionally increases the build-up rate of Vulnerable by 40%"
+                ]
+            }
+        },
+        "spiritMending": {
+            "name": "Spirit Mending",
+            "description": {
+                "general": "20% of damage dealt restores Hull Health, increasing by 5% for every 50m the target is at distance, up to a maximum of 50%"
+            }
+        },
+        "torrent": {
+            "name": "Torrent",
+            "description": {
+                "general": [
+                    "Rains 60 rockets over an extended period of time",
+                    "50% of Flooding Damage is dealt as Severe Damage"
+                ]
+            }
+        },
+        "illuminate": {
+            "name": "Illuminate",
+            "description": {
+                "general": [
+                    "Reduces target's movement speed by 50% and Armor by 20% for 3s",
+                    "Makes Weeping Specters vulnerable to damage"
+                ]
+            }
+        },
+        "impregnable": {
+            "name": "Impregnable",
+            "description": {
+                "general": [
+                    "The punctured status effect is 50% less effective in reducing Armor",
+                    "Reduces duration of the Punctures status effect by 15%"
+                ]
+            }
+        },
+        "entrenched": {
+            "name": "Entrenched",
+            "description": {
+                "general": "Receives 5% less damage from structures, and an additional 1% for every 3000 Brace Strength"
+            }
+        },
+        "bastion": {
+            "name": "Bastion",
+            "description": {
+                "general": "When at half-sails or anchored, receive 20% less damage from hits"
+            }
+        },
+        "volatileVestment": {
+            "name": "Volatile Vestment",
+            "description": {
+                "general": [
+                    "When hit while Bracing, an explosion is triggered, which deals 3500 Explosive Damage in a 100m Blast Radius",
+                    "This effect has a 10s cooldown"
+                ]
+            }
+        },
+        "trunnionFurnace": {
+            "description": {
+                "general": [
+                    "Hits from a Culverin have 25% chance to spread to a nearby target within 100m, dealing 25% of the original damage. Does not work for Repair Weapons",
+                    "Increases Projectile Speed of Culverin by 10%"
+                ]
+            }
+        },
+        "acceleratedGunrailSmithy": {
+            "description": {
+                "general": [
+                    "Reduces Reload Time by 5% and increases Secondary Damage of Auxiliary Weapons by 7% for each weapon quadrant being reloaded",
+                    "While not trimming sails, increases weapon damage for Auxiliary Weapons by 9%",
+                    "Increases Turning Speed by 8%"
+                ]
+            }
+        },
+        "ammoPrimingBench": {
+            "description": {
+                "general": [
+                    "Increases damage to structures by 20% for Siege Weapons and repair amount of Repair Weapons by 18%, when more than 160m away from the target",
+                    "Siege weapons deal 4% increases weapon damage. Repair Weapons repair 7% more Hull Health",
+                    "Increases Projectile Speed of Siege Weapons and Repair Weapons by 10%, except for Sea Fire and Auxiliary Weapons"
+                ]
+            }
+        },
+        "dazzling": {
+            "name": "Dazzling",
+            "description": {
+                "general": "Detonation also applies Shell-shocked to all targets"
+            }
+        },
+        "demolition": {
+            "name": "Demolition",
+            "description": {
+                "general": "Explosive Damage from this weapon deals 300% increased damage to structures"
+            }
+        },
+        "precisionBlast": {
+            "name": "Precision Blast",
+            "description": {
+                "general": "Adds 30% of damage as Explosive Damage in a 30m Blast Radius"
+            }
+        },
+        "rumPantry": {
+            "description": {
+                "1": "Increases Stamina Recovery by 10%"
+            }
+        },
+        "sterileGalley": {
+            "description": {
+                "1": "Increases Maximum Stamina by 7%"
+            }
+        },
+        "balancedMast": {
+            "description": {
+                "1": "Increases Acceleration and Deceleration by 16%"
+            }
+        },
+        "leatherRopeGrips": {
+            "description": {
+                "1": "Reduces Crew Stamina Depletion when trimming sails by 15%"
+            }
+        },
+        "lightenedMast": {
+            "description": {
+                "1": "Increases Acceleration by 26%"
+            }
+        },
+        "royalSterilizationTent": {
+            "description": {
+                "general": [
+                    "Increases Repair Amount of weapons by 21% for targets below 70% Hull Health",
+                    "1% of Repair Amount also restores 0.1% Crew Stamina to the target",
+                    "Reduces Reload Time of Repair Weapons by 11%"
+                ]
+            }
+        },
+        "atelierDeCuivrage": {
+            "description": {
+                "general": [
+                    "While above 50% Hull Health, reduces incoming Secondary Damage by 24%, and increases Threat Generation by 15% and weapon damage by 10%",
+                    "Increases Armor Rating of equipped armor by 100"
+                ]
+            }
+        },
+        "rampantCarriageHold": {
+            "description": {
+                "general": [
+                    "After 10 consecutive hits on targets, applies the Sea's Roar status effect to your ship and the nearest ally within 150m. Missing a shots resets the counter",
+                    "Sea's Roar increases the Secondary Damage dealt by 17% and reduces incoming Secondary Damage by 15% for 17s",
+                    "Decreases Reload Time of Weapons by 7%"
+                ]
+            }
+        },
+        "sandbagPaintingStation": {
+            "description": {
+                "general": [
+                    "After receiving 12 hits, gains the Sea's Ward status effect for 30s, with a cooldown of 60s",
+                    "Sea's Ward increases Brace Strength by 18%. 3% of weapon damage builds up the Taunted status effect on enemies",
+                    "Reduces Crew Stamina Depletion while Bracing by 14%"
+                ]
+            }
+        },
+        "counterthrustLocker": {
+            "description": {
+                "general": [
+                    "After ramming a target, increases Acceleration by 300% for 5s",
+                    "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
+                ]
+            }
+        },
+        "plaguebringer": {
+            "name": "Plaguebringer",
+            "description": {
+                "general": [
+                    "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
+                    "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+                ]
+            }
+        },
+        "spite": {
+            "name": "Spite",
+            "description": {
+                "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
+            }
+        },
+        "resurgence": {
+            "name": "Resurgence",
+            "description": {
+                "general": "Killing a target grants a 100% boost to Maximum Brace Strength for 11s and instantly restores 60% Brace Strength and 25% Hull Health. This effect has a cooldown of 60s"
+            }
+        },
+        "windcaller": {
+            "name": "Windcaller",
+            "description": {
+                "general": "While bracing, increase Acceleration and Turning Speed by 2% each second. When Bracing ends, retain acceleration and Turning Speed for 6s. For this duration, increase Sailing Speed by 14%"
+            }
+        },
+        "immunity": {
+            "name": "Immunity",
+            "description": {
+                "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
+            }
+        },
+        "stinkpotStation": {
+            "description": {
+                "general": [
+                    "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
+                    "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
+                    "Increases Toxic Damage to enemy ships by 8%"
+                ]
+            }
+        },
+        "sheetingWinchConsole": {
+            "description": {
+                "general": [
+                    "Gain 0.8% weapon damage per 1kts of sailing Speed",
+                    "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
+                    "Increases Acceleration by 20%"
+                ]
+            }
+        },
+        "gimbalRingStores": {
+            "description": {
+                "general": [
+                    "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
+                    "Increases Projectile Speed of Demicannon Weapons by 14%",
+                    "Increases Maximum Range of Demicannon Weapons by 12%"
+                ]
+            }
+        },
+        "siphonFurnace": {
+            "description": {
+                "general": [
+                    "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
+                    "Increases Projectile Speed of Toxic Weapons by 12%",
+                    "Increases Maximum Range of Toxic Weapons by 10%"
+                ]
+            }
+        },
+        "causticSpallStation": {
+            "description": {
+                "general": [
+                    "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
+                    "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
+                    "Increases damage to enemy ships with the Flooded effect by 10%"
+                ]
+            }
+        },
+        "leydenVaultArray": {
+            "description": {
+                "general": [
+                    "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
+                    "Reduces Reload Time of Electric Weapons by 6%",
+                    "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+                ]
+            }
+        },
+        "cascadeCoilBench": {
+            "description": {
+                "general": [
+                    "Increases weapon damage of Sea Fire by 13%",
+                    "Increases Secondary damage of Sea Fire by 15%"
+                ]
+            }
+        },
+        "curareCrushingBench": {
+            "description": {
+                "general": [
+                    "Increases Charge rate of the Poisoned status effect on a target by 8%",
+                    "Increases duration of the Poisoned effect on enemy ships by 8%"
+                ]
+            }
+        },
+        "infectious": {
+            "name": "Infectious",
+            "description": {
+                "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+            }
+        },
+        "lancerSeaFire": {
+            "name": "Lancer",
+            "description": {
+                "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+            }
+        },
+        "virulent": {
+            "name": "Virulent",
+            "description": {
+                "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+            }
+        },
+        "contagion": {
+            "name": "Contagion",
+            "description": {
+                "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+            }
+        },
+        "perforator": {
+            "name": "Perforator",
+            "description": {
+                "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
+            }
+        },
+        "countdown": {
+            "name": "Countdown",
+            "description": {
+                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
+            }
+        }
+    }
+}
