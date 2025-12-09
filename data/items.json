@@ -10269,6 +10269,7 @@
         "rarity": "epic",
         "season": "intoTheDragonsWake",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
+        "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -10278,14 +10279,21 @@
         "reloadSpeed": 7200,
         "optimalRange": 1000,
         "projectileSpeed": 350,
-        "required": {},
+        "required": {
+            "purifiedSaltpeter": 12,
+            "naphtha": 6,
+            "sinewString": 6,
+            "rubber": 6,
+            "gannetDenseNiter": 2,
+            "silver": 3630
+        },
         "perks": [
             "heavensEye",
             "electric2",
             "piercing2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2025-12-09"
     },
     "immortalVessel": {
         "id": "immortalVessel",
