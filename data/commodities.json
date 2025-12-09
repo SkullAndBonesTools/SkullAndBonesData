@@ -354,5 +354,10 @@
         "rarity": "epic",
         "category": "summoningBell",
         "event": "darktideLullaby"
+    },
+    "azureFlare": {
+        "rarity": "epic",
+        "category": "summoningBell",
+        "event": "azureSolstice"
     }
 }

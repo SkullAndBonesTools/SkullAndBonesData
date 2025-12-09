@@ -17972,9 +17972,10 @@
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
         "effect": "emissive",
+        "upgrades": ["frigidGloom"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-12-09"
     },
     "crystalDeath": {
         "id": "crystalDeath",
@@ -17982,9 +17983,10 @@
         "set": "wintersBite",
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
+        "upgrades": ["stormsBreath"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-12-09"
     },
     "icyTears": {
         "id": "icyTears",
@@ -17992,9 +17994,10 @@
         "set": "wintersBite",
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
+        "upgrades": ["edgesOfDespair"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-12-09"
     },
     "stonyIceMaiden": {
         "id": "stonyIceMaiden",
@@ -18075,9 +18078,10 @@
         "set": "wintersBite",
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
+        "upgrades": ["curseSpun"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-12-09"
     },
     "bloodlessWheel": {
         "id": "bloodlessWheel",
@@ -18086,9 +18090,10 @@
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
         "effect": "emissive",
+        "upgrades": ["theLifestealer"],
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2025-12-09"
     },
     "wintersGrasp": {
         "id": "wintersGrasp",
@@ -28648,8 +28653,9 @@
         "season": "gutsAndGlory",
         "event": "azureSolstice",
         "effect": "emissive",
+        "upgrades": ["shardsOfLonging"],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-12-09"
     },
     "passJudgment": {
         "id": "passJudgment",
@@ -28679,5 +28685,148 @@
         "set": "eyeOfMadness",
         "dateAdded": "2025-11-25",
         "lastUpdated": "2025-11-25"
+    },
+    "glacialWonder": {
+        "id": "glacialWonder",
+        "type": "longGunWeaponSkin",
+        "effect": "emissive",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "ghostlyTinges": {
+        "id": "ghostlyTinges",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "stormsBreath": {
+        "id": "stormsBreath",
+        "type": "sailsEmblem",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "crystalDeath",
+        "required": {
+            "azureDragonHead": 5,
+            "phoenixBeak": 5,
+            "jadePhoenixStatue": 3,
+            "wyrmVolatileNapalm": 1,
+            "orcaIntricateApparatus": 1,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "edgesOfDespair": {
+        "id": "edgesOfDespair",
+        "type": "sailsPattern",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "icyTears",
+        "required": {
+            "roselleCloth": 10,
+            "magnetiteIngot": 10,
+            "hubacHeirloom": 5,
+            "torsionSpring": 5,
+            "wyrmVolatileNapalm": 2,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "frigidGloom": {
+        "id": "frigidGloom",
+        "type": "sailsColor",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "wintertide",
+        "effect": "emissive",
+        "required": {
+            "roselleCloth": 10,
+            "magnetiteIngot": 10,
+            "plateGlass": 7,
+            "torsionSpring": 5,
+            "wyrmVolatileNapalm": 2,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "shardsOfLonging": {
+        "id": "shardsOfLonging",
+        "type": "ornaments",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "voicesInTheVeins",
+        "effect": "emissive",
+        "required": {
+            "magnetiteIngot": 10,
+            "greenheartPlank": 10,
+            "azureDragonHead": 4,
+            "jadePhoenixStatue": 3,
+            "gannetDenseNiter": 2,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "curseSpun": {
+        "id": "curseSpun",
+        "type": "hull",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "icyVengeance",
+        "required": {
+            "greenheartPlank": 10,
+            "azureDragonHead": 7,
+            "phoenixPinion": 7,
+            "naphtha": 3,
+            "rubber": 3,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "theLifestealer": {
+        "id": "theLifestealer",
+        "type": "wheel",
+        "tier": 1,
+        "set": "wintersBite",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "basic": "bloodlessWheel",
+        "effect": "emissive",
+        "required": {
+            "azureDragonHead": 6,
+            "rubber": 5,
+            "jadePhoenixStatue": 5,
+            "eelSturdyRopes": 1,
+            "gannetDenseNiter": 1,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
     }
 }
