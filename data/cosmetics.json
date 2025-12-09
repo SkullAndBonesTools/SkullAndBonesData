@@ -28679,5 +28679,25 @@
         "set": "eyeOfMadness",
         "dateAdded": "2025-11-25",
         "lastUpdated": "2025-11-25"
+    },
+    "glacialWonder": {
+        "id": "glacialWonder",
+        "type": "longGunWeaponSkin",
+        "effect": "emissive",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "ghostlyTinges": {
+        "id": "ghostlyTinges",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "event": "azureSolstice",
+        "season": "gutsAndGlory",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
     }
 }

@@ -19973,6 +19973,18 @@
             "description": {
                 "general": "The chase makes triumph sweeter"
             }
+        },
+        "glacialWonder": {
+            "name": "Glacial Wonder",
+            "description": {
+                "general": "The gunners are afraid to get too close"
+            }
+        },
+        "ghostlyTinges": {
+            "name": "Ghostly Tinges",
+            "description": {
+                "general": "The recollections of the dead endure"
+            }
         }
     }
 }
