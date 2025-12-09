@@ -4405,7 +4405,7 @@
         "rarity": "rare",
         "season": "release",
         "requiredRank": "kingpin1",
-        "obtainable": ["moonshineChest","moonshineStrongbox"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","harbingersStrongbox"],
         "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
@@ -4431,7 +4431,7 @@
             "piercing1"
         ],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-12-09"
     },
     "dardanellesGun": {
         "id": "dardanellesGun",
@@ -9065,18 +9065,19 @@
         "season": "chorusOfHavoc",
         "weight": 10,
         "buffDuration": 1800,
-        "event": ["dragonsRegatta","darktideLullaby"],
+        "event": ["dragonsRegatta","darktideLullaby","azureSolstice"],
         "worldEvent": "theWeepingMother",
         "obtainable": [
             "regattaChest",
-            "regattaContractReward"
+            "regattaContractReward",
+            "azuriteLodestoneSaintAnne"
         ],
         "required": {},
         "perks": [
             "zongZi"
         ],
         "dateAdded": "2024-07-05",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2025-12-09"
     },
     "teulingsSpecialSteakDinner": {
         "id": "teulingsSpecialSteakDinner",
@@ -11486,14 +11487,14 @@
             "highVelocityKegs"
         ],
         "required": {
-            "azuriteGem": 300
+            "azuriteGem": 600
         },
         "obtainable": [
             "azureStrongbox",
             "azuriteLodestoneSaintAnne"
         ],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2025-12-09"
     },
     "nashkar": {
         "id": "nashkar",
@@ -11505,9 +11506,10 @@
             "azuriteLodestoneSaintAnne",
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
-            "ascendedDarktideLullabyEventCache"
+            "ascendedDarktideLullabyEventCache",
+            "ascendedAzureSolsticeEventCache"
         ],
-        "event": ["azureSolstice","moonshineLarceny","darktideLullaby"],
+        "event": ["azureSolstice","moonshineLarceny","darktideLullaby","azureSolstice"],
         "worldEvent": "theAzureRoyale",
         "value": 1,
         "weight": 500,
@@ -11524,7 +11526,7 @@
             "piercing1"
         ],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2025-12-09"
     },
     "dahaaka": {
         "id": "dahaaka",
@@ -12176,7 +12178,7 @@
         "type": "bombard",
         "rarity": "epic",
         "season": "ascentIntoChaos",
-        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost","azureSolstice"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12194,7 +12196,9 @@
             "darktideAltarTelokPenjarah",
             "ascendedDarktideLullabyEventCache",
             "hallowedGravestoneSaintAnne",
-            "ascendedRequiemOfTheLostEventCache"
+            "ascendedRequiemOfTheLostEventCache",
+            "azuriteLodestoneSaintAnne",
+            "ascendedAzureSolsticeEventCache"
         ],
         "required": {
             "bloodiedDoubloon": 1000,
@@ -12206,7 +12210,7 @@
             "electric1"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2025-12-09"
     },
     "tearingLongGun1": {
         "id": "tearingLongGun1",
@@ -13896,12 +13900,13 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "oathsOfWar",
-        "event": "darktideLullaby",
+        "event": ["darktideLullaby","azureSolstice"],
         "obtainable": [
             "darktideAltarTelokPenjarah",
             "darktideChest",
             "ascendedHellgateSerpentChest",
-            "ascendedDarktideLullabyEventCache"
+            "ascendedDarktideLullabyEventCache",
+            "ascendedAzureSolsticeEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -13919,7 +13924,7 @@
             "flooding2"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2025-12-09"
     },
     "stormVigil": {
         "id": "stormVigil",
@@ -14867,12 +14872,12 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "obtainable": "azureStrongbox",
+        "obtainable": ["azuriteLodestoneSaintAnne"],
         "perks": [
             "sheetingWinchConsole"
         ],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-12-09"
     },
     "gimbalRingStores": {
         "id": "gimbalRingStores",
@@ -15089,7 +15094,7 @@
         "rarity": "epic",
         "season": "gutsAndGlory",
         "event": "azureSolstice",
-        "obtainable": "azuriteLodestoneSaintAnne",
+        "obtainable": ["azuriteLodestoneSaintAnne","ascendedFrostwailChest","ascendedAzureSolsticeEventCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15105,7 +15110,7 @@
             "explosive2"
         ],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-12-09"
     },
     "sloopOfWarUpgrade1": {
         "id": "sloopOfWarUpgrade1",
@@ -15319,11 +15324,12 @@
         "rarity": "epic",
         "season": "gutsAndGlory",
         "type": "chest",
-        "obtainable": "hallowedGravestoneSaintAnne",
+        "event": ["requiemOfTheLost","azureSolstice"],
+        "obtainable": ["hallowedGravestoneSaintAnne","azuriteLodestoneSaintAnne"],
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-12-09"
     },
     "hauntedReapersCache": {
         "id": "hauntedReapersCache",
@@ -15415,5 +15421,48 @@
         "weight": 100,
         "dateAdded": "2025-11-18",
         "lastUpdated": "2025-11-18"
+    },
+    "harbingersStrongbox": {
+        "id": "harbingersStrongbox",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "azureSolstice",
+        "worldEvent": "",
+        "obtainable": "",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "ascendedFrostwailChest": {
+        "id": "ascendedFrostwailChest",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "azureSolstice",
+        "obtainable": "azuriteLodestoneSaintAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "azuriteGem": 1500
+        },
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
+    },
+    "ascendedAzureSolsticeEventCache": {
+        "id": "ascendedAzureSolsticeEventCache",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "azureSolstice",
+        "obtainable": "azuriteLodestoneSaintAnne",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "azuriteGem": 1300
+        },
+        "dateAdded": "2025-12-09",
+        "lastUpdated": "2025-12-09"
     }
 }
