@@ -2928,6 +2928,24 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
             }
+        },
+        "harbingersStrongbox": {
+            "name": "Harbinger's Strongbox",
+            "description": {
+                "general": "A strongbox from an elite ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+            }
+        },
+        "ascendedFrostwailChest": {
+            "name": "Ascended Frostwail Chest",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+            }
+        },
+        "ascendedAzureSolsticeEventCache": {
+            "name": "Ascended Event Cache (Azure Solstice)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
         }
     }
 }

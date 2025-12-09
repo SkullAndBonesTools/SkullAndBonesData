@@ -19973,6 +19973,54 @@
             "description": {
                 "general": "The chase makes triumph sweeter"
             }
+        },
+        "glacialWonder": {
+            "name": "Eisiges Wunder",
+            "description": {
+                "general": "Die Kanoniere haben Angst, zu nahe heranzukommen."
+            }
+        },
+        "ghostlyTinges": {
+            "name": "Geisterhafte Farben",
+            "description": {
+                "general": "Die Erinnerungen der Toten überdauern."
+            }
+        },
+        "stormsBreath": {
+            "name": "Sturmatem",
+            "description": {
+                "general": "Eure Wut ist eine Sturzflut, doch Euer Herz schlägt nicht."
+            }
+        },
+        "edgesOfDespair": {
+            "name": "Grenzen der Verzweiflung",
+            "description": {
+                "general": "Der Kampf um die Kontrolle tobt weiter."
+            }
+        },
+        "frigidGloom": {
+            "name": "Eisige Düsternis",
+            "description": {
+                "general": "Ihr spürt das Grauen, aber ergreift es Eure Feinde oder Euch?"
+            }
+        },
+        "shardsOfLonging": {
+            "name": "Splitter der Sehnsucht",
+            "description": {
+                "general": "Das, was einst gebrochen war, wird neu erschaffen."
+            }
+        },
+        "curseSpun": {
+            "name": "Fluchgesponnen",
+            "description": {
+                "general": "Von Kräften berührt, die Ihr nicht wirklich versteht."
+            }
+        },
+        "theLifestealer": {
+            "name": "Der Lebensräuber",
+            "description": {
+                "general": "Es nimmt und nimmt, bis nichts mehr übrig ist."
+            }
         }
     }
 }
