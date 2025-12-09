@@ -14887,7 +14887,7 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "obtainable": ["azuriteLodestoneSaintAnne"],
+        "obtainable": ["azuriteLodestoneSaintAnne","azureStrongbox"],
         "perks": [
             "sheetingWinchConsole"
         ],
