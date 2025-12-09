@@ -327,5 +327,10 @@
         "id": "reaperOfTheLost",
         "type": "eliteWarship",
         "faction": "theUnhallowed"
+    },
+    "azureHarbinger": {
+        "id": "azureHarbinger",
+        "type": "eliteWarship",
+        "faction": "azureFleet"
     }
 }
