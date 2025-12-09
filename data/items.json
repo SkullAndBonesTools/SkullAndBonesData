@@ -11480,6 +11480,7 @@
         "season": "shadowsOfTheDeep",
         "worldEvent": "theAzureRoyale",
         "event": "azureSolstice",
+        "blueprint": "azuriteLodestoneSaintAnne",
         "weight": 80,
         "gearScore": 20,
         "value": 1,
@@ -11487,7 +11488,12 @@
             "highVelocityKegs"
         ],
         "required": {
-            "azuriteGem": 600
+            "purifiedSaltpeter": 12,
+            "dryCastingSand": 12,
+            "naphtha": 7,
+            "sinewString": 7,
+            "gannetsSaltpeter": 6,
+            "silver": 3600
         },
         "obtainable": [
             "azureStrongbox",
@@ -11509,6 +11515,7 @@
             "ascendedDarktideLullabyEventCache",
             "ascendedAzureSolsticeEventCache"
         ],
+        "blueprint": "azuriteLodestoneSaintAnne",
         "event": ["azureSolstice","moonshineLarceny","darktideLullaby","azureSolstice"],
         "worldEvent": "theAzureRoyale",
         "value": 1,
@@ -11525,6 +11532,14 @@
             "burning2",
             "piercing1"
         ],
+        "required": {
+            "xanthousStone": 6,
+            "purifiedSaltpeter": 7,
+            "rubber": 4,
+            "sinewString": 4,
+            "eelSturdyRopes": 2,
+            "silver": 3630
+        },
         "dateAdded": "2024-12-03",
         "lastUpdated": "2025-12-09"
     },
