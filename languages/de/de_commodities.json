@@ -269,8 +269,8 @@
             "description": "Eine detailreiche Miniatur eines Schiffes in einer Flasche."
         },
         "luxuryDice": {
-            "name": "Luxury Dice",
-            "description": "An exotic set marked for a passion of randomness."
+            "name": "Luxuswürfel",
+            "description": "Ein exotisches Set, das für eine Leidenschaft für den Zufall steht."
         },
         "phoenixPouch": {
             "name": "Phönix-Beutel",
@@ -287,6 +287,10 @@
         "jasmineIncenseFlare": {
             "name": "Jasmin-Räucherwerk-Leuchtsignal",
             "description": "Gibt, wenn es entzündet wird, ein süßliches und doch angenehmes Aroma ab."
+        },
+        "azureFlare": {
+            "name": "Azurblaues Leuchtsignal",
+            "description": "Dieses Leuchtsignal schimmert in einem gruseligen Licht. Vielleicht beherbergt es eine Verbindung zu einem schrecklichen Fluch..."
         }
     }
 }

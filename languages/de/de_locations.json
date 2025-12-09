@@ -244,6 +244,7 @@
         "factionWarRewardWonTerritory11": "Belohnung für das Erobern von elf Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
         "twitchDropSpammals": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Spammals",
         "unboundReaperReward": "Erhalten beim Versenken des Ungebundenen Schnitters",
-        "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung"
+        "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
+        "azureHarbingerReward": "Obtained when defeating the Azure Harbinger"
     }
 }

@@ -2737,9 +2737,9 @@
             }
         },
         "zhangsClaw": {
-            "name": "Zhang's Claw",
+            "name": "Zhangs Klaue",
             "description": {
-                "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
+                "general": "Der Arm des Kommandanten selbst. Das Metall fühlt sich noch warm an, seine Finger sind mit Blut bespritzt."
             }
         },
         "suaveSeadogCosmeticsChest": {
@@ -2927,6 +2927,24 @@
             "name": "Set „Meere der Königreiche“-Truhe",
             "description": {
                 "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil des Sets „Meere der Königreiche“ sind."
+            }
+        },
+        "harbingersStrongbox": {
+            "name": "Schatulle des Vorboten",
+            "description": {
+                "general": "Eine Schatulle von einem Eliteschiff der Azur-Flotte. Sie scheint der Umgebungsluft jegliche Wärme zu entziehen."
+            }
+        },
+        "ascendedFrostwailChest": {
+            "name": "Aufgestiegene Frostklage-Truhe",
+            "description": {
+                "general": "Eine verzierte Truhe mit unbekannten Schätzen. Angeblich hört man hin und wieder ein Weinen aus der Truhe."
+            }
+        },
+        "ascendedAzureSolsticeEventCache": {
+            "name": "\"Aufgestiegen\"-Eventlager (Azur-Sonnenwende)",
+            "description": {
+                "general": "Enthält eine aufgestiegene Event-Waffe"
             }
         }
     }

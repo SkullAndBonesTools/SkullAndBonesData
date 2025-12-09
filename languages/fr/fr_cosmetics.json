@@ -19973,6 +19973,54 @@
             "description": {
                 "general": "The chase makes triumph sweeter"
             }
+        },
+        "glacialWonder": {
+            "name": "Glacial Wonder",
+            "description": {
+                "general": "The gunners are afraid to get too close"
+            }
+        },
+        "ghostlyTinges": {
+            "name": "Ghostly Tinges",
+            "description": {
+                "general": "The recollections of the dead endure"
+            }
+        },
+        "stormsBreath": {
+            "name": "Storm's Breath",
+            "description": {
+                "general": "Your fury is a torrent, yet your heart is still"
+            }
+        },
+        "edgesOfDespair": {
+            "name": "Edges of Despair",
+            "description": {
+                "general": "The fight for control rages on"
+            }
+        },
+        "frigidGloom": {
+            "name": "Frigid Gloom",
+            "description": {
+                "general": "You taste dread but is it your enemies' or your own?"
+            }
+        },
+        "shardsOfLonging": {
+            "name": "Shards of Longing",
+            "description": {
+                "general": "That which was broken stands to be remade"
+            }
+        },
+        "curseSpun": {
+            "name": "Curse Spun",
+            "description": {
+                "general": "Touched by forces you do not quite understand"
+            }
+        },
+        "theLifestealer": {
+            "name": "The Lifestealer",
+            "description": {
+                "general": "It takes and takes until nothing is left"
+            }
         }
     }
 }
