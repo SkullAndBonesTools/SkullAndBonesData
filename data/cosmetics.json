@@ -28828,5 +28828,38 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken","upgradeWithMaterials"],
         "dateAdded": "2025-12-09",
         "lastUpdated": "2025-12-09"
+    },
+    "tongueOfShadows": {
+        "id": "tongueOfShadows",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "burningWhispers",
+        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "dateAdded": "2025-12-10",
+        "lastUpdated": "2025-12-10"
+    },
+    "embersInTheNight": {
+        "id": "embersInTheNight",
+        "type": "hull",
+        "set": "burningWhispers",
+        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "dateAdded": "2025-12-10",
+        "lastUpdated": "2025-12-10"
+    },
+    "bloodDemands": {
+        "id": "bloodDemands",
+        "type": "sailsPattern",
+        "set": "burningWhispers",
+        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "dateAdded": "2025-12-10",
+        "lastUpdated": "2025-12-10"
+    },
+    "dreadStirs": {
+        "id": "dreadStirs",
+        "type": "sailsEmblem",
+        "set": "burningWhispers",
+        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "dateAdded": "2025-12-10",
+        "lastUpdated": "2025-12-10"
     }
 }

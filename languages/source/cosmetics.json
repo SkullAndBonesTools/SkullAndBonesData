@@ -20021,6 +20021,30 @@
             "description": {
                 "general": "It takes and takes until nothing is left"
             }
+        },
+        "tongueOfShadows": {
+            "name": "Tongue of Shadows",
+            "description": {
+                "general": "Trapped in an abyss of your own making"
+            }
+        },
+        "embersInTheNight": {
+            "name": "Embers in the Night",
+            "description": {
+                "general": "\"I see strange things in the fire. Terrifying things.\""
+            }
+        },
+        "bloodDemands": {
+            "name": "Blood Demands",
+            "description": {
+                "general": "How long before you give in?"
+            }
+        },
+        "dreadStirs": {
+            "name": "Dread Stirs",
+            "description": {
+                "general": "Even you do not know your own true nature"
+            }
         }
     }
 }

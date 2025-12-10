@@ -1510,5 +1510,9 @@
     "eyeOfMadness": {
         "id": "eyeOfMadness",
         "type": "ship"
+    },
+    "burningWhispers": {
+        "id": "burningWhispers",
+        "type": "ship"
     }
 }
