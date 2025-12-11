@@ -28662,29 +28662,33 @@
         "type": "sailsEmblem",
         "effect": "animated",
         "set": "eyeOfMadness",
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-25",
-        "lastUpdated": "2025-11-25"
+        "lastUpdated": "2025-12-11"
     },
     "infinitePeril": {
         "id": "infinitePeril",
         "type": "sailsPattern",
         "set": "eyeOfMadness",
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-25",
-        "lastUpdated": "2025-11-25"
+        "lastUpdated": "2025-12-11"
     },
     "howlingHearts": {
         "id": "howlingHearts",
         "type": "sailsColor",
         "set": "eyeOfMadness",
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-25",
-        "lastUpdated": "2025-11-25"
+        "lastUpdated": "2025-12-11"
     },
     "doggedPursuit": {
         "id": "doggedPursuit",
         "type": "hull",
         "set": "eyeOfMadness",
+        "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-25",
-        "lastUpdated": "2025-11-25"
+        "lastUpdated": "2025-12-11"
     },
     "glacialWonder": {
         "id": "glacialWonder",
