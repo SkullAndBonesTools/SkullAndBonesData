@@ -9776,7 +9776,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "blueprint": ["seaPeopleHunterMasterOutpostLanitra","smugglerPassPinnacleStore"],
+        "blueprint": ["seaPeopleHunterMasterOutpostLanitra"],
         "bounty": "divineRetribution",
         "worldEvent": "divineRetribution",
         "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest"],
@@ -9802,7 +9802,7 @@
             "electric2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2025-12-16"
     },
     "phoenixTalons": {
         "id": "phoenixTalons",
