@@ -20045,6 +20045,48 @@
             "description": {
                 "general": "Even you do not know your own true nature"
             }
+        },
+        "ferociousGuardian": {
+            "name": "Ferocious Guardian",
+            "description": {
+                "general": "\"For my freedom, and the freedom of all pirates.\""
+            }
+        },
+        "theRunaround": {
+            "name": "The Runaround",
+            "description": {
+                "general": "\"Gotta keep 'em guessing.\""
+            }
+        },
+        "insidiousHurt": {
+            "name": "Insidious Hurt",
+            "description": {
+                "general": "\"Every blow hits hard and cuts deep.\""
+            }
+        },
+        "venemousFang": {
+            "name": "Venemous Fang",
+            "description": {
+                "general": "\"You bear the mark of death.\""
+            }
+        },
+        "relentlessSteps": {
+            "name": "Relentless Steps",
+            "description": {
+                "general": "\"Keep moving forward, no matter how many fall.\""
+            }
+        },
+        "readyAndWaiting": {
+            "name": "Ready and Waiting",
+            "description": {
+                "general": "\"Strike from the most unexpected places.\""
+            }
+        },
+        "venomborn": {
+            "name": "Venomborn",
+            "description": {
+                "general": "\"Better not come too close.\""
+            }
         }
     }
 }

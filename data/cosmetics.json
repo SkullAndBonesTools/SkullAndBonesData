@@ -28866,5 +28866,63 @@
         "obtainable": "twitchDropAzureSolsticeY2S3",
         "dateAdded": "2025-12-10",
         "lastUpdated": "2025-12-10"
+    },
+    "ferociousGuardian": {
+        "id": "ferociousGuardian",
+        "type": "sailsEmblem",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "theRunaround": {
+        "id": "theRunaround",
+        "type": "sailsPattern",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "insidiousHurt": {
+        "id": "insidiousHurt",
+        "type": "sailsColor",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "venemousFang": {
+        "id": "venemousFang",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "relentlessSteps": {
+        "id": "relentlessSteps",
+        "type": "ornaments",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "readyAndWaiting": {
+        "id": "readyAndWaiting",
+        "type": "hull",
+        "set": "legsOfDoom",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "venomborn": {
+        "id": "venomborn",
+        "type": "nameplate",
+        "set": "legsOfDoom",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
     }
 }

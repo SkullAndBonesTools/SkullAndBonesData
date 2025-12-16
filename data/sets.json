@@ -1514,5 +1514,9 @@
     "burningWhispers": {
         "id": "burningWhispers",
         "type": "ship"
+    },
+    "legsOfDoom": {
+        "id": "legsOfDoom",
+        "type": "ship"
     }
 }
