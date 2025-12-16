@@ -1518,5 +1518,9 @@
     "legsOfDoom": {
         "id": "legsOfDoom",
         "type": "ship"
+    },
+    "marchingMenace": {
+        "id": "marchingMenace",
+        "type": "player"
     }
 }

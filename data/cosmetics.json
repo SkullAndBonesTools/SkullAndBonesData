@@ -28924,5 +28924,77 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-12-16",
         "lastUpdated": "2025-12-16"
+    },
+    "burrowersHat": {
+        "id": "burrowersHat",
+        "type": "headwear",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "wordsOfDoom": {
+        "id": "wordsOfDoom",
+        "type": "faceAccessory",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "cloakOfBarbs": {
+        "id": "cloakOfBarbs",
+        "type": "torso",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "hookLegs": {
+        "id": "hookLegs",
+        "type": "neck",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "coilingStraps": {
+        "id": "coilingStraps",
+        "type": "forearm",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "windingGold": {
+        "id": "windingGold",
+        "type": "waist",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "longbodyStrike": {
+        "id": "longbodyStrike",
+        "type": "bottom",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "everyHundredSteps": {
+        "id": "everyHundredSteps",
+        "type": "footwear",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
+    },
+    "scurryAndSkitter": {
+        "id": "scurryAndSkitter",
+        "type": "bodyCosmetics",
+        "set": "marchingMenace",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2025-12-16",
+        "lastUpdated": "2025-12-16"
     }
 }
