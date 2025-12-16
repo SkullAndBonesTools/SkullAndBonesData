@@ -245,6 +245,7 @@
         "twitchDropSpammals": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Spammals",
         "unboundReaperReward": "Erhalten beim Versenken des Ungebundenen Schnitters",
         "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
-        "azureHarbingerReward": "Obtained when defeating the Azure Harbinger"
+        "azureHarbingerReward": "Obtained when defeating the Azure Harbinger",
+        "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}"
     }
 }

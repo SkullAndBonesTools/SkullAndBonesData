@@ -20021,6 +20021,126 @@
             "description": {
                 "general": "Es nimmt und nimmt, bis nichts mehr übrig ist."
             }
+        },
+        "tongueOfShadows": {
+            "name": "Tongue of Shadows",
+            "description": {
+                "general": "Trapped in an abyss of your own making"
+            }
+        },
+        "embersInTheNight": {
+            "name": "Embers in the Night",
+            "description": {
+                "general": "\"I see strange things in the fire. Terrifying things.\""
+            }
+        },
+        "bloodDemands": {
+            "name": "Blood Demands",
+            "description": {
+                "general": "How long before you give in?"
+            }
+        },
+        "dreadStirs": {
+            "name": "Dread Stirs",
+            "description": {
+                "general": "Even you do not know your own true nature"
+            }
+        },
+        "ferociousGuardian": {
+            "name": "Ferocious Guardian",
+            "description": {
+                "general": "\"For my freedom, and the freedom of all pirates.\""
+            }
+        },
+        "theRunaround": {
+            "name": "The Runaround",
+            "description": {
+                "general": "\"Gotta keep 'em guessing.\""
+            }
+        },
+        "insidiousHurt": {
+            "name": "Insidious Hurt",
+            "description": {
+                "general": "\"Every blow hits hard and cuts deep.\""
+            }
+        },
+        "venemousFang": {
+            "name": "Venemous Fang",
+            "description": {
+                "general": "\"You bear the mark of death.\""
+            }
+        },
+        "relentlessSteps": {
+            "name": "Relentless Steps",
+            "description": {
+                "general": "\"Keep moving forward, no matter how many fall.\""
+            }
+        },
+        "readyAndWaiting": {
+            "name": "Ready and Waiting",
+            "description": {
+                "general": "\"Strike from the most unexpected places.\""
+            }
+        },
+        "venomborn": {
+            "name": "Venomborn",
+            "description": {
+                "general": "\"Better not come too close.\""
+            }
+        },
+        "burrowersHat": {
+            "name": "Burrower's Hat",
+            "description": {
+                "general": "Said to reveal the paths of the dead"
+            }
+        },
+        "wordsOfDoom": {
+            "name": "Words of Doom",
+            "description": {
+                "general": "Let your demands be heard"
+            }
+        },
+        "cloakOfBarbs": {
+            "name": "Cloak of Barbs",
+            "description": {
+                "general": "You are a walking weapon"
+            }
+        },
+        "hookLegs": {
+            "name": "Hook Legs",
+            "description": {
+                "general": "Practical and painful"
+            }
+        },
+        "coilingStraps": {
+            "name": "Coiling Straps",
+            "description": {
+                "general": "Round and round and round..."
+            }
+        },
+        "windingGold": {
+            "name": "Winding Gold",
+            "description": {
+                "general": "In honor of a masterful predator"
+            }
+        },
+        "longbodyStrike": {
+            "name": "Longbody Strike",
+            "description": {
+                "general": "Have patience. Prey will come"
+            }
+        },
+        "everyHundredSteps": {
+            "name": "Every Hundred Steps",
+            "description": {
+                "general": "An enemy falls"
+            }
+        },
+        "scurryAndSkitter": {
+            "name": "Scurry and Skitter",
+            "description": {
+                "general": "Dreams and delusions live under your skin"
+            }
         }
     }
 }
