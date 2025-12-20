@@ -100,6 +100,26 @@ import fr_territories from '../languages/fr/fr_territories.json';
 import fr_ultimates from '../languages/fr/fr_ultimates.json';
 import fr_worldEvents from '../languages/fr/fr_worldEvents.json';
 
+// Chinese
+import zh_achievements from '../languages/zh/zh_achievements.json';
+import zh_commodities from '../languages/zh/zh_commodities.json';
+import zh_contracts from '../languages/zh/zh_contracts.json';
+import zh_cosmetics from '../languages/zh/zh_cosmetics.json';
+import zh_events from '../languages/zh/zh_events.json';
+import zh_factions from '../languages/zh/zh_factions.json';
+import zh_items from '../languages/zh/zh_items.json';
+import zh_locations from '../languages/zh/zh_locations.json';
+import zh_materials from '../languages/zh/zh_materials.json';
+import zh_modifications from '../languages/zh/zh_modifications.json';
+import zh_regions from '../languages/zh/zh_regions.json';
+import zh_perks from '../languages/zh/zh_perks.json';
+import zh_seasons from '../languages/zh/zh_seasons.json';
+import zh_sets from '../languages/zh/zh_sets.json';
+import zh_ships from '../languages/zh/zh_ships.json';
+import zh_territories from '../languages/zh/zh_territories.json';
+import zh_ultimates from '../languages/zh/zh_ultimates.json';
+import zh_worldEvents from '../languages/zh/zh_worldEvents.json';
+
 type LanguageData = {
     achievements: typeof en_achievements.achievements;
     commodities: typeof en_commodities.commodities;
@@ -127,6 +147,7 @@ type LanguagesType = {
     EN: LanguageData;
     ES: LanguageData;
     FR: LanguageData;
+    ZH: LanguageData;
 };
 
 function preprocessLocations(
@@ -248,4 +269,24 @@ export const Languages: LanguagesType = {
         ultimates: fr_ultimates.ultimates,
         worldEvents: fr_worldEvents.worldEvents,
     },
+    ZH: {
+        achievements: zh_achievements.achievements,
+        commodities: zh_commodities.commodities,
+        contracts: zh_contracts.contracts,
+        cosmetics: zh_cosmetics.cosmetics,
+        events: zh_events.events,
+        factions: zh_factions.factions,
+        items: zh_items.items,
+        locations: preprocessLocations(zh_locations, zh_seasons),
+        materials: zh_materials.materials,
+        modifications: zh_modifications.modifications,
+        regions: zh_regions.regions,
+        perks: zh_perks.perks,
+        seasons: zh_seasons.seasons,
+        sets: zh_sets.sets,
+        ships: zh_ships.ships,
+        territories: zh_territories.territories,
+        ultimates: zh_ultimates.ultimates,
+        worldEvents: zh_worldEvents.worldEvents,
+    }
 };
