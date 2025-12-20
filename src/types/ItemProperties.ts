@@ -18,6 +18,6 @@ export const AuxiliaryWeaponTypes = [
     "mortar", "rocket", "springloader"
 ] as const;
 export const FurnitureTypes = [
-    "offensiveFurniture", "utilityFurniture", "majorFurniture"
+    "majorFurniture", "offensiveFurniture", "utilityFurniture"
 ] as const;
 export type FurnitureType = (typeof FurnitureTypes)[number];
