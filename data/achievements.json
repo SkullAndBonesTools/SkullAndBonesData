@@ -358,6 +358,7 @@
     "handOfJudgment": {
         "id": "handOfJudgment",
         "category": "seasonal",
+        "event": "theHonorless",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -365,6 +366,7 @@
     "azureTidings": {
         "id": "azureTidings",
         "category": "seasonal",
+        "event": "azureSolstice",
         "goal": 50,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -379,6 +381,7 @@
     "enterTheNian": {
         "id": "enterTheNian",
         "category": "seasonal",
+        "event": "enterTheNian",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -386,6 +389,7 @@
     "ghoulsBane": {
         "id": "ghoulsBane",
         "category": "seasonal",
+        "event": "requiemOfTheLost",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -400,6 +404,7 @@
     "darktideSurvivor": {
         "id": "darktideSurvivor",
         "category": "seasonal",
+        "event": "darktideLullaby",
         "goal": 20,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -407,6 +412,7 @@
     "moonshineRaider": {
         "id": "moonshineRaider",
         "category": "seasonal",
+        "event": "moonshineLarceny",
         "goal": 20,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -530,6 +536,7 @@
     "deadeye": {
         "id": "deadeye",
         "category": "seasonal",
+        "event": "requiemOfTheLost",
         "goal": 1000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -537,6 +544,7 @@
     "invader1": {
         "id": "invader1",
         "category": "seasonal",
+        "event": "requiemOfTheLost",
         "tier": 1,
         "goal": 10,
         "dateAdded": "2025-10-21",
@@ -587,6 +595,7 @@
     "invaderAzure": {
         "id": "invaderAzure",
         "category": "seasonal",
+        "event": "azureSolstice",
         "tier": 2,
         "goal": 10,
         "dateAdded": "2025-12-09",
@@ -595,6 +604,7 @@
     "bullsEye": {
         "id": "bullsEye",
         "category": "seasonal",
+        "event": "azureSolstice",
         "goal": 1000000,
         "dateAdded": "2025-12-09",
         "lastUpdated": "2025-12-09"
