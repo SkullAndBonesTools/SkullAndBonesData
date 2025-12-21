@@ -1,105 +1,105 @@
 {
     "ships": {
         "dhow": {
-            "name": "Dhow",
+            "name": "至上欢愉(单桅帆船)",
             "description": {
-                "general": "A small vessel originally built to hunt wildlife along rivers and coastlines."
+                "general": "灵活的野生动物搜猎船。海民用它来高效采集皮毛和肉类。"
             }
         },
         "bedar": {
-            "name": "Bedar",
+            "name": "冲撞船(扁嘴帆艇)",
             "description": {
-                "general": "A small maneuverable ship that can ram targets and cause flooding damage."
+                "general": "一艘擅长快速冲撞攻击的船只， 深受任帕人的喜爱，专为使敌方进水沉船而设计。"
             }
         },
         "hulk": {
-            "name": "Hulk",
+            "name": "护卫舰(囤货艇)",
             "description": {
-                "general": "More durable and capable of taking sustained damage, this ship specializes in bracing against incoming fire."
+                "general": "水上要塞，拥有强大的防御和恢复能力，正与超巨公司的科技实力相称。"
             }
         },
         "cutter": {
-            "name": "Cutter",
+            "name": "护送舰(短桅帆船)",
             "description": {
-                "general": "A ship capable of supporting other ships in the thick of combat."
+                "general": "可在大海上进行持续维修的船只。这艘船能在躲避敌人炮火的同时快速修复自己，因为颇受走私贩的青睐。"
             }
         },
         "barge": {
-            "name": "Barge",
+            "name": "火烙船(平底货艇)",
             "description": {
-                "general": "A ship specialized in dealing fire and burning damage, before spreading the chaos to nearby ships."
+                "general": "海上的火焰风暴。它于乌瓜纳船坞经过改装后，擅长点燃敌方舰队，然后重创燃烧的敌船。"
             }
         },
         "sloop": {
-            "name": "Sloop",
+            "name": "爆破船(单桅炮艇)",
             "description": {
-                "general": "With the right weapons equipped, this ship is able to stand toe-to-toe with multiple enemies."
+                "general": "擅长使用爆炸性武器的快船，极具威胁性。可迅速摧毁敌人的船队和建筑，因此颇受海盗们]的青睐。"
             }
         },
         "padewakang": {
-            "name": "Padewakang",
+            "name": "射石炮船(巴得瓦康船)",
             "description": {
-                "general": "A larger ship capable of taking on multiple enemies when properly equipped."
+                "general": "漂浮在水面上的攻城武器，可摧毁建筑，且能在抛锚停泊发挥更大威力。曾被多位军阀用于来摧毁古王国的城墙。"
             }
         },
         "snow": {
-            "name": "Snow",
+            "name": "先锋舰(尖首货船)",
             "description": {
-                "general": "A ship with increased durability and holding its ground in a fight. It specializes in bracing against incoming fire."
+                "general": "最初是荷兰为了护送载着贵重物品的船队而打造的战舰。这艘船的防御强度可快速恢复，使其能在强大的炮火下坚守阵地。"
             }
         },
         "brigantine": {
-            "name": "Brigantine",
+            "name": "破舰船(双桅帆船)",
             "description": {
-                "general": "A swift ship that is able to ram singular targets and cause flooding damage."
+                "general": "冲撞型追击船，擅长在对目标造成进水伤害后给予其致命一击。超巨公司和商人都对其心生畏惧。"
             }
         },
         "sambuk": {
-            "name": "Sambuk",
+            "name": "纵火狂(桑布克船)",
             "description": {
-                "general": "A ship specialized in dishing out fire damage and burning its targets. It is also able to target multiple enemies in close proximity."
+                "general": "传闻来自阿拉伯次大陆的船只，素有纵火狂之名。可在点燃附近船只后向胆敢靠近的所有船只喷射火焰。"
             }
         },
         "barque": {
-            "name": "Barque",
+            "name": "守护舰(三桅帆船)",
             "description": {
-                "general": "A ship that excels at aiding other ships in danger by rendering effective repairs."
+                "general": "它是皇家公司船队的骄傲，能够在激战中维修船身、支援盟友，担当任何舰队的中坚力量。"
             }
         },
         "brig": {
-            "name": "Brig",
+            "name": "守护舰(三桅帆船)",
             "description": {
-                "general": "A support ship that excels in deploying buoys that can shift the battle in their favor."
+                "general": "它是皇家公司船队的骄傲，能够在激战中维修船身、支援盟友，担当任何舰队的中坚力量。"
             }
         },
         "battleJunk": {
-            "name": "Battle Junk",
+            "name": "能工巧匠(双桅炮船)",
             "description": {
-                "general": "A resilient juggernaut suited for distracting opponents, withstanding damage, and creating opportunities for allies to engage or escape."
+                "general": "擅长辅助战斗，可提升辅助武器的进攻和防御能力，正满足不列颠商贸联盟的需求。"
             }
         },
         "garuda": {
-            "name": "Garuda",
+            "name": "迅击船(迦楼罗)",
             "description": {
-                "general": "A fast, maneuverable vessel with a knack for hunting down fleeing ships."
+                "general": "可远程摧毁敌人，同时能够在战斗距离过近时灵活逃脱。以古时的天空之神为原型。"
             }
         },
         "schooner": {
-            "name": "Schooner",
+            "name": "冲击船只(纵帆船)",
             "description": {
-                "general": "Excels at devastating broadside attacks, turning every barrage into an explosive reaction, wreaking havoc on fleets and structures in the Red Isle."
+                "general": "擅长发动毁灭性的舷侧攻击，可以让每一波齐射都引发爆炸反应，重创红岛的舰队和建筑。"
             }
         },
         "frigate": {
-            "name": "Frigate",
+            "name": "日蚀(护卫舰)",
             "description": {
-                "general": "A large ship with unmatched defenses. It radiates a powerful aura that fortifies allies. A product of Compagnie ingenuity and advanced materials from Europe."
+                "general": "一艘防御力无可匹敌的巨型战舰。它周身强大的光环能够强化友军。由皇家公司的独创设计与来自欧洲的先进材料铸造而成。"
             }
         },
         "sloopOfWar": {
-            "name": "Sloop of War",
+            "name": "散毒船(战争单轨炮艇)",
             "description": {
-                "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
+                "general": "此船擅长扩散毒素。据说其船帆上留存着瘟疫之王的吐息，所经之处，尽染瘟疫。"
             }
         }
     }

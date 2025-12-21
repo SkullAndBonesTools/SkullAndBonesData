@@ -243,6 +243,14 @@
         "lightningSeaFireMastery": {
             "name": "Meisterschaft des Blitz-Seefeuers",
             "description": "Füge %s Schaden gegen Schwachpunkte mit Himmlischer Donner zu"
+        },
+        "invaderAzure": {
+            "name": "Invader",
+            "description": "Complete Azure event %s times"
+        },
+        "bullsEye": {
+            "name": "Bull's Eye",
+            "description": "Deal %s damage to weakpoints in Azure Event"
         }
     }
 }

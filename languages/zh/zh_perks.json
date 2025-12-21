@@ -1,2965 +1,2965 @@
 {
     "perks": {
         "tearing": {
-            "name": "Tearing",
+            "name": "撕裂",
             "description": {
-                "1": "Increases damage by 25% when hitting sails",
-                "2": "Increases damage by 50% when hitting sails",
-                "3": "Increases damage by 75% when hitting sails"
+                "1": "击中船帆时，伤害提升25%",
+                "2": "击中船帆时，伤害提升50%",
+                "3": "击中船帆时，伤害提升75%"
             }
         },
         "piercing": {
-            "name": "Piercing",
+            "name": "穿透",
             "description": {
                 "1": [
-                    "Adds 10% of damage as Piercing Damage",
-                    "Increases damage to weakpoints by 50%"
+                    "增加10%的伤害，转化为穿透伤害",
+                    "弱点伤害提升50%"
                 ],
                 "2": [
-                    "Adds 20% of damage as Piercing Damage",
-                    "Increases damage to weakpoints by 75%"
+                    "增加20%的伤害，转化为穿透伤害",
+                    "弱点伤害提升75%"
                 ],
                 "3": [
-                    "Adds 30% of damage as Piercing Damage",
-                    "Increases damage to weakpoints by 100%"
+                    "增加30%的伤害，转化为穿透伤害",
+                    "弱点伤害提升100%"
                 ]
             }
         },
         "raider": {
-            "name": "Raider",
+            "name": "掠夺者",
             "description": {
-                "general": "Increases Charge Rate of the Vulnerable effect by 50%"
+                "general": "弱点状态的充能速度提升50%"
             }
         },
         "flooding": {
-            "name": "Flooding",
+            "name": "进水",
             "description": {
-                "1": "Adds 10% of damage as Flooding Damage",
-                "2": "Adds 20% of damage as Flooding Damage",
-                "3": "Adds 30% of damage as Flooding Damage"
+                "1": "增加10%的伤害，转化为进水伤害",
+                "2": "增加20%的伤害，转化为进水伤害",
+                "3": "增加30%的伤害，转化为进水伤害"
             }
         },
         "burning": {
-            "name": "Burning",
+            "name": "火焰型",
             "description": {
-                "1": "Adds 10% of damage as Burning Damage",
-                "2": "Adds 20% of damage as Burning Damage",
-                "3": "Adds 30% of damage as Burning Damage"
+                "1": "增加10%的伤害，转化为燃烧伤害",
+                "2": "增加20%的伤害，转化为燃烧伤害",
+                "3": "增加30%的伤害，转化为燃烧伤害"
             }
         },
         "repair": {
-            "name": "Repair",
+            "name": "修复",
             "description": {
-                "general": "Restores Hull Health of a friendly ship",
-                "2": "Greater restoration of Hull Health of a friendly ship"
+                "general": "为一艘友军船只回复更少船身生命值",
+                "2": "为一艘友军船只回复更多船身生命值"
             }
         },
         "mastBreaker": {
-            "name": "Mast Breaker",
+            "name": "桅杆破坏者",
             "description": {
-                "general": "Deals 7000 damage after the Torn Sails effect is applied"
+                "general": "施加帆布撕裂效果后，可造成7000伤害"
             }
         },
         "explosive": {
-            "name": "Explosive",
+            "name": "爆炸",
             "description": {
-                "1": "Adds 10% of damage as Explosive Damage in a 30m Blast Radius",
-                "2": "Adds 20% of damage as Explosive Damage in a 35m Blast Radius",
-                "3": "Adds 30% of damage as Explosive Damage in a 40m Blast Radius"
+                "1": "在30米爆破范围内，增加10%伤害，转化为爆炸伤害",
+                "2": "在35米爆破范围内，增加20%伤害，转化为爆炸伤害",
+                "3": "在40米爆破范围内，增加30%伤害，转化为爆炸伤害"
             }
         },
         "repairBomb": {
-            "name": "Repair Bomb",
+            "name": "维修炸弹",
             "description": {
-                "general": "Restores Hull Health of a friendly ship in a 35m Blast Radius"
+                "general": "为一艘35米爆破范围内的友军船只回复船身生命值。"
             }
         },
         "siege": {
-            "name": "Siege",
+            "name": "破城",
             "description": {
-                "general": "Increases damage to structures by 50%"
+                "general": "将对建筑造成的伤害提升50%。"
             }
         },
         "unison": {
-            "name": "Unison",
+            "name": "齐射",
             "description": {
-                "general": "Allows all weapons in the same quadrant to fire simultaneously"
+                "general": "同一四分仪上的所有武器可同时开火。"
             }
         },
         "arming": {
-            "name": "Arming",
+            "name": "武装",
             "description": {
-                "general": "Increases damage from torpedoes by 150% when target is beyond 85m"
+                "general": "当目标距离超过85米时，鱼雷伤害提升150%。"
             }
         },
         "cataclysmic": {
-            "name": "Cataclysmic",
+            "name": "灾变",
             "description": {
-                "general": "Deals an increasing amount of damage for every simultaneous hit"
+                "general": "每次同时造成额外0%伤害。"
             }
         },
         "draw": {
-            "name": "Draw",
+            "name": "蓄力",
             "description": {
                 "general": [
-                    "This weapon can be charged for increased damage and range",
-                    "At maximum charge, damage increases to 300% and range to 900m"
+                    "该武器可通过蓄力来达到更高的伤害与射程。",
+                    "在最大蓄力下，伤害可提升至300%，射程可增加至900米。"
                 ]
             }
         },
         "doubleDraw": {
-            "name": "Double Draw",
+            "name": "双倍蓄力",
             "description": {
                 "general": [
-                    "This weapon can be charged twice as long for increased damage and range",
-                    "At maximum charge, damage increases to 600% and range to 1350m"
+                    "该武器的蓄力时间可延长一倍，以达到更高的伤害与射程。",
+                    "在最大蓄力下，伤害可提升至300%，射程可增加至1150米。"
                 ]
             }
         },
         "superheated": {
-            "name": "Superheated",
+            "name": "过热",
             "description": {
-                "general": "Deals an increasing amount of damage when focusing attacks on the same target"
+                "general": "集中攻击同一目标时，伤害量会不断增加"
             }
         },
         "blast": {
-            "name": "Blast",
+            "name": "爆破",
             "description": {
-                "general": "Adds 15% of damage as Explosive Damage in a 50m Blast Radius"
+                "general": "在50米爆破范围内，增加15%伤害，转化为爆炸伤害"
             }
         },
         "repairBlast": {
-            "name": "Repair Blast",
+            "name": "维修爆破",
             "description": {
-                "general": "Restores Hull Health of a friendly ship in a 50m Blast Radius"
+                "general": "为一艘50米爆破范围内的友军船只回复船身生命值"
             }
         },
         "rampart": {
-            "name": "Rampart",
+            "name": "壁垒",
             "description": {
-                "general": "Reduces incoming damage from ramming by 75%"
+                "general": "受到的冲撞伤害降低75%"
             }
         },
         "sealing": {
-            "name": "Sealing",
+            "name": "密封",
             "description": {
-                "general": "Reduces damage taken from the Flooded effect by 28%"
+                "general": "进水效果的伤害降低28%"
             }
         },
         "resolute": {
-            "name": "Resolute",
+            "name": "决意",
             "description": {
-                "general": "Reduces damage taken by 40% when Hull Health is less than 33%"
+                "general": "当船身生命值低于33%时，受到的伤害减少40%"
             }
         },
         "amalgamate": {
-            "name": "Amalgamate",
+            "name": "合并",
             "description": {
                 "general": [
-                    "Restores 15% of Hull Health while bracing",
-                    "The effect only occurs after bracing ends"
+                    "已防御伤害的15%能够转化用于恢复船身生命值。",
+                    "此效果仅在防御结束后发生"
                 ]
             }
         },
         "restoration": {
-            "name": "Restoration",
+            "name": "复原",
             "description": {
-                "general": "Restores 100 Severe Damage every second"
+                "general": "每秒回复100点严重伤害"
             }
         },
         "hunter": {
-            "name": "Hunter",
+            "name": "猎手",
             "description": {
-                "general": "Preserves wildlife materials from hunting"
+                "general": "保留猎取的野生动物材料。"
             }
         },
         "outOfSight": {
-            "name": "Out of Sight",
+            "name": "视野死角",
             "description": {
-                "general": "Reduces detection by ships bigger than yours by 40%"
+                "general": "比你更大的船只对你的侦察能力降低40%。"
             }
         },
         "lancer": {
-            "name": "Lancer",
+            "name": "枪骑兵",
             "description": {
                 "general": [
-                    "Increases damage from ramming by 25% and gain additional speed while pursuing an enemy ship within 300m",
-                    "Applies the Flooded status to an enemy ship upon ramming and slows its Reload Time by 30% for 30 seconds"
+                    "撞击伤害提升25%，在300米范围内追击敌方船只时速度额外提升。",
+                    "冲撞敌方船只时对其施加进水状态效果，并使其装填时间提升30%，持续30秒。"
                 ]
             }
         },
         "ironclad": {
-            "name": "Ironclad",
+            "name": "钢铁甲壳",
             "description": {
                 "general": [
-                    "Increases Armor by 350 for 30 seconds after bracing damage",
-                    "Increases Brace Strength by 275% and Brace Strength Recovery by 25%"
+                    "防御伤害后，装甲增加350，持续30秒。",
+                    "防御强度增加275%，防御强度回复增加25%。"
                 ]
             }
         },
         "unburden": {
-            "name": "Unburden",
+            "name": "轻装上阵",
             "description": {
                 "general": [
-                    "Restores Severe Damage by 0.4% and Hull Health by 0.4% per second",
-                    "Restores Hull Health of all friendly ships in a 100m radius of a repaired target by 2%",
-                    "Restores 60% more of Hull Health on a friendly ship while using a Repair Weapon",
-                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                    "严重伤害每秒回复0.4%，船身生命值每秒回复0.4%。",
+                    "修复目标周围100米半径范围内的所有友方船只船身生命值回复2%。",
+                    "使用修复型武器时，每艘友方船只的船身生命值回复额外提升60%。",
+                    "每装备一件修复型武器，修复型武器提供的船身生命值回复提升5%。"
                 ]
             }
         },
         "wildfire": {
-            "name": "Wildfire",
+            "name": "野火",
             "description": {
                 "general": [
-                    "Applying the Ablaze effect to a ship will apply the same effect to all enemies in a radius of 125m",
-                    "Increases weapon damage by 35%",
-                    "Burning Damage increases Ablaze charge speed by 175%"
+                    "对一艘船只施加燃烧效果时，其附近125米半径范围内的其他所有敌人也将获得相同效果。",
+                    "武器伤害提升35%。",
+                    "燃烧伤害会将燃烧的充能速度提升175%。"
                 ]
             }
         },
         "outburst": {
-            "name": "Outburst",
+            "name": "大爆发",
             "description": {
                 "general": [
-                    "Explosive hits have a 50% chance of triggering an explosion, which deals 1500 damage within a Blast Radius of 150m",
-                    "Increases damage to structures by 40% and Explosive Damage by 15%"
+                    "爆炸型攻击有50%几率触发爆炸，在150米爆破范围内造成1500伤害。",
+                    "对建筑造成的伤害提升40%，爆炸伤害提升15%。"
                 ]
             }
         },
         "detonate": {
-            "name": "Detonate",
+            "name": "引爆",
             "description": {
                 "general": [
-                    "Explosive hits have a 70% chance of triggering an explosion, which deals 1000 damage within a 125m Blast Radius. Increases to 100% if target ship is Ablaze",
-                    "Increases damage to structures by 50% and Weapon Damage Radius by 12%"
+                    "爆炸型攻击有70%几率触发爆炸，在125米爆破范围内造成1000伤害。如果目标船只处于燃烧状态，则每次爆炸型攻击有100%几率触发额外爆炸。",
+                    "对建筑造成的伤害提升50%，武器伤害半径提升12%。"
                 ]
             }
         },
         "tenacity": {
-            "name": "Tenacity",
+            "name": "不屈不挠",
             "description": {
                 "general": [
-                    "Recovers Brace Strength by 5% per second, while bracing",
-                    "Increases Brace Strength by 50% and Brace Strength Recovery by 150%"
+                    "防御时防御强度每秒回复5%。",
+                    "防御强度提升150%，防御强度恢复提升100%。"
                 ]
             }
         },
         "bullhorn": {
-            "name": "Bullhorn",
+            "name": "牛角",
             "description": {
                 "general": [
-                    "Increases damage from ramming by 45% and gain additional speed while pursuing an enemy ship within 300m",
-                    "Increase Flooding Weapon Damage by 20% and deal 20% more weapon damage to Flooded targets"
+                    "冲撞伤害提升45%，在300米范围内追击敌方船只时速度额外提升。",
+                    "进水型武器伤害提升20%，对进水目标造成的武器伤害伤害额外提升20%"
                 ]
             }
         },
         "scorched": {
-            "name": "Scorched",
+            "name": "焚烧殆尽",
             "description": {
                 "general": [
-                    "Deals 5000 Burning Damage when you apply the Ablaze effect to an enemy ship. Ablaze will be applied to enemies in a radius of 150m",
-                    "Increases damage to ships with Ablaze effect by 30%"
+                    "对敌方船只施加燃烧效果时造成5000燃烧伤害，并对150米范围内的敌人施加燃烧。",
+                    "对拥有燃烧效果的船只的伤害提升30%。"
                 ]
             }
         },
         "revitalized": {
-            "name": "Revitalized",
+            "name": "焕活",
             "description": {
                 "general": [
-                    "Restores 0.4% of Severe Damage and 0.4% of Hull Health per second, as well as nearby friendly ships",
-                    "Restores 15% of Stamina, 10% of Severe Damage and 60% more of Hull Health on a friendly ship while using a repair weapon",
-                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                    "严重伤害每秒回复0.4%，船身生命值每秒回复0.4%，附近的友方船只也会获得同等回复效果。",
+                    "使用修复型武器时，友方船只的船员体力回复15%、严重伤害回复10%，船身生命值额外回复60%。",
+                    "每装备一件修复型武器，修复型武器提供的船身生命值回复提升5%。"
                 ]
             }
         },
         "refortify": {
-            "name": "Refortify",
+            "name": "巩固",
             "description": {
-                "general": "Applies the Fortified effect for 12 seconds after using a repair kit, which increases Armor by 35%"
+                "general": "使用修理用品后，施加巩固效果，持续12秒，同时装甲提升35%"
             }
         },
         "lootFromHarvesting": {
             "description": {
-                "1": "Increases loot from harvesting by 1 when hitting the bonus zones"
+                "1": "增加采集所得的战利品"
             }
         },
         "cargoCapacity": {
             "description": {
-                "1": "Increases Cargo Capacity by 10%"
+                "1": "将载重上限提升10%"
             }
         },
         "repairSevereDmgOfHullOutOfCombat": {
             "description": {
-                "1": "Restores 1% Severe Damage per second while out of combat"
+                "1": "处于非战斗状态时，每秒回复1%严重伤害"
             }
         },
         "maximumHull": {
             "description": {
-                "05": "Increases Max Hull Health by 5%"
+                "05": "将船身最大生命值提升5%。"
             }
         },
         "floodingDuration": {
             "description": {
-                "1": "Increases duration of the Flooded effect on enemy ships by 10%"
+                "1": "敌方船只的进水效果持续时间增加10%"
             }
         },
         "repairAmountFromRepairWeapons": {
             "description": {
-                "1": "Increases Repair Amount from Repair Weapons by 10%"
+                "1": "来自修复武器的维修量增加6%"
             }
         },
         "crewAttackChargeSpeed": {
             "description": {
-                "1": "Increases Charge Rate of Crew Attack by 10%"
+                "1": "船员进攻的充能速度增加10%"
             }
         },
         "crewAttackDamage": {
             "description": {
-                "1": "Increases Crew Attack damage by 10%"
+                "1": "将船员进攻伤害提升10%。"
             }
         },
         "ablazeDamage": {
             "description": {
-                "1": "Increases damage to enemy ships with the Ablaze effect by 10%"
+                "1": "对带有燃烧效果的敌方船只造成的伤害增加10%"
             }
         },
         "ablazeChargingSpeed": {
             "description": {
-                "1": "Increases Charge Rate of the Ablaze effect on enemy ships by 10%"
+                "1": "敌方船只的燃烧效果的充能速度增加10%"
             }
         },
         "ablazeDuration": {
             "description": {
-                "1": "Increases duration of the Ablaze effect on enemy ships by 10%"
+                "1": "敌方船只的燃烧效果持续时间增加10%"
             }
         },
         "tornSailsDuration": {
             "description": {
-                "1": "Increases duration of the Torn Sails effect on enemy ships by 10%"
+                "1": "敌方船只的船帆撕裂效果持续时间增加20%"
             }
         },
         "threatGeneration": {
             "description": {
-                "05": "Increases Thread Generation by 5%"
+                "05": "将威胁生成提升5%。"
             }
         },
         "structureDamage": {
             "description": {
-                "15": "Increases damage to structures by 15%"
+                "15": "将对建筑造成的伤害提升15%。"
             }
         },
         "frontWeaponDamage": {
             "description": {
-                "1": "Increases Front Weapon damage by 10%"
+                "1": "将船头武器伤害提升10%。"
             }
         },
         "rammingDamage": {
             "description": {
-                "25": "Increases damage from ramming by 25%"
+                "25": "将冲撞伤害提升25%。"
             }
         },
         "portWeaponDamage": {
             "description": {
-                "1": "Increases Port Weapon damage by 10%"
+                "1": "将左舷武器伤害提升10%。"
             }
         },
         "starboardWeaponDamage": {
             "description": {
-                "1": "Increases Starboard Weapon damage by 10%"
+                "1": "将右舷武器伤害提升10%。"
             }
         },
         "auxiliaryDamage": {
             "description": {
-                "1": "Increases damage from auxiliary weapons by 10%"
+                "1": "将辅助武器伤害提升10%。"
             }
         },
         "ballistaElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Ballista by 19%"
+                "19": "弩炮的次要伤害提升19%"
             }
         },
         "bombardElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Bombard by 19%"
+                "19": "射石炮的次要伤害提升19%"
             }
         },
         "culverinElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Culverin by 19%"
+                "19": "长炮的次要伤害提升19%"
             }
         },
         "flamethrowerElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Sea Fire by 19%"
+                "19": "海洋之火的次要伤害提升19%"
             }
         },
         "mortarElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Mortar by 19%"
+                "19": "迫击炮的次要伤害提升19%"
             }
         },
         "rocketElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Rocket by 19%"
+                "19": "火箭的次要伤害提升19%"
             }
         },
         "torpedoElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Torpedo by 19%"
+                "19": "鱼雷的次要伤害提升19%"
             }
         },
         "demicannonElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Demicannon by 19%"
+                "19": "半加农炮的次要伤害提升19%"
             }
         },
         "longGunElementalDamage": {
             "description": {
-                "19": "Increases Elemental Damage Multiplier of Long Gun by 19%"
+                "19": "长管炮的次要伤害提升提升19%"
             }
         },
         "bombardAreaOfEffectRadius": {
             "description": {
-                "1": "Increases Area-of-effect Radius of Bombard by 10%"
+                "1": "射石炮的范围效果半径增加10%"
             }
         },
         "mortarAreaOfEffectRadius": {
             "description": {
-                "1": "Increases Area-of-effect Radius of Mortar by 10%"
+                "1": "迫击炮的范围效果半径增加10%"
             }
         },
         "springloaderAreaOfEffectRadius": {
             "description": {
-                "1": "Increases Area-of-effect Radius of Buoys by 10%"
+                "1": "浮标的操作区域半径增加10%"
             }
         },
         "demicannonMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Demicannon by 10%"
+                "1": "半加农炮的最大射程增加10%"
             }
         },
         "flamethrowerMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Sea Fire by 10%"
+                "1": "海洋之火的最大射程增加10%"
             }
         },
         "mortarMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Mortar by 10%"
+                "1": "迫击炮的最大射程增加10%"
             }
         },
         "rocketMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Rocket by 10%"
+                "1": "火箭炮的最大射程增加10%"
             }
         },
         "torpedoMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Torpedo by 10%"
+                "1": "鱼雷的最大射程增加10%"
             }
         },
         "springloaderMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Springloader weapons by 10%"
+                "1": "将弹射器武器的最大射程提升10%"
             }
         },
         "overallMaximumRange": {
             "description": {
-                "05": "Increases Maximum Range of all weapons by 5%"
+                "05": "所有武器最大射程提升5%"
             }
         },
         "torpedoProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Torpedo by 15%"
+                "15": "鱼雷的炮弹速度增加15%"
             }
         },
         "bombardProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Bombard by 15%"
+                "15": "射石炮的炮弹速度增加15%"
             }
         },
         "culverinProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Culverin by 15%"
+                "15": "长炮的炮弹速度增加15%"
             }
         },
         "ballistaProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Ballista by 15%"
+                "15": "弩炮的炮弹速度增加15%"
             }
         },
         "longGunProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Long Gun by 15%"
+                "15": "长管炮的炮弹速度增加15%"
             }
         },
         "overallProjectileSpeed": {
             "description": {
-                "05": "Increases Projectile Speed of all weapons by 5%, except for Sea Fire and auxiliary weapons"
+                "05": "所有武器炮弹速度增加5%，海洋之火与辅助武器除外"
             }
         },
         "signalGong": {
             "description": {
-                "general": "Increases damage by 20% after a Crew Attack for 30 seconds"
+                "general": "船员进攻后造成的伤害增加20％，持续30秒"
             }
         },
         "ironCapstan": {
             "description": {
-                "general": "Reduces damage taken by 15% and increases Thread Generation by 100% while Anchored"
+                "general": "受到的伤害减少15%，在停泊时使威胁生成增加100%"
             }
         },
         "megaphone": {
             "description": {
-                "general": "Consecutive hits decrease Reload Time by 0.5%, up to a maximum of 15%. This effect resets after 10 seconds"
+                "general": "每次连续命中敌人时，装填时间降低0.5%，最高15%。该效果会在10秒后重置"
             }
         },
         "ropeLocker": {
             "description": {
-                "general": "Increases Acceleration to 450% when trim is activated at full Stamina. 7% of Stamina is instantly consumed to trigger this effect"
+                "general": "将船帆调整为全员体力时，会将加速度提升至450%。触发此效果时会立即令船员体力消耗7%。"
             }
         },
         "riggingStation": {
             "description": {
-                "general": "Recovers 1% Hull Health per second when Hull Health is less than 20%"
+                "general": "船身生命值低于20%时，每秒恢复1%船身生命值"
             }
         },
         "warDrums": {
             "description": {
-                "general": "While trimming, reduces Brace Stamina Consumption by 50% and increases Armor Rating by 200"
+                "general": "调整船帆时，防御体力消耗减少50%，装甲级别增加200"
             }
         },
         "scopingStation": {
             "description": {
-                "general": "Hitting a target more than 320m away applies the Marked status. Targets with the Marked status take 100% more damage to weakpoints"
+                "general": "命中320米以外目标将对其施加标记状态，带有标记状态的目标获得的弱点伤害增加100%"
             }
         },
         "firstAidStation": {
             "description": {
-                "general": "Increases Repair Amount of Repair Weapons by 30% for ships with less than 33% of Hull Health"
+                "general": "对船身生命值低于33%的船只，修理武器的维修量提升30%"
             }
         },
         "scrapperStation": {
             "description": {
-                "general": "Restores 8000 Hull Health after a Crew Attack"
+                "general": "船员进攻后回复8000船身生命值"
             }
         },
         "munitionsMixer": {
             "description": {
-                "general": "Increases duration of Flooded and Ablaze effects applied to enemy ships by 100%. But reduces damage dealt from these effects by 20%"
+                "general": "向敌方船只施加的进水和燃烧效果的持续时间增加100%，但它们造成的伤害减少20%。"
             }
         },
         "gunnersQuadrant": {
             "description": {
-                "general": "Decreases Reload Time by 15% for the same weapon used to hit a weakpoint from at least 160m range. This effect lasts for 10s"
+                "general": "在至少160米范围内命中敌人弱点后，将使命中弱点时使用的武器的装填时间减少15%。该效果持续10秒。"
             }
         },
         "waterTank": {
             "description": {
                 "general": [
-                    "Reduces Crew Stamina Depletion by 50% while Bracing",
-                    "Increases Stamina Recovery by 20%"
+                    "防御时，使船员体力消耗减少50%。",
+                    "体力恢复增加20%。"
                 ]
             }
         },
         "putrefying": {
-            "name": "Putrefying",
+            "name": "腐烂",
             "description": {
                 "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
             }
         },
         "venemousVengeance": {
-            "name": "Venemous Vengeance",
+            "name": "剧毒复仇",
             "description": {
                 "general": [
-                    "When your ship gets hit while Bracing, a noxious cloud is released around your ship that deals 5000 Poison damage and depletes Crew Stamina",
-                    "Has a cooldown of 10 seconds"
+                    "当你的船只在防御状态下受到攻击时，你的船只周围会释放出一个有毒的云团，造成5000毒药伤害并消耗船员体力，",
+                    "冷却时间为10秒"
                 ]
             }
         },
         "riptide": {
-            "name": "Riptide",
+            "name": "激流",
             "description": {
-                "general": "Adds 50% of damage as Severe Damage when target is Flooded"
+                "general": "当目标进水时，增加50%的伤害，转化为严重伤害"
             }
         },
         "toxicResistant": {
-            "name": "Toxic Resistant",
+            "name": "毒素抗性",
             "description": {
-                "general": "Reduces Damage and Crew Stamina Depletion from toxic attacks by 50%"
+                "general": "带毒进攻造成的伤害与船员体力消耗降低50%"
             }
         },
         "agileGuard": {
-            "name": "Agile Guard",
+            "name": "灵活防御",
             "description": {
-                "general": "Reduces Crew Stamina Depletion at the start of bracing by 40%"
+                "general": "开始防御时的船员体力消耗降低40%"
             }
         },
         "laPotenceSchematics": {
             "description": {
                 "general": [
-                    "Increases damage to weakpoints to enemy ships by 10%",
-                    "Penetrates 10% of Toxic Resistance"
+                    "对敌方船只造成的弱点伤害增加10%",
+                    "武器命中时无视目标10%的剧毒抗性"
                 ],
                 "1": [
-                    "Increases damage to weakpoints to enemy ships by 10%",
-                    "Penetrates 10% of Toxic Resistance"
+                    "对敌舰弱点伤害提高10%",
+                    "武器命中时无视目标10%的剧毒抗性"
                 ]
             }
         },
         "grilledCoconut": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledFish": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledPrimeCrocodile": {
             "description": {
-                "general": "Restores Stamina by 55%"
+                "general": "将船员体力恢复55%"
             }
         },
         "tylosaurusSteak": {
             "description": {
-                "general": "Restores Stamina by 60%"
+                "general": "将船员体力恢复60%"
             }
         },
         "grilledCrocodile": {
             "description": {
-                "general": "Restores Stamina by 50%"
+                "general": "将船员体力恢复50%"
             }
         },
         "grilledHippo": {
             "description": {
-                "general": "Restores Stamina by 50%"
+                "general": "将船员体力恢复50%"
             }
         },
         "grilledShark": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledBanana": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledBeef": {
             "description": {
-                "general": "Restores Stamina by 45%"
+                "general": "将船员体力恢复45%"
             }
         },
         "grilledBread": {
             "description": {
-                "general": "Restores Stamina by 45%"
+                "general": "将船员体力恢复45%"
             }
         },
         "grilledChicken": {
             "description": {
-                "general": "Restores Stamina by 45%"
+                "general": "将船员体力恢复45%"
             }
         },
         "grilledDurian": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledMutton": {
             "description": {
-                "general": "Restores Stamina by 45%"
+                "general": "将船员体力恢复45%"
             }
         },
         "grilledPrimeHippo": {
             "description": {
-                "general": "Restores Stamina by 55%"
+                "general": "将船员体力恢复55%"
             }
         },
         "grilledScrewpine": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledVegetables": {
             "description": {
-                "general": "Restores Stamina by 45%"
+                "general": "将船员体力恢复45%"
             }
         },
         "godrogodro": {
             "description": {
                 "general": [
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
-                    "Restores Repair Kit Effeciency by 10%",
-                    "Restores Stamina Regen by 30%"
+                    "调整船帆时的船员的调帆体力消耗减少30%",
+                    "将修理用品效率提升10%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "trondroGasy": {
             "description": {
                 "general": [
-                    "Restores Repair Kit Effeciency by 15%",
-                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
-                    "Restores Stamina Regen by 30%"
+                    "将修理用品效率提升15%",
+                    "开始防御时的防御体力消耗降低20%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "varyBeMenaka": {
             "description": {
                 "general": [
-                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
-                    "Restores Repair Kit Effeciency by 10%",
-                    "Restores Stamina Regen by 30%"
+                    "开始防御时的防御体力消耗降低30%",
+                    "将修理用品效率提升10%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "ndiziNaNyama": {
             "description": {
                 "general": [
-                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
-                    "Restores Brace Mitigation by 20%",
-                    "Restores Stamina Regen by 30%"
+                    "开始防御时的防御体力消耗降低30%",
+                    "将防御强度提升20%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "ragout": {
             "description": {
                 "general": [
-                    "Restores Brace Mitigation by 30%",
-                    "Restores Crew-to-Crew Damage by 10%",
-                    "Restores Stamina Regen by 50%"
+                    "将防御强度提升30%",
+                    "船员进攻伤害提升10%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "sateKambing": {
             "description": {
                 "general": [
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
-                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
-                    "Restores Stamina Regen by 50%"
+                    "调整船帆时的船员的调帆体力消耗减少30%",
+                    "开始防御时的防御体力消耗降低20%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "bitterballen": {
             "description": {
                 "general": [
-                    "Restores Crew-to-Crew Damage by 15%",
-                    "Restores Brace Mitigation by 20%",
-                    "Restores Stamina Regen by 50%"
+                    "船员进攻伤害提升15%",
+                    "将防御强度提升20%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "ronakoho": {
             "description": {
                 "general": [
-                    "Restores Crew-to-Crew Damage by 15%",
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
-                    "Restores Stamina Regen by 50%"
+                    "船员进攻伤害提升15%",
+                    "调整船帆时的船员的调帆体力消耗减少20%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "mchuziWaKuharibu": {
             "description": {
                 "general": [
-                    "Restores Brace Mitigation by 30%",
-                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
-                    "Restores Stamina Regen by 50%"
+                    "将防御强度提升30%",
+                    "开始防御时的防御体力消耗降低20%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "otakOtak": {
             "description": {
                 "general": [
-                    "Restores Crew-to-Crew Damage by 15%",
-                    "Reduces Brace Stamina Consumption at the start of bracing by 20%",
-                    "Restores Stamina Regen by 50%"
+                    "船员进攻伤害提升15%",
+                    "开始防御时的防御体力消耗降低20%",
+                    "将体力恢复提升50%"
                 ]
             }
         },
         "artificer": {
-            "name": "Artificer",
+            "name": "能工巧匠",
             "description": {
                 "general": [
-                    "Consecutive weapon hits to targets increases effectiveness of subsequent Buoys by 3%, capping at 45%. Resets if more than 12 seconds pass between hits",
-                    "Reduces reload time of Auxiliary Weapons by 10%, as well as for nearby friendly ships",
-                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                    "使用武器连续命中目标可使后续浮标的效果提升3%，最高为45%。如果两次打击之间间隔超过12秒，则该效果重置。",
+                    "辅助武器与附近友方船只的装填时间减少10%。",
+                    "每装备一件修复型武器，修复型武器提供的船身生命值回复提升5%。"
                 ]
             }
         },
         "unsinkable": {
-            "name": "Unsinkable",
+            "name": "永不沉没",
             "description": {
-                "general": "While bracing, the effects of being afflicting with Flooded is negated"
+                "general": "防御时，可抵消受到的进水影响的效果"
             }
         },
         "ironPlastron": {
-            "name": "Iron Plastron",
+            "name": "钢铁挡甲",
             "description": {
-                "general": "Reduces damage from torpedoes by 30% and by an additional 30% while bracing"
+                "general": "鱼雷伤害降低30%，且防御时额外降低30%"
             }
         },
         "crescendo": {
-            "name": "Crescendo",
+            "name": "最强音",
             "description": {
                 "general": [
-                    "Holding brace charges up a sonic attack, dealing up to 7200 damage to surrounding hostiles",
-                    "Range when fully charged: 150m"
+                    "按住防御可为声波攻击充能，完成充能后可对周围防御的敌人造成最多7200伤害，",
+                    "攻击范围最远可达150米"
                 ]
             }
         },
         "bloodAndGold": {
-            "name": "Blood and Gold",
+            "name": "血与金",
             "description": {
-                "general": "Destroying a target confers the 'Blood and Gold' status on your ship, which increases Weapon Damage and Armor by 25% for 30 seconds"
+                "general": "摧毁目标会为你的船只带来\"血与金\"状态，使武器和装甲提升25%，持续30秒"
             }
         },
         "ricochet": {
-            "name": "Ricochet",
+            "name": "跳弹",
             "description": {
-                "general": "Hits that land on a ship's hull or structure ricochet towards a nearby target, dealing 75% of the original damage"
+                "general": "命中船只船身或结构后会反弹至一个附近目标，造成原始伤害75%的伤害。"
             }
         },
         "toxic": {
-            "name": "Toxic",
+            "name": "剧毒",
             "description": {
-                "3": "Adds 20% of damage as Toxic Damage"
+                "3": "施加30%的剧毒伤害"
             }
         },
         "homing": {
-            "name": "Homing",
+            "name": "追踪",
             "description": {
-                "general": "Projectiles home in on a hostile target"
+                "general": "炮弹会追踪一个敌对目标"
             }
         },
         "quickArming": {
-            "name": "Quick-Arming",
+            "name": "快速武装",
             "description": {
-                "general": "Increases damage from torpedoes by 150% when target is beyond 65m"
+                "general": "当目标距离超过65米时，鱼雷伤害提升150%"
             }
         },
         "rocketArtillery": {
-            "name": "Rocket Artillery",
+            "name": "火箭炮",
             "description": {
-                "general": "Fires a volley of 10 heavy rockets instead of many smaller rockets"
+                "general": "发射一连串共计10发的重型火箭，而不是多个小型火箭"
             }
         },
         "dummySpringloader": {
             "description": {
                 "1": [
-                    "Reduces Reload Time of Springloader weapons by 20% when Crew Stamina is full",
-                    "Reduces duration of incoming Torn Sails effect by 25%",
-                    "Reduces incoming Flooding Charge by 20%"
+                    "船员体力满时，弹射器武器的装填时间减少20%",
+                    "受到的船帆撕裂效果时长减少25%",
+                    "将要袭来的进水充能减少20%"
                 ]
             }
         },
         "fatanaStation": {
             "description": {
                 "1": [
-                    "Increases Secondary Damage of Rocket by 12%",
-                    "Increases damage to structures by 12%"
+                    "火箭的次要伤害增加12%",
+                    "将对建筑造成的伤害提升12%"
                 ]
             }
         },
         "tuningStation": {
             "description": {
                 "1": [
-                    "Increases Secondary Damage of Torpedo by 20%",
-                    "Increases Projectile Speed of Torpedo by 13%",
-                    "Restores 10% Crew Stamina per Second while out of combat"
+                    "鱼雷的次要伤害增加20%",
+                    "鱼雷的炮弹速度增加13%",
+                    "处于非战斗状态时，每秒回复10%船员体力"
                 ]
             }
         },
         "dampened": {
-            "name": "Dampened",
+            "name": "抑制",
             "description": {
-                "general": "Reduces duration of the Ablaze effect by 33%"
+                "general": "燃烧效果的时长降低33%"
             }
         },
         "hydrodynamic": {
-            "name": "Hydrodynamic",
+            "name": "流体动力学",
             "description": {
-                "general": "Every knot of Sailing Speed increases Armor by 1.4%"
+                "general": "每一节航行速度增加1.4%装甲"
             }
         },
         "impenetrable": {
-            "name": "Impenetrable",
+            "name": "坚不可破",
             "description": {
-                "general": "Reduces Weakpoint Damage by 35%"
+                "general": "降低弱点伤害35%"
             }
         },
         "raisedQuarterdeck": {
             "description": {
                 "1": [
-                    "Reduces Incoming Flooding Damage from enemy ships by 15%",
-                    "Reduces Incoming Flooding Charge from enemy ships by 10%"
+                    "来自敌方船只的将要遭受的进水伤害减少15%",
+                    "来自敌方船只的将要袭来的进水充能减少10%"
                 ]
             }
         },
         "machinistStationRepair": {
             "description": {
                 "1": [
-                    "Increases Area-of-Operation Radius of Repair Buoys by 25%",
-                    "Increases Repair Amount of Repair Buoys by 25%"
+                    "维修浮标的操作区域半径增加25%",
+                    "维修浮标的维修量增加25%"
                 ]
             }
         },
         "buoyLocker": {
             "description": {
                 "1": [
-                    "Increases the maximum number of active buoys by 1",
-                    "Increases Max Health of Buoys by 25%",
-                    "Reduces Reload Time of Auxiliary Weapons by 7%"
+                    "活跃浮标的最大数量增加1",
+                    "浮标的最大生命值增加25%",
+                    "辅助武器的装填时间减少7%"
                 ]
             }
         },
         "brouwersPowderhouse": {
             "description": {
                 "1": [
-                    "Increases Area-of-effect Radius of Mortar by 10%",
-                    "Reduces Reload Time of Mortar by 7%"
+                    "迫击炮的范围效果半径增加10%",
+                    "迫击炮的装填时间减少7%"
                 ]
             }
         },
         "maintainedArsenal": {
             "description": {
-                "1": "Increases Damage from Auxiliary Weapons by 13%"
+                "1": "将辅助武器伤害提升13%"
             }
         },
         "compagnieScreens": {
             "description": {
                 "general": [
-                    "Reduces incoming Area-of-effect Damage from enemy ships by 20%",
-                    "Reduces Incoming Burning Charge by 10%",
-                    "Increases Max Hull Health by 5%"
+                    "来自敌方船只的范围效果伤害减少20%",
+                    "将要袭来的燃烧充能减少10%",
+                    "将船身最大生命值提升5%。"
                 ]
             }
         },
         "medicineCabinet": {
             "description": {
                 "general": [
-                    "Reduces Crew Stamina Depletion from attacks by 20%",
-                    "Increases Stamina Recovery by 8% while in combat",
-                    "Increases Maximum Stamina by 5%"
+                    "将剧毒攻击的船员体力消耗降低20%",
+                    "在战斗中将体力回复提升8%",
+                    "将最大体力提升5%"
                 ]
             }
         },
         "compagnieSpiritsLocker": {
             "description": {
                 "general": [
-                    "Reduces Crew Stamina Depletion at start of bracing by 20% while slowed by Flooding, Torn Sails or other status effects",
-                    "Increases Brace Strength by 15%",
-                    "Increases Armor Rating of equipped armor by 7%"
+                    "若因为进水、船帆撕裂或其他状态效果而变慢，开始防御时的船员体力消耗降低20%",
+                    "将防御强度提升15%",
+                    "已装备的装甲级别增加7%"
                 ]
             }
         },
         "secretCache": {
             "description": {
                 "1": [
-                    "Reduces the effects of the Ship Encumbered state by 15%",
-                    "Increases Turning Speed by 16%",
-                    "Increases Acceleration by 16%"
+                    "船只受阻状态的效果减少15%。",
+                    "将转向速度提升16%。",
+                    "将加速度提升16%。"
                 ]
             }
         },
         "bombardMenuiserie": {
             "description": {
                 "1": [
-                    "Increases Bombard Damage by 10%",
-                    "Increases damage to structures by 8%",
-                    "Increases Repair Amount from Repair Weapons by 5%"
+                    "将射石炮伤害提升10%",
+                    "将对建筑造成的伤害提升8%",
+                    "来自修复武器的维修量增加5%"
                 ]
             }
         },
         "cursedBanner": {
             "description": {
                 "general": [
-                    "Increases Thread Generation by 10%",
-                    "Increases damage from auxiliary weapons by 7%",
-                    "Increases Max Hull Health by 3%"
+                    "将威胁生成提升10%",
+                    "将辅助武器伤害提升7%",
+                    "将船身最大生命值提升3%"
                 ]
             }
         },
         "lemariMakanan": {
             "description": {
                 "1": [
-                    "Increases Crew Stamina Recovery Speed by 13%",
-                    "Increases Maximum Stamina by 5%",
-                    "Increases Torn Sails Charge Speed by 3%"
+                    "将船员体力回复速度提升13%。",
+                    "将最大体力提升5%",
+                    "将船帆撕裂充能速度提升3%"
                 ]
             }
         },
         "gunportsUpgrade": {
-            "name": "Gunports Upgrade",
+            "name": "炮眼升级",
             "description": {
-                "general": "Able to equip Front Weapons and unlocks rear gunport. Increases damage and repair amount by 25% on broadside weapons"
+                "general": "可装备船首武器并解锁船尾炮眼。对舷侧武器的伤害和维修量提升25%"
             }
         },
         "heavyArsenal": {
-            "name": "Heavy Arsenal",
+            "name": "重型军火",
             "description": {
-                "general": "Able to equip Front Weapons, Auxiliary Weapons and unlocks rear gunport. Increases damage and repair amount by 50% on broadside weapons"
+                "general": "可装备船头武器与辅助武器，并解锁船尾炮眼。对舷侧武器的伤害和维修量提升50%。"
             }
         },
         "riverRat": {
-            "name": "River Rat",
+            "name": "水老鼠",
             "description": {
-                "general": "Improves Speed, Turning Speed when traversing rivers"
+                "general": "提升在河流中的转向速度"
             }
         },
         "jousting": {
-            "name": "Jousting",
+            "name": "一决高下",
             "description": {
-                "general": "Increases damage from ramming based on current speed (capped at 150%). Ramming a target reduces its Armor by 300 for 30 seconds"
+                "general": "根据当前速度提升冲撞伤害（上限为150%）。冲撞目标可使其装甲降低300，持续30秒。"
             }
         },
         "bedarUpgrade": {
             "description": {
                 "1": [
-                    "Increases Base Ship Rank to 2",
-                    "Increases Hull Health to 38000",
-                    "Increases Brace Strength to 7600",
-                    "Adds 'Gunports Upgrade' perk"
+                    "将基础船只等级提升至2",
+                    "将船身生命值提升至38000",
+                    "将防御强度提升至7600",
+                    "新增「炮眼升级」能力"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 3",
-                    "Increases Top Speed to 10kn",
-                    "Increases Trimming Speed to 15kn",
-                    "Increases Furniture Slots to 5"
+                    "将基础船只等级提升至3",
+                    "将最高速度提升至10节",
+                    "将整帆速度提升至15节",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 4",
-                    "Increases Hull Health to 45000",
-                    "Increases Brace Strength to 9000",
-                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                    "将基础船只等级提升至4",
+                    "将船身生命值提升至45000",
+                    "将防御强度提升至9000",
+                    "重型军火替换了炮眼升级"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 58000",
-                    "Adds 'River Rat' perk"
+                    "将基础船只等级提升至5",
+                    "将货物提升至58000",
+                    "新增「水老鼠」能力"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Jousting' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「一决高下」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 48200",
-                    "Increases Brace Strength to 9640",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至48200",
+                    "将防御强度提升至9640",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "stationsUpgrade": {
-            "name": "Stations Upgrade",
+            "name": "岗位升级",
             "description": {
-                "general": "Able to equip Front Weapons. Increases damage and repair amount by 25% on broadside weapons"
+                "general": "可装备船头武器。对舷侧武器的伤害和修理效果提升25%。"
             }
         },
         "bigGuns": {
-            "name": "Big Guns",
+            "name": "大杀器",
             "description": {
-                "general": "Able to equip Front Weapons and Auxiliary Weapons. Increases damage and repair amount by 50% on broadside weapons"
+                "general": "可装备于船头武器和辅助武器。提升50%舷侧武器的伤害和维修量。"
             }
         },
         "ironwill": {
-            "name": "Ironwill",
+            "name": "钢铁意志",
             "description": {
-                "general": "Increases Armor Rating by 300 for yourself and nearby allies"
+                "general": "自身以及附近盟友的装甲级别增加300。"
             }
         },
         "hulkUpgrade": {
             "description": {
                 "1": [
-                    "Increases Base Ship Rank to 4",
-                    "Increases Hull Health to 40000",
-                    "Increases Brace Strength to 28000",
-                    "Adds 'Stations Upgrade' perk"
+                    "将基础船只等级提升至4",
+                    "将船身生命值提升至40000",
+                    "将防御强度提升至28000",
+                    "新增「岗位升级」能力"
                 ],
                 "2": [
-                    "Increases Top Speed to 10kn",
-                    "Increases Trimming Speed to 13kn",
-                    "Increases Furniture Slots to 5"
+                    "将最高速度提升至10节",
+                    "将整帆速度提升至13节",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Hull Health to 58000",
-                    "Increases Brace Strength to 40600",
-                    "Replaces 'Stations Upgrade' with 'Big Guns' perk"
+                    "将基础船只等级提升至5",
+                    "将船身生命值提升至58000",
+                    "将防御强度提升至40600",
+                    "大杀器替换了岗位升级"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Cargo to 70000",
-                    "Adds 'River Rat' perk"
+                    "将基础船只等级提升6",
+                    "将货物提升至70000",
+                    "新增「水老鼠」能力"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Ironwill' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「钢铁意志」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 62100",
-                    "Increases Brace Strength to 43470",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至62100",
+                    "将防御强度提升至43470",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "unsparing": {
-            "name": "Unsparing",
+            "name": "毫不留情",
             "description": {
-                "general": "Increases Repair Effectiveness of allies by 30% after repairing"
+                "general": "修复后，将盟友的修复效果提升30%"
             }
         },
         "cutterUpgrade": {
             "description": {
                 "1": [
-                    "Increases Base Ship Rank to 3",
-                    "Increases Hull Health to 35000",
-                    "Increases Brace Strength to 7000",
-                    "Adds 'Gunports Upgrade' perk"
+                    "将基础船只等级提升至3",
+                    "将船身生命值提升至35000",
+                    "将防御强度提升至7000",
+                    "新增「炮眼升级」能力"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 4",
-                    "Increases Top Speed to 11kn",
-                    "Increases Trimming Speed to 15kn",
-                    "Increases Furniture Slots to 5"
+                    "将基础船只等级提升至4",
+                    "将最高速度提升至11节",
+                    "将整帆速度提升至15节",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Hull Health to 46000",
-                    "Increases Brace Strength to 9200",
-                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                    "将基础船只等级提升至5",
+                    "将船身生命值提升至46000",
+                    "将防御强度提升至9200",
+                    "重型军火替换了炮眼升级"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Cargo to 68000",
-                    "Adds 'River Rat' perk"
+                    "将基础船只等级提升6",
+                    "将货物提升至68000",
+                    "新增「水老鼠」能力"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Unsparing' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「毫不留情」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 49300",
-                    "Increases Brace Strength to 9860",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至49300",
+                    "将防御强度提升至9860",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "devouring": {
-            "name": "Devouring",
+            "name": "吞噬",
             "description": {
-                "general": "Builds up Torn Sails when hitting a target with Ablaze"
+                "general": "使用燃烧命中目标时积蓄船帆撕裂"
             }
         },
         "bargeUpgrade": {
             "description": {
                 "1": [
-                    "Increases Base Ship Rank to 4",
-                    "Increases Hull Health to 36000",
-                    "Increases Brace Strength to 7200",
-                    "Adds 'Stations Upgrade' perk"
+                    "将基础船只等级提升至4",
+                    "将船身生命值提升至36000",
+                    "将防御强度提升至7200",
+                    "新增「岗位升级」能力"
                 ],
                 "2": [
-                    "Increases Top Speed to 11kn",
-                    "Increases Trimming Speed to 14kn",
-                    "Increases Furniture Slots to 5"
+                    "将最高速度提升至11节",
+                    "将整帆速度提升至14节",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Hull Health to 46000",
-                    "Increases Brace Strength to 9200",
-                    "Replaces 'Stations Upgrade' with 'Big Guns' perk"
+                    "将基础船只等级提升至5",
+                    "将船身生命值提升至46000",
+                    "将防御强度提升至9200",
+                    "大杀器替换了岗位升级"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Cargo to 65000",
-                    "Adds 'River Rat' perk"
+                    "将基础船只等级提升6",
+                    "将货物提升至65000",
+                    "新增「水老鼠」能力"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Devouring' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「吞噬」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 49300",
-                    "Increases Brace Strength to 9860",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至49300",
+                    "将防御强度提升至9860",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "ruin": {
-            "name": "Ruin",
+            "name": "毁灭",
             "description": {
-                "general": "Explosive Damage hits decrease enemy's weapon damage by 20%"
+                "general": "爆炸伤害命中后，将敌方武器伤害降低20%"
             }
         },
         "sloopUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 37000",
-                    "Increases Brace Strength to 7400",
-                    "Adds 'Gunports Upgrade' perk"
+                    "将船身生命值提升至37000",
+                    "将防御强度提升至7400",
+                    "新增「炮眼升级」能力"
                 ],
                 "2": [
-                    "Increases Top Speed to 11kn",
-                    "Increases Trimming Speed to 14kn",
-                    "Increases Furniture Slots to 5"
+                    "将最高速度提升至11节",
+                    "将整帆速度提升至14节",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Hull Health to 45000",
-                    "Increases Brace Strength to 9000",
-                    "Replaces 'Gunports Upgrade' with 'Heavy Arsenal' perk"
+                    "将基础船只等级提升至5",
+                    "将船身生命值提升至45000",
+                    "将防御强度提升至9000",
+                    "重型军火替换了炮眼升级"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Cargo to 65000",
-                    "Adds 'River Rat' perk"
+                    "将基础船只等级提升6",
+                    "将货物提升至65000",
+                    "新增「水老鼠」能力"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Ruin' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「摧毁」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 48200",
-                    "Increases Brace Strength to 9640",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至48200",
+                    "将防御强度提升至9640",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "deepBlue": {
-            "name": "Deep Blue",
+            "name": "深蓝",
             "description": {
-                "general": "Improves Turning Speed when traversing seas"
+                "general": "提升海上的转向速度"
             }
         },
         "padewakangSiegeUpgrade": {
-            "name": "Siege",
+            "name": "破城",
             "description": {
-                "general": "At half-sails or anchored, increases Weapon Damage by 35% and decreases Reload Time by 15% for Explosive weapons"
+                "general": "在半帆或停泊时，将爆炸型武器的武器伤害增加35%，装填时间降低15%。"
             }
         },
         "padewakangUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 43000",
-                    "Increases Brace Strength to 8600"
+                    "将船身生命值提升至43000",
+                    "将防御强度提升至8600"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 75000",
-                    "Increases Furniture Slots to 5"
+                    "将基础船只等级提升至5",
+                    "将货物提升至75000",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 16kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至16节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 48000",
-                    "Increases Brace Strength to 9600"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至48000",
+                    "将防御强度提升至9600"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Siege' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「围攻」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 52800",
-                    "Increases Brace Strength to 10560",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至52800",
+                    "将防御强度提升至10560",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "vindictive": {
-            "name": "Vindictive",
+            "name": "睚眦必报",
             "description": {
-                "general": "After bracing damage, increases Weapon Damage by 20% for 20 seconds"
+                "general": "防御伤害后，武器伤害提升20%，持续20秒"
             }
         },
         "snowUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 55000",
-                    "Increases Brace Strength to 27500"
+                    "将船身生命值提升至55000",
+                    "将防御强度提升至27500"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 85000",
-                    "Increases Furniture Slots to 5"
+                    "将基础船只等级提升至5",
+                    "将货物提升至85000",
+                    "将陈设栏位提升至5"
                 ],
                 "3": [
-                    "Increases Top Speed to 11kn",
-                    "Increases Trimming Speed to 14kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至11节",
+                    "将整帆速度提升至14节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 60000",
-                    "Increases Brace Strength to 30000"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至60000",
+                    "将防御强度提升至30000"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Hull Health to 66000",
-                    "Increases Brace Strength to 33000",
-                    "Adds 'Vindictive' perk"
+                    "将基础船只等级提升至8",
+                    "将船身生命值提升至66000",
+                    "将防御强度提升至33000",
+                    "新增「睚眦必报」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 79200",
-                    "Increases Brace Strength to 39600"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至79200",
+                    "将防御强度提升至39600"
                 ]
             }
         },
         "headstrong": {
-            "name": "Headstrong",
+            "name": "顽固",
             "description": {
-                "general": "Increases damage from ramming based on current speed (cappet at 80%). If target is Flooded, deal additional 7000 damage when ramming"
+                "general": "根据当前速度提升冲撞伤害（上限为80%）。如果目标处于进水状态，则冲撞目标时对其造成额外7000伤害。"
             }
         },
         "brigantineUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 43000",
-                    "Increases Brace Strength to 8600"
+                    "将船身生命值提升至43000",
+                    "将防御强度提升至8600"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 60000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至60000"
                 ],
                 "3": [
-                    "Increases Top Speed to 13kn",
-                    "Increases Trimming Speed to 20kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至13节",
+                    "将整帆速度提升至20节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 45000",
-                    "Increases Brace Strength to 9000"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至45000",
+                    "将防御强度提升至9000"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Headstrong' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「顽固」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 49500",
-                    "Increases Brace Strength to 9900",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至49500",
+                    "将防御强度提升至9900",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "firebug": {
-            "name": "Firebug",
+            "name": "萤火虫",
             "description": {
                 "general": [
-                    "Ablaze deals 100% more damage but lasts 50% of the duration",
-                    "Decreases Fire Weapons Reload Time by 12%"
+                    "燃烧造成的伤害提升100%，但持续时间仅为原先的50%。",
+                    "火焰武器装填时间降低12%。"
                 ]
             }
         },
         "sambukUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 40000",
-                    "Increases Brace Strength to 8000"
+                    "将船身生命值提升至40000",
+                    "将防御强度提升至8000"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 75000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至75000"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 16kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至16节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 45000",
-                    "Increases Brace Strength to 9000"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至45000",
+                    "将防御强度提升至9000"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Firebug' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「荧火虫」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 49500",
-                    "Increases Brace Strength to 9900",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至49500",
+                    "将防御强度提升至9900",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "mend": {
-            "name": "Mend",
+            "name": "修修补补",
             "description": {
-                "general": "Increase Repair Amount of Repair Weapons by 40% for ships with less than 33% of Hull Health"
+                "general": "对船身生命住低于33%的船只，修复武器的维修量提升40%"
             }
         },
         "barqueUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 41000",
-                    "Increases Brace Strength to 8200"
+                    "将船身生命值提升至41000",
+                    "将防御强度提升至8200"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 80000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至80000"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 17kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至17节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 46000",
-                    "Increases Brace Strength to 9200"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至46000",
+                    "将防御强度提升至9200"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Mend' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「修修补补」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 50600",
-                    "Increases Brace Strength to 10120",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至50600",
+                    "将防御强度提升至10120",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "evolved": {
-            "name": "Evolved",
+            "name": "更新换代",
             "description": {
-                "general": "Increase weapon damage and Repair Amount of Auxiliary Weapons by 15%"
+                "general": "辅助武器的伤害和维修量提升15%"
             }
         },
         "brigUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 40000",
-                    "Increases Brace Strength to 8000"
+                    "将船身生命值提升至40000",
+                    "将防御强度提升至8000"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 75000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至75000"
                 ],
                 "3": [
-                    "Increases Top Speed to 13kn",
-                    "Increases Trimming Speed to 18kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至13节",
+                    "将整帆速度提升至18节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 45000",
-                    "Increases Brace Strength to 9000"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至45000",
+                    "将防御强度提升至9000"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Evolved' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「更新换代」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 49500",
-                    "Increases Brace Strength to 9900",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至49500",
+                    "将防御强度提升至9900",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "boatswainsToll": {
             "description": {
                 "1": [
-                    "Increases Crew Attack damage by 7%",
-                    "Increases Charge Rate of Crew Attack by 6%",
-                    "Restores 5% Crew Stamina per second while out of combat"
+                    "将船员进攻伤害提升7%",
+                    "船员进攻的充能速度增加6%",
+                    "处于非战斗状态时，每秒回复5%船员体力"
                 ]
             }
         },
         "scupperStation": {
             "description": {
                 "1": [
-                    "While under the effect of Flooded, reduces Crew Stamina Depletion while trimming sails by 15%",
-                    "While under the effect of Flooded, reduces Crew Stamina Depletion while bracing by 10%"
+                    "在进水的效果下，减少船员体力消耗，调整船帆时则减少15%",
+                    "在进水的效果下，减少船员体力消耗，防御时则减少10%"
                 ]
             }
         },
         "waterFlask": {
             "description": {
-                "general": "Restores Sailing Speed by 10%"
+                "general": "将航行速度提升10%"
             }
         },
         "waterBarrel": {
             "description": {
-                "general": "Restores Sailing Speed by 15%"
+                "general": "将航行速度提升15%"
             }
         },
         "teulingsCoffee": {
             "description": {
-                "general": "Restores Sailing Speed by 15%"
+                "general": "将航行速度提升15%"
             }
         },
         "zongZi": {
             "description": {
                 "general": [
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
-                    "Restores Stamina Regen by 50%",
-                    "+5 Reload Speed"
+                    "调整船帆时的船员的调帆体力消耗减少20%",
+                    "将体力恢复提升50%",
+                    "装填速度+5%。"
                 ]
             }
         },
         "rumFruitcake": {
             "description": {
                 "general": [
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
-                    "Increases Stamina Regen by 50%",
-                    "+5 Reload Speed"
+                    "调整船帆时的船员的调帆体力消耗减少20%",
+                    "将体力恢复提升30%",
+                    "装填速度+5%。"
                 ]
             }
         },
         "teulingsSpecialSteakDinner": {
             "description": {
                 "general": [
-                    "Reduces Brace Stamina Consumption at the start of bracing by 30%",
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
-                    "Restores Stamina Regen by 30%"
+                    "开始防御时的防御体力消耗降低30%",
+                    "调整船帆时的船员的调帆体力消耗减少20%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "mermaidsTears": {
             "description": {
                 "general": [
-                    "Restores Brace Mitigation by 50%",
-                    "Restores Stamina Regen by 10%"
+                    "格挡减伤效果恢复50%",
+                    "将体力恢复提升10%"
                 ]
             }
         },
         "darkNStormy": {
             "description": {
                 "general": [
-                    "Restores Repair Kit efficiency by 50%",
-                    "Restores Stamina Regen by 10%"
+                    "将修理物品效率提升50%",
+                    "将体力恢复提升10%"
                 ]
             }
         },
         "scallyGrog": {
             "description": {
                 "general": [
-                    "Restores Brace Stamina Consumption at the start of bracing by 50%",
-                    "Restores Stamina Regen by 10%"
+                    "开始防御时的防御体力消耗降低50%",
+                    "将体力恢复提升10%"
                 ]
             }
         },
         "bloodyAnnie": {
             "description": {
                 "general": [
-                    "Restores Crew-to-Crew Damage by 50%",
-                    "Restores Stamina Regen by 10%"
+                    "将船员进攻伤害提升50%",
+                    "将体力恢复提升10%"
                 ]
             }
         },
         "lestarisMeat": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "grilledLestariMeat": {
             "description": {
-                "general": "Restores Stamina by 60%"
+                "general": "将船员体力恢复60%"
             }
         },
         "leatherFashioningStation": {
             "description": {
                 "1": [
-                    "Reduces Ablaze Damage from enemy ships by 15%",
-                    "Reduces Incoming Burning Charge from enemy ships by 12%",
-                    "Reduces duration of incoming Ablaze effect by 10%"
+                    "来自敌方船只的燃烧伤害减少15%",
+                    "来自敌方船只的将要袭来的燃烧充能减少12%",
+                    "受到的燃烧效果时长减少10%"
                 ]
             }
         },
         "incinerate": {
-            "name": "Incinerate",
+            "name": "焚烧",
             "description": {
-                "general": "Deployed buoy erupts into a fiery explosion when destroyed, dealing 300% damage and instantly causing targets to be set Ablaze"
+                "general": "部署的浮标会在被摧毁时燃爆，造成300伤害，并立即使目标陷入燃烧状态"
             }
         },
         "lestariTrophy": {
             "description": {
                 "general": [
-                    "Increases Crew Attack damage by 7%",
-                    "Increases Cargo Capacity by 8%",
-                    "Increases Acceleration by 14%"
+                    "将船员进攻伤害提升7%",
+                    "将载重上限提升8%。",
+                    "将加速度提升14%。"
                 ]
             }
         },
         "hubacTuningRack": {
             "description": {
                 "general": [
-                    "Increases Maximum Range of Torpedo by 14%",
-                    "Reduces Arming Distance for Torpedo weapons by 25%",
-                    "Increases Projectile Speed of Torpedo by 10%"
+                    "鱼雷的最大射程增加14%",
+                    "为鱼雷武器的解除保险距离减少25%",
+                    "鱼雷的炮弹速度增加10%"
                 ]
             }
         },
         "machinistStationMines": {
             "description": {
                 "1": [
-                    "Increases Minefield Buoy Damage by 20%",
-                    "Increases Area-of-Operation Radius of Minefield Buoys by 20%"
+                    "将雷区浮标伤害提升20%",
+                    "雷场浮标的操作区域半径增加20%"
                 ]
             }
         },
         "sharedSupply": {
-            "name": "Shared Supply",
+            "name": "资源共享",
             "description": {
-                "general": "Hits on an allied ship will also repair the nearest allied ship for 75% of the original repaired amount"
+                "general": "命中一艘友军船只后还能修复最近的友军船只，修复量为原本修复量的75%"
             }
         },
         "deluge": {
-            "name": "Deluge",
+            "name": "溢水",
             "description": {
-                "general": "15% chance to deal 2500 Severe Damage. This chance increases to 30% when the target ship has the Flooded status effect"
+                "general": "有15%几率造成2500严重伤害。当目标船只拥有进水状态效果时，此几率"
             }
         },
         "taunting": {
-            "name": "Taunting",
+            "name": "嘲讽",
             "description": {
-                "general": "Hitting a target instantly confers the Taunted status effect"
+                "general": "命中目标可立即施加被嘲讽状态状态效果"
             }
         },
         "spitefulSpikesStation": {
             "description": {
                 "general": [
-                    "Hitting a weakpoint has a  40% chance of reducing all Repair effects on the target by 75% for 15s, regardless of source",
-                    "Increases damage to weakpoints by Auxiliary Weapons by 10%",
-                    "Reduces Reload Time of Auxiliary Weapons by 7%"
+                    "命中目标弱点有40%几率使其受到的任何来源的所有维修效果在15秒内降低75%",
+                    "辅助武器的弱点伤害提升15%",
+                    "辅助武器的装填时间减少7%"
                 ]
             }
         },
         "emergencySails": {
             "description": {
                 "general": [
-                    "Increases Trim Speed by 10% while pursuing an enemy ship within 400m",
-                    "Increases Charge Rate of the Torn Sails status effect by 10% while pursuing an enemy ship within 400m"
+                    "在400米范围内追击敌船时，整帆速度提升10%",
+                    "在400米范围内敌船时，船帆撕裂状态效果的充能速度提升10%"
                 ]
             }
         },
         "lightningStream": {
-            "name": "Lightning Stream",
+            "name": "蓄能电流",
             "description": {
                 "general": [
-                    "Bracing charges a Lightning attack that will chain up to 4 targets and deal a maximum of 1850 Electric Damage per target",
-                    "The longer Bracing is held, the more powerful the attack the further the Lightning will reach"
+                    "防御可蓄能并发动闪电攻击，最多可串联4个目标，最多对每个目标造成1850的电击伤害。",
+                    "防御的蓄能时间越长，攻击就越强大，闪电攻击范围也会越广。"
                 ]
             }
         },
         "provoking": {
-            "name": "Provoking",
+            "name": "挑衅",
             "description": {
-                "general": "Hits on a target cause build up of the Taunted status effect"
+                "general": "命中目标的攻击可使被嘲讽状态效果延长"
             }
         },
         "heavensWrath": {
-            "name": "Heaven's Wrath",
+            "name": "天谴",
             "description": {
-                "general": "If a target is afflicted with the Electrified status effect, hits have a 15% chance to summon a devastating Lightning strike that deals 1500 Electric Damage"
+                "general": "如果目标受到雷暴状态效果影响，攻击有15%几率召唤一次毁灭性的雷击，造成1500电击伤害"
             }
         },
         "eighteenStrikes": {
-            "name": "Eighteen Strikes",
+            "name": "十八连击",
             "description": {
                 "general": [
-                    "Landing 18 hits in a single volley will instantly deal 1888 Burning Damage",
-                    "This effect deals 200% as much damage on a target with the Ablaze status effect"
+                    "在单次弹幕中命中18发攻击能够立即造成1888燃烧伤害。",
+                    "目标带有燃烧状态效果时，此效果造成200％伤害。"
                 ]
             }
         },
         "unrelentingDrill": {
-            "name": "Unrelenting Drill",
+            "name": "无情铁钻",
             "description": {
-                "general": "Fires a drill-bolt that travels in a straight path, piercing multiple targets. Drill-bolts deal additional 50% to subsequent targets after hitting a first target."
+                "general": "发射一枚沿直线行进的钻头弩箭，能穿透多个目标。钻头弩箭命中第一个目标后，会对后续目标造成额外50%的伤害。"
             }
         },
         "longDraw": {
-            "name": "Long Draw",
+            "name": "加长蓄力",
             "description": {
-                "general": "This weapon can be charged for up to 420% increased damage and 900m increased range."
+                "general": "该武器可蓄力，最多增加320%伤害和900米射程。"
             }
         },
         "revile": {
-            "name": "Revile",
+            "name": "斥责谩骂",
             "description": {
-                "general": "Every hit received while Bracing will build up the Taunted status effect on an attacking enemy"
+                "general": "在防御期间受到的每一击都会在进攻敌人身上产生被嘲讽状态效果"
             }
         },
         "gloat": {
-            "name": "Gloat",
+            "name": "幸灾乐祸",
             "description": {
-                "general": "Increases Brace Strength Recovery by 100% for each enemy with the Taunted status effect that is actively targeting your ship, up to a maximum of 10 enemy ships"
+                "general": "每有一个拥有被嘲讽状态效果敌人主动瞄准你的船，防御强度回复提升100%，上限为10艘敌方船只"
             }
         },
         "electric": {
-            "name": "Electric",
+            "name": "电击",
             "description": {
-                "1": "Adds 10% of damage as Electric Damage",
-                "2": "Adds 20% of damage as Electric Damage",
-                "3": "Adds 30% of damage as Electric Damage",
-                "4": "Adds 40% of damage as Electric Damage"
+                "1": "施加10%的电击伤害",
+                "2": "施加20%的电击伤害",
+                "3": "施加30%的电击伤害",
+                "4": "施加40%的剧毒伤害"
             }
         },
         "organHarvestingStation": {
             "description": {
                 "general": [
-                    "Increases Rocket damage by 5% for every 20% of Hull Health missing on player's ship",
-                    "Increases Secondary Damage of Rocket by 10%",
-                    "Reduces Reload Time of Rocket by 5%"
+                    "玩家船只的船身生命值每降低20%，火箭伤害就增加5%",
+                    "火箭的次要伤害增加10%",
+                    "火箭的装填时间减少5%"
                 ]
             }
         },
         "bracedGunwales": {
             "description": {
                 "general": [
-                    "Reduces incoming Secondary Damage by 20% while Anchored",
-                    "Increases Deceleration by 75% while dropping anchor"
+                    "停泊时受到的次要伤害降低20%",
+                    "抛锚时将减速度提升75%"
                 ]
             }
         },
         "lestariStew": {
             "description": {
                 "general": [
-                    "Increases Crew-to-Crew Damage by 10%",
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 30%",
-                    "Increases Stamina Regen by 50%"
+                    "将船员进攻伤害提升10%",
+                    "调整船帆时的船员的调帆体力消耗减少30%",
+                    "将体力恢复提升30%"
                 ]
             }
         },
         "firstMatesLedger": {
             "description": {
                 "general": [
-                    "Restores 15% Severe Damage after hitting a target with a Crew Attack",
-                    "Icnreases Crew Stamina Recovery by 10% for 10s after each use of a Crew Ability",
-                    "Increases Crew Ability Range by 5%"
+                    "使用船员进攻命中目标后恢复15%严重损伤",
+                    "每次使用船员能力后，船员体力回复在10秒内提升10%",
+                    "将船员能力范围提升5%"
                 ]
             }
         },
         "kinckelsLaboratory": {
             "description": {
                 "1": [
-                    "Increases Area-of-effect Radius of Mortar by 5%",
-                    "Increases Armor Rating of equipped armor by 5%",
-                    "Increases damage to structures by 5%"
+                    "迫击炮的范围效果半径增加5%",
+                    "已装备装甲的装甲级别增加5%",
+                    "将对建筑造成的伤害提升5%"
                 ]
             }
         },
         "shellPackingStation": {
             "description": {
                 "general": [
-                    "Increases Area-of-effect Radius of Bombard weapons by 5%",
-                    "Reduces Reload Time of Bombard weapons by 5%"
+                    "将射石炮的范围效果半径提升5%",
+                    "将射石炮武器的装填时间减少5%"
                 ]
             }
         },
         "densityFurnace": {
             "description": {
                 "general": [
-                    "Increases Charge Rate of the Flooded status effect on a target by 12%",
-                    "Increases duration of the Flooded status effect on a target by 12%"
+                    "将目标上进水状态效果的充能速度提升12%",
+                    "将目标上进水状态效果的时长提升12%"
                 ]
             }
         },
         "langrageBarrels": {
             "description": {
                 "general": [
-                    "Increases Charge Rate of the Torn Sails status effect on a target by 8%",
-                    "Increases duration of the Torn Sails status effect on a target by 8%"
+                    "将目标上船帆撕裂状态效果的充能速度提升8%",
+                    "将目标上船帆撕裂状态效果的时长提升8%"
                 ]
             }
         },
         "gearsWorkshop": {
             "description": {
                 "general": [
-                    "Reduces Reload Time of Ballista weapons by 12%",
-                    "Reduces Charge Time of Ballista weapons by 10%"
+                    "将弩炮武器的装填时间减少12%",
+                    "将弩炮武器的充能时间减少10%"
                 ]
             }
         },
         "smokedCanisters": {
             "description": {
                 "general": [
-                    "Increases Ammo Capacity of Sea Fire weapons by 20%",
-                    "Reduces Reload Time of Sea Fire weapons by 10%",
-                    "Increases Maximum Range of Sea Fire weapons by 5%"
+                    "将海洋之火武器的弹药容量提升20%",
+                    "将海洋之火武器的装填时间减少10%",
+                    "将海洋之火武器的最大射程提升5%"
                 ]
             }
         },
         "beamSupports": {
             "description": {
                 "general": [
-                    "Increases Max Hull Health by 7%",
-                    "Increases Armor Rating of equipped armor by 7%"
+                    "将船身最大生命值提升7%",
+                    "已装备的装甲级别增加7%"
                 ]
             }
         },
         "heavensEye": {
-            "name": "Heaven's Eye",
+            "name": "天眼",
             "description": {
-                "general": "Hits to a target's weakpoint have a 35% chance to summon a devastating Lightning strike that deals 3000 Electric Damage"
+                "general": "命中目标弱点的攻击有35%概率召唤一次毁灭性的雷击，造成3000电击伤害"
             }
         },
         "indomitable": {
-            "name": "Indomitable",
+            "name": "矢志不屈",
             "description": {
-                "general": "Prevents a killing blow from sinking this ship and this ship becomes invulnerable for the next 5 seconds. This effect has a 180 second cooldown"
+                "general": "防止致命一击击沉这艘船，它将在接下来5秒内呈现无敌状态。此效果有180秒冷却时间。"
             }
         },
         "insulation": {
-            "name": "Insulation",
+            "name": "绝缘",
             "description": {
-                "general": "Reduces damage from the Stormstruck status effect by 25%"
+                "general": "将被电击状态效果的伤害降低25%"
             }
         },
         "amberCoatingStation": {
             "description": {
                 "general": [
-                    "Increases Charge Rate of the Stormstruck status effect on a target by 8%",
-                    "Increases duration of the Stormstruck status effect on a target by 8%"
+                    "将目标上被电击状态效果的充能速度提升8%",
+                    "将目标上被电击状态效果的时长提升8%"
                 ]
             }
         },
         "chargeStores": {
             "description": {
                 "general": [
-                    "After triggering the Stormstruck status effect, increases damage from next attack by 50%",
-                    "Increases Charge Rate of the Ablaze status effect by 10% on targets already affected by the Stormstruck status effect",
-                    "Increases damage of Electric weapons by 5%"
+                    "对目标触发被电击可将下一次攻击伤害提升50%",
+                    "对受被电击影响的目标，使燃烧的充能速度提升10%",
+                    "将电击武器的武器伤害提升5%"
                 ]
             }
         },
         "provoke": {
-            "name": "Provoke",
+            "name": "挑衅",
             "description": {
                 "general": [
-                    "Damage dealt within 200m range applies Taunted charges. Applying Taunted with this ship makes target vulnerable to 50% increased weakpoint damage from all sources",
-                    "Increases Brace Strength by 150% and Brace Strength Recovery by 25%"
+                    "在200米范围内造成的伤害会施加被嘲讽充能。使用该船只施加被嘲讽会使目标变得脆弱，任何渠道的弱点伤害提升50%。",
+                    "防御强度提升150%，防御强度回复提升25%。"
                 ]
             }
         },
         "battleJunkUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 53000",
-                    "Increases Brace Strength to 26500"
+                    "将船身生命值提升至53000",
+                    "将防御强度提升至26500"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 80000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至80000"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 16kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至16节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 58000",
-                    "Increases Brace Strength to 29000"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至58000",
+                    "将防御强度提升至29000"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Endure' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「忍耐」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 63800",
-                    "Increases Brace Strength to 31900",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至63800",
+                    "将防御强度提升至31900",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "endure": {
-            "name": "Endure",
+            "name": "忍耐",
             "description": {
                 "general": [
-                    "Receives 2% less damage per attack each time incoming damage is braced. This effect can stack up to 20% and expires if no damage has been braced in the last 12 seconds",
-                    "Inflicts Taunted charges to hostile targets within 125m while bracing against hits"
+                    "每次 防御住来袭的攻击时，受到的伤害减少2%。此效果最高可叠加至20%，如果在过去12秒内没有防御任何伤害，则效果消失。",
+                    "在防御攻击时，对125米范围内的敌对目标施加被嘲讽充能。"
                 ]
             }
         },
         "lotusMooncake": {
             "description": {
                 "general": [
-                    "Reduces Trim Crew Stamina Consumption when trimming sails by 20%",
-                    "Increases Stamina Regen by 50%",
-                    "+5% Reload Speed"
+                    "调整船帆时的船员的调帆体力消耗减少20%",
+                    "将体力恢复提升30%",
+                    "装填速度+5%"
                 ]
             }
         },
         "phantomMending": {
-            "name": "Phantom Mending",
+            "name": "幻影修复",
             "description": {
-                "general": "10% of damage dealt from this weapon restores Hull Health"
+                "general": "此武器造成伤害的10%将恢复船身生命值"
             }
         },
         "freemansEmbrace": {
             "description": {
                 "general": [
-                    "Damaging status effects on your ship will spread to any enemy ships you ram",
-                    "Increases the duration of damaging status effects on your ship by 30%",
-                    "Reduces damage from status effects on your ship by 30%"
+                    "你的船只的损伤状态效果会扩散到你所冲撞的敌方船只身上",
+                    "使你的船只的损伤状态效果时长提升30%",
+                    "使你的船只受到的状态效果的伤害降低30%"
                 ]
             }
         },
         "cannonballCarvingStation": {
             "description": {
                 "general": [
-                    "Hitting a weakpoint applies Taunting Charge on the target",
-                    "Increases Taunt Duration by 15%",
-                    "Reduces Reload Time of Piercing weapons by 5%"
+                    "命中目标弱点将对其施加嘲讽充能",
+                    "将嘲讽时长提升15%。",
+                    "将穿刺型武器的装填时间减少5%"
                 ]
             }
         },
         "bloodyRed": {
             "description": {
                 "general": [
-                    "Reduces Threat Generation of nearby friendly ships by 60%",
-                    "Increases Taunt Bonus Threat by 40%",
-                    "Increases Threat Generation by 25%"
+                    "附近友方船只的威胁生成降低60%",
+                    "将嘲讽额外威胁提升40%。",
+                    "将威胁生成提升25%。"
                 ]
             }
         },
         "plaguebringersWard": {
             "description": {
                 "general": [
-                    "Reduces Reload Time of Toxic weapons by 7%",
-                    "Increases damage from Toxic weapons by 4%"
+                    "将剧毒武器的装填时间减少7%",
+                    "将剧毒武器的伤害提升4%"
                 ]
             }
         },
         "quickIgnitingPowder": {
             "description": {
                 "general": [
-                    "Increases Charge Rate of the Ablaze status effect on a target by 8%",
-                    "Increases duration of the Ablaze status effect on a target by 8%"
+                    "将目标上燃烧状态效果的充能速度提升8%",
+                    "将目标上燃烧状态效果的充能速度提升8%"
                 ]
             }
         },
         "ballistaMaximumRange": {
             "description": {
-                "1": "Increases Maximum Range of Ballista by 10%"
+                "1": "弩炮的半加农的最大射程增加10%"
             }
         },
         "deadeye": {
-            "name": "Deadeye",
+            "name": "弹无虚发",
             "description": {
                 "general": [
-                    "Weapon damage is increased based on how far you are from the target, capped at 60%",
-                    "When your Hull Health is 40% or lower, increases Armor by 500 and trimming no longer costs stamina for 10 seconds. This effect has a cooldown of 40 seconds"
+                    "武器伤害随着与目标的距离增加而提升，最高可达60%。",
+                    "当你的船身生命值不超过40%时，装甲提升500，且调整船帆不再消耗船员体力，持续10秒。此效果的冷却时间为40秒。"
                 ]
             }
         },
         "garudaUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 38000",
-                    "Increases Brace Strength to 7600"
+                    "将船身生命值提升至38000",
+                    "将防御强度提升至7600"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 65000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至65000"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 16kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至16节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 43000",
-                    "Increases Brace Strength to 8600"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至43000",
+                    "将防御强度提升至8600"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Revolver' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「八面玲珑」能力"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 47300",
-                    "Increases Brace Strength to 9460",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至47300",
+                    "将防御强度提升至9460",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "revolver": {
-            "name": "Revolver",
+            "name": "八面玲珑",
             "description": {
                 "general": [
-                    "Increase Piercing weapon damage by 20%. Increases to 30% when hitting a target with Punctured",
-                    "The Long Gun is no longer a top-deck only weapon when equipped at the bow",
-                    "Long Guns equipped at the bow will deal 40% less damage and have 60% longer reload times"
+                    "穿透型武器伤害提升20%。使用击穿命中目标时，穿透型武器伤害提升至30%。",
+                    "装备于船首的长管炮不再仅限于上层甲板使用。",
+                    "装备于船首的长管炮造成的伤害将降低40%，装填时间延长60%。"
                 ]
             }
         },
         "fury": {
-            "name": "Fury",
+            "name": "狂怒",
             "description": {
                 "general": [
-                    "Increases damage to structures by 50% and increases Weakpoint Damage taken by 30% for 10 seconds",
-                    "Weapon hits have a 20% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 20%",
-                    "While active, broadside hits can trigger a 700 damaging explosion every 3s within a 100m Blast Radius"
+                    "对建筑伤害提升50%，且受到弱点伤害提升30%（持续10秒）。",
+                    "武器命中有20%几率为自己触发狂怒效果，持续15秒，使舷侧武器伤害提升20%。",
+                    "激活狂怒后，舷侧命中会每3秒触发一次爆炸，再100米爆破范围内造成700伤害。"
                 ]
             }
         },
         "schoonerUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 41000",
-                    "Increases Brace Strength to 8200"
+                    "将船身生命值提升至41000",
+                    "将防御强度提升至8200"
                 ],
                 "2": [
-                    "Increases Base Ship Rank to 5",
-                    "Increases Cargo to 75000"
+                    "将基础船只等级提升至5",
+                    "将货物提升至75000"
                 ],
                 "3": [
-                    "Increases Top Speed to 12kn",
-                    "Increases Trimming Speed to 17kn",
-                    "Adds 'Deep Blue' perk"
+                    "将最高速度提升至12节",
+                    "将整帆速度提升至17节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Hull Health to 46000",
-                    "Increases Brace Strength to 9200"
+                    "将基础船只等级提升6",
+                    "将船身生命值提升至46000",
+                    "将防御强度提升至9200"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Volatile' perk"
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
+                    "新增「易爆」特权"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 50600",
-                    "Increases Brace Strength to 10120",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至50600",
+                    "将防御强度提升至10120",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "volatile": {
-            "name": "Volatile",
+            "name": "易爆",
             "description": {
-                "general": "All weapons equipped on the broadsides on this ship will deal bonus 20% explosive damage and decreases explosive weapon Reload Time by 10%"
+                "general": "在此船舷侧装备的所有武器将额外造成20%爆炸伤害，并将爆炸型武器的装填时间减少10%"
             }
         },
         "chainReaction": {
-            "name": "Chain Reaction",
+            "name": "连锁反应",
             "description": {
                 "general": [
-                    "Increases damage dealt by this weapon by 5% after every hit",
-                    "Effect resets after 7 seconds from the initial hit"
+                    "该武器每次命中后，伤害提升5%。",
+                    "此效果在初次命中的7秒后重置。"
                 ]
             }
         },
         "pneumaticEngine": {
-            "name": "Pneumatic Engine",
+            "name": "气动引擎",
             "description": {
                 "general": [
-                    "Rapidly fires Sea Fire darts up to a range of 250m",
-                    "Weapon takes a moment to wind up before firing"
+                    "快速发射海洋之火飞镖，射程最高可达250米。",
+                    "武器发射前需要一些时间准备。"
                 ]
             }
         },
         "tempest": {
-            "name": "Tempest",
+            "name": "狂风骤雨",
             "description": {
-                "general": "Every target hit causes a lightning arc to strike the nearest enemy within 150m, dealing 2500 Electric Damage"
+                "general": "每命中一个目标，对该目标附近150米处的最近敌人释放一道电狐，造成2500电击伤害"
             }
         },
         "soulShield": {
-            "name": "Soul Shield",
+            "name": "灵魂护盾",
             "description": {
-                "general": "Deployed buoy creates a protective dome that absorbs enemy projectiles but is weak against Piercing damage"
+                "general": "部署的浮标会生成一个保护罩，但较难抵抗穿透性伤害"
             }
         },
         "rally": {
-            "name": "Rally",
+            "name": "集结号角",
             "description": {
-                "general": "Using a Crew Attack increases Broadside weapon damage by 33% and Stamina Recovery by 100% for the next 15 seconds"
+                "general": "使用船员进攻后，在接下来的15秒中，舷侧武器伤害提升33%，体力回复提升100%"
             }
         },
         "phantasmicThrust": {
-            "name": "Phantasmic Thrust",
+            "name": "幻影冲刺",
             "description": {
-                "general": "Ramming a target repairs your ship's Hull Health by 138% of damage inflicted"
+                "general": "冲撞目标后，将恢复你船只的船身生命值，数值等同于造成伤害的138%"
             }
         },
         "darkMeditation": {
-            "name": "Dark Meditation",
+            "name": "黑暗冥想",
             "description": {
-                "general": "While bracing, reduces the duration of negative status effects by 10% of their maximum durations every second"
+                "general": "防御时，使负面状态效果的累积每秒减少10%。若状态效果已经生效，则减少其持续时间。"
             }
         },
         "painPiper": {
             "description": {
                 "general": [
-                    "Getting hit by a Crew Attack increases damage of your next Crew Attack by 80%",
-                    "Decreases incoming Crew Attack damage by 10%",
-                    "Increases Maximum Stamina by 5%"
+                    "被船员进攻命中会使你下次船员进攻的伤害提升80%",
+                    "受到的船员进攻伤害降低10%",
+                    "将最大体力提升5%"
                 ]
             }
         },
         "drownedOnesToll": {
             "description": {
                 "general": [
-                    "When above 60% of Crew Stamina and below Max Hull Health, 6% of Crew Stamina is consumed to restore 0.28% of Hull Health per second",
-                    "Increases Max Hull Health by 8%",
-                    "Increases Crew Stamina Recovery Speed by 6% while out of combat"
+                    "当船员体力高于60%但低于船身最大生命值时，每秒消耗6%船员体力来恢复0.28%船身生命值",
+                    "将船身最大生命值提升8%。",
+                    "处于非战斗状态时船员体力回复速度提升6%"
                 ]
             }
         },
         "chainedLinks": {
             "description": {
                 "general": [
-                    "While trimming sails, reduces incoming Weakpoint Damage by 60%, at the cost of 10% Crew Stamina per hit",
-                    "Reduces incoming damage to weakpoints by 20%",
-                    "Increases Armor Rating of equipped armor by 10%"
+                    "调整船帆时，船只受到的弱点伤害降低60%，每次命中都会消耗10%船员体力",
+                    "受到的弱点伤害降低20%",
+                    "将已装备装甲的装甲级别提升10%"
                 ]
             }
         },
         "teulingsGuidance": {
             "description": {
                 "general": [
-                    "Hitting a weakpoint increases the damage dealt by the next weakpoint hit within 8 seconds by 30%",
-                    "Increases damage to weakpoints with Front Weapons by 12%",
-                    "Reduces Reload Time of Front Weapons by 5%"
+                    "命中弱点后，接下来的8秒内下一次命中弱点时造成的伤害提升30%",
+                    "舰头武器的弱点伤害提升12%",
+                    "舰有武器的装填时间减少5%"
                 ]
             }
         },
         "strangeElixir": {
             "description": {
                 "general": [
-                    "Increases Crew Ability Range by 25% while Crew Stamina is above 50%",
-                    "Increases Crew Attack Charge Rate by 15%",
-                    "Reduces Crew Stamina Depletion from Bracing by 5%"
+                    "船员体力高于50%时，将船员能力范围提升25%",
+                    "将船员进攻充能速度提升15%",
+                    "将防御的船员体力消耗降低5%"
                 ]
             }
         },
         "decoyDeck": {
             "description": {
                 "general": [
-                    "For every target that has received the Taunted status effect by your ship, increases incoming Repair Amount by 5%, up to a maximum of 20%",
-                    "Increases the Charge Rate of the Taunted status effect on enemy targets by 7%",
-                    "Increases Threat Generation by 7%"
+                    "每有一个目标受到你的船只施加的被嘲讽状态效果，你船只受到的维修量提升5%，上限为20%",
+                    "敌方目标受到的被嘲讽状态效果的充能速度提升7%",
+                    "将威胁生成提升7%"
                 ]
             }
         },
         "floatCollars": {
             "description": {
                 "general": [
-                    "Increases Max Health of Buoys by 100%",
-                    "Increases Deployment Duration of Buoys by 50%"
+                    "浮标的最大生命值增加100%",
+                    "浮标的部署时长增加50%"
                 ]
             }
         },
         "mineClearingLocker": {
             "description": {
                 "general": [
-                    "While sailing at half-sails or less, your ship has a 80% chance to avoid triggering Mine Buoys",
-                    "Reduces all incoming damage from Mine Buoys by 15%",
-                    "Increases Brace Strength by 5%"
+                    "半帆或以更低帆位航行时，船只有80%几率避免触发水雷浮标",
+                    "船只受到的所有水雷浮标伤害降低15%",
+                    "将防御强度提升5%"
                 ]
             }
         },
         "devilsConcoction": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Burning weapons by 12%",
-                    "Increases Maximum Range of Burning weapons by 8%"
+                    "将火焰型武器的次要伤害提升12%",
+                    "将火焰型武器的最大射程提升8%"
                 ]
             }
         },
         "debrisLocker": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Flooded status effect on enemy targets already affected by the Torn Sails status effect by 50%",
-                    "Increases Charge Rate of the Torn Sails status effect on a target by 16%"
+                    "对已受帆布撕裂状态效果影响的敌方目标，使进水状态效果的充能速度提升50%",
+                    "将目标上船帆撕裂状态效果的充能速度提升16%"
                 ]
             }
         },
         "expandingCorkscrewStation": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Flooding weapons by 12%",
-                    "Increases Maximum Range of Flooding weapons by 8%"
+                    "将进水型武器的次要伤害提升12%",
+                    "将进水型武器的最大射程提升8%"
                 ]
             }
         },
         "cannonballChargingStation": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Stormstruck status effect on enemy targets already affected by the Punctured status effect by 50%",
-                    "Increases Charge Rate of the Punctured status effect on a target by 16%"
+                    "对已受击穿状态的目标，雷击状态充能效率提升50%",
+                    "穿透状态充能速度提升16%"
                 ]
             }
         },
         "copperFasteningStation": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Electric weapons by 12%",
-                    "Increases maximum Range of Electric weapons by 8%"
+                    "电击武器持续伤害提升12%",
+                    "电击武器最大射程提升8%"
                 ]
             }
         },
         "rifledBarrelWorkshop": {
             "description": {
                 "general": [
-                    "Increases the Charge Rate of the Punctured status effect on enemy targets already affected by the Flooded status effect by 50%",
-                    "Increases Charge Rate of the Flooded status effect on a target by 16%"
+                    "对已受进水状态的目标，穿透状态充能效率提升50%",
+                    "进水状态充能速度提升16%"
                 ]
             }
         },
         "highVelocityKegs": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage of Piercing weapons by 12%",
-                    "Increases Maximum Range of Piercing weapons by 8%"
+                    "穿透武器持续伤害提升12%",
+                    "将穿透型武器的最大射程提升8%"
                 ]
             }
         },
         "ghostlyMending": {
-            "name": "Ghostly Mending",
+            "name": "可怖修复",
             "description": {
                 "general": [
-                    "5% of damage dealt from this weapon restores Hull Health",
-                    "When a weakpoint is hit, the repair amount is multiplied by 700%"
+                    "此武器所造成伤害的5%将转而恢复船身生命值。",
+                    "命中弱点后，恢复量将以700%的系数提升"
                 ]
             }
         },
         "sunder": {
-            "name": "Sunder",
+            "name": "分崩离析",
             "description": {
                 "general": [
-                    "Once armed, torpedoes increase speed by 100% and penetrate through target ships",
-                    "Torpedoes also reduce armor by 200 for 10s"
+                    "装备后，鱼雷的速度提升100%，可穿透目标船只。",
+                    "鱼雷还可使装甲降低200，持续10秒。"
                 ]
             }
         },
         "reinforced": {
-            "name": "Reinforced",
+            "name": "强化装甲",
             "description": {
-                "general": "Reduces damage taken from the Punctured status effect by 25%"
+                "general": "受到的击穿状态效果造成的伤害减少25%"
             }
         },
         "crocodileMeat": {
             "description": {
-                "general": "Restores Stamina by 30%"
+                "general": "将船员体力恢复30%"
             }
         },
         "tylosaurusFlesh": {
             "description": {
-                "general": "Restores Stamina by 40%"
+                "general": "将船员体力恢复40%"
             }
         },
         "fish": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "durian": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "coconut": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "ndizi": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "rawChicken": {
             "description": {
-                "general": "Restores Stamina by 25%"
+                "general": "将船员体力恢复25%"
             }
         },
         "flour": {
             "description": {
-                "general": "Restores Stamina by 25%"
+                "general": "将船员体力恢复25%"
             }
         },
         "rawMutton": {
             "description": {
-                "general": "Restores Stamina by 25%"
+                "general": "将船员体力恢复25%"
             }
         },
         "rawVegetables": {
             "description": {
-                "general": "Restores Stamina by 25%"
+                "general": "将船员体力恢复25%"
             }
         },
         "screwpine": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "hippoMeat": {
             "description": {
-                "general": "Restores Stamina by 30%"
+                "general": "将船员体力恢复30%"
             }
         },
         "sharkMeat": {
             "description": {
-                "general": "Restores Stamina by 20%"
+                "general": "将船员体力恢复20%"
             }
         },
         "rawBeef": {
             "description": {
-                "general": "Restores Stamina by 25%"
+                "general": "将船员体力恢复25%"
             }
         },
         "primeHippoMeat": {
             "description": {
-                "general": "Restores Stamina by 35%"
+                "general": "将船员体力恢复35%"
             }
         },
         "primeCrocodileMeat": {
             "description": {
-                "general": "Restores Stamina by 35%"
+                "general": "将船员体力恢复35%"
             }
         },
         "libertyCap": {
             "description": {
                 "general": [
-                    "Increases Crew-to-Crew Damage by 30%",
-                    "Decreases Stamina Regen by 50%"
+                    "将船员进攻伤害提升30%",
+                    "体力恢复速度降低50%"
                 ]
             }
         },
         "shelter": {
-            "name": "Shelter",
+            "name": "庇护",
             "description": {
-                "general": "Reduces damage received from Shell-Shocked by 25% and its duration by 50%"
+                "general": "来自弹震的伤害降低25%，并将其时长降低50%"
             }
         },
         "cindershield": {
-            "name": "Cindershield",
+            "name": "灰烬之盾",
             "description": {
-                "general": "While bracing, the effects of being afflicted with Ablaze is negated"
+                "general": "防御时，可抵消受到燃烧影响的效果"
             }
         },
         "emberWard": {
-            "name": "Ember Ward",
+            "name": "余烬之盾",
             "description": {
-                "general": "Reduces damage taken by Burning Weapons by 30% and by an additional 30% while bracing"
+                "general": "受到的火焰型武器伤害降低30%，且防御时额外降低30%"
             }
         },
         "euphoria": {
-            "name": "Euphoria",
+            "name": "欢欣",
             "description": {
-                "general": "Increases weapon damage by 15% while Hull Health is above 75%"
+                "general": "船身生命值高于75%时，将武器伤害提升15%"
             }
         },
         "vigilance": {
-            "name": "Vigilance",
+            "name": "时刻警戒",
             "description": {
                 "general": [
-                    "During the first 2s of Bracing, any damage taken is reduced by 3000",
-                    "After 2s, Bracing reduces damage taken by 200",
-                    "Activating bracing consumes twice as much Crew Stamina"
+                    "在防御的前2秒，受到的所有伤害降低3000。",
+                    "2秒后，防御可将受到的伤害减少200。",
+                    "激活与保持防御状态会消耗200%倍船员体力"
                 ]
             }
         },
         "afterShock": {
-            "name": "After Shock",
+            "name": "余波",
             "description": {
-                "general": "Summons a Lightning strike after 2s at the location a show lands, dealing 2000 Electric Damage"
+                "general": "命中2秒后，在弹着位置召唤一次雷击，造成2000电击伤害"
             }
         },
         "impendingBoom": {
-            "name": "Impending Boom",
+            "name": "爆炸迫近",
             "description": {
                 "general": [
-                    "Hits have a 15% chance to inflict a delayed epxlosion that deals 7500 damage in a 65m radius after 4s",
-                    "This chance increases to 100% when hitting a weakpoint",
-                    "May only inflict one delayed attack per target"
+                    "命中目标后，有15%几率引发一次延迟爆炸（4秒后在65米范围内造成7500伤害）。",
+                    "命中弱点时，该效果的触发几率提升至100%。",
+                    "每个目标最多只能触发一次延迟攻击。"
                 ]
             }
         },
         "tripleThreat": {
-            "name": "Triple Threat",
+            "name": "三重威胁",
             "description": {
-                "general": "Fires 3 shots at once. Deals additional 400 fire damage if all 3 shots hit the same target"
+                "general": "同时发射3发攻击。若全部3发攻击命中相同目标，则额外造成400火焰伤害。"
             }
         },
         "combustion": {
-            "name": "Combustion",
+            "name": "燃烧",
             "description": {
-                "1": "Adds 10% of damage as Explosive Damage",
-                "2": "Adds 20% of damage as Explosive Damage",
-                "3": "Adds 30% of damage as Explosive Damage"
+                "1": "增加10%的伤害，转化为爆炸伤害",
+                "2": "增加20%的伤害，转化为爆炸伤害",
+                "3": "增加30%的伤害，转化为爆炸伤害"
             }
         },
         "imminentBang": {
-            "name": "Imminent Bang",
+            "name": "爆炸将至",
             "description": {
                 "general": [
-                    "Hits have a 3% chance to inflict a delayed explosion that deals 7500 damage in a 65m radius after 4s",
-                    "May only inflict one delayed attack per target"
+                    "命中目标后，有3%几率引发一次延迟爆炸（4秒后在65米范围内造成7500伤害）。",
+                    "每个目标最多只能触发一次延迟攻击。"
                 ]
             }
         },
         "bilgefireBarrels": {
             "description": {
                 "general": [
-                    "Weapon hits against a target with a damaging status effect have a 5% chance to fully recharge those status effects. This effect has a 30s cooldown",
-                    "Increases Secondary Damage of Broadside Weapons by 10%",
-                    "Increases Broadside Weapons damage by 5%"
+                    "武器命中带有损伤状态效果的目标时，有5%几率完成充能这些状态效果。该效果有30秒冷却时间。",
+                    "舷侧武器的次要伤害提升10%",
+                    "舷侧武器的伤害提升5%"
                 ]
             }
         },
         "emergencyLocker": {
             "description": {
                 "general": [
-                    "Reduces duration of all damaging status effects applied to your ship by 50% but increases damage dealt by these by 15%",
-                    "Reduces incoming Secondary Damage by 10%",
-                    "Increases Max Hull Health by 6%"
+                    "对你船只施加的所有损伤状态效果的时长减少50%，但这些效果造成的伤害提升15%",
+                    "受到的次要伤害降低10%",
+                    "将船身最大生命值提升6%"
                 ]
             }
         },
         "wyrmsBreathChurner": {
             "description": {
                 "general": [
-                    "Triggering Shell-Shocked on the target increases the Reload Time of their weapons by 20% for 10s",
-                    "Increases Secondary Damage of Explosive Weapons by 20%",
-                    "Increases weapon damage of Explosive Weapons by 5%"
+                    "对目标触发弹震会将目标武器的装填时间提升20%，持续10秒",
+                    "爆炸型武器的次要伤害提升20%",
+                    "爆炸型武器的武器伤害提升5%"
                 ]
             }
         },
         "markOfTheWolf": {
             "description": {
                 "general": [
-                    "Triggering Ablaze on the target also increases Shell-Shocked charge rate by 50% for 7s",
-                    "Inceases Fire Rate of Explosive Weapons by 20%",
-                    "Increases damage to structures by 5%"
+                    "对目标触发燃烧也会将弹震的充能速度提升50%，持续7秒",
+                    "爆炸型武器的射速增加20%",
+                    "将对建筑造成的伤害提升5%"
                 ]
             }
         },
         "fuseFusingStation": {
             "description": {
                 "general": [
-                    "Decreases Reload Time of Front and Rear Weapons by 9%",
-                    "Increases Secondary Damage dealt by Front and Rear weapons by 9%"
+                    "船头武器和船尾武器的装填时间降低9%",
+                    "船头武器和船尾武器造成的次要伤害提升9%"
                 ]
             }
         },
         "ramrodWorkshop": {
             "description": {
                 "general": [
-                    "Decreases Reload Time of Broadside Weapons by 7%",
-                    "Increases Secondary Damage dealt by Broadside Weapons by 7%"
+                    "舷侧武器的装填时间降低7%",
+                    "舷侧武器造成的次要伤害提升7%"
                 ]
             }
         },
         "breechlockFurnace": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage dealt by up to 20% the closer the target is, reduced by 2% per 50m to the target",
-                    "Increases Charge Rate of the Shell-Shocked effect on enemy ships by 5%",
-                    "Increases damage dealt by the Shell-Shocked status effect on a target by 3%"
+                    "随着目标靠近提升次要伤害，最高提升20%，但每距离目标50米则伤害降低2%",
+                    "敌方船只的弹震效果的充能速度增加5%",
+                    "将目标上弹震状态效果的伤害提升3%"
                 ]
             }
         },
         "dynamicBallastControl": {
             "description": {
                 "general": [
-                    "Reduces incoming Secondary Damage for every 100m to attack, capped at 30% at 600m",
-                    "Reduces incoming Piercing Charge from enemy ships by 8%",
-                    "Increases Armor Rating of equipped armor by 3%"
+                    "与攻击者每隔100米就可以叠加减少受到的次要伤害，最多在600米时减少30%",
+                    "来自敌方船只的穿刺冲刺减少8%",
+                    "将已装备装甲的装甲级别提升3%"
                 ]
             }
         },
         "mortarProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Mortar by 15%"
+                "15": "迫击炮的炮弹速度增加15%"
             }
         },
         "rocketProjectileSpeed": {
             "description": {
-                "15": "Increases Projectile Speed of Rocket by 15%"
+                "15": "火箭的炮弹速度增加15%"
             }
         },
         "joineryWorkshop": {
             "description": {
-                "1": "Increases Repair Amount from Repair Weapons by 6%"
+                "1": "来自修复武器的维修量增加6%"
             }
         },
         "grit": {
-            "name": "Grit",
+            "name": "坚毅",
             "description": {
                 "general": [
-                    "Gain a stack of Grit when you take damage. Each stack of Grit increases Armor by 40, up to a maximum of 10 stacks. Each stack of Grit lasts 15 seconds",
-                    "Allied XSML, SML and MED ships within 200m take 10% reduced damage. When you have 10 stacks of Grit, reduce 20% damage instead"
+                    "受伤害时获得1层坚毅。每层坚毅增加40装甲，最多可叠加10层。每层坚毅持续15秒。",
+                    "200米范围内的友方超小、小型和中型船只受到的伤害降低10%。拥有10层坚毅时友方船只改为受到的伤害降低20%"
                 ]
             }
         },
         "colossal": {
-            "name": "Colossal",
+            "name": "巨舰",
             "description": {
-                "general": "Reduces Sailing Speed in Rivers and Shallows by 30%"
+                "general": "拥有大量船身生命值，且在河流与浅水区中减少30%的航行速度"
             }
         },
         "abundantGunports": {
-            "name": "Abundant Gunports",
+            "name": "火炮舱门数量充足",
             "description": {
-                "general": "Increases received damage to Weakpoints by 30%"
+                "general": "拥有大量火炮舱口，但暴露了弱点，受到30%的额外伤害"
             }
         },
         "frigateUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 104000",
-                    "Increases Brace Strength to 31200"
+                    "将船身生命值提升至104000",
+                    "将防御强度提升至31200"
                 ],
                 "2": [
-                    "Increases Cargo to 95000"
+                    "将货物提升至95000"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Top Speed to 15kn",
-                    "Increases Trimming Speed to 20kn",
-                    "Adds 'Deep Blue' perk"
+                    "将基础船只等级提升6",
+                    "将最高速度提升至15节",
+                    "将整帆速度提升至20节",
+                    "新增「深蓝」能力"
                 ],
                 "4": [
-                    "Increases Hull Health to 107000",
-                    "Increases Brace Strength to 32100"
+                    "将船身生命值提升至107000",
+                    "将防御强度提升至32100"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "将基础船只等级提升至7",
+                    "将陈设栏位提升至6"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
+                    "将基础船只等级提升至8",
+                    "防御强度回复增加12.5%",
                     "Adds 'Resolve' perk"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 128400",
-                    "Increases Brace Strength to 38520",
-                    "Increases Brace Strength Recovery by 25%"
+                    "将基础船只等级提升至9",
+                    "将船身生命值提升至128400",
+                    "将防御强度提升至38520",
+                    "防御强度回复增加25%"
                 ]
             }
         },
         "resolve": {
-            "name": "Resolve",
+            "name": "决意",
             "description": {
                 "general": [
-                    "At 10 stacks of Grit, taking damage grants you Resolve",
-                    "Resolve restores 10% Brace Strength on activation, decreases status effect damage by 20% and increases threat generation by 100% for 10 seconds"
+                    "拥有10层坚毅时，受到伤害后会获得决意。",
+                    "决意激活后，会恢复10%防御强度，并在10秒内使状态伤害降低20%，威胁生成提升100%。"
                 ]
             }
         },
         "poseidonsBrew": {
             "description": {
                 "general": [
-                    "Removes all negative status effects from the ship",
-                    "Immunity against status effects for 20 seconds"
+                    "移除船只的所有负面状态效果。",
+                    "在20秒内免疫状态效果。"
                 ]
             }
         },
         "skyrend": {
-            "name": "Skyrend",
+            "name": "裂穹",
             "description": {
                 "general": [
-                    "Each volley of cannon fire on enemy sails has a chance of summoning a lightning strike that deals 5000 Electric Damage",
-                    "Every 5 hits adds a 15% chance, up to a maximum of 45%",
-                    "Lightning strike damage increases to 10000 if target has Torn Sails"
+                    "每轮齐射的炮火命中敌船船帆后，有一定几率召唤一道雷击，造成5000电击伤害。",
+                    "每命中5次，召唤几率提升15%（最高几率为45%）。",
+                    "若目标拥有船帆撕裂，则雷击伤害提升至10000。"
                 ]
             }
         },
         "marauder": {
-            "name": "Marauder",
+            "name": "大盗",
             "description": {
                 "general": [
-                    "Every 1% of Burning Damage also increases the build-up rate of the Vulnerable status effect by 1%",
-                    "Additionally increases the build-up rate of Vulnerable by 40%"
+                    "每1%燃烧伤害可使弱点状态的累积速率提升1%，",
+                    "同时使弱点的积累速率提升40%。"
                 ]
             }
         },
         "spiritMending": {
-            "name": "Spirit Mending",
+            "name": "灵魂疗愈",
             "description": {
-                "general": "20% of damage dealt restores Hull Health, increasing by 5% for every 50m the target is at distance, up to a maximum of 50%"
+                "general": "造成伤害的20%能够恢复船身生命值，每50米目标距离提升5%恢复，至多恢复50%"
             }
         },
         "torrent": {
-            "name": "Torrent",
+            "name": "乱流",
             "description": {
                 "general": [
-                    "Rains 60 rockets over an extended period of time",
-                    "50% of Flooding Damage is dealt as Severe Damage"
+                    "在9秒内对目标持续倾泻69枚火箭弹。",
+                    "50%进水伤害将转化为严重伤害。"
                 ]
             }
         },
         "illuminate": {
-            "name": "Illuminate",
+            "name": "灵光显现",
             "description": {
                 "general": [
-                    "Reduces target's movement speed by 50% and Armor by 20% for 3s",
-                    "Makes Weeping Specters vulnerable to damage"
+                    "降低目标50%移动速度与20%装甲，持续3秒，",
+                    "并使悲泣幽灵更易受到伤害。"
                 ]
             }
         },
         "impregnable": {
-            "name": "Impregnable",
+            "name": "不破壁垒",
             "description": {
                 "general": [
-                    "The punctured status effect is 50% less effective in reducing Armor",
-                    "Reduces duration of the Punctures status effect by 15%"
+                    "击穿状态效果降低装甲的效果减弱50%。",
+                    "同时使击穿状态效果的持续时间减少15%。"
                 ]
             }
         },
         "entrenched": {
-            "name": "Entrenched",
+            "name": "深壕固守",
             "description": {
-                "general": "Receives 5% less damage from structures, and an additional 1% for every 3000 Brace Strength"
+                "general": "受到的建筑来源伤害减少5%，每拥有1%防御强度，额外减少3000"
             }
         },
         "bastion": {
-            "name": "Bastion",
+            "name": "堡垒",
             "description": {
-                "general": "When at half-sails or anchored, receive 20% less damage from hits"
+                "general": "处于半帆或停泊状态时，受击伤害减少20%。"
             }
         },
         "volatileVestment": {
-            "name": "Volatile Vestment",
+            "name": "爆炎铠装",
             "description": {
                 "general": [
-                    "When hit while Bracing, an explosion is triggered, which deals 3500 Explosive Damage in a 100m Blast Radius",
-                    "This effect has a 10s cooldown"
+                    "在防御状态下被击中后，触发爆炸，于100米爆破范围内造成3500爆炸伤害。",
+                    "该效果冷却时间为10秒。"
                 ]
             }
         },
         "trunnionFurnace": {
             "description": {
                 "general": [
-                    "Hits from a Culverin have 25% chance to spread to a nearby target within 100m, dealing 25% of the original damage. Does not work for Repair Weapons",
-                    "Increases Projectile Speed of Culverin by 10%"
+                    "长炮的攻击有25%几率波及100米范围内的一个额外目标，造成原始伤害的25%。维修型武器不适用此效果。",
+                    "长炮的炮弹速度增加10%"
                 ]
             }
         },
         "acceleratedGunrailSmithy": {
             "description": {
                 "general": [
-                    "Reduces Reload Time by 5% and increases Secondary Damage of Auxiliary Weapons by 7% for each weapon quadrant being reloaded",
-                    "While not trimming sails, increases weapon damage for Auxiliary Weapons by 9%",
-                    "Increases Turning Speed by 8%"
+                    "每有一个武器方位进行装填，辅助武器的装填时间减少5%，且次要伤害提升7%",
+                    "在非全帆航行时，使辅助武器伤害提升9%",
+                    "将转向速度提升8%"
                 ]
             }
         },
         "ammoPrimingBench": {
             "description": {
                 "general": [
-                    "Increases damage to structures by 20% for Siege Weapons and repair amount of Repair Weapons by 18%, when more than 160m away from the target",
-                    "Siege weapons deal 4% increases weapon damage. Repair Weapons repair 7% more Hull Health",
-                    "Increases Projectile Speed of Siege Weapons and Repair Weapons by 10%, except for Sea Fire and Auxiliary Weapons"
+                    "与距离目标超过160米时为攻城武器提升20%对建筑伤害、为修复武器增加18%的维修量",
+                    "攻城武器造成的武器伤害提升4%。修复武器修复额外维修7%船身生命值。",
+                    "攻城武器和修复武器的炮弹速度提升10%，海洋之火与辅助武器除外"
                 ]
             }
         },
         "dazzling": {
-            "name": "Dazzling",
+            "name": "眩目",
             "description": {
-                "general": "Detonation also applies Shell-shocked to all targets"
+                "general": "引爆将额外对所有目标施加弹震效果"
             }
         },
         "demolition": {
-            "name": "Demolition",
+            "name": "拆除",
             "description": {
-                "general": "Explosive Damage from this weapon deals 300% increased damage to structures"
+                "general": "此武器发射的能够爆炸伤害额外造成300%对建筑造成的伤害。"
             }
         },
         "precisionBlast": {
-            "name": "Precision Blast",
+            "name": "精准爆破",
             "description": {
-                "general": "Adds 30% of damage as Explosive Damage in a 30m Blast Radius"
+                "general": "在30米爆破范围内，增加30%伤害，转化为爆炸伤害"
             }
         },
         "rumPantry": {
             "description": {
-                "1": "Increases Stamina Recovery by 10%"
+                "1": "将体力回复速度提升10%。"
             }
         },
         "sterileGalley": {
             "description": {
-                "1": "Increases Maximum Stamina by 7%"
+                "1": "最大体力提升7%"
             }
         },
         "balancedMast": {
             "description": {
-                "1": "Increases Acceleration and Deceleration by 16%"
+                "1": "加速度和减速度增加16%"
             }
         },
         "leatherRopeGrips": {
             "description": {
-                "1": "Reduces Crew Stamina Depletion when trimming sails by 15%"
+                "1": "调整船帆时的船员体力消耗减少15%"
             }
         },
         "lightenedMast": {
             "description": {
-                "1": "Increases Acceleration by 26%"
+                "1": "将加速度提升26%。"
             }
         },
         "royalSterilizationTent": {
             "description": {
                 "general": [
-                    "Increases Repair Amount of weapons by 21% for targets below 70% Hull Health",
-                    "1% of Repair Amount also restores 0.1% Crew Stamina to the target",
-                    "Reduces Reload Time of Repair Weapons by 11%"
+                    "使武器对于船身生命值低于70%的目标的维修量提升21%。",
+                    "每维修1%会恢复目标0.1%的船员体力",
+                    "修复武器的装填时间减少11%。"
                 ]
             }
         },
         "atelierDeCuivrage": {
             "description": {
                 "general": [
-                    "While above 50% Hull Health, reduces incoming Secondary Damage by 24%, and increases Threat Generation by 15% and weapon damage by 10%",
-                    "Increases Armor Rating of equipped armor by 100"
+                    "当船身生命值高于50%时，受到的次要伤害降低24%，同时提升15%威胁生成和10%武器伤害",
+                    "将已装备装甲的装甲级别提升100"
                 ]
             }
         },
         "rampantCarriageHold": {
             "description": {
                 "general": [
-                    "After 10 consecutive hits on targets, applies the Sea's Roar status effect to your ship and the nearest ally within 150m. Missing a shots resets the counter",
-                    "Sea's Roar increases the Secondary Damage dealt by 17% and reduces incoming Secondary Damage by 15% for 17s",
-                    "Decreases Reload Time of Weapons by 7%"
+                    "连续10次击中目标后，为你的战舰和150米范围内最近的友军施加深洋怒红状态效果。若射击未命中，则计数重置。",
+                    "深洋怒吼：使造成的次要伤害提升17%，并使收到的次要伤害降低15%，持续17秒。",
+                    "武器装填时间降低7%"
                 ]
             }
         },
         "sandbagPaintingStation": {
             "description": {
                 "general": [
-                    "After receiving 12 hits, gains the Sea's Ward status effect for 30s, with a cooldown of 60s",
-                    "Sea's Ward increases Brace Strength by 18%. 3% of weapon damage builds up the Taunted status effect on enemies",
-                    "Reduces Crew Stamina Depletion while Bracing by 14%"
+                    "连续受击12次后获得大洋之盾状态效果，持续30秒，冷却60秒。",
+                    "大洋之盾：提升18%防御强度。武器伤害的3%会在敌人身上累计被嘲讽状态效果。",
+                    "防御时将船员体力消耗降低14%"
                 ]
             }
         },
         "counterthrustLocker": {
             "description": {
                 "general": [
-                    "After ramming a target, increases Acceleration by 300% for 5s",
-                    "When sailing against the wind, increases Top Speed by 10% and reduces Crew Stamina Depletion while in combat by 10%"
+                    "撞击目标后，加速度提升300%，持续5秒。",
+                    "逆风航行时，提升10%最高速度并降低战斗时的船员体力消耗，持续10%"
                 ]
             }
         },
         "plaguebringer": {
-            "name": "Plaguebringer",
+            "name": "瘟疫使者",
             "description": {
                 "general": [
-                    "When attacking a target under Poisoned status effect, it increases the damage and duration of the Poisoned status effect by 6% and 20% respectively for each consecutive hit up to 30% increased damage and 100% increased duration. Weapon hit has a chance to cause a poison explosion of 300m on the target, dealing 1000 Toxic damage to hostile enemies",
-                    "Increase Toxic Weapons damage by 20% and Poisoned charge up rate by 150%"
+                    "攻击受到中毒状态效果影响的敌方船只时，每次连续命中都会使中毒状态效果的伤害和持续时间分别提升6%（最多30%）和20%（最多100%）。武器每命中一次，都有几率在一个中毒目标300米内引发爆炸，对敌人造成1000剧毒伤害。剧毒型武器伤害提升20%，中毒充能速度提升150%。",
+                    "剧毒型武器伤害提升20%，中毒充能速度提升150%。"
                 ]
             }
         },
         "spite": {
-            "name": "Spite",
+            "name": "恶意",
             "description": {
-                "general": "When attacking an enemy ship under the Poisoned status effect, the enemy ship deals 50 Toxic Damage per second to nearby targets within 300m for 10 seconds. Decreases damage received from targets affected by the Poisoned status effect by 30%"
+                "general": "攻击受到中毒状态效果影响的敌方船只时，敌方船只会每秒对附近300米范围内的目标造成50剧毒伤害，持续10秒。来自收到中毒状态效果影响的目标的伤害降低30%。"
             }
         },
         "resurgence": {
-            "name": "Resurgence",
+            "name": "复生",
             "description": {
-                "general": "Killing a target grants a 100% boost to Maximum Brace Strength for 11s and instantly restores 60% Brace Strength and 25% Hull Health. This effect has a cooldown of 60s"
+                "general": "击杀目标后，最大防御强度提升100%，持续11秒，并立即回复60%防御强度和25%船身生命值。该效果冷却时间为60秒。"
             }
         },
         "windcaller": {
-            "name": "Windcaller",
+            "name": "风使",
             "description": {
-                "general": "While bracing, increase Acceleration and Turning Speed by 2% each second. When Bracing ends, retain acceleration and Turning Speed for 6s. For this duration, increase Sailing Speed by 14%"
+                "general": "防御时，加速度和转向速度每秒提升2%。防御结束后，加速度和转向速度的提升效果持续6秒。在此期间，航行速度提升14%。"
             }
         },
         "immunity": {
-            "name": "Immunity",
+            "name": "免疫",
             "description": {
-                "general": "Reduces the damage that passes through Brace Strength to Hull Health due to the Poisoned status effect by 50%. Also reduces duration of Poisoned status effect by 25%"
+                "general": "将中毒状态效果穿透防御强度对船身生命值造成的伤害减少50%，并使中毒状态效果的持续时间减少25%。"
             }
         },
         "stinkpotStation": {
             "description": {
                 "general": [
-                    "Hits with a Toxic Weapon on a target within 250m, deal 10% more damage if they are Bracing",
-                    "Poisoned Status effects applied to targets within 250m deal 10% increased damage",
-                    "Increases Toxic Damage to enemy ships by 8%"
+                    "使用剧毒武器命中250米内的目标时，如果目标处于防御状态，则额外造成10%伤害",
+                    "对250米内目标施加的中毒状态效果可额外造成10%伤害",
+                    "对敌方船只额外造成8%剧毒伤害"
                 ]
             }
         },
         "sheetingWinchConsole": {
             "description": {
                 "general": [
-                    "Gain 0.8% weapon damage per 1kts of sailing Speed",
-                    "If no damage is received while trimming for 5s, reduce the reload time of Broadside Weapons by 12% for 10s",
-                    "Increases Acceleration by 20%"
+                    "每1节航行速度可获得0.8%武器伤害",
+                    "调整船帆时，如果5秒内未收到伤害，则弦侧武器的装填时间降低12%，持续10秒",
+                    "将加速度提升20%"
                 ]
             }
         },
         "gimbalRingStores": {
             "description": {
                 "general": [
-                    "Hitting a target over 180m away, increases damage of Demicannon weapons by 17% for 12s",
-                    "Increases Projectile Speed of Demicannon Weapons by 14%",
-                    "Increases Maximum Range of Demicannon Weapons by 12%"
+                    "命中180米外的目标后，半加农炮型武器伤害提升17%，持续12秒",
+                    "半加农炮型武器的炮弹速度增加14%",
+                    "半加农炮型武器的最大射程增加12%"
                 ]
             }
         },
         "siphonFurnace": {
             "description": {
                 "general": [
-                    "If the target is Poisoned, increases the damage of Toxic weapons by 10%",
-                    "Increases Projectile Speed of Toxic Weapons by 12%",
-                    "Increases Maximum Range of Toxic Weapons by 10%"
+                    "如果目标处于中毒状态，则其受到的剧毒型武器伤害提升10%",
+                    "剧毒型武器的炮弹速度增加12%",
+                    "剧毒型武器的最大射程增加10%"
                 ]
             }
         },
         "causticSpallStation": {
             "description": {
                 "general": [
-                    "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
-                    "For every 1% increase in Projectile Speed of Weapons through any bonuses, increase Flooding Damage of those weapons by 1%",
-                    "Increases damage to enemy ships with the Flooded effect by 10%"
+                    "进水型武器对200米外的目标造成伤害，进水伤害提升13%，持续10秒",
+                    "武器每通过增益炮弹速度提升1%，其进水伤害会提升1%",
+                    "对带有进水效果的敌方船只造成的伤害增加10%"
                 ]
             }
         },
         "leydenVaultArray": {
             "description": {
                 "general": [
-                    "For every 5m Area-of-Effect Radius of the weapon, increase weapon damage as Electric Damage by 2%",
-                    "Reduces Reload Time of Electric Weapons by 6%",
-                    "Increases Damage to enemy ships with the Stormstruck effect by 8%"
+                    "武器每拥有5米范围效果半径，武器伤害就会转化为电击伤害并提升2%",
+                    "电击型武器的装填时间减少6%",
+                    "对带有被电击效果的敌方船只造成的伤害增加8%"
                 ]
             }
         },
         "cascadeCoilBench": {
             "description": {
                 "general": [
-                    "Increases weapon damage of Sea Fire by 13%",
-                    "Increases Secondary damage of Sea Fire by 15%"
+                    "海洋之火的武器伤害增加13%",
+                    "海洋之火的次要伤害增加15%"
                 ]
             }
         },
         "curareCrushingBench": {
             "description": {
                 "general": [
-                    "Increases Charge rate of the Poisoned status effect on a target by 8%",
-                    "Increases duration of the Poisoned effect on enemy ships by 8%"
+                    "将敌方目标上中毒状态效果的充能速度提升8%",
+                    "敌方船只的中毒效果持续时间增加8%"
                 ]
             }
         },
         "infectious": {
-            "name": "Infectious",
+            "name": "传染",
             "description": {
-                "general": "Hitting the same target 8 times deals 13% Toxic damage to nearby enemies within 150m. Weapon damage increases by 1% for each subsequent hit on the same target"
+                "general": "命中同一目标8次后，可对其附近的13%米范围内的敌人造成150毒药伤害。每对同一目标连续命中一次，武器伤害提升1%。"
             }
         },
         "lancerSeaFire": {
-            "name": "Lancer",
+            "name": "枪骑兵",
             "description": {
-                "general": "Fires a streak of lightning that can chain up to 4 targets in proximity. Increases damage by 1% per 10m of weapon range. Adds 75m to weapon range"
+                "general": "可发射一道闪电，连锁命中附近最多4个目标。每10米武器射程可使伤害提升1%。武器射程增加75米。"
             }
         },
         "virulent": {
-            "name": "Virulent",
+            "name": "猛毒",
             "description": {
-                "general": "50% of Toxic damage reduces Maximum Brace Strength for 10s. If the target is Poisoned, Toxic damage is increased by 75%"
+                "general": "使最大防御强度降低毒药伤害量的50%，持续10秒、。如果目标已中毒，则毒药伤害提升75%。"
             }
         },
         "contagion": {
-            "name": "Contagion",
+            "name": "蔓延",
             "description": {
-                "general": "When armed, afflicts target with the Gaseous status effect for 4s, which deals 300 Poison damage per second to all enemies in 150m from the target. Effect can be stacked up to 8 times"
+                "general": "装填炮弹后，对目标施加持续4秒的账期状态效果，可对目标150米范围内的所有敌人每秒造成300剧毒伤害。该效果最多叠加8层。"
             }
         },
         "perforator": {
-            "name": "Perforator",
+            "name": "穿透大师",
             "description": {
-                "general": "Hitting a Weakpoint deals 150% of Flooding damage as an extra burst of Severe Damage. If a target is Flooded, the extra burst damage is increased to 200%"
+                "general": "命中弱点会在严重伤害的基础上额外造成一次150%进水伤害。如果目标已经进水，则额外伤害提升至200%。"
             }
         },
         "countdown": {
-            "name": "Countdown",
+            "name": "倒计时",
             "description": {
-                "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
+                "general": "命中目标后，有15%几率引发一次延迟爆炸（4秒后在65米爆破范围内造成2500伤害）。每额外命中一次目标，该效果的触发几率提升15%（最多对5个目标生效，相应触发几率上线为75%）。"
             }
         }
     }

@@ -1,48 +1,48 @@
 {
     "ultimates": {
         "hunter": {
-            "name": "Hunter",
-            "description": "When activated, massively increases the damage dealth by weapons for 20 seconds."
+            "name": "猎手",
+            "description": "激活后，在20秒内大幅提升武器造成的伤害。"
         },
         "laPesteSignalLauncher": {
-            "name": "La Peste Signal Launcher",
-            "description": "Equips an auxiliary weapon that, when fired on the water, summons the Plague King, Philippe La Peste, to defend a location. His health will gradually decay over time."
+            "name": "拉佩斯特信号发射器",
+            "description": "装备辅助武器，在海上发射后会召唤出瘟疫之王菲力浦●拉佩斯特保护某个地点，其生命值会持续减少。"
         },
         "laPlusGrandeFleur": {
-            "name": "La Plus Grande Fleur",
-            "description": "Equips an auxiliary weapon that fires a devastating swarm of mortar shells, leaving pools of poison behind for a duration."
+            "name": "究极花冠",
+            "description": "装备辅助武器，发射毁灭性的迫击炮弹群，留下会持续存在一段时间的毒池。"
         },
         "trueEndlessRequiem": {
-            "name": "True Endless Requiem",
-            "description": "Equips broadsides with Torpedo launchers. When fired, unleashes delayed waves of torpedoes that require accurate prediction to deal lethal damage."
+            "name": "至真无尽安魂曲",
+            "description": "在舷侧装备鱼雷发射器。发射后，会在延迟一段时间后释放鱼雷弹幕，需要精准预测才能造成致命伤害。"
         },
         "bastion": {
-            "name": "Bastion",
-            "description": "When activated, massively reduces the damage taken from all sources for 15 seconds."
+            "name": "堡垒",
+            "description": "激活后，在15秒内大幅减少所有来源的伤害。"
         },
         "ghostShipSignalLauncher": {
-            "name": "Ghost Ship Signal Launcher",
-            "description": "Equips an auxiliary weapon that, when fired on the water, summons a Ghost Ship to hunt your enemies. Its health will gradually decay over time."
+            "name": "幽灵船信号弹",
+            "description": "装备辅助武器,在海上发射后会召唤出幽灵船追杀你的敌人，其生命值会持续减少。"
         },
         "hailstormLongGuns": {
-            "name": "Hailstorm Long Guns",
-            "description": "Equips a frontal weapon which allows for rapid-fire of precise shots, capable of tearing the sails of ships to immobilize them."
+            "name": "破帆长管炮",
+            "description": "装备于船头武器,可快速精准地射击并撕裂敌船的船帆，令其无法移动。"
         },
         "massRevitalization": {
-            "name": "Mass Revitalization",
-            "description": "When activated, recovers 75% of Hull Health and 100% of Crew Stamina of nearby allies."
+            "name": "群体复苏",
+            "description": "激活后，恢复附近盟友75%的船身生命值和100%的船员体力。"
         },
         "impederBallista": {
-            "name": "Impeder Ballista",
-            "description": "Equips a frontal weapon which fires charged shots that inflict damage to weakpoints and tear the sails of ships to immobilize them."
+            "name": "轨道弩炮",
+            "description": "装备于船头武器,多次蓄力射击,对弱点造成伤害并撕裂敌船的船帆,令其无法移动。"
         },
         "combatFury": {
-            "name": "Combat Fury",
-            "description": "When activated, increases Sailing Speed and damage, reduces Stamina Consumption while trimming and bracing, and periodically recovers Hull Health."
+            "name": "战斗狂怒",
+            "description": "激活后，提升航行速度和伤害，降低调整船帆和防御时的体力消耗，并定期恢复船身生命值。"
         },
         "zamaharibuBaitLauncher": {
-            "name": "Zamaharibu Bait Launcher",
-            "description": "Equips an auxiliary weapon that, when fired on the water, summons the Sea Monster, Zamaharibu, to hunt down your enemies."
+            "name": "萨马哈利布诱饵发射器",
+            "description": "装备辅助武器，在海上发射后会召唤出海怪萨马哈利布追杀你的敌人。"
         }
     }
 }
