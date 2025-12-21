@@ -1,12 +1,12 @@
 {
     "seasons": {
-        "release": "Y1S0 - Release",
-        "ragingTides": "Y1S1 - Raging Tides",
-        "chorusOfHavoc": "Y1S2 - Chorus of Havoc",
-        "intoTheDragonsWake": "Y1S3 - Into the Dragon's Wake",
-        "shadowsOfTheDeep": "Y1S4 - Shadows of the Deep",
-        "ascentIntoChaos": "Y2S1 - Ascent into Chaos",
-        "oathsOfWar": "Y2S2 - Oaths of War",
-        "gutsAndGlory": "Y2S3 - Guts and Glory"
+        "release": "发行",
+        "ragingTides": "狂潮",
+        "chorusOfHavoc": "浩劫合唱",
+        "intoTheDragonsWake": "龙之觉醒",
+        "shadowsOfTheDeep": "深海暗影",
+        "ascentIntoChaos": "混沌升腾",
+        "oathsOfWar": "战争誓约",
+        "gutsAndGlory": "勇气与荣耀"
     }
 }

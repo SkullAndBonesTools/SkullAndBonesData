@@ -1,296 +1,300 @@
 {
     "commodities": {
         "lambaCloth": {
-            "name": "Lamba Cloth",
-            "description": "Traditional garment from the Red Isle. Has value to the right buyer. Produced by the Sea People to be traded in the region."
+            "name": "兰布",
+            "description": "红岛的传统服饰。对合适的买家而言有一定价值。由海民出产，并在该地区交易。"
         },
         "uncutGarnet": {
-            "name": "Uncut Garnet",
-            "description": "A deep maroon hints at its value. It is prized as a gem by many. Produced by the Sea People to be exported from the region."
+            "name": "石榴石原石",
+            "description": "深邃的紫红色暗示着其价值。许多人将其视作珍贵宝石。海民出产，并出口至其他地区。"
         },
         "fineSeaPeopleRelic": {
-            "name": "Fine Sea People Relic",
-            "description": "A precious article from the Sea People. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "海民的贵重物件，可卖得相当数量的银币。"
         },
         "capitalSeaPeopleRelic": {
-            "name": "Capital Sea People Relic",
-            "description": "An invaluable article from the Sea People. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "海民的珍贵物件，可卖得巨大数量的银币。"
         },
         "cloves": {
-            "name": "Cloves",
-            "description": "Cloves are dried flower buds used both as a spice and a medicinal ingredient. Produced and traded by the Fara in the region of the Red Isle."
+            "name": "丁香",
+            "description": "丁香是一种风干花苞，可用作香料和药材。由珐拉氏族于红岛一带出产并交易。"
         },
         "frankincense": {
-            "name": "Frankincense",
-            "description": "An aromatic resin obtained from a shrub that grows in the region of the Arabian Straits. It is burnt in various rituals, both in the East and West. Produced by the Fara to be exported out of the region."
+            "name": "乳香",
+            "description": "乳香是一 种风干花苞， 可用作香料和药材。由珐拉氏族于红岛一-带出产并交易。"
         },
         "uncutSapphire": {
-            "name": "Uncut Sapphire",
-            "description": "A crude, valuable blue gem that can be found in the Red Isle. Unearthed by the Fara for trades beyond the Indian Ocean."
+            "name": "蓝宝石原石",
+            "description": "昂贵的天然蓝色宝石，可在红岛找到。它由珐拉氏族发掘，用于在印度洋以外地区交易。"
         },
         "fineFaraRelic": {
-            "name": "Fine Fara Relic",
-            "description": "A precious article from the Fara. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "珐拉氏族的贵重物件，可卖得相当数量的银币。"
         },
         "capitalFaraRelic": {
-            "name": "Capital Fara Relic",
-            "description": "An invaluable article from the Fara. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "珐拉氏族的珍贵物件，可卖得巨大数量的银币。"
         },
         "snuff": {
-            "name": "Snuff",
-            "description": "In the hands of a connoisseur, it brings joy for its flavor. produced by the Ungwana to be traded in the region."
+            "name": "鼻烟",
+            "description": "在懂行的人手中，其气味能带来快乐。由乌瓜纳出产,并在该地区交易。"
         },
         "ivory": {
-            "name": "Ivory",
-            "description": "A priceless commodity prized by artisans for its beauty and range of items that can be crafted from it. Produced by the Ungwana to be exported out of the region."
+            "name": "象牙",
+            "description": "一种极为宝贵的商品，因其美观性且可用于制作多种工艺品，而受到工匠们]的青睐。乌瓜纳出产，并出口到其他地区。"
         },
         "uncutDiamond": {
-            "name": "Uncut Diamond",
-            "description": "Prized by many, this commodity is valued for its beauty and price in the hands of the right person. Produced by the Ungwana to be exported out of the region."
+            "name": "钻石原石",
+            "description": "这种美丽珍贵的商品受万人追捧，合适的买家会出高价购买。由乌瓜纳出产，并出口到其他地区。"
         },
         "fineUngwanaRelic": {
-            "name": "Fine Ungwana Relic",
-            "description": "A precious article from the Ungwana. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "乌瓜纳的贵重物件，可卖得相当数量的银币。"
         },
         "capitalUngwanaRelic": {
-            "name": "Capital Ungwana Relic",
-            "description": "An invaluable article from the Ungwana. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "乌瓜纳的珍贵物件，可卖得巨大数量的银币。"
         },
         "spice": {
-            "name": "Spice",
-            "description": "Ground spices highly valued for its culinary and medical utility. Wars have been fought over them. Produced by the Rempah to be exported from the region."
+            "name": "香料",
+            "description": "经研磨的香料，因其烹饪和医疗用途而备受重视。曾经甚至发生过为了争夺香料而起的战争。由任帕出产，并出口到其他地区。"
         },
         "batik": {
-            "name": "Batik",
-            "description": "Intricate dyed cloth manufactured by the Rempah. Produced to be traded in the region."
+            "name": "蜡染布",
+            "description": "任帕人生产的精致染色布料。在该地区生，产和交易。"
         },
         "uncutRuby": {
-            "name": "Uncut Ruby",
-            "description": "An unprocessed gem of fire red to be fitted into the cane of a nobleman or the ring of a Kingpin. Produced by the Rempah to be exported from the region."
+            "name": "红宝石原石",
+            "description": "未经加工的炽红色宝石，用于镶嵌在贵族的手杖或头目的戒指上。由任帕出产，并出口至其他地区。"
         },
         "fineRempahRelic": {
-            "name": "Fine Rempah Relic",
-            "description": "A precious article from the Rempah. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "任帕的贵重物件，可卖得相当数量的银币。"
         },
         "capitalRempahRelic": {
-            "name": "Capital Rempah Relic",
-            "description": "An invaluable article from the Rempah. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "任帕的珍贵物件，可卖得巨大数量的银币。"
         },
         "ale": {
-            "name": "Ale",
-            "description": "More stuff to make people drunk. A pirate's favorite drink."
+            "name": "啤酒",
+            "description": "让人喝醉的东西。海盗最喜爱的饮料。"
         },
         "tobacco": {
-            "name": "Tobacco",
-            "description": "Dried leaves from a plant in the West Indies. Highly addictive, it is smoked, chewed, or snuffed as a leisure drug, and mistakenly considered beneficial for health. Produced by the Compagnie to be exported out of the region."
+            "name": "烟草",
+            "description": "生长于西印度群岛的一种植物的风干叶子。这种消遣品成瘾性极高，可吸食、咀嚼或作为嗅烟使用，常被误认为对健康有益。由皇家公司出产，并出口到其他地区。"
         },
         "ambergris": {
-            "name": "Ambergris",
-            "description": "Found ashore or floating at sea near the Red Isle, ambergris is a fragrant substance used in perfumery and a byproduct of digesting giant squids by sperm whales. Produced  by the Compagnie to be exported out of the region."
+            "name": "龙涎香",
+            "description": "龙涎香是一种用于制造香水的芳香物质，是抹香鲸消化巨型鱿鱼时出产的副产品;可在红岛附近的陆地或沿岸海域上找到。由皇家公司出产，并在该地区交易。区。"
         },
         "vanilla": {
-            "name": "Vanilla",
-            "description": "A sweet spice for flavoring and medicine. Produced by the Compagnie to be exported out of the region."
+            "name": "香草",
+            "description": "香甜的香料，用于调味和入药。由皇家公司出产，并在该地区交易。"
         },
         "wine": {
-            "name": "Wine",
-            "description": "A classic alcoholic beverage made from fermented grapes and enjoyed by people from all continents. Imported by the Compagnie to be traded in the region."
+            "name": "葡萄酒",
+            "description": "由发酵过的葡萄制成的经典酒精饮料，为各大洲的人们所喜爱。由皇家公司进口，并在该地区交易。"
         },
         "brandy": {
-            "name": "Brandy",
-            "description": "A strong liquor distilled from wine and aged in wooden casks, which give it a distinct flavor and scent. Imported by the Compagnie to be traded in the region."
+            "name": "白兰地",
+            "description": "葡萄酒蒸馏而成的烈性酒，并在木桶中进行陈酿，使其具有独特的风味和芳香。由皇家公司进口，并在该地区交易。"
         },
         "ornatePistols": {
-            "name": "Ornate Pistols",
-            "description": "Pistols desirable for officers and pirates who like to be conspicuous with their wealth."
+            "name": "华丽手枪",
+            "description": "受军官和海盗喜爱的手枪，用于彰显自己的财富。"
         },
         "militaryCompagnieRelic": {
-            "name": "Military Compagnie Relic",
-            "description": "A fortification component from the Compagnie. They could be sold for a huge amount of silver."
+            "name": "军队模组",
+            "description": "皇家公司的强化组件，可卖得巨大数量的银币。"
         },
         "fineCompagnieRelic": {
-            "name": "Fine Compagnie Relic",
-            "description": "A precious article from the Compagnie. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "皇家公司的贵重物件，可卖得相当数量的银币。"
         },
         "basicCompagnieRelic": {
-            "name": "Basic Compagnie Relic",
-            "description": "An article from the Compagnie. They could be sold for a decent amount of silver."
+            "name": "基础模组",
+            "description": "皇家公司的物件，可卖得一-定数量的银币。"
         },
         "capitalCompagnieRelic": {
-            "name": "Capital Compagnie Relic",
-            "description": "An invaluable article from the Compagnie. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "皇家公司的珍贵物件，可卖得巨大数量的银币。"
         },
         "nutmeg": {
-            "name": "Nutmeg",
-            "description": "The fruit of a rare tree that only grows in the islands of the East Indies. Nutmeg is a priceless spice produced by the DMC to be traded in the region."
+            "name": "肉豆蔻",
+            "description": "仅在东印度群岛生长的一-种稀有树木所结的果实。肉豆蔻是由荷兰商社出产的昂贵香料，可在该地区交易。"
         },
         "cacao": {
-            "name": "Cacao",
-            "description": "A popular bean used in a variety of food and beverages, and imported from Europe. Has value to the right buyer. Produced by the DMC to be traded in the region."
+            "name": "可可",
+            "description": "这种从欧洲进口的豆子深受大众欢迎，可用于制作各种食品和饮料。对合适的买家而言有一定价值。由荷兰商社出产，并在该地区交易。"
         },
         "camphor": {
-            "name": "Camphor",
-            "description": "A fragrant substance contained in the vapors from burning trees in the East Indies. It is used both in perfumery and as a medicinal ingredient. Produced by the DMC to be traded in the region."
+            "name": "樟脑",
+            "description": "在东印度群岛燃烧树木时，所产生的蒸汽中所含有的一种芳香物质。既可用于制造香水，也可入药。由任帕出产，并在该地区交易。"
         },
         "gin": {
-            "name": "Gin",
-            "description": "Originally created as a medicinal liquor by monks and alchemists in Europe. Imported by the DMC to be traded in the region."
+            "name": "金酒",
+            "description": "原本是由欧洲的僧侣和炼金术士制作的药酒。由荷兰商社进口，并在该地区交易。"
         },
         "painting": {
-            "name": "Painting",
-            "description": "A beautiful oil canvas painting framed by mahogany. This will fetch the right price from the right buyer. Imported by the DMC to be traded in the region."
+            "name": "油画",
+            "description": "用桃花心木画框装裱的美丽油画。喜欢它的买家会开出合适价格。由荷兰商社进口，并在该地区交易。"
         },
         "militaryDmcRelic": {
-            "name": "Military DMC Relic",
-            "description": "A fortification component from the DMC. They could be sold for a huge amount of silver."
+            "name": "军队模组",
+            "description": "荷兰商社的强化组件，可卖得巨大数量的银币。"
         },
         "fineDmcRelic": {
-            "name": "Fine DMC Relic",
-            "description": "A precious article from the DMC. They could be sold for a good amount of silver."
+            "name": "精细模组",
+            "description": "荷兰商社的贵重物件，可卖得相当数量的银币。"
         },
         "capitalDmcRelic": {
-            "name": "Capital DMC Relic",
-            "description": "An invaluable article from the DMC. They could be sold for a huge amount of silver."
+            "name": "首府模组",
+            "description": "荷兰商社的珍贵物件，可卖得巨大数量的银币。"
         },
         "rum": {
-            "name": "Rum",
-            "description": "Distilled from sugarcane molasses. Truly the pirate's drink of choice. Imported by Scurlock to be traded in the region."
+            "name": "朗姆酒",
+            "description": "由甘蔗糖蜜蒸馏而制成，是海盗真正的首选饮料。由斯科洛克进口，并在该地区交易。"
         },
         "cannonPowder": {
-            "name": "Cannon Powder",
-            "description": "The sheer explosive power of this chemical concoction means your enemies won't just be leaving with a bruised ego. Imported by Scurlock to be traded in the region."
+            "name": "火炮火药",
+            "description": "这种化学混合物具有强大的爆炸性威力，所以受伤的可不仅仅会是你敌人的自尊心哦。由斯科洛克进口，并在该地区交易。"
         },
         "firearms": {
-            "name": "Firearms",
-            "description": "A cache of illegally procured weapons to bolster any pirate's arsenal. Imported by Scurlock to be traded in the region."
+            "name": "火器",
+            "description": "一箱非法得来的武器，可以增强任何海盗的火力。由斯科洛克进口，并在该地区交易。"
         },
         "ginseng": {
-            "name": "Ginseng",
-            "description": "One of the most famous herbs in the world. Often used by Rahma for its medicinal benefits. Imported by Rahma to be traded in the region."
+            "name": "人参",
+            "description": "全世界最知名的草药之一，由于其药用价值，常常被拉赫玛使用。由拉赫玛进口，并在该地区交易。"
         },
         "jade": {
-            "name": "Jade",
-            "description": "Prized mineral from the East, Jade is worn as jewelry and ornaments in certain cultures. Imported by Rahma to be traded in the region."
+            "name": "玉石",
+            "description": "玉石是来自东方的宝贵矿石，在某些文化中，其被当作珠宝与装饰穿戴在身。由拉赫玛进口，并在该地区交易。"
         },
         "porcelain": {
-            "name": "Porcelain",
-            "description": "Priceless ceramic artifacts originating from the Far East. Imported by Rahma to be traded in the region."
+            "name": "瓷器",
+            "description": "来自远东地区的珍贵瓷器。由拉赫玛进口，并在该地区交易。"
         },
         "poppy": {
-            "name": "Poppy",
-            "description": "Refined into Blue Lotus Opium at the laboratory in Telok Penjarah."
+            "name": "红花",
+            "description": "用于在落草湾的实验室中精炼成青花天堂烟。"
         },
         "sugarCane": {
-            "name": "Sugar Cane",
-            "description": "Refines into White Skull Rum in Sainte-Anne's Helm office."
+            "name": "甘蔗",
+            "description": "用于在圣安妮的酒厂中精炼为白骷髅朗姆酒。"
         },
         "juniperBerries": {
-            "name": "Juniper Berries",
-            "description": "Refined into White Skull Gin in Sainte-Anne's Helm office."
+            "name": "杜松莓果",
+            "description": "用于在圣安妮的海舵社分舵中精制为白骷髅金酒。"
         },
         "tobaccoLeaves": {
-            "name": "Tobacco Leaves",
-            "description": "Refined into Black Snuff in Telok Penjarah's Helm office."
+            "name": "烟草叶",
+            "description": "用于在落草湾的海舵社分舵中精炼成黑色鼻烟。"
         },
         "rawImperialJade": {
-            "name": "Raw Imperial Jade",
-            "description": "A raw form of Imperial Jade, a valuable piece of contraband from the East. Refines into Imperial Jade at the Telok Penjarah Office."
+            "name": "帝王绿原石",
+            "description": "帝王绿原石，来自东方的珍贵违禁品。可在落草湾分舵精炼成帝王绿。"
         },
         "blackSnuff": {
-            "name": "Black Snuff",
-            "description": "High-quality black snuff refined from Tobacco Leaves by Helm members."
+            "name": "黑色鼻烟",
+            "description": "海舵社成员用烟草叶精制而成的高品质黑色鼻烟。"
         },
         "blueLotusOpium": {
-            "name": "Blue Lotus Opium",
-            "description": "High-quality opium refined from Poppy by the Helm members."
+            "name": "青花天堂烟",
+            "description": "可用于从落草湾的拉赫玛_上将处购买贵重物品。\n用红花精炼而成的高品质天堂烟，由海舵社成员制造。"
         },
         "whiteSkullRum": {
-            "name": "White Skull Rum",
-            "description": "High-quality white rum refined from Sugar Cane by the Helm members."
+            "name": "白骷髅朗姆酒",
+            "description": "可用于从圣安妮的约翰●斯科洛克处购买贵重物品。\n海舵社成员用甘蔗精炼而成的高品质白朗姆酒。"
         },
         "whiteSkullGin": {
-            "name": "White Skull Gin",
-            "description": "High-quality white gin refined from Juniper Berries by the Helm members."
+            "name": "白骷髅金酒",
+            "description": "海舵社成员用杜松莓果精制而成的高品质金酒\n海舵社成员用甘蔗精炼而成的高品质白朗姆酒。"
         },
         "imperialJade": {
-            "name": "Imperial Jade",
-            "description": "Imperial Jade is a precious, highly valuable form of jade from the Far East, also known as the Middle Kingdom."
+            "name": "帝王绿",
+            "description": "帝王绿是一种珍贵且价值极高的翡翠，产自远东的中国。"
         },
         "silverSnuff": {
-            "name": "Silver Snuff",
-            "description": "The highest-quality white snuff obtainable from Black Snuff by Helm members."
+            "name": "白银鼻烟",
+            "description": "海舵社成员用黑色鼻烟制作的最高品质的白色鼻烟。"
         },
         "blackLotusOpium": {
-            "name": "Black Lotus Opium",
-            "description": "The highest-quality opium obtainable from Blue Lotus Opium by Helm members."
+            "name": "黑花天堂烟",
+            "description": "可用于从落草湾的拉赫玛.上将处购买贵重物品。\n海舵社成员用青花天堂烟制作的最高品质天堂烟。"
         },
         "goldSkullRum": {
-            "name": "Gold Skull Rum",
-            "description": "The highest-quality gold rum obtainable from White Skull Rum by Helm members."
+            "name": "金骷髅朗姆酒",
+            "description": "可用于从圣安妮的约翰●斯科洛克处购买贵重物品。\n海舵社成员用白骷髅朗姆酒制作的最高品质的黄金朗姆酒。"
         },
         "goldSkullGin": {
-            "name": "Gold Skull Gin",
-            "description": "The highest-quality gold gin obtainable from White Skull Gin by Helm members."
+            "name": "金骷髅金酒",
+            "description": "海舵社成员用白骷髅金酒制作的最高品质的黄金金酒。"
         },
         "carvedImperialJade": {
-            "name": "Carved Imperial Jade",
-            "description": "An artful carving of Imperial Jade from the East, coveted by collectors. Obtainable from Imperial Jade and members of the Helm."
+            "name": "雕琢的帝王绿",
+            "description": "来自东方的精巧帝王绿雕刻品，收藏家梦寐以求的珍品。可由帝王绿处以及从海舵社成员处获得。"
         },
         "copperBars": {
-            "name": "Kupfer Bars",
-            "description": "A significant, high-grade metal from Europe, from refining copper to its highest purity. Makes it viable for applications for war."
+            "name": "铜条",
+            "description": "来自欧洲的优质金属，由铜精炼而成，纯度极高，颇为重要，适用于战争武装。"
         },
         "gildmarks": {
-            "name": "Gildmarks",
-            "description": "Thin pieces of an unknown material stamped with the symbol of balance and death. To the unknowing, they are curious oddities; to those in the know, they are not easily earned."
+            "name": "基尔德马克",
+            "description": "由未知材料制成的薄片，印有平衡与死亡的符号。对于不知情者，它们是新奇玩意；对于知情者，它们来之不易。"
         },
         "helmLeaseOpen": {
-            "name": "Helm Lease (Open)",
-            "description": "An unrestricted certificate of ownership stamped by Helm contacts for any Manufactory of your choosing."
+            "name": "海舵社租约(公海)",
+            "description": "一份无限制所有权证书，由你选择的任何工厂的海舵社联系人盖章。"
         },
         "crystalizedTaintedWood": {
-            "name": "Crystalized Tainted Wood",
-            "description": "Rumored to be from Sathanur, the wood has been hardened by petrification and the undying passage of time."
+            "name": "晶化污木",
+            "description": "据说这块木材来自萨坦努尔，时光流转,它在石化作用下变得坚硬无比。"
         },
         "sigilFlare": {
-            "name": "Sigil Flare",
-            "description": "An ornate flare that shines brightly when ignited. This is the calling card of the Honorless for their hallucinogen supply drops."
+            "name": "信号弹",
+            "description": "一种装饰华丽的信号弹，点燃时会发出明亮的光芒。这是无誉者呼叫致幻剂补给的信号。"
         },
         "roseWater": {
-            "name": "Rose Water",
-            "description": "The flavor of love, empathy, attraction, and femininity."
+            "name": "玫瑰水",
+            "description": "爱情、共情、吸引力和女性气质的风味。"
         },
         "soothingBalm": {
-            "name": "Soothing Balm",
-            "description": "A fragrant oilment guaranteed to relief sores and aches."
+            "name": "舒缓软膏",
+            "description": "一种芳香的油膏，保证能缓解疼痛和酸痛。"
         },
         "shipInABottle": {
-            "name": "Ship in a Bottle",
-            "description": "An intricate miniature of a ship in a bottle."
+            "name": "瓶中船",
+            "description": "一个瓶中的精细船只微缩模型。"
         },
         "luxuryDice": {
-            "name": "Luxury Dice",
-            "description": "An exotic set marked for a passion of randomness."
+            "name": "奢华骰子",
+            "description": "一套异国情调的骰子，标记着对随机性的热情。"
         },
         "phoenixPouch": {
-            "name": "Phoenix Pouch",
-            "description": "An embroidered pouch of intricate design, filled with an unknown substance. Belonged to the leader of the Phoenix's Talon."
+            "name": "凤凰荷包",
+            "description": "一个绣着精致图案的荷包，不知里面装着什么。翔凤首领之物。"
         },
         "pulsingSchaduwRemnant": {
-            "name": "Pulsing Schaduw Remnant",
-            "description": "Debris of the Schaduw, powered by Vikram's influence."
+            "name": "鲜艳的暗影号残骸",
+            "description": "受维克莱姆力量所操控的暗影号残骸。\n用于挑战暗影领主维克莱姆●拉詹。"
         },
         "grainFlare": {
-            "name": "Grain Flare",
-            "description": "Sorghum packed with explosive materials, tightly woven into a singular piece. Setting this off brings about the wrath of the Moonshiners."
+            "name": "谷物信号弹",
+            "description": "高粱与爆炸物紧密包裹成一体。引爆它会招致私酿者的愤怒。"
         },
         "jasmineIncenseFlare": {
-            "name": "Jasmine Incense Flare",
-            "description": "When lit, it gives off a sickly yet pleasant aroma."
+            "name": "茉莉香信号弹",
+            "description": "点燃后，这种信号弹会散发出一种怪异却又宜人的香气。\n在世界事件浮标处使用此物品召唤悲泣之母。"
         },
         "azureFlare": {
             "name": "Azure Flare",
             "description": "This flare has a terrifying shimmer to it. Perhaps it has some connection to a greater curse..."
+        },
+        "hallowedFlare": {
+            "name": "Hallowed Flare",
+            "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
         }
     }
 }

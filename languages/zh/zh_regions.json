@@ -1,16 +1,16 @@
 {
     "regions": {
         "redIsle": {
-            "name": "Red Isle"
+            "name": "红岛"
         },
         "openSeas": {
-            "name": "Open Seas"
+            "name": "公海"
         },
         "coastOfAfrica": {
-            "name": "Coast of Africa"
+            "name": "非洲海岸"
         },
         "eastIndies": {
-            "name": "East Indies"
+            "name": "东印度群岛"
         }
     }
 }

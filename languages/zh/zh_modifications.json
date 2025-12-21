@@ -1,447 +1,447 @@
 {
     "modifications": {
         "direPiercing": {
-            "name": "Dire Piercing",
-            "description": "Hits ignore %s-%s% of the target's Piercing resistance"
+            "name": "危急穿透",
+            "description": "击中时无视目标%s-%s%的穿透型抗性"
         },
         "direElectric": {
-            "name": "Dire Electric",
-            "description": "Hits ignore %s-%s% of the target's Electric resistance"
+            "name": "危急电击",
+            "description": "击中时无视目标%s-%s%的电击抗性"
         },
         "direExplosive": {
-            "name": "Dire Explosive",
-            "description": "Hits ignore %s-%s% of the target's Explosive resistance"
+            "name": "危急爆炸",
+            "description": "击中时无视目标%s-%s%的爆炸型抗性"
         },
         "direFlooding": {
-            "name": "Dire Flooding",
-            "description": "Hits ignore %s-%s% of the target's Flooding resistance"
+            "name": "危急进水",
+            "description": "击中时无视目标%s-%s%的进水型抗性"
         },
         "incendiary": {
-            "name": "Incendiary",
-            "description": "Adds %s-%s% damage as Burning Damage"
+            "name": "烈焰",
+            "description": "施加%s-%s%的燃烧伤害"
         },
         "direBurning": {
-            "name": "Dire Burning",
-            "description": "Hits ignore %s-%s% of the target's Burning resistance"
+            "name": "危急火焰",
+            "description": "击中时无视目标%s-%s%的火焰型抗性"
         },
         "firepower": {
-            "name": "Firepower",
-            "description": "Increases damage by %s-%s%"
+            "name": "火力",
+            "description": "伤害提升%s-%s%"
         },
         "shock": {
-            "name": "Shock",
-            "description": "Adds %s-%s% damage as Electric Damage"
+            "name": "震慑",
+            "description": "施加%s-%s%的电击伤害"
         },
         "rapidReload": {
-            "name": "Rapid Reload",
-            "description": "Reduces Reload Time by %s-%s%"
+            "name": "快速装填",
+            "description": "装填时间减少%s-%s%"
         },
         "combust": {
-            "name": "Combust",
-            "description": "Every hit deals an extra burst of %s-%s Explosive Damage"
+            "name": "爆炸",
+            "description": "每次命中目标会额外造成%s-%s爆炸伤害爆发伤害"
         },
         "flood": {
-            "name": "Flood",
-            "description": "Every hit deals an extra burst of %s-%s Flooding Damage"
+            "name": "进水",
+            "description": "每次命中目标会额外造成%s-%s进水伤害爆发伤害"
         },
         "sparks": {
-            "name": "Sparks",
-            "description": "Every hit deals an extra burst of %s-%s Electric Damage"
+            "name": "电击",
+            "description": "每次命中目标会额外造成%s-%s点电击伤害爆发伤害"
         },
         "damage": {
-            "name": "Damage",
-            "description": "Adds %s-%s damage per shot"
+            "name": "额外伤害",
+            "description": "单发射击添加%s-%s伤害"
         },
         "burn": {
-            "name": "Burn",
-            "description": "Every hit deals an extra burst of %s-%s Burning Damage"
+            "name": "烈焰",
+            "description": "每次命中目标会额外造成%s-%s点燃烧伤害爆发伤害。"
         },
         "swift": {
-            "name": "Swift",
-            "description": "Increases Projectile Speed by %s-%s%"
+            "name": "迅捷",
+            "description": "炮弹速度提升%s-%s%"
         },
         "reach": {
-            "name": "Reach",
-            "description": "Increases Range by %s-%s%"
+            "name": "远射",
+            "description": "射程提升%s-%s%"
         },
         "sharpened": {
-            "name": "Sharpened",
-            "description": "Adds %s-%s% damage as Piercing Damage"
+            "name": "磨锋",
+            "description": "施加%s-%s%的穿透伤害"
         },
         "combustion": {
-            "name": "Combustion",
-            "description": "Adds %s-%s% damage as Explosive Damage"
+            "name": "燃烧",
+            "description": "施加%s-%s%的爆炸伤害"
         },
         "pierce": {
-            "name": "Pierce",
-            "description": "Every hit deals an extra burst of %s-%s Piercing Damage"
+            "name": "穿透",
+            "description": "每次命中目标会额外造成%s-%s穿透伤害爆发伤害"
         },
         "rupturing": {
-            "name": "Rupturing",
-            "description": "Adds %s-%s% damage as Flooding Damage"
+            "name": "破裂",
+            "description": "施加%s-%s%的进水伤害"
         },
         "haste": {
-            "name": "Haste",
-            "description": "Reduces Time-to-Target by %s-%s%"
+            "name": "疾速",
+            "description": "弹着时间减少%s-%s%"
         },
         "fix": {
-            "name": "Fix",
-            "description": "Increases Repair Amount by %s-%s per shot"
+            "name": "修理",
+            "description": "单发射击的维修量提升%s-%s"
         },
         "antiBlast": {
-            "name": "Anti-Blast",
-            "description": "Hits also reduce the target's build up of the Shell-shocked status effect by %s-%s%"
+            "name": "抗爆",
+            "description": "命中目标后，可使目标的惊魂未定状态效果累积减少%s-%s%"
         },
         "insulator": {
-            "name": "Insulator",
-            "description": "Hits also reduce the target's build up of the Stormstruck status effect by %s-%s%"
+            "name": "绝缘",
+            "description": "命中目标后，可使目标的被电击状态效果累积减少%s-%s%"
         },
         "service": {
-            "name": "Service",
-            "description": "Increases Repair Amount by %s-%s%"
+            "name": "维护",
+            "description": "维修量提升%s-%s%"
         },
         "douser": {
-            "name": "Douser",
-            "description": "Hits also reduce the target's build up of the Ablaze status effect by %s-%s%"
+            "name": "灭火",
+            "description": "命中目标后，可使目标的燃烧状态效果累积减少%s-%s%"
         },
         "sealant": {
-            "name": "Sealant",
-            "description": "Hits also reduce the target's build up of the Flooded status effect by %s-%s%"
+            "name": "封闭",
+            "description": "命中目标后，可使目标的进水状态效果累积减少%s-%s%"
         },
         "reinforcer": {
-            "name": "Reinforcer",
-            "description": "Hits also reduce the target's build up of the Punctured status effect by %s-%s%"
+            "name": "强化",
+            "description": "命中目标后，可使目标的击穿状态效果累积减少%s-%s%"
         },
         "brute": {
-            "name": "Brute",
-            "description": "Hits have a 16% chance to restore %s-%s Brace Strength to this ship"
+            "name": "天生蛮力",
+            "description": "命中目标后，有16%几率恢复该船只%s-%s的防御强度"
         },
         "severity": {
-            "name": "Severity",
-            "description": "Hits have a 12% chance of dealing additional %s-%s% damage as Severe Damage"
+            "name": "严重损毁",
+            "description": "命中目标后，有12%的几率造成额外%s-%s%严重伤害伤害"
         },
         "victorsRally": {
-            "name": "Victor's Rally",
-            "description": "Destroying a target restores %s-%s brace Strength to this ship"
+            "name": "胜利号召",
+            "description": "摧毁目标可恢复该船只%s-%s的防御强度"
         },
         "graceOfTheWinds": {
-            "name": "Grace of the Winds",
-            "description": "Hits have a %s-%s% chance to increase turn speed by 10% for 15 seconds. Effect can be stacked up to 3 times"
+            "name": "风之赐福",
+            "description": "命中目标时也有%s-%s%几率提升10%转向速度，持续15秒。效果可以叠加至多3次"
         },
         "lethal": {
-            "name": "Lethal",
-            "description": "Increases Weakpoint Damage by %s-%s%"
+            "name": "致命",
+            "description": "弱点伤害提升%s-%s%"
         },
         "energize": {
-            "name": "Energize",
-            "description": "Hits have a 16% chance to restore %s-%s% Crew Stamina to this ship"
+            "name": "能量迸发",
+            "description": "命中目标后，有16%几率恢复该船只%s-%s%的船员体力"
         },
         "bloodthirst": {
-            "name": "Bloodthirst",
-            "description": "Destroying a target restores %s-%s% Crew Stamina to this ship"
+            "name": "嗜血本能",
+            "description": "摧毁目标可恢复该船只%s-%s%的船员体力"
         },
         "raider": {
-            "name": "Raider",
-            "description": "Increases build-up of the Vulnerable status effect by %s-%s%"
+            "name": "掠夺者",
+            "description": "弱点状态效果的累积提升%s-%s%"
         },
         "deathblow": {
-            "name": "Deathblow",
+            "name": "致死一击",
             "description": [
-                "For targets with 25% Hull Health or less, hits have a %s-%s% chance to instantly destroy them",
-                "For Elite targets, the effect reduces remaining Hull Health by 3% instead of instant destruction"
+                "如目标的船身生命值少于等于25%，则击中时有%s-%s%几率将其直接摧毁。",
+                "该效果无法摧毁精英单位，但会使其剩余的船身生命值减少3%"
             ]
         },
         "repairReadiness": {
-            "name": "Repair Readiness",
-            "description": "Hits have a %s-%s% chance to reduce any repair kit cooldown by 3 seconds"
+            "name": "维修待命",
+            "description": "命中目标后，有%s-%s%几率减少修理用品的的冷却时间3秒"
         },
         "precisePatchwork": {
-            "name": "Precise Patchwork",
-            "description": "Destroying a weakpoint restores %s-%s Severe Damage to this ship"
+            "name": "精准补丁",
+            "description": "摧毁一个弱点可恢复该船只%s-%s的严重伤害"
         },
         "amplifiedBurning": {
-            "name": "Amplified Burning",
-            "description": "Increases existing Burning Damage by %s-%s%"
+            "name": "扩大燃烧",
+            "description": "将现有燃烧伤害提升%s-%s%"
         },
         "siege": {
-            "name": "Siege",
-            "description": "Increases damage to structures by %s-%s%"
+            "name": "破城",
+            "description": "对建筑造成的伤害提高%s-%s%"
         },
         "restoreReadiness": {
-            "name": "Restore Readiness",
-            "description": "Hits have a %s-%s% chance to reduce Restoration Kit cooldown by 3 seconds"
+            "name": "复原待命",
+            "description": "命中目标后，有%s-%s%几率减少恢复用品 的冷却时间3秒"
         },
         "amplifiedPiercing": {
-            "name": "Amplified Piercing",
-            "description": "Increases existing Piercing Damage by %s-%s%"
+            "name": "扩大穿透",
+            "description": "将现有穿透伤害提升%s-%s%"
         },
         "amplifiedElectric": {
-            "name": "Amplified Electric",
-            "description": "Increases existing Electric Damage by %s-%s%"
+            "name": "扩大电击",
+            "description": "将现有电击伤害提升%s-%s%"
         },
         "amplifiedExplosive": {
-            "name": "Amplified Explosive",
-            "description": "Increases existing Explosive Damage by %s-%s%"
+            "name": "扩大爆炸",
+            "description": "将现有爆炸伤害提升%s-%s%"
         },
         "amplifiedFlooding": {
-            "name": "Amplified Flooding",
-            "description": "Increases existing Flooding Damage by %s-%s%"
+            "name": "扩大进水",
+            "description": "将现有进水伤害提升%s-%s%"
         },
         "tearing": {
-            "name": "Tearing",
-            "description": "Increases damage by %s-%s% when hitting sails"
+            "name": "撕裂",
+            "description": "击中船帆时，伤害提升%s-%s%"
         },
         "roar": {
-            "name": "Roar",
-            "description": "%s-%s% of base damage builds up the Taunted status effect on targets"
+            "name": "咆哮",
+            "description": "基础伤害的%s-%s%会在目标上累积被嘲讽状态效果"
         },
         "soulMending": {
-            "name": "Soul Mending",
-            "description": "%s-%s% of damage dealt by this weapon restores Hull Health"
+            "name": "灵魂修补",
+            "description": "该武器造成伤害的%s-%s%将恢复船身生命值"
         },
         "blastRange": {
-            "name": "Blast Range",
-            "description": "Increases Blast Radius by %s-%s%"
+            "name": "爆炸范围",
+            "description": "爆破范围增加%s-%s%"
         },
         "durableBuoys": {
-            "name": "Durable Buoys",
-            "description": "Increases Operation Time of buoys by %s-%s%"
+            "name": "耐用浮标",
+            "description": "浮标的有效时间提升%s-%s%"
         },
         "hardyBuoys": {
-            "name": "Hardy Buoys",
-            "description": "Increases Buoy Health by %s-%s%"
+            "name": "坚固浮标",
+            "description": "浮标生命值提升%s-%s%"
         },
         "restorative": {
-            "name": "Restorative",
-            "description": "%s-%s% of Repair Amount also restores Severe Damage"
+            "name": "恢复",
+            "description": "维修量的%s-%s%也会恢复严重伤害"
         },
         "invigorate": {
-            "name": "Invigorate",
-            "description": "%s-%s% of Repair Amount also restores Crew Stamina"
+            "name": "焕活",
+            "description": "维修量的%s-%s%也会恢复船员体力"
         },
         "tranquility": {
-            "name": "Tranquility",
-            "description": "Hits also reduce the target's build up of the Taunted status effect by %s-%s%"
+            "name": "宁静",
+            "description": "命中目标后，可使目标的被嘲讽状态效果累积减少%s-%s%"
         },
         "sailorsRespite": {
-            "name": "Sailor's Respite",
-            "description": "Hits have a 7% chance to repair target for %s-%s% the amount"
+            "name": "水手的安宁",
+            "description": "命中目标后，有7%几率对其施加%s-%s%的维修"
         },
         "strengthen": {
-            "name": "Strengthen",
-            "description": "%s-%s% of Repair Amount also restores target's Brace Strength"
+            "name": "增强",
+            "description": "维修量的%s-%s%也会恢复目标的防御强度"
         },
         "sailMender": {
-            "name": "Sail Mender",
-            "description": "Hits also reduce the target's build up of the Torn Sails status effect by %s-%s%"
+            "name": "船帆修复",
+            "description": "命中目标后，可使目标的船帆撕裂状态效果累积减少%s-%s%"
         },
         "secondStorm": {
-            "name": "Second Storm",
+            "name": "风暴再临",
             "description": [
-                "All Electric Damage dealt by this weapon is also dealt to a nearby target",
-                "Adds %s-%s% damage as Electric Damage"
+                "该武器造成的所有电击伤害也适用于附近目标。",
+                "施加%s-%s%的电击伤害"
             ]
         },
         "overflow": {
-            "name": "Overflow",
+            "name": "溢出",
             "description": [
-                "All Flooding Damage dealt by this weapon is applied as Severe Damage",
-                "Adds %s-%s% damage as Flooding Damage"
+                "该武器造成的所有进水伤害都转化为严重伤害。",
+                "施加%s-%s%的进水伤害"
             ]
         },
         "sailRipper": {
-            "name": "Sail Ripper",
-            "description": "The hit that triggers the Torn Sails status effect deals %s-%s% damage"
+            "name": "船帆撕裂者",
+            "description": "命中触发船帆撕裂状态效果时，造成%s-%s%伤害"
         },
         "winningStreak": {
-            "name": "Winning Streak",
+            "name": "连战连捷",
             "description": [
-                "Every successful hit increases the damage of the next shot from this weapon by 3%, up to a maximum of %s-%s%",
-                "Missing a shot resets the effect"
+                "每次成功命中都会使该武器下一次射击的伤害提升3%，最高可达%s-%s%。",
+                "未命中时，该效果将重置"
             ]
         },
         "deadlyStrike": {
-            "name": "Deadly Strike",
+            "name": "致命袭击",
             "description": [
-                "Shots have a 10% chance of dealing increased damage from any damage to weakpoint bonuses, even if the shot does not hit a weakpoint",
-                "Increases damage to weakpoints by %s-%s%"
+                "炮弹有10%几率通过任意弱点伤害加成来造成额外伤害，即使射击未命中弱点。",
+                "对弱点的伤害提升%s-%s%"
             ]
         },
         "highPressure": {
-            "name": "High Pressure",
-            "description": "Sea Fire weapons have 50m longer range and deal %s-%s% more damage"
+            "name": "高压",
+            "description": "海洋之火武器的射程增加50米，造成的伤害提升%s-%s%"
         },
         "longArm": {
-            "name": "Long Arm",
-            "description": "Hits that land at 70% of Maximum Range or further also deal %s-%s% more damage"
+            "name": "长程武装",
+            "description": "命中最大射程的70%或更远距离也会使伤害提升%s-%s%"
         },
         "providence": {
-            "name": "Providence",
-            "description": "%s-%s% of amount repaired by this weapon also repairs your ship"
+            "name": "护佑",
+            "description": "该武器维修量的%s-%s%会也会修复你的船只"
         },
         "jointSupply": {
-            "name": "Joint Supply",
-            "description": "Hits also repair the nearest allied ship for %s-%s% of the original Repair Amount"
+            "name": "联合补给",
+            "description": "命中目标后，还能维修最近的友军船只，维修量为原本维修量的%s-%s%"
         },
         "winningStreakRepair": {
-            "name": "Winning Streak (Repair)",
+            "name": "连战连携(维修)",
             "description": [
-                "Every successful hit increases the Repair Amount of the next shot from this weapon by 3%, up to a maximum of %s-%s%",
-                "Missing a shot resets the effect"
+                "每次命中都会使下一次射击的维修量提升3%，最高可达%s-%s%。",
+                "未命中时，该效果将重置"
             ]
         },
         "preemptiveDefence": {
-            "name": "Preemptive Defence",
+            "name": "未雨绸缪",
             "description": [
-                "Hits also grant 50 extra armor on the target for 10s. Effect can be stacked up to 5 times",
-                "Also increases Repair Amount by %s-%s%"
+                "命中目标后，目标也会获得50额外装甲，持续10秒。效果最多可叠加5层。",
+                "维修量也会提升%s-%s%"
             ]
         },
         "empower": {
-            "name": "Empower",
+            "name": "赋能",
             "description": [
-                "Hits also grant 3% extra Weapon Damage on the target for 10s. Effect can be stacked up to 5 times",
-                "Also reduces Reload Time by %s-%s%"
+                "命中目标后，目标也会获得3%额外武器伤害，持续10秒。效果最多可叠加5层。",
+                "装填时间也会减少%s-%s%"
             ]
         },
         "longArmRepair": {
-            "name": "Long Arm (Repair)",
-            "description": "Hits that land at 70% of Maximum Range or further also restores %s-%s% more Repair Amount"
+            "name": "长程武装(维修)",
+            "description": "命中最大射程的70%或更远距离也会使维修量提升%s-%s%"
         },
         "acrid": {
-            "name": "Acrid",
-            "description": "Every hit deals an extra burst of %s-%s Toxic Damage"
+            "name": "刺激毒素",
+            "description": "每次命中额外造成%s-%s点剧毒伤害"
         },
         "noxious": {
-            "name": "Noxious",
-            "description": "Adds %s-%s% damage as Toxic Damage"
+            "name": "毒害",
+            "description": "施加%s-%s%的剧毒伤害"
         },
         "direToxic": {
-            "name": "Dire Toxic",
-            "description": "Hits ignore %s-%s% of the target's Toxic resistance"
+            "name": "猛烈毒素",
+            "description": "击中时无视目标%s-%s%的剧毒型抗性"
         },
         "amplifiedToxic": {
-            "name": "Amplified Toxic",
-            "description": "Increases existing Toxic Damage by %s-%s%"
+            "name": "强化毒素",
+            "description": "将现有剧毒伤害提升%s-%s%"
         },
         "antidote": {
             "name": "Antidote",
             "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
         },
         "armored": {
-            "name": "Armored",
-            "description": "Increases Armor by %s-%s"
+            "name": "配备装甲",
+            "description": "装甲提升%s-%s"
         },
         "rugged": {
-            "name": "Rugged",
-            "description": "Reduces incoming damage by %s-%s while Bracing"
+            "name": "坚固",
+            "description": "防御时遭受伤害降低%s-%s"
         },
         "fireResistant": {
-            "name": "Fire Resistant",
-            "description": "Increases Fire Resistance by %s-%s%"
+            "name": "火焰抗性",
+            "description": "火焰伤害抗性提升%s-%s%"
         },
         "floodingResistant": {
-            "name": "Flooding Resistant",
-            "description": "Increases Flooding Resistance by %s-%s%"
+            "name": "进水抗性",
+            "description": "进水伤害抗性提升%s-%s%"
         },
         "piercingResistant": {
-            "name": "Piercing Resistant",
-            "description": "Increases Piercing Resistance by %s-%s%"
+            "name": "穿透抗性",
+            "description": "穿透伤害抗性提升%s-%s%"
         },
         "explosiveResistant": {
-            "name": "Explosive Resistant",
-            "description": "Increases Explosive Resistance by %s-%s%"
+            "name": "爆炸抗性",
+            "description": "爆炸伤害抗性提升%s-%s%"
         },
         "electricResistant": {
-            "name": "Electric Resistant",
-            "description": "Increases Electric Resistance by %s-%s%"
+            "name": "电击抗性",
+            "description": "电击伤害抗性提升%s-%s%"
         },
         "toxicResistant": {
-            "name": "Toxic Resistant",
-            "description": "Increases Toxic Resistance by %s-%s%"
+            "name": "毒素抗性",
+            "description": "剧毒伤害抗性提升%s-%s%"
         },
         "tearingResistant": {
-            "name": "Tearing Resistant",
-            "description": "Increases Tearing Resistance by %s-%s%"
+            "name": "穿透抗性",
+            "description": "穿透伤害抗性提升%s-%s%"
         },
         "resistAll": {
             "name": "Resist All",
             "description": "Increases All Secondary Damage Resistances by %s-%s%"
         },
         "stout": {
-            "name": "Stout",
-            "description": "Increases Hull Health by %s-%s"
+            "name": "结实",
+            "description": "船身生命值提升%s-%s"
         },
         "strength": {
-            "name": "Strength",
-            "description": "Increases Brace Strength by %s-%s"
+            "name": "强劲",
+            "description": "防御强度提升%s-%s"
         },
         "vigor": {
-            "name": "Vigor",
-            "description": "Increases Crew Stamina by %s-%s"
+            "name": "活力",
+            "description": "最大船员体力提升%s-%s"
         },
         "ironclad": {
-            "name": "Ironclad",
-            "description": "Increases Armor by %s-%s%"
+            "name": "钢铁甲壳",
+            "description": "装甲提升%s-%s%"
         },
         "stalwart": {
-            "name": "Stalwart",
-            "description": "Increases Hull Health by %s-%s%"
+            "name": "伟岸",
+            "description": "船身生命值提升%s-%s%"
         },
         "fortitude": {
-            "name": "Fortitude",
-            "description": "Increases Brace Strength by %s-%s%"
+            "name": "毅力",
+            "description": "防御强度提升%s-%s%"
         },
         "maintenance": {
-            "name": "Maintenance",
-            "description": "Repairs %s-%s Hull Health per second"
+            "name": "维护",
+            "description": "每秒恢复%s-%s船身生命值"
         },
         "determination": {
-            "name": "Determination",
-            "description": "Increases Brace Strength Recovery by %s-%s% per second"
+            "name": "决心",
+            "description": "防御强度恢复速度提升%s-%s%"
         },
         "barbarian": {
-            "name": "Barbarian",
-            "description": "When Hull Health is below 25%, increases Weapon damage by %s-%s%"
+            "name": "野蛮人",
+            "description": "当船体生命值低于25%时，武器伤害提升 %s-%s%"
         },
         "survivor": {
-            "name": "Survivor",
-            "description": "When Hull Health drops below 25%, repairs %s-%s% Hull Health over 10 seconds. This effect has a 30 second cooldown"
+            "name": "幸存者",
+            "description": "船身生命值下降到25%以下时，在10秒内恢复%s-%s%船身生命值。该效果有30秒的冷却时间"
         },
         "craftsman": {
-            "name": "Craftsman",
-            "description": "Increases Repair Amount of Repair Kits by %s-%s%"
+            "name": "工匠",
+            "description": "修理用品的维修量提升%s-%s%"
         },
         "resilience": {
-            "name": "Resilience",
-            "description": "Using a Restoration Kit grants %s-%s% reduction to all Secondary Damage for 5 seconds"
+            "name": "坚韧",
+            "description": "使用恢复用品会使所有次要伤害降低%s-%s%，持续5秒"
         },
         "supreme": {
-            "name": "Supreme",
-            "description": "Increases the damage of special attacks launched from the Armor by %s-%s%"
+            "name": "最大值",
+            "description": "装甲发动的特殊攻击伤害提升%s-%s%"
         },
         "steelIntegration": {
-            "name": "Steel Integration",
+            "name": "坚韧一体",
             "description": [
-                "Every 1% of Piercing and Explosive resistance adds %s-%s Armor",
-                "Adds 5% Piercing and Explosive resistance"
+                "每拥有1%穿透型和爆炸型抗性，装甲提升%s-%s。穿透型和爆炸型抗性提升5%（本词条存在于官中翻译但不存在与英文数据中，可能不生效）。",
+                "添加 5% 穿透和爆炸抗性"
             ]
         },
         "coalesce": {
-            "name": "Coalesce",
-            "description": "%s-%s% chance that 50% of damage braced restores Hull Health. This effect only occurs after bracing ends"
+            "name": "愈合",
+            "description": "%s-%s%几率使防御伤害的50%恢复船身生命值。该效果仅在防御结束后发生。"
         },
         "watcher": {
-            "name": "Watcher",
-            "description": "Any damage taken while Bracing has a %s-%s% chance of being reduced by 1750"
+            "name": "守望者",
+            "description": "处于防御状态时，收到的伤害有%s-%s%几率降低1750。"
         },
         "respite": {
-            "name": "Respite",
-            "description": "When Bracing damage, there's a %s-%s% chance to repair 500 Hull Health and 100 Severe Damage per second for the net 5 seconds. This effect has a cooldown of 10 seconds"
+            "name": "间歇之机",
+            "description": "防御伤害时，由%s-%s%几率在接下来的5秒内，每秒恢复500船身生命值和100严重伤害，该效果冷却时间为10秒。"
         },
         "jester": {
-            "name": "Jester",
-            "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
+            "name": "弄臣",
+            "description": "受到被嘲讽影响后，装甲级别和防御强度回复提升%s-%s，持续15秒"
         }
     }
 }

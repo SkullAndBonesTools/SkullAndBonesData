@@ -243,6 +243,14 @@
         "lightningSeaFireMastery": {
             "name": "Lightning Sea Fire Mastery",
             "description": "Deal %s weak-point damage using Heavenly Thunder"
+        },
+        "invaderAzure": {
+            "name": "Invader",
+            "description": "Complete Azure event %s times"
+        },
+        "bullsEye": {
+            "name": "Bull's Eye",
+            "description": "Deal %s damage to weakpoints in Azure Event"
         }
     }
 }

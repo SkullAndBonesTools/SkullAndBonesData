@@ -1,67 +1,67 @@
 {
     "factions": {
         "compagnieRoyale": {
-            "name": "Compagnie Royale"
+            "name": "皇家公司"
         },
         "dutchMerchantCompany": {
-            "name": "Dutch Merchant Company"
+            "name": "荷兰商社"
         },
         "britishTradingAlliance": {
-            "name": "British Trading Alliance"
+            "name": "不列颠贸易同盟"
         },
         "confederationOfUngwana": {
-            "name": "Confederation of Ungwana"
+            "name": "乌瓜纳联邦"
         },
         "clanOfFara": {
-            "name": "Clan of Fara"
+            "name": "法拉氏族"
         },
         "chorusFleet": {
-            "name": "Chorus Fleet"
+            "name": "浩劫合唱舰队"
         },
         "pirates": {
-            "name": "Pirates"
+            "name": "海盗"
         },
         "phoenixsTalon": {
-            "name": "Phoenix's Talon"
+            "name": "凤凰之爪"
         },
         "dragonsClaw": {
-            "name": "Dragon's Claw"
+            "name": "龙爪"
         },
         "privateers": {
-            "name": "Privateers"
+            "name": "私掠者"
         },
         "shadowLegion": {
-            "name": "Shadow Legion"
+            "name": "暗影军团"
         },
         "dominionOfRempah": {
-            "name": "Dominion of Rempah"
+            "name": "任帕自治领"
         },
         "fleetOfPestilence": {
-            "name": "Fleet of Pestilence"
+            "name": "瘟疫舰队"
         },
         "azureFleet": {
-            "name": "Azure Fleet"
+            "name": "蔚蓝舰队"
         },
         "theUnhallowed": {
-            "name": "The Unhallowed"
+            "name": "亵渎者"
         },
         "seaPeople": {
-            "name": "Sea People"
+            "name": "海民"
         },
         "rogues": {
-            "name": "Rogues"
+            "name": "无赖帮"
         },
         "theHelm": {
-            "name": "The Helm"
+            "name": "海舵会"
         },
         "scavengers": {
-            "name": "Scavengers"
+            "name": "拾荒者"
         },
         "sultanateOfSohar": {
-            "name": "Sultanate of Sohar"
+            "name": "苏哈尔苏丹国"
         },
         "scurlocksRogues": {
-            "name": "Scurlock's Rogues"
+            "name": "斯克罗克的恶徒"
         },
         "weepingSpecters": {
             "name": "Weeping Specters"
