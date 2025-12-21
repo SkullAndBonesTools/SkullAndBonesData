@@ -587,6 +587,7 @@
     "invaderAzure": {
         "id": "invaderAzure",
         "category": "seasonal",
+        "tier": 2,
         "goal": 10,
         "dateAdded": "2025-12-09",
         "lastUpdated": "2025-12-09"
