@@ -19240,13 +19240,13 @@
     },
     "bindingRetribution": {
         "id": "bindingRetribution",
-        "type": "figureHead",
+        "type": "trophy",
         "season": "shadowsOfTheDeep",
         "set": "violetAftermath",
         "effect": ["emissive","combatReactive"],
         "obtainable": "premiumPass",
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2025-12-28"
     },
     "oppressive": {
         "id": "oppressive",
