@@ -1522,5 +1522,9 @@
     "marchingMenace": {
         "id": "marchingMenace",
         "type": "player"
+    },
+    "aCloseStep": {
+        "id": "aCloseStep",
+        "type": "player"
     }
 }

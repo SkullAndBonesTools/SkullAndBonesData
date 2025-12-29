@@ -27980,7 +27980,7 @@
     "darkenedDoublet": {
         "id": "darkenedDoublet",
         "type": "torso",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -27989,7 +27989,7 @@
     "fancyFlurry": {
         "id": "fancyFlurry",
         "type": "footwear",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -27998,7 +27998,7 @@
     "shadowBreeches": {
         "id": "shadowBreeches",
         "type": "bottom",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -28007,7 +28007,7 @@
     "scourgeCloak": {
         "id": "scourgeCloak",
         "type": "neck",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -28016,7 +28016,7 @@
     "thornyTricorn": {
         "id": "thornyTricorn",
         "type": "headwear",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -28025,7 +28025,7 @@
     "snatchersWraps": {
         "id": "snatchersWraps",
         "type": "forearm",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
@@ -28034,7 +28034,7 @@
     "pouchOfSmiles": {
         "id": "pouchOfSmiles",
         "type": "waist",
-        "set": "",
+        "set": "aCloseStep",
         "season": "gutsAndGlory",
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2025-10-21",
