@@ -326,9 +326,9 @@
         "legacyInBlood": "Bluterbe Set",
         "gloryGuardians": "Ruhmwächter Set",
         "doOrDie": "Hart auf hart Set",
-        "devilsMirth": "Devil's Mirth Set",
-        "talonStrike": "Talon Strike Set",
-        "swiftTrigger": "Swift Trigger Set",
+        "devilsMirth": "Teufelsfreude Set",
+        "talonStrike": "Krallenschlag Set",
+        "swiftTrigger": "Schneller Abzug Set",
         "cardsOfFate": "Karten des Schicksals Set",
         "darktideMother": "Dunkelflut-Mutter Set",
         "cagedFury": "Gefangene Wut Set",
@@ -345,7 +345,7 @@
         "harbingerOfDeath": "Harbinger of Death Set",
         "kingOfChains": "König der Ketten Set",
         "2024HellfestShip": "2024 Hellfest Ship Set",
-        "theAnchorborn": "The Anchorborn Set",
+        "theAnchorborn": "Der Ankergeborene Set",
         "gutsOfWar": "Böe des Krieges Set",
         "daggersOath": "Schwur des Dolches Set",
         "goldenGlory": "Golden Glory Set",
@@ -380,6 +380,7 @@
         "eyeOfMadness": "Eye of Madness Set",
         "burningWhispers": "Burning Whispers Set",
         "legsOfDoom": "Legs of Doom Set",
-        "marchingMenace": "Marching Menace Set"
+        "marchingMenace": "Marching Menace Set",
+        "aCloseStep": "A Close Step Set"
     }
 }
