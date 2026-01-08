@@ -26699,39 +26699,39 @@
     "scorpionOfTheSea": {
         "id": "scorpionOfTheSea",
         "type": "sailsEmblem",
-        "set": "gutsOfWar",
+        "set": "gustsOfWar",
         "season": "gutsAndGlory",
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-08"
     },
     "drownedHopes": {
         "id": "drownedHopes",
         "type": "hull",
-        "set": "gutsOfWar",
+        "set": "gustsOfWar",
         "season": "gutsAndGlory",
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-08"
     },
     "outsailDeath": {
         "id": "outsailDeath",
         "type": "sailsColor",
-        "set": "gutsOfWar",
+        "set": "gustsOfWar",
         "effect": "emissive",
         "season": "gutsAndGlory",
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-08"
     },
     "crackTheWhip": {
         "id": "crackTheWhip",
         "type": "sailsPattern",
-        "set": "gutsOfWar",
+        "set": "gustsOfWar",
         "season": "gutsAndGlory",
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-08"
     },
     "deadmansDrift": {
         "id": "deadmansDrift",
