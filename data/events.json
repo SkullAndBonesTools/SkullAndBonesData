@@ -29,7 +29,7 @@
     },
     "gloryAdorned": {
         "id": "gloryAdorned",
-        "seasons": ["ascentIntoChaos","oathsOfWar"]
+        "seasons": ["ascentIntoChaos","oathsOfWar","gutsAndGlory"]
     },
     "theHonorless": {
         "id": "theHonorless",
