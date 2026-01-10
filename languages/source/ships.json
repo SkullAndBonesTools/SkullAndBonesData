@@ -3,79 +3,79 @@
         "dhow": {
             "name": "Dhow",
             "description": {
-                "general": "A small vessel originally built to hunt wildlife along rivers and coastlines."
+                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
             }
         },
         "bedar": {
             "name": "Bedar",
             "description": {
-                "general": "A small maneuverable ship that can ram targets and cause flooding damage."
+                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
             }
         },
         "hulk": {
             "name": "Hulk",
             "description": {
-                "general": "More durable and capable of taking sustained damage, this ship specializes in bracing against incoming fire."
+                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
             }
         },
         "cutter": {
             "name": "Cutter",
             "description": {
-                "general": "A ship capable of supporting other ships in the thick of combat."
+                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
             }
         },
         "barge": {
             "name": "Barge",
             "description": {
-                "general": "A ship specialized in dealing fire and burning damage, before spreading the chaos to nearby ships."
+                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
             }
         },
         "sloop": {
             "name": "Sloop",
             "description": {
-                "general": "With the right weapons equipped, this ship is able to stand toe-to-toe with multiple enemies."
+                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
             }
         },
         "padewakang": {
             "name": "Padewakang",
             "description": {
-                "general": "A larger ship capable of taking on multiple enemies when properly equipped."
+                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
             }
         },
         "snow": {
             "name": "Snow",
             "description": {
-                "general": "A ship with increased durability and holding its ground in a fight. It specializes in bracing against incoming fire."
+                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
             }
         },
         "brigantine": {
             "name": "Brigantine",
             "description": {
-                "general": "A swift ship that is able to ram singular targets and cause flooding damage."
+                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
             }
         },
         "sambuk": {
             "name": "Sambuk",
             "description": {
-                "general": "A ship specialized in dishing out fire damage and burning its targets. It is also able to target multiple enemies in close proximity."
+                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
             }
         },
         "barque": {
             "name": "Barque",
             "description": {
-                "general": "A ship that excels at aiding other ships in danger by rendering effective repairs."
+                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
             }
         },
         "brig": {
             "name": "Brig",
             "description": {
-                "general": "A support ship that excels in deploying buoys that can shift the battle in their favor."
+                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
             }
         },
         "battleJunk": {
             "name": "Battle Junk",
             "description": {
-                "general": "A resilient juggernaut suited for distracting opponents, withstanding damage, and creating opportunities for allies to engage or escape."
+                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
             }
         },
         "garuda": {
