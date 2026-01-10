@@ -13404,11 +13404,12 @@
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "type": "chest",
+        "event": "gloryAdorned",
         "worldEvent": "gloryAdorned",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-05-11",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-01-10"
     },
     "risenZamaharibuChest": {
         "id": "risenZamaharibuChest",
@@ -14480,22 +14481,24 @@
         "rarity": "legendary",
         "season": "oathsOfWar",
         "type": "chest",
+        "event": "gloryAdorned",
         "worldEvent": "gloryAdorned",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-08-19",
-        "lastUpdated": "2025-08-19"
+        "lastUpdated": "2026-01-10"
     },
     "hellfestShipCosmeticsChest": {
         "id": "hellfestShipCosmeticsChest",
         "rarity": "legendary",
         "season": "ascentIntoChaos",
         "type": "chest",
+        "event": "gloryAdorned",
         "worldEvent": "gloryAdorned",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-08-19",
-        "lastUpdated": "2025-08-19"
+        "lastUpdated": "2026-01-10"
     },
     "freemansLetter": {
         "id": "freemansLetter",
@@ -14790,11 +14793,12 @@
         "rarity": "legendary",
         "season": "oathsOfWar",
         "type": "chest",
+        "event": "gloryAdorned",
         "worldEvent": "gloryAdorned",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-09-30",
-        "lastUpdated": "2025-09-30"
+        "lastUpdated": "2026-01-10"
     },
     "tondraDra": {
         "id": "tondraDra",
@@ -15439,11 +15443,12 @@
         "rarity": "legendary",
         "season": "gutsAndGlory",
         "type": "chest",
+        "event": "gloryAdorned",
         "worldEvent": "gloryAdorned",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-11-18",
-        "lastUpdated": "2025-11-18"
+        "lastUpdated": "2026-01-10"
     },
     "harbingersStrongbox": {
         "id": "harbingersStrongbox",
