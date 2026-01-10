@@ -3,85 +3,85 @@
         "dhow": {
             "name": "Dhow",
             "description": {
-                "general": "Pequeña embarcación construida originalmente para cazar animales salvajes a lo largo de ríos y costas."
+                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
             }
         },
         "bedar": {
             "name": "Bedar",
             "description": {
-                "general": "Pequeña nave maniobrable que puede embestir objetivos y causar daños por inundación."
+                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
             }
         },
         "hulk": {
             "name": "Carraca",
             "description": {
-                "general": "Más duradera y capaz de soportar daños sostenidos, esta nave está especializada en defenderse del fuego enemigo."
+                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
             }
         },
         "cutter": {
             "name": "Cúter",
             "description": {
-                "general": "Una nave capaz de apoyar a otras naves en pleno combate."
+                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
             }
         },
         "barge": {
             "name": "Gabarra",
             "description": {
-                "general": "Una nave especializada en causar daños por fuego y quemaduras, antes de propagar el caos a las naves cercanas."
+                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
             }
         },
         "sloop": {
             "name": "Balandra",
             "description": {
-                "general": "Con las armas adecuadas, esta nave es capaz de plantar cara a múltiples enemigos."
+                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
             }
         },
         "padewakang": {
             "name": "Padewakang",
             "description": {
-                "general": "Una nave más grande capaz de enfrentarse a varios enemigos si está bien equipada."
+                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
             }
         },
         "snow": {
             "name": "Esnón",
             "description": {
-                "general": "Una nave con mayor durabilidad y que resiste en combate. Está especializada en defenderse del fuego enemigo."
+                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
             }
         },
         "brigantine": {
             "name": "Bergantín",
             "description": {
-                "general": "Una nave veloz capaz de embestir objetivos singulares y causar daños por inundación."
+                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
             }
         },
         "sambuk": {
             "name": "Sambuk",
             "description": {
-                "general": "Una nave especializada en infligir daño con fuego y quemar a sus objetivos. También puede atacar a varios enemigos muy cerca."
+                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
             }
         },
         "barque": {
             "name": "Bricbarca",
             "description": {
-                "general": "Una nave que destaca por su capacidad de ayudar a otras naves en peligro realizando reparaciones eficaces."
+                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
             }
         },
         "brig": {
             "name": "Bergantín Redondo",
             "description": {
-                "general": "Un buque de apoyo que destaca en el despliegue de boyas que pueden decantar la batalla a su favor."
+                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
             }
         },
         "battleJunk": {
             "name": "Junco de batalla",
             "description": {
-                "general": "Un monstruo resistente adecuado para distraer a los oponentes, resistir el daño y crear oportunidades para que los aliados se enfrenten o escapen"
+                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
             }
         },
         "garuda": {
             "name": "Garuda",
             "description": {
-                "general": "Una nave rápida y maniobrable que sabe cazar barcos en fuga."
+                "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
             }
         },
         "schooner": {
