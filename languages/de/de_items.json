@@ -2946,6 +2946,12 @@
             "description": {
                 "general": "Enthält eine aufgestiegene Event-Waffe"
             }
+        },
+        "watersOfGowaSetChest": {
+            "name": "Waters of Gowa Set Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
+            }
         }
     }
 }
