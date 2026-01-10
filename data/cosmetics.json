@@ -20169,25 +20169,25 @@
         "type": "sailsColor",
         "set": "hasanuddinsShip",
         "effect": "emissive",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
         "dateAdded": "2024-11-26",
-        "lastUpdated": "2024-11-26"
+        "lastUpdated": "2026-01-06"
     },
     "royalDefender": {
         "id": "royalDefender",
         "type": "sailsEmblem",
         "set": "hasanuddinsShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
         "dateAdded": "2024-11-26",
-        "lastUpdated": "2024-11-26"
+        "lastUpdated": "2026-01-06"
     },
     "clearAsDay": {
         "id": "clearAsDay",
         "type": "sailsPattern",
         "set": "hasanuddinsShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
         "dateAdded": "2024-11-26",
-        "lastUpdated": "2024-11-26"
+        "lastUpdated": "2026-01-06"
     },
     "rebelsRiposte": {
         "id": "rebelsRiposte",
@@ -20201,17 +20201,17 @@
         "id": "bloodOfThePeople",
         "type": "hull",
         "set": "hasanuddinsShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
         "dateAdded": "2024-11-26",
-        "lastUpdated": "2024-11-26"
+        "lastUpdated": "2026-01-06"
     },
     "gildedRooster": {
         "id": "gildedRooster",
         "type": "ornaments",
         "set": "hasanuddinsShip",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","watersOfGowaSetChest"],
         "dateAdded": "2024-11-26",
-        "lastUpdated": "2024-11-26"
+        "lastUpdated": "2026-01-06"
     },
     "deviousRoll": {
         "id": "deviousRoll",

@@ -15487,5 +15487,17 @@
         },
         "dateAdded": "2025-12-09",
         "lastUpdated": "2025-12-09"
+    },
+    "watersOfGowaSetChest": {
+        "id": "watersOfGowaSetChest",
+        "rarity": "legendary",
+        "season": "gutsAndGlory",
+        "type": "chest",
+        "event": "gloryAdorned",
+        "worldEvent": "gloryAdorned",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-01-06",
+        "lastUpdated": "2026-01-06"
     }
 }
