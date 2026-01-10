@@ -17851,27 +17851,27 @@
             }
         },
         "centerOfMadness": {
-            "name": "Center of Madness",
+            "name": "Zentrum des Wahnsinns",
             "description": {
-                "general": "You sail the chaos, all with a smile"
+                "general": "Du segelst mit einem Lächeln durch das Chaos."
             }
         },
         "bitingHooks": {
-            "name": "Biting Hooks",
+            "name": "Am Haken",
             "description": {
-                "general": "\"The more you struggle, the worse it ges for you.\""
+                "general": "\"Je mehr du dich wehrst, desto schlimmer wird es für dich.\""
             }
         },
         "fillOfFortune": {
-            "name": "Fill of Fortune",
+            "name": "Reichtum zur Genüge",
             "description": {
-                "general": "You relish taking every last coin"
+                "general": "Du hast Freude daran, jedes letzte Geldstück zu nehmen."
             }
         },
         "theRestlessFree": {
-            "name": "The Restless Free",
+            "name": "Die rastlosen Freien",
             "description": {
-                "general": "True madness is wasting away one's life and liberty"
+                "general": "Wahrer Wahnsinn ist, sein Leben und seine Freiheit zu vergeuden."
             }
         },
         "goblinsGreed": {
@@ -17887,51 +17887,51 @@
             }
         },
         "heedDeath": {
-            "name": "Heed Death",
+            "name": "Fürchte den Tod",
             "description": {
-                "general": "Kill to survive"
+                "general": "Töte, um zu überleben."
             }
         },
         "piratesClutches": {
-            "name": "Pirate's Clutches",
+            "name": "Piratenfänge",
             "description": {
-                "general": "Take what you can"
+                "general": "Nimm, was du kriegen kannst."
             }
         },
         "gouged": {
-            "name": "Gouged",
+            "name": "Geneppt",
             "description": {
-                "general": "Eliminate every last enemy"
+                "general": "Vernichte jeden einzelnen Feind."
             }
         },
         "darkAndDevious": {
-            "name": "Dark and Devious",
+            "name": "Finster und verschlagen",
             "description": {
-                "general": "Target your opponent's weakness"
+                "general": "Nutze die Schwäche deines Gegners aus."
             }
         },
         "doubleDown": {
-            "name": "Double Down",
+            "name": "Einen drauflegen",
             "description": {
-                "general": "Twice the violence and mayhem"
+                "general": "Doppelt so viel Gewalt und Chaos"
             }
         },
         "silkySmooth": {
-            "name": "Silky Smooth",
+            "name": "Seidig glatt",
             "description": {
-                "general": "As a polished barrel"
+                "general": "Wie ein polierter Lauf."
             }
         },
         "bleedingCanvas": {
-            "name": "Bleeding Canvas",
+            "name": "Blutige Leinwand",
             "description": {
-                "general": "Painted by your triumph"
+                "general": "Gefärbt von deinem Triumph."
             }
         },
         "gunsmoke": {
-            "name": "Gunsmoke",
+            "name": "Pulverdampf",
             "description": {
-                "general": "Hangs heavy, yet its scent is sharply tantalizing"
+                "general": "Schwer in der Luft, aber mir einem verlockenden Duft."
             }
         },
         "courtingDeath": {
@@ -18583,27 +18583,27 @@
             }
         },
         "sovereignOfTheSea": {
-            "name": "Sovereign of the Sea",
+            "name": "Herrscher des Meeres",
             "description": {
-                "general": "\"I have found my place, wild and full of promise."
+                "general": "\"Ich habe meinen Platz gefunden, wild und voller Versprechen.\""
             }
         },
         "linesInTheSky": {
-            "name": "Lines in the Sky",
+            "name": "Himmelslinien",
             "description": {
-                "general": "You wonder if they tell your fate"
+                "general": "Man fragt sich, ob sich dort Euer Schicksal abzeichnet."
             }
         },
         "lifesVoyage": {
-            "name": "Life's Voyage",
+            "name": "Lebensreise",
             "description": {
-                "general": "\"I was born on a ship, and I'll die on a ship.\""
+                "general": "\"Ich wurde auf einem Schiff geboren, und ich werde auf einem Schiff sterben.\""
             }
         },
         "withTheWaves": {
-            "name": "With the Waves",
+            "name": "Mit den Wellen",
             "description": {
-                "general": "You understand the ocean, and it understands you"
+                "general": "Ihr versteht das Meer, und es versteht Euch."
             }
         },
         "livingSun": {
