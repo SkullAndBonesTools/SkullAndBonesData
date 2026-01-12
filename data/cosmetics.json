@@ -29067,5 +29067,65 @@
         "obtainable": "factionWarWinReward",
         "dateAdded": "2026-01-27",
         "lastUpdated": "2026-01-27"
+    },
+    "turnersTricorn": {
+        "id": "turnersTricorn",
+        "type": "headwear",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "washedOvercoat": {
+        "id": "washedOvercoat",
+        "type": "torso",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "megacorpLeggings": {
+        "id": "megacorpLeggings",
+        "type": "bottom",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "colorsOfTheWind": {
+        "id": "colorsOfTheWind",
+        "type": "neck",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "turnersBand": {
+        "id": "turnersBand",
+        "type": "waist",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "buckledShoesCR": {
+        "id": "buckledShoesCR",
+        "type": "footwear",
+        "set": "",
+        "faction": "compagnieRoyale",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
     }
 }

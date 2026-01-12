@@ -20183,6 +20183,42 @@
             "description": {
                 "general": ""
             }
+        },
+        "turnersTricorn": {
+            "name": "Turner's Tricorn",
+            "description": {
+                "general": ""
+            }
+        },
+        "washedOvercoat": {
+            "name": "Washed Overcoat",
+            "description": {
+                "general": ""
+            }
+        },
+        "megacorpLeggings": {
+            "name": "Megacorp Leggings",
+            "description": {
+                "general": ""
+            }
+        },
+        "colorsOfTheWind": {
+            "name": "Colors of the Wind",
+            "description": {
+                "general": ""
+            }
+        },
+        "turnersBand": {
+            "name": "Turner's Band",
+            "description": {
+                "general": ""
+            }
+        },
+        "buckledShoesCR": {
+            "name": "Buckled Shoes",
+            "description": {
+                "general": ""
+            }
         }
     }
 }
