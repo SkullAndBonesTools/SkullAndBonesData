@@ -26647,47 +26647,52 @@
         "id": "livingSun",
         "type": "sailsEmblem",
         "set": "valiantBlood",
+        "season": "gutsAndGlory",
         "obtainable": "factionWarRewardWonTerritory1",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "blackDiamond": {
         "id": "blackDiamond",
         "type": "sailsColor",
         "set": "valiantBlood",
         "effect": "emissive",
+        "season": "gutsAndGlory",
         "obtainable": "factionWarRewardWonTerritory4",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "momentousStride": {
         "id": "momentousStride",
         "type": "hull",
         "set": "valiantBlood",
+        "season": "gutsAndGlory",
         "obtainable": "factionWarRewardWonTerritory5",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "gildedEpic": {
         "id": "gildedEpic",
         "type": "sailsPattern",
         "set": "valiantBlood",
+        "season": "gutsAndGlory",
         "obtainable": "factionWarRewardWonTerritory8",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "corsaire": {
         "id": "corsaire",
         "type": "nameplate",
         "set": "valiantBlood",
+        "season": "gutsAndGlory",
         "obtainable": "factionWarRewardWonTerritory11",
         "faction": "compagnieRoyale",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "mayhemBringer": {
         "id": "mayhemBringer",
@@ -28461,47 +28466,52 @@
         "id": "orderAndPurpose",
         "type": "sailsEmblem",
         "set": "waveConqueror",
+        "season": "gutsAndGlory",
         "faction": "dutchMerchantCompany",
         "obtainable": "factionWarRewardWonTerritory1",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "brightHorizons": {
         "id": "brightHorizons",
         "type": "sailsPattern",
         "set": "waveConqueror",
+        "season": "gutsAndGlory",
         "faction": "dutchMerchantCompany",
         "obtainable": "factionWarRewardWonTerritory8",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "deadWake": {
         "id": "deadWake",
         "type": "sailsColor",
         "set": "waveConqueror",
+        "season": "gutsAndGlory",
         "faction": "dutchMerchantCompany",
         "effect": "emissive",
         "obtainable": "factionWarRewardWonTerritory4",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "anchorsEdge": {
         "id": "anchorsEdge",
         "type": "hull",
         "set": "waveConqueror",
+        "season": "gutsAndGlory",
         "faction": "dutchMerchantCompany",
         "obtainable": "factionWarRewardWonTerritory5",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "kaper": {
         "id": "kaper",
         "type": "nameplate",
         "set": "waveConqueror",
+        "season": "gutsAndGlory",
         "faction": "dutchMerchantCompany",
         "obtainable": "factionWarRewardWonTerritory11",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-01-12"
     },
     "fancyAsCanBe": {
         "id": "fancyAsCanBe",
