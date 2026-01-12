@@ -28997,5 +28997,75 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-12-16",
         "lastUpdated": "2025-12-16"
+    },
+    "batavianTricorn": {
+        "id": "batavianTricorn",
+        "type": "headwear",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "peperduurPatch": {
+        "id": "peperduurPatch",
+        "type": "faceAccessory",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "justNiceJustacorps": {
+        "id": "justNiceJustacorps",
+        "type": "torso",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "petticoatBreeches": {
+        "id": "petticoatBreeches",
+        "type": "bottom",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "steenkerkCravat": {
+        "id": "steenkerkCravat",
+        "type": "neck",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "turnersBelt": {
+        "id": "turnersBelt",
+        "type": "waist",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
+    },
+    "slippedSoles": {
+        "id": "slippedSoles",
+        "type": "footwear",
+        "set": "",
+        "faction": "dutchMerchantCompany",
+        "season": "gutsAndGlory",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
     }
 }

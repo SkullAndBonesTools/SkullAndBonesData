@@ -20141,6 +20141,48 @@
             "description": {
                 "general": "Dreams and delusions live under your skin"
             }
+        },
+        "batavianTricorn": {
+            "name": "Batavian Tricorn",
+            "description": {
+                "general": ""
+            }
+        },
+        "peperduurPatch": {
+            "name": "Peperduur Patch",
+            "description": {
+                "general": ""
+            }
+        },
+        "justNiceJustacorps": {
+            "name": "Just-nice Justacorps",
+            "description": {
+                "general": ""
+            }
+        },
+        "petticoatBreeches": {
+            "name": "Petticoat Breeches",
+            "description": {
+                "general": ""
+            }
+        },
+        "steenkerkCravat": {
+            "name": "Steenkerk Cravat",
+            "description": {
+                "general": ""
+            }
+        },
+        "turnersBelt": {
+            "name": "Turner's Belt",
+            "description": {
+                "general": ""
+            }
+        },
+        "slippedSoles": {
+            "name": "Slipped Soles",
+            "description": {
+                "general": ""
+            }
         }
     }
 }
