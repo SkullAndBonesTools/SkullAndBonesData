@@ -3,85 +3,85 @@
         "dhow": {
             "name": "Dau",
             "description": {
-                "general": "Ein kleines Schiff, das ursprünglich für die Jagd an Flüssen und Küstenstreifen gebaut wurde."
+                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
             }
         },
         "bedar": {
             "name": "Bedar",
             "description": {
-                "general": "Ein wendiges kleines Schiff, das Ziele rammen kann, um Überflutungsschaden zu verursachen."
+                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
             }
         },
         "hulk": {
             "name": "Holk",
             "description": {
-                "general": "Ein widerstandsfähiges Schiff, das viel Schaden einstecken kann. Darauf spezialisiert, vor feindlichem Feuer in Deckung zu gehen."
+                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
             }
         },
         "cutter": {
             "name": "Kutter",
             "description": {
-                "general": "Ein Schiff, das andere Schiffe im Schlachtgetümmel unterstützen kann."
+                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
             }
         },
         "barge": {
             "name": "Segelleichter",
             "description": {
-                "general": "Dieses Schiff ist dafür ausgelegt Feuer- und Brandschaden anzurichten und dafür zu sorgen, dass sich das Chaos auf andere Schiffe in der Nähe ausbreitet."
+                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
             }
         },
         "sloop": {
             "name": "Slup",
             "description": {
-                "general": "Mit der richtigen Bewaffnung kann es dieses Schiff mit mehreren Gegnern aufnehmen."
+                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
             }
         },
         "padewakang": {
             "name": "Padewakang",
             "description": {
-                "general": "Ein größeres Schiff, das es mit mehreren Gegnern auf einmal aufnehmen kann, wenn man es richtig ausrüstet."
+                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
             }
         },
         "snow": {
             "name": "Schnau",
             "description": {
-                "general": "Ein Schiff mit verbesserter Stabilität, das sich in Seeschlachten behaupten kann. Mit einer Schnau kann man besonders gut vor feinlichem Feuer in Deckung gehen."
+                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
             }
         },
         "brigantine": {
             "name": "Brigantine",
             "description": {
-                "general": "Ein schnelles Schiff, mit dem einzelne Ziele gerammt werden können, um Überflutungsschaden anzurichten."
+                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
             }
         },
         "sambuk": {
             "name": "Sambuke",
             "description": {
-                "general": "Ein Brandschiff, das darauf spezialisiert ist, Feuerschaden anzurichten und Ziele in Brand zu stecken. Von Nahem kann es auch mehrere Gegner auf einmal ins Visier nehmen."
+                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
             }
         },
         "barque": {
             "name": "Bark",
             "description": {
-                "general": "Ein Schiff, das besonders dafür geeignet ist, andere Schiffe in brenzligen Situatioinen durch effektive Reparaturarbeiten zu helfen."
+                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
             }
         },
         "brig": {
             "name": "Brigg",
             "description": {
-                "general": "Ein Unterstützungsschiff, das Bojen einsetzt, um das Schlachtglück zu wenden."
+                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
             }
         },
         "battleJunk": {
             "name": "Schlachtdschunke",
             "description": {
-                "general": "Ein widerstandsfähiges Schwergewicht, das Gegner ablenkt, viel einstecken kann und seinen Verbündeten Gelegenheiten zum Angriff oder zur Flucht verschafft."
+                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
             }
         },
         "garuda": {
             "name": "Garuda",
             "description": {
-                "general": "Ein schnelles, wendiges Schiff, das sich gut für die Jagd auf fliehende Feinde eignet."
+                "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
             }
         },
         "schooner": {

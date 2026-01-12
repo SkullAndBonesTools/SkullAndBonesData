@@ -3,85 +3,85 @@
         "dhow": {
             "name": "قارب داو",
             "description": {
-                "general": "قارب صغيرة صممت في الأصل لصيد الحيوانات على طول الأنهار والسواحل."
+                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
             }
         },
         "bedar": {
             "name": "قارب بيدر",
             "description": {
-                "general": "سفينة صغيرة وسريعة تتميز بقدرتها على صدم الأهداف والتسبب في أضرار فيضانية للخصوم."
+                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
             }
         },
         "hulk": {
             "name": "سفينة هولك",
             "description": {
-                "general": "تتميز هذه السفينة بمتانتها وقدرتها على تحمل الضرر لفترات طويلة وهي متخصصة في التصدي للنيران المعادية."
+                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
             }
         },
         "cutter": {
             "name": "قارب كوتر",
             "description": {
-                "general": "سفينة قادرة على دعم السفن الأخرى في خضم المعركة."
+                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
             }
         },
         "barge": {
             "name": "سفينة برغي",
             "description": {
-                "general": "سفينة متخصصة في إشغال الحرائق وإحداث أضرار نارية مع القدرة على نشر الفوضى إلى السفن المحيطة."
+                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
             }
         },
         "sloop": {
             "name": "قارب سلوب",
             "description": {
-                "general": "عند تجهيزها بالأسلحة المناسبة تصبح هذه السفينة قادرة على مواجهة عدة أعداء في نفس الوقت بندية وصمود."
+                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
             }
         },
         "padewakang": {
             "name": "سفينة بادوكن",
             "description": {
-                "general": "سفينة كبيرة تتمتع بالقدرة على التصدي لعدة أعداء في عند تزويدها بالتجهيزات المناسبة."
+                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
             }
         },
         "snow": {
             "name": "سفينة سنو",
             "description": {
-                "general": "سفينة معززة بالمتانة والصلابة،ك قادرة على الثبات في المعركة ومتخصصة في امتصاص الضربات والتصدي للنيران المعادية."
+                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
             }
         },
         "brigantine": {
             "name": "سفينة براجنتين",
             "description": {
-                "general": "سفينة سريعة ومرنة متخصصة في صدم الأهداف الفردية والتسبب بأضرار فيضانية"
+                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
             }
         },
         "sambuk": {
             "name": "سفينة سنبوك",
             "description": {
-                "general": "سفينة مدمرة متخصصة في الحاق أضرار نارية بالأعداء وإشعالهم مع القدرة على استهداف عدة خصوم في المسافة القريبة."
+                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
             }
         },
         "barque": {
             "name": "سفينة بارك",
             "description": {
-                "general": "سفينة متخصصة في تقديم الدعم للسفن المهددة عبر إصلاحات سريعة وفعالة."
+                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
             }
         },
         "brig": {
             "name": "سفينة شراعية",
             "description": {
-                "general": "سفينة دعم بارعة في نشر العوامات مما يمنحها القدرة على قلب موازين المعركة."
+                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
             }
         },
         "battleJunk": {
             "name": "سفينة جانك القتالية",
             "description": {
-                "general": "صلبة لا تُقهر مثالية لإرباك الأعداء امتصاص الضرر وفتح المجال للحلفاء للهجوم أو الانسحاب."
+                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
             }
         },
         "garuda": {
             "name": "سفينة غادروا",
             "description": {
-                "general": "سفينة خفيفة وسريعة بمهارة فائقة في مطاردة وتعقب السفن الفارة."
+                "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
             }
         },
         "schooner": {
