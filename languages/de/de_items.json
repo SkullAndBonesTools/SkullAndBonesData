@@ -2163,9 +2163,9 @@
             }
         },
         "chorusFleetStrongbox": {
-            "name": "Chorus Fleet Strongbox",
+            "name": "Schatulle der Chor-Flotte",
             "description": {
-                "general": "A rightly sealed strongbox containing items that once belonged to the Hubac Twins."
+                "general": "Eine fest versiegelte Schatulle mit Gegenständen, die einst den Hubac-Zwillingen gehört haben."
             }
         },
         "nianStrongbox": {
@@ -2689,9 +2689,9 @@
             }
         },
         "laPestesHead": {
-            "name": "La Peste's Head",
+            "name": "La Pestes Kopf",
             "description": {
-                "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
+                "general": "Der Kopf des Seuchenkönigs Philippe La Peste. Du könntest schwören, dass du aus dem Inneren des Beutels gedämpft jemanden fluchen hörst"
             }
         },
         "laPestesLocker": {
@@ -2707,9 +2707,9 @@
             }
         },
         "wreckedConductorBuoy": {
-            "name": "Wrecked Conductor Buoy",
+            "name": "Zerstörte Dirigentenbake",
             "description": {
-                "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
+                "general": "Ein technisches Wunderwerk, mit dem die Hubac-Zwillinge, beides große Opernliebhaber, sich einen Vorteil im Kampf verschafften."
             }
         },
         "shadowyBracelet": {
@@ -2948,9 +2948,9 @@
             }
         },
         "watersOfGowaSetChest": {
-            "name": "Waters of Gowa Set Chest",
+            "name": "Gewässer von Gowa Settruhe",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
+                "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil vom Set \"Gewässer von Gowa\" sind."
             }
         }
     }

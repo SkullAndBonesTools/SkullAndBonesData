@@ -58,7 +58,7 @@
         "compagnieRoyaleMerchantConvoy": "Compagnie Royale Händlerkonvoi",
         "smugglerPass": "Kaperbrief-Belohnung (während der Saison)",
         "premiumPass": "Premium Kaperbrief-Belohnung (während der Saison)",
-        "ubisoftStore": "Is/was purchasable in the Ubisoft Ingame Store",
+        "ubisoftStore": "Ist/war kaufbar im Ubisoft Ingame Store",
         "regattaChest": "Mögliche Belohnung aus Regatta Truhe (erhalten beim Abschluss eines Drachenrennens)",
         "summerStashChest": "Mögliche Belohnung aus Sommervorratskiste (eintauschbar für 10 Eis auf dem Schwarzmarkt)",
         "ghostShipChest": "Mögliche Belohnung aus Geheimnisvolle Truhe (erhalten beim Versenken der Maangodin)",
@@ -86,8 +86,8 @@
         "smugglerPassFinalReward": "Belohnung für den Abschluss aller 90 Stufen des Kaperbriefes (während der Saison)",
         "smugglerPassPinnacleStore": "Kaufbar im Piratenfürsten-Laden des Kaperbriefes.",
         "insiderReward": "Belohnung für die Teilnahme an dem Insider Programm",
-        "ubisoftStoreSeasonalPack": "Reward when buying the Seasonal Pack from the Ubisoft Ingame Store",
-        "ubisoftStoreSilverGold": "Is/was purchasable from the Ubisoft Ingame Store via Gold or Silver",
+        "ubisoftStoreSeasonalPack": "Belohnung beim Kauf des Saisonalen Paketes aus dem Ubisoft Ingame Store",
+        "ubisoftStoreSilverGold": "Ist/war kaufbar im Ubisoft Ingame Store für Gold oder Silber",
         "friendReferralProgram": "Belohnung des Friend Referral Programmes",
         "friendReferralProgramTier1": "Belohnung für das Einladen von 1 Freund der im Spiel mindestens 2 Schiffe versenkt hat",
         "friendReferralProgramTier2": "Belohnung für das Einladen von 2 Freunden die im Spiel mindestens 2 Schiffe versenkt haben",
@@ -122,7 +122,7 @@
         "clanOfFaraWarrior": "Krieger der Fara",
         "vanityAtelier": "Schneiderei",
         "msiPromotion": "Bonus beim Kauf ausgewählter MSI Produkte als Teil einer Aktion",
-        "ubisoftStoreRedeemableWithEventToken": "Redeemable in the Ubisoft Ingame Store with event tokens",
+        "ubisoftStoreRedeemableWithEventToken": "Einlösbar im Ubisoft Ingame Store für Event Tokens",
         "twitchDropGameAwards": "Twitch Drop während der Game Awards 2023",
         "twitchDropUbisoftForward2024": "Twitch Drop während der Ubisoft Forward 2024",
         "twitchDropStartSeason2": "Twitch Drops zu Beginn von {{chorusOfHavoc}}",
@@ -187,7 +187,7 @@
         "buyingSilverLionsWithSovereigns": "Erhältlich durch den Kauf von Silberlöwen mit Sovereigns in der Gründungstruhe in Sainte Anne ",
         "twitchDropYear2Showcase": "Twitch Drop während der Vorstellung des 2 Jahres",
         "twitchDropStartYear2Season1": "Twitch Drops zu Beginn von {{ascentIntoChaos}}",
-        "ubisoftStoreFreeClaim": "Is/was claimable for free in the Ubisoft Ingame Store",
+        "ubisoftStoreFreeClaim": "Ist/war kostenlos kaufbar im Ubisoft Ingame Store",
         "williamBlackwoodSeasonalItem": "Ist/war im saisonalen Angebot von William Blackwood zu kaufen",
         "williamBlackwoodSeasonalItemRelease": "Ist/war während {{release}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemRagingTides": "Ist/war während {{ragingTides}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
@@ -245,7 +245,7 @@
         "twitchDropSpammals": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Spammals",
         "unboundReaperReward": "Erhalten beim Versenken des Ungebundenen Schnitters",
         "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
-        "azureHarbingerReward": "Obtained when defeating the Azure Harbinger",
-        "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}"
+        "azureHarbingerReward": "Erhalten beim Besiegen des Azurblauen Vorboten",
+        "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}"
     }
 }

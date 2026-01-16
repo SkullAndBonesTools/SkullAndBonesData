@@ -293,8 +293,8 @@
             "description": "Dieses Leuchtsignal schimmert in einem gruseligen Licht. Vielleicht beherbergt es eine Verbindung zu einem schrecklichen Fluch..."
         },
         "hallowedFlare": {
-            "name": "Hallowed Flare",
-            "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
+            "name": "Geweihtes Leuchtsignal",
+            "description": "Dieses Leuchtsignal ist gleichzeitig verstörend und drollig. Es scheint fast zu kichern."
         }
     }
 }
