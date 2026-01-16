@@ -325,7 +325,7 @@
             "description": "Verstärkt bereits vorhandenen Giftschaden um %s-%s%"
         },
         "antidote": {
-            "name": "Antidote",
+            "name": "Gegenmittel",
             "description": "Treffer verringern auch den Aufbau des Statuseffekts Vergiftet beim Ziel um %s-%s %"
         },
         "armored": {

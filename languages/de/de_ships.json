@@ -3,85 +3,85 @@
         "dhow": {
             "name": "Dau",
             "description": {
-                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
+                "general": "Ein wendiger Jäger von Wildtieren. Das Seevolk nutzt es, um Häute und Fleisch effektiv zu ernten."
             }
         },
         "bedar": {
             "name": "Bedar",
             "description": {
-                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
+                "general": "Ein schnell zuschlagendes Rammschiff, das von den Rempah bevorzugt wird und dazu gebaut ist, feindliche Rümpfe zu fluten, bevor es in den Wellen verschwindet."
             }
         },
         "hulk": {
             "name": "Holk",
             "description": {
-                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
+                "general": "Eine Festung auf dem Wasser, mit beeindruckender Verteidigung und Wiederherstellung, entsprechend der technologischen Macht der Kompanien."
             }
         },
         "cutter": {
             "name": "Kutter",
             "description": {
-                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
+                "general": "Ein Schiff, das Reparaturen auf See durchführen kann. Von Schmugglern geschätzt, um sich schnell selbst zu flicken und gleichzeitig feindlichem Beschuss auszuweichen."
             }
         },
         "barge": {
             "name": "Segelleichter",
             "description": {
-                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
+                "general": "Ein Feuersturm auf See. In den Werften von Ungwana umgebaut, ist es hervorragend geeignet, feindliche Flotten in Brand zu stecken und brennende Feinde zu lähmen."
             }
         },
         "sloop": {
             "name": "Slup",
             "description": {
-                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
+                "general": "Eine schnelle Bedrohung, die auf explosive Waffen spezialisiert ist. Von Piraten geschätzt, weil es mit feindlichen Konvois und Bauten kurzen Prozess macht."
             }
         },
         "padewakang": {
             "name": "Padewakang",
             "description": {
-                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
+                "general": "Eine schwimmende Belagerungsmaschine, die Gebäude zerstört und beim Ankern noch stärker zuschlägt. Wurde einst von Kriegsherren eingesetzt, um die Mauern eines alten Königreichs zu zerstören."
             }
         },
         "snow": {
             "name": "Schnau",
             "description": {
-                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
+                "general": "Ursprünglich ein niederländisches Kriegsschiff, das gebaut wurde, um wertvolle Handelskonvois zu beschützen. Seine schnelle Wiederherstellung der Deckungsstärke ermöglicht es ihm, sich gegen überwältigende Feuerkraft zu behaupten."
             }
         },
         "brigantine": {
             "name": "Brigantine",
             "description": {
-                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
+                "general": "Ein Rammbock, der sich durch Überflutungsschaden vor dem finalen Schlag auszeichnet. Von Mega-Kompanien und Händlern gleichermaßen gefürchtet."
             }
         },
         "sambuk": {
             "name": "Sambuke",
             "description": {
-                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
+                "general": "Ein brandgefährliches Schiff, das angeblich vom arabischen Subkontinent stammt. Setzt nahe Feinde in Brand, bevor es die Flammen auf alle überträgt, die es wagen, sich ihm zu nähern."
             }
         },
         "barque": {
             "name": "Bark",
             "description": {
-                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
+                "general": "Das Rückgrat jeder Flotte, das in der Hitze des Gefechts Schiffsrümpfe repariert und Verbündete stärkt. Der Stolz eines Compagnie-Konvois."
             }
         },
         "brig": {
             "name": "Brigg",
             "description": {
-                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
+                "general": "Ein Meister der Hilfskriegsführung, der Unterstützungswaffen für Angriff und Verteidigung verstärkt, wie es sich für die Britische Handelsallianz ziemt."
             }
         },
         "battleJunk": {
             "name": "Schlachtdschunke",
             "description": {
-                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
+                "general": "Eine wandelnde Provokation und ein exotisches Gefährt aus dem Fernen Osten - das Feinde verspottet und Feuer aufsaugt, bevor es das Blatt für Freunde wendet."
             }
         },
         "garuda": {
             "name": "Garuda",
             "description": {
-                "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
+                "general": "Vernichtet Feinde aus der Ferne und hat die Fähigkeit, zu entkommen, wenn es in den Nahkampf geht. Einem alten Himmelsgott nachempfunden."
             }
         },
         "schooner": {

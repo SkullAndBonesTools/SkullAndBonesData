@@ -245,12 +245,12 @@
             "description": "Füge %s Schaden gegen Schwachpunkte mit Himmlischer Donner zu"
         },
         "invaderAzure": {
-            "name": "Invader",
-            "description": "Complete Azure event %s times"
+            "name": "Eindringling",
+            "description": "Schließe Azurblaues Event (Azurblauer Vorbote) %s Mal ab."
         },
         "bullsEye": {
-            "name": "Bull's Eye",
-            "description": "Deal %s damage to weakpoints in Azure Event"
+            "name": "Volltreffer",
+            "description": "Füge %s Schaden gegen Schwachpunkte in Azurblaues Event (Azure Royal) zu."
         }
     }
 }

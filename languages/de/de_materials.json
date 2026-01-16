@@ -53,7 +53,7 @@
             "description": "This spirit's proof strength is beyond top notch. Its rich and oily texture shimmers brightly through its glass encapsule."
         },
         "smugglersMark": {
-            "name": "Smuggler's Mark",
+            "name": "Schmugglermarke",
             "description": ""
         },
         "eventPassPoints": {
@@ -62,75 +62,75 @@
         },
         "coconut": {
             "name": "Kokosnuss",
-            "description": "A stranded-island staple."
+            "description": "Darf auf keiner einsamen Insel fehlen."
         },
         "fish": {
             "name": "Fisch",
-            "description": "Mild flavor with a soft texture."
+            "description": "Milder Geschmack und zarte Textur."
         },
         "ndizi": {
             "name": "Ndizi",
-            "description": "Popular for its sweet taste, those used for cooking are often called plantains."
+            "description": "Wegen ihres süßen Geschmacks beliebte Früchte. Die zum Kochen verwendeten Sorten werden Kochbananen genannt."
         },
         "crocodileMeat": {
             "name": "Krokodilfleisch",
-            "description": "Barely edible if eaten raw."
+            "description": "Roh eher ungenießbar."
         },
         "primeCrocodileMeat": {
             "name": "Bestes Krokodilfleisch",
-            "description": "Best cut of meat from a Crocodile."
+            "description": "Das beste Fleischstück eines Krokodils."
         },
         "sharkMeat": {
             "name": "Haifleisch",
-            "description": "Strong, sour smell. Would taste better cooked."
+            "description": "Starker säuerlicher Geruch. Würde gekocht besser schmecken."
         },
         "rawMutton": {
             "name": "Roher Hammel",
-            "description": "Cooking the mutton will reduce its strongly bitter taste."
+            "description": "Durch Kochen kann der stark bittere Geschmack des Hammels gemildert werden."
         },
         "rawChicken": {
             "name": "Roher Hühnchen",
-            "description": "Bland and viscous."
+            "description": "Fad und irgendwie schmierig."
         },
         "flour": {
             "name": "Mehl",
-            "description": "Crucial ingredient for many dishes."
+            "description": "Grundzutat für viele Gerichte."
         },
         "primeHippoMeat": {
             "name": "Bestes Flusspferdfleisch",
-            "description": "Best cut of meat from a Hippo."
+            "description": "Das beste Fleischstück eines Flusspferds."
         },
         "screwpine": {
             "name": "Pandanenfrucht",
-            "description": "The fruit can be boiled and ground into an edible, highly nutritious paste."
+            "description": "Diese Frucht kann gekocht und zu einem essbaren, sehr nahrhaften  Brei verarbeitet werden."
         },
         "rawBeef": {
             "name": "Rohes Rindfleisch",
-            "description": "Would taste better cooked."
+            "description": "Schmeckt gekocht besser."
         },
         "rawVegetables": {
             "name": "Rohes Gemüse",
-            "description": "Plain and unassuming."
+            "description": "Schlicht und bescheiden. "
         },
         "hippoMeat": {
             "name": "Flusspferdfleisch",
-            "description": "Bitter flavor and strong texture."
+            "description": ""
         },
         "waterFlask": {
             "name": "Wasserflasche",
-            "description": "Essential drink for a pirate."
+            "description": "Unverzichtbares Getränk für Piraten."
         },
         "waterBarrel": {
             "name": "Wasserfass",
-            "description": "Refreshing drinking water."
+            "description": "Erfrischendes Trinkwasser "
         },
         "durian": {
             "name": "Durian",
-            "description": "A large fruit with a strong odor and covered with thorns."
+            "description": "Eine stark riechende und von Dornen bedeckte große Frucht."
         },
         "tylosaurusFlesh": {
             "name": "Tylosaurus-Fleisch",
-            "description": "The meat of a beast that stalks the African Coast, feasting on unfortunate seafarers."
+            "description": "Das Fleisch einer Bestie, die an der afrikanischen Küste umherstreift und sich von glücklosen Seeleuten ernährt."
         },
         "pureIron": {
             "name": "Reines Eisen",
@@ -166,7 +166,7 @@
         },
         "rustyNail": {
             "name": "Rostige Nägel",
-            "description": "Pieces of nails that have rusted. Requires Crowbar to harvest from shipwrecks."
+            "description": "Alte Nägel, die Rost angesetzt haben. Erfordert eine Brechstange um sie in Schiffswracks zu sammeln."
         },
         "copper": {
             "name": "Kupfer",
@@ -370,7 +370,7 @@
         },
         "apexCrocodileLeather": {
             "name": "Leder aus der Haut tödlicher Krokodile",
-            "description": "Strong and sturdy leather refined from Apex Crocodile Skin. Can be used for crafting a variety of items."
+            "description": "Starkes und widerstandsfähiges Leder, das aus der Haut tödlicher Krokodile gewonnen wird. Kann zur Herstellung zahlreicher Gegenstände verwendet werden."
         },
         "apexHippoHide": {
             "name": "Haut tödlicher Flusspferde",
@@ -378,7 +378,7 @@
         },
         "apexHippoLeather": {
             "name": "Leder aus der Haut tödlicher Flusspferde",
-            "description": "Durable leather refined from Apex Hippo Skin. Can be used for crafting a variety of items."
+            "description": "Widerstandsfähiges Leder, das aus der Haut tödlicher Flusspferde gewonnen wird. Kann zur Herstellung zahlreicher Gegenstände verwendet werden."
         },
         "rubber": {
             "name": "Gummi",
@@ -502,11 +502,11 @@
         },
         "ice": {
             "name": "Eis",
-            "description": "A tropical wonder that's cold to the touch."
+            "description": "Ein tropisches Wunder, das sich kalt anfühlt."
         },
         "lestarisMeat": {
             "name": "Lestari-Fleisch",
-            "description": "Meat obtained from the sea monster Lestari."
+            "description": "Fleisch vom Seeungeheuer Lestari"
         },
         "jadeDragon": {
             "name": "Jadedrache",
@@ -621,11 +621,11 @@
             "description": "Ein monströser Fangzahn einer Bestie der Tiefe. Wer auch immer so einen besitzt, muss ihrem Schlund getrotzt haben."
         },
         "deepIron": {
-            "name": "Deep Iron",
+            "name": "Tiefeisen",
             "description": ""
         },
         "deepIronPlates": {
-            "name": "Deep Iron Plates",
+            "name": "Tiefeisenplatten",
             "description": ""
         }
     }
