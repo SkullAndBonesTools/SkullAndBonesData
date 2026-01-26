@@ -823,7 +823,7 @@
         "toxic": {
             "name": "剧毒",
             "description": {
-                "3": "施加30%的剧毒伤害"
+                "3": "Adds 30% of damage as Toxic Damage"
             }
         },
         "homing": {

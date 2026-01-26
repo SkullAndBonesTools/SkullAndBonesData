@@ -246,6 +246,7 @@
         "unboundReaperReward": "Erhalten beim Versenken des Ungebundenen Schnitters",
         "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
         "azureHarbingerReward": "Erhalten beim Besiegen des Azurblauen Vorboten",
-        "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}"
+        "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}",
+        "factionWarWinReward": "Reward for that faction to win the Faction War"
     }
 }
