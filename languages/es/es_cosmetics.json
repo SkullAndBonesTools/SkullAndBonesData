@@ -20141,6 +20141,84 @@
             "description": {
                 "general": "Dreams and delusions live under your skin"
             }
+        },
+        "batavianTricorn": {
+            "name": "Batavian Tricorn",
+            "description": {
+                "general": "Typically worn by the Governor-General of DMC forces"
+            }
+        },
+        "peperduurPatch": {
+            "name": "Peperduur Patch",
+            "description": {
+                "general": "An eye for pepper, and all the profit it brings"
+            }
+        },
+        "justNiceJustacorps": {
+            "name": "Just-nice Justacorps",
+            "description": {
+                "general": "Tailor-made for your frame; far from standard issue"
+            }
+        },
+        "petticoatBreeches": {
+            "name": "Petticoat Breeches",
+            "description": {
+                "general": "Some say your dealings are petty; those people can pissoff"
+            }
+        },
+        "steenkerkCravat": {
+            "name": "Steenkerk Cravat",
+            "description": {
+                "general": "Loosely tied, like one's morals"
+            }
+        },
+        "turnersBelt": {
+            "name": "Turner's Belt",
+            "description": {
+                "general": "Pull it tight when it's time for a fight"
+            }
+        },
+        "slippedSoles": {
+            "name": "Slipped Soles",
+            "description": {
+                "general": "Easy for switching sides on the fly"
+            }
+        },
+        "turnersTricorn": {
+            "name": "Turner's Tricorn",
+            "description": {
+                "general": "There's a reason they call him \"Two-Face\""
+            }
+        },
+        "washedOvercoat": {
+            "name": "Washed Overcoat",
+            "description": {
+                "general": "These colors do not mark you for any faction"
+            }
+        },
+        "megacorpLeggings": {
+            "name": "Megacorp Leggings",
+            "description": {
+                "general": "An old life of rules and regulations"
+            }
+        },
+        "colorsOfTheWind": {
+            "name": "Colors of the Wind",
+            "description": {
+                "general": "Dyed on the fly, per your allegiance"
+            }
+        },
+        "turnersBand": {
+            "name": "Turner's Band",
+            "description": {
+                "general": "Voila! Perfect for entertaining customers."
+            }
+        },
+        "buckledShoesCR": {
+            "name": "Buckled Shoes",
+            "description": {
+                "general": "Too bad you have to sully yourself for silver"
+            }
         }
     }
 }
