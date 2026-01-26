@@ -29011,7 +29011,7 @@
     "batavianTricorn": {
         "id": "batavianTricorn",
         "type": "headwear",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29021,7 +29021,7 @@
     "peperduurPatch": {
         "id": "peperduurPatch",
         "type": "faceAccessory",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29031,7 +29031,7 @@
     "justNiceJustacorps": {
         "id": "justNiceJustacorps",
         "type": "torso",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29041,7 +29041,7 @@
     "petticoatBreeches": {
         "id": "petticoatBreeches",
         "type": "bottom",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29051,7 +29051,7 @@
     "steenkerkCravat": {
         "id": "steenkerkCravat",
         "type": "neck",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29061,7 +29061,7 @@
     "turnersBelt": {
         "id": "turnersBelt",
         "type": "waist",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29071,7 +29071,7 @@
     "slippedSoles": {
         "id": "slippedSoles",
         "type": "footwear",
-        "set": "",
+        "set": "monopolyOfTrade",
         "faction": "dutchMerchantCompany",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29081,7 +29081,7 @@
     "turnersTricorn": {
         "id": "turnersTricorn",
         "type": "headwear",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29091,7 +29091,7 @@
     "washedOvercoat": {
         "id": "washedOvercoat",
         "type": "torso",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29101,7 +29101,7 @@
     "megacorpLeggings": {
         "id": "megacorpLeggings",
         "type": "bottom",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29111,7 +29111,7 @@
     "colorsOfTheWind": {
         "id": "colorsOfTheWind",
         "type": "neck",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29121,7 +29121,7 @@
     "turnersBand": {
         "id": "turnersBand",
         "type": "waist",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",
@@ -29131,7 +29131,7 @@
     "buckledShoesCR": {
         "id": "buckledShoesCR",
         "type": "footwear",
-        "set": "",
+        "set": "connoisseurOfWar",
         "faction": "compagnieRoyale",
         "season": "gutsAndGlory",
         "obtainable": "factionWarWinReward",

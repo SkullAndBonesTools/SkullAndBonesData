@@ -1526,5 +1526,13 @@
     "aCloseStep": {
         "id": "aCloseStep",
         "type": "player"
+    },
+    "connoisseurOfWar": {
+        "id": "connoisseurOfWar",
+        "type": "player"
+    },
+    "monopolyOfTrade": {
+        "id": "monopolyOfTrade",
+        "type": "player"
     }
 }
