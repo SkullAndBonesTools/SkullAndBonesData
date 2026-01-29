@@ -6,60 +6,60 @@
         "huntingSpear": {
             "name": "狩猎矛",
             "description": {
-                "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。",
                 "2": "经改良的长矛，可快速击杀动物或鲨鱼。",
                 "3": "经改良的长矛，可更快速地击杀动物或鲨鱼。",
                 "4": "经改良的长矛，可提升对野生动物造成的伤害。",
-                "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。"
+                "5": "经全面改良的长矛，可进一步提升对野生动物造成的伤害。",
+                "general": "用于捕鱼和狩猎动物的基本长矛，投掷得当的话，甚至能赶走鲨鱼。"
             }
         },
         "crowbar": {
             "name": "撬棍",
             "description": {
-                "general": "用于搜刮船骸以获取宝藏。",
                 "2": "提升船骸搜刮速度。最适合用于搜刮中型船骸。",
                 "3": "进一步提升船骸搜刮速度。最适合用于搜刮大型船骸。",
                 "4": "可用于搜刮任何规模船骸的工具，并可提升搜刮到的物品数量。",
-                "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。"
+                "5": "可用于搜刮任何规模船骸的改良工具，并可以提升搜刮到的物品数量。",
+                "general": "用于搜刮船骸以获取宝藏。"
             }
         },
         "spyglass": {
             "name": "望远镜",
             "description": {
-                "general": "一个望远镜。",
                 "1": "眺望远方的基本工具，但仅有一片镜片。",
                 "2": "经改良的望远镜。拥有两片镜片，缩放程度上升了一个层次。",
-                "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。"
+                "3": "经进一步改良的望远镜，拥有三片镜片，可以看到更远的地方。",
+                "general": "一个望远镜。"
             }
         },
         "sickle": {
             "name": "镰刀",
             "description": {
-                "general": "可从植物中采集织物原料以用于制作。",
                 "2": "采集植物的效率微微提高。",
                 "3": "采集植物的效率适当提高。",
                 "4": "植物采集的效率大幅提升。有机会获得额外产出。",
-                "5": "植物采集效率获得极大提升。有机会获得更高额外产出。"
+                "5": "植物采集效率获得极大提升。有机会获得更高额外产出。",
+                "general": "可从植物中采集织物原料以用于制作。"
             }
         },
         "saw": {
             "name": "锯子",
             "description": {
-                "general": "可砍伐树木来采集木材以用于制作。",
                 "2": "采集木材的效率微微提高。",
                 "3": "采集木材的效率适当提高。",
                 "4": "木材采集的效率大幅提升。有机会获得额外产出。",
-                "5": "木材的采集效率获得极大提升。有机会获得更高产出。"
+                "5": "木材的采集效率获得极大提升。有机会获得更高产出。",
+                "general": "可砍伐树木来采集木材以用于制作。"
             }
         },
         "pickaxe": {
             "name": "十字镐",
             "description": {
-                "general": "可从矿藏中采集铁矿石以用于制作。",
                 "2": "采集矿藏的效率微微提高。",
                 "3": "采集矿藏的效率适当提高。",
                 "4": "矿藏采集的效率大幅提升。有机会获得额外产出。",
-                "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。"
+                "5": "矿藏的采集效率获得极大提升。有机会获得更高额外产出。",
+                "general": "可从矿藏中采集铁矿石以用于制作。"
             }
         },
         "cannonballCrate": {
@@ -371,19 +371,19 @@
         "repairKit": {
             "name": "修理物品",
             "description": {
-                "general": "修复部分船体耐久",
                 "1": "可略微修复船身。",
                 "2": "可小幅修复船身。",
-                "3": "可中幅修复船身。"
+                "3": "可中幅修复船身。",
+                "general": "修复部分船体耐久"
             }
         },
         "enhancedRepairKit": {
             "name": "强化修理物品",
             "description": {
-                "general": "按比例修复船体耐久",
                 "1": "可小幅修复船身。",
                 "2": "可适度修复船身。",
-                "3": "可大量修复船身。"
+                "3": "可大量修复船身。",
+                "general": "按比例修复船体耐久"
             }
         },
         "restorationKit": {
@@ -1085,170 +1085,170 @@
         "bedarUpgrade": {
             "name": "扁嘴帆艇升级",
             "description": {
-                "general": "扁嘴帆艇的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "扁嘴帆艇的升级组件。"
             }
         },
         "hulkUpgrade": {
             "name": "囤货艇升级",
             "description": {
-                "general": "扁嘴帆艇的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "扁嘴帆艇的升级组件。"
             }
         },
         "cutterUpgrade": {
             "name": "短桅帆船升级",
             "description": {
-                "general": "短桅帆船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "短桅帆船的升级组件。"
             }
         },
         "bargeUpgrade": {
             "name": "平底货艇升级",
             "description": {
-                "general": "平底货艇的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "平底货艇的升级组件。"
             }
         },
         "sloopUpgrade": {
             "name": "单桅船升级",
             "description": {
-                "general": "单桅炮艇的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "单桅炮艇的升级组件。"
             }
         },
         "padewakangUpgrade": {
             "name": "巴得瓦康船升级",
             "description": {
-                "general": "巴得瓦康船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "巴得瓦康船的升级组件。"
             }
         },
         "snowUpgrade": {
             "name": "尖首货船升级",
             "description": {
-                "general": "尖首货船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "尖首货船的升级组件。"
             }
         },
         "brigantineUpgrade": {
             "name": "双桅帆船升级",
             "description": {
-                "general": "双桅帆船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "双桅帆船的升级组件。"
             }
         },
         "sambukUpgrade": {
             "name": "桑布克船升级",
             "description": {
-                "general": "桑布克船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "桑布克船的升级组件。"
             }
         },
         "barqueUpgrade": {
             "name": "三桅帆船升级",
             "description": {
-                "general": "三桅帆船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "三桅帆船的升级组件。"
             }
         },
         "brigUpgrade": {
             "name": "双桅帆船升级",
             "description": {
-                "general": "双桅帆船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "双桅帆船的升级组件。"
             }
         },
         "battleJunkUpgrade": {
             "name": "座䑸升级",
             "description": {
-                "general": "座䑸的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "座䑸的升级组件。"
             }
         },
         "garudaUpgrade": {
             "name": "迦楼罗升级",
             "description": {
-                "general": "迦楼罗的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "迦楼罗的升级组件。"
             }
         },
         "boatswainsToll": {
@@ -1356,65 +1356,65 @@
         "deluxeBallistaBoltCrate": {
             "name": "豪华弩炮弩箭箱",
             "description": {
-                "general": "内含适用于弩炮类武器的弩箭。",
                 "1": "内含40发适用于弩炮类武器的弩箭。",
-                "2": "内含60发适用于弩炮类武器的弩箭。"
+                "2": "内含60发适用于弩炮类武器的弩箭。",
+                "general": "内含适用于弩炮类武器的弩箭。"
             }
         },
         "deluxeSeaFireOilCrate": {
             "name": "豪华海洋之火油罐箱",
             "description": {
-                "general": "内含适用于海洋之火武器的油罐。",
                 "1": "内含120罐适用于海洋之火武器的油罐。",
-                "2": "内含180罐适用于海洋之火武器的油罐。"
+                "2": "内含180罐适用于海洋之火武器的油罐。",
+                "general": "内含适用于海洋之火武器的油罐。"
             }
         },
         "deluxeCannonballCrate": {
             "name": "豪华大炮炮弹箱",
             "description": {
-                "general": "内含适用于大炮的炮弹。",
                 "1": "内含200枚炮弹",
-                "2": "内含300发适用于大炮的炮弹。"
+                "2": "内含300发适用于大炮的炮弹。",
+                "general": "内含适用于大炮的炮弹。"
             }
         },
         "deluxeMortarBombCrate": {
             "name": "豪华迫击炮炮弹箱",
             "description": {
-                "general": "内含适用于迫击炮的炮弹。",
                 "1": "内含40发适用于迫击炮的炮弹。",
-                "2": "内含60发适用于迫击炮的炮弹。"
+                "2": "内含60发适用于迫击炮的炮弹。",
+                "general": "内含适用于迫击炮的炮弹。"
             }
         },
         "deluxeRocketCrate": {
             "name": "豪华火箭箱",
             "description": {
-                "general": "内含适用于火箭发射器的火箭。",
                 "1": "内含200发适用于火箭发射器的火箭。",
-                "2": "内含300发适用于火箭发射器的火箭。"
+                "2": "内含300发适用于火箭发射器的火箭。",
+                "general": "内含适用于火箭发射器的火箭。"
             }
         },
         "deluxeBuoyShellsCrate": {
             "name": "豪华浮标炮弹箱",
             "description": {
-                "general": "内含适用于弹射器的浮标炮弹。",
                 "1": "内含40发适用于弹射器的浮标炮弹。",
-                "2": "内含60发适用于弹射器的浮标炮弹。"
+                "2": "内含60发适用于弹射器的浮标炮弹。",
+                "general": "内含适用于弹射器的浮标炮弹。"
             }
         },
         "deluxeBombardBombCrate": {
             "name": "豪华射石炮炮弹箱",
             "description": {
-                "general": "内含适用于射石炮的炮弹。",
                 "1": "内含120发适用于射石炮的炮弹。",
-                "2": "内含180发适用于射石炮的炮弹。"
+                "2": "内含180发适用于射石炮的炮弹。",
+                "general": "内含适用于射石炮的炮弹。"
             }
         },
         "deluxeTorpedoCrate": {
             "name": "豪华鱼雷箱",
             "description": {
-                "general": "内含适用于鱼雷发射器的鱼雷。",
                 "1": "内含120发适用于鱼雷发射器的鱼雷。",
-                "2": "内含180发适用于鱼雷发射器的鱼雷。"
+                "2": "内含180发适用于鱼雷发射器的鱼雷。",
+                "general": "内含适用于鱼雷发射器的鱼雷。"
             }
         },
         "whiteJade": {
@@ -1888,14 +1888,14 @@
         "schoonerUpgrade": {
             "name": "纵帆船升级",
             "description": {
-                "general": "纵帆船的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "纵帆船的升级组件。"
             }
         },
         "titansCuirass": {
@@ -2345,14 +2345,14 @@
         "frigateUpgrade": {
             "name": "护卫舰升级",
             "description": {
-                "general": "护卫舰的升级组件。",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "护卫舰的升级组件。"
             }
         },
         "thunderDragonCannon": {
@@ -2508,22 +2508,22 @@
         "teulingsArmorChest": {
             "name": "图林的装甲宝箱",
             "description": {
-                "general": "内含一件随机第一年走私贩通行证装甲。",
-                "1": "内含一件随机第一年走私贩通行证装甲。"
+                "1": "内含一件随机第一年走私贩通行证装甲。",
+                "general": "内含一件随机第一年走私贩通行证装甲。"
             }
         },
         "teulingsFurnitureChest": {
             "name": "图林的陈设宝箱",
             "description": {
-                "general": "包含一件随机走私者通行证陈设。",
-                "1": "内含一件随机第一年走私贩通行证陈设。"
+                "1": "内含一件随机第一年走私贩通行证陈设。",
+                "general": "包含一件随机走私者通行证陈设。"
             }
         },
         "teulingsWeaponChest": {
             "name": "图林的武器宝箱",
             "description": {
-                "general": "包含一件随机走私者通行证武器。",
-                "1": "内含一件随机第一年走私贩通行证武器。"
+                "1": "内含一件随机第一年走私贩通行证武器。",
+                "general": "包含一件随机走私者通行证武器。"
             }
         },
         "jokaKubwaTreasureChest": {
@@ -2571,13 +2571,13 @@
         "elDoradoCosmeticsChest": {
             "name": "El Dorado化妆品宝箱",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of El Dorado Set"
+                "general": "华丽的箱子，可能包含属于黄金国套装的外观"
             }
         },
         "hellfestShipCosmeticsChest": {
             "name": "地狱狂欢节战舰外观宝箱",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of the Hellfest Ship Set"
+                "general": "华丽的箱子，可能包含属于地狱节船只套装的外观"
             }
         },
         "freemansLetter": {
@@ -2677,9 +2677,9 @@
             }
         },
         "locketOfTheDamned": {
-            "name": "Locket of the Damned",
+            "name": "诅咒挂坠",
             "description": {
-                "general": "A vessel of trapped souls belonging to those killed by the Soleil Royal"
+                "general": "囚禁着被皇家太阳号杀死的灵魂的容器"
             }
         },
         "tianNingsImperialCloak": {
@@ -2691,13 +2691,13 @@
         "laPestesHead": {
             "name": "瘟疫之首",
             "description": {
-                "general": "The head of the Plague King, Philippe La Peste. Holding the bag in hand, you could almost swear you hear muffled curses from within."
+                "general": "瘟疫之王菲利普·拉佩斯特的头颅。提着袋子，你几乎可以发誓能听到里面传出闷闷的诅咒声。"
             }
         },
         "laPestesLocker": {
             "name": "拉普的锁箱",
             "description": {
-                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+                "general": "除了快乐、瘟疫，或者两者兼有，你还能在里面找到什么奖励？"
             }
         },
         "laPestesStrongbox": {
@@ -2707,21 +2707,21 @@
             }
         },
         "wreckedConductorBuoy": {
-            "name": "Wrecked Conductor Buoy",
+            "name": "损坏的指挥浮标",
             "description": {
-                "general": "A technical marvel used by the opera-loving Hubac Twins to gain the edge in battle"
+                "general": "热爱歌剧的胡巴克双子使用的技术奇迹，用于在战斗中获得优势"
             }
         },
         "shadowyBracelet": {
-            "name": "Shadowy Bracelet",
+            "name": "阴影手镯",
             "description": {
-                "general": "A bracelet worn by Vikram Rajan, captain of the Schaduw. It pulses with an unnatural aura."
+                "general": "暗影号船长维克拉姆·拉詹佩戴的手镯。它脉动着不自然的光环。"
             }
         },
         "necklaceOfTheSkyGoddess": {
-            "name": "Necklace of the Sky Goddess",
+            "name": "天空女神项链",
             "description": {
-                "general": "Made of polished jade and precious stones."
+                "general": "由抛光玉石和宝石制成。"
             }
         },
         "flaskOfClearLiquid": {
@@ -2731,15 +2731,15 @@
             }
         },
         "gildedCompass": {
-            "name": "Gilded Compass",
+            "name": "镀金罗盘",
             "description": {
-                "general": "An ornate, bulky thing only gifted to the highest-ranking members of the DMC. How accurate its arrow points, however, is debatable."
+                "general": "一件华丽而笨重的东西，只有DMC最高级别的成员才能获赠。然而，它指针的指向是否准确还有待商榷。"
             }
         },
         "zhangsClaw": {
             "name": "提督之爪",
             "description": {
-                "general": "The arm of the Commander itself. The metal is still warm to the touch, its fingers specked with blood."
+                "general": "指挥官本人的手臂。金属摸起来还是温热的，手指上沾满了血迹。"
             }
         },
         "suaveSeadogCosmeticsChest": {
@@ -2853,104 +2853,104 @@
         "sloopOfWarUpgrade": {
             "name": "战争单桅炮艇升级",
             "description": {
-                "general": "战争单桅炮艇的升级组件",
                 "1": "将扁嘴帆艇从0级升至1级。",
                 "2": "将扁嘴帆艇从1级升至2级。",
                 "3": "将扁嘴帆艇从2级升至3级。",
                 "4": "将扁嘴帆艇从3级升至4级。",
                 "5": "将扁嘴帆艇从4级升至5级。",
                 "6": "将扁嘴帆艇从5级升至6级。",
-                "7": "将扁嘴帆艇从6级升至7级。"
+                "7": "将扁嘴帆艇从6级升至7级。",
+                "general": "战争单桅炮艇的升级组件"
             }
         },
         "ascendedRequiemOfTheLostEventCache": {
-            "name": "Ascended Event Cache (Requiem of the Lost)",
+            "name": "升阶活动宝箱（迷失者的安魂曲）",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "包含一件升阶活动武器。"
             }
         },
         "ascendedTheDrownedOneChest": {
-            "name": "Ascended The Drowned One Chest",
+            "name": "升阶溺亡者宝箱",
             "description": {
-                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+                "general": "一个华丽的箱子，里面装着未知的宝藏。有人声称曾听到里面传出哭泣声。"
             }
         },
         "exoticArmorAscendedCache": {
-            "name": "Exotic Armor Ascended Cache",
+            "name": "异国装甲升阶宝箱",
             "description": {
-                "general": "A collection of Exotic Armor that will be ascended upon opening"
+                "general": "一系列异国装甲，打开后将升阶"
             }
         },
         "hauntedReapersCache": {
-            "name": "Haunted Reaper's Cache",
+            "name": "闹鬼收割者宝箱",
             "description": {
-                "general": "An ornate chest containing unknown treasures. Some claim to have heard ghostly whispers from within."
+                "general": "华丽的箱子，里面装着未知的宝藏。有人声称曾听到里面传出幽灵般的低语。"
             }
         },
         "gildedProtectorChest": {
-            "name": "Gilded Protector Chest",
+            "name": "镀金守护者宝箱",
             "description": {
-                "general": "A chest containing Ascended Armor, a boon for one who hunts deadly monsters from the abyss."
+                "general": "一个包含升阶装甲的箱子，是对猎杀深渊致命怪物之人的恩赐。"
             }
         },
         "slayersChest": {
-            "name": "Slayer's Chest",
+            "name": "杀手宝箱",
             "description": {
-                "general": "A chest that may contain Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+                "general": "一个可能包含升阶武器的箱子，是对猎杀深渊致命怪物之人的恩赐。"
             }
         },
         "gildedSlayersChest": {
-            "name": "Gilded Slayer's Chest",
+            "name": "镀金杀手宝箱",
             "description": {
-                "general": "A chest containing Ascended Weapons, a boon for one who hunts deadly monsters from the abyss."
+                "general": "一个包含升阶武器的箱子，是对猎杀深渊致命怪物之人的恩赐。"
             }
         },
         "laPestesLockerMythic": {
-            "name": "La Peste's Locker (Mythic)",
+            "name": "拉佩斯特的储物箱（神话）",
             "description": {
-                "general": "What rewards might you find within, besides pleasure, pestilence, or both?"
+                "general": "除了快乐、瘟疫，或者两者兼有，你还能在里面找到什么奖励？"
             }
         },
         "emeraldSkullTalisman": {
-            "name": "Emerald Skull Talisman",
+            "name": "翡翠骷髅护身符",
             "description": {
-                "general": "An emerald unearthed from the depths of Africa and shaped into a fine crystal by Ungwana craftsmen. Believed to aid the cursed by easing the pain of the blight."
+                "general": "从非洲深处挖掘出的翡翠，由乌瓜纳工匠打磨成精美的晶体。据信可以减轻枯萎病的痛苦，从​​而帮助受诅咒的人。"
             }
         },
         "eerieRing": {
-            "name": "Eerie Ring",
+            "name": "诡异戒指",
             "description": {
-                "general": "A rusted ring set with an ominous-looking ruby, bright scarlet as blood against stone. Looking into the pulsing red gem stirs up a sense of anguish in your heart."
+                "general": "一枚生锈的戒指，镶嵌着一颗看起来不祥的红宝石，像石头上的鲜血一样猩红。注视着这颗脉动的红色宝石会激起你心中的痛苦。"
             }
         },
         "seaOfKingdomsCosmeticsChest": {
-            "name": "Sea of Kingdoms Cosmetics Chest",
+            "name": "王国之海外观箱",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of Sea of Kingdoms Set"
+                "general": "华丽的箱子，可能包含属于王国之海套装的外观"
             }
         },
         "harbingersStrongbox": {
-            "name": "Harbinger's Strongbox",
+            "name": "先驱保险箱",
             "description": {
-                "general": "A strongbox from an elite ship of the Azure Fleet. It seems to sap the very warmth from the surrounding air."
+                "general": "来自蔚蓝舰队精英船只的保险箱。它似乎在吸走周围空气的温度。"
             }
         },
         "ascendedFrostwailChest": {
-            "name": "Ascended Frostwail Chest",
+            "name": "升阶霜恸宝箱",
             "description": {
-                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+                "general": "一个华丽的箱子，里面装着未知的宝藏。有人声称曾听到里面传出哭泣声。"
             }
         },
         "ascendedAzureSolsticeEventCache": {
-            "name": "Ascended Event Cache (Azure Solstice)",
+            "name": "升阶活动宝箱（蔚蓝至日）",
             "description": {
-                "general": "Contains an Ascended Event weapon."
+                "general": "包含一件升阶活动武器。"
             }
         },
         "watersOfGowaSetChest": {
-            "name": "Waters of Gowa Set Chest",
+            "name": "戈瓦之水套装箱",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
+                "general": "华丽的箱子，可能包含属于戈瓦之水套装的外观"
             }
         }
     }

@@ -10,15 +10,15 @@
         },
         "sovereigns": {
             "name": "君主币",
-            "description": ""
+            "description": "君主"
         },
         "reapersToll": {
             "name": "死神之税",
-            "description": "A strange medallion with a sinister engraving. Some claim its face comes to life under the moonlight."
+            "description": "一个奇怪的徽章，刻有邪恶的图案。有人声称它的表面在月光下会活过来。"
         },
         "gold": {
             "name": "金",
-            "description": ""
+            "description": "黄金"
         },
         "copperBars": {
             "name": "铜条",
@@ -30,11 +30,11 @@
         },
         "azuriteGem": {
             "name": "蓝宝石原石",
-            "description": "This gem gleams with an unsettling sheen and feels cold to the touch. So cold it seems to be sapping more than just heat."
+            "description": "这种宝石闪烁着令人不安的光泽，触感冰冷。如此冰冷，仿佛不仅仅是在吸走热量。"
         },
         "halfTaels": {
             "name": "半两银",
-            "description": ""
+            "description": "半两"
         },
         "silverLions": {
             "name": "银狮币",
@@ -42,7 +42,7 @@
         },
         "bloodiedDoubloon": {
             "name": "血染达布隆",
-            "description": ""
+            "description": "血迹斑斑的杜布隆"
         },
         "heartfeltWish": {
             "name": "衷心祈愿",
@@ -54,11 +54,11 @@
         },
         "smugglersMark": {
             "name": "镀金马克",
-            "description": ""
+            "description": "走私者标记"
         },
         "eventPassPoints": {
-            "name": "Event Pass Points",
-            "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
+            "name": "通行证点数",
+            "description": "通过击败该活动的精英战舰积累活动点数，以解锁活动通行证中的奖励。"
         },
         "coconut": {
             "name": "椰子",
@@ -182,7 +182,7 @@
         },
         "sharkSkin": {
             "name": "鲨鱼原皮",
-            "description": ""
+            "description": "鲨鱼皮"
         },
         "jute": {
             "name": "黄麻",
@@ -282,7 +282,7 @@
         },
         "thickCrocodileHide": {
             "name": "厚实鳄鱼原皮",
-            "description": ""
+            "description": "厚鳄鱼皮"
         },
         "thickCrocodileLeather": {
             "name": "厚鳄鱼皮皮革",
@@ -290,7 +290,7 @@
         },
         "crocodileHide": {
             "name": "鳄鱼原皮",
-            "description": ""
+            "description": "鳄鱼皮"
         },
         "crocodileLeather": {
             "name": "鳄鱼皮革",
@@ -314,7 +314,7 @@
         },
         "hippoHide": {
             "name": "河马原皮",
-            "description": ""
+            "description": "河马皮"
         },
         "hippoLeather": {
             "name": "河马皮革",
@@ -366,7 +366,7 @@
         },
         "apexCrocodileHide": {
             "name": "顶级掠食鳄原皮",
-            "description": ""
+            "description": "顶级鳄鱼皮"
         },
         "apexCrocodileLeather": {
             "name": "顶级掠食鳄皮革",
@@ -374,7 +374,7 @@
         },
         "apexHippoHide": {
             "name": "顶级河马原皮",
-            "description": ""
+            "description": "顶级河马皮"
         },
         "apexHippoLeather": {
             "name": "顶级河马皮革",
@@ -486,7 +486,7 @@
         },
         "units": {
             "name": "单位币",
-            "description": ""
+            "description": "单位"
         },
         "blackAriaShipPart": {
             "name": "黑色咏叹调号之剑",
@@ -622,11 +622,11 @@
         },
         "deepIron": {
             "name": "深铁",
-            "description": ""
+            "description": "深铁"
         },
         "deepIronPlates": {
             "name": "深铁板",
-            "description": ""
+            "description": "深铁板"
         }
     }
 }
