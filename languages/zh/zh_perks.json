@@ -50,8 +50,8 @@
         "repair": {
             "name": "修复",
             "description": {
-                "general": "为一艘友军船只回复更少船身生命值",
-                "2": "为一艘友军船只回复更多船身生命值"
+                "2": "为一艘友军船只回复更多船身生命值",
+                "general": "为一艘友军船只回复更少船身生命值"
             }
         },
         "mastBreaker": {
@@ -565,7 +565,7 @@
         "putrefying": {
             "name": "腐烂",
             "description": {
-                "general": "Releases toxic fumes for a short period upon impact, sapping the target's Crew Stamina based on 1% of the Toxic damage dealt"
+                "general": "撞击时释放有毒烟雾，持续一小段时间，根据造成的剧毒伤害的1%消耗目标的船员耐力"
             }
         },
         "venemousVengeance": {
@@ -597,12 +597,12 @@
         },
         "laPotenceSchematics": {
             "description": {
-                "general": [
-                    "对敌方船只造成的弱点伤害增加10%",
-                    "武器命中时无视目标10%的剧毒抗性"
-                ],
                 "1": [
                     "对敌舰弱点伤害提高10%",
+                    "武器命中时无视目标10%的剧毒抗性"
+                ],
+                "general": [
+                    "对敌方船只造成的弱点伤害增加10%",
                     "武器命中时无视目标10%的剧毒抗性"
                 ]
             }
@@ -823,7 +823,7 @@
         "toxic": {
             "name": "剧毒",
             "description": {
-                "3": "Adds 30% of damage as Toxic Damage"
+                "3": "增加30%伤害作为剧毒伤害"
             }
         },
         "homing": {

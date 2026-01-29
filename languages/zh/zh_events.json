@@ -1,15 +1,15 @@
 {
     "events": {
-        "dragonsRegatta": "Dragon's Regatta",
-        "summerFiesta": "Summer Fiesta",
-        "mooncakeRegatta": "Mooncake Regatta",
-        "requiemOfTheLost": "Requiem of the Lost",
-        "azureSolstice": "Azure Solstice",
-        "enterTheNian": "Enter the Nian",
-        "theFounding": "The Founding",
-        "gloryAdorned": "Glory Adorned",
-        "theHonorless": "The Honorless",
-        "darktideLullaby": "Darktide Lullaby",
-        "moonshineLarceny": "Moonshine Larceny"
+        "dragonsRegatta": "龙舟赛",
+        "summerFiesta": "夏日祭",
+        "mooncakeRegatta": "月饼帆船赛",
+        "requiemOfTheLost": "迷失者的安魂曲",
+        "azureSolstice": "蔚蓝至日",
+        "enterTheNian": "年兽入场",
+        "theFounding": "建国日",
+        "gloryAdorned": "荣耀加身",
+        "theHonorless": "无耻之徒",
+        "darktideLullaby": "暗潮摇篮曲",
+        "moonshineLarceny": "月光窃贼"
     }
 }

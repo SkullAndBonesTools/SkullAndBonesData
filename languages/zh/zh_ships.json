@@ -3,85 +3,85 @@
         "dhow": {
             "name": "至上欢愉(单桅帆船)",
             "description": {
-                "general": "A nimble hunter of wildlife. The Sea People use it to harvest hides and meat effectively."
+                "general": "敏捷的野生动物猎手。海民用它来高效地收集皮毛和肉类。"
             }
         },
         "bedar": {
             "name": "冲撞船(扁嘴帆艇)",
             "description": {
-                "general": "A fast-hitting rammer favored by the Rempah, built to Flood enemy hulls before vanishing into the waves."
+                "general": "任帕人喜爱的快速撞击船，专为在消失于波涛之前使敌方船体进水而造。"
             }
         },
         "hulk": {
             "name": "护卫舰(囤货艇)",
             "description": {
-                "general": "A fortress on the water, with formidable defenses and recovery, as befitting the technological might of the megacorporations."
+                "general": "海上的堡垒，拥有强大的防御和恢复能力，与巨型公司的科技实力相称。"
             }
         },
         "cutter": {
             "name": "护送舰(短桅帆船)",
             "description": {
-                "general": "A ship capable of sustained repairs at sea. Prized by smugglers to swiftly repair themselves whilst evading enemy fire."
+                "general": "能够在海上持续维修的船只。深受走私者的喜爱，因为他们可以在躲避敌人火力的同时迅速修复自己。"
             }
         },
         "barge": {
             "name": "火烙船(平底货艇)",
             "description": {
-                "general": "A firestorm at sea. Repurposed in the Ungwana dockyards, it excels at setting enemy fleets Ablaze and crippling burning foes."
+                "general": "海上的火焰风暴。在乌瓜纳的造船厂重新利用，擅长点燃敌方舰队并重创燃烧的敌人。"
             }
         },
         "sloop": {
             "name": "爆破船(单桅炮艇)",
             "description": {
-                "general": "A fast menace specializing in explosive weaponry. Prized by pirates for making short work of enemy convoys and structures."
+                "general": "专门使用爆炸性武器的快速威胁。被海盗所珍视，用于迅速解决敌方护卫队和建筑。"
             }
         },
         "padewakang": {
             "name": "射石炮船(巴得瓦康船)",
             "description": {
-                "general": "A floating siege engine, obliterating structures and striking harder when Anchored. Once used by warlords to shatter the walls of an ancient kingdom."
+                "general": "漂浮的攻城器械，能摧毁建筑并在下锚时造成更大打击。军阀曾用它来粉碎古老王国的城墙。"
             }
         },
         "snow": {
             "name": "先锋舰(尖首货船)",
             "description": {
-                "general": "Initially a Dutch warship built to escort valuable trade convoys. Its fast recovery of Brace Strength allows it to hold the line against overwhelming firepower."
+                "general": "最初是为护送贵重贸易船队而建造的荷兰战舰。它能快速恢复护盾强度，从而在压倒性的火力下坚守阵地。"
             }
         },
         "brigantine": {
             "name": "破舰船(双桅帆船)",
             "description": {
-                "general": "A ramming predator that excels at dealing Flooding Damage before the final blow. Feared by the megacorporations and merchants alike."
+                "general": "一种擅长在致命一击前造成进水伤害的撞击掠食者。令巨型公司和商人们闻风丧胆。"
             }
         },
         "sambuk": {
             "name": "纵火狂(桑布克船)",
             "description": {
-                "general": "A pyromaniac of a ship rumored to hail from the Arabian subcontinent. Sets nearby enemies Ablaze, before spreading flames to all who dare come close."
+                "general": "据传来自阿拉伯次大陆的纵火狂船只。点燃附近的敌人，然后将火焰蔓延到所有敢于靠近的人身上。"
             }
         },
         "barque": {
             "name": "守护舰(三桅帆船)",
             "description": {
-                "general": "The backbone of any fleet, repairing hulls and reinforcing allies in the heat of battle. The pride of a Compagnie convoy."
+                "general": "任何舰队的骨干，在激烈的战斗中修复船体并增援盟友。公司船队的骄傲。"
             }
         },
         "brig": {
             "name": "守护舰(三桅帆船)",
             "description": {
-                "general": "A master of auxiliary warfare, amplifying support weapons for both offense and defense, as befitting the British Trade Alliance."
+                "general": "辅助作战的大师，增强支援武器的攻防能力，这与不列颠贸易同盟的身份相符。"
             }
         },
         "battleJunk": {
             "name": "能工巧匠(双桅炮船)",
             "description": {
-                "general": "A walking provocation and exotic vessel from the Far East -- taunting enemies and soaking up fire, before turning the tide for friends."
+                "general": "行走的挑衅，来自远东的异域船只——嘲讽敌人并吸收火力，随后为友军扭转战局。"
             }
         },
         "garuda": {
             "name": "迅击船(迦楼罗)",
             "description": {
-                "general": "Devastates enemies from afar while equipped with the ability to escape whenever a fight gets too close. Modeled after an ancient god of the skies."
+                "general": "装备有在战斗过于接近时逃脱的能力，可从远处摧毁敌人。以古代天空之神为原型。"
             }
         },
         "schooner": {

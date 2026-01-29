@@ -1,178 +1,178 @@
 {
     "territories": {
         "islandsOfTheMoon": {
-            "name": "Islands of the Moon"
+            "name": "月亮群岛"
         },
         "angayaCoast": {
-            "name": "Angaya Coast"
+            "name": "安加亚海岸"
         },
         "theGiantsLeap": {
-            "name": "The Giant's Leap"
+            "name": "巨人飞跃"
         },
         "riverMouths": {
-            "name": "River Mouths"
+            "name": "河口"
         },
         "rovaHill": {
-            "name": "Rova Hill"
+            "name": "罗瓦山"
         },
         "reefSea": {
-            "name": "Reef Sea"
+            "name": "礁海"
         },
         "southwestPassage": {
-            "name": "Southwest Passage"
+            "name": "西南航道"
         },
         "learntMensHill": {
-            "name": "Learnt Men's Hill"
+            "name": "学者山"
         },
         "noisyBe": {
-            "name": "Noisy Be"
+            "name": "喧闹湾"
         },
         "teninaCoast": {
-            "name": "Tenina Coast"
+            "name": "特尼纳海岸"
         },
         "sainteAnne": {
-            "name": "Sainte-Anne"
+            "name": "圣安妮"
         },
         "bloodyChannel": {
-            "name": "Bloody Channel"
+            "name": "鲜血航道"
         },
         "ileRoyale": {
-            "name": "Île Royale"
+            "name": "皇家岛"
         },
         "portLHermine": {
-            "name": "Port L'Hermine"
+            "name": "莱尔米特港"
         },
         "baixioGrande": {
-            "name": "Baixio Grande"
+            "name": "贝肖格兰德"
         },
         "lEscale": {
-            "name": "L'Escale"
+            "name": "莱斯卡勒"
         },
         "easternBasin": {
-            "name": "Eastern Basin"
+            "name": "东部盆地"
         },
         "centralBasin": {
-            "name": "Central Basin"
+            "name": "中部盆地"
         },
         "southernBasin": {
-            "name": "Southern Basin"
+            "name": "南部盆地"
         },
         "bataviaReefs": {
-            "name": "Batavia Reefs"
+            "name": "巴达维亚礁"
         },
         "westernBasin": {
-            "name": "Western Basin"
+            "name": "西部盆地"
         },
         "pembe": {
-            "name": "Pembe"
+            "name": "彭贝"
         },
         "lakeBwawa": {
-            "name": "Lake Bwawa"
+            "name": "布瓦瓦湖"
         },
         "jiwe": {
-            "name": "Jiwe"
+            "name": "吉韦"
         },
         "ziwaKubwa": {
-            "name": "Ziwa Kubwa"
+            "name": "济瓦库布瓦"
         },
         "harufu": {
-            "name": "Harufu"
+            "name": "哈鲁夫"
         },
         "lakeBuri": {
-            "name": "Lake Buri"
+            "name": "布里湖"
         },
         "sultaniIsland": {
-            "name": "Sultani Island"
+            "name": "苏丹岛"
         },
         "rondavels": {
-            "name": "Rondavels"
+            "name": "龙达维尔"
         },
         "pilotBay": {
-            "name": "Pilot Bay"
+            "name": "领航湾"
         },
         "panyarJungle": {
-            "name": "Panyar Jungle"
+            "name": "潘亚尔丛林"
         },
         "deltaOfSain": {
-            "name": "Delta of Sain"
+            "name": "萨因三角洲"
         },
         "patamyarMountains": {
-            "name": "Patamyar Mountains"
+            "name": "帕塔米亚山脉"
         },
         "sunyOutskirts": {
-            "name": "Suny Outskirts"
+            "name": "苏尼郊区"
         },
         "berukSea": {
-            "name": "Beruk Sea"
+            "name": "贝鲁克海"
         },
         "chichomneahJungle": {
-            "name": "Chichomneah Jungle"
+            "name": "奇乔姆尼亚丛林"
         },
         "deltaOfMe": {
-            "name": "Delta of Me"
+            "name": "米三角洲"
         },
         "kaongkangCoast": {
-            "name": "Kaongkang Coast"
+            "name": "康康海岸"
         },
         "gulfOfNakh": {
-            "name": "Gulf of Nakh"
+            "name": "纳赫湾"
         },
         "harimauPeninsula": {
-            "name": "Harimau Peninsula"
+            "name": "哈里毛半岛"
         },
         "fortHarimau": {
-            "name": "Fort Harimau"
+            "name": "哈里毛堡"
         },
         "telokPenjarah": {
-            "name": "Telok Penjarah"
+            "name": "特洛克彭贾拉"
         },
         "straitOfHarimau": {
-            "name": "Strait of Harimau"
+            "name": "哈里毛海峡"
         },
         "pemburuIslands": {
-            "name": "Pemburu Islands"
+            "name": "彭布鲁群岛"
         },
         "zamrud": {
-            "name": "Zamrud"
+            "name": "扎姆鲁德"
         },
         "easternGateSea": {
-            "name": "Eastern Gate Sea"
+            "name": "东门海"
         },
         "nilamSea": {
-            "name": "Nilam Sea"
+            "name": "尼拉姆海"
         },
         "logamHighlands": {
-            "name": "Logam Highlands"
+            "name": "洛加姆高地"
         },
         "musonStrait": {
-            "name": "Muson Strait"
+            "name": "穆森海峡"
         },
         "hutanRainforest": {
-            "name": "Hutan Rainforest"
+            "name": "胡坦雨林"
         },
         "hutanHighlands": {
-            "name": "Hutan Highlands"
+            "name": "胡坦高地"
         },
         "trisulaSea": {
-            "name": "Trisula Sea"
+            "name": "特里苏拉海"
         },
         "nagaSea": {
-            "name": "Naga Sea"
+            "name": "那迦海"
         },
         "cendonoStrait": {
-            "name": "Cendono Strait"
+            "name": "琴多诺海峡"
         },
         "trisulaCoast": {
-            "name": "Trisula Coast"
+            "name": "特里苏拉海岸"
         },
         "nagaCoast": {
-            "name": "Naga Coast"
+            "name": "那迦海岸"
         },
         "spiceIslands": {
-            "name": "Spice Islands"
+            "name": "香料群岛"
         },
         "ringOfFire": {
-            "name": "Ring of Fire"
+            "name": "火之环"
         }
     }
 }

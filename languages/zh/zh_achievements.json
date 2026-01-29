@@ -1,256 +1,256 @@
 {
     "achievements": {
         "ballistaMastery": {
-            "name": "Ballista Mastery",
-            "description": "Deal %s damage using Ballista."
+            "name": "弩炮大师",
+            "description": "使用弩炮造成 %s 点伤害。"
         },
         "mortarMastery": {
-            "name": "Mortar Mastery",
-            "description": "Deal %s damage using Mortar."
+            "name": "臼炮大师",
+            "description": "使用臼炮造成 %s 点伤害。"
         },
         "seaFireMastery": {
-            "name": "Sea Fire Mastery",
-            "description": "Deal %s damage using Sea Fire."
+            "name": "海火大师",
+            "description": "使用海火造成 %s 点伤害。"
         },
         "springloaderMastery": {
-            "name": "Springloader Mastery",
-            "description": "Deal %s damage using Springloader."
+            "name": "弹簧雷大师",
+            "description": "使用弹簧雷造成 %s 点伤害。"
         },
         "torpedoMastery": {
-            "name": "Torpedo Mastery",
-            "description": "Deal %s damage using Torpedoes."
+            "name": "鱼雷大师",
+            "description": "使用鱼雷造成 %s 点伤害。"
         },
         "bombardMastery": {
-            "name": "Bombard Mastery",
-            "description": "Deal %s damage using Bombard."
+            "name": "射石炮大师",
+            "description": "使用射石炮造成 %s 点伤害。"
         },
         "culverinMastery": {
-            "name": "Culverin Mastery",
-            "description": "Deal %s damage using Culverin."
+            "name": "长管炮大师",
+            "description": "使用长管炮造成 %s 点伤害。"
         },
         "demicannonMastery": {
-            "name": "Demi-Cannon Mastery",
-            "description": "Deal %s damage using Demi-Cannon."
+            "name": "半加农炮大师",
+            "description": "使用半加农炮造成 %s 点伤害。"
         },
         "longGunMastery": {
-            "name": "Long Gun Mastery",
-            "description": "Deal %s damage using Long Gun."
+            "name": "长九炮大师",
+            "description": "使用长九炮造成 %s 点伤害。"
         },
         "rocketMastery": {
-            "name": "Rocket Mastery",
-            "description": "Deal %s damage using Rocket."
+            "name": "火箭大师",
+            "description": "使用火箭造成 %s 点伤害。"
         },
         "explosiveLongGunMastery": {
-            "name": "Explosive Long Gun Mastery",
-            "description": "Deal %s damage using Lange Kartouwe."
+            "name": "爆炸长九炮大师",
+            "description": "使用兰格加农炮造成 %s 点伤害。"
         },
         "unisonCulverinMastery": {
-            "name": "Unison Culverin Mastery",
-            "description": "Deal %s damage using Urban's Great Gun."
+            "name": "齐射长管炮大师",
+            "description": "使用乌尔班巨炮造成 %s 点伤害。"
         },
         "explosiveDemicannonMastery": {
-            "name": "Explosive Demi-Cannon Mastery",
-            "description": "Deal %s damage using Kleine Kartouwe."
+            "name": "爆炸半加农炮大师",
+            "description": "使用克莱恩加农炮造成 %s 点伤害。"
         },
         "weaponAscension": {
-            "name": "Weapon Ascension",
-            "description": "Ascend %s weapons."
+            "name": "武器升阶",
+            "description": "升阶 %s 件武器。"
         },
         "weaponModification": {
-            "name": "Weapon Modification",
-            "description": "Modify %s weapons."
+            "name": "武器改装",
+            "description": "改装 %s 件武器。"
         },
         "burningBallistaMastery": {
-            "name": "Burning Ballista Mastery",
-            "description": "Deal %s damage using Alecto."
+            "name": "燃烧弩炮大师",
+            "description": "使用阿莱克托造成 %s 点伤害。"
         },
         "lightningBombardMastery": {
-            "name": "Lightning Bombard Mastery",
-            "description": "Deal %s damage using Divine Wind."
+            "name": "闪电射石炮大师",
+            "description": "使用神风造成 %s 点伤害。"
         },
         "lumberjack": {
-            "name": "Lumberjack",
-            "description": "Gather %s Wood."
+            "name": "伐木工",
+            "description": "采集 %s 木材。"
         },
         "masterChef": {
-            "name": "Master Chef",
-            "description": "Gather %s Food."
+            "name": "大厨",
+            "description": "采集 %s 食物。"
         },
         "masterHarvester": {
-            "name": "Master Harvester",
-            "description": "Gather %s Fiber."
+            "name": "收割大师",
+            "description": "采集 %s 纤维。"
         },
         "masterSmith": {
-            "name": "Master Smith",
-            "description": "Craft %s Metal."
+            "name": "锻造大师",
+            "description": "制作 %s 金属。"
         },
         "silversmith": {
-            "name": "Silversmith",
-            "description": "Earn %s Silver."
+            "name": "银匠",
+            "description": "赚取 %s 银币。"
         },
         "fortuneFinder": {
-            "name": "Fortune Finder",
-            "description": "Complete %s Treasure Maps."
+            "name": "寻宝猎人",
+            "description": "完成 %s 张藏宝图。"
         },
         "keeperOfEights": {
-            "name": "Keeper of Eights",
-            "description": "Earn %s Pieces of Eight."
+            "name": "八里亚尔守护者",
+            "description": "赚取 %s 八里亚尔。"
         },
         "plagueEnder": {
-            "name": "Plague Ender",
-            "description": "Complete the \"The Plague King\" world event %s times."
+            "name": "瘟疫终结者",
+            "description": "完成“瘟疫之王”世界事件 %s 次。"
         },
         "cursebreaker": {
-            "name": "Cursebreaker",
-            "description": "Complete the \"The Looming Schadow\" world event %s times."
+            "name": "破咒者",
+            "description": "完成“逼近的阴影”世界事件 %s 次。"
         },
         "redeemer": {
-            "name": "Redeemer",
-            "description": "Complete the \"The Great Schadow\" world event %s times."
+            "name": "救赎者",
+            "description": "完成“巨大的阴影”世界事件 %s 次。"
         },
         "showstopper": {
-            "name": "Showstopper",
-            "description": "Complete the \"Chorus of Havoc\" world event %s times."
+            "name": "压轴好戏",
+            "description": "完成“浩劫合唱”世界事件 %s 次。"
         },
         "unsighted": {
-            "name": "Unsighted",
-            "description": "Complete the \"The Glorious Phoenix\" world event %s times."
+            "name": "盲目",
+            "description": "完成“荣耀凤凰”世界事件 %s 次。"
         },
         "plunderer": {
-            "name": "Plunderer",
-            "description": "Complete %s plunders while in a group."
+            "name": "掠夺者",
+            "description": "在组队时完成 %s 次掠夺。"
         },
         "wolfpack": {
-            "name": "Wolfpack",
-            "description": "Land the final hit on %s ships while sailing in a group."
+            "name": "狼群",
+            "description": "在组队航行时对 %s 艘船只进行最后一击。"
         },
         "handOfJudgment": {
-            "name": "Hand of Judgment",
-            "description": "Use %s Bloodied Strongbox"
+            "name": "审判之手",
+            "description": "使用 %s 个血腥保险箱"
         },
         "azureTidings": {
-            "name": "Azure Tidings",
-            "description": "Use %s Azure Cache"
+            "name": "蔚蓝消息",
+            "description": "使用 %s 个蔚蓝宝箱"
         },
         "claimToFame": {
-            "name": "Claim to Fame (Y2S1)",
-            "description": "Gain %s Infamy in Year 2 Season 1"
+            "name": "声名鹊起 (Y2S1)",
+            "description": "在第2年第1赛季获得 %s 恶名"
         },
         "enterTheNian": {
-            "name": "Enter the Nian",
-            "description": "Use %s Nian Strongbox"
+            "name": "年兽入场",
+            "description": "使用 %s 个年兽保险箱"
         },
         "ghoulsBane": {
-            "name": "Ghoul's Bane",
-            "description": "Use %s Reaper's Cache"
+            "name": "食尸鬼克星",
+            "description": "使用 %s 个收割者宝箱"
         },
         "claimToFameY2S2": {
-            "name": "Claim to Fame (Y2S2)",
-            "description": "Gain %s Infamy in Year 2 Season 2"
+            "name": "声名鹊起 (Y2S2)",
+            "description": "在第2年第2赛季获得 %s 恶名"
         },
         "darktideSurvivor": {
-            "name": "Darktide Survivor",
-            "description": "Use %s Darktide Lullaby caches"
+            "name": "暗潮幸存者",
+            "description": "使用 %s 个暗潮摇篮曲宝箱"
         },
         "moonshineRaider": {
-            "name": "Moonshine Raider",
-            "description": "Use %s Moonshine Larceny caches"
+            "name": "月光突袭者",
+            "description": "使用 %s 个月光窃贼宝箱"
         },
         "fleetMaster": {
-            "name": "Fleet Master",
-            "description": "Build %s ships"
+            "name": "舰队大师",
+            "description": "建造 %s 艘船只"
         },
         "stormSailor": {
-            "name": "Storm Sailor",
-            "description": "Sail through storms for %s minutes"
+            "name": "风暴水手",
+            "description": "在风暴中航行 %s 分钟"
         },
         "colossalVessel": {
-            "name": "Colossal Vessel",
-            "description": "Build %s Large Frigate"
+            "name": "巨型舰船",
+            "description": "建造 %s 艘大型护卫舰"
         },
         "pirateKnight": {
-            "name": "Pirate Knight",
-            "description": "Loot %s Merchant Convoys"
+            "name": "海盗骑士",
+            "description": "掠夺 %s 支商船队"
         },
         "warlord": {
-            "name": "Warlord",
-            "description": "Earn %s war assets in Faction War"
+            "name": "军阀",
+            "description": "在阵营战中获得 %s 战争资产"
         },
         "hubacHunter": {
-            "name": "Hubac Hunter",
-            "description": "Deal %s weak-point damage with Culverin in Hubac Twins' Domain"
+            "name": "胡巴克猎人",
+            "description": "在胡巴克双子领域使用长管炮造成 %s 弱点伤害"
         },
         "laPesteHunter": {
-            "name": "La Peste Hunter",
-            "description": "Deal %s weak-point damage with Torpedoes in La Peste's Domain"
+            "name": "拉佩斯特猎人",
+            "description": "在拉佩斯特领域使用鱼雷造成 %s 弱点伤害"
         },
         "liTianNingHunter": {
-            "name": "Li Tian Ning Hunter",
-            "description": "Deal %s weak-point damage with Ballista in Li Tian Ning's Domain"
+            "name": "李天宁猎人",
+            "description": "在李天宁领域使用弩炮造成 %s 弱点伤害"
         },
         "vikramHunter": {
-            "name": "Vikram Hunter",
-            "description": "Deal %s weak-point damage with Sea Fire in Vikram's Domain"
+            "name": "维克拉姆猎人",
+            "description": "在维克拉姆领域使用海火造成 %s 弱点伤害"
         },
         "dominator": {
-            "name": "Dominator",
-            "description": "Capture %s points in Tidebreaker"
+            "name": "统治者",
+            "description": "在破浪者中占领 %s 个点位"
         },
         "doomsday": {
-            "name": "Doomsday",
-            "description": "Win %s rounds in Fleetfire"
+            "name": "末日",
+            "description": "在舰队之火中赢得 %s 回合"
         },
         "pirateHunter": {
-            "name": "Pirate Hunter",
-            "description": "Defeat %s pirates in Fleetfire"
+            "name": "海盗猎人",
+            "description": "在舰队之火中击败 %s 名海盗"
         },
         "theMedic": {
-            "name": "The Medic",
-            "description": "Repair %s value on friendly pirates in Tidebreaker"
+            "name": "医师",
+            "description": "在破浪者中修复友方海盗 %s 数值"
         },
         "claimToFameY2S3": {
-            "name": "Claim to Fame (Y2S3)",
-            "description": "Gain %s Infamy in Year 2 Season 3"
+            "name": "声名鹊起 (Y2S3)",
+            "description": "在第2年第3赛季获得 %s 恶名"
         },
         "deadeye": {
-            "name": "Deadeye",
-            "description": "Deal %s weak-point damage in Halloween"
+            "name": "神射手",
+            "description": "在万圣节活动中造成 %s 弱点伤害"
         },
         "invader": {
-            "name": "Invader",
-            "description": "Complete Halloween events %s times"
+            "name": "入侵者",
+            "description": "完成万圣节事件 %s 次"
         },
         "epicFloodingGunMastery": {
-            "name": "Epic Flooding Gun Mastery",
-            "description": "Deal %s weak-point damage using The Drowned One"
+            "name": "史诗进水炮大师",
+            "description": "使用溺亡者造成 %s 弱点伤害"
         },
         "epicPoisonCulverinMastery": {
-            "name": "Epic Poison Culverin Mastery",
-            "description": "Deal %s weak-point damage using Rotmouth"
+            "name": "史诗毒液长管炮大师",
+            "description": "使用腐口造成 %s 弱点伤害"
         },
         "epicPoisonSeaFireMastery": {
-            "name": "Epic Poison Sea Fire Mastery",
-            "description": "Deal %s weak-point damage using Virulent Accord"
+            "name": "史诗毒液海火大师",
+            "description": "使用剧毒协定造成 %s 弱点伤害"
         },
         "epicPoisonTorpedoMastery": {
-            "name": "Epic Poison Torpedo Mastery",
-            "description": "Deal %s weak-point damage using Blightbringer"
+            "name": "史诗毒液鱼雷大师",
+            "description": "使用瘟疫使者造成 %s 弱点伤害"
         },
         "genericBombardMastery": {
-            "name": "Generic Bombard Mastery",
-            "description": "Deal %s weak-point damage using Frostwail"
+            "name": "通用射石炮大师",
+            "description": "使用霜恸造成 %s 弱点伤害"
         },
         "lightningSeaFireMastery": {
-            "name": "Lightning Sea Fire Mastery",
-            "description": "Deal %s weak-point damage using Heavenly Thunder"
+            "name": "闪电海火大师",
+            "description": "使用天雷造成 %s 弱点伤害"
         },
         "invaderAzure": {
-            "name": "Invader",
-            "description": "Complete Azure event %s times"
+            "name": "入侵者",
+            "description": "完成蔚蓝事件 %s 次"
         },
         "bullsEye": {
-            "name": "Bull's Eye",
-            "description": "Deal %s damage to weakpoints in Azure Event"
+            "name": "靶心",
+            "description": "在蔚蓝事件中对弱点造成 %s 伤害"
         }
     }
 }

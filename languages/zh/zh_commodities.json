@@ -289,12 +289,12 @@
             "description": "点燃后，这种信号弹会散发出一种怪异却又宜人的香气。\n在世界事件浮标处使用此物品召唤悲泣之母。"
         },
         "azureFlare": {
-            "name": "Azure Flare",
-            "description": "This flare has a terrifying shimmer to it. Perhaps it has some connection to a greater curse..."
+            "name": "蔚蓝信号弹",
+            "description": "这种信号弹闪烁着可怕的光芒。也许它与某种更伟大的诅咒有关……"
         },
         "hallowedFlare": {
-            "name": "Hallowed Flare",
-            "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
+            "name": "神圣信号弹",
+            "description": "这种信号弹带有一种令人不安却又异想天开的气息。它似乎在嘲笑你。"
         }
     }
 }

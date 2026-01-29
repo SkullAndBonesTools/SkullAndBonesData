@@ -325,8 +325,8 @@
             "description": "将现有剧毒伤害提升%s-%s%"
         },
         "antidote": {
-            "name": "Antidote",
-            "description": "Hits also reduce the target's build up of the Poisoned Status Effect by %s-%s%"
+            "name": "解毒剂",
+            "description": "命中时也会使目标的“中毒”状态效果累积值降低 %s-%s%"
         },
         "armored": {
             "name": "配备装甲",
@@ -365,8 +365,8 @@
             "description": "穿透伤害抗性提升%s-%s%"
         },
         "resistAll": {
-            "name": "Resist All",
-            "description": "Increases All Secondary Damage Resistances by %s-%s%"
+            "name": "全面抵抗",
+            "description": "增加所有次要伤害抗性 %s-%s%"
         },
         "stout": {
             "name": "结实",
