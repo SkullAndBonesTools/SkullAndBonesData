@@ -20219,6 +20219,12 @@
             "description": {
                 "general": "Too bad you have to sully yourself for silver"
             }
+        },
+        "flameScourge": {
+            "name": "Flame Scourge",
+            "description": {
+                "general": "Fire and water, heed the call"
+            }
         }
     }
 }

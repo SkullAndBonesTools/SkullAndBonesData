@@ -20219,6 +20219,12 @@
             "description": {
                 "general": "太糟糕了，你不得不为了银子玷污自己"
             }
+        },
+        "flameScourge": {
+            "name": "Flame Scourge",
+            "description": {
+                "general": "Fire and water, heed the call"
+            }
         }
     }
 }

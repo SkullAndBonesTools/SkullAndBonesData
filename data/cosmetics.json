@@ -29137,5 +29137,14 @@
         "obtainable": "factionWarWinReward",
         "dateAdded": "2026-01-27",
         "lastUpdated": "2026-01-27"
+    },
+    "flameScourge": {
+        "id": "flameScourge",
+        "type": "armorSkin",
+        "effect": "emissive",
+        "season": "gutsAndGlory",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-01-27",
+        "lastUpdated": "2026-01-27"
     }
 }
