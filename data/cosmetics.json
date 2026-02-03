@@ -29146,5 +29146,65 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-01-27",
         "lastUpdated": "2026-01-27"
+    },
+    "motherOfTeeth": {
+        "id": "motherOfTeeth",
+        "type": "sailsEmblem",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "fangscript": {
+        "id": "fangscript",
+        "type": "sailsPattern",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "voidcaller": {
+        "id": "voidcaller",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "krakensReach": {
+        "id": "krakensReach",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "fangcoil": {
+        "id": "fangcoil",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "depthdweller": {
+        "id": "depthdweller",
+        "type": "hull",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "divineSlayer": {
+        "id": "divineSlayer",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "abyssalSlayer",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

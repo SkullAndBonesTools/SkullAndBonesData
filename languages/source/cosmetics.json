@@ -20225,6 +20225,48 @@
             "description": {
                 "general": "Fire and water, heed the call"
             }
+        },
+        "motherOfTeeth": {
+            "name": "Mother of Teeth",
+            "description": {
+                "general": "Worn by those who've faced the abyss and lived"
+            }
+        },
+        "fangscript": {
+            "name": "Fangscript",
+            "description": {
+                "general": "Read only by the marked"
+            }
+        },
+        "voidcaller": {
+            "name": "Voidcaller",
+            "description": {
+                "general": "Torn by storms, blessed by silence"
+            }
+        },
+        "krakensReach": {
+            "name": "Kraken's Reach",
+            "description": {
+                "general": "Beyond fear, into the realm of monsters"
+            }
+        },
+        "fangcoil": {
+            "name": "Fangcoil",
+            "description": {
+                "general": "It uncoils from the deep, shaped for the kill"
+            }
+        },
+        "depthdweller": {
+            "name": "Depthdweller",
+            "description": {
+                "general": "Cloaked in shadow, hardened by the hunt"
+            }
+        },
+        "divineSlayer": {
+            "name": "Divine Slayer",
+            "description": {
+                "general": "A name whispered by beasts and men"
+            }
         }
     }
 }

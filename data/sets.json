@@ -1534,5 +1534,9 @@
     "monopolyOfTrade": {
         "id": "monopolyOfTrade",
         "type": "player"
+    },
+    "abyssalSlayer": {
+        "id": "abyssalSlayer",
+        "type": "ship"
     }
 }
