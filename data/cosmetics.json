@@ -29588,5 +29588,55 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "theShadeless": {
+        "id": "theShadeless",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "gildedCoronation",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "gunpowderGarnet": {
+        "id": "gunpowderGarnet",
+        "type": "hull",
+        "set": "gildedCoronation",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "regentsResolve": {
+        "id": "regentsResolve",
+        "type": "sailsPattern",
+        "effect": "emissive",
+        "set": "gildedCoronation",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "lostHeir": {
+        "id": "lostHeir",
+        "type": "sailsEmblem",
+        "set": "gildedCoronation",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

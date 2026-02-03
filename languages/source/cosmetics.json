@@ -20543,6 +20543,30 @@
             "description": {
                 "general": "Hard to hang what won't stay dead"
             }
+        },
+        "theShadeless": {
+            "name": "The Shadeless",
+            "description": {
+                "general": "A coronation in all but name"
+            }
+        },
+        "gunpowderGarnet": {
+            "name": "Gunpowder Garnet",
+            "description": {
+                "general": "Smooth as ambition and stolen tribute"
+            }
+        },
+        "regentsResolve": {
+            "name": "Regent's Resolve",
+            "description": {
+                "general": "Swirls for those who rule without crowns"
+            }
+        },
+        "lostHeir": {
+            "name": "Lost Heir",
+            "description": {
+                "general": "Laurels won, swords crossed"
+            }
         }
     }
 }

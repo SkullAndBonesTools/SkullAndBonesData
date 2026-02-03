@@ -1562,5 +1562,9 @@
     "mutinysChild": {
         "id": "mutinysChild",
         "type": "player"
+    },
+    "gildedCoronation": {
+        "id": "gildedCoronation",
+        "type": "ship"
     }
 }
