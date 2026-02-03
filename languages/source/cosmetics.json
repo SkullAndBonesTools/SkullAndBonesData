@@ -20273,6 +20273,30 @@
             "description": {
                 "general": "\"Looks like a hungry little fella, don't he?\""
             }
+        },
+        "velvetViper": {
+            "name": "Velvet Viper",
+            "description": {
+                "general": "The softest touch hides the sharpest fangs"
+            }
+        },
+        "coiledDeceit": {
+            "name": "Coiled Deceit",
+            "description": {
+                "general": "Silk threads twist. A serpent waits. The kiss is fatal."
+            }
+        },
+        "perfumedDeath": {
+            "name": "Perfumed Death",
+            "description": {
+                "general": "Deep emerald. Traces of incense. Whispers to the fold."
+            }
+        },
+        "gildedVenom": {
+            "name": "Gilded Venom",
+            "description": {
+                "general": "Midnight lacquer. A sheen like oil. Death wears a noble face."
+            }
         }
     }
 }

@@ -1538,5 +1538,9 @@
     "abyssalSlayer": {
         "id": "abyssalSlayer",
         "type": "ship"
+    },
+    "silkenPromises": {
+        "id": "silkenPromises",
+        "type": "ship"
     }
 }

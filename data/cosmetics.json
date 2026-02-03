@@ -29214,5 +29214,37 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "velvetViper": {
+        "id": "velvetViper",
+        "type": "sailsEmblem",
+        "set": "silkenPromises",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "coiledDeceit": {
+        "id": "coiledDeceit",
+        "type": "sailsPattern",
+        "set": "silkenPromises",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "perfumedDeath": {
+        "id": "perfumedDeath",
+        "type": "sailsColor",
+        "set": "silkenPromises",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "gildedVenom": {
+        "id": "gildedVenom",
+        "type": "hull",
+        "set": "silkenPromises",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
