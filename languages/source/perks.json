@@ -2971,6 +2971,51 @@
                     "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
                 ]
             }
+        },
+        "corvetteUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 83200",
+                    "Increases Brace Strength to 16640"
+                ],
+                "2": [
+                    "Increases Cargo to 150000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 14kn",
+                    "Increases Trimming Speed to 19kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 85600",
+                    "Increases Brace Strength to 17120"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Upgraded Mark' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 102720",
+                    "Increases Brace Strength to 20544",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "upgradedMark": {
+            "name": "Upgraded Mark",
+            "description": {
+                "general": [
+                    "At the maximum number of Stacks of Flagbearer, targets will receive additional 10% weapon damage. Allies will repair Severe Damage by 1% of incoming repair received",
+                    "Flagbearer lasts 20s"
+                ]
+            }
         }
     }
 }

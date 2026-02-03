@@ -15504,5 +15504,189 @@
         "weight": 100,
         "dateAdded": "2026-01-06",
         "lastUpdated": "2026-01-06"
+    },
+    "corvetteUpgrade1": {
+        "id": "corvetteUpgrade1",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 1,
+        "value": 1,
+        "required": {
+            "plagueDust": 10,
+            "blightedFuel": 7,
+            "deepIron": 30,
+            "upgradeParts": 6,
+            "silver": 18000
+        },
+        "perks": [
+            "corvetteUpgrade1"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade2": {
+        "id": "corvetteUpgrade2",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 2,
+        "value": 1,
+        "required": {
+            "phoenixBeak": 6,
+            "phoenixPinion": 6,
+            "jadePhoenixStatue": 4,
+            "deepIron": 35,
+            "upgradeParts": 8,
+            "silver": 25000
+        },
+        "perks": [
+            "corvetteUpgrade2"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade3": {
+        "id": "corvetteUpgrade3",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 3,
+        "value": 1,
+        "required": {
+            "zamaharibuScales": 7,
+            "cogwheel": 10,
+            "wyrmsBreath": 5,
+            "deepIron": 35,
+            "upgradeParts": 10,
+            "piecesOfEight": 1250
+        },
+        "perks": [
+            "corvetteUpgrade3",
+            "deepBlue"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade4": {
+        "id": "corvetteUpgrade4",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 4,
+        "value": 1,
+        "required": {
+            "azureDragonHead": 5,
+            "screwMechanism": 10,
+            "precisionDrillingBit": 5,
+            "yellowDragonBanner": 3,
+            "deepIron": 40,
+            "upgradeParts": 12,
+            "piecesOfEight": 4000
+        },
+        "damageMitigation": {
+            "explosive": 0.03,
+            "flooding": 0.03,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0,
+            "toxic": 0.03
+        },
+        "perks": [
+            "corvetteUpgrade4"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade5": {
+        "id": "corvetteUpgrade5",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 5,
+        "value": 1,
+        "required": {
+            "lestarisSkin": 7,
+            "xanthousStone": 10,
+            "rubber": 15,
+            "deepIronPlates": 5,
+            "upgradeParts": 12,
+            "etherealAshes": 7,
+            "piecesOfEight": 6500
+        },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0,
+            "toxic": 0.05
+        },
+        "perks": [
+            "corvetteUpgrade5"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade6": {
+        "id": "corvetteUpgrade6",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 6,
+        "value": 1,
+        "required": {
+            "lightningDragonScale": 5,
+            "sinewString": 10,
+            "xanthousGemstone": 10,
+            "wyrmVolatileNapalm": 2,
+            "deepIronPlates": 7,
+            "upgradeParts": 14,
+            "vengefulEssence": 5,
+            "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0.1,
+            "flooding": 0.1,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0,
+            "toxic": 0.1
+        },
+        "perks": [
+            "corvetteUpgrade6",
+            "upgradedMark"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "corvetteUpgrade7": {
+        "id": "corvetteUpgrade7",
+        "type": "shipUpgrade",
+        "season": "eyeOfTheBeast",
+        "tier": 7,
+        "value": 1,
+        "required": {
+            "putrefiedZamaharibuScale": 3,
+            "rubber": 15,
+            "precisionDrillingBit": 15,
+            "gannetDenseNiter": 2,
+            "deepIronPlates": 10,
+            "upgradeParts": 14,
+            "masterworkKit": 3,
+            "piecesOfEight": 15000,
+            "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.2,
+            "flooding": 0.2,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0,
+            "toxic": 0.2
+        },
+        "perks": [
+            "corvetteUpgrade7"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

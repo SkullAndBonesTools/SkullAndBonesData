@@ -904,9 +904,9 @@
         "stamina": 100,
         "baseRank": 5,
         "sailSpeed": {
-            "halfSail": 11,
-            "fullSail": 14,
-            "travelSail": 19
+            "halfSail": 8,
+            "fullSail": 12,
+            "travelSail": 16
         },
         "cargo": {
             "cargoSlots": 100,

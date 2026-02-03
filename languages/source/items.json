@@ -2952,6 +2952,19 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics that are part of the Waters of Gowa Set"
             }
+        },
+        "corvetteUpgrade": {
+            "name": "Corvette Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Corvette.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
         }
     }
 }
