@@ -1574,5 +1574,9 @@
     "eveOfRetribution": {
         "id": "eveOfRetribution",
         "type": "player"
+    },
+    "cursedEight": {
+        "id": "cursedEight",
+        "type": "ship"
     }
 }

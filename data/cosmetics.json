@@ -29782,5 +29782,45 @@
         "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "reefMud": {
+        "id": "reefMud",
+        "type": "hull",
+        "set": "cursedEight",
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "kelpAndWood": {
+        "id": "kelpAndWood",
+        "type": "sailsColor",
+        "set": "cursedEight",
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "predatorsFury": {
+        "id": "predatorsFury",
+        "type": "sailsEmblem",
+        "set": "cursedEight",
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "slithermark": {
+        "id": "slithermark",
+        "type": "sailsPattern",
+        "set": "cursedEight",
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

@@ -20639,6 +20639,30 @@
             "description": {
                 "general": "A promise written in silk and gold"
             }
+        },
+        "reefMud": {
+            "name": "Reef Mud",
+            "description": {
+                "general": "A touch of ink and seaweed forest"
+            }
+        },
+        "kelpAndWood": {
+            "name": "Kelp and Wood",
+            "description": {
+                "general": "May the souls of ancient beasts carry you far"
+            }
+        },
+        "predatorsFury": {
+            "name": "Predator's Fury",
+            "description": {
+                "general": "\"Hark! Something stirs beneath the waves!\""
+            }
+        },
+        "slithermark": {
+            "name": "Slithermark",
+            "description": {
+                "general": "A ghastly imprint, a herald of terror"
+            }
         }
     }
 }
