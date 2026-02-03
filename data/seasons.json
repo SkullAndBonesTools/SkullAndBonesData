@@ -52,7 +52,14 @@
         "index": 7,
         "id": "gutsAndGlory",
         "startDate": "2025-10-21",
-        "endDate": "2026-02-10",
+        "endDate": "2026-02-09",
         "color": "#FC2922"
+    },
+    "eyeOfTheBeast": {
+        "index": 8,
+        "id": "eyeOfTheBeast",
+        "startDate": "2026-02-10",
+        "endDate": "2026-05-18",
+        "color": "#0CAEA6"
     }
 }
