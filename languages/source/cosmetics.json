@@ -20489,6 +20489,60 @@
             "description": {
                 "general": "\"I've seen the monster, I swear!\""
             }
+        },
+        "leftToDie": {
+            "name": "Left to Die",
+            "description": {
+                "general": "Fashioned from the back-skin of betrayers"
+            }
+        },
+        "wrathwrap": {
+            "name": "Wrathwrap",
+            "description": {
+                "general": "May your anger never go unfelt"
+            }
+        },
+        "spectreOfVengeance": {
+            "name": "Spectre of Vengeance",
+            "description": {
+                "general": "\"You can run, you can hide, but you can't escape my style.\""
+            }
+        },
+        "seaRotten": {
+            "name": "Sea Rotten",
+            "description": {
+                "general": "Better dead than sailing with cowards"
+            }
+        },
+        "redTide": {
+            "name": "Red Tide",
+            "description": {
+                "general": "They took your ship but left you with a mean neck scarf"
+            }
+        },
+        "sadPants": {
+            "name": "Sad Pants",
+            "description": {
+                "general": "Made from a flour sack and ship rope. Perfect to wallow in."
+            }
+        },
+        "rippedSoles": {
+            "name": "Ripped Soles",
+            "description": {
+                "general": "The good thing is -- spite keeps you standing"
+            }
+        },
+        "frayedAndForsworn": {
+            "name": "Frayed and Forsworn",
+            "description": {
+                "general": "A deep neckline so you can get stabbed in the heart"
+            }
+        },
+        "betrayalsGleam": {
+            "name": "Betrayal's Gleam",
+            "description": {
+                "general": "Hard to hang what won't stay dead"
+            }
         }
     }
 }

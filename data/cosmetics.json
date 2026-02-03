@@ -29514,5 +29514,79 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "leftToDie": {
+        "id": "leftToDie",
+        "type": "waist",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "wrathwrap": {
+        "id": "wrathwrap",
+        "type": "forearm",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "spectreOfVengeance": {
+        "id": "spectreOfVengeance",
+        "type": "faceAccessory",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "seaRotten": {
+        "id": "seaRotten",
+        "type": "headwear",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "redTide": {
+        "id": "redTide",
+        "type": "neck",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "sadPants": {
+        "id": "sadPants",
+        "type": "bottom",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "rippedSoles": {
+        "id": "rippedSoles",
+        "type": "footwear",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "frayedAndForsworn": {
+        "id": "frayedAndForsworn",
+        "type": "torso",
+        "effect": "emissive",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "betrayalsGleam": {
+        "id": "betrayalsGleam",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "mutinysChild",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
