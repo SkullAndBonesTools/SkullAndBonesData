@@ -14,7 +14,7 @@
             "travelSail": 6
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 10000
         },
         "limit": 0,
@@ -44,7 +44,7 @@
             "travelSail": 12
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 40000
         },
         "required": {
@@ -91,7 +91,7 @@
             "travelSail": 10
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 92000
         },
         "required": {
@@ -142,7 +142,7 @@
             "travelSail": 13
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 52000
         },
         "required": {
@@ -189,7 +189,7 @@
             "travelSail": 12
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 60000
         },
         "required": {
@@ -240,7 +240,7 @@
             "travelSail": 12
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 80000
         },
         "required": {
@@ -288,7 +288,7 @@
             "travelSail": 14
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 140000
         },
         "required": {
@@ -343,7 +343,7 @@
             "travelSail": 13
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 160000
         },
         "required": {
@@ -398,7 +398,7 @@
             "travelSail": 18
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 90000
         },
         "required": {
@@ -454,7 +454,7 @@
             "travelSail": 14
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 140000
         },
         "required": {
@@ -511,7 +511,7 @@
             "travelSail": 15
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 72000
         },
         "required": {
@@ -568,7 +568,7 @@
             "travelSail": 17
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 140000
         },
         "required": {
@@ -625,7 +625,7 @@
             "travelSail": 14
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 140000
         },
         "required": {
@@ -681,7 +681,7 @@
             "travelSail": 14
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 90000
         },
         "required": {
@@ -737,7 +737,7 @@
             "travelSail": 14
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 100000
         },
         "required": {
@@ -793,7 +793,7 @@
             "travelSail": 16
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 160000
         },
         "required": {
@@ -852,7 +852,7 @@
             "travelSail": 18
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 90000
         },
         "required": {
@@ -909,7 +909,7 @@
             "travelSail": 19
         },
         "cargo": {
-            "cargoSlots": 50,
+            "cargoSlots": 100,
             "cargoMaxWeight": 140000
         },
         "required": {
