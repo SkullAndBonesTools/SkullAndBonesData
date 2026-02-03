@@ -21141,6 +21141,7 @@
         "id": "rainbowStar",
         "type": "firework",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "contract": "theExeterCollection",
         "obtainable": "contractReward",
         "dateAdded": "2025-02-18",
@@ -21151,6 +21152,7 @@
         "type": "pet",
         "contract": "aVictoryLap",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "obtainable": ["contractReward","buyingSilverLionsWithSovereigns"],
         "dateAdded": "2025-02-18",
         "lastUpdated": "2025-02-18"
@@ -21159,6 +21161,7 @@
         "id": "circleOfTrust",
         "type": "sailsEmblem",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "set": "illustriousFounding",
         "obtainable": "recoveredExeterChest",
         "dateAdded": "2025-02-18",
@@ -21168,6 +21171,7 @@
         "id": "rousedHearts",
         "type": "hull",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "set": "illustriousFounding",
         "obtainable": "recoveredExeterChest",
         "dateAdded": "2025-02-18",
@@ -21177,6 +21181,7 @@
         "id": "hopesMadeFlesh",
         "type": "sailsColor",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "set": "illustriousFounding",
         "obtainable": "recoveredExeterChest",
         "dateAdded": "2025-02-18",
@@ -21186,6 +21191,7 @@
         "id": "fortuneSurrounds",
         "type": "sailsPattern",
         "event": "theFounding",
+        "season": "shadowsOfTheDeep",
         "set": "illustriousFounding",
         "obtainable": "recoveredExeterChest",
         "dateAdded": "2025-02-18",
@@ -29598,7 +29604,8 @@
             "silverLions": 250
         },
         "event": "theFounding",
-        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29610,7 +29617,8 @@
             "silverLions": 250
         },
         "event": "theFounding",
-        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29623,7 +29631,8 @@
             "silverLions": 250
         },
         "event": "theFounding",
-        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29635,7 +29644,8 @@
             "silverLions": 250
         },
         "event": "theFounding",
-        "obtainable": "buyableWithSilverLionsAtTheFoundingChest",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     }
