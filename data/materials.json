@@ -14,7 +14,7 @@
         "faction": "theHelm"
     },
     "reapersToll": {
-        "rarity": "common",
+        "rarity": "epic",
         "category": "currency",
         "faction": "theUnhallowed",
         "event": "requiemOfTheLost"
@@ -31,7 +31,7 @@
         "event": "enterTheNian"
     },
     "silverLions": {
-        "rarity": "common",
+        "rarity": "epic",
         "category": "currency",
         "event": "theFounding"
     },
@@ -53,7 +53,7 @@
     },
     "gildmarks": {
         "rarity": "epic",
-        "category": "helm",
+        "category": "currency",
         "faction": "theHelm"
     },
     "units": {
@@ -75,7 +75,7 @@
         "category": "currency"
     },
     "bloodiedDoubloon": {
-        "rarity": "common",
+        "rarity": "epic",
         "category": "currency",
         "event": "theHonorless"
     },
