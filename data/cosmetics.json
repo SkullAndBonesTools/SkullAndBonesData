@@ -29441,5 +29441,78 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "lordOftheWake": {
+        "id": "lordOftheWake",
+        "type": "torso",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "huntHeeled": {
+        "id": "huntHeeled",
+        "type": "footwear",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "sandyBottoms": {
+        "id": "sandyBottoms",
+        "type": "bottom",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "heartOfTheBeast": {
+        "id": "heartOfTheBeast",
+        "type": "neck",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "aBehemothsDream": {
+        "id": "aBehemothsDream",
+        "type": "headwear",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "krakensKiss": {
+        "id": "krakensKiss",
+        "type": "faceAccessory",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "squidGrip": {
+        "id": "squidGrip",
+        "type": "forearm",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "tentacleTrinkets": {
+        "id": "tentacleTrinkets",
+        "type": "waist",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "inkGaze": {
+        "id": "inkGaze",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "cultOfTheKraken",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

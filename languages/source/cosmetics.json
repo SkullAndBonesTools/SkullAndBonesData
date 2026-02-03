@@ -20435,6 +20435,60 @@
             "description": {
                 "general": "\"Them suckers be feisty!\""
             }
+        },
+        "lordOftheWake": {
+            "name": "Lord of the Wake",
+            "description": {
+                "general": "A gorgeous cloak that blinds whoever dares to look"
+            }
+        },
+        "huntHeeled": {
+            "name": "Hunt-Heeled",
+            "description": {
+                "general": "The hunt never ends, just changes tides"
+            }
+        },
+        "sandyBottoms": {
+            "name": "Sandy Bottoms",
+            "description": {
+                "general": "\"Dust them off, will ya?\""
+            }
+        },
+        "heartOfTheBeast": {
+            "name": "Heart of the Beast",
+            "description": {
+                "general": "You too can be the Kraken's emotional support human"
+            }
+        },
+        "aBehemothsDream": {
+            "name": "A Behemoth's Dream",
+            "description": {
+                "general": "Swallowed by the depths and spat back out"
+            }
+        },
+        "krakensKiss": {
+            "name": "Kraken's Kiss",
+            "description": {
+                "general": "For those who enjoy getting the life sucked out of them"
+            }
+        },
+        "squidGrip": {
+            "name": "Squid Grip",
+            "description": {
+                "general": "Fashioned from pure Kraken hide"
+            }
+        },
+        "tentacleTrinkets": {
+            "name": "Tentacle Trinkets",
+            "description": {
+                "general": "Magic charms to lure the ol' beastie from the deep"
+            }
+        },
+        "inkGaze": {
+            "name": "Ink Gaze",
+            "description": {
+                "general": "\"I've seen the monster, I swear!\""
+            }
         }
     }
 }
