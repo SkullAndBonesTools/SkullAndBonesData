@@ -20297,6 +20297,60 @@
             "description": {
                 "general": "Midnight lacquer. A sheen like oil. Death wears a noble face."
             }
+        },
+        "forsakenOne": {
+            "name": "Forsaken One",
+            "description": {
+                "general": "Feels good to get stabbed in the back"
+            }
+        },
+        "rageAndRevenge": {
+            "name": "Rage and Revenge",
+            "description": {
+                "general": "To cover your old wounds"
+            }
+        },
+        "marooned": {
+            "name": "Marooned",
+            "description": {
+                "general": "\"Color me resentful...\""
+            }
+        },
+        "skeweredLoyalty": {
+            "name": "Skewered Loyalty",
+            "description": {
+                "general": "Tell the world of your betrayal"
+            }
+        },
+        "daggersInTheBack": {
+            "name": "Daggers in the Back",
+            "description": {
+                "general": "\"Can't even bloody spell coup d'état!\""
+            }
+        },
+        "leftForDead": {
+            "name": "Left for Dead",
+            "description": {
+                "general": "This is what happens when you don't feed your crew"
+            }
+        },
+        "skullyWullies": {
+            "name": "Skully Wullies",
+            "description": {
+                "general": "Held together by pure vengeance"
+            }
+        },
+        "guttedGlitter": {
+            "name": "Gutted Glitter",
+            "description": {
+                "general": "A painful (but sparkly) warning"
+            }
+        },
+        "ghostly": {
+            "name": "Ghostly",
+            "description": {
+                "general": "One eye, one paw and nice cursed lives"
+            }
         }
     }
 }

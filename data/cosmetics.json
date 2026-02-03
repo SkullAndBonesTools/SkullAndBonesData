@@ -29246,5 +29246,80 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "forsakenOne": {
+        "id": "forsakenOne",
+        "type": "nameplate",
+        "set": "mutinyMostFoul",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "rageAndRevenge": {
+        "id": "rageAndRevenge",
+        "type": "hull",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "marooned": {
+        "id": "marooned",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "skeweredLoyalty": {
+        "id": "skeweredLoyalty",
+        "type": "sailsEmblem",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "daggersInTheBack": {
+        "id": "daggersInTheBack",
+        "type": "sailsPattern",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "leftForDead": {
+        "id": "leftForDead",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "skullyWullies": {
+        "id": "skullyWullies",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "mutinyMostFoul",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "guttedGlitter": {
+        "id": "guttedGlitter",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "ghostly": {
+        "id": "ghostly",
+        "type": "pet",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
