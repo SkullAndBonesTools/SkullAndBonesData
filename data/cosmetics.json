@@ -29648,5 +29648,49 @@
         "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "milesTheMenace": {
+        "id": "milesTheMenace",
+        "type": "pet",
+        "season": "eyeOfTheBeast",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "crownOfBlades": {
+        "id": "crownOfBlades",
+        "type": "sailsEmblem",
+        "set": "jewelsOfTheSeas",
+        "season": "eyeOfTheBeast",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "bannerOfRenown": {
+        "id": "bannerOfRenown",
+        "type": "sailsPattern",
+        "set": "jewelsOfTheSeas",
+        "season": "eyeOfTheBeast",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "ironDominion": {
+        "id": "ironDominion",
+        "type": "hull",
+        "set": "jewelsOfTheSeas",
+        "season": "eyeOfTheBeast",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "stormsCrest": {
+        "id": "stormsCrest",
+        "type": "sailsColor",
+        "set": "jewelsOfTheSeas",
+        "season": "eyeOfTheBeast",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

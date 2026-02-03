@@ -1566,5 +1566,9 @@
     "gildedCoronation": {
         "id": "gildedCoronation",
         "type": "ship"
+    },
+    "jewelsOfTheSeas": {
+        "id": "jewelsOfTheSeas",
+        "type": "ship"
     }
 }

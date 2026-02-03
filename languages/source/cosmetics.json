@@ -20567,6 +20567,36 @@
             "description": {
                 "general": "Laurels won, swords crossed"
             }
+        },
+        "milesTheMenace": {
+            "name": "Miles the Menace",
+            "description": {
+                "general": "\"Yarrr! He always be stealing me nuts!\""
+            }
+        },
+        "crownOfBlades": {
+            "name": "Crown of Blades",
+            "description": {
+                "general": "Glory forged in blood, worn by those who conquer"
+            }
+        },
+        "bannerOfRenown": {
+            "name": "Banner of Renown",
+            "description": {
+                "general": "Stripes of power mark your place above all"
+            }
+        },
+        "ironDominion": {
+            "name": "Iron Dominion",
+            "description": {
+                "general": "The sea bends to steel and unyielding resolve"
+            }
+        },
+        "stormsCrest": {
+            "name": "Storm's Crest",
+            "description": {
+                "general": "Darkness unfurls, proclaiming your rule"
+            }
         }
     }
 }
