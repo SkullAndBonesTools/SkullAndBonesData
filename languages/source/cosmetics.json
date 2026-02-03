@@ -20393,6 +20393,48 @@
             "description": {
                 "general": "Like a green spectre in the night"
             }
+        },
+        "inkClouds": {
+            "name": "Ink Clouds",
+            "description": {
+                "general": "Stained with the guts of slain sea beasts"
+            }
+        },
+        "krakensMight": {
+            "name": "Kraken's Might",
+            "description": {
+                "general": "Cast your foes into the abyss"
+            }
+        },
+        "depthsworn": {
+            "name": "Depthsworn",
+            "description": {
+                "general": "Feared by all, forged in the deep"
+            }
+        },
+        "aBehemothsCall": {
+            "name": "A Behemoth's Call",
+            "description": {
+                "general": "A tentacled beacon of misery"
+            }
+        },
+        "lostAtSea": {
+            "name": "Lost at Sea",
+            "description": {
+                "general": "A touch of ink and blood"
+            }
+        },
+        "deadbeast": {
+            "name": "Deadbeast",
+            "description": {
+                "general": "For dark waters and darker hearts"
+            }
+        },
+        "slithersweet": {
+            "name": "Slithersweet",
+            "description": {
+                "general": "\"Them suckers be feisty!\""
+            }
         }
     }
 }

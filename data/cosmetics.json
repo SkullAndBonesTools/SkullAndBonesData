@@ -29382,5 +29382,63 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "inkClouds": {
+        "id": "inkClouds",
+        "type": "sailsPattern",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "krakensMight": {
+        "id": "krakensMight",
+        "type": "sailsEmblem",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "depthsworn": {
+        "id": "depthsworn",
+        "type": "nameplate",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "aBehemothsCall": {
+        "id": "aBehemothsCall",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "lostAtSea": {
+        "id": "lostAtSea",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "deadbeast": {
+        "id": "deadbeast",
+        "type": "hull",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "slithersweet": {
+        "id": "slithersweet",
+        "type": "ornaments",
+        "set": "theDrownedOnes",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
