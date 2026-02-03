@@ -890,5 +890,64 @@
         "perks": ["plaguebringer"],
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "corvette": {
+        "id": "corvette",
+        "size": "large",
+        "type": "ships",
+        "archetype": "support",
+        "blueprint": "smugglerPass45Reward",
+        "season": "eyeOfTheBeast",
+        "hitpoints": 80000,
+        "braceStrength": 16000,
+        "braceStrengthRecovery": 1,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 11,
+            "fullSail": 14,
+            "travelSail": 19
+        },
+        "cargo": {
+            "cargoSlots": 50,
+            "cargoMaxWeight": 140000
+        },
+        "required": {
+            "blackAriaShipPart": 7,
+            "whiteAriaShipPart": 7,
+            "xanthousStone": 7,
+            "deepIron": 10,
+            "hubacHeirloom": 4,
+            "xanthousGemstone": 4,
+            "eelSturdyRopes": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": [1,1],
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 4
+            }],
+            "leftSideWeapon": [1,{
+                "top": 7,
+                "lower": 7
+            }],
+            "rightSideWeapon": [1,{
+                "top": 7,
+                "lower": 7
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": [1,{
+                "top": 2
+            }],
+            "furniture": [5,1],
+            "ultimate": [1,1]
+        },
+        "perks": ["colossal","abundantGunports","flagbearer"],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

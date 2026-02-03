@@ -2961,6 +2961,16 @@
             "description": {
                 "general": "Hits have a 15% chance to inflict a delayed explosion dealing 2500 damage in a 65m radius after 4s. The chance increases by 15% with each additional target hit, limited to 5 targets at 75% chance"
             }
+        },
+        "flagbearer": {
+            "name": "Flagbearer",
+            "description": {
+                "general": [
+                    "For each successful shot on enemies or repair on allies, apply a stack of Flagbearer. On enemy targets, each stack increases the damage dealt to the target by 1% per stack, up to 20%. On allies, increases repair received by the target by 2.% per stack, up to 50%",
+                    "Allied XSML, SML and MED ships within 500m gain 5% increased damage and 5% repair amount",
+                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                ]
+            }
         }
     }
 }
