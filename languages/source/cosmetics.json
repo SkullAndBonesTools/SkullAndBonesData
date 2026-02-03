@@ -20267,6 +20267,12 @@
             "description": {
                 "general": "A name whispered by beasts and men"
             }
+        },
+        "hidePiercer": {
+            "name": "Hide Piercer",
+            "description": {
+                "general": "\"Looks like a hungry little fella, don't he?\""
+            }
         }
     }
 }
