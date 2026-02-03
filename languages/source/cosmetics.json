@@ -20351,6 +20351,48 @@
             "description": {
                 "general": "One eye, one paw and nice cursed lives"
             }
+        },
+        "wickedGreen": {
+            "name": "Wicked Green",
+            "description": {
+                "general": "For captains with infectious style"
+            }
+        },
+        "swampRot": {
+            "name": "Swamp Rot",
+            "description": {
+                "general": "Boggy and beautiful"
+            }
+        },
+        "spinOSin": {
+            "name": "Spin O' Sin",
+            "description": {
+                "general": "Goes round, squeals loud, smells worse"
+            }
+        },
+        "decayingDignity": {
+            "name": "Decaying Dignity",
+            "description": {
+                "general": "Being this rotten deserves a crest"
+            }
+        },
+        "seaMouldDeluxe": {
+            "name": "Sea Mould Deluxe",
+            "description": {
+                "general": "Stained with 100% organic fungus"
+            }
+        },
+        "greenwreck": {
+            "name": "Greenwreck",
+            "description": {
+                "general": "A lively shade of dead wood"
+            }
+        },
+        "emeraldFury": {
+            "name": "Emerald Fury",
+            "description": {
+                "general": "Like a green spectre in the night"
+            }
         }
     }
 }

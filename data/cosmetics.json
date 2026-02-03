@@ -29321,5 +29321,66 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "wickedGreen": {
+        "id": "wickedGreen",
+        "type": "shipSkin",
+        "pieces": ["figureHead","ornaments","nameplate"],
+        "effect": ["emissive","combatReactive"],
+        "ship": "frigate",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "swampRot": {
+        "id": "swampRot",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "spinOSin": {
+        "id": "spinOSin",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "decayingDignity": {
+        "id": "decayingDignity",
+        "type": "sailsEmblem",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "seaMouldDeluxe": {
+        "id": "seaMouldDeluxe",
+        "type": "sailsPattern",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "greenwreck": {
+        "id": "greenwreck",
+        "type": "hull",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "emeraldFury": {
+        "id": "emeraldFury",
+        "type": "armorSkin",
+        "set": "wickedGreen",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
