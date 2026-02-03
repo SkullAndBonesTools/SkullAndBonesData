@@ -29692,5 +29692,95 @@
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "captainFancyfoot": {
+        "id": "captainFancyfoot",
+        "type": "footwear",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "eveOfTheTides": {
+        "id": "eveOfTheTides",
+        "type": "torso",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "invisibleSandals": {
+        "id": "invisibleSandals",
+        "type": "footwear",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "daggered": {
+        "id": "daggered",
+        "type": "bottom",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "firstTemptation": {
+        "id": "firstTemptation",
+        "type": "neck",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "forbiddenPlume": {
+        "id": "forbiddenPlume",
+        "type": "headwear",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "covenant": {
+        "id": "covenant",
+        "type": "waist",
+        "set": "eveOfRetribution",
+        "required": {
+            "silverLions": 250
+        },
+        "event": "theFounding",
+        "season": "eyeOfTheBeast",
+        "obtainable": "purchasableWithSilverLionsAtTheFoundingChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

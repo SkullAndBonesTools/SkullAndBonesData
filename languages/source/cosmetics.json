@@ -20597,6 +20597,48 @@
             "description": {
                 "general": "Darkness unfurls, proclaiming your rule"
             }
+        },
+        "captainFancyfoot": {
+            "name": "Captain Fancyfoot",
+            "description": {
+                "general": "Because wood's for deckhands!"
+            }
+        },
+        "eveOfTheTides": {
+            "name": "Eve of the Tides",
+            "description": {
+                "general": "Never let the tides or your heart, fall first"
+            }
+        },
+        "invisibleSandals": {
+            "name": "Invisible Sandals",
+            "description": {
+                "general": "Be careful not to lose them"
+            }
+        },
+        "daggered": {
+            "name": "Daggered",
+            "description": {
+                "general": "\"There be sharp thingies in them pockets!\""
+            }
+        },
+        "firstTemptation": {
+            "name": "First Temptation",
+            "description": {
+                "general": "Gifted once, taken twice"
+            }
+        },
+        "forbiddenPlume": {
+            "name": "Forbidden Plume",
+            "description": {
+                "general": "Tilted just so, to disarm before the draw"
+            }
+        },
+        "covenant": {
+            "name": "Covenant",
+            "description": {
+                "general": "A promise written in silk and gold"
+            }
         }
     }
 }
