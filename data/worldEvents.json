@@ -350,5 +350,9 @@
         "id": "soleilImperial",
         "type": "warEvent",
         "faction": "compagnieRoyale"
+    },
+    "kraken": {
+        "id": "kraken",
+        "type": "seaMonster"
     }
 }
