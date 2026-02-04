@@ -29409,6 +29409,7 @@
     "depthsworn": {
         "id": "depthsworn",
         "type": "nameplate",
+        "effect": "emissive",
         "set": "theDrownedOnes",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
@@ -29443,6 +29444,7 @@
     "slithersweet": {
         "id": "slithersweet",
         "type": "ornaments",
+        "effect": "emissive",
         "set": "theDrownedOnes",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
@@ -29475,6 +29477,7 @@
     "heartOfTheBeast": {
         "id": "heartOfTheBeast",
         "type": "neck",
+        "effect": "emissive",
         "set": "cultOfTheKraken",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
@@ -29540,6 +29543,7 @@
     "spectreOfVengeance": {
         "id": "spectreOfVengeance",
         "type": "faceAccessory",
+        "effect": "emissive",
         "set": "mutinysChild",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
@@ -29548,6 +29552,7 @@
     "seaRotten": {
         "id": "seaRotten",
         "type": "headwear",
+        "effect": "emissive",
         "set": "mutinysChild",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-10",
