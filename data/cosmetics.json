@@ -30184,7 +30184,7 @@
     "trenchbound": {
         "id": "trenchbound",
         "type": "torso",
-        "effect": "emissive",
+        "effect": ["emissive","movementReactive"],
         "set": "sunkenWatchersPlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "premiumPass",
@@ -30212,7 +30212,7 @@
     "tricorneOfRuin": {
         "id": "tricorneOfRuin",
         "type": "headwear",
-        "effect": "emissive",
+        "effect": ["emissive","movementReactive"],
         "set": "sunkenWatchersPlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "premiumPass",
@@ -30250,7 +30250,7 @@
     "theDrownedCreed": {
         "id": "theDrownedCreed",
         "type": "bodyCosmetics",
-        "set": "theDrownedOnesPlayer",
+        "set": "sunkenWatchersPlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
