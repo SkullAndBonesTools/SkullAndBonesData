@@ -20795,6 +20795,48 @@
             "description": {
                 "general": "Pretty things to go down with"
             }
+        },
+        "griefmaiden": {
+            "name": "Griefmaiden",
+            "description": {
+                "general": "Please don't ask her to smile"
+            }
+        },
+        "gildlocked": {
+            "name": "Gildlocked",
+            "description": {
+                "general": "A mournful tome of romantic poetry"
+            }
+        },
+        "gloomwake": {
+            "name": "Gloomwake",
+            "description": {
+                "general": "A cursed share, just for you"
+            }
+        },
+        "velvetVeil": {
+            "name": "Velvet Veil",
+            "description": {
+                "general": "\"May you face nothing but loss and misery!\""
+            }
+        },
+        "lovelost": {
+            "name": "Lovelost",
+            "description": {
+                "general": "Embroidered with wrath"
+            }
+        },
+        "truthkeeper": {
+            "name": "Truthkeeper",
+            "description": {
+                "general": "For the double-crosser you truly are"
+            }
+        },
+        "eyesOfFury": {
+            "name": "Eyes of Fury",
+            "description": {
+                "general": "\"Look kindly upon her.\""
+            }
         }
     }
 }

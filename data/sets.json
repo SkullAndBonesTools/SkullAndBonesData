@@ -1590,5 +1590,9 @@
     "sunkenWatchers": {
         "id": "sunkenWatchers",
         "type": "ship"
+    },
+    "widowsEmbrace": {
+        "id": "widowsEmbrace",
+        "type": "ship"
     }
 }

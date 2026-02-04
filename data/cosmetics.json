@@ -30046,5 +30046,72 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "griefmaiden": {
+        "id": "griefmaiden",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "gildlocked": {
+        "id": "gildlocked",
+        "type": "tropy",
+        "effect": "emissive",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "gloomwake": {
+        "id": "gloomwake",
+        "type": "hull",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "velvetVeil": {
+        "id": "velvetVeil",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "lovelost": {
+        "id": "lovelost",
+        "type": "sailsPattern",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "truthkeeper": {
+        "id": "truthkeeper",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "eyesOfFury": {
+        "id": "eyesOfFury",
+        "type": "sailsEmblem",
+        "set": "widowsEmbrace",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
