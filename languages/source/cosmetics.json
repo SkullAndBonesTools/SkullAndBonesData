@@ -20837,6 +20837,48 @@
             "description": {
                 "general": "\"Look kindly upon her.\""
             }
+        },
+        "deadwake": {
+            "name": "Deadwake",
+            "description": {
+                "general": "Helmed by the dead, dredged by the hollowed"
+            }
+        },
+        "jaeger": {
+            "name": "Jaeger",
+            "description": {
+                "general": "The name whispered before the strike"
+            }
+        },
+        "hookmaw": {
+            "name": "Hookmaw",
+            "description": {
+                "general": "Grips the prow with steel and spite"
+            }
+        },
+        "boundlessTrail": {
+            "name": "Boundless Trail",
+            "description": {
+                "general": "Burnished steel, from the boundless chase"
+            }
+        },
+        "stalkweave": {
+            "name": "Stalkweave",
+            "description": {
+                "general": "Crimson cloth, marked by golden prey"
+            }
+        },
+        "spikemark": {
+            "name": "Spikemark",
+            "description": {
+                "general": "Hunt without mercy"
+            }
+        },
+        "jaegersPursuit": {
+            "name": "Jaeger's Pursuit",
+            "description": {
+                "general": "Draped in spoils, bound by the thrill of the hunt"
+            }
         }
     }
 }

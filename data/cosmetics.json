@@ -30113,5 +30113,72 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "deadwake": {
+        "id": "deadwake",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "jaeger": {
+        "id": "jaeger",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "hookmaw": {
+        "id": "hookmaw",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "boundlessTrail": {
+        "id": "boundlessTrail",
+        "type": "hull",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "stalkweave": {
+        "id": "stalkweave",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "spikemark": {
+        "id": "spikemark",
+        "type": "sailsEmblem",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "jaegersPursuit": {
+        "id": "jaegersPursuit",
+        "type": "sailsPattern",
+        "set": "jaegersPursuit",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
