@@ -20711,6 +20711,12 @@
             "description": {
                 "general": "Will tell your fortune in exchange for fishy treats"
             }
+        },
+        "opulentFanfare": {
+            "name": "Opulent Fanfare",
+            "description": {
+                "general": "Somestimes, you have to toot your own horn"
+            }
         }
     }
 }

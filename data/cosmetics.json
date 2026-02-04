@@ -29898,5 +29898,13 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "opulentFanfare": {
+        "id": "opulentFanfare",
+        "type": "firework",
+        "season": "eyeOfTheBeast",
+        "obtainable": "smugglerPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
