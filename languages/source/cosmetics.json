@@ -20981,6 +20981,60 @@
             "description": {
                 "general": "Each mark in remembrance of your kills"
             }
+        },
+        "keeperOfCoin": {
+            "name": "Keeper of Coin",
+            "description": {
+                "general": "Gold can either buy loyalty, or bury it"
+            }
+        },
+        "fortunesHold": {
+            "name": "Fortune's Hold",
+            "description": {
+                "general": "Valor and riches are but a grasp away"
+            }
+        },
+        "masterOfShadows": {
+            "name": "Master of Shadows",
+            "description": {
+                "general": "Soft whispers of a cursed past"
+            }
+        },
+        "boldBrass": {
+            "name": "Bold Brass",
+            "description": {
+                "general": "Twirl fate and foe around your finger"
+            }
+        },
+        "moonlitTricorne": {
+            "name": "Moonlit Tricorne",
+            "description": {
+                "general": "Memories of moonlight kills and ark water"
+            }
+        },
+        "silkTouch": {
+            "name": "Silk Touch",
+            "description": {
+                "general": "Even a rogue enjoys sophistication"
+            }
+        },
+        "quiltedStrides": {
+            "name": "Quilted Strides",
+            "description": {
+                "general": "A unique mix of quilted leather and gold filigree"
+            }
+        },
+        "gallantborn": {
+            "name": "Gallantborn",
+            "description": {
+                "general": "For fine steps across ballrooms and ship decks"
+            }
+        },
+        "theBaronOfBaroque": {
+            "name": "The Baron of Baroque",
+            "description": {
+                "general": "A truly opulent piece of clothing"
+            }
         }
     }
 }

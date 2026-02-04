@@ -1606,5 +1606,9 @@
     "mythicHowl": {
         "id": "mythicHowl",
         "type": "player"
+    },
+    "midnightMarquis": {
+        "id": "midnightMarquis",
+        "type": "player"
     }
 }
