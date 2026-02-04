@@ -29789,7 +29789,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "",
+        "obtainable": "foundingCelebratoryChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29799,7 +29799,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "",
+        "obtainable": "foundingCelebratoryChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29809,7 +29809,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "",
+        "obtainable": "foundingCelebratoryChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29819,7 +29819,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "",
+        "obtainable": "foundingCelebratoryChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     }

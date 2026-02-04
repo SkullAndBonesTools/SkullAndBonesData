@@ -15688,5 +15688,17 @@
         ],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "foundingCelebratoryChest": {
+        "id": "foundingCelebratoryChest",
+        "value": 1,
+        "weight": 100,
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "event": "theFounding",
+        "obtainable": "rewardForCompleting8EventChallenges",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

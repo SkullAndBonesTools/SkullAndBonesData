@@ -248,6 +248,7 @@
         "azureHarbingerReward": "Obtained when defeating the Azure Harbinger",
         "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}",
         "factionWarWinReward": "Reward for that faction to win the Faction War",
-        "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event"
+        "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event",
+        "rewardForCompleting8EventChallenges": "Reward for completing 8 Challenges of the Event"
     }
 }

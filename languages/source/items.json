@@ -2965,6 +2965,12 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "foundingCelebratoryChest": {
+            "name": "Founding Celebratory Chest",
+            "description": {
+                "general": "A chest to celebrate the challenges conquered during the Founding."
+            }
         }
     }
 }
