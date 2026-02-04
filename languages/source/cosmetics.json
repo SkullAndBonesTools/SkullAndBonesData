@@ -20879,6 +20879,54 @@
             "description": {
                 "general": "Draped in spoils, bound by the thrill of the hunt"
             }
+        },
+        "trenchbound": {
+            "name": "Trenchbound",
+            "description": {
+                "general": "A thrilling descent to the sea's darkest depths"
+            }
+        },
+        "wailingWaders": {
+            "name": "Wailing Waders",
+            "description": {
+                "general": "The weight of the deep clings to your heels"
+            }
+        },
+        "waterlogged": {
+            "name": "Waterlogged",
+            "description": {
+                "general": "Always remember where you last sank"
+            }
+        },
+        "tricorneOfRuin": {
+            "name": "Tricorne of Ruin",
+            "description": {
+                "general": "Never breaches the chaos above"
+            }
+        },
+        "seaweedsClasp": {
+            "name": "Seaweed's Clasp",
+            "description": {
+                "general": "Woven from study deep-sea plants"
+            }
+        },
+        "tidebinders": {
+            "name": "Tidebinders",
+            "description": {
+                "general": "Drag your foes into the abyss"
+            }
+        },
+        "watchersGaze": {
+            "name": "Watcher's Gaze",
+            "description": {
+                "general": "The abyss takes your sight, but gives you its gaze"
+            }
+        },
+        "theDrownedCreed": {
+            "name": "The Drowned Creed",
+            "description": {
+                "general": "The sea sings its own scripture"
+            }
         }
     }
 }

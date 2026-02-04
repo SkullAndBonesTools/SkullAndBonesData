@@ -1598,5 +1598,9 @@
     "jaegersPursuit": {
         "id": "jaegersPursuit",
         "type": "ship"
+    },
+    "sunkenWatchersPlayer": {
+        "id": "sunkenWatchersPlayer",
+        "type": "player"
     }
 }

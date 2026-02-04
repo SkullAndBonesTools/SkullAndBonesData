@@ -30180,5 +30180,80 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "trenchbound": {
+        "id": "trenchbound",
+        "type": "torso",
+        "effect": "emissive",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "wailingWaders": {
+        "id": "wailingWaders",
+        "type": "footwear",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "waterlogged": {
+        "id": "waterlogged",
+        "type": "bottom",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "tricorneOfRuin": {
+        "id": "tricorneOfRuin",
+        "type": "headwear",
+        "effect": "emissive",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "seaweedsClasp": {
+        "id": "seaweedsClasp",
+        "type": "forearm",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "tidebinders": {
+        "id": "tidebinders",
+        "type": "waist",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "watchersGaze": {
+        "id": "watchersGaze",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "sunkenWatchersPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "theDrownedCreed": {
+        "id": "theDrownedCreed",
+        "type": "bodyCosmetics",
+        "set": "theDrownedOnesPlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
