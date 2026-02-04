@@ -20741,6 +20741,60 @@
             "description": {
                 "general": "Jagged lines. A warning etched. Few live to read it."
             }
+        },
+        "barnaclesAndChains": {
+            "name": "Barnacles and Chains",
+            "description": {
+                "general": "Something to tip you off the edge"
+            }
+        },
+        "lastRestraint": {
+            "name": "Last Restraint",
+            "description": {
+                "general": "Held down for eternity"
+            }
+        },
+        "boundCurses": {
+            "name": "Bound Curses",
+            "description": {
+                "general": "\"Who says you can't glow while drowning?\""
+            }
+        },
+        "oneLastBreath": {
+            "name": "One Last Breath",
+            "description": {
+                "general": "Waterproof, even at the bottom of the ocean"
+            }
+        },
+        "moistSails": {
+            "name": "Moist Sails",
+            "description": {
+                "general": "Dyed in rotten seaweed"
+            }
+        },
+        "shipShackled": {
+            "name": "Ship Shackled",
+            "description": {
+                "general": "A chorus of chains"
+            }
+        },
+        "cryOfTheDeep": {
+            "name": "Cry of the Deep",
+            "description": {
+                "general": "For those who deserve the depths"
+            }
+        },
+        "sunkenFiend": {
+            "name": "Sunken Fiend",
+            "description": {
+                "general": "Truly, a fate well deserved"
+            }
+        },
+        "coralAndBone": {
+            "name": "Coral and Bone",
+            "description": {
+                "general": "Pretty things to go down with"
+            }
         }
     }
 }

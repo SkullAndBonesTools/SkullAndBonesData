@@ -29943,5 +29943,108 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "barnaclesAndChains": {
+        "id": "barnaclesAndChains",
+        "type": "figureHead",
+        "set": "sunkenWatchers",
+        "upgrades": ["lastRestraint","boundCurses"],
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "lastRestraint": {
+        "id": "lastRestraint",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "sunkenWatchers",
+        "basic": "barnaclesAndChains",
+        "upgrades": ["boundCurses"],
+        "season": "eyeOfTheBeast",
+        "required": {
+            "greenheartPlank": 7,
+            "phoenixPinion": 3,
+            "azureDragonHead": 3,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "boundCurses": {
+        "id": "boundCurses",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "set": "sunkenWatchers",
+        "basic": "barnaclesAndChains",
+        "season": "eyeOfTheBeast",
+        "required": {
+            "phoenixBeak": 5,
+            "azureDragonHead": 5,
+            "jadePhoenixStatue": 2,
+            "yellowDragonBanner": 2,
+            "artisansRefinementPack": 5
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "oneLastBreath": {
+        "id": "oneLastBreath",
+        "type": "hull",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "moistSails": {
+        "id": "moistSails",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "shipShackled": {
+        "id": "shipShackled",
+        "type": "sailsPattern",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "cryOfTheDeep": {
+        "id": "cryOfTheDeep",
+        "type": "sailsEmblem",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "sunkenFiend": {
+        "id": "sunkenFiend",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "coralAndBone": {
+        "id": "coralAndBone",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "sunkenWatchers",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
