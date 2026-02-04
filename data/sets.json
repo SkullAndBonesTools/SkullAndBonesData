@@ -1578,5 +1578,9 @@
     "cursedEight": {
         "id": "cursedEight",
         "type": "ship"
+    },
+    "krakenSlayer": {
+        "id": "krakenSlayer",
+        "type": "ship"
     }
 }

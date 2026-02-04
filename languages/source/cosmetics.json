@@ -20663,6 +20663,48 @@
             "description": {
                 "general": "A ghastly imprint, a herald of terror"
             }
+        },
+        "whatDwellsBeneath": {
+            "name": "What Dwells Beneath",
+            "description": {
+                "general": "Etchings to accompany you to the deep"
+            }
+        },
+        "anAncientsCall": {
+            "name": "An Ancient's Call",
+            "description": {
+                "general": "These enchanted tentacle bones occasionally stir to life"
+            }
+        },
+        "sacredHunter": {
+            "name": "Sacred Hunter",
+            "description": {
+                "general": "A hard-won title, respected by all"
+            }
+        },
+        "crackleclaw": {
+            "name": "Crackleclaw",
+            "description": {
+                "general": "Your First Mate thinks they're gnarly"
+            }
+        },
+        "tentacledTidings": {
+            "name": "Tentacled Tidings",
+            "description": {
+                "general": "Etchings to accompany you to the deep"
+            }
+        },
+        "murkyWaters": {
+            "name": "Murky Waters",
+            "description": {
+                "general": "The color of pure Kraken slime"
+            }
+        },
+        "aLegendsEnd": {
+            "name": "A Legend's End",
+            "description": {
+                "general": "Only a few live to bear the mark"
+            }
         }
     }
 }

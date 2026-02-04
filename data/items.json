@@ -15700,5 +15700,23 @@
         "obtainable": "rewardForCompleting8EventChallenges",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "krakenInkGlands": {
+        "id": "krakenInkGlands",
+        "season": "eyeOfTheBeast",
+        "worldEvent": "kraken",
+        "type": "quest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "krakenChest": {
+        "id": "krakenChest",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "worldEvent": "kraken",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

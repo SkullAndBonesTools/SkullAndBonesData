@@ -2971,6 +2971,18 @@
             "description": {
                 "general": "A chest to celebrate the challenges conquered during the Founding."
             }
+        },
+        "krakenInkGlands": {
+            "name": "Kraken Ink Glands",
+            "description": {
+                "general": "Toxic glands from the Kraken, filled with corrosive venom strong enough to burn through hull and and flesh"
+            }
+        },
+        "krakenChest": {
+            "name": "Mysterious Chest (Kraken)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
         }
     }
 }

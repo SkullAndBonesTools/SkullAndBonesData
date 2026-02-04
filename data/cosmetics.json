@@ -29822,5 +29822,68 @@
         "obtainable": "foundingCelebratoryChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "whatDwellsBeneath": {
+        "id": "whatDwellsBeneath",
+        "type": "hull",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "anAncientsCall": {
+        "id": "anAncientsCall",
+        "type": "sailsColor",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "sacredHunter": {
+        "id": "sacredHunter",
+        "type": "sailsEmblem",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "crackleclaw": {
+        "id": "crackleclaw",
+        "type": "sailsPattern",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "tentacledTidings": {
+        "id": "tentacledTidings",
+        "type": "sailsPattern",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "murkyWaters": {
+        "id": "murkyWaters",
+        "type": "sailsColor",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "aLegendsEnd": {
+        "id": "aLegendsEnd",
+        "type": "sailsEmblem",
+        "set": "krakenSlayer",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
