@@ -1602,5 +1602,9 @@
     "sunkenWatchersPlayer": {
         "id": "sunkenWatchersPlayer",
         "type": "player"
+    },
+    "mythicHowl": {
+        "id": "mythicHowl",
+        "type": "player"
     }
 }

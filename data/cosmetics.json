@@ -30255,5 +30255,86 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "huntersBindings": {
+        "id": "huntersBindings",
+        "type": "waist",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "bonebreakersVow": {
+        "id": "bonebreakersVow",
+        "type": "forearm",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "theBlindHunt": {
+        "id": "theBlindHunt",
+        "type": "faceAccessory",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "skinnersTricorne": {
+        "id": "skinnersTricorne",
+        "type": "headwear",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "fangOfDominion": {
+        "id": "fangOfDominion",
+        "type": "neck",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "trophyStriders": {
+        "id": "trophyStriders",
+        "type": "bottom",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "trackmarked": {
+        "id": "trackmarked",
+        "type": "footwear",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "warlordsHide": {
+        "id": "warlordsHide",
+        "type": "torso",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "savageScript": {
+        "id": "savageScript",
+        "type": "bodyCosmetics",
+        "set": "mythicHowl",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

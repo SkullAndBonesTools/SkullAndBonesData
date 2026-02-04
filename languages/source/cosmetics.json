@@ -20927,6 +20927,60 @@
             "description": {
                 "general": "The sea sings its own scripture"
             }
+        },
+        "huntersBindings": {
+            "name": "Hunter's Bindings",
+            "description": {
+                "general": "Ready to take down man or beast"
+            }
+        },
+        "bonebreakersVow": {
+            "name": "Bonebreaker's Vow",
+            "description": {
+                "general": "Worn tight, so nothing slips. Neither prey, nor nerve."
+            }
+        },
+        "theBlindHunt": {
+            "name": "The Blind Hunt",
+            "description": {
+                "general": "You don't need both eyes to see fear"
+            }
+        },
+        "skinnersTricorne": {
+            "name": "Skinner's Tricorne",
+            "description": {
+                "general": "Keeps the sun out and the stench in"
+            }
+        },
+        "fangOfDominion": {
+            "name": "Fang of Dominion",
+            "description": {
+                "general": "\"The sea made me a pirate. The wilds made their master.\""
+            }
+        },
+        "trophyStriders": {
+            "name": "Trophy Striders",
+            "description": {
+                "general": "Hide tough enough to outlast the hunt"
+            }
+        },
+        "trackmarked": {
+            "name": "Trackmarked",
+            "description": {
+                "general": "For silent steps across the trail"
+            }
+        },
+        "warlordsHide": {
+            "name": "Warlord's Hide",
+            "description": {
+                "general": "Layered in fur and leather -- warmth, armor, and warning alike"
+            }
+        },
+        "savageScript": {
+            "name": "Savage Script",
+            "description": {
+                "general": "Each mark in remembrance of your kills"
+            }
         }
     }
 }
