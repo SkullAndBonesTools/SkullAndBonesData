@@ -20705,6 +20705,12 @@
             "description": {
                 "general": "Only a few live to bear the mark"
             }
+        },
+        "bonyBill": {
+            "name": "Bony Bill",
+            "description": {
+                "general": "Will tell your fortune in exchange for fishy treats"
+            }
         }
     }
 }

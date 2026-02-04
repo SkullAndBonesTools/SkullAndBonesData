@@ -29890,5 +29890,13 @@
         "obtainable": "krakenChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "bonyBill": {
+        "id": "bonyBill",
+        "type": "pet",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
