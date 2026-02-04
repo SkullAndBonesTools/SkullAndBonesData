@@ -1,5 +1,5 @@
 export const CosmeticEffects = [
-    "emissive", "combatReactive", "killReactive", "bossKillReactive", "animated"
+    "emissive", "combatReactive", "killReactive", "bossKillReactive", "movementReactive", "animated"
 ] as const;
 export type CosmeticEffect = (typeof CosmeticEffects)[number];
 export const ShipCosmeticTypes = [
