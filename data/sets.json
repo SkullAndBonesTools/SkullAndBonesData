@@ -1582,5 +1582,9 @@
     "krakenSlayer": {
         "id": "krakenSlayer",
         "type": "ship"
+    },
+    "primordialTerror": {
+        "id": "primordialTerror",
+        "type": "ship"
     }
 }

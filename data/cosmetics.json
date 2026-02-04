@@ -29906,5 +29906,42 @@
         "obtainable": "smugglerPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "bleachedBone": {
+        "id": "bleachedBone",
+        "type": "hull",
+        "set": "primordialTerror",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "leviathansLure": {
+        "id": "leviathansLure",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "primordialTerror",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "anchorfang": {
+        "id": "anchorfang",
+        "type": "sailsEmblem",
+        "set": "primordialTerror",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "mawscript": {
+        "id": "mawscript",
+        "type": "sailsPattern",
+        "set": "primordialTerror",
+        "season": "eyeOfTheBeast",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

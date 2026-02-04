@@ -20717,6 +20717,30 @@
             "description": {
                 "general": "Somestimes, you have to toot your own horn"
             }
+        },
+        "bleachedBone": {
+            "name": "Bleached Bone",
+            "description": {
+                "general": "Salt-eaten. Pale as corpses in the deep."
+            }
+        },
+        "leviathansLure": {
+            "name": "Leviathan's Lure",
+            "description": {
+                "general": "Primordial. The ocean's lungs. Every breath carries dread."
+            }
+        },
+        "anchorfang": {
+            "name": "Anchorfang",
+            "description": {
+                "general": "Iron and tooth entwined. A symbol of dominion, or doom."
+            }
+        },
+        "mawscript": {
+            "name": "Mawscript",
+            "description": {
+                "general": "Jagged lines. A warning etched. Few live to read it."
+            }
         }
     }
 }
