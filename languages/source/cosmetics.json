@@ -21041,6 +21041,30 @@
             "description": {
                 "general": "\"Nice ta meet ya, Cully!\""
             }
+        },
+        "theChasmsCall": {
+            "name": "The Chasm's Call",
+            "description": {
+                "general": "Noble colors for a noble beast"
+            }
+        },
+        "amethystBrine": {
+            "name": "Amethyst Brine",
+            "description": {
+                "general": "Salty shades of purple"
+            }
+        },
+        "deathsHandEmblem": {
+            "name": "Death's Hand Emblem",
+            "description": {
+                "general": "A dangerous omen amongst the waves"
+            }
+        },
+        "suckerswirl": {
+            "name": "Suckerswirl",
+            "description": {
+                "general": "Twisted tentacles to surround your sails"
+            }
         }
     }
 }

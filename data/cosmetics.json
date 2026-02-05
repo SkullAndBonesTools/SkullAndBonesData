@@ -30416,5 +30416,42 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "theChasmsCall": {
+        "id": "theChasmsCall",
+        "type": "sailsColor",
+        "set": "oceansBrood",
+        "season": "eyeOfTheBeast",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "amethystBrine": {
+        "id": "amethystBrine",
+        "type": "hull",
+        "set": "oceansBrood",
+        "season": "eyeOfTheBeast",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "deathsHandEmblem": {
+        "id": "deathsHandEmblem",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "oceansBrood",
+        "season": "eyeOfTheBeast",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "suckerswirl": {
+        "id": "suckerswirl",
+        "type": "sailsPattern",
+        "set": "oceansBrood",
+        "season": "eyeOfTheBeast",
+        "obtainable": "williamBlackwoodSeasonalItem",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

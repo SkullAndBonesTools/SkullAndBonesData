@@ -1610,5 +1610,9 @@
     "midnightMarquis": {
         "id": "midnightMarquis",
         "type": "player"
+    },
+    "oceansBrood": {
+        "id": "oceansBrood",
+        "type": "ship"
     }
 }
