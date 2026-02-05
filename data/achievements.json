@@ -2,6 +2,7 @@
     "ballistaMastery1": {
         "id": "ballistaMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -10,6 +11,7 @@
     "ballistaMastery2": {
         "id": "ballistaMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -18,6 +20,7 @@
     "mortarMastery1": {
         "id": "mortarMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -26,6 +29,7 @@
     "mortarMastery2": {
         "id": "mortarMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -34,6 +38,7 @@
     "seaFireMastery1": {
         "id": "seaFireMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -42,6 +47,7 @@
     "seaFireMastery2": {
         "id": "seaFireMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -50,6 +56,7 @@
     "springloaderMastery1": {
         "id": "springloaderMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -58,6 +65,7 @@
     "springloaderMastery2": {
         "id": "springloaderMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -66,6 +74,7 @@
     "torpedoMastery1": {
         "id": "torpedoMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -74,6 +83,7 @@
     "torpedoMastery2": {
         "id": "torpedoMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -82,6 +92,7 @@
     "bombardMastery1": {
         "id": "bombardMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -90,6 +101,7 @@
     "bombardMastery2": {
         "id": "bombardMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -98,6 +110,7 @@
     "culverinMastery1": {
         "id": "culverinMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -106,6 +119,7 @@
     "culverinMastery2": {
         "id": "culverinMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -114,6 +128,7 @@
     "demicannonMastery1": {
         "id": "demicannonMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -122,6 +137,7 @@
     "demicannonMastery2": {
         "id": "demicannonMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -130,6 +146,7 @@
     "longGunMastery1": {
         "id": "longGunMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -138,6 +155,7 @@
     "longGunMastery2": {
         "id": "longGunMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -146,6 +164,7 @@
     "rocketMastery1": {
         "id": "rocketMastery1",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 1,
         "goal": 1000000,
         "dateAdded": "2025-05-18",
@@ -154,6 +173,7 @@
     "rocketMastery2": {
         "id": "rocketMastery2",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "tier": 2,
         "goal": 10000000,
         "dateAdded": "2025-05-18",
@@ -162,6 +182,7 @@
     "explosiveLongGunMastery": {
         "id": "explosiveLongGunMastery",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 500000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -169,6 +190,7 @@
     "unisonCulverinMastery": {
         "id": "unisonCulverinMastery",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 500000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -176,6 +198,7 @@
     "explosiveDemicannonMastery": {
         "id": "explosiveDemicannonMastery",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 1000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -183,6 +206,7 @@
     "weaponAscension": {
         "id": "weaponAscension",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -190,6 +214,7 @@
     "weaponModification": {
         "id": "weaponModification",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -197,6 +222,7 @@
     "burningBallistaMastery": {
         "id": "burningBallistaMastery",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 500000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -204,6 +230,7 @@
     "lightningBombardMastery": {
         "id": "lightningBombardMastery",
         "category": "mastery",
+        "season": "ascentIntoChaos",
         "goal": 500000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -212,6 +239,7 @@
         "id": "lumberjack1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 10000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -220,6 +248,7 @@
         "id": "lumberjack2",
         "tier": 2,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 50000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -228,6 +257,7 @@
         "id": "masterChef1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 10000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -236,6 +266,7 @@
         "id": "masterChef2",
         "tier": 2,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 50000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -244,6 +275,7 @@
         "id": "masterHarvester1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 10000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -252,6 +284,7 @@
         "id": "masterHarvester2",
         "tier": 2,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 50000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -260,6 +293,7 @@
         "id": "masterSmith1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 10000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -268,6 +302,7 @@
         "id": "masterSmith2",
         "tier": 2,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 50000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -276,6 +311,7 @@
         "id": "silversmith1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 1000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -284,6 +320,7 @@
         "id": "silversmith2",
         "tier": 2,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 10000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -292,6 +329,7 @@
         "id": "fortuneFinder1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 25,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -300,6 +338,7 @@
         "id": "keeperOfEights1",
         "tier": 1,
         "category": "enterprise",
+        "season": "ascentIntoChaos",
         "goal": 1000000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -307,6 +346,7 @@
     "plagueEnder": {
         "id": "plagueEnder",
         "category": "legends",
+        "season": "ascentIntoChaos",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -314,6 +354,7 @@
     "cursebreaker": {
         "id": "cursebreaker",
         "category": "legends",
+        "season": "ascentIntoChaos",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -321,6 +362,7 @@
     "redeemer": {
         "id": "redeemer",
         "category": "legends",
+        "season": "ascentIntoChaos",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -328,6 +370,7 @@
     "showstopper": {
         "id": "showstopper",
         "category": "legends",
+        "season": "ascentIntoChaos",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -335,6 +378,7 @@
     "unsighted": {
         "id": "unsighted",
         "category": "legends",
+        "season": "ascentIntoChaos",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -343,6 +387,7 @@
         "id": "plunderer1",
         "tier": 1,
         "category": "cooperative",
+        "season": "ascentIntoChaos",
         "goal": 50,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -351,6 +396,7 @@
         "id": "wolfpack1",
         "tier": 1,
         "category": "cooperative",
+        "season": "ascentIntoChaos",
         "goal": 1337,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -358,6 +404,7 @@
     "handOfJudgment": {
         "id": "handOfJudgment",
         "category": "seasonal",
+        "season": "ascentIntoChaos",
         "event": "theHonorless",
         "goal": 20,
         "dateAdded": "2025-05-18",
@@ -366,6 +413,7 @@
     "azureTidings": {
         "id": "azureTidings",
         "category": "seasonal",
+        "season": "ascentIntoChaos",
         "event": "azureSolstice",
         "goal": 50,
         "dateAdded": "2025-05-18",
@@ -374,6 +422,7 @@
     "claimToFame": {
         "id": "claimToFame",
         "category": "seasonal",
+        "season": "ascentIntoChaos",
         "goal": 200000,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2025-05-18"
@@ -381,6 +430,7 @@
     "enterTheNian": {
         "id": "enterTheNian",
         "category": "seasonal",
+        "season": "ascentIntoChaos",
         "event": "enterTheNian",
         "goal": 20,
         "dateAdded": "2025-05-18",
@@ -389,6 +439,7 @@
     "ghoulsBane": {
         "id": "ghoulsBane",
         "category": "seasonal",
+        "season": "ascentIntoChaos",
         "event": "requiemOfTheLost",
         "goal": 20,
         "dateAdded": "2025-05-18",
@@ -397,6 +448,7 @@
     "claimToFameY2S2": {
         "id": "claimToFameY2S2",
         "category": "seasonal",
+        "season": "oathsOfWar",
         "goal": 200000,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -404,6 +456,7 @@
     "darktideSurvivor": {
         "id": "darktideSurvivor",
         "category": "seasonal",
+        "season": "oathsOfWar",
         "event": "darktideLullaby",
         "goal": 20,
         "dateAdded": "2025-07-15",
@@ -412,6 +465,7 @@
     "moonshineRaider": {
         "id": "moonshineRaider",
         "category": "seasonal",
+        "season": "oathsOfWar",
         "event": "moonshineLarceny",
         "goal": 20,
         "dateAdded": "2025-07-15",
@@ -420,6 +474,7 @@
     "fleetMaster1": {
         "id": "fleetMaster1",
         "category": "enterprise",
+        "season": "oathsOfWar",
         "tier": 1,
         "goal": 5,
         "dateAdded": "2025-07-15",
@@ -428,6 +483,7 @@
     "stormSailor": {
         "id": "stormSailor",
         "category": "enterprise",
+        "season": "oathsOfWar",
         "goal": 300,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -435,6 +491,7 @@
     "colossalVessel": {
         "id": "colossalVessel",
         "category": "enterprise",
+        "season": "oathsOfWar",
         "goal": 1,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -442,6 +499,7 @@
     "pirateKnight": {
         "id": "pirateKnight",
         "category": "enterprise",
+        "season": "oathsOfWar",
         "goal": 10,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2025-07-15"
@@ -449,6 +507,7 @@
     "warlord1": {
         "id": "warlord1",
         "category": "factionWar",
+        "season": "gutsAndGlory",
         "tier": 1,
         "goal": 10000,
         "dateAdded": "2025-10-21",
@@ -457,6 +516,7 @@
     "warlord2": {
         "id": "warlord2",
         "category": "factionWar",
+        "season": "gutsAndGlory",
         "tier": 2,
         "goal": 20000,
         "dateAdded": "2025-10-21",
@@ -465,6 +525,7 @@
     "warlord3": {
         "id": "warlord3",
         "category": "factionWar",
+        "season": "gutsAndGlory",
         "tier": 3,
         "goal": 30000,
         "dateAdded": "2025-10-21",
@@ -473,6 +534,7 @@
     "hubacHunter": {
         "id": "hubacHunter",
         "category": "domains",
+        "season": "gutsAndGlory",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -480,6 +542,7 @@
     "laPesteHunter": {
         "id": "laPesteHunter",
         "category": "domains",
+        "season": "gutsAndGlory",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -487,6 +550,7 @@
     "liTianNingHunter": {
         "id": "liTianNingHunter",
         "category": "domains",
+        "season": "gutsAndGlory",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -494,6 +558,7 @@
     "vikramHunter": {
         "id": "vikramHunter",
         "category": "domains",
+        "season": "gutsAndGlory",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -501,6 +566,7 @@
     "dominator": {
         "id": "dominator",
         "category": "deathTides",
+        "season": "gutsAndGlory",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -508,6 +574,7 @@
     "doomsday": {
         "id": "doomsday",
         "category": "deathTides",
+        "season": "gutsAndGlory",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -515,6 +582,7 @@
     "pirateHunter": {
         "id": "pirateHunter",
         "category": "deathTides",
+        "season": "gutsAndGlory",
         "goal": 50,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -522,6 +590,7 @@
     "theMedic": {
         "id": "theMedic",
         "category": "deathTides",
+        "season": "gutsAndGlory",
         "goal": 5000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -529,6 +598,7 @@
     "claimToFameY2S3": {
         "id": "claimToFameY2S3",
         "category": "seasonal",
+        "season": "gutsAndGlory",
         "goal": 200000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -536,6 +606,7 @@
     "deadeye": {
         "id": "deadeye",
         "category": "seasonal",
+        "season": "gutsAndGlory",
         "event": "requiemOfTheLost",
         "goal": 1000000,
         "dateAdded": "2025-10-21",
@@ -545,6 +616,7 @@
         "id": "invader1",
         "category": "seasonal",
         "event": "requiemOfTheLost",
+        "season": "gutsAndGlory",
         "tier": 1,
         "goal": 10,
         "dateAdded": "2025-10-21",
@@ -553,6 +625,7 @@
     "epicFloodingGunMastery": {
         "id": "epicFloodingGunMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -560,6 +633,7 @@
     "epicPoisonCulverinMastery": {
         "id": "epicPoisonCulverinMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -567,6 +641,7 @@
     "epicPoisonSeaFireMastery": {
         "id": "epicPoisonSeaFireMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -574,6 +649,7 @@
     "epicPoisonTorpedoMastery": {
         "id": "epicPoisonTorpedoMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -581,6 +657,7 @@
     "genericBombardMastery": {
         "id": "genericBombardMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -588,6 +665,7 @@
     "lightningSeaFireMastery": {
         "id": "lightningSeaFireMastery",
         "category": "mastery",
+        "season": "gutsAndGlory",
         "goal": 500000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
@@ -595,6 +673,7 @@
     "invaderAzure": {
         "id": "invaderAzure",
         "category": "seasonal",
+        "season": "gutsAndGlory",
         "event": "azureSolstice",
         "tier": 2,
         "goal": 10,
@@ -604,6 +683,7 @@
     "bullsEye": {
         "id": "bullsEye",
         "category": "seasonal",
+        "season": "gutsAndGlory",
         "event": "azureSolstice",
         "goal": 1000000,
         "dateAdded": "2025-12-09",
