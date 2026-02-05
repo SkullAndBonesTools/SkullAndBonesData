@@ -347,6 +347,7 @@
         "id": "plagueEnder",
         "category": "legends",
         "season": "ascentIntoChaos",
+        "worldEvent": "thePlagueKing",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -355,6 +356,7 @@
         "id": "cursebreaker",
         "category": "legends",
         "season": "ascentIntoChaos",
+        "worldEvent": "theLoomingShadow",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -363,6 +365,7 @@
         "id": "redeemer",
         "category": "legends",
         "season": "ascentIntoChaos",
+        "worldEvent": "theGreatShadow",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -371,6 +374,7 @@
         "id": "showstopper",
         "category": "legends",
         "season": "ascentIntoChaos",
+        "worldEvent": "chorusOfHavoc",
         "goal": 5,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -406,6 +410,7 @@
         "category": "seasonal",
         "season": "ascentIntoChaos",
         "event": "theHonorless",
+        "worldEvent": ["theHonorlessMizerja","theHonorlessDianSinaga","theHonorlessAhPak"],
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -441,6 +446,7 @@
         "category": "seasonal",
         "season": "ascentIntoChaos",
         "event": "requiemOfTheLost",
+        "worldEvent": "reaperOfTheLost",
         "goal": 20,
         "dateAdded": "2025-05-18",
         "lastUpdated": "2026-02-05"
@@ -458,6 +464,7 @@
         "category": "seasonal",
         "season": "oathsOfWar",
         "event": "darktideLullaby",
+        "worldEvent": "theWeepingMother",
         "goal": 20,
         "dateAdded": "2025-07-15",
         "lastUpdated": "2026-02-05"
@@ -508,6 +515,7 @@
         "id": "warlord1",
         "category": "factionWar",
         "season": "gutsAndGlory",
+        "worldEvent": ["warCargo","warConvoy","opstuwing","soleilImperial"],
         "tier": 1,
         "goal": 10000,
         "dateAdded": "2025-10-21",
@@ -517,6 +525,7 @@
         "id": "warlord2",
         "category": "factionWar",
         "season": "gutsAndGlory",
+        "worldEvent": ["warCargo","warConvoy","opstuwing","soleilImperial"],
         "tier": 2,
         "goal": 20000,
         "dateAdded": "2025-10-21",
@@ -526,6 +535,7 @@
         "id": "warlord3",
         "category": "factionWar",
         "season": "gutsAndGlory",
+        "worldEvent": ["warCargo","warConvoy","opstuwing","soleilImperial"],
         "tier": 3,
         "goal": 30000,
         "dateAdded": "2025-10-21",
@@ -608,6 +618,7 @@
         "category": "seasonal",
         "season": "gutsAndGlory",
         "event": "requiemOfTheLost",
+        "worldEvent": "reapItAndWeep",
         "goal": 1000000,
         "dateAdded": "2025-10-21",
         "lastUpdated": "2026-02-05"
@@ -617,6 +628,7 @@
         "category": "seasonal",
         "event": "requiemOfTheLost",
         "season": "gutsAndGlory",
+        "worldEvent": "reapItAndWeep",
         "tier": 1,
         "goal": 10,
         "dateAdded": "2025-10-21",
@@ -675,6 +687,7 @@
         "category": "seasonal",
         "season": "gutsAndGlory",
         "event": "azureSolstice",
+        "worldEvent": "azureHarbinger",
         "tier": 2,
         "goal": 10,
         "dateAdded": "2025-12-09",
@@ -685,6 +698,7 @@
         "category": "seasonal",
         "season": "gutsAndGlory",
         "event": "azureSolstice",
+        "worldEvent": "theAzureRoyale",
         "goal": 1000000,
         "dateAdded": "2025-12-09",
         "lastUpdated": "2026-02-05"
