@@ -48,10 +48,10 @@
             "cargoMaxWeight": 40000
         },
         "required": {
-            "silver": 360,
-            "jute": 20,
-            "acacia": 10,
-            "bogIron": 8
+            "silver": 1080,
+            "castIronIngot": 6,
+            "acaciaPlank": 6,
+            "fineJute": 12
         },
         "slots": {
             "attachement": [1,1],
@@ -71,7 +71,7 @@
         },
         "perks": ["lancer"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "hulk": {
         "id": "hulk",
@@ -96,9 +96,9 @@
         },
         "required": {
             "silver": 1080,
-            "fineJute": 12,
-            "bronzeIngot": 6,
-            "irokoPlank": 6
+            "jute": 20,
+            "acacia": 10,
+            "bogIron": 8
         },
         "slots": {
             "attachement": [1,1],
@@ -121,7 +121,7 @@
         },
         "perks": ["ironclad"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "cutter": {
         "id": "cutter",
@@ -147,8 +147,8 @@
         },
         "required": {
             "silver": 1080,
-            "bronzeIngot": 6,
-            "irokoPlank": 6,
+            "castIronIngot": 6,
+            "acaciaPlank": 6,
             "fineJute": 12
         },
         "slots": {
@@ -169,7 +169,7 @@
         },
         "perks": ["unburden"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "barge": {
         "id": "barge",
@@ -195,9 +195,9 @@
         "required": {
             "silver": 2700,
             "fineHemp": 8,
-            "mopanePlank": 8,
+            "teakPlank": 8,
             "cobaltIngot": 4,
-            "fineLinen": 4
+            "fineJute": 4
         },
         "slots": {
             "attachement": [1,1],
@@ -220,7 +220,7 @@
         },
         "perks": ["wildfire"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "sloop": {
         "id": "sloop",
@@ -247,8 +247,7 @@
             "silver": 2700,
             "cobaltIngot": 8,
             "fineHemp": 8,
-            "castingSand": 4,
-            "lime": 4
+            "castingSand": 6
         },
         "slots": {
             "attachement": [1,1],
@@ -268,7 +267,7 @@
         },
         "perks": ["outburst"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "padewakang": {
         "id": "padewakang",
@@ -293,10 +292,10 @@
         },
         "required": {
             "silver": 2880,
-            "ironwoodPlank": 18,
-            "steelIngot": 15,
-            "fineRamie": 15,
-            "shellac": 4,
+            "teakPlank": 18,
+            "cobaltIngot": 15,
+            "fineHemp": 15,
+            "castingSand": 4,
             "crudeSaltpeter": 4
         },
         "slots": {
@@ -323,7 +322,7 @@
         },
         "perks": ["detonate"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "snow": {
         "id": "snow",
@@ -347,14 +346,11 @@
             "cargoMaxWeight": 160000
         },
         "required": {
-            "silver": 57660,
-            "juniperPlank": 12,
-            "zincIngot": 12,
-            "fineAbaka": 12,
-            "ironwoodPlank": 13,
-            "steelIngot": 12,
-            "sheetGlass": 2,
-            "screwMechanism": 2
+            "silver": 5760,
+            "juniperPlank": 15,
+            "zincIngot": 15,
+            "fineAbaka": 15,
+            "screwMechanism": 4
         },
         "slots": {
             "attachement": [1,1],
@@ -378,7 +374,7 @@
         },
         "perks": ["tenacity"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "brigantine": {
         "id": "brigantine",
@@ -406,9 +402,8 @@
             "roselleCloth": 14,
             "greenheartPlank": 13,
             "magnetiteIngot": 12,
-            "shellac": 4,
-            "crudeSaltpeter": 4,
-            "sheetGlass": 2,
+            "crudeSaltpeter": 6,
+            "screwMechanism": 2,
             "torsionSpring": 2
         },
         "slots": {
@@ -434,7 +429,7 @@
         },
         "perks": ["bullhorn"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "sambuk": {
         "id": "sambuk",
@@ -462,8 +457,7 @@
             "greenheartPlank": 15,
             "magnetiteIngot": 15,
             "roselleCloth": 12,
-            "woodTar": 4,
-            "cogwheel": 4,
+            "cogwheel": 6,
             "torsionSpring": 2,
             "eelsTwine": 2
         },
@@ -491,7 +485,7 @@
         },
         "perks": ["scorched"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "barque": {
         "id": "barque",
@@ -574,8 +568,8 @@
         "required": {
             "magnetiteIngot": 14,
             "roselleCloth": 14,
-            "shellac": 6,
-            "lime": 6,
+            "crudeSaltpeter": 6,
+            "castingSand": 6,
             "torsionSpring": 2,
             "precisionDrillingBit": 2,
             "eelsTwine": 1,
@@ -605,7 +599,7 @@
         },
         "perks": ["artificer"],
         "dateAdded": "2024-05-28",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "battleJunk": {
         "id": "battleJunk",
@@ -629,7 +623,7 @@
             "cargoMaxWeight": 140000
         },
         "required": {
-            "quicklime": 5,
+            "dryCastingSand": 5,
             "planetaryGearset": 5,
             "purifiedSaltpeter": 5,
             "wormDrive": 5,
@@ -661,7 +655,7 @@
         },
         "perks": ["provoke"],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "garuda": {
         "id": "garuda",
@@ -687,7 +681,7 @@
         "required": {
             "greenheartPlank": 8,
             "wormDrive": 6,
-            "woodPitch": 6,
+            "planetaryGearset": 6,
             "naphtha": 4,
             "rubber": 4,
             "orcasMechanism": 2,
@@ -717,7 +711,7 @@
         },
         "perks": ["deadeye"],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "schooner": {
         "id": "schooner",
@@ -744,7 +738,7 @@
             "greenheartPlank": 6,
             "roselleCloth": 6,
             "purifiedSaltpeter": 2,
-            "woodPitch": 2,
+            "planetaryGearset": 2,
             "naphtha": 4,
             "sinewString": 4,
             "eelsTwine": 5,
@@ -773,7 +767,7 @@
         },
         "perks": ["fury"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "frigate": {
         "id": "frigate",
