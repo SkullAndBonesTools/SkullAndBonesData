@@ -29794,7 +29794,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "foundingCelebratoryChest",
+        "obtainable": ["foundingCelebratoryChest","williamBlackwoodSeasonalItem"],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29804,7 +29804,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "foundingCelebratoryChest",
+        "obtainable": ["foundingCelebratoryChest","williamBlackwoodSeasonalItem"],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29814,7 +29814,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "foundingCelebratoryChest",
+        "obtainable": ["foundingCelebratoryChest","williamBlackwoodSeasonalItem"],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -29824,7 +29824,7 @@
         "set": "cursedEight",
         "event": "theFounding",
         "season": "eyeOfTheBeast",
-        "obtainable": "foundingCelebratoryChest",
+        "obtainable": ["foundingCelebratoryChest","williamBlackwoodSeasonalItem"],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -30406,6 +30406,14 @@
         "type": "torso",
         "season": "midnightMarquis",
         "obtainable": "premiumPass",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "ahoy": {
+        "id": "ahoy",
+        "type": "firework",
+        "season": "eyeOfTheBeast",
+        "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     }

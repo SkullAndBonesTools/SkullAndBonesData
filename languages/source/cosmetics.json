@@ -21035,6 +21035,12 @@
             "description": {
                 "general": "A truly opulent piece of clothing"
             }
+        },
+        "ahoy": {
+            "name": "Ahoy!",
+            "description": {
+                "general": "\"Nice ta meet ya, Cully!\""
+            }
         }
     }
 }
