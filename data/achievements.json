@@ -706,6 +706,8 @@
     "krakenKiller": {
         "id": "krakenKiller",
         "category": "legends",
+        "season": "eyeOfTheBeast",
+        "worldEvent": "kraken",
         "goal": 10,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -713,6 +715,7 @@
     "claimToFameY2S4": {
         "id": "claimToFameY2S4",
         "category": "seasonal",
+        "season": "eyeOfTheBeast",
         "goal": 200000,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -720,6 +723,7 @@
     "banisher": {
         "id": "banisher",
         "category": "seasonal",
+        "season": "eyeOfTheBeast",
         "goal": 10,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -727,6 +731,7 @@
     "tarnisher": {
         "id": "tarnisher",
         "category": "seasonal",
+        "season": "eyeOfTheBeast",
         "goal": 1000000,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
