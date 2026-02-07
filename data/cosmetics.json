@@ -30114,8 +30114,8 @@
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
-    "deadwake": {
-        "id": "deadwake",
+    "deadwakeWheel": {
+        "id": "deadwakeWheel",
         "type": "wheel",
         "effect": "emissive",
         "set": "jaegersPursuit",
