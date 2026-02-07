@@ -29839,7 +29839,7 @@
     },
     "anAncientsCall": {
         "id": "anAncientsCall",
-        "type": "sailsColor",
+        "type": "figureHead",
         "set": "krakenSlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "krakenChest",
@@ -29848,7 +29848,7 @@
     },
     "sacredHunter": {
         "id": "sacredHunter",
-        "type": "sailsEmblem",
+        "type": "nameplate",
         "set": "krakenSlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "krakenChest",
@@ -29857,7 +29857,7 @@
     },
     "crackleclaw": {
         "id": "crackleclaw",
-        "type": "sailsPattern",
+        "type": "ornaments",
         "set": "krakenSlayer",
         "season": "eyeOfTheBeast",
         "obtainable": "krakenChest",
