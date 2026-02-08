@@ -21095,6 +21095,30 @@
             "description": {
                 "general": "Gilded in royal filigree"
             }
+        },
+        "lionsRoar": {
+            "name": "Lion's Roar",
+            "description": {
+                "general": "A show of might, a true king of the seas"
+            }
+        },
+        "flameWind": {
+            "name": "Flame Wind",
+            "description": {
+                "general": "Set the skies afire"
+            }
+        },
+        "zwartGoud": {
+            "name": "Zwart Goud",
+            "description": {
+                "general": "Brace the waves in black and gold"
+            }
+        },
+        "helmBanier": {
+            "name": "Helm Banier",
+            "description": {
+                "general": "A daring display of Dutch power"
+            }
         }
     }
 }

@@ -30501,5 +30501,46 @@
         "faction": "compagnieRoyale",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "lionsRoar": {
+        "id": "lionsRoar",
+        "type": "sailsEmblem",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory1",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "flameWind": {
+        "id": "flameWind",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory4",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "zwartGoud": {
+        "id": "zwartGoud",
+        "type": "hull",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory7",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "helmBanier": {
+        "id": "helmBanier",
+        "type": "sailsPattern",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory11",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
