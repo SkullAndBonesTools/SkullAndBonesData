@@ -30460,5 +30460,46 @@
         "obtainable": "williamBlackwoodStore",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "hauteMagnifique": {
+        "id": "hauteMagnifique",
+        "type": "sailsEmblem",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory1",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "cobaltCorsair": {
+        "id": "cobaltCorsair",
+        "type": "sailsColor",
+        "set": "",
+        "effect": "emissive",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory4",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "crownmetal": {
+        "id": "crownmetal",
+        "type": "hull",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory7",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "nobleflame": {
+        "id": "nobleflame",
+        "type": "sailsPattern",
+        "set": "",
+        "season": "eyeOfTheBeast",
+        "obtainable": "factionWarRewardWonTerritory11",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

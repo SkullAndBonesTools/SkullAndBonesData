@@ -21071,6 +21071,30 @@
             "description": {
                 "general": "Solid under pressure, just like its owner"
             }
+        },
+        "hauteMagnifique": {
+            "name": "Haute Magnifique",
+            "description": {
+                "general": "\"Ooh, fancy symbol, that!\""
+            }
+        },
+        "cobaltCorsair": {
+            "name": "Cobalt Corsair",
+            "description": {
+                "general": "For sails that catch wind and glory"
+            }
+        },
+        "crownmetal": {
+            "name": "Crownmetal",
+            "description": {
+                "general": "Tempered and burnished for war"
+            }
+        },
+        "nobleflame": {
+            "name": "Nobleflame",
+            "description": {
+                "general": "Gilded in royal filigree"
+            }
         }
     }
 }
