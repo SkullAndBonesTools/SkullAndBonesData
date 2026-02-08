@@ -10983,6 +10983,7 @@
         "type": "mortar",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "value": 1,
         "weight": 1000,
@@ -10994,7 +10995,14 @@
         "optimalRange": 600,
         "timeToTarget": 5750,
         "blastRadius": 50,
-        "required": {},
+        "required": {
+            "lightningDragonScale": 6,
+            "lightningDragonClaw": 6,
+            "rubber": 4,
+            "jadePhoenixStatue": 4,
+            "wyrmVolatileNapalm": 2,
+            "silver": 4290
+        },
         "perks": [
             "tempest",
             "blast",
@@ -11002,7 +11010,7 @@
             "noDefaultCrit"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2026-02-10"
     },
     "blightkeeper": {
         "id": "blightkeeper",
@@ -11109,6 +11117,7 @@
         "id": "tanashah",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "type": "armor",
         "value": 1,
@@ -11124,13 +11133,20 @@
             "electric": 0.1,
             "toxic": 0.1
         },
-        "required": {},
+        "required": {
+            "greenheartPlank": 10,
+            "phoenixPinion": 4,
+            "azureDragonHead": 4,
+            "wormDrive": 6,
+            "orcaIntricateApparatus": 2,
+            "silver": 3800
+        },
         "perks": [
             "darkMeditation",
             "reinforced"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-10"
     },
     "painPiper": {
         "id": "painPiper",
@@ -11213,13 +11229,21 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "greenheartPlank": 16,
+            "planetaryGearset": 12,
+            "torsionSpring": 7,
+            "orcaIntricateApparatus": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 5760
+        },
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
         "perks": [
             "teulingsGuidance"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-17"
+        "lastUpdated": "2026-02-10"
     },
     "strangeElixir": {
         "id": "strangeElixir",
@@ -11510,6 +11534,7 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","teulingsWeaponChest1","williamBlackwoodRotatingStore"],
         "value": 1,
         "weight": 500,
@@ -11520,7 +11545,14 @@
         "reloadSpeed": 4500,
         "optimalRange": 675,
         "projectileSpeed": 75,
-        "required": {},
+        "required": {
+            "planetaryGearset": 7,
+            "wormDrive": 7,
+            "precisionDrillingBit": 4,
+            "torsionSpring": 4,
+            "orcaIntricateApparatus": 2,
+            "silver": 3960
+        },
         "perks": [
             "sunder",
             "arming",
@@ -11528,7 +11560,7 @@
             "flooding2"
         ],
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2025-08-23"
+        "lastUpdated": "2026-02-10"
     },
     "rumFruitcake": {
         "id": "rumFruitcake",
