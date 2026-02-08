@@ -30453,5 +30453,12 @@
         "obtainable": "williamBlackwoodSeasonalItem",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "hardfoot": {
+        "id": "hardfoot",
+        "type": "footwear",
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

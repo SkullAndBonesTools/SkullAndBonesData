@@ -21065,6 +21065,12 @@
             "description": {
                 "general": "Twisted tentacles to surround your sails"
             }
+        },
+        "hardfoot": {
+            "name": "Hardfoot",
+            "description": {
+                "general": "Solid under pressure, just like its owner"
+            }
         }
     }
 }
