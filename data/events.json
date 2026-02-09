@@ -42,5 +42,9 @@
     "moonshineLarceny": {
         "id": "moonshineLarceny",
         "seasons": ["oathsOfWar"]
+    },
+    "legendOfTheNian": {
+        "id": "legendOfTheNian",
+        "seasons": ["eyeOfTheBeast"]
     }
 }
