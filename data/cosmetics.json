@@ -30059,7 +30059,7 @@
     },
     "gildlocked": {
         "id": "gildlocked",
-        "type": "tropy",
+        "type": "trophy",
         "effect": "emissive",
         "set": "widowsEmbrace",
         "season": "eyeOfTheBeast",
