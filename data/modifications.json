@@ -1083,7 +1083,7 @@
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [113, 188]
+                "range": [38, 63]
             }
         ],
         "effectType": "extraElementalDamage",
