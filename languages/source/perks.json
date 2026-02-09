@@ -3037,6 +3037,57 @@
                     "Activating and maintaining Bracing consumes 50% more Crew Stamina"
                 ]
             }
+        },
+        "invertedFlagRack": {
+            "description": {
+                "general": [
+                    "Deals 14% more weapon damage on Taunted targets",
+                    "Increases duration of the Taunted status effect on a target by 15%"
+                ]
+            }
+        },
+        "apothecaryToolBench": {
+            "description": {
+                "general": [
+                    "While at full sails or trimming, reduces the duration of Poisened status effect by 50%",
+                    "Reduces incoming Toxic Damage by 16%"
+                ]
+            }
+        },
+        "anatomyCabinet": {
+            "description": {
+                "general": [
+                    "Reduces damage done to Brace Strength by Sea Monster attacks by 18%",
+                    "Reduces damaging Status Effect and Curse Mark duration by 10%"
+                ]
+            }
+        },
+        "blubberWorks": {
+            "description": {
+                "general": [
+                    "After 4 consecutive hits on a Sea Monster, reduces Reload Time of Broadside Weapons by 15% for 20s. Missing a shot resets the counter",
+                    "Consecutive hits on Sea Monster weakpoints deal 10% more Secondary Damage up to 40% for 5s",
+                    "Increases weapon damage to Sea Monster by 10%"
+                ]
+            }
+        },
+        "drowningCabinet": {
+            "description": {
+                "general": [
+                    "When dealing damage to a target with reduced Max Hull Health, Flooding Weapons deals 15% more weapon damage for 20s with a cooldown of 60s",
+                    "Flooded status effect applied to targets within 250m have a 12% increased duration",
+                    "Reduces Reload Time of Flooding Weapons by 10%"
+                ]
+            }
+        },
+        "ballistaMountSmithy": {
+            "description": {
+                "general": [
+                    "Dealing 2000 damage with a Ballista Weapon to a target marks them for 20s. While Marked, target receives 12% more damage from Ballista Weapons and more Secondary Damage from all sources",
+                    "Reduces Charge Time of Ballista Weapons by 18%",
+                    "Increases Weakpoint Damage of Ballista Weapons by 14%"
+                ]
+            }
         }
     }
 }

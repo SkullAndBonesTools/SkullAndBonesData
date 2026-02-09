@@ -15774,5 +15774,99 @@
         ],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "invertedFlagRack": {
+        "id": "invertedFlagRack",
+        "type": "offensiveFurniture",
+        "rarity": "rare",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 80,
+        "gearScore": 20,
+        "required": {},
+        "obtainable": "smugglerPass",
+        "perks": [
+            "invertedFlagRack"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "apothecaryToolBench": {
+        "id": "apothecaryToolBench",
+        "type": "utilityFurniture",
+        "rarity": "rare",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 80,
+        "gearScore": 20,
+        "required": {},
+        "event": "legendOfTheNian",
+        "obtainable": "idolOfTheBeastStatue",
+        "perks": [
+            "apothecaryToolBench"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "anatomyCabinet": {
+        "id": "anatomyCabinet",
+        "type": "utilityFurniture",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 80,
+        "gearScore": 25,
+        "required": {},
+        "obtainable": "factionWarEffortReward",
+        "perks": [
+            "anatomyCabinet"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "blubberWorks": {
+        "id": "blubberWorks",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "smugglerPass",
+        "perks": [
+            "blubberWorks"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "drowningCabinet": {
+        "id": "drowningCabinet",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "factionWarEffortReward",
+        "perks": [
+            "drowningCabinet"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "ballistaMountSmithy": {
+        "id": "ballistaMountSmithy",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
+        "perks": [
+            "ballistaMountSmithy"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

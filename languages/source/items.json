@@ -3001,6 +3001,42 @@
             "description": {
                 "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
             }
+        },
+        "invertedFlagRack": {
+            "name": "Inverted Flag Rack",
+            "description": {
+                "general": "Increases Weapon Damage to Taunted targets. Sends a clear message to any foes who approach: \"Your flag has fallen. You're next.\""
+            }
+        },
+        "apothecaryToolBench": {
+            "name": "Apothecary Tool Bench",
+            "description": {
+                "general": "Enhances defense against the Poisened Status Effect while the ship is sailing. Assembled by a Rempah herbalist. Contains antidotes for jellyfish stings and fermented seaweed poisoning."
+            }
+        },
+        "anatomyCabinet": {
+            "name": "Anatomy Cabinet",
+            "description": {
+                "general": "Enhances Brace Strength against Sea Monster attacks. Some swear the knowledge within has saved many from the jaws of death."
+            }
+        },
+        "blubberWorks": {
+            "name": "Blubber Works",
+            "description": {
+                "general": "Reduces Reload Time of broadside weapons after dealing damage to Sea Monsters. The Sea People believe the essence of a creature can be used to influence or harm another."
+            }
+        },
+        "drowningCabinet": {
+            "name": "Drowning Cabinet",
+            "description": {
+                "general": "Increases Flooding Weapon Damage for targets with Severe Damage. Enterprising pirates have modified the design to force floodwaters deeper and faster into enemy hulls."
+            }
+        },
+        "ballistaMountSmithy": {
+            "name": "Ballista Mount Smithy",
+            "description": {
+                "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
+            }
         }
     }
 }
