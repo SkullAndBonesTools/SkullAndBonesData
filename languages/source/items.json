@@ -3037,6 +3037,42 @@
             "description": {
                 "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
             }
+        },
+        "blightmaw": {
+            "name": "Blightmaw",
+            "description": {
+                "general": "Designed by the plague-warped minds of La Peste's alchemists. Fires shells laced with toxins that cling to enemy hulls, corroding their defenses and making them more vulnerable to subsequent attacks."
+            }
+        },
+        "stormtongue": {
+            "name": "Stormtongue",
+            "description": {
+                "general": "Repeatedly fires lightning and explosive projectiles. Its barrel is etched with stormcall glyphs and sigils of the phoenix."
+            }
+        },
+        "reachwarden": {
+            "name": "Reachwarden",
+            "description": {
+                "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
+            }
+        },
+        "celestialBoom": {
+            "name": "Celestial Boom",
+            "description": {
+                "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+            }
+        },
+        "woundcaller": {
+            "name": "Woundcaller",
+            "description": {
+                "general": "Upon impact, its payload releases a pulse of maddening resonance, an ancient frequency said to echo the death cries of fallen beasts. Those struck are seized by a violent frenzy, often damaging their own hulls as they lash out blindly."
+            }
+        },
+        "cloudbinder": {
+            "name": "Cloudbinder",
+            "description": {
+                "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
+            }
         }
     }
 }

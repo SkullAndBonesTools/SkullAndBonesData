@@ -3088,6 +3088,45 @@
                     "Increases Weakpoint Damage of Ballista Weapons by 14%"
                 ]
             }
+        },
+        "causticAmmo": {
+            "name": "Caustic Ammo",
+            "description": {
+                "general": "Landing 15 hits in a single volley increases the weapon damage the target receives by 8% for 10s. If the target is Poisoned, they will receive 12% more damage from all sources"
+            }
+        },
+        "argusTouch": {
+            "name": "Argus Touch",
+            "description": {
+                "general": [
+                    "Hits on allies apply a stack that restores 1% Hull Health over 2s, up to 10 stacks for 10% over 20s. For targets beyond 200m, 2 stacks are applied per hit",
+                    "At maximum number of stacks, the effect removes Torn Sails and prevents additional Torn Sails Charges for the duration of the effect"
+                ]
+            }
+        },
+        "celestialBoom": {
+            "name": "Celestial Boom",
+            "description": {
+                "general": [
+                    "Consecutive hits repair 5% for each projectile",
+                    "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
+                ]
+            }
+        },
+        "chargedBarb": {
+            "name": "Charged Barb",
+            "description": {
+                "general": [
+                    "A hit from this weapon attaches a charged metal bolt to the target for 10s. The bolt deals 10% of the weapon's damage as lightning damage every second",
+                    "If another bolt is within 200m, both explode and trigger a chain of lightning that deals 12% of the weapon's secondary damage up to 4 targets between the bolts"
+                ]
+            }
+        },
+        "impale": {
+            "name": "Impale",
+            "description": {
+                "general": "This weapon can be charged to pierce through enemies, dealing damage as it pierces. Damage decreases per hit"
+            }
         }
     }
 }
