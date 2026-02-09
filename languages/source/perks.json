@@ -3016,6 +3016,27 @@
                     "Flagbearer lasts 20s"
                 ]
             }
+        },
+        "livingBastion": {
+            "name": "Living Bastion",
+            "description": {
+                "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
+            }
+        },
+        "primordialHides": {
+            "name": "Primordial Hides",
+            "description": {
+                "general": "Reduces damage taken by Sea Monster attacks by 15% or by 30% when Bracing. Increases Weapon Damage by 10% for 30s after bracing a Sea Monster attack"
+            }
+        },
+        "caduceus": {
+            "name": "Caduceus",
+            "description": {
+                "general": [
+                    "Holding Brace charges up a repair pulse that restores up to 1.5% Hull Health per second for 12s to allies within 150m. Fully charging a pulse gives allies 12% reduced damage for the duration. This effect cannot stack",
+                    "Activating and maintaining Bracing consumes 50% more Crew Stamina"
+                ]
+            }
         }
     }
 }

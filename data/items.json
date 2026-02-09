@@ -15699,5 +15699,80 @@
         "weight": 100,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "livingBastion": {
+        "id": "livingBastion",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1200,
+        "damageMitigation": {
+            "explosive": 0.3,
+            "flooding": 0.1,
+            "fire": 0.3,
+            "tearing": 0,
+            "piercing": 0.25,
+            "electric": 0.2,
+            "toxic": 0.05
+        },
+        "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
+        "perks": [
+            "livingMetal"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "mantleOfTheDeep": {
+        "id": "mantleOfTheDeep",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1150,
+        "damageMitigation": {
+            "explosive": 0.2,
+            "flooding": 0.3,
+            "fire": 0.2,
+            "tearing": 0,
+            "piercing": 0.3,
+            "electric": 0.4,
+            "toxic": 0.1
+        },
+        "obtainable": "smugglerPass",
+        "perks": [
+            "primordialHides"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "tidesReprieve": {
+        "id": "tidesReprieve",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1200,
+        "damageMitigation": {
+            "explosive": 0.5,
+            "flooding": 0.15,
+            "fire": 0.45,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.2,
+            "toxic": 0.1
+        },
+        "obtainable": "smugglerPass",
+        "perks": [
+            "caduceus"
+        ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

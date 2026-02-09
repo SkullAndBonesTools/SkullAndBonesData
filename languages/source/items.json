@@ -2983,6 +2983,24 @@
             "description": {
                 "general": "What rare finds lie within?"
             }
+        },
+        "livingBastion": {
+            "name": "Living Bastion",
+            "description": {
+                "general": "Armor Rating increases while not taking damage. Its surface shifts subtly, as if breathing, with cracked plating and faded gold veins glowing faintly from accumulated stacks."
+            }
+        },
+        "mantleOfTheDeep": {
+            "name": "Mantle of the Deep",
+            "description": {
+                "general": "Reduces damage taken by Sea Monster attacks. Crafted from the salvaged hides of deep-dwelling leviathans by the keepers of balance beneath the waves."
+            }
+        },
+        "tidesReprieve": {
+            "name": "Tide's Reprieve",
+            "description": {
+                "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
+            }
         }
     }
 }
