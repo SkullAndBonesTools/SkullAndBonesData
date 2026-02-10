@@ -30605,6 +30605,7 @@
     "crimsonCreed": {
         "id": "crimsonCreed",
         "type": "sailsColor",
+        "effect": "emissive",
         "set": "friendlyFoes",
         "season": "eyeOfTheBeast",
         "obtainable": "twitchDropStartYear2Season4",
