@@ -23509,8 +23509,10 @@
         "id": "allWeCovet",
         "type": "figureHead",
         "set": "fortuneFounders",
+        "season": "eyeOfTheBeast",
+        "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-02-10"
     },
     "forgeAndFrolic": {
         "id": "forgeAndFrolic",
