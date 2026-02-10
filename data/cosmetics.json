@@ -30628,5 +30628,86 @@
         "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "streetCinch": {
+        "id": "streetCinch",
+        "type": "waist",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "docksideDeals": {
+        "id": "docksideDeals",
+        "type": "forearm",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "dingleDangles": {
+        "id": "dingleDangles",
+        "type": "faceAccessory",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "cutpursesLuck": {
+        "id": "cutpursesLuck",
+        "type": "hand",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "theOldGuard": {
+        "id": "theOldGuard",
+        "type": "headwear",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "strungPromises": {
+        "id": "strungPromises",
+        "type": "neck",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "bilgeRatsCut": {
+        "id": "bilgeRatsCut",
+        "type": "bottom",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "dockrunners": {
+        "id": "dockrunners",
+        "type": "footwear",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "scrappySuede": {
+        "id": "scrappySuede",
+        "type": "torso",
+        "set": "cutthroatsCreed",
+        "season": "eyeOfTheBeast",
+        "obtainable": "krakenChest",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }

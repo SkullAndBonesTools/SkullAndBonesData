@@ -1618,5 +1618,9 @@
     "friendlyFoes": {
         "id": "friendlyFoes",
         "type": "ship"
+    },
+    "cutthroatsCreed": {
+        "id": "cutthroatsCreed",
+        "type": "player"
     }
 }
