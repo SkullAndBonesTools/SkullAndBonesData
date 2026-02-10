@@ -578,8 +578,7 @@
         "slots": {
             "attachement": [1,1],
             "frontWeapon": [1,{
-                "top": 2,
-                "lower": 1
+                "top": 2
             }],
             "leftSideWeapon": [1,{
                 "top": 4,
