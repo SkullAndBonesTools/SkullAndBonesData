@@ -21119,6 +21119,30 @@
             "description": {
                 "general": "A daring display of Dutch power"
             }
+        },
+        "brassbound": {
+            "name": "Brassbound",
+            "description": {
+                "general": "A burnished hull for those who never bend"
+            }
+        },
+        "twoFacedGrin": {
+            "name": "Two-Faced Grin",
+            "description": {
+                "general": "Flags raised, bonus bared, loyalty sold dear"
+            }
+        },
+        "crimsonCreed": {
+            "name": "Crimson Creed",
+            "description": {
+                "general": "For pirates who pledge only to themselves"
+            }
+        },
+        "intricateSchemes": {
+            "name": "Intricate Schemes",
+            "description": {
+                "general": "Flourishes for those who play both sides"
+            }
         }
     }
 }

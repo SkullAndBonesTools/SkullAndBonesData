@@ -1614,5 +1614,9 @@
     "oceansBrood": {
         "id": "oceansBrood",
         "type": "ship"
+    },
+    "friendlyFoes": {
+        "id": "friendlyFoes",
+        "type": "ship"
     }
 }

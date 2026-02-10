@@ -30583,5 +30583,41 @@
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "brassbound": {
+        "id": "brassbound",
+        "type": "hull",
+        "set": "friendlyFoes",
+        "season": "eyeOfTheBeast",
+        "obtainable": "twitchDropStartYear2Season4",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "twoFacedGrin": {
+        "id": "twoFacedGrin",
+        "type": "sailsEmblem",
+        "set": "friendlyFoes",
+        "season": "eyeOfTheBeast",
+        "obtainable": "twitchDropStartYear2Season4",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "crimsonCreed": {
+        "id": "crimsonCreed",
+        "type": "sailsColor",
+        "set": "friendlyFoes",
+        "season": "eyeOfTheBeast",
+        "obtainable": "twitchDropStartYear2Season4",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "intricateSchemes": {
+        "id": "intricateSchemes",
+        "type": "sailsPattern",
+        "set": "friendlyFoes",
+        "season": "eyeOfTheBeast",
+        "obtainable": "twitchDropStartYear2Season4",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
