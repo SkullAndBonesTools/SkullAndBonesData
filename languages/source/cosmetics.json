@@ -21143,6 +21143,12 @@
             "description": {
                 "general": "Flourishes for those who play both sides"
             }
+        },
+        "sunShimmer": {
+            "name": "Sun Shimmer",
+            "description": {
+                "general": "Pure gold dust and pride"
+            }
         }
     }
 }

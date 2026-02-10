@@ -30619,5 +30619,14 @@
         "obtainable": "twitchDropStartYear2Season4",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "sunShimmer": {
+        "id": "sunShimmer",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "season": "eyeOfTheBeast",
+        "obtainable": "ubisoftStoreSeasonalPack",
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
     }
 }
