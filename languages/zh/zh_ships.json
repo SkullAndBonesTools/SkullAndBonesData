@@ -101,6 +101,12 @@
             "description": {
                 "general": "此船擅长扩散毒素。据说其船帆上留存着瘟疫之王的吐息，所经之处，尽染瘟疫。"
             }
+        },
+        "corvette": {
+            "name": "Corvette",
+            "description": {
+                "general": "A ship that excels at controlling and commandeering the flow of the battle. Favored by the capitaines of the Compagnie Royale and pirates who seek to control the seas."
+            }
         }
     }
 }

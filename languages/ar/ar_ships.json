@@ -101,6 +101,12 @@
             "description": {
                 "general": "A ship that excels at spreading toxins. Some say the Plague King himself breathes upon its sails, spreading pestilence in its wake."
             }
+        },
+        "corvette": {
+            "name": "Corvette",
+            "description": {
+                "general": "A ship that excels at controlling and commandeering the flow of the battle. Favored by the capitaines of the Compagnie Royale and pirates who seek to control the seas."
+            }
         }
     }
 }

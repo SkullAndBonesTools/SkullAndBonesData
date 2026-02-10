@@ -162,6 +162,7 @@
         "williamBlackwoodRotatingStoreAscentIntoChaos": "在{{ascentIntoChaos}}期间可在威廉·布莱克伍德的轮换商店购买",
         "williamBlackwoodRotatingStoreOathsOfWar": "在{{oathsOfWar}}期间可在威廉·布莱克伍德的轮换商店购买",
         "williamBlackwoodRotatingStoreGutsAndGlory": "Is/was purchasable at William Blackwood's rotating store during {{gutsAndGlory}}",
+        "williamBlackwoodRotatingStoreEyeOfTheBeast": "Is/was purchasable at William Blackwood's rotating store during {{eyeOfTheBeast}}",
         "ungwanaConvoyTreasureChest": "Ungwana宝箱的可能掉落物（通过击败Ungwana商队中的船只获得）",
         "rempahConvoyTreasureChest": "香料宝箱的可能掉落物（通过击败香料商队中的船只获得）",
         "faraConvoyTreasureChest": "法拉宝箱的可能掉落物（通过击败法拉商队中的船只获得）",
@@ -181,7 +182,7 @@
         "twitchDropBlackheart86": "Blackheart86直播期间的限时Twitch掉宝",
         "redeemerAchievementReward": "完成“救赎者”成就（击败神话级17级维克拉姆5次）的奖励",
         "twitchDropDuringSeason4": "在{{shadowsOfTheDeep}}期间的Twitch掉宝",
-        "idolOfTheBeastStatue": "在“年兽现身”活动期间，可在特洛克·佩尼亚拉的野兽偶像雕像处购买",
+        "idolOfTheBeastStatue": "Is/was purchasable at the Idol of the Beast statue in Telok Penjarah during the Event",
         "obtainablePeerlessNameplate": "在{{ragingTides}}期间通过完成隐藏目标获得",
         "twitchDropAroundFirstAnniversary": "游戏一周年纪念日左右的Twitch掉宝",
         "buyingSilverLionsWithSovereigns": "可在圣安妮的创始宝箱处用主权币购买银狮子获得",
@@ -197,6 +198,7 @@
         "williamBlackwoodSeasonalItemAscentIntoChaos": "在{{ascentIntoChaos}}期间可在威廉·布莱克伍德的商店作为季节性物品购买",
         "williamBlackwoodSeasonalItemOathsOfWar": "在{{oathsOfWar}}期间可在威廉·布莱克伍德的商店作为季节性物品购买",
         "williamBlackwoodSeasonalItemGutsAndGlory": "Is/was purchasable as seasonal item in William Blackwood's store during {{gutsAndGlory}}",
+        "williamBlackwoodSeasonalItemEyeOfTheBeast": "Is/was purchasable as seasonal item in William Blackwood's store during {{eyeOfTheBeast}}",
         "corruptCompagnieOfficerOutpost": "多个前哨站的腐败商会官员",
         "corruptDmcOfficerOutpost": "多个前哨站的腐败DMC官员",
         "ungwanaMerchantOutpost": "多个前哨站的Ungwana商人",
@@ -240,6 +242,7 @@
         "factionWarRewardWonTerritory1": "Reward for winning one territory in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory4": "Reward for winning four territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory5": "Reward for winning five territories in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory7": "Reward for winning seven territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory8": "Reward for winning eight territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory11": "Reward for winning eleven territories in the Faction War with the aligned faction",
         "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals",
@@ -247,6 +250,9 @@
         "dropDuringMythicLaPesteEncounter": "Possible drop from La Peste's reinforcements during the Mythic La Peste encounter",
         "azureHarbingerReward": "Obtained when defeating the Azure Harbinger",
         "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}",
-        "factionWarWinReward": "Reward for that faction to win the Faction War"
+        "factionWarWinReward": "Reward for that faction to win the Faction War",
+        "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event",
+        "rewardForCompleting8EventChallenges": "Reward for completing 8 Challenges of the Event",
+        "williamBlackwoodStore": "Is/was purchasable in William Blackwood's store"
     }
 }

@@ -10,7 +10,7 @@
         },
         "sovereigns": {
             "name": "Soberanos",
-            "description": ""
+            "description": "Awarded for completing high-level activities and used to purchase unique items."
         },
         "reapersToll": {
             "name": "Llamada de la Parca",
@@ -34,7 +34,7 @@
         },
         "halfTaels": {
             "name": "Medias tallas",
-            "description": ""
+            "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
         },
         "silverLions": {
             "name": "Silver Lions",
@@ -42,7 +42,7 @@
         },
         "bloodiedDoubloon": {
             "name": "Doblón ensangrentado",
-            "description": ""
+            "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
         },
         "heartfeltWish": {
             "name": "Heartfelt Wish",

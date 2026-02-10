@@ -101,6 +101,12 @@
             "description": {
                 "general": "Ein Schiff, das besonders gut darin ist, Giftstoffe zu verbreiten. Manche sagen, dass der Seuchenkönig selbst auf seine Segel haucht und so in seinem Kielwasser die Pest verbreitet."
             }
+        },
+        "corvette": {
+            "name": "Corvette",
+            "description": {
+                "general": "A ship that excels at controlling and commandeering the flow of the battle. Favored by the capitaines of the Compagnie Royale and pirates who seek to control the seas."
+            }
         }
     }
 }
