@@ -3017,8 +3017,8 @@
                 ]
             }
         },
-        "livingBastion": {
-            "name": "Living Bastion",
+        "livingMetal": {
+            "name": "Living Metal",
             "description": {
                 "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
             }
