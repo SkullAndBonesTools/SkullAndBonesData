@@ -2961,6 +2961,172 @@
             "description": {
                 "general": "命中目标后，有15%几率引发一次延迟爆炸（4秒后在65米爆破范围内造成2500伤害）。每额外命中一次目标，该效果的触发几率提升15%（最多对5个目标生效，相应触发几率上线为75%）。"
             }
+        },
+        "flagbearer": {
+            "name": "Flagbearer",
+            "description": {
+                "general": [
+                    "For each successful shot on enemies or repair on allies, apply a stack of Flagbearer. On enemy targets, each stack increases the damage dealt to the target by 1% per stack, up to 20%. On allies, increases repair received by the target by 2.% per stack, up to 50%",
+                    "Allied XSML, SML and MED ships within 500m gain 5% increased damage and 5% repair amount",
+                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                ]
+            }
+        },
+        "corvetteUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 83200",
+                    "Increases Brace Strength to 16640"
+                ],
+                "2": [
+                    "Increases Cargo to 150000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 14kn",
+                    "Increases Trimming Speed to 19kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 85600",
+                    "Increases Brace Strength to 17120"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Upgraded Mark' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 102720",
+                    "Increases Brace Strength to 20544",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
+        },
+        "upgradedMark": {
+            "name": "Upgraded Mark",
+            "description": {
+                "general": [
+                    "At the maximum number of Stacks of Flagbearer, targets will receive additional 10% weapon damage. Allies will repair Severe Damage by 1% of incoming repair received",
+                    "Flagbearer lasts 20s"
+                ]
+            }
+        },
+        "livingBastion": {
+            "name": "Living Bastion",
+            "description": {
+                "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
+            }
+        },
+        "primordialHides": {
+            "name": "Primordial Hides",
+            "description": {
+                "general": "Reduces damage taken by Sea Monster attacks by 15% or by 30% when Bracing. Increases Weapon Damage by 10% for 30s after bracing a Sea Monster attack"
+            }
+        },
+        "caduceus": {
+            "name": "Caduceus",
+            "description": {
+                "general": [
+                    "Holding Brace charges up a repair pulse that restores up to 1.5% Hull Health per second for 12s to allies within 150m. Fully charging a pulse gives allies 12% reduced damage for the duration. This effect cannot stack",
+                    "Activating and maintaining Bracing consumes 50% more Crew Stamina"
+                ]
+            }
+        },
+        "invertedFlagRack": {
+            "description": {
+                "general": [
+                    "Deals 14% more weapon damage on Taunted targets",
+                    "Increases duration of the Taunted status effect on a target by 15%"
+                ]
+            }
+        },
+        "apothecaryToolBench": {
+            "description": {
+                "general": [
+                    "While at full sails or trimming, reduces the duration of Poisened status effect by 50%",
+                    "Reduces incoming Toxic Damage by 16%"
+                ]
+            }
+        },
+        "anatomyCabinet": {
+            "description": {
+                "general": [
+                    "Reduces damage done to Brace Strength by Sea Monster attacks by 18%",
+                    "Reduces damaging Status Effect and Curse Mark duration by 10%"
+                ]
+            }
+        },
+        "blubberWorks": {
+            "description": {
+                "general": [
+                    "After 4 consecutive hits on a Sea Monster, reduces Reload Time of Broadside Weapons by 15% for 20s. Missing a shot resets the counter",
+                    "Consecutive hits on Sea Monster weakpoints deal 10% more Secondary Damage up to 40% for 5s",
+                    "Increases weapon damage to Sea Monster by 10%"
+                ]
+            }
+        },
+        "drowningCabinet": {
+            "description": {
+                "general": [
+                    "When dealing damage to a target with reduced Max Hull Health, Flooding Weapons deals 15% more weapon damage for 20s with a cooldown of 60s",
+                    "Flooded status effect applied to targets within 250m have a 12% increased duration",
+                    "Reduces Reload Time of Flooding Weapons by 10%"
+                ]
+            }
+        },
+        "ballistaMountSmithy": {
+            "description": {
+                "general": [
+                    "Dealing 2000 damage with a Ballista Weapon to a target marks them for 20s. While Marked, target receives 12% more damage from Ballista Weapons and more Secondary Damage from all sources",
+                    "Reduces Charge Time of Ballista Weapons by 18%",
+                    "Increases Weakpoint Damage of Ballista Weapons by 14%"
+                ]
+            }
+        },
+        "causticAmmo": {
+            "name": "Caustic Ammo",
+            "description": {
+                "general": "Landing 15 hits in a single volley increases the weapon damage the target receives by 8% for 10s. If the target is Poisoned, they will receive 12% more damage from all sources"
+            }
+        },
+        "argusTouch": {
+            "name": "Argus Touch",
+            "description": {
+                "general": [
+                    "Hits on allies apply a stack that restores 1% Hull Health over 2s, up to 10 stacks for 10% over 20s. For targets beyond 200m, 2 stacks are applied per hit",
+                    "At maximum number of stacks, the effect removes Torn Sails and prevents additional Torn Sails Charges for the duration of the effect"
+                ]
+            }
+        },
+        "celestialBoom": {
+            "name": "Celestial Boom",
+            "description": {
+                "general": [
+                    "Consecutive hits repair 5% for each projectile",
+                    "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
+                ]
+            }
+        },
+        "chargedBarb": {
+            "name": "Charged Barb",
+            "description": {
+                "general": [
+                    "A hit from this weapon attaches a charged metal bolt to the target for 10s. The bolt deals 10% of the weapon's damage as lightning damage every second",
+                    "If another bolt is within 200m, both explode and trigger a chain of lightning that deals 12% of the weapon's secondary damage up to 4 targets between the bolts"
+                ]
+            }
+        },
+        "impale": {
+            "name": "Impale",
+            "description": {
+                "general": "This weapon can be charged to pierce through enemies, dealing damage as it pierces. Damage decreases per hit"
+            }
         }
     }
 }

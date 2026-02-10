@@ -10,7 +10,7 @@
         },
         "sovereigns": {
             "name": "Souverains",
-            "description": ""
+            "description": "Awarded for completing high-level activities and used to purchase unique items."
         },
         "reapersToll": {
             "name": "Le tribut de la Faucheuse",
@@ -34,7 +34,7 @@
         },
         "halfTaels": {
             "name": "Half-Taels",
-            "description": ""
+            "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
         },
         "silverLions": {
             "name": "Silver Lions",
@@ -42,7 +42,7 @@
         },
         "bloodiedDoubloon": {
             "name": "Bloodied Doubloon",
-            "description": ""
+            "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
         },
         "heartfeltWish": {
             "name": "Heartfelt Wish",

@@ -251,6 +251,22 @@
         "bullsEye": {
             "name": "Volltreffer",
             "description": "Füge %s Schaden gegen Schwachpunkte in Azurblaues Event (Azure Royal) zu."
+        },
+        "krakenKiller": {
+            "name": "Kraken Killer",
+            "description": "Defeat the Mythical Kraken %s times."
+        },
+        "claimToFameY2S4": {
+            "name": "Claim to Fame (Y2S4)",
+            "description": "Gain %s Infamy in Year 2 Season 4"
+        },
+        "banisher": {
+            "name": "Banisher",
+            "description": "Complete The Nian %s times."
+        },
+        "tarnisher": {
+            "name": "Tarnisher",
+            "description": "Deal %s damage to weakpoints in The Nian"
         }
     }
 }

@@ -162,6 +162,7 @@
         "williamBlackwoodRotatingStoreAscentIntoChaos": "Ist/war während {{ascentIntoChaos}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreOathsOfWar": "Ist/war während {{oathsOfWar}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreGutsAndGlory": "Ist/war während {{gutsAndGlory}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
+        "williamBlackwoodRotatingStoreEyeOfTheBeast": "Ist/war während {{eyeOfTheBeast}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "ungwanaConvoyTreasureChest": "Mögliche Belohnung aus Ungwana Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Ungwana Händlerkonvoi)",
         "rempahConvoyTreasureChest": "Mögliche Belohnung aus Rempah Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Rempah Händlerkonvoi)",
         "faraConvoyTreasureChest": "Mögliche Belohnung aus Fara Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Fara Händlerkonvoi)",
@@ -181,7 +182,7 @@
         "twitchDropBlackheart86": "Zeitbegrenzter Twitch Drop fürs Schauen eines Streams von Blackheart86",
         "redeemerAchievementReward": "Belohnung für den Abschluss des Erfolges \"Erlöser\" (mythischen Rank 17 Vikram 5 mal besiegen) ",
         "twitchDropDuringSeason4": "Twitch Drops zu Beginn von {{shadowsOfTheDeep}}",
-        "idolOfTheBeastStatue": "Kaufbar bei der Götze der Bestie in Telok Penjarah (während des Auftritt des Nian Events)",
+        "idolOfTheBeastStatue": "Ist/war bei der Götze der Bestie in Telok Penjarah während des Events kaufbar",
         "obtainablePeerlessNameplate": "Erhalten durch das Erreichen eines versteckten Ziels während {{ragingTides}}",
         "twitchDropAroundFirstAnniversary": "Twitch Drop während des ersten Jubiläums des Spiels",
         "buyingSilverLionsWithSovereigns": "Erhältlich durch den Kauf von Silberlöwen mit Sovereigns in der Gründungstruhe in Sainte Anne ",
@@ -197,6 +198,7 @@
         "williamBlackwoodSeasonalItemAscentIntoChaos": "Ist/war während {{ascentIntoChaos}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemOathsOfWar": "Ist/war während {{oathsOfWar}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemGutsAndGlory": "Ist/war während {{gutsAndGlory}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
+        "williamBlackwoodSeasonalItemEyeOfTheBeast": "Ist/war während {{eyeOfTheBeast}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "corruptCompagnieOfficerOutpost": "Korrupter Offizier der Compagnie",
         "corruptDmcOfficerOutpost": "Korrupter Offizier der NHG",
         "ungwanaMerchantOutpost": "Ungwanischer Händler bei verschiedenen Außenposten",
@@ -240,6 +242,7 @@
         "factionWarRewardWonTerritory1": "Belohnung für das Erobern eines Gebiets im Fraktionskrieg mit der zugehörigen Fraktion",
         "factionWarRewardWonTerritory4": "Belohnung für das Erobern von vier Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
         "factionWarRewardWonTerritory5": "Belohnung für das Erobern von fünf Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
+        "factionWarRewardWonTerritory7": "Belohnung für das Erobern von sieben Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
         "factionWarRewardWonTerritory8": "Belohnung für das Erobern von acht Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
         "factionWarRewardWonTerritory11": "Belohnung für das Erobern von elf Gebieten im Fraktionskrieg mit der zugehörigen Fraktion",
         "twitchDropSpammals": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Spammals",
@@ -247,6 +250,9 @@
         "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
         "azureHarbingerReward": "Erhalten beim Besiegen des Azurblauen Vorboten",
         "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}",
-        "factionWarWinReward": "Reward for that faction to win the Faction War"
+        "factionWarWinReward": "Belohnung für den Sieg der Fraktion im Fraktionskrieg",
+        "purchasableWithSilverLionsAtTheFoundingChest": "Ist/war mit Silberlöwen in der Gründungstruhe in Sainte Anne während des Ereignisses kaufbar",
+        "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
+        "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft"
     }
 }

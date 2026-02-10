@@ -162,6 +162,7 @@
         "williamBlackwoodRotatingStoreAscentIntoChaos": "Is/was purchasable at William Blackwood's rotating store during {{ascentIntoChaos}}",
         "williamBlackwoodRotatingStoreOathsOfWar": "Is/was purchasable at William Blackwood's rotating store during {{oathsOfWar}}",
         "williamBlackwoodRotatingStoreGutsAndGlory": "Is/was purchasable at William Blackwood's rotating store during {{gutsAndGlory}}",
+        "williamBlackwoodRotatingStoreEyeOfTheBeast": "Is/was purchasable at William Blackwood's rotating store during {{eyeOfTheBeast}}",
         "ungwanaConvoyTreasureChest": "Posible aparición de un cofre del tesoro de Ungwana (obtenido al derrotar a los barcos de un convoy mercante de Ungwana).",
         "rempahConvoyTreasureChest": "Posible caída de Rempah Cofre del Tesoro (obtenido al derrotar a los buques de un convoy mercante Rempah)",
         "faraConvoyTreasureChest": "Posible aparición de un cofre del tesoro de Fara (se obtiene al derrotar a los barcos de un convoy mercante de Fara).",
@@ -181,7 +182,7 @@
         "twitchDropBlackheart86": "Drop de Twitch por tiempo limitado durante un livestream de Blackheart86",
         "redeemerAchievementReward": "Recompensa por completar el logro Redentor (derrotando 5 veces a Vikram, rango mítico 17).",
         "twitchDropDuringSeason4": "Twitch Drops during {{shadowsOfTheDeep}}",
-        "idolOfTheBeastStatue": "Se puede comprar durante el evento Leyenda del Niang en la estatua del Ídolo de la Bestia en Telok Penjarah.",
+        "idolOfTheBeastStatue": "Is/was purchasable at the Idol of the Beast statue in Telok Penjarah during the Event",
         "obtainablePeerlessNameplate": "Obtained through completing a hidden objective during {{ragingTides}}",
         "twitchDropAroundFirstAnniversary": "Drops de Twitch en por el primer aniversario del juego",
         "buyingSilverLionsWithSovereigns": "Se obtiene comprando Leones de Plata con Soberanos en el Cofre de los Fundadores de Santa Ana.",
@@ -197,6 +198,7 @@
         "williamBlackwoodSeasonalItemAscentIntoChaos": "Is/was purchasable as seasonal item in William Blackwood's store during {{ascentIntoChaos}}",
         "williamBlackwoodSeasonalItemOathsOfWar": "Is/was purchasable as seasonal item in William Blackwood's store during {{oathsOfWar}}",
         "williamBlackwoodSeasonalItemGutsAndGlory": "Is/was purchasable as seasonal item in William Blackwood's store during {{gutsAndGlory}}",
+        "williamBlackwoodSeasonalItemEyeOfTheBeast": "Is/was purchasable as seasonal item in William Blackwood's store during {{eyeOfTheBeast}}",
         "corruptCompagnieOfficerOutpost": "Oficial de la Compagnie corrupto en varios puestos avanzados",
         "corruptDmcOfficerOutpost": "Oficial de la CMH corrupto en varios puestos avanzados",
         "ungwanaMerchantOutpost": "Comerciante Ungwana en varios puestos avanzados",
@@ -240,6 +242,7 @@
         "factionWarRewardWonTerritory1": "Reward for winning one territory in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory4": "Reward for winning four territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory5": "Reward for winning five territories in the Faction War with the aligned faction",
+        "factionWarRewardWonTerritory7": "Reward for winning seven territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory8": "Reward for winning eight territories in the Faction War with the aligned faction",
         "factionWarRewardWonTerritory11": "Reward for winning eleven territories in the Faction War with the aligned faction",
         "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals",
@@ -247,6 +250,9 @@
         "dropDuringMythicLaPesteEncounter": "Possible drop from La Peste's reinforcements during the Mythic La Peste encounter",
         "azureHarbingerReward": "Obtained when defeating the Azure Harbinger",
         "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}",
-        "factionWarWinReward": "Reward for that faction to win the Faction War"
+        "factionWarWinReward": "Reward for that faction to win the Faction War",
+        "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event",
+        "rewardForCompleting8EventChallenges": "Reward for completing 8 Challenges of the Event",
+        "williamBlackwoodStore": "Is/was purchasable in William Blackwood's store"
     }
 }

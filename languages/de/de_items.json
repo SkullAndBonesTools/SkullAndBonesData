@@ -2952,6 +2952,127 @@
             "description": {
                 "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil vom Set \"Gewässer von Gowa\" sind."
             }
+        },
+        "corvetteUpgrade": {
+            "name": "Corvette Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Corvette.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "foundingCelebratoryChest": {
+            "name": "Gründungsfeier Truhe",
+            "description": {
+                "general": "Eine Truhe zur Feier der überstandenen Herausforderungen während der Gründung."
+            }
+        },
+        "krakenInkGlands": {
+            "name": "Kraken Ink Glands",
+            "description": {
+                "general": "Toxic glands from the Kraken, filled with corrosive venom strong enough to burn through hull and and flesh"
+            }
+        },
+        "krakenChest": {
+            "name": "Mysterious Chest (Kraken)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "livingBastion": {
+            "name": "Living Bastion",
+            "description": {
+                "general": "Armor Rating increases while not taking damage. Its surface shifts subtly, as if breathing, with cracked plating and faded gold veins glowing faintly from accumulated stacks."
+            }
+        },
+        "mantleOfTheDeep": {
+            "name": "Mantle of the Deep",
+            "description": {
+                "general": "Reduces damage taken by Sea Monster attacks. Crafted from the salvaged hides of deep-dwelling leviathans by the keepers of balance beneath the waves."
+            }
+        },
+        "tidesReprieve": {
+            "name": "Tide's Reprieve",
+            "description": {
+                "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
+            }
+        },
+        "invertedFlagRack": {
+            "name": "Inverted Flag Rack",
+            "description": {
+                "general": "Increases Weapon Damage to Taunted targets. Sends a clear message to any foes who approach: \"Your flag has fallen. You're next.\""
+            }
+        },
+        "apothecaryToolBench": {
+            "name": "Apothecary Tool Bench",
+            "description": {
+                "general": "Enhances defense against the Poisened Status Effect while the ship is sailing. Assembled by a Rempah herbalist. Contains antidotes for jellyfish stings and fermented seaweed poisoning."
+            }
+        },
+        "anatomyCabinet": {
+            "name": "Anatomy Cabinet",
+            "description": {
+                "general": "Enhances Brace Strength against Sea Monster attacks. Some swear the knowledge within has saved many from the jaws of death."
+            }
+        },
+        "blubberWorks": {
+            "name": "Blubber Works",
+            "description": {
+                "general": "Reduces Reload Time of broadside weapons after dealing damage to Sea Monsters. The Sea People believe the essence of a creature can be used to influence or harm another."
+            }
+        },
+        "drowningCabinet": {
+            "name": "Drowning Cabinet",
+            "description": {
+                "general": "Increases Flooding Weapon Damage for targets with Severe Damage. Enterprising pirates have modified the design to force floodwaters deeper and faster into enemy hulls."
+            }
+        },
+        "ballistaMountSmithy": {
+            "name": "Ballista Mount Smithy",
+            "description": {
+                "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
+            }
+        },
+        "blightmaw": {
+            "name": "Blightmaw",
+            "description": {
+                "general": "Designed by the plague-warped minds of La Peste's alchemists. Fires shells laced with toxins that cling to enemy hulls, corroding their defenses and making them more vulnerable to subsequent attacks."
+            }
+        },
+        "stormtongue": {
+            "name": "Stormtongue",
+            "description": {
+                "general": "Repeatedly fires lightning and explosive projectiles. Its barrel is etched with stormcall glyphs and sigils of the phoenix."
+            }
+        },
+        "reachwarden": {
+            "name": "Reachwarden",
+            "description": {
+                "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
+            }
+        },
+        "celestialBoom": {
+            "name": "Celestial Boom",
+            "description": {
+                "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+            }
+        },
+        "woundcaller": {
+            "name": "Woundcaller",
+            "description": {
+                "general": "Upon impact, its payload releases a pulse of maddening resonance, an ancient frequency said to echo the death cries of fallen beasts. Those struck are seized by a violent frenzy, often damaging their own hulls as they lash out blindly."
+            }
+        },
+        "cloudbinder": {
+            "name": "Cloudbinder",
+            "description": {
+                "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
+            }
         }
     }
 }

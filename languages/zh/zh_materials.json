@@ -10,7 +10,7 @@
         },
         "sovereigns": {
             "name": "君主币",
-            "description": ""
+            "description": "Awarded for completing high-level activities and used to purchase unique items."
         },
         "reapersToll": {
             "name": "死神之税",
@@ -34,7 +34,7 @@
         },
         "halfTaels": {
             "name": "半两银",
-            "description": ""
+            "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
         },
         "silverLions": {
             "name": "银狮币",
@@ -42,7 +42,7 @@
         },
         "bloodiedDoubloon": {
             "name": "血染达布隆",
-            "description": ""
+            "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
         },
         "heartfeltWish": {
             "name": "衷心祈愿",
