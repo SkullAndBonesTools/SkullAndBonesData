@@ -26380,44 +26380,44 @@
     "deathlyMiasma": {
         "id": "deathlyMiasma",
         "type": "sailsColor",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "plagueReaper",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "blightborn": {
         "id": "blightborn",
         "type": "figureHead",
         "set": "plagueReaper",
-        "effects": "emissive",
+        "effect": "emissive",
         "upgrades": ["crimsonHerald","pestilentShadow"],
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "crimsonHerald": {
         "id": "crimsonHerald",
         "tier": 1,
         "type": "figureHead",
         "set": "plagueReaper",
-        "effects": "emissive",
+        "effect": "emissive",
         "basic": "blightborn",
         "upgrades": ["pestilentShadow"],
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "pestilentShadow": {
         "id": "pestilentShadow",
         "tier": 2,
         "type": "figureHead",
         "set": "plagueReaper",
-        "effects": ["emissive","combatReactive"],
+        "effect": ["emissive","combatReactive"],
         "basic": "blightborn",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "seaScourge": {
         "id": "seaScourge",
@@ -26438,11 +26438,11 @@
     "hollowMask": {
         "id": "hollowMask",
         "type": "trophy",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "plagueReaper",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "vileCure": {
         "id": "vileCure",
@@ -26462,11 +26462,11 @@
     "beakedVisage": {
         "id": "beakedVisage",
         "type": "faceAccessory",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "harbingerOfDeath",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "sterileGown": {
         "id": "sterileGown",
@@ -26495,11 +26495,11 @@
     "toolsOfTorture": {
         "id": "toolsOfTorture",
         "type": "waist",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "harbingerOfDeath",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "burialBreeches": {
         "id": "burialBreeches",
@@ -26536,20 +26536,20 @@
     "deliciouslyMacabre": {
         "id": "deliciouslyMacabre",
         "type": "sailsColor",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "deathStrides",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "theEndbringer": {
         "id": "theEndbringer",
         "type": "figureHead",
-        "effects": ["emissive","combatReactive"],
+        "effect": ["emissive","combatReactive"],
         "set": "deathStrides",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "endTimes": {
         "id": "endTimes",
@@ -26570,11 +26570,11 @@
     "deathDivine": {
         "id": "deathDivine",
         "type": "wheel",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "deathStrides",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "bonepicker": {
         "id": "bonepicker",
@@ -26595,11 +26595,11 @@
     "blotTheSun": {
         "id": "blotTheSun",
         "type": "sailsColor",
-        "effects": "emissive",
+        "effect": "emissive",
         "set": "seaScavengers",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-09-09",
-        "lastUpdated": "2025-09-09"
+        "lastUpdated": "2026-02-10"
     },
     "theFinalFeast": {
         "id": "theFinalFeast",
