@@ -3073,6 +3073,12 @@
             "description": {
                 "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
             }
+        },
+        "foundersCache": {
+            "name": "Founder's Cache",
+            "description": {
+                "general": "An ornate chest containing spoils from formidable foes of seasons past."
+            }
         }
     }
 }
