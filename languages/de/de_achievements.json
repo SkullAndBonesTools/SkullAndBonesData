@@ -253,20 +253,20 @@
             "description": "Füge %s Schaden gegen Schwachpunkte in Azurblaues Event (Azure Royal) zu."
         },
         "krakenKiller": {
-            "name": "Kraken Killer",
-            "description": "Defeat the Mythical Kraken %s times."
+            "name": "Kraken-Killer",
+            "description": "Besiege den mythischen Kraken %s Mal."
         },
         "claimToFameY2S4": {
-            "name": "Claim to Fame (Y2S4)",
-            "description": "Gain %s Infamy in Year 2 Season 4"
+            "name": "Berühmtheit (J2S4)",
+            "description": "Erhalte %s Ruhm in Jahr 2 Saison 4."
         },
         "banisher": {
-            "name": "Banisher",
-            "description": "Complete The Nian %s times."
+            "name": "Verbanner",
+            "description": "Schließe Das Nian %s Mal ab."
         },
         "tarnisher": {
-            "name": "Tarnisher",
-            "description": "Deal %s damage to weakpoints in The Nian"
+            "name": "Beflecker",
+            "description": "Füge %s Schaden gegen Schwachpunkte in Das Nian zu."
         }
     }
 }

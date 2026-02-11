@@ -751,7 +751,7 @@
             }
         },
         "barbarianKing": {
-            "name": "Ravager",
+            "name": "Verwüster",
             "description": {
                 "general": "Furchterregend, wie sie eben sind."
             }
@@ -16843,15 +16843,15 @@
             }
         },
         "aCursedGift": {
-            "name": "A Cursed Gift",
+            "name": "Ein verfluchtes Geschenk",
             "description": {
-                "general": "More than enough chaos and despair to go around"
+                "general": "Mehr als genug Chaos und Verzweiflung für alle."
             }
         },
         "corruptionComes": {
-            "name": "Corruption Comes",
+            "name": "Die Verderbnis kommt",
             "description": {
-                "general": "\"You may escape my gaze, but not my aim.\""
+                "general": "\"Du kannst meinem Blick entkommen, aber nicht meinem Visier.\""
             }
         },
         "washedGray": {
@@ -20047,9 +20047,9 @@
             }
         },
         "ferociousGuardian": {
-            "name": "Ferocious Guardian",
+            "name": "Wilder Wächter",
             "description": {
-                "general": "\"For my freedom, and the freedom of all pirates.\""
+                "general": "\"Für meine Freiheit und die Freiheit der Piraten.\""
             }
         },
         "theRunaround": {
@@ -20059,9 +20059,9 @@
             }
         },
         "insidiousHurt": {
-            "name": "Insidious Hurt",
+            "name": "Heimtückischer Schmerz",
             "description": {
-                "general": "\"Every blow hits hard and cuts deep.\""
+                "general": "\"Jeder Schlag trifft hart und schmerzt tief.\""
             }
         },
         "venemousFang": {
@@ -20077,9 +20077,9 @@
             }
         },
         "readyAndWaiting": {
-            "name": "Ready and Waiting",
+            "name": "Schlagbereit",
             "description": {
-                "general": "\"Strike from the most unexpected places.\""
+                "general": "\"Schlagt aus den unerwartetsten Ecken zu.\""
             }
         },
         "venomborn": {
@@ -20353,87 +20353,87 @@
             }
         },
         "wickedGreen": {
-            "name": "Wicked Green",
+            "name": "Giftiges Grün",
             "description": {
-                "general": "For captains with infectious style"
+                "general": "Für Kapitäne mit ansteckendem Stil"
             }
         },
         "swampRot": {
-            "name": "Swamp Rot",
+            "name": "Sumpffäulnis",
             "description": {
-                "general": "Boggy and beautiful"
+                "general": "Morastig und schön."
             }
         },
         "spinOSin": {
-            "name": "Spin O' Sin",
+            "name": "Sündenrad",
             "description": {
-                "general": "Goes round, squeals loud, smells worse"
+                "general": "Dreht sich, quietscht laut, riecht noch schlimmer."
             }
         },
         "decayingDignity": {
-            "name": "Decaying Dignity",
+            "name": "Moderne Würde",
             "description": {
-                "general": "Being this rotten deserves a crest"
+                "general": "So verfault zu sein, das verdient ein Emblem."
             }
         },
         "seaMouldDeluxe": {
-            "name": "Sea Mould Deluxe",
+            "name": "Luxus-Meeresschimmel",
             "description": {
-                "general": "Stained with 100% organic fungus"
+                "general": "Mit 100% Bio-Pilz befleckt."
             }
         },
         "greenwreck": {
-            "name": "Greenwreck",
+            "name": "Grünwrack",
             "description": {
-                "general": "A lively shade of dead wood"
+                "general": "Ein lebhafter Farbton von totem Holz."
             }
         },
         "emeraldFury": {
-            "name": "Emerald Fury",
+            "name": "Smaragdwut",
             "description": {
-                "general": "Like a green spectre in the night"
+                "general": "Wie ein grünes Phantom in der Nacht."
             }
         },
         "inkClouds": {
-            "name": "Ink Clouds",
+            "name": "Tintenwolken",
             "description": {
-                "general": "Stained with the guts of slain sea beasts"
+                "general": "Mit den Eingeweiden getöteter Seeungeheuer befleckt."
             }
         },
         "krakensMight": {
-            "name": "Kraken's Might",
+            "name": "Macht des Kraken",
             "description": {
-                "general": "Cast your foes into the abyss"
+                "general": "Stürzt Eure Feinde in den Abgrund."
             }
         },
         "depthsworn": {
-            "name": "Depthsworn",
+            "name": "Der Tiefe geschworen",
             "description": {
-                "general": "Feared by all, forged in the deep"
+                "general": "Von allen gefürchtet, geschmiedet in der Tiefe."
             }
         },
         "aBehemothsCall": {
-            "name": "A Behemoth's Call",
+            "name": "Ruf des Leviathan",
             "description": {
-                "general": "A tentacled beacon of misery"
+                "general": "Ein tentakelbestücktes Symbol des Elends."
             }
         },
         "lostAtSea": {
-            "name": "Lost at Sea",
+            "name": "Auf See verschollen",
             "description": {
-                "general": "A touch of ink and blood"
+                "general": "Ein Hauch Tine und Blut."
             }
         },
         "deadbeast": {
-            "name": "Deadbeast",
+            "name": "Tote Bestie",
             "description": {
-                "general": "For dark waters and darker hearts"
+                "general": "Für dunkle Gewässer und dunklere Herzen."
             }
         },
         "slithersweet": {
-            "name": "Slithersweet",
+            "name": "Glitschig süß",
             "description": {
-                "general": "\"Them suckers be feisty!\""
+                "general": "\"Diese Sauger sind ja angriffslustig!\""
             }
         },
         "lordOftheWake": {
@@ -20575,69 +20575,69 @@
             }
         },
         "crownOfBlades": {
-            "name": "Crown of Blades",
+            "name": "Krone der Klingen",
             "description": {
-                "general": "Glory forged in blood, worn by those who conquer"
+                "general": "Ruhm, geschmiedet in Blut, getragen von den Eroberern."
             }
         },
         "bannerOfRenown": {
-            "name": "Banner of Renown",
+            "name": "Banner des Ansehens",
             "description": {
-                "general": "Stripes of power mark your place above all"
+                "general": "Mächtige Streifen kennzeichnen Eure herausragende Stellung."
             }
         },
         "ironDominion": {
-            "name": "Iron Dominion",
+            "name": "Eiserner Machtbereich",
             "description": {
-                "general": "The sea bends to steel and unyielding resolve"
+                "general": "Das Meer beugt sich vor Stahl und unnachgiebiger Entschlossenheit."
             }
         },
         "stormsCrest": {
-            "name": "Storm's Crest",
+            "name": "Wappen des Sturms",
             "description": {
-                "general": "Darkness unfurls, proclaiming your rule"
+                "general": "Die Dunkelheit breitet sich aus und verkündet Eure Herrschaft."
             }
         },
         "captainFancyfoot": {
-            "name": "Captain Fancyfoot",
+            "name": "Käpt'n Nobelfuß",
             "description": {
-                "general": "Because wood's for deckhands!"
+                "general": "Weil Holz was für Deckarbeiter ist!"
             }
         },
         "eveOfTheTides": {
-            "name": "Eve of the Tides",
+            "name": "Vorabend der Gezeiten",
             "description": {
-                "general": "Never let the tides or your heart, fall first"
+                "general": "Lasse niemals die Gezeiten oder dein Herz zuerst fallen."
             }
         },
         "invisibleSandals": {
-            "name": "Invisible Sandals",
+            "name": "Unsichtbare Sandalen",
             "description": {
-                "general": "Be careful not to lose them"
+                "general": "Achte darauf, sie nicht zu verlieren."
             }
         },
         "daggered": {
-            "name": "Daggered",
+            "name": "Erdolcht",
             "description": {
-                "general": "\"There be sharp thingies in them pockets!\""
+                "general": "\"Da sind scharfe Dingsda in den Taschen!\""
             }
         },
         "firstTemptation": {
-            "name": "First Temptation",
+            "name": "Erste Versuchung",
             "description": {
-                "general": "Gifted once, taken twice"
+                "general": "Einmal geschenkt, zweimal genommen."
             }
         },
         "forbiddenPlume": {
-            "name": "Forbidden Plume",
+            "name": "Verbotene Feder",
             "description": {
-                "general": "Tilted just so, to disarm before the draw"
+                "general": "Gerade so geneigt, um vor dem Ziehen zu entwaffnen."
             }
         },
         "covenant": {
-            "name": "Covenant",
+            "name": "Pakt",
             "description": {
-                "general": "A promise written in silk and gold"
+                "general": "Ein Versprechen, in Seide und Gold geschrieben."
             }
         },
         "reefMud": {
@@ -21118,6 +21118,90 @@
             "name": "Helm Banier",
             "description": {
                 "general": "A daring display of Dutch power"
+            }
+        },
+        "brassbound": {
+            "name": "Brassbound",
+            "description": {
+                "general": "A burnished hull for those who never bend"
+            }
+        },
+        "twoFacedGrin": {
+            "name": "Two-Faced Grin",
+            "description": {
+                "general": "Flags raised, bonus bared, loyalty sold dear"
+            }
+        },
+        "crimsonCreed": {
+            "name": "Crimson Creed",
+            "description": {
+                "general": "For pirates who pledge only to themselves"
+            }
+        },
+        "intricateSchemes": {
+            "name": "Intricate Schemes",
+            "description": {
+                "general": "Flourishes for those who play both sides"
+            }
+        },
+        "sunShimmer": {
+            "name": "Sun Shimmer",
+            "description": {
+                "general": "Pure gold dust and pride"
+            }
+        },
+        "streetCinch": {
+            "name": "Street Cinch",
+            "description": {
+                "general": "\"You hold your gun here, your coin here, and your nerve here.\""
+            }
+        },
+        "docksideDeals": {
+            "name": "Dockside Deals",
+            "description": {
+                "general": "\"He thought I'd shake on it. I did -- after I took his finger.\""
+            }
+        },
+        "dingleDangles": {
+            "name": "Dingle Dangles",
+            "description": {
+                "general": "Repurposed brass rolled in gold dust"
+            }
+        },
+        "cutpursesLuck": {
+            "name": "Cutpurse's Luck",
+            "description": {
+                "general": "\"Pure gold, warm from another's pocket.\""
+            }
+        },
+        "theOldGuard": {
+            "name": "The Old Guard",
+            "description": {
+                "general": "\"Every scar under this brim's got a story.\""
+            }
+        },
+        "strungPromises": {
+            "name": "Strung Promises",
+            "description": {
+                "general": "\"He swore he'd find me agin. I swore I wouldn't wait that long.\""
+            }
+        },
+        "bilgeRatsCut": {
+            "name": "Bilge Rat's Cut",
+            "description": {
+                "general": "\"They laughed at the patchwork. Then, I took their throats.\""
+            }
+        },
+        "dockrunners": {
+            "name": "Dockrunners",
+            "description": {
+                "general": "\"Swift enough to chase a purse. Silent enough to make a kill.\""
+            }
+        },
+        "scrappySuede": {
+            "name": "Scrappy Suede",
+            "description": {
+                "general": "Messy but magnificent"
             }
         }
     }

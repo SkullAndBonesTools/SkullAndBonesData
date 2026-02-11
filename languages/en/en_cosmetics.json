@@ -21119,6 +21119,90 @@
             "description": {
                 "general": "A daring display of Dutch power"
             }
+        },
+        "brassbound": {
+            "name": "Brassbound",
+            "description": {
+                "general": "A burnished hull for those who never bend"
+            }
+        },
+        "twoFacedGrin": {
+            "name": "Two-Faced Grin",
+            "description": {
+                "general": "Flags raised, bonus bared, loyalty sold dear"
+            }
+        },
+        "crimsonCreed": {
+            "name": "Crimson Creed",
+            "description": {
+                "general": "For pirates who pledge only to themselves"
+            }
+        },
+        "intricateSchemes": {
+            "name": "Intricate Schemes",
+            "description": {
+                "general": "Flourishes for those who play both sides"
+            }
+        },
+        "sunShimmer": {
+            "name": "Sun Shimmer",
+            "description": {
+                "general": "Pure gold dust and pride"
+            }
+        },
+        "streetCinch": {
+            "name": "Street Cinch",
+            "description": {
+                "general": "\"You hold your gun here, your coin here, and your nerve here.\""
+            }
+        },
+        "docksideDeals": {
+            "name": "Dockside Deals",
+            "description": {
+                "general": "\"He thought I'd shake on it. I did -- after I took his finger.\""
+            }
+        },
+        "dingleDangles": {
+            "name": "Dingle Dangles",
+            "description": {
+                "general": "Repurposed brass rolled in gold dust"
+            }
+        },
+        "cutpursesLuck": {
+            "name": "Cutpurse's Luck",
+            "description": {
+                "general": "\"Pure gold, warm from another's pocket.\""
+            }
+        },
+        "theOldGuard": {
+            "name": "The Old Guard",
+            "description": {
+                "general": "\"Every scar under this brim's got a story.\""
+            }
+        },
+        "strungPromises": {
+            "name": "Strung Promises",
+            "description": {
+                "general": "\"He swore he'd find me agin. I swore I wouldn't wait that long.\""
+            }
+        },
+        "bilgeRatsCut": {
+            "name": "Bilge Rat's Cut",
+            "description": {
+                "general": "\"They laughed at the patchwork. Then, I took their throats.\""
+            }
+        },
+        "dockrunners": {
+            "name": "Dockrunners",
+            "description": {
+                "general": "\"Swift enough to chase a purse. Silent enough to make a kill.\""
+            }
+        },
+        "scrappySuede": {
+            "name": "Scrappy Suede",
+            "description": {
+                "general": "Messy but magnificent"
+            }
         }
     }
 }

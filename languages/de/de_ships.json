@@ -103,9 +103,9 @@
             }
         },
         "corvette": {
-            "name": "Corvette",
+            "name": "Korvette",
             "description": {
-                "general": "A ship that excels at controlling and commandeering the flow of the battle. Favored by the capitaines of the Compagnie Royale and pirates who seek to control the seas."
+                "general": "Ein Schiff, das sich dadurch auszeichnet, den Verlauf einer Schlacht zu kontrollieren und zu lenken. Es wird von den Kapitänen der Compagnie Royale und von Piraten bevorzugt, die die Herrschaft über die Meere anstreben."
             }
         }
     }

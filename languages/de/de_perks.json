@@ -192,8 +192,8 @@
             "name": "In Eisen gewandet",
             "description": {
                 "general": [
-                    "Erhöht Panzerung 30s lang um 350 nachdem in Deckung gegangen wurde",
-                    "Erhöht Deckungsstärke um 275% und die Wiederherstellung der Deckungsstärke um 25%"
+                    "Setze die Segel mit 5 Stapeln von Platten und verliere einen Stapel Platten, wenn der Rumpfzustand sich durch Treffer verringert. Jeder Stapel Platten erhöht den Panzerungswert um 100",
+                    "Du bekommst alle 10 Sek. einen weiteren Stapel (max. 5) und erhöhst den Waffenschaden um 1% pro 50 Gesamtpanzerungswert (begrenzt auf 50%)"
                 ]
             }
         },
@@ -781,7 +781,7 @@
             "name": "Handwerker",
             "description": {
                 "general": [
-                    "Aufeinanderfolgende Waffentreffer gegen ein Ziel erhöhen die Effektivität anschließend eingesetzter Bojen um 3% (max. 45%). Wird zurückgesetzt, wenn mehr als 12 Sekunden zwischen den Treffern vergehen",
+                    "Aufeinanderfolgende Waffentreffer auf Ziele erhöhen die Waffen- und Reparaturmenge um 2%, bis maximal 30% erreicht sind. Wird zurückgesetzt, wenn mehr als 11 Sek. zwischen den Treffern vergehen",
                     "Nachladezeit von Hilfswaffen wird um 10% verringert, auch für verbündete Schiffe in der Nähe",
                     "Reparaturwaffen stellen 5% mehr Rumpfzustand wieder her pro ausgerüsteter Reparaturwaffe"
                 ]
@@ -823,7 +823,7 @@
         "toxic": {
             "name": "Toxisch",
             "description": {
-                "3": "Adds 30% of damage as Toxic Damage"
+                "3": "Fügt 30 % des Schadens als Giftschaden hinzu"
             }
         },
         "homing": {
@@ -1484,7 +1484,10 @@
         "evolved": {
             "name": "Weiterentwickelt",
             "description": {
-                "general": "Erhöht Waffenschaden und Reparaturmenge von Hilfswaffen um 15%"
+                "general": [
+                    "Wenn du nicht-offensive Hilfswaffen hast, stellst du pro Sekunde 0.4% schweren Schaden und 2% Deckungsstärke wieder her",
+                    "Mit offensiven Hilfswaffen erhöhst du den Waffenschaden um 20%, auch für umliegende verbündete Schiffe"
+                ]
             }
         },
         "brigUpgrade": {
@@ -2963,169 +2966,169 @@
             }
         },
         "flagbearer": {
-            "name": "Flagbearer",
+            "name": "Fahnenträger",
             "description": {
                 "general": [
-                    "For each successful shot on enemies or repair on allies, apply a stack of Flagbearer. On enemy targets, each stack increases the damage dealt to the target by 1% per stack, up to 20%. On allies, increases repair received by the target by 2.% per stack, up to 50%",
-                    "Allied XSML, SML and MED ships within 500m gain 5% increased damage and 5% repair amount",
-                    "Increases Hull Health restored by Repair Weapons by 5% per Repair Weapon equipped"
+                    "Bei jedem erfolgreichen Treffer gegen Gegner oder Heilung bei Verbündeten wird ein Stapel Fahnenträger hinzugefügt. Bei Gegnern erhöht jeder Stapel den erlittenen Schaden um 1%, bis zu 20% pro Stapel. Bei Verbündeten wird die Heilung um 2,5% pro Stapel erhöht, bis zu 50%",
+                    "Verbündete XSML, SML und MED Schiffe im Umkreis von 500m verursachen 5% mehr Schaden und erhalten 5% mehr Heilung",
+                    "Erhöht pro ausgerüstete Reparaturwaffe den wiederhergestellten Rumpfzustand durch Reparaturwaffen um 5%"
                 ]
             }
         },
         "corvetteUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 83200",
-                    "Increases Brace Strength to 16640"
+                    "Rumpfzustand wird auf 83200 erhöht",
+                    "Deckungsstärke wird auf 16640 erhöht"
                 ],
                 "2": [
-                    "Increases Cargo to 150000"
+                    "Fracht wird auf 150000 erhöht"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Top Speed to 14kn",
-                    "Increases Trimming Speed to 19kn",
-                    "Adds 'Deep Blue' perk"
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Höchstgeschwindigkeit wird auf 14kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 19kn erhöht",
+                    "Fügt \"Blaue Tiefe\" Vorteil hinzu"
                 ],
                 "4": [
-                    "Increases Hull Health to 85600",
-                    "Increases Brace Strength to 17120"
+                    "Rumpfzustand wird auf 85600 erhöht",
+                    "Deckungsstärke wird auf 17120 erhöht"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Upgraded Mark' perk"
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt den Vorteil \"Verbesserte Markierung\" hinzu"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 102720",
-                    "Increases Brace Strength to 20544",
-                    "Increases Brace Strength Recovery by 25%"
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 102720 erhöht",
+                    "Deckungsstärke wird auf 20544 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
                 ]
             }
         },
         "upgradedMark": {
-            "name": "Upgraded Mark",
+            "name": "Verbesserte Markierung",
             "description": {
                 "general": [
-                    "At the maximum number of Stacks of Flagbearer, targets will receive additional 10% weapon damage. Allies will repair Severe Damage by 1% of incoming repair received",
-                    "Flagbearer lasts 20s"
+                    "Bei der maximalen Anzahl Stapel von Fahnenträger, erleiden Ziele zusätzlich 10% Schwachpunkt-Schaden. Verbündete können schweren Schaden um 1% der erhaltenen Heilung reparieren",
+                    "Fahnenträger hält 20 Sek. lang an"
                 ]
             }
         },
-        "livingBastion": {
-            "name": "Living Bastion",
+        "livingMetal": {
+            "name": "Lebendiges Metall",
             "description": {
-                "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
+                "general": "Erhalte einen Stapel Lebendiges Metall pro Sekunde, wenn in den letzten 5 Sek. kein Schaden erlitten wurde. Jeder Stapel erhöht den Panzerungswert um 10% pro Stapel, bis zu 150% bei 15 Stapel. Bei jedem Treffer verlierst du einen Stapel. Wenn du in Deckung getroffen wirst, verlierst du keine Stapel"
             }
         },
         "primordialHides": {
-            "name": "Primordial Hides",
+            "name": "Urzeitliche Häute",
             "description": {
-                "general": "Reduces damage taken by Sea Monster attacks by 15% or by 30% when Bracing. Increases Weapon Damage by 10% for 30s after bracing a Sea Monster attack"
+                "general": "Verringert den von Seeungeheuern zugefügten Schaden um 15%, oder um 30%, wenn du in Deckung gehst. Erhöht den Waffenschaden 30 Sek. um 10% nachdem du von einem Seeungeheuer-Angriff in Deckung gegangen bist"
             }
         },
         "caduceus": {
             "name": "Caduceus",
             "description": {
                 "general": [
-                    "Holding Brace charges up a repair pulse that restores up to 1.5% Hull Health per second for 12s to allies within 150m. Fully charging a pulse gives allies 12% reduced damage for the duration. This effect cannot stack",
-                    "Activating and maintaining Bracing consumes 50% more Crew Stamina"
+                    "In Deckung bleiben lädt einen Reparaturpuls auf, der Verbündeten innerhalb von 150m 12 Sek. lang bis zu 1.5% Rumpfzustand pro Sekunde wiederherstellt. Ist ein Puls komplett aufgeladen, erleiden die Verbündeten so lange 12% verminderten Schaden. Dieser Effekt ist nicht stapelbar",
+                    "In Deckung gehen und zu bleiben verbraucht 50% mehr Ausdauer der Besatzung"
                 ]
             }
         },
         "invertedFlagRack": {
             "description": {
                 "general": [
-                    "Deals 14% more weapon damage on Taunted targets",
-                    "Increases duration of the Taunted status effect on a target by 15%"
+                    "Verursacht 14% mehr Waffenschaden gegen Ziele, die verspottet sind",
+                    "Die Dauer des Statuseffekts \"Verspottet\" auf einem Ziel wird um 15% erhöht"
                 ]
             }
         },
         "apothecaryToolBench": {
             "description": {
                 "general": [
-                    "While at full sails or trimming, reduces the duration of Poisened status effect by 50%",
-                    "Reduces incoming Toxic Damage by 16%"
+                    "Bei vollen oder getrimmten Segeln wird die Dauer des Statuseffekts \"Vergiftet\" um 50% verringert",
+                    "Erlittener Giftschaden wird um 16% verringert"
                 ]
             }
         },
         "anatomyCabinet": {
             "description": {
                 "general": [
-                    "Reduces damage done to Brace Strength by Sea Monster attacks by 18%",
-                    "Reduces damaging Status Effect and Curse Mark duration by 10%"
+                    "Verringert den ausgeteilten Schaden gegen Deckungsstärke durch Seeungeheuer-Angriffe um 18%",
+                    "Verringert den Schaden von Statuseffekt und die Dauer von Fluchmal um 10%"
                 ]
             }
         },
         "blubberWorks": {
             "description": {
                 "general": [
-                    "After 4 consecutive hits on a Sea Monster, reduces Reload Time of Broadside Weapons by 15% for 20s. Missing a shot resets the counter",
-                    "Consecutive hits on Sea Monster weakpoints deal 10% more Secondary Damage up to 40% for 5s",
-                    "Increases weapon damage to Sea Monster by 10%"
+                    "Nach 4 aufeinanderfolgenden Treffern auf ein Seeungeheuer wird die Nachladezeit von Breitseitenwaffen 20 Sek. lang um 15% verringert. Verfehlst du einen Schuss, wird der Zähler zurückgesetzt",
+                    "Aufeinanderfolgende Treffer auf Seeungeheuer-Schwachpunkte verursachen 10% mehr Sekundärschaden, bis zu 40% (für 5s)",
+                    "Erhöht Waffenschaden auf Seeungeheuer um 10%"
                 ]
             }
         },
         "drowningCabinet": {
             "description": {
                 "general": [
-                    "When dealing damage to a target with reduced Max Hull Health, Flooding Weapons deals 15% more weapon damage for 20s with a cooldown of 60s",
-                    "Flooded status effect applied to targets within 250m have a 12% increased duration",
-                    "Reduces Reload Time of Flooding Weapons by 10%"
+                    "Wein ein Ziel mit weniger Maximaler Rumpfzustand Schaden erleidet, verursacht Überflutende Waffen 20 Sek. lang 15% mehr Waffenschaden. Dies hat eine Abklingzeit von 60 Sek",
+                    "Statuseffekt Überflutet, der auf Ziele innerhalb von 250m angewandt wird, hat eine längere Dauer von 12%",
+                    "Verringert Nachladezeit von Überflutende Waffen um 10%"
                 ]
             }
         },
         "ballistaMountSmithy": {
             "description": {
                 "general": [
-                    "Dealing 2000 damage with a Ballista Weapon to a target marks them for 20s. While Marked, target receives 12% more damage from Ballista Weapons and more Secondary Damage from all sources",
-                    "Reduces Charge Time of Ballista Weapons by 18%",
-                    "Increases Weakpoint Damage of Ballista Weapons by 14%"
+                    "Wenn einem Ziel 2000 Schaden mit einer Ballista-Waffe verursacht wird, wird dieses für 20s markiert. Wenn es markiert ist, erleidet es 12% mehr Schaden durch Ballista-Waffen und Sekundärschaden von allen Quellen",
+                    "Verringert die Aufladezeit von Ballista-Waffen um 18%",
+                    "Schwachpunkt-Schaden von Ballista-Waffen wird um 14% erhöht"
                 ]
             }
         },
         "causticAmmo": {
-            "name": "Caustic Ammo",
+            "name": "Ätzende Munition",
             "description": {
-                "general": "Landing 15 hits in a single volley increases the weapon damage the target receives by 8% for 10s. If the target is Poisoned, they will receive 12% more damage from all sources"
+                "general": "Wenn du mit einer einzigen Salve 15 Treffer landest, erhöht sich der Waffenschaden auf das Ziel um 8% für 10 Sek. Wenn das Ziel vergiftet ist, bekommt es 12% mehr Schaden aus allen Quellen"
             }
         },
         "argusTouch": {
-            "name": "Argus Touch",
+            "name": "Argus' Berührung",
             "description": {
                 "general": [
-                    "Hits on allies apply a stack that restores 1% Hull Health over 2s, up to 10 stacks for 10% over 20s. For targets beyond 200m, 2 stacks are applied per hit",
-                    "At maximum number of stacks, the effect removes Torn Sails and prevents additional Torn Sails Charges for the duration of the effect"
+                    "Treffer auf Verbündete geben einen Stapel, der über 2 Sek. 1% Rumpfzustand wiederherstellt, bis zu 10 Stapel für 10% über 20 Sek. Bei Zielen jenseits von 200m gibt es 2 Stapel pro Treffer",
+                    "Bei der maximalen Anzahl an Stapeln entfernt der Effekt \"Zerrissene Segel\" und verhindert zusätzliche \"Zerrissene Segel\"-Aufladungen für die Dauer des Effekts"
                 ]
             }
         },
         "celestialBoom": {
-            "name": "Celestial Boom",
+            "name": "Rettende Salve",
             "description": {
                 "general": [
-                    "Consecutive hits repair 5% for each projectile",
-                    "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
+                    "Aufeinanderfolgende Treffer reparieren 5% für jedes Geschoss",
+                    "Wenn du dasselbe Ziel mehrmals hintereinander triffst, wird auch Deckungsstärke um 2% pro Treffer wiederhergestellt"
                 ]
             }
         },
         "chargedBarb": {
-            "name": "Charged Barb",
+            "name": "Aufgeladener Widerhaken",
             "description": {
                 "general": [
-                    "A hit from this weapon attaches a charged metal bolt to the target for 10s. The bolt deals 10% of the weapon's damage as lightning damage every second",
-                    "If another bolt is within 200m, both explode and trigger a chain of lightning that deals 12% of the weapon's secondary damage up to 4 targets between the bolts"
+                    "Befestigt für 10s einen geladenen Metallbolzen am Ziel. Der Bolzen verursacht pro Sekunde 10% Schaden als Elektroschaden",
+                    "Wenn sich ein weiterer Bolzen innerhalb von 200m befindet, explodieren beide und lösen eine Reihe von Blitzschlägen aus, die 12% des sekundären Schadens der Waffe verursachen und sich auf 4 Ziele zwischen den Bolzen ausbreiten"
                 ]
             }
         },
         "impale": {
-            "name": "Impale",
+            "name": "Aufspießen",
             "description": {
-                "general": "This weapon can be charged to pierce through enemies, dealing damage as it pierces. Damage decreases per hit"
+                "general": "Diese Waffe kann aufgeladen werden, um Gegner zu durchbohren und dabei Schaden zu verursachen. Der Schaden nimmt mit jedem Treffer ab"
             }
         }
     }
