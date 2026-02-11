@@ -10102,6 +10102,9 @@
         "weight": 80,
         "gearScore": 20,
         "blueprint": "personRahmaTelokPenjarah",
+        "obtainable": [
+            "foundersCache"
+        ],
         "required": {
             "greenheartPlank": 12,
             "plateGlass": 10,
@@ -10115,7 +10118,7 @@
             "densityFurnace"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-02-11"
     },
     "langrageBarrels": {
         "id": "langrageBarrels",
@@ -10558,7 +10561,8 @@
         "obtainable": [
             "hallowedGravestoneSaintAnne",
             "reapersCache",
-            "ascendedRequiemOfTheLostEventCache"
+            "ascendedRequiemOfTheLostEventCache",
+            "foundersCache"
         ],
         "blueprint": "hallowedGravestoneSaintAnne",
         "value": 1,
@@ -10583,7 +10587,7 @@
             "burning2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2026-02-11"
     },
     "freemansEmbrace": {
         "id": "freemansEmbrace",
@@ -10722,14 +10726,15 @@
         "obtainable": [
             "hallowedGravestoneSaintAnne",
             "reapersCache",
-            "darktideChest"
+            "darktideChest",
+            "foundersCache"
         ],
         "blueprint": "hallowedGravestoneSaintAnne",
         "perks": [
             "quickIgnitingPowder"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-11"
     },
     "ballistaFurnace1": {
         "id": "ballistaFurnace1",
@@ -16006,6 +16011,20 @@
             "electric2",
             "piercing2"
         ],
+        "dateAdded": "2026-02-10",
+        "lastUpdated": "2026-02-10"
+    },
+    "foundersCache": {
+        "id": "foundersCache",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "event": "theFounding",
+        "worldEvent": [
+            "scurlocksPrecious"
+        ],
+        "value": 1,
+        "weight": 100,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     }
