@@ -147,17 +147,20 @@
     "payingDues": {
         "id": "payingDues",
         "type": "convoy",
-        "faction": "scavengers"
+        "faction": "scavengers",
+        "event": "theFounding"
     },
     "scurlocksPrecious": {
         "id": "scurlocksPrecious",
         "type": "convoy",
-        "faction": "scavengers"
+        "faction": "scavengers",
+        "event": "theFounding"
     },
     "thickAsThieves": {
         "id": "thickAsThieves",
         "type": "convoy",
-        "faction": "scavengers"
+        "faction": "scavengers",
+        "event": "theFounding"
     },
     "gloryAdorned": {
         "id": "gloryAdorned",
