@@ -192,8 +192,8 @@
             "name": "Cuirassé",
             "description": {
                 "general": [
-                    "Increases Armor by 350 for 30 seconds after bracing damage",
-                    "Increases Brace Strength by 275% and Brace Strength Recovery by 25%"
+                    "Set sail with 5 stacks of Plating and lose a stack of Plating when Hull Health decreases on receiving hits. Each stack of Plating increases Armor Rating by 100",
+                    "Gains a stack of Plating every 10s up to 5 stacks and increases weapon damage by 1% per 50 total Armor Rating (capped at 50%)"
                 ]
             }
         },
@@ -781,7 +781,7 @@
             "name": "Artificier",
             "description": {
                 "general": [
-                    "Consecutive weapon hits to targets increases effectiveness of subsequent Buoys by 3%, capping at 45%. Resets if more than 12 seconds pass between hits",
+                    "Consecutive weapon hits to targets increases Weapon Damage and Repair Amount by 2%, capping out at 30%. Resets if more than 11s pass between hits",
                     "Réduit Temps de rechargement sur Arme auxiliaire de 10%, y compris près des navires alliés.",
                     "Augmente la Santé de la Coque restaurée par des armes de réparation de 5% par arme de réparation équipée."
                 ]
@@ -1484,7 +1484,10 @@
         "evolved": {
             "name": "Évolué",
             "description": {
-                "general": "Increase weapon damage and Repair Amount of Auxiliary Weapons by 15%"
+                "general": [
+                    "With non-offensive Auxiliary Weapons equipped, restores own Severe Damage by 0.4% and Brace Strength by 2% per second",
+                    "With offensive Auxiliary Weapons equipped, increases Weapon Damage by 20%, as well as for nearby friendly ships"
+                ]
             }
         },
         "brigUpgrade": {
@@ -3017,8 +3020,8 @@
                 ]
             }
         },
-        "livingBastion": {
-            "name": "Living Bastion",
+        "livingMetal": {
+            "name": "Living Metal",
             "description": {
                 "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
             }

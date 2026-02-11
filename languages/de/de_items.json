@@ -2954,16 +2954,16 @@
             }
         },
         "corvetteUpgrade": {
-            "name": "Corvette Upgrade",
+            "name": "Korvette Verbesserung",
             "description": {
-                "general": "Ship upgrade for the Corvette.",
-                "1": "Upgrades the ship level from 0 to 1.",
-                "2": "Upgrades the ship level from 1 to 2.",
-                "3": "Upgrades the ship level from 2 to 3.",
-                "4": "Upgrades the ship level from 3 to 4.",
-                "5": "Upgrades the ship level from 4 to 5.",
-                "6": "Upgrades the ship level from 5 to 6.",
-                "7": "Upgrades the ship level from 6 to 7."
+                "general": "Schiffsverbesserung für die Korvette.",
+                "1": "Aufwertung der Verbesserungsstufe von 0 auf 1.",
+                "2": "Aufwertung der Verbesserungsstufe von 1 auf 2.",
+                "3": "Aufwertung der Verbesserungsstufe von 2 auf 3.",
+                "4": "Aufwertung der Verbesserungsstufe von 3 auf 4",
+                "5": "Aufwertung der Verbesserungsstufe von 4 auf 5.",
+                "6": "Aufwertung der Verbesserungsstufe von 5 auf 6.",
+                "7": "Aufwertung der Verbesserungsstufe von 6 auf 7."
             }
         },
         "foundingCelebratoryChest": {
@@ -2973,105 +2973,105 @@
             }
         },
         "krakenInkGlands": {
-            "name": "Kraken Ink Glands",
+            "name": "Tintendrüsen des Kraken",
             "description": {
-                "general": "Toxic glands from the Kraken, filled with corrosive venom strong enough to burn through hull and and flesh"
+                "general": "Giftdrüsen des Kraken, gefüllt mit ätzendem Sekret, das Schiffsrümpfe und Fleisch zu verbrennen vermag."
             }
         },
         "krakenChest": {
-            "name": "Mysterious Chest (Kraken)",
+            "name": "Geheimnisvolle Truhe (Kraken)",
             "description": {
-                "general": "What rare finds lie within?"
+                "general": "Welch Raritäten wohl darin verborgen sind?"
             }
         },
         "livingBastion": {
-            "name": "Living Bastion",
+            "name": "Lebendige Bastion",
             "description": {
-                "general": "Armor Rating increases while not taking damage. Its surface shifts subtly, as if breathing, with cracked plating and faded gold veins glowing faintly from accumulated stacks."
+                "general": "Erhöht den Panzerungswert, solange du keinen Schaden erleidest. Die rissigen Platten der Oberfläche regen sich leicht, als ob sie atmen würden, und blasse, goldene Venen leuchten sanft mit jedem angesammelten Stapel."
             }
         },
         "mantleOfTheDeep": {
-            "name": "Mantle of the Deep",
+            "name": "Mantel der Tiefe",
             "description": {
-                "general": "Reduces damage taken by Sea Monster attacks. Crafted from the salvaged hides of deep-dwelling leviathans by the keepers of balance beneath the waves."
+                "general": "Verringert den von Seeungeheuern zugefügten Schaden. Angefertigt von den Hütern des Gleichgewichts unter den Wellten aus den geborgenen Häuten von Leviathanen der Tiefen."
             }
         },
         "tidesReprieve": {
-            "name": "Tide's Reprieve",
+            "name": "Begnadigung der Gezeiten",
             "description": {
-                "general": "Activates a pulse that restores Hull Health to allies. Crafted from the rugged iron plates and heavy rivets of empires past."
+                "general": "Aktiviert einen Puls, der den Rumpfzustand deiner Verbündeten wiederherstellt. Angefertigt aus robusten Eisenplatten und dicken Nieten vergangener Imperien."
             }
         },
         "invertedFlagRack": {
-            "name": "Inverted Flag Rack",
+            "name": "Umgekehrter Flaggenständer",
             "description": {
-                "general": "Increases Weapon Damage to Taunted targets. Sends a clear message to any foes who approach: \"Your flag has fallen. You're next.\""
+                "general": "Erhöht den Waffenschaden gegen verspottete Ziele. Sendet eine klare Botschaft an alle Gegner, die sich nähren: \"Eure Flagge ist gefallen. Ihr seid als Nächstes dran.\""
             }
         },
         "apothecaryToolBench": {
-            "name": "Apothecary Tool Bench",
+            "name": "Apotheker-Werkbank",
             "description": {
-                "general": "Enhances defense against the Poisened Status Effect while the ship is sailing. Assembled by a Rempah herbalist. Contains antidotes for jellyfish stings and fermented seaweed poisoning."
+                "general": "Erhöht die Verteidigung gegen den Statuseffekt vergiftet, während das Schiff segelt. Zusammengestellt von einem Kräuterexperten der Rempah. Es enthält Gegengift für Quallenstiche und fermentiertes Algengift."
             }
         },
         "anatomyCabinet": {
-            "name": "Anatomy Cabinet",
+            "name": "Anatomieschrank",
             "description": {
-                "general": "Enhances Brace Strength against Sea Monster attacks. Some swear the knowledge within has saved many from the jaws of death."
+                "general": "Erhöht die Deckungsstärke gegen Angriffe von Seeungeheuern. Einige sind der festen Überzeugung, dass das Wissen darin schon viele vor dem sicheren Tod bewahrt hat."
             }
         },
         "blubberWorks": {
-            "name": "Blubber Works",
+            "name": "Walspeckwerkstatt",
             "description": {
-                "general": "Reduces Reload Time of broadside weapons after dealing damage to Sea Monsters. The Sea People believe the essence of a creature can be used to influence or harm another."
+                "general": "Verringert die Nachladezeit von Breitseitenwaffen, wenn du Seeungeheuern Schaden zufügst. Das Seevolk glaubt, dass die Essenz eines Wesens dazu benutzt werden kann, ein anderes Wesen zu beeinflussen oder zu verletzen."
             }
         },
         "drowningCabinet": {
-            "name": "Drowning Cabinet",
+            "name": "Untergehender Schrank",
             "description": {
-                "general": "Increases Flooding Weapon Damage for targets with Severe Damage. Enterprising pirates have modified the design to force floodwaters deeper and faster into enemy hulls."
+                "general": "Erhöht den Überflutungswaffenschaden für Ziele mit schwerem Schaden. Einfallsreiche Piraten haben den Entwurf so modifiziert, damit das Flutwasser schneller und tiefer in den gegnerischen Rumpf eindringt."
             }
         },
         "ballistaMountSmithy": {
-            "name": "Ballista Mount Smithy",
+            "name": "Ballista-Schmiede",
             "description": {
-                "general": "Enhances Ballista Weapons and increases damage to Ruptured targets. Modeled after the siege mounts once used in the fortified city of Galle, Ceylon."
+                "general": "Verbessert Ballista-Waffen und erhöht den Schaden an durchbrochenen Zielen. Nach dem Vorbild der Belagerungsmaschinen gebaut, die einst in der befestigten Stadt von Galle, Ceylon benutzt wurden."
             }
         },
         "blightmaw": {
-            "name": "Blightmaw",
+            "name": "Pestschlund",
             "description": {
-                "general": "Designed by the plague-warped minds of La Peste's alchemists. Fires shells laced with toxins that cling to enemy hulls, corroding their defenses and making them more vulnerable to subsequent attacks."
+                "general": "Entworfen von den verseuchten Köpfen der Alchemisten von La Peste. Feuert Geschosse ab, die mit Giftstoffen versetzt sind und sich an den Rümpfen der Gegner festsetzen, ihre Verteidigung korrodieren und sie für nachfolgende Angriffe anfällig machen."
             }
         },
         "stormtongue": {
-            "name": "Stormtongue",
+            "name": "Sturmzunge",
             "description": {
-                "general": "Repeatedly fires lightning and explosive projectiles. Its barrel is etched with stormcall glyphs and sigils of the phoenix."
+                "general": "Feuert wiederholt Blitz- und Sprenggeschosse ab. Sein Lauf ist mit Sturmruf-Glyphen und Phönixsiegeln verziert."
             }
         },
         "reachwarden": {
-            "name": "Reachwarden",
+            "name": "Hüter in der Ferne",
             "description": {
-                "general": "Engineered for long-range support. Fires crystalline-tipped projectiles for restorative pulses to allies."
+                "general": "Entwickelt für die Fernunterstützung. Feuer Projektile mit Kristallspitzen ab, um Verbündeten Heilungsimpulse zu verleihen."
             }
         },
         "celestialBoom": {
-            "name": "Celestial Boom",
+            "name": "Himmlische Blüte",
             "description": {
-                "general": "Protects allies with volleys of repairing rockets. \"True strength lies not in destruction, but in the power to preserve.\""
+                "general": "Beschützt Verbündete mit Salven reparierender Raketen. \"Wahre Macht liegt nicht in der Zerstörung, sondern darin, zu beschützen.\""
             }
         },
         "woundcaller": {
-            "name": "Woundcaller",
+            "name": "Wundenrufer",
             "description": {
-                "general": "Upon impact, its payload releases a pulse of maddening resonance, an ancient frequency said to echo the death cries of fallen beasts. Those struck are seized by a violent frenzy, often damaging their own hulls as they lash out blindly."
+                "general": "Beim Treffen wird ein Impuls wahnsinniger Resonanz freigesetzt, eine uralte Frequenz, in der angeblich die Todesschreie gefallener Bestien widerhallen. Die Getroffenen werden von einer heftigen Raserei erfasst und beschädigen häufig ihre einen Rümpfe, während sie blind um sich schlagen."
             }
         },
         "cloudbinder": {
-            "name": "Cloudbinder",
+            "name": "Wolkenbinder",
             "description": {
-                "general": "Each bolt inscribed with stormcall glyphs and stabilized by jade capacitors, allowing the weapon to arc across multiple enemies. The more targets linked, the more volatile the storm, crackling with celestial wrath."
+                "general": "Jeder Bolzen ist mit Sturmruf-Glyphen versehen und wird durch Jade-Kondensatoren stabilisiert, wodurch die Waffe mehrere Gegner gleichzeitig treffen kann. Je mehr Ziele miteinander verbunden sind, desto unberechenbarer wird der Sturm, der vor himmlischer Wut nur so knistert."
             }
         }
     }

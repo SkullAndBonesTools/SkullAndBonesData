@@ -192,8 +192,8 @@
             "name": "钢铁甲壳",
             "description": {
                 "general": [
-                    "防御伤害后，装甲增加350，持续30秒。",
-                    "防御强度增加275%，防御强度回复增加25%。"
+                    "Set sail with 5 stacks of Plating and lose a stack of Plating when Hull Health decreases on receiving hits. Each stack of Plating increases Armor Rating by 100",
+                    "Gains a stack of Plating every 10s up to 5 stacks and increases weapon damage by 1% per 50 total Armor Rating (capped at 50%)"
                 ]
             }
         },
@@ -781,7 +781,7 @@
             "name": "能工巧匠",
             "description": {
                 "general": [
-                    "使用武器连续命中目标可使后续浮标的效果提升3%，最高为45%。如果两次打击之间间隔超过12秒，则该效果重置。",
+                    "Consecutive weapon hits to targets increases Weapon Damage and Repair Amount by 2%, capping out at 30%. Resets if more than 11s pass between hits",
                     "辅助武器与附近友方船只的装填时间减少10%。",
                     "每装备一件修复型武器，修复型武器提供的船身生命值回复提升5%。"
                 ]
@@ -1484,7 +1484,10 @@
         "evolved": {
             "name": "更新换代",
             "description": {
-                "general": "辅助武器的伤害和维修量提升15%"
+                "general": [
+                    "With non-offensive Auxiliary Weapons equipped, restores own Severe Damage by 0.4% and Brace Strength by 2% per second",
+                    "With offensive Auxiliary Weapons equipped, increases Weapon Damage by 20%, as well as for nearby friendly ships"
+                ]
             }
         },
         "brigUpgrade": {
@@ -3017,8 +3020,8 @@
                 ]
             }
         },
-        "livingBastion": {
-            "name": "Living Bastion",
+        "livingMetal": {
+            "name": "Living Metal",
             "description": {
                 "general": "Gains a stack of Living Metal per second if no damage was taken in the last 5s. Stacks of Living Metal increases Armor Rating by 10% per stack, up to 150% at 15 stacks. Loses a stack on every hit taken. Bracing will not reduce stacks"
             }

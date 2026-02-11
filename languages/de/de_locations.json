@@ -253,6 +253,7 @@
         "factionWarWinReward": "Belohnung für den Sieg der Fraktion im Fraktionskrieg",
         "purchasableWithSilverLionsAtTheFoundingChest": "Ist/war mit Silberlöwen in der Gründungstruhe in Sainte Anne während des Ereignisses kaufbar",
         "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
-        "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft"
+        "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft",
+        "twitchDropStartYear2Season4": "Twitch Drops zu Beginn von {{eyeOfTheBeast}}"
     }
 }
