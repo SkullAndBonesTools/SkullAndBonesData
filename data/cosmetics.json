@@ -30381,7 +30381,8 @@
     "keeperOfCoin": {
         "id": "keeperOfCoin",
         "type": "waist",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30389,7 +30390,8 @@
     "fortunesHold": {
         "id": "fortunesHold",
         "type": "forearm",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30397,7 +30399,8 @@
     "masterOfShadows": {
         "id": "masterOfShadows",
         "type": "faceAccessory",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30405,7 +30408,8 @@
     "boldBrass": {
         "id": "boldBrass",
         "type": "hand",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30413,7 +30417,8 @@
     "moonlitTricorne": {
         "id": "moonlitTricorne",
         "type": "headwear",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30421,7 +30426,8 @@
     "silkTouch": {
         "id": "silkTouch",
         "type": "neck",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30429,7 +30435,8 @@
     "quiltedStrides": {
         "id": "quiltedStrides",
         "type": "bottom",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30437,7 +30444,8 @@
     "gallantborn": {
         "id": "gallantborn",
         "type": "footwear",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
@@ -30445,7 +30453,8 @@
     "theBaronOfBaroque": {
         "id": "theBaronOfBaroque",
         "type": "torso",
-        "season": "midnightMarquis",
+        "season": "eyeOfTheBeast",
+        "set": "midnightMarquis",
         "obtainable": "premiumPass",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
