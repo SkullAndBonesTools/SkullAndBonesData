@@ -357,5 +357,9 @@
     "kraken": {
         "id": "kraken",
         "type": "seaMonster"
+    },
+    "theDrowningPlague": {
+        "id": "theDrowningPlague",
+        "type": "eliteWarship"
     }
 }

@@ -15403,18 +15403,20 @@
         "id": "laPestesLockerMythic",
         "rarity": "legendary",
         "season": "gutsAndGlory",
+        "worldEvent": "theDrowningPlague",
         "type": "chest",
         "value": 1,
         "weight": 100,
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-13"
     },
     "emeraldSkullTalisman": {
         "id": "emeraldSkullTalisman",
         "season": "gutsAndGlory",
+        "worldEvent": "theDrowningPlague",
         "type": "quest",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-13"
     },
     "eerieRing": {
         "id": "eerieRing",
