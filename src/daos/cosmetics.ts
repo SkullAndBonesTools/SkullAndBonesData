@@ -26,11 +26,17 @@ export class Cosmetic {
         public readonly season?: Season,
         public readonly faction?: Faction,
         public readonly ship?: Ship,
+        /**
+        * @deprecated Not actively maintained anymore and may be removed in the future, obtainable field is used in favor
+        */
         public readonly contract?: Contract,
         public basic?: Cosmetic,
         public upgrades?: Cosmetic[],
         public readonly required?: Map<Material, number>,
         public readonly requiredRank?: string,
+        /**
+        * @deprecated Not actively maintained anymore and may be removed in the future, obtainable field is used in favor
+        */
         public readonly bounty?: string,
         public readonly event?: Event,
         public readonly worldEvent?: WorldEvent | WorldEvent[]

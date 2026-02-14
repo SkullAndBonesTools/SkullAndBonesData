@@ -38,6 +38,9 @@ export class Item {
         public readonly worldEvent?: WorldEvent | WorldEvent[],
         public readonly armor?: number,
         public readonly damageMitigation?: Record<string, number>,
+        /**
+        * @deprecated Not actively maintained anymore and may be removed in the future, obtainable field is used in favor
+        */
         public readonly contract?: Contract,
         public readonly faction?: Faction,
         public readonly unobtainable?: boolean
