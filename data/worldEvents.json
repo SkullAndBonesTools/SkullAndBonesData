@@ -361,5 +361,9 @@
     "theDrowningPlague": {
         "id": "theDrowningPlague",
         "type": "eliteWarship"
+    },
+    "jawsOfRetribution": {
+        "id": "jawsOfRetribution",
+        "type": "seaMonster"
     }
 }
