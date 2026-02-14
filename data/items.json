@@ -15703,10 +15703,11 @@
         "season": "eyeOfTheBeast",
         "type": "chest",
         "worldEvent": "kraken",
+        "obtainable": "krakenInkGlandsReward",
         "value": 1,
         "weight": 100,
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-02-14"
     },
     "livingBastion": {
         "id": "livingBastion",
