@@ -9189,6 +9189,7 @@
         "weight": 80,
         "gearScore": 25,
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": ["megaLestariChest","risenMegaLestariChest"],
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
         "required": {
@@ -9204,7 +9205,7 @@
             "lestariTrophy"
         ],
         "dateAdded": "2024-07-13",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2026-02-14"
     },
     "hubacTuningRack": {
         "id": "hubacTuningRack",
@@ -9899,7 +9900,7 @@
         "weight": 80,
         "gearScore": 25,
         "bounty": "jawsOfRetribution",
-        "worldEvent": "reaversVengeance",
+        "worldEvent": ["jawsOfRetribution","reaversVengeance"],
         "obtainable": [
             "zamaharibuChest",
             "risenZamaharibuChest"
@@ -9918,7 +9919,7 @@
             "organHarvestingStation"
         ],
         "dateAdded": "2024-08-17",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-02-14"
     },
     "bracedGunwales": {
         "id": "bracedGunwales",
@@ -16029,5 +16030,27 @@
         "weight": 100,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "zamaharibuChest": {
+        "id": "zamaharibuChest",
+        "rarity": "common",
+        "season": "ragingTides",
+        "type": "chest",
+        "worldEvent": "jawsOfRetribution",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-02-14",
+        "lastUpdated": "2026-02-14"
+    },
+    "megaLestariChest": {
+        "id": "megaLestariChest",
+        "rarity": "common",
+        "season": "chorusOfHavoc",
+        "type": "chest",
+        "worldEvent": "silentDeath",
+        "value": 1,
+        "weight": 100,
+        "dateAdded": "2026-02-14",
+        "lastUpdated": "2026-02-14"
     }
 }

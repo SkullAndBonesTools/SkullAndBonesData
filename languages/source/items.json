@@ -3079,6 +3079,18 @@
             "description": {
                 "general": "An ornate chest containing spoils from formidable foes of seasons past."
             }
+        },
+        "zamaharibuChest": {
+            "name": "Mysterious Chest (Zamaharibu)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "megaLestariChest": {
+            "name": "Mysterious Chest (Mega Lestari)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
         }
     }
 }

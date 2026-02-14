@@ -3491,9 +3491,10 @@
         "set": "primordialBeast",
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "primordialBeastHat": {
         "id": "primordialBeastHat",
@@ -3502,9 +3503,10 @@
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
         "effect": "emissive",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "primordialBeastBoots": {
         "id": "primordialBeastBoots",
@@ -3513,9 +3515,10 @@
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
         "effect": "emissive",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "jaegerOfficerCoat": {
         "id": "jaegerOfficerCoat",
@@ -3531,9 +3534,10 @@
         "set": "primordialBeast",
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "bloodyScaly": {
         "id": "bloodyScaly",
@@ -3541,9 +3545,10 @@
         "set": "primordialBeast",
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "primordialBeastGloves": {
         "id": "primordialBeastGloves",
@@ -3552,9 +3557,10 @@
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
         "effect": "emissive",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "leatheryAshenPants": {
         "id": "leatheryAshenPants",
@@ -3562,9 +3568,10 @@
         "set": "primordialBeast",
         "season": "ragingTides",
         "bounty": "jawsOfRetribution",
+        "worldEvent": "jawsOfRetribution",
         "obtainable": "zamaharibuChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "arrgh": {
         "id": "arrgh",
@@ -12636,9 +12643,10 @@
         "set": "legendOfLestari",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "fangsOut": {
         "id": "fangsOut",
@@ -12646,9 +12654,10 @@
         "set": "legendOfLestari",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "lestarisMaw": {
         "id": "lestarisMaw",
@@ -12656,9 +12665,10 @@
         "set": "legendOfLestari",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "bloodSpray": {
         "id": "bloodSpray",
@@ -12666,9 +12676,10 @@
         "set": "legendOfLestari",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "swiftlySheComes": {
         "id": "swiftlySheComes",
@@ -12676,9 +12687,10 @@
         "set": "legendOfLestari",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-07-13"
+        "lastUpdated": "2026-02-14"
     },
     "doneFor": {
         "id": "doneFor",
@@ -13392,9 +13404,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "sentinelBracers": {
         "id": "sentinelBracers",
@@ -13402,9 +13415,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "bottomlessGaze": {
         "id": "bottomlessGaze",
@@ -13412,9 +13426,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "skinOfTheTeeth": {
         "id": "skinOfTheTeeth",
@@ -13422,9 +13437,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "lestarisMight": {
         "id": "lestarisMight",
@@ -13432,9 +13448,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "bloodySplits": {
         "id": "bloodySplits",
@@ -13442,9 +13459,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "drippedOvercoat": {
         "id": "drippedOvercoat",
@@ -13452,9 +13470,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "intoTheMaw": {
         "id": "intoTheMaw",
@@ -13462,9 +13481,10 @@
         "set": "lestariHunter",
         "season": "chorusOfHavoc",
         "bounty": "silentDeath",
+        "worldEvent": "silentDeath",
         "obtainable": "megaLestariChest",
         "dateAdded": "2024-07-06",
-        "lastUpdated": "2024-07-06"
+        "lastUpdated": "2026-02-14"
     },
     "nightLurker": {
         "id": "nightLurker",
