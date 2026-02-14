@@ -16037,6 +16037,7 @@
         "season": "ragingTides",
         "type": "chest",
         "worldEvent": "jawsOfRetribution",
+        "obtainable": "zamaharibuEyeReward",
         "value": 1,
         "weight": 100,
         "dateAdded": "2026-02-14",
@@ -16048,8 +16049,25 @@
         "season": "chorusOfHavoc",
         "type": "chest",
         "worldEvent": "silentDeath",
+        "obtainable": "megaLestariEyeReward",
         "value": 1,
         "weight": 100,
+        "dateAdded": "2026-02-14",
+        "lastUpdated": "2026-02-14"
+    },
+    "zamaharibusEye": {
+        "id": "zamaharibusEye",
+        "season": "ragingTides",
+        "worldEvent": "jawsOfRetribution",
+        "type": "quest",
+        "dateAdded": "2026-02-14",
+        "lastUpdated": "2026-02-14"
+    },
+    "megaLestarisEye": {
+        "id": "megaLestarisEye",
+        "season": "chorusOfHavoc",
+        "worldEvent": "silentDeath",
+        "type": "quest",
         "dateAdded": "2026-02-14",
         "lastUpdated": "2026-02-14"
     }

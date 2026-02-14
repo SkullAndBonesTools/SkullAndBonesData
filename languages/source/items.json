@@ -3091,6 +3091,18 @@
             "description": {
                 "general": "What rare finds lie within?"
             }
+        },
+        "zamaharibusEye": {
+            "name": "Zamaharibu's Eye",
+            "description": {
+                "general": "Plucked from the eye socket of an age-old beast. Its unflinching gaze instills primal fear in you, as though you were being hunted like prey."
+            }
+        },
+        "megaLestarisEye": {
+            "name": "Mega Lestari's Eye",
+            "description": {
+                "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
+            }
         }
     }
 }
