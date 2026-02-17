@@ -21497,6 +21497,12 @@
             "description": {
                 "general": "Some habits die harder than kings"
             }
+        },
+        "nightBark": {
+            "name": "Night Bark",
+            "description": {
+                "general": "A worthy upgrade for a true pirate metalhead"
+            }
         }
     }
 }

@@ -31146,5 +31146,13 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "nightBark": {
+        "id": "nightBark",
+        "type": "seaFireWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }
