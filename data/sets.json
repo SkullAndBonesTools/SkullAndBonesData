@@ -1622,5 +1622,33 @@
     "cutthroatsCreed": {
         "id": "cutthroatsCreed",
         "type": "player"
+    },
+    "silverSpectre": {
+        "id": "silverSpectre",
+        "type": "ship"
+    },
+    "abyssalRegalia": {
+        "id": "abyssalRegalia",
+        "type": "ship"
+    },
+    "headHunter": {
+        "id": "headHunter",
+        "type": "ship"
+    },
+    "emberhound": {
+        "id": "emberhound",
+        "type": "ship"
+    },
+    "purveyorOfWar": {
+        "id": "purveyorOfWar",
+        "type": "ship"
+    },
+    "argentWarden": {
+        "id": "argentWarden",
+        "type": "player"
+    },
+    "crimsonStreak": {
+        "id": "crimsonStreak",
+        "type": "player"
     }
 }
