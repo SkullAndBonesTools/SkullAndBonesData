@@ -3073,6 +3073,12 @@
             "description": {
                 "general": "Jeder Bolzen ist mit Sturmruf-Glyphen versehen und wird durch Jade-Kondensatoren stabilisiert, wodurch die Waffe mehrere Gegner gleichzeitig treffen kann. Je mehr Ziele miteinander verbunden sind, desto unberechenbarer wird der Sturm, der vor himmlischer Wut nur so knistert."
             }
+        },
+        "foundersCache": {
+            "name": "Founder's Cache",
+            "description": {
+                "general": "An ornate chest containing spoils from formidable foes of seasons past."
+            }
         }
     }
 }
