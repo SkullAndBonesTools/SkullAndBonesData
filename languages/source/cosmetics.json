@@ -21287,6 +21287,12 @@
             "description": {
                 "general": "Wings of fire, carved with fury, crowned in flight"
             }
+        },
+        "chomperfin": {
+            "name": "Chomperfin",
+            "description": {
+                "general": "This little guy has the most legendary battle squeak"
+            }
         }
     }
 }
