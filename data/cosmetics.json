@@ -31007,5 +31007,80 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "brineAndBone": {
+        "id": "brineAndBone",
+        "type": "headwear",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "saltyVisions": {
+        "id": "saltyVisions",
+        "type": "faceAccessory",
+        "effect": ["emissive","movementReactive"],
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "candleBehindGlass": {
+        "id": "candleBehindGlass",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "theGildedRemnant": {
+        "id": "theGildedRemnant",
+        "type": "torso",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "promiseUnkept": {
+        "id": "promiseUnkept",
+        "type": "neck",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "claspOfAnOath": {
+        "id": "claspOfAnOath",
+        "type": "waist",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "deathsHeadHand": {
+        "id": "deathsHeadHand",
+        "type": "hand",
+        "effect": "emissive",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "drownedLedgers": {
+        "id": "drownedLedgers",
+        "type": "bottom",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "theProfamedCourt": {
+        "id": "theProfamedCourt",
+        "type": "footwear",
+        "set": "argentWarden",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }

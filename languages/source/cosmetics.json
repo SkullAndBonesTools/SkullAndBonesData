@@ -21395,6 +21395,60 @@
             "description": {
                 "general": "A sheen dulled by salt and smoke"
             }
+        },
+        "brineAndBone": {
+            "name": "Brine and Bone",
+            "description": {
+                "general": "Stiffened by brine, edges crusted with mirror-dust"
+            }
+        },
+        "saltyVisions": {
+            "name": "Salty Visions",
+            "description": {
+                "general": "Forged from cursed silver"
+            }
+        },
+        "candleBehindGlass": {
+            "name": "Candle Behind Glass",
+            "description": {
+                "general": "A pale flame. A memory of midnight."
+            }
+        },
+        "theGildedRemnant": {
+            "name": "The Gilded Remnant",
+            "description": {
+                "general": "Silver leaf and indigo leather, lacquered by the abyss"
+            }
+        },
+        "promiseUnkept": {
+            "name": "Promise Unkept",
+            "description": {
+                "general": "Weathered lace and tear-streaked satin"
+            }
+        },
+        "claspOfAnOath": {
+            "name": "Clasp of An Oath",
+            "description": {
+                "general": "Silvered leather, cracked and shining. Grips like a promise."
+            }
+        },
+        "deathsHeadHand": {
+            "name": "Death's Head",
+            "description": {
+                "general": "A ring of tarnished silver, fuses to the wearer's finger"
+            }
+        },
+        "drownedLedgers": {
+            "name": "Drowned Ledgers",
+            "description": {
+                "general": "Pockets of silt, candle-fat, and old accounts"
+            }
+        },
+        "theProfamedCourt": {
+            "name": "The Profaned Court",
+            "description": {
+                "general": "Polished black, cracked like a parched seabed"
+            }
         }
     }
 }
