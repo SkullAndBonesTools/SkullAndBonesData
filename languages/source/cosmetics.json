@@ -21245,6 +21245,48 @@
             "description": {
                 "general": "A ghostly turn of fortune"
             }
+        },
+        "crownedDeepskin": {
+            "name": "Crowned Deepskin",
+            "description": {
+                "general": "Born of sky, sea, and fire, it bows to none"
+            }
+        },
+        "gildscroll": {
+            "name": "Gildscroll",
+            "description": {
+                "general": "Unfurls like a royal decree"
+            }
+        },
+        "bloodiedWings": {
+            "name": "Bloodied Wings",
+            "description": {
+                "general": "Blackened cloth, stitched with wrath and gold"
+            }
+        },
+        "throatReaver": {
+            "name": "Throat Reaver",
+            "description": {
+                "general": "Grips the tide, hungers for the kill"
+            }
+        },
+        "emberwake": {
+            "name": "Emberwake",
+            "description": {
+                "general": "Forged in flame, polished with conquest"
+            }
+        },
+        "crimsonRiot": {
+            "name": "Crimson Riot",
+            "description": {
+                "general": "Crimson-lit, carved to conquer"
+            }
+        },
+        "beaconOfFury": {
+            "name": "Beacon of Fury",
+            "description": {
+                "general": "Wings of fire, carved with fury, crowned in flight"
+            }
         }
     }
 }

@@ -30797,5 +30797,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "crownedDeepskin": {
+        "id": "crownedDeepskin",
+        "type": "sailsEmblem",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "gildscroll": {
+        "id": "gildscroll",
+        "type": "sailsPattern",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "bloodiedWings": {
+        "id": "bloodiedWings",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "throatReaver": {
+        "id": "throatReaver",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "emberwake": {
+        "id": "emberwake",
+        "type": "hull",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "crimsonRiot": {
+        "id": "crimsonRiot",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "beaconOfFury": {
+        "id": "beaconOfFury",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "abyssalRegalia",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }
