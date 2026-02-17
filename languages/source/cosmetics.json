@@ -21203,6 +21203,48 @@
             "description": {
                 "general": "Messy but magnificent"
             }
+        },
+        "netherworld": {
+            "name": "Netherworld",
+            "description": {
+                "general": "Dead flames glow the brightest"
+            }
+        },
+        "burningMist": {
+            "name": "Burning Mist",
+            "description": {
+                "general": "Sin and singed edges"
+            }
+        },
+        "graveyardWind": {
+            "name": "Graveyard Wind",
+            "description": {
+                "general": "Cracked sails that whisper words of the dead"
+            }
+        },
+        "soulReaper": {
+            "name": "Soul Reaper",
+            "description": {
+                "general": "\"poor things are barely hanging on!\""
+            }
+        },
+        "hellfiresShine": {
+            "name": "Hellfire's Shine",
+            "description": {
+                "general": "\"A classy upgrade fer yer rotten hull!\""
+            }
+        },
+        "twinforged": {
+            "name": "Twinforged",
+            "description": {
+                "general": "Twice the hell to raise"
+            }
+        },
+        "boneglint": {
+            "name": "Boneglint",
+            "description": {
+                "general": "A ghostly turn of fortune"
+            }
         }
     }
 }

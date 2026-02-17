@@ -30739,5 +30739,63 @@
         "obtainable": "krakenChest",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "netherworld": {
+        "id": "netherworld",
+        "type": "sailsEmblem",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "burningMist": {
+        "id": "burningMist",
+        "type": "sailsPattern",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "graveyardWind": {
+        "id": "graveyardWind",
+        "type": "sailsColor",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "soulReaper": {
+        "id": "soulReaper",
+        "type": "figureHead",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "hellfiresShine": {
+        "id": "hellfiresShine",
+        "type": "hull",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "twinforged": {
+        "id": "twinforged",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "boneglint": {
+        "id": "boneglint",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "silverSpectre",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }
