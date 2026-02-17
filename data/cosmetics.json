@@ -31082,5 +31082,69 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "lordsDefiance": {
+        "id": "lordsDefiance",
+        "type": "headwear",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "duellistsMark": {
+        "id": "duellistsMark",
+        "type": "faceAccessory",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "theCorsairsVesture": {
+        "id": "theCorsairsVesture",
+        "type": "torso",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "challengersTotem": {
+        "id": "challengersTotem",
+        "type": "neck",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "gentlemansGrip": {
+        "id": "gentlemansGrip",
+        "type": "forearm",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "duelingSash": {
+        "id": "duelingSash",
+        "type": "waist",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "roguesBreeches": {
+        "id": "roguesBreeches",
+        "type": "bottom",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "gallantSteps": {
+        "id": "gallantSteps",
+        "type": "footwear",
+        "set": "crimsonStreak",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }

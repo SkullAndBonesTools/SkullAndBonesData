@@ -21449,6 +21449,54 @@
             "description": {
                 "general": "Polished black, cracked like a parched seabed"
             }
+        },
+        "lordsDefiance": {
+            "name": "Lord's Defiance",
+            "description": {
+                "general": "Feathers for the court, steel for the storm."
+            }
+        },
+        "duellistsMark": {
+            "name": "Duellist's Mark",
+            "description": {
+                "general": "\"He struck first. I struck last.\""
+            }
+        },
+        "theCorsairsVesture": {
+            "name": "The Corsair's Vesture",
+            "description": {
+                "general": "A gentleman doesn't dress down for mutiny"
+            }
+        },
+        "challengersTotem": {
+            "name": "Challenger's Totem",
+            "description": {
+                "general": "\"My family's mark, and proof I survived them.\""
+            }
+        },
+        "gentlemansGrip": {
+            "name": "Gentleman's Grip",
+            "description": {
+                "general": "\"A steady hand for brandy or blade.\""
+            }
+        },
+        "duelingSash": {
+            "name": "Dueling Sash",
+            "description": {
+                "general": "\"A nobleman's belt once. Now it holds grudges.\""
+            }
+        },
+        "roguesBreeches": {
+            "name": "Rogue's Breeches",
+            "description": {
+                "general": "\"Tailored in London. Torn in Nassau. Fitted for the future.\""
+            }
+        },
+        "gallantSteps": {
+            "name": "Gallant Steps",
+            "description": {
+                "general": "Some habits die harder than kings"
+            }
         }
     }
 }
