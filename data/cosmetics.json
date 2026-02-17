@@ -30974,5 +30974,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "crownAndPistols": {
+        "id": "crownAndPistols",
+        "type": "sailsEmblem",
+        "set": "purveyorOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "writOfBlood": {
+        "id": "writOfBlood",
+        "type": "sailsPattern",
+        "set": "purveyorOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "burgundyBetrayal": {
+        "id": "burgundyBetrayal",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "purveyorOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "sovereignsTarnish": {
+        "id": "sovereignsTarnish",
+        "type": "hull",
+        "set": "purveyorOfWar",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }

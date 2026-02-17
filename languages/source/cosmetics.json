@@ -21371,6 +21371,30 @@
             "description": {
                 "general": "Steer your way to hell"
             }
+        },
+        "crownAndPistols": {
+            "name": "Crown and Pistols",
+            "description": {
+                "general": "Regal steel and crossed promises"
+            }
+        },
+        "writOfBlood": {
+            "name": "Writ of Blood",
+            "description": {
+                "general": "Filigree flourishes mask the truth. Every scroll signed in red."
+            }
+        },
+        "burgundyBetrayal": {
+            "name": "Burgundy Betrayal",
+            "description": {
+                "general": "Wine-dark. Rich as a feast."
+            }
+        },
+        "sovereignsTarnish": {
+            "name": "Sovereign's Tarnish",
+            "description": {
+                "general": "A sheen dulled by salt and smoke"
+            }
         }
     }
 }
