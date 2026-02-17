@@ -21329,6 +21329,48 @@
             "description": {
                 "general": "\"Get to the chopping block, now!\""
             }
+        },
+        "cerberusCall": {
+            "name": "Cerberus Call",
+            "description": {
+                "general": "Always hungry for the hunt"
+            }
+        },
+        "wolfmark": {
+            "name": "Wolfmark",
+            "description": {
+                "general": "A rather beastly trim"
+            }
+        },
+        "umberhide": {
+            "name": "Umberhide",
+            "description": {
+                "general": "There might be some fur on this one"
+            }
+        },
+        "theDamnedOnes": {
+            "name": "The Damned Ones",
+            "description": {
+                "general": "Three very good bois"
+            }
+        },
+        "rustyBones": {
+            "name": "Rusty Bones",
+            "description": {
+                "general": "The color of guts and glory"
+            }
+        },
+        "hellHound": {
+            "name": "Hell Hound",
+            "description": {
+                "general": "\"Bitey, bitey!\""
+            }
+        },
+        "moltenFang": {
+            "name": "Molten Fang",
+            "description": {
+                "general": "Steer your way to hell"
+            }
         }
     }
 }

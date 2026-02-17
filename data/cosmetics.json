@@ -30915,5 +30915,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "cerberusCall": {
+        "id": "cerberusCall",
+        "type": "sailsEmblem",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "wolfmark": {
+        "id": "wolfmark",
+        "type": "sailsPattern",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "umberhide": {
+        "id": "umberhide",
+        "type": "sailsColor",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "theDamnedOnes": {
+        "id": "theDamnedOnes",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "rustyBones": {
+        "id": "rustyBones",
+        "type": "hull",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "hellHound": {
+        "id": "hellHound",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "moltenFang": {
+        "id": "moltenFang",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "emberhound",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }
