@@ -104,8 +104,6 @@
         "rogueTraderBertramFugler": "Abtrünniger Händler Bertram 'Schwergewicht' Fugler",
         "rogueTraderJasperRagsdale": "Abtrünniger Händler Jasper 'der Bulle' Ragsdale",
         "rogueTraderRosettaLaw": "Abtrünniger Händler Rosetta 'die Sirene' Law",
-        "zamaharibuChest": "Mögliche Belohnung aus Geheimnisvolle Truhe (Erhalten beim Abschluss des 'Schlund der Vergeltung' Auftrages - Erlegen von Zamaharibu)",
-        "megaLestariChest": "Mögliche Belohnung aus Geheimnisvolle Truhe (Erhalten beim Abschluss des 'Stiller Tod' Auftrages - Erlegen des Mega-Lestari)",
         "dropLestari": "Mögliche Belohnung beim Erlegen des Seemonsters Lestari & Mega-Lestari",
         "heavensreachStep1": "1. Sammle und habe alle 12 Sternkarten im Inventar",
         "heavensreachStep2": "2. Akzeptiere den Auftrag 'Schicksal in den Sternen' am Außenposten Vorona-Fälle",
@@ -254,6 +252,9 @@
         "purchasableWithSilverLionsAtTheFoundingChest": "Ist/war mit Silberlöwen in der Gründungstruhe in Sainte Anne während des Ereignisses kaufbar",
         "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
         "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft",
-        "twitchDropStartYear2Season4": "Twitch Drops zu Beginn von {{eyeOfTheBeast}}"
+        "twitchDropStartYear2Season4": "Twitch Drops zu Beginn von {{eyeOfTheBeast}}",
+        "zamaharibuEyeReward": "Reward for handing in Zamaharibu's Eye at the Sea People Hunter Master at Outpost Lanitra",
+        "megaLestariEyeReward": "Reward for handing in Mega Lestari's Eye at the Sea People Hunter Master at Outpost Lanitra",
+        "krakenInkGlandsReward": "Reward for handing in Kraken Ink Glands at the Sea People Hunter Master at Outpost Lanitra"
     }
 }

@@ -21203,6 +21203,306 @@
             "description": {
                 "general": "Messy but magnificent"
             }
+        },
+        "netherworld": {
+            "name": "Netherworld",
+            "description": {
+                "general": "Dead flames glow the brightest"
+            }
+        },
+        "burningMist": {
+            "name": "Burning Mist",
+            "description": {
+                "general": "Sin and singed edges"
+            }
+        },
+        "graveyardWind": {
+            "name": "Graveyard Wind",
+            "description": {
+                "general": "Cracked sails that whisper words of the dead"
+            }
+        },
+        "soulReaper": {
+            "name": "Soul Reaper",
+            "description": {
+                "general": "\"poor things are barely hanging on!\""
+            }
+        },
+        "hellfiresShine": {
+            "name": "Hellfire's Shine",
+            "description": {
+                "general": "\"A classy upgrade fer yer rotten hull!\""
+            }
+        },
+        "twinforged": {
+            "name": "Twinforged",
+            "description": {
+                "general": "Twice the hell to raise"
+            }
+        },
+        "boneglint": {
+            "name": "Boneglint",
+            "description": {
+                "general": "A ghostly turn of fortune"
+            }
+        },
+        "crownedDeepskin": {
+            "name": "Crowned Deepskin",
+            "description": {
+                "general": "Born of sky, sea, and fire, it bows to none"
+            }
+        },
+        "gildscroll": {
+            "name": "Gildscroll",
+            "description": {
+                "general": "Unfurls like a royal decree"
+            }
+        },
+        "bloodiedWings": {
+            "name": "Bloodied Wings",
+            "description": {
+                "general": "Blackened cloth, stitched with wrath and gold"
+            }
+        },
+        "throatReaver": {
+            "name": "Throat Reaver",
+            "description": {
+                "general": "Grips the tide, hungers for the kill"
+            }
+        },
+        "emberwake": {
+            "name": "Emberwake",
+            "description": {
+                "general": "Forged in flame, polished with conquest"
+            }
+        },
+        "crimsonRiot": {
+            "name": "Crimson Riot",
+            "description": {
+                "general": "Crimson-lit, carved to conquer"
+            }
+        },
+        "beaconOfFury": {
+            "name": "Beacon of Fury",
+            "description": {
+                "general": "Wings of fire, carved with fury, crowned in flight"
+            }
+        },
+        "chomperfin": {
+            "name": "Chomperfin",
+            "description": {
+                "general": "This little guy has the most legendary battle squeak"
+            }
+        },
+        "endslash": {
+            "name": "Endslash",
+            "description": {
+                "general": "Heads will roll"
+            }
+        },
+        "daggerpoint": {
+            "name": "Daggerpoint",
+            "description": {
+                "general": "Etched in the ashes of your enemies"
+            }
+        },
+        "goldenGuillotine": {
+            "name": "Golden Guillotine",
+            "description": {
+                "general": "A bit of razzle, dazzle, and death"
+            }
+        },
+        "broadaxeEddy": {
+            "name": "Broadaxe Eddy",
+            "description": {
+                "general": "The nicest guy around, really"
+            }
+        },
+        "aSanguineEnd": {
+            "name": "A Sanguine End",
+            "description": {
+                "general": "The sea runs red with destruction"
+            }
+        },
+        "executioner": {
+            "name": "Executioner",
+            "description": {
+                "general": "\"Get to the chopping block, now!\""
+            }
+        },
+        "cerberusCall": {
+            "name": "Cerberus Call",
+            "description": {
+                "general": "Always hungry for the hunt"
+            }
+        },
+        "wolfmark": {
+            "name": "Wolfmark",
+            "description": {
+                "general": "A rather beastly trim"
+            }
+        },
+        "umberhide": {
+            "name": "Umberhide",
+            "description": {
+                "general": "There might be some fur on this one"
+            }
+        },
+        "theDamnedOnes": {
+            "name": "The Damned Ones",
+            "description": {
+                "general": "Three very good bois"
+            }
+        },
+        "rustyBones": {
+            "name": "Rusty Bones",
+            "description": {
+                "general": "The color of guts and glory"
+            }
+        },
+        "hellHound": {
+            "name": "Hell Hound",
+            "description": {
+                "general": "\"Bitey, bitey!\""
+            }
+        },
+        "moltenFang": {
+            "name": "Molten Fang",
+            "description": {
+                "general": "Steer your way to hell"
+            }
+        },
+        "crownAndPistols": {
+            "name": "Crown and Pistols",
+            "description": {
+                "general": "Regal steel and crossed promises"
+            }
+        },
+        "writOfBlood": {
+            "name": "Writ of Blood",
+            "description": {
+                "general": "Filigree flourishes mask the truth. Every scroll signed in red."
+            }
+        },
+        "burgundyBetrayal": {
+            "name": "Burgundy Betrayal",
+            "description": {
+                "general": "Wine-dark. Rich as a feast."
+            }
+        },
+        "sovereignsTarnish": {
+            "name": "Sovereign's Tarnish",
+            "description": {
+                "general": "A sheen dulled by salt and smoke"
+            }
+        },
+        "brineAndBone": {
+            "name": "Brine and Bone",
+            "description": {
+                "general": "Stiffened by brine, edges crusted with mirror-dust"
+            }
+        },
+        "saltyVisions": {
+            "name": "Salty Visions",
+            "description": {
+                "general": "Forged from cursed silver"
+            }
+        },
+        "candleBehindGlass": {
+            "name": "Candle Behind Glass",
+            "description": {
+                "general": "A pale flame. A memory of midnight."
+            }
+        },
+        "theGildedRemnant": {
+            "name": "The Gilded Remnant",
+            "description": {
+                "general": "Silver leaf and indigo leather, lacquered by the abyss"
+            }
+        },
+        "promiseUnkept": {
+            "name": "Promise Unkept",
+            "description": {
+                "general": "Weathered lace and tear-streaked satin"
+            }
+        },
+        "claspOfAnOath": {
+            "name": "Clasp of An Oath",
+            "description": {
+                "general": "Silvered leather, cracked and shining. Grips like a promise."
+            }
+        },
+        "deathsHeadHand": {
+            "name": "Death's Head",
+            "description": {
+                "general": "A ring of tarnished silver, fuses to the wearer's finger"
+            }
+        },
+        "drownedLedgers": {
+            "name": "Drowned Ledgers",
+            "description": {
+                "general": "Pockets of silt, candle-fat, and old accounts"
+            }
+        },
+        "theProfamedCourt": {
+            "name": "The Profaned Court",
+            "description": {
+                "general": "Polished black, cracked like a parched seabed"
+            }
+        },
+        "lordsDefiance": {
+            "name": "Lord's Defiance",
+            "description": {
+                "general": "Feathers for the court, steel for the storm."
+            }
+        },
+        "duellistsMark": {
+            "name": "Duellist's Mark",
+            "description": {
+                "general": "\"He struck first. I struck last.\""
+            }
+        },
+        "theCorsairsVesture": {
+            "name": "The Corsair's Vesture",
+            "description": {
+                "general": "A gentleman doesn't dress down for mutiny"
+            }
+        },
+        "challengersTotem": {
+            "name": "Challenger's Totem",
+            "description": {
+                "general": "\"My family's mark, and proof I survived them.\""
+            }
+        },
+        "gentlemansGrip": {
+            "name": "Gentleman's Grip",
+            "description": {
+                "general": "\"A steady hand for brandy or blade.\""
+            }
+        },
+        "duelingSash": {
+            "name": "Dueling Sash",
+            "description": {
+                "general": "\"A nobleman's belt once. Now it holds grudges.\""
+            }
+        },
+        "roguesBreeches": {
+            "name": "Rogue's Breeches",
+            "description": {
+                "general": "\"Tailored in London. Torn in Nassau. Fitted for the future.\""
+            }
+        },
+        "gallantSteps": {
+            "name": "Gallant Steps",
+            "description": {
+                "general": "Some habits die harder than kings"
+            }
+        },
+        "nightBark": {
+            "name": "Night Bark",
+            "description": {
+                "general": "A worthy upgrade for a true pirate metalhead"
+            }
         }
     }
 }

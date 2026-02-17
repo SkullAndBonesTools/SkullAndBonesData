@@ -2279,7 +2279,7 @@
         "phoenixsTalonStrongbox": {
             "name": "Schatulle der Phönixkralle",
             "description": {
-                "general": "Schatulle der Phönixkralle"
+                "general": "A tightly sealed strongbox containing items that once belonged to Li Tian Ning"
             }
         },
         "ascensionChest": {
@@ -3078,6 +3078,30 @@
             "name": "Founder's Cache",
             "description": {
                 "general": "An ornate chest containing spoils from formidable foes of seasons past."
+            }
+        },
+        "zamaharibuChest": {
+            "name": "Mysterious Chest (Zamaharibu)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "megaLestariChest": {
+            "name": "Mysterious Chest (Mega Lestari)",
+            "description": {
+                "general": "What rare finds lie within?"
+            }
+        },
+        "zamaharibusEye": {
+            "name": "Zamaharibu's Eye",
+            "description": {
+                "general": "Plucked from the eye socket of an age-old beast. Its unflinching gaze instills primal fear in you, as though you were being hunted like prey."
+            }
+        },
+        "megaLestarisEye": {
+            "name": "Mega Lestari's Eye",
+            "description": {
+                "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
             }
         }
     }

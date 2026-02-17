@@ -1,73 +1,73 @@
 {
     "territories": {
         "islandsOfTheMoon": {
-            "name": "Islands of the Moon"
+            "name": "Île de la Lune"
         },
         "angayaCoast": {
-            "name": "Angaya Coast"
+            "name": "Côte d'Angaya"
         },
         "theGiantsLeap": {
-            "name": "The Giant's Leap"
+            "name": "Bond du Géant"
         },
         "riverMouths": {
-            "name": "River Mouths"
+            "name": "Embouchures"
         },
         "rovaHill": {
-            "name": "Rova Hill"
+            "name": "Colline de Rova"
         },
         "reefSea": {
-            "name": "Reef Sea"
+            "name": "Mer du Récif"
         },
         "southwestPassage": {
-            "name": "Southwest Passage"
+            "name": "Passage sud-ouest"
         },
         "learntMensHill": {
-            "name": "Learnt Men's Hill"
+            "name": "Colline des Hommes Instruits"
         },
         "noisyBe": {
             "name": "Noisy Be"
         },
         "teninaCoast": {
-            "name": "Tenina Coast"
+            "name": "Côte de Tenina"
         },
         "sainteAnne": {
             "name": "Sainte-Anne"
         },
         "bloodyChannel": {
-            "name": "Bloody Channel"
+            "name": "Canal Sanglant"
         },
         "ileRoyale": {
             "name": "Île Royale"
         },
         "portLHermine": {
-            "name": "Port L'Hermine"
+            "name": "Port l'Hermine"
         },
         "baixioGrande": {
             "name": "Baixio Grande"
         },
         "lEscale": {
-            "name": "L'Escale"
+            "name": "L'Éscale"
         },
         "easternBasin": {
-            "name": "Eastern Basin"
+            "name": "Bassin oriental"
         },
         "centralBasin": {
-            "name": "Central Basin"
+            "name": "Bassin central"
         },
         "southernBasin": {
-            "name": "Southern Basin"
+            "name": "Bassin austral"
         },
         "bataviaReefs": {
-            "name": "Batavia Reefs"
+            "name": "Récifs de Batavia"
         },
         "westernBasin": {
-            "name": "Western Basin"
+            "name": "Bassin occidental"
         },
         "pembe": {
             "name": "Pembe"
         },
         "lakeBwawa": {
-            "name": "Lake Bwawa"
+            "name": "Lac Bwawa"
         },
         "jiwe": {
             "name": "Jiwe"
@@ -79,46 +79,46 @@
             "name": "Harufu"
         },
         "lakeBuri": {
-            "name": "Lake Buri"
+            "name": "Lac Buri"
         },
         "sultaniIsland": {
-            "name": "Sultani Island"
+            "name": "Île de Sultani"
         },
         "rondavels": {
             "name": "Rondavels"
         },
         "pilotBay": {
-            "name": "Pilot Bay"
+            "name": "Baie de Pilot"
         },
         "panyarJungle": {
-            "name": "Panyar Jungle"
+            "name": "Jungle de Panyar"
         },
         "deltaOfSain": {
-            "name": "Delta of Sain"
+            "name": "Delta de Sain"
         },
         "patamyarMountains": {
-            "name": "Patamyar Mountains"
+            "name": "Montagne Patamyar"
         },
         "sunyOutskirts": {
-            "name": "Suny Outskirts"
+            "name": "Faubourgs de Suny"
         },
         "berukSea": {
-            "name": "Beruk Sea"
+            "name": "Mer de Beruk"
         },
         "chichomneahJungle": {
-            "name": "Chichomneah Jungle"
+            "name": "Jungle de Chichomneah"
         },
         "deltaOfMe": {
-            "name": "Delta of Me"
+            "name": "Delta de Me"
         },
         "kaongkangCoast": {
-            "name": "Kaongkang Coast"
+            "name": "Côte de Kaongkang"
         },
         "gulfOfNakh": {
-            "name": "Gulf of Nakh"
+            "name": "Golfe de Nakh"
         },
         "harimauPeninsula": {
-            "name": "Harimau Peninsula"
+            "name": "Pénisule d'Harimeau"
         },
         "fortHarimau": {
             "name": "Fort Harimau"
@@ -127,52 +127,52 @@
             "name": "Telok Penjarah"
         },
         "straitOfHarimau": {
-            "name": "Strait of Harimau"
+            "name": "Détroit d'Harimau"
         },
         "pemburuIslands": {
-            "name": "Pemburu Islands"
+            "name": "Îles Pemburu"
         },
         "zamrud": {
             "name": "Zamrud"
         },
         "easternGateSea": {
-            "name": "Eastern Gate Sea"
+            "name": "Mer de la Porte Orientale"
         },
         "nilamSea": {
-            "name": "Nilam Sea"
+            "name": "Mer de Nilam"
         },
         "logamHighlands": {
-            "name": "Logam Highlands"
+            "name": "Massifs de Logam"
         },
         "musonStrait": {
-            "name": "Muson Strait"
+            "name": "Détroit de Muson"
         },
         "hutanRainforest": {
-            "name": "Hutan Rainforest"
+            "name": "Forêt Tropicale d'Hutan"
         },
         "hutanHighlands": {
-            "name": "Hutan Highlands"
+            "name": "Massifs d'Hutan"
         },
         "trisulaSea": {
-            "name": "Trisula Sea"
+            "name": "Mer de Trisula"
         },
         "nagaSea": {
-            "name": "Naga Sea"
+            "name": "Mer de Naga"
         },
         "cendonoStrait": {
-            "name": "Cendono Strait"
+            "name": "Détroit de Cendono"
         },
         "trisulaCoast": {
-            "name": "Trisula Coast"
+            "name": "Côte de Trisula"
         },
         "nagaCoast": {
-            "name": "Naga Coast"
+            "name": "Côte de Naga"
         },
         "spiceIslands": {
-            "name": "Spice Islands"
+            "name": "Île aux Épices"
         },
         "ringOfFire": {
-            "name": "Ring of Fire"
+            "name": "Anneau de feu"
         }
     }
 }
