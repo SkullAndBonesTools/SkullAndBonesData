@@ -21293,6 +21293,42 @@
             "description": {
                 "general": "This little guy has the most legendary battle squeak"
             }
+        },
+        "endslash": {
+            "name": "Endslash",
+            "description": {
+                "general": "Heads will roll"
+            }
+        },
+        "daggerpoint": {
+            "name": "Daggerpoint",
+            "description": {
+                "general": "Etched in the ashes of your enemies"
+            }
+        },
+        "goldenGuillotine": {
+            "name": "Golden Guillotine",
+            "description": {
+                "general": "A bit of razzle, dazzle, and death"
+            }
+        },
+        "broadaxeEddy": {
+            "name": "Broadaxe Eddy",
+            "description": {
+                "general": "The nicest guy around, really"
+            }
+        },
+        "aSanguineEnd": {
+            "name": "A Sanguine End",
+            "description": {
+                "general": "The sea runs red with destruction"
+            }
+        },
+        "executioner": {
+            "name": "Executioner",
+            "description": {
+                "general": "\"Get to the chopping block, now!\""
+            }
         }
     }
 }

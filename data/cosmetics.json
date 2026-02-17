@@ -30864,5 +30864,56 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "endslash": {
+        "id": "endslash",
+        "type": "sailsEmblem",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "daggerpoint": {
+        "id": "daggerpoint",
+        "type": "sailsPattern",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "goldenGuillotine": {
+        "id": "goldenGuillotine",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "broadaxeEddy": {
+        "id": "broadaxeEddy",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "aSanguineEnd": {
+        "id": "aSanguineEnd",
+        "type": "hull",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
+    },
+    "executioner": {
+        "id": "executioner",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "headHunter",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-17",
+        "lastUpdated": "2026-02-17"
     }
 }
