@@ -104,8 +104,6 @@
         "rogueTraderBertramFugler": "Marchand Malhonnête Bertram \"Grosse Bertha\" Fugler",
         "rogueTraderJasperRagsdale": "Marchand Malhonnête Jasper \"Le Taureau\" Ragsdale",
         "rogueTraderRosettaLaw": "Marchande malhonnête Rosetta la Loi \"La Sirène\"",
-        "zamaharibuChest": "Obtention possible via Coffre Mystérieux (obtenu en complétant le contrat \"Mâchoires du Châtiment\" - Tuer Zamaharibu)",
-        "megaLestariChest": "Obtention possible via Coffre Mystérieux (obtenu en complétant le contrat \"Mort silencieuse\" - Tuer Mega-Lestari",
         "dropLestari": "Obtention possible lorsque vous tuez les monstres marins Lestari & Mega-Lestari",
         "heavensreachStep1": "1. Collectez les 12 cartes stellaires et ayez les dans votre inventaire",
         "heavensreachStep2": "2. Acceptez le contrat \"Le destin dans les étoiles\" à l'Avant-poste des Chutes de Vorona",
@@ -254,6 +252,9 @@
         "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event",
         "rewardForCompleting8EventChallenges": "Reward for completing 8 Challenges of the Event",
         "williamBlackwoodStore": "Is/was purchasable in William Blackwood's store",
-        "twitchDropStartYear2Season4": "Twitch Drops at the start of {{eyeOfTheBeast}}"
+        "twitchDropStartYear2Season4": "Twitch Drops at the start of {{eyeOfTheBeast}}",
+        "zamaharibuEyeReward": "Reward for handing in Zamaharibu's Eye at the Sea People Hunter Master at Outpost Lanitra",
+        "megaLestariEyeReward": "Reward for handing in Mega Lestari's Eye at the Sea People Hunter Master at Outpost Lanitra",
+        "krakenInkGlandsReward": "Reward for handing in Kraken Ink Glands at the Sea People Hunter Master at Outpost Lanitra"
     }
 }

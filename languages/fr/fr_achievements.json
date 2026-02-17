@@ -1,7 +1,7 @@
 {
     "achievements": {
         "ballistaMastery": {
-            "name": "Ballista Mastery",
+            "name": "Maîtrise des balistes",
             "description": "Deal %s damage using Ballista."
         },
         "mortarMastery": {
@@ -69,152 +69,152 @@
             "description": "Deal %s damage using Divine Wind."
         },
         "lumberjack": {
-            "name": "Lumberjack",
-            "description": "Gather %s Wood."
+            "name": "Bûcheron",
+            "description": "Rassemblez %s Bois."
         },
         "masterChef": {
-            "name": "Master Chef",
-            "description": "Gather %s Food."
+            "name": "Chef cuisinier",
+            "description": "Rassemblez %s Nourriture."
         },
         "masterHarvester": {
-            "name": "Master Harvester",
-            "description": "Gather %s Fiber."
+            "name": "Maître récolteur",
+            "description": "Récoltez %s Fibre."
         },
         "masterSmith": {
-            "name": "Master Smith",
-            "description": "Craft %s Metal."
+            "name": "Maître de Forge",
+            "description": "Récupérez %s Métal."
         },
         "silversmith": {
-            "name": "Silversmith",
-            "description": "Earn %s Silver."
+            "name": "Orfèvre",
+            "description": "Remportez %s Argent."
         },
         "fortuneFinder": {
-            "name": "Fortune Finder",
-            "description": "Complete %s Treasure Maps."
+            "name": "Découvreur de fortune",
+            "description": "Terminez %s cartes au trésor."
         },
         "keeperOfEights": {
-            "name": "Keeper of Eights",
-            "description": "Earn %s Pieces of Eight."
+            "name": "Gardien des Huit",
+            "description": "Remportez %s Pièce de Huit."
         },
         "plagueEnder": {
-            "name": "Plague Ender",
-            "description": "Complete the \"The Plague King\" world event %s times."
+            "name": "Finisseur de peste",
+            "description": "Terminer RECHERCHÉ : Philipe La Peste (Dangereux) %s fois."
         },
         "cursebreaker": {
-            "name": "Cursebreaker",
-            "description": "Complete the \"The Looming Schadow\" world event %s times."
+            "name": "Briseur de malédiction",
+            "description": "Terminer RECHERCHÉ : Vikram Rajan (Dangereux) %s fois."
         },
         "redeemer": {
-            "name": "Redeemer",
-            "description": "Complete the \"The Great Schadow\" world event %s times."
+            "name": "Rédempteur",
+            "description": "Terminer RECHERCHÉ : Vikram Rajan (mortel) %s fois."
         },
         "showstopper": {
-            "name": "Showstopper",
-            "description": "Complete the \"Chorus of Havoc\" world event %s times."
+            "name": "Clou du spectacle",
+            "description": "Terminer RECHERCHÉS : Les jumeaux Hubac (Dangereux) %s fois."
         },
         "unsighted": {
-            "name": "Unsighted",
-            "description": "Complete the \"The Glorious Phoenix\" world event %s times."
+            "name": "Inaperçu",
+            "description": "Terminer RECHERCHÉE : Li Tian Ning (mortelle) %s fois."
         },
         "plunderer": {
-            "name": "Plunderer",
-            "description": "Complete %s plunders while in a group."
+            "name": "Pilleur",
+            "description": "Terminez %s pillages en groupe."
         },
         "wolfpack": {
-            "name": "Wolfpack",
-            "description": "Land the final hit on %s ships while sailing in a group."
+            "name": "Meute de loups",
+            "description": "Portez le coup final contre %s navires en naviguant en groupe."
         },
         "handOfJudgment": {
-            "name": "Hand of Judgment",
-            "description": "Use %s Bloodied Strongbox"
+            "name": "La main du jugement",
+            "description": "Utilisez %s x Coffre-fort ensanglanté I."
         },
         "azureTidings": {
-            "name": "Azure Tidings",
-            "description": "Use %s Azure Cache"
+            "name": "Des nouvelles de l'azur",
+            "description": "Utiliser %s unité(s) de Cachette azure"
         },
         "claimToFame": {
-            "name": "Claim to Fame (Y2S1)",
-            "description": "Gain %s Infamy in Year 2 Season 1"
+            "name": "Montée vers la gloire",
+            "description": "Gagnez %s Infamie au cours de la Saison 1 de l'Année 2."
         },
         "enterTheNian": {
-            "name": "Enter the Nian",
-            "description": "Use %s Nian Strongbox"
+            "name": "Opération Nian",
+            "description": "Utiliser %s unité(s) de Coffre-fort du Nian"
         },
         "ghoulsBane": {
-            "name": "Ghoul's Bane",
-            "description": "Use %s Reaper's Cache"
+            "name": "Le fléau des goules",
+            "description": "Utiliser %s unité(s) de Cache de la Faucheuse"
         },
         "claimToFameY2S2": {
-            "name": "Claim to Fame (Y2S2)",
-            "description": "Gain %s Infamy in Year 2 Season 2"
+            "name": "Montée vers la gloire",
+            "description": "Gagnez %s Infamie au cours de la Saison 2 de l'Année 2."
         },
         "darktideSurvivor": {
-            "name": "Darktide Survivor",
-            "description": "Use %s Darktide Lullaby caches"
+            "name": "Survivant de la Marée noire",
+            "description": "Utiliser %s unité(s) de Caches de la Berceuse de la Marée noire"
         },
         "moonshineRaider": {
-            "name": "Moonshine Raider",
-            "description": "Use %s Moonshine Larceny caches"
+            "name": "Pillard d'alcool de contrebande",
+            "description": "Utiliser %s unité(s) de Coffre-fort d'alcool de contrebande"
         },
         "fleetMaster": {
-            "name": "Fleet Master",
-            "description": "Build %s ships"
+            "name": "Maîtrise de la flotte",
+            "description": "Fabriquez %s navires"
         },
         "stormSailor": {
-            "name": "Storm Sailor",
-            "description": "Sail through storms for %s minutes"
+            "name": "Marin tempétueux",
+            "description": "Traversez des tempêtes pendant %s minutes"
         },
         "colossalVessel": {
-            "name": "Colossal Vessel",
-            "description": "Build %s Large Frigate"
+            "name": "Vaisseau colossal",
+            "description": "Construire %s grande(s) frégate(s)"
         },
         "pirateKnight": {
-            "name": "Pirate Knight",
-            "description": "Loot %s Merchant Convoys"
+            "name": "Chevalier pirate",
+            "description": "Piller %s convois marchands"
         },
         "warlord": {
-            "name": "Warlord",
-            "description": "Earn %s war assets in Faction War"
+            "name": "Chef de guerre",
+            "description": "Gagner %s matériels de guerre dans la Guerre des Factions"
         },
         "hubacHunter": {
-            "name": "Hubac Hunter",
-            "description": "Deal %s weak-point damage with Culverin in Hubac Twins' Domain"
+            "name": "Chasse des Hubac",
+            "description": "Infligez %s dégâts aux points faibles avec l'arme Coulevrine dans le Domaine des Jumeaux Hubac"
         },
         "laPesteHunter": {
-            "name": "La Peste Hunter",
-            "description": "Deal %s weak-point damage with Torpedoes in La Peste's Domain"
+            "name": "Chasseur de La Peste",
+            "description": "Infligez %s dégâts aux points faibles avec l'arme Torpilles dans le Domaine de La Peste"
         },
         "liTianNingHunter": {
-            "name": "Li Tian Ning Hunter",
-            "description": "Deal %s weak-point damage with Ballista in Li Tian Ning's Domain"
+            "name": "Chasseur de Li Tian Ning",
+            "description": "Infligez %s dégâts aux points faibles avec l'arme Baliste dans le Domaine de Li Tian Ning"
         },
         "vikramHunter": {
-            "name": "Vikram Hunter",
-            "description": "Deal %s weak-point damage with Sea Fire in Vikram's Domain"
+            "name": "Chasseur de Vikram",
+            "description": "Infligez %s dégâts aux points faibles avec l'arme Feu marin dans le Domaine de Vikram"
         },
         "dominator": {
-            "name": "Dominator",
-            "description": "Capture %s points in Tidebreaker"
+            "name": "Dominateur",
+            "description": "Capturez %s points à Brise-Marée en équipe"
         },
         "doomsday": {
-            "name": "Doomsday",
-            "description": "Win %s rounds in Fleetfire"
+            "name": "Jugement dernier",
+            "description": "Gagnez %s manches à Feu de Flotte en équipe"
         },
         "pirateHunter": {
-            "name": "Pirate Hunter",
-            "description": "Defeat %s pirates in Fleetfire"
+            "name": "Chasseur de pirates",
+            "description": "Battre %s pirates (Feu de Flotte)"
         },
         "theMedic": {
-            "name": "The Medic",
-            "description": "Repair %s value on friendly pirates in Tidebreaker"
+            "name": "Le médecin",
+            "description": "Réparer pour une valeur de %s sur des alliés pirates à Brise-Marée"
         },
         "claimToFameY2S3": {
-            "name": "Claim to Fame (Y2S3)",
-            "description": "Gain %s Infamy in Year 2 Season 3"
+            "name": "Montée vers la gloire",
+            "description": "Gagnez %s Infamie au cours de la Saison 3 de l'Année 2"
         },
         "deadeye": {
-            "name": "Deadeye",
-            "description": "Deal %s weak-point damage in Halloween"
+            "name": "Sniper",
+            "description": "Infliger %s dégâts aux points faibles de Halloween"
         },
         "invader": {
             "name": "Invader",
