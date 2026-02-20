@@ -327,9 +327,9 @@
         "type": "crowsNest",
         "set": "oceanReavers",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "courtlyClamshell": {
         "id": "courtlyClamshell",
@@ -391,10 +391,10 @@
         "id": "boarFacedGeorge",
         "type": "trophy",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "melusinesPose": {
         "id": "melusinesPose",
@@ -724,10 +724,10 @@
         "id": "engorgedTusks",
         "type": "helmDecor",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "spearhead": {
         "id": "spearhead",
@@ -872,10 +872,10 @@
         "id": "bloodGodsHelm",
         "type": "wheel",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "aDreadfulTurn": {
         "id": "aDreadfulTurn",
@@ -1055,10 +1055,10 @@
         "id": "barbarianKing",
         "type": "nameplate",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "helmlord": {
         "id": "helmlord",
@@ -1187,10 +1187,10 @@
         "id": "billyFeathers",
         "type": "ornaments",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "scurlocksPrince": {
         "id": "scurlocksPrince",
@@ -1514,10 +1514,10 @@
         "id": "bloodAndTar",
         "type": "hull",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "berylShade": {
         "id": "berylShade",
@@ -1769,10 +1769,10 @@
         "id": "thePreviousDude",
         "type": "figureHead",
         "set": "oceanReavers",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "manifestDestiny": {
         "id": "manifestDestiny",
@@ -2113,9 +2113,9 @@
         "type": "sailsColor",
         "set": "oceanReavers",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2026-02-20"
     },
     "nightfallsHerald": {
         "id": "nightfallsHerald",
@@ -2555,9 +2555,9 @@
         "type": "sailsPattern",
         "set": "oceanReavers",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-04-05"
+        "lastUpdated": "2026-02-20"
     },
     "sainteAnneWelcome": {
         "id": "sainteAnneWelcome",
@@ -3057,9 +3057,9 @@
         "type": "sailsEmblem",
         "set": "oceanReavers",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "selmasGaze": {
         "id": "selmasGaze",
@@ -3333,9 +3333,9 @@
         "type": "crewLook",
         "set": "oceanReavers",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-04-05"
+        "lastUpdated": "2026-02-20"
     },
     "tideAtHalfPast": {
         "id": "tideAtHalfPast",
@@ -3720,10 +3720,10 @@
     "deathOTheSun": {
         "id": "deathOTheSun",
         "type": "firework",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-25",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "tangerineExplosion": {
         "id": "tangerineExplosion",
@@ -4685,9 +4685,9 @@
         "type": "headwear",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "poisedTricorne": {
         "id": "poisedTricorne",
@@ -6001,9 +6001,9 @@
         "type": "torso",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "jacketOfInfamy": {
         "id": "jacketOfInfamy",
@@ -6878,9 +6878,9 @@
         "type": "waist",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-05-04"
+        "lastUpdated": "2026-02-20"
     },
     "notchedBelt": {
         "id": "notchedBelt",
@@ -7376,10 +7376,10 @@
         "id": "powderedBone",
         "type": "bodyCosmetics",
         "season": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","ubisoftStore"],
         "set": "oceanReaversPlayer",
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-08-01"
+        "lastUpdated": "2026-02-20"
     },
     "gaudyBoy": {
         "id": "gaudyBoy",
@@ -7764,9 +7764,9 @@
         "id": "hoistYourSails",
         "type": "emote",
         "season": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","ubisoftStore"],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "heatedExchange": {
         "id": "heatedExchange",
@@ -7811,9 +7811,9 @@
         "type": "forearm",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-05-05"
+        "lastUpdated": "2026-02-20"
     },
     "glovesOfRepute": {
         "id": "glovesOfRepute",
@@ -8435,9 +8435,9 @@
         "type": "footwear",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "bootsOfNotoriety": {
         "id": "bootsOfNotoriety",
@@ -9070,9 +9070,9 @@
         "type": "bottom",
         "set": "oceanReaversPlayer",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "adeptLeggings": {
         "id": "adeptLeggings",
