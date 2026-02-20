@@ -14677,7 +14677,7 @@
         "rarity": "common",
         "season": "chorusOfHavoc",
         "worldEvent": "symphonieMortelle",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-03",
         "lastUpdated": "2025-09-23"
     },
@@ -14686,7 +14686,7 @@
         "rarity": "common",
         "season": "intoTheDragonsWake",
         "worldEvent": "theGloriousPhoenix",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-03",
         "lastUpdated": "2025-09-23"
     },
@@ -14695,7 +14695,7 @@
         "rarity": "common",
         "season": "ragingTides",
         "worldEvent": "thePlagueKing",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-06",
         "lastUpdated": "2025-09-23"
     },
@@ -14726,7 +14726,7 @@
         "rarity": "common",
         "season": "chorusOfHavoc",
         "worldEvent": "chorusOfHavoc",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-16",
         "lastUpdated": "2025-09-16"
     },
@@ -14735,7 +14735,7 @@
         "rarity": "common",
         "season": "shadowsOfTheDeep",
         "worldEvent": "curseOfTheSchaduw",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
     },
@@ -14744,7 +14744,7 @@
         "rarity": "common",
         "season": "intoTheDragonsWake",
         "worldEvent": "flamesOfThePhoenix",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
     },
@@ -14753,7 +14753,7 @@
         "rarity": "common",
         "season": "shadowsOfTheDeep",
         "worldEvent": "theLoomingShadow",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
     },
@@ -14762,7 +14762,7 @@
         "rarity": "common",
         "season": "shadowsOfTheDeep",
         "worldEvent": "theWolfHunter",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
     },
@@ -14771,7 +14771,7 @@
         "rarity": "common",
         "season": "intoTheDragonsWake",
         "worldEvent": "theSerpentsWrath",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-09-23",
         "lastUpdated": "2025-09-23"
     },
@@ -15415,7 +15415,7 @@
         "id": "emeraldSkullTalisman",
         "season": "gutsAndGlory",
         "worldEvent": "theDrowningPlague",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2026-02-13"
     },
@@ -15423,7 +15423,7 @@
         "id": "eerieRing",
         "season": "ragingTides",
         "worldEvent": "anguishFromTheAbyss",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
     },
@@ -15694,7 +15694,7 @@
         "id": "krakenInkGlands",
         "season": "eyeOfTheBeast",
         "worldEvent": "kraken",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
     },
@@ -16060,7 +16060,7 @@
         "id": "zamaharibusEye",
         "season": "ragingTides",
         "worldEvent": "jawsOfRetribution",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2026-02-14",
         "lastUpdated": "2026-02-14"
     },
@@ -16068,7 +16068,7 @@
         "id": "megaLestarisEye",
         "season": "chorusOfHavoc",
         "worldEvent": "silentDeath",
-        "type": "quest",
+        "type": "contract",
         "dateAdded": "2026-02-14",
         "lastUpdated": "2026-02-14"
     }
