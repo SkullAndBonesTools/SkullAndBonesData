@@ -14679,7 +14679,7 @@
         "worldEvent": "symphonieMortelle",
         "type": "contract",
         "dateAdded": "2025-09-03",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "tianNingsImperialCloak": {
         "id": "tianNingsImperialCloak",
@@ -14688,7 +14688,7 @@
         "worldEvent": "theGloriousPhoenix",
         "type": "contract",
         "dateAdded": "2025-09-03",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "laPestesHead": {
         "id": "laPestesHead",
@@ -14697,7 +14697,7 @@
         "worldEvent": "thePlagueKing",
         "type": "contract",
         "dateAdded": "2025-09-06",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "laPestesLocker": {
         "id": "laPestesLocker",
@@ -14728,7 +14728,7 @@
         "worldEvent": "chorusOfHavoc",
         "type": "contract",
         "dateAdded": "2025-09-16",
-        "lastUpdated": "2025-09-16"
+        "lastUpdated": "2026-02-20"
     },
     "shadowyBracelet": {
         "id": "shadowyBracelet",
@@ -14737,7 +14737,7 @@
         "worldEvent": "curseOfTheSchaduw",
         "type": "contract",
         "dateAdded": "2025-09-23",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "necklaceOfTheSkyGoddess": {
         "id": "necklaceOfTheSkyGoddess",
@@ -14746,7 +14746,7 @@
         "worldEvent": "flamesOfThePhoenix",
         "type": "contract",
         "dateAdded": "2025-09-23",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "flaskOfClearLiquid": {
         "id": "flaskOfClearLiquid",
@@ -14755,7 +14755,7 @@
         "worldEvent": "theLoomingShadow",
         "type": "contract",
         "dateAdded": "2025-09-23",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "gildedCompass": {
         "id": "gildedCompass",
@@ -14764,7 +14764,7 @@
         "worldEvent": "theWolfHunter",
         "type": "contract",
         "dateAdded": "2025-09-23",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "zhangsClaw": {
         "id": "zhangsClaw",
@@ -14773,7 +14773,7 @@
         "worldEvent": "theSerpentsWrath",
         "type": "contract",
         "dateAdded": "2025-09-23",
-        "lastUpdated": "2025-09-23"
+        "lastUpdated": "2026-02-20"
     },
     "suaveSeadogCosmeticsChest": {
         "id": "suaveSeadogCosmeticsChest",
@@ -15417,7 +15417,7 @@
         "worldEvent": "theDrowningPlague",
         "type": "contract",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2026-02-13"
+        "lastUpdated": "2026-02-20"
     },
     "eerieRing": {
         "id": "eerieRing",
@@ -15425,7 +15425,7 @@
         "worldEvent": "anguishFromTheAbyss",
         "type": "contract",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-20"
     },
     "seaOfKingdomsCosmeticsChest": {
         "id": "seaOfKingdomsCosmeticsChest",
@@ -15696,7 +15696,7 @@
         "worldEvent": "kraken",
         "type": "contract",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-02-20"
     },
     "krakenChest": {
         "id": "krakenChest",
