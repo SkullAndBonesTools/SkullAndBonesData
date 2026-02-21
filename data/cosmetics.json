@@ -2902,8 +2902,9 @@
         "type": "sailsEmblem",
         "set": "compagnieCosmetics",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2025-01-08",
+        "lastUpdated": "2026-02-21",
         "bounty": "bloodDrunk",
+        "worldEvent": "bloodDrunk",
         "obtainable": "galvinRocheTreasureChest"
     },
     "wingedTaker": {
@@ -3237,29 +3238,30 @@
         "type": "hull",
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
-        "worldEvent": "theOpwelling",
+        "worldEvent": ["theOpwelling","aShowOfStrength"],
         "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-04-10"
+        "lastUpdated": "2026-02-21"
     },
     "kingsFavor": {
         "id": "kingsFavor",
         "type": "sailsColor",
         "set": "dmcCosmetics",
         "bounty": "aShowOfStrength",
-        "worldEvent": "theOpwelling",
+        "worldEvent": ["theOpwelling","aShowOfStrength"],
         "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-04-10"
+        "lastUpdated": "2026-02-21"
     },
     "vanguardsGlory": {
         "id": "vanguardsGlory",
         "type": "hull",
         "set": "compagnieCosmetics",
         "bounty": "bloodDrunk",
+        "worldEvent": "bloodDrunk",
         "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "foulWinds": {
         "id": "foulWinds",
@@ -3401,68 +3403,74 @@
         "id": "majiHeadgear",
         "type": "headwear",
         "bounty": "hunterAndHunted",
+        "worldEvent": "hunterHunted",
         "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "lanunTop": {
         "id": "lanunTop",
         "type": "torso",
         "bounty": "aTreacherousTurn",
+        "worldEvent": "aTreacherousTurn",
         "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "bahariNeckwear": {
         "id": "bahariNeckwear",
         "type": "neck",
         "bounty": "hunterAndHunted",
+        "worldEvent": "hunterHunted",
         "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "fadedRedSash": {
         "id": "fadedRedSash",
         "type": "waist",
         "bounty": "bloodDrunk",
+        "worldEvent": "bloodDrunk",
         "set": "royaleWarmaster",
         "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-06-01"
+        "lastUpdated": "2026-02-21"
     },
     "compagnieFrock": {
         "id": "compagnieFrock",
         "type": "torso",
         "bounty": "bloodDrunk",
+        "worldEvent": "bloodDrunk",
         "obtainable": "galvinRocheTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "dmcSoldierTop": {
         "id": "dmcSoldierTop",
         "type": "torso",
         "bounty": "aShowOfStrength",
-        "worldEvent": "theOpwelling",
+        "worldEvent": ["theOpwelling","aShowOfStrength"],
         "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-06-29"
+        "lastUpdated": "2026-02-21"
     },
     "dutchLeggings": {
         "id": "dutchLeggings",
         "type": "bottom",
         "bounty": "aShowOfStrength",
-        "worldEvent": "theOpwelling",
+        "worldEvent": ["theOpwelling","aShowOfStrength"],
         "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-05-22"
+        "lastUpdated": "2026-02-21"
     },
     "majiNeckAccessory": {
         "id": "majiNeckAccessory",
         "type": "neck",
         "bounty": "hunterAndHunted",
+        "worldEvent": "hunterHunted",
         "obtainable": "jokaKubwaTreasureChest",
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-04-08"
+        "lastUpdated": "2026-02-21"
     },
     "hesselsPride": {
         "id": "hesselsPride",
@@ -3480,10 +3488,10 @@
         "id": "dmcSoldierBand",
         "type": "waist",
         "bounty": "aShowOfStrength",
-        "worldEvent": "theOpwelling",
+        "worldEvent": ["theOpwelling","aShowOfStrength"],
         "obtainable": ["dirkAnkerenTreasureChest","opwellingTreasureChest"],
         "dateAdded": "2024-03-24",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-02-21"
     },
     "eyeOfDevastation": {
         "id": "eyeOfDevastation",
@@ -4823,9 +4831,10 @@
         "id": "dmcTricorne",
         "type": "headwear",
         "bounty": "aShowOfStrength",
+        "worldEvent": "aShowOfStrength",
         "obtainable": "dirkAnkerenTreasureChest",
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-06-30"
+        "lastUpdated": "2026-02-21"
     },
     "kayaRayaHeadwear": {
         "id": "kayaRayaHeadwear",
@@ -5651,9 +5660,10 @@
         "id": "dmcRegularCravat",
         "type": "neck",
         "bounty": "aShowOfStrength",
+        "worldEvent": "aShowOfStrength",
         "obtainable": "dirkAnkerenTreasureChest",
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-02-21"
     },
     "hovaNeckwear": {
         "id": "hovaNeckwear",
@@ -11827,9 +11837,10 @@
         "id": "lanunWaistband",
         "type": "waist",
         "bounty": "aTreacherousTurn",
+        "worldEvent": "aTreacherousTurn",
         "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-06-09",
-        "lastUpdated": "2024-06-09"
+        "lastUpdated": "2026-02-21"
     },
     "bloodAndWater": {
         "id": "bloodAndWater",
@@ -12633,9 +12644,10 @@
         "id": "lanunWraps",
         "type": "forearm",
         "bounty": "aTreacherousTurn",
+        "worldEvent": "aTreacherousTurn",
         "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-06-20",
-        "lastUpdated": "2024-06-20"
+        "lastUpdated": "2026-02-21"
     },
     "greatLestari": {
         "id": "greatLestari",
