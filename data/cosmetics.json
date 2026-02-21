@@ -12214,9 +12214,9 @@
         "id": "hermitHarriet",
         "type": "pet",
         "season": "chorusOfHavoc",
-        "obtainable": [["smugglerPass","smugglerPass70Reward"]],
+        "obtainable": [["smugglerPass","smugglerPass70Reward"], "ubisoftStore"],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-02-20"
     },
     "skullAndBonesFieryWelcome": {
         "id": "skullAndBonesFieryWelcome",
