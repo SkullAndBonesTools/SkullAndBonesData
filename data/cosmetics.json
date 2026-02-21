@@ -383,9 +383,9 @@
         "set": "theLongDark",
         "season": "ragingTides",
         "effect": "emissive",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "boarFacedGeorge": {
         "id": "boarFacedGeorge",
@@ -451,9 +451,9 @@
         "set": "theLongDark",
         "season": "ragingTides",
         "effect": "emissive",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "markOfTheFree": {
         "id": "markOfTheFree",
@@ -638,9 +638,9 @@
         "type": "crewLook",
         "set": "theLongDark",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "compagnieGarbs": {
         "id": "compagnieGarbs",
@@ -708,9 +708,9 @@
         "set": "theLongDark",
         "effect": "emissive",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "pointiestStick": {
         "id": "pointiestStick",
@@ -899,11 +899,11 @@
         "id": "theSaltyBeard",
         "type": "wheel",
         "set": "theLongDark",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "effect": "emissive",
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "wheelOfConquests": {
         "id": "wheelOfConquests",
@@ -1091,10 +1091,10 @@
         "id": "leviathan",
         "type": "nameplate",
         "set": "theLongDark",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "ironWill": {
         "id": "ironWill",
@@ -1171,9 +1171,9 @@
         "set": "theLongDark",
         "season": "ragingTides",
         "effect": "emissive",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-25",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "getOffMyShip": {
         "id": "getOffMyShip",
@@ -1579,10 +1579,10 @@
         "id": "hadalGreen",
         "type": "hull",
         "set": "theLongDark",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-17"
+        "lastUpdated": "2026-02-20"
     },
     "oliveShade": {
         "id": "oliveShade",
@@ -1753,10 +1753,10 @@
         "id": "deadGodsEmbrace",
         "type": "figureHead",
         "set": "theLongDark",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "season": "ragingTides",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-03-25"
+        "lastUpdated": "2026-02-20"
     },
     "valiantHeart": {
         "id": "valiantHeart",
@@ -2223,9 +2223,9 @@
         "set": "theLongDark",
         "effect": "emissive",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-20"
     },
     "ruffledRoyals": {
         "id": "ruffledRoyals",
@@ -2660,9 +2660,9 @@
         "type": "sailsPattern",
         "set": "theLongDark",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-04-04"
+        "lastUpdated": "2026-02-20"
     },
     "fromTheAbyssSailPattern": {
         "id": "fromTheAbyssSailPattern",
@@ -2963,9 +2963,9 @@
         "type": "sailsEmblem",
         "set": "theLongDark",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-04-04"
+        "lastUpdated": "2026-02-20"
     },
     "theWild": {
         "id": "theWild",
@@ -4287,9 +4287,9 @@
         "type": "bodyCosmetics",
         "season": "ragingTides",
         "set": "scionOfDagon",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-04-04",
-        "lastUpdated": "2024-04-04"
+        "lastUpdated": "2026-02-20"
     },
     "commodoresBrim": {
         "id": "commodoresBrim",
@@ -4951,9 +4951,9 @@
         "type": "headwear",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "smugglerPass",
+        "obtainable": ["smugglerPass","ubisoftStore"],
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "pinkysHat": {
         "id": "pinkysHat",
@@ -5748,9 +5748,9 @@
         "type": "neck",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "bajakLautNeckwear": {
         "id": "bajakLautNeckwear",
@@ -5976,9 +5976,9 @@
         "type": "torso",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-04-30"
+        "lastUpdated": "2026-02-20"
     },
     "suaveVestments": {
         "id": "suaveVestments",
@@ -6571,9 +6571,9 @@
         "type": "hand",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-01",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "opalRings": {
         "id": "opalRings",
@@ -6853,9 +6853,9 @@
         "type": "waist",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-05-04"
+        "lastUpdated": "2026-02-20"
     },
     "ropedSash": {
         "id": "ropedSash",
@@ -7794,9 +7794,9 @@
         "type": "forearm",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "taintedGloves": {
         "id": "taintedGloves",
@@ -8410,9 +8410,9 @@
         "type": "footwear",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "looseLeatherBoots": {
         "id": "looseLeatherBoots",
@@ -9045,9 +9045,9 @@
         "type": "bottom",
         "set": "scionOfDagon",
         "season": "ragingTides",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass","ubisoftStore"],
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-02-20"
     },
     "airyTrousers": {
         "id": "airyTrousers",
@@ -12214,7 +12214,7 @@
         "id": "hermitHarriet",
         "type": "pet",
         "season": "chorusOfHavoc",
-        "obtainable": [["smugglerPass","smugglerPass70Reward"], "ubisoftStore"],
+        "obtainable": [["smugglerPass","smugglerPass70Reward"],"ubisoftStore"],
         "dateAdded": "2024-06-12",
         "lastUpdated": "2026-02-20"
     },
