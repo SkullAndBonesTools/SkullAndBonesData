@@ -10,11 +10,11 @@
         },
         "sovereigns": {
             "name": "Sovereigns",
-            "description": "Awarded for completing high-level activities and used to purchase unique items."
+            "description": "Wird für den Abschluss fortgeschrittener Aktivitäten verliehen und kann zum Kauf einzigartiger Gegenstände genutzt werden."
         },
         "reapersToll": {
             "name": "Tribut des Schnitters",
-            "description": "A strange medallion with a sinister engraving. Some claim its face comes to life under the moonlight."
+            "description": "Ein merkwürdiges Medaillon mit bedrohlicher Inschrift. Angeblich erwacht das Gesicht darauf im Mondschein zum Leben."
         },
         "gold": {
             "name": "Gold",
@@ -30,11 +30,11 @@
         },
         "azuriteGem": {
             "name": "Azurit-Edelstein",
-            "description": "This gem gleams with an unsettling sheen and feels cold to the touch. So cold it seems to be sapping more than just heat."
+            "description": "Dieser Edelstein schimmert mit einem beunruhigenden Glanz und fühlt sich kalt an. So kalt, dass es mehr als nur Wärme zu entziehen scheint."
         },
         "halfTaels": {
-            "name": "Half-Taels",
-            "description": "These gold coins are sought after by many. Defeat the sea monsters and the Nian to acquire this newfound currency."
+            "name": "Halb-Teals",
+            "description": "Diese Goldmünzen sind von vielen begehrt. Besiege die Seeungeheuer und das Nian, um diese neu entdeckte Währung zu erwerben."
         },
         "silverLions": {
             "name": "Silberlöwen",
@@ -42,11 +42,11 @@
         },
         "bloodiedDoubloon": {
             "name": "Blutige Dublone",
-            "description": "A coin of silver taken from the hands of a turncoat who paid dearly for offering their services to the megacorps."
+            "description": "Eine Silbermünze, die einem Überläufer abgenommen wurde, der teuer für seine Dienste für die großen Kompanien bezahlt hat."
         },
         "heartfeltWish": {
-            "name": "Heartfelt Wish",
-            "description": "An amulet made by a loving parent to be passed to a child filled with their wishes for safety and happiness."
+            "name": "Aufrichtiger Wunsch",
+            "description": "Ein Amulett, das von einem liebenden Elternteil angefertigt wurde, um an ein Kind weitergegeben zu werden. Es ist angefüllt mit Wünschen für seine Sicherheit und sein Glück."
         },
         "illicitMoonshine": {
             "name": "Illicit Moonshine",

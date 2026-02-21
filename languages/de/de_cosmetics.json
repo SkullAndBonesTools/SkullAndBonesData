@@ -19243,9 +19243,9 @@
             }
         },
         "walkingRemains": {
-            "name": "Walking Remains",
+            "name": "Wandernde Überreste",
             "description": {
-                "general": "No one knows what tethers you to this world"
+                "general": "Niemand weiß, was einen an diese Welt bindet."
             }
         },
         "aCurseDescends": {
@@ -19255,15 +19255,15 @@
             }
         },
         "doomSpell": {
-            "name": "Doom Spell",
+            "name": "Untergangszauber",
             "description": {
-                "general": "It may take centuries but a downfall is inevitable"
+                "general": "Es kann Jahrhunderte dauern, aber der Untergang ist unvermeidlich."
             }
         },
         "thePullOfMadness": {
-            "name": "The Pull of Madness",
+            "name": "Der Sog des Wahnsinns",
             "description": {
-                "general": "Some forces cannot be defied"
+                "general": "Manchen Kräften kann man sich nicht wiedersetzen."
             }
         },
         "brimOfWant": {
