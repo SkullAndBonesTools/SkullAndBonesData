@@ -3049,9 +3049,10 @@
         "id": "crownedSkull",
         "type": "sailsEmblem",
         "set": "opulentScion",
+        "season": "ragingTides",
         "obtainable": "ubisoftStoreSeasonalPack",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2026-02-22"
     },
     "theIronGrin": {
         "id": "theIronGrin",
