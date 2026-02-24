@@ -31167,5 +31167,12 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
         "lastUpdated": "2026-02-17"
+    },
+    "theKeepersWay": {
+        "id": "theKeepersWay",
+        "type": "sailsEmblem",
+        "obtainable": ["twitchDrop","twitchDropLilywhiteTV"],
+        "dateAdded": "2026-02-24",
+        "lastUpdated": "2026-02-24"
     }
 }

@@ -21503,6 +21503,12 @@
             "description": {
                 "general": "A worthy upgrade for a true pirate metalhead"
             }
+        },
+        "theKeepersWay": {
+            "name": "The Keeper's Way",
+            "description": {
+                "general": "A trail of white lilies left in their wake"
+            }
         }
     }
 }
