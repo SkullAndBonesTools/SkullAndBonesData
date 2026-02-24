@@ -1654,5 +1654,9 @@
     "apexTitan": {
         "id": "apexTitan",
         "type": "ship"
+    },
+    "badAndBaroque": {
+        "id": "badAndBaroque",
+        "type": "ship"
     }
 }

@@ -30547,7 +30547,7 @@
     "hauteMagnifique": {
         "id": "hauteMagnifique",
         "type": "sailsEmblem",
-        "set": "",
+        "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
         "obtainable": "factionWarRewardWonTerritory1",
         "faction": "compagnieRoyale",
@@ -30557,7 +30557,7 @@
     "cobaltCorsair": {
         "id": "cobaltCorsair",
         "type": "sailsColor",
-        "set": "",
+        "set": "badAndBaroque",
         "effect": "emissive",
         "season": "eyeOfTheBeast",
         "obtainable": "factionWarRewardWonTerritory4",
@@ -30568,7 +30568,7 @@
     "crownmetal": {
         "id": "crownmetal",
         "type": "hull",
-        "set": "",
+        "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
         "obtainable": "factionWarRewardWonTerritory7",
         "faction": "compagnieRoyale",
@@ -30578,7 +30578,7 @@
     "nobleflame": {
         "id": "nobleflame",
         "type": "sailsPattern",
-        "set": "",
+        "set": "badAndBaroque",
         "season": "eyeOfTheBeast",
         "obtainable": "factionWarRewardWonTerritory11",
         "faction": "compagnieRoyale",
