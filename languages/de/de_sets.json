@@ -387,7 +387,7 @@
         "abyssalSlayer": "Abyssal Slayer Set",
         "silkenPromises": "Silken Promises Set",
         "mutinyMostFoul": "Mutiny Most Foul Set",
-        "wickedGreen": "Wicked Green Set",
+        "wickedGreen": "Giftiges Grün Set",
         "theDrownedOnes": "The Drowned Ones Set",
         "cultOfTheKraken": "Cult of the Kraken Set",
         "mutinysChild": "Mutiny's Child Set",
@@ -395,7 +395,7 @@
         "jewelsOfTheSeas": "Jewels of the Seas Set",
         "eveOfRetribution": "Eve of Retribution Set",
         "cursedEight": "Cursed Eight Set",
-        "krakenSlayer": "Kraken Slayer Set",
+        "krakenSlayer": "Krakentöter Set",
         "primordialTerror": "Primordial Terror Set",
         "sunkenWatchers": "Sunken Watchers Set",
         "widowsEmbrace": "Widow's Embrace Set",
@@ -412,6 +412,8 @@
         "emberhound": "Emberhound Set",
         "purveyorOfWar": "Purveyor of War Set",
         "argentWarden": "Argent Warden Set",
-        "crimsonStreak": "Crimson Streak Set"
+        "crimsonStreak": "Crimson Streak Set",
+        "apexTitan": "Apex Titan Set",
+        "badAndBaroque": "Bad and Baroque Set"
     }
 }

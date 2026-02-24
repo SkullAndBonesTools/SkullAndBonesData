@@ -8559,7 +8559,7 @@
         "swiftJusticeBelt": {
             "name": "Kurzer Prozess Gürtel",
             "description": {
-                "general": "Signature leather baldric with a deadly arsenal"
+                "general": "Einzigartiges Wehrgehänge mit tödlichem Arsenal."
             }
         },
         "crimsonSilks": {
@@ -15801,7 +15801,7 @@
         "quietGloom": {
             "name": "Stille Düsternis",
             "description": {
-                "general": "Such is the space between moments, between worlds"
+                "general": "So ist der Raum zwischen den Momenten, zwischen den Welten."
             }
         },
         "noctivagus": {
@@ -16447,9 +16447,9 @@
             }
         },
         "takeTheAscendant": {
-            "name": "Take the Ascendant",
+            "name": "Ergreife die Führung",
             "description": {
-                "general": "The might of an empire is not to be trifled with"
+                "general": "Mit der Macht eines Imperiums sollte man sich nicht anlegen."
             }
         },
         "bloodbound": {
@@ -16837,9 +16837,9 @@
             }
         },
         "toHellAndBack": {
-            "name": "To Hell and Back",
+            "name": "Zur Hölle und zurück",
             "description": {
-                "general": "Made for one destined to destroy"
+                "general": "Gemacht für jemandem, der zum Zerstörer bestimmt ist."
             }
         },
         "aCursedGift": {
@@ -18055,9 +18055,9 @@
             }
         },
         "toPieces": {
-            "name": "To Pieces",
+            "name": "In Stücke",
             "description": {
-                "general": "Like the blood of one who leapt to their death among the rocks and waves"
+                "general": "Wie das Blut von jemandem, der zwischen Felsen und Wellen in den Tod gesprungen ist."
             }
         },
         "sheWhoWeeps": {
@@ -19195,9 +19195,9 @@
             }
         },
         "justiceWaits": {
-            "name": "Justice Waits",
+            "name": "Wartende Gerechtigkeit",
             "description": {
-                "general": "It never sleeps or falters"
+                "general": "Nie schläft oder stockt sie."
             }
         },
         "searingLight": {
@@ -19249,9 +19249,9 @@
             }
         },
         "aCurseDescends": {
-            "name": "A Curse Descends",
+            "name": "Ein Fluch steigt herab",
             "description": {
-                "general": "\"Let this fate be on both our heads!\""
+                "general": "\"Dieses Schicksal lastet auf uns beiden!\""
             }
         },
         "doomSpell": {
@@ -19705,9 +19705,9 @@
             }
         },
         "roninsHowl": {
-            "name": "Ronin's Howl",
+            "name": "Geheul des Ronin",
             "description": {
-                "general": "Spew your rage. Make them fall."
+                "general": "Spuckt Eure Wut aus. Bringt sie zum Untergang."
             }
         },
         "eatThis": {
@@ -20221,9 +20221,9 @@
             }
         },
         "flameScourge": {
-            "name": "Flame Scourge",
+            "name": "Plage der Flamme",
             "description": {
-                "general": "Fire and water, heed the call"
+                "general": "Feuer und Wasser, hört meinen Ruf."
             }
         },
         "motherOfTeeth": {
@@ -20269,9 +20269,9 @@
             }
         },
         "hidePiercer": {
-            "name": "Hide Piercer",
+            "name": "Haut-Durchbohrer",
             "description": {
-                "general": "\"Looks like a hungry little fella, don't he?\""
+                "general": "\"Ist'n hungriger kleiner Kerl, ne?\""
             }
         },
         "velvetViper": {
@@ -20671,9 +20671,9 @@
             }
         },
         "anAncientsCall": {
-            "name": "An Ancient's Call",
+            "name": "Ein uralter Ruf",
             "description": {
-                "general": "These enchanted tentacle bones occasionally stir to life"
+                "general": "Diese verzauberten Tentakelknochen erwachen gelegentlich zum Leben."
             }
         },
         "sacredHunter": {
@@ -20689,21 +20689,21 @@
             }
         },
         "tentacledTidings": {
-            "name": "Tentacled Tidings",
+            "name": "Tentakelhafte Botschaften",
             "description": {
-                "general": "Etchings to accompany you to the deep"
+                "general": "Zeichen, die euch in die Tiefe begleiten."
             }
         },
         "murkyWaters": {
             "name": "Murky Waters",
             "description": {
-                "general": "The color of pure Kraken slime"
+                "general": "Die Farbe von reinem Krakenschleim"
             }
         },
         "aLegendsEnd": {
-            "name": "A Legend's End",
+            "name": "Das Ende einer Legende",
             "description": {
-                "general": "Only a few live to bear the mark"
+                "general": "Nur wenige überleben, um das Mal zu tragen."
             }
         },
         "bonyBill": {
@@ -21043,27 +21043,27 @@
             }
         },
         "theChasmsCall": {
-            "name": "The Chasm's Call",
+            "name": "Der Ruf der Kluft",
             "description": {
-                "general": "Noble colors for a noble beast"
+                "general": "Edle Farben für ein edles Tier."
             }
         },
         "amethystBrine": {
-            "name": "Amethyst Brine",
+            "name": "Amethystsalzwasser",
             "description": {
-                "general": "Salty shades of purple"
+                "general": "Salzige Violettöne."
             }
         },
         "deathsHandEmblem": {
-            "name": "Death's Hand Emblem",
+            "name": "Death's Hand",
             "description": {
-                "general": "A dangerous omen amongst the waves"
+                "general": "Ein gefährliches Omen in den Wellen."
             }
         },
         "suckerswirl": {
-            "name": "Suckerswirl",
+            "name": "Saugnäpfe",
             "description": {
-                "general": "Twisted tentacles to surround your sails"
+                "general": "Tentakel, die Eure Segel umschlingen."
             }
         },
         "hardfoot": {
@@ -21121,27 +21121,27 @@
             }
         },
         "brassbound": {
-            "name": "Brassbound",
+            "name": "Messingfarben",
             "description": {
-                "general": "A burnished hull for those who never bend"
+                "general": "Ein polierter Rumpf für diejenigen, die niemals nachgeben."
             }
         },
         "twoFacedGrin": {
-            "name": "Two-Faced Grin",
+            "name": "Gespaltenes Grinsen",
             "description": {
-                "general": "Flags raised, bonus bared, loyalty sold dear"
+                "general": "Flaggen gehisst, Knochen entblößt, Loyalität teuer verkauft."
             }
         },
         "crimsonCreed": {
-            "name": "Crimson Creed",
+            "name": "Blutrotes Credo",
             "description": {
-                "general": "For pirates who pledge only to themselves"
+                "general": "Für Piraten, die nur sich selbst Treue schwören."
             }
         },
         "intricateSchemes": {
-            "name": "Intricate Schemes",
+            "name": "Kunstvolle Intrigen",
             "description": {
-                "general": "Flourishes for those who play both sides"
+                "general": "Gedeiht für diejenigen, die auf beiden Seiten spielen."
             }
         },
         "sunShimmer": {
@@ -21205,195 +21205,195 @@
             }
         },
         "netherworld": {
-            "name": "Netherworld",
+            "name": "Unterwelt",
             "description": {
-                "general": "Dead flames glow the brightest"
+                "general": "Die toten Flammen brennen am hellsten."
             }
         },
         "burningMist": {
-            "name": "Burning Mist",
+            "name": "Brennender Nebel",
             "description": {
-                "general": "Sin and singed edges"
+                "general": "Sünde und versengte Ränder."
             }
         },
         "graveyardWind": {
-            "name": "Graveyard Wind",
+            "name": "Grabeswind",
             "description": {
-                "general": "Cracked sails that whisper words of the dead"
+                "general": "Zerrissene Segel, die Worte der Verstorbenen flüstern."
             }
         },
         "soulReaper": {
-            "name": "Soul Reaper",
+            "name": "Seelenschnitter",
             "description": {
-                "general": "\"poor things are barely hanging on!\""
+                "general": "\"Die Armen halten sich ja kaum noch über Wasser!\""
             }
         },
         "hellfiresShine": {
-            "name": "Hellfire's Shine",
+            "name": "Licht des Höllenfeuers",
             "description": {
-                "general": "\"A classy upgrade fer yer rotten hull!\""
+                "general": "\"Eine schicke Verbesserung für Euren verfaulten Rumpf!\""
             }
         },
         "twinforged": {
-            "name": "Twinforged",
+            "name": "Zwillingsschmiede",
             "description": {
-                "general": "Twice the hell to raise"
+                "general": "Doppelt so viel Hölle."
             }
         },
         "boneglint": {
-            "name": "Boneglint",
+            "name": "Knochenglanz",
             "description": {
-                "general": "A ghostly turn of fortune"
+                "general": "Eine gespenstische glückliche Fügung."
             }
         },
         "crownedDeepskin": {
-            "name": "Crowned Deepskin",
+            "name": "Gekrönte Haut",
             "description": {
-                "general": "Born of sky, sea, and fire, it bows to none"
+                "general": "Geboren aus Himmel, Meer und Feuer - und es kniet für niemanden."
             }
         },
         "gildscroll": {
-            "name": "Gildscroll",
+            "name": "Gildenrolle",
             "description": {
-                "general": "Unfurls like a royal decree"
+                "general": "Entfaltet sich wie ein königlicher Erlass."
             }
         },
         "bloodiedWings": {
-            "name": "Bloodied Wings",
+            "name": "Blutige Flügel",
             "description": {
-                "general": "Blackened cloth, stitched with wrath and gold"
+                "general": "Schwarzes Tuch, bestickt mit Zorn und Gold."
             }
         },
         "throatReaver": {
-            "name": "Throat Reaver",
+            "name": "Kehlenplünderer",
             "description": {
-                "general": "Grips the tide, hungers for the kill"
+                "general": "Ergreift die Flut und strebt nach dem Tod."
             }
         },
         "emberwake": {
-            "name": "Emberwake",
+            "name": "Erwachen der Glut",
             "description": {
-                "general": "Forged in flame, polished with conquest"
+                "general": "In Flammen geschmiedet, durch Eroberung veredelt."
             }
         },
         "crimsonRiot": {
-            "name": "Crimson Riot",
+            "name": "Blutroter Aufstand",
             "description": {
-                "general": "Crimson-lit, carved to conquer"
+                "general": "Purpurrot beleuchtet, zum Sieg graviert."
             }
         },
         "beaconOfFury": {
-            "name": "Beacon of Fury",
+            "name": "Leuchtfeuer des Zorns",
             "description": {
-                "general": "Wings of fire, carved with fury, crowned in flight"
+                "general": "Flügel aus Feuer, mit Wut geschnitzt, im Flug gekrönt."
             }
         },
         "chomperfin": {
-            "name": "Chomperfin",
+            "name": "Großer Beißer",
             "description": {
-                "general": "This little guy has the most legendary battle squeak"
+                "general": "Dieser kleine Kerl hat den legendärsten Kampfschrei."
             }
         },
         "endslash": {
-            "name": "Endslash",
+            "name": "Hinrichtung",
             "description": {
-                "general": "Heads will roll"
+                "general": "Köpfe werden rollen."
             }
         },
         "daggerpoint": {
-            "name": "Daggerpoint",
+            "name": "Dolchspitze",
             "description": {
-                "general": "Etched in the ashes of your enemies"
+                "general": "Eingebrannt in die Asche Eurer Gegner."
             }
         },
         "goldenGuillotine": {
-            "name": "Golden Guillotine",
+            "name": "Goldene Guillotine",
             "description": {
-                "general": "A bit of razzle, dazzle, and death"
+                "general": "Glanz, Glamour... und Kopf ab."
             }
         },
         "broadaxeEddy": {
-            "name": "Broadaxe Eddy",
+            "name": "Breitbeil Eddy",
             "description": {
-                "general": "The nicest guy around, really"
+                "general": "Tatsächlich ein sehr netter Kerl."
             }
         },
         "aSanguineEnd": {
-            "name": "A Sanguine End",
+            "name": "Ein blutrotes Ende",
             "description": {
-                "general": "The sea runs red with destruction"
+                "general": "Das Meer färbt sich rot vor Zerstörung."
             }
         },
         "executioner": {
-            "name": "Executioner",
+            "name": "Scharfrichter",
             "description": {
-                "general": "\"Get to the chopping block, now!\""
+                "general": "\"Ab zur Schlachtbank, sofort!\""
             }
         },
         "cerberusCall": {
-            "name": "Cerberus Call",
+            "name": "Der Ruf von Kerberos",
             "description": {
-                "general": "Always hungry for the hunt"
+                "general": "Sehnt sich immer nach der Jagd."
             }
         },
         "wolfmark": {
-            "name": "Wolfmark",
+            "name": "Wolfszeichen",
             "description": {
-                "general": "A rather beastly trim"
+                "general": "Ziemlich tierisches Trimmen."
             }
         },
         "umberhide": {
-            "name": "Umberhide",
+            "name": "Schattenfell",
             "description": {
-                "general": "There might be some fur on this one"
+                "general": "Da scheint noch etwas Fell drauf zu sein."
             }
         },
         "theDamnedOnes": {
-            "name": "The Damned Ones",
+            "name": "Die Verdammten",
             "description": {
-                "general": "Three very good bois"
+                "general": "Drei sehr brave Jungchen."
             }
         },
         "rustyBones": {
-            "name": "Rusty Bones",
+            "name": "Rostige Knochen",
             "description": {
-                "general": "The color of guts and glory"
+                "general": "Die Farben von Ruhm und Ehre."
             }
         },
         "hellHound": {
-            "name": "Hell Hound",
+            "name": "Höllenhund",
             "description": {
-                "general": "\"Bitey, bitey!\""
+                "general": "\"Beiß, Junge!\""
             }
         },
         "moltenFang": {
-            "name": "Molten Fang",
+            "name": "Geschmolzener Reißzahn",
             "description": {
-                "general": "Steer your way to hell"
+                "general": "Finde den Weg zur Hölle."
             }
         },
         "crownAndPistols": {
-            "name": "Crown and Pistols",
+            "name": "Krone und Pistolen",
             "description": {
-                "general": "Regal steel and crossed promises"
+                "general": "Königlicher Stahl und durchkreuzte Versprechen."
             }
         },
         "writOfBlood": {
-            "name": "Writ of Blood",
+            "name": "Blutschwur",
             "description": {
-                "general": "Filigree flourishes mask the truth. Every scroll signed in red."
+                "general": "Filigrane Schnörkel verdecken die Wahrheit. Jede Schriftrolle ist mit roter Tinte unterschrieben."
             }
         },
         "burgundyBetrayal": {
-            "name": "Burgundy Betrayal",
+            "name": "Burgundfarbener Verrat",
             "description": {
-                "general": "Wine-dark. Rich as a feast."
+                "general": "Weinrot. Reichhaltig wie ein Festmahl."
             }
         },
         "sovereignsTarnish": {
-            "name": "Sovereign's Tarnish",
+            "name": "Schandfleck des Herrschers",
             "description": {
-                "general": "A sheen dulled by salt and smoke"
+                "general": "Ein durch Salz und Rauch getrübter Glanz."
             }
         },
         "brineAndBone": {
@@ -21499,9 +21499,39 @@
             }
         },
         "nightBark": {
-            "name": "Night Bark",
+            "name": "Nachtbellen",
             "description": {
-                "general": "A worthy upgrade for a true pirate metalhead"
+                "general": "Ein wertvolles Upgrade für echte Piraten-Metalheads."
+            }
+        },
+        "theKeepersWay": {
+            "name": "Der Weg des Hüters",
+            "description": {
+                "general": "Und sie hinterließen nur eine Spur aus weißen Lilien."
+            }
+        },
+        "wrathskull": {
+            "name": "Zornschädel",
+            "description": {
+                "general": "Dunkle Kiefer erheben sich, um die Lebenden zu holen."
+            }
+        },
+        "bonesEdge": {
+            "name": "Knochenklinge",
+            "description": {
+                "general": "Die Dämmerung einer neuen Ära."
+            }
+        },
+        "fossilMoss": {
+            "name": "Fossilmoos",
+            "description": {
+                "general": "Schattierungen der Urgeschichte."
+            }
+        },
+        "stormOil": {
+            "name": "Sturmöl",
+            "description": {
+                "general": "Dunkler als der tiefste Tiefseegraben."
             }
         }
     }

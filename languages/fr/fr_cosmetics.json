@@ -21055,7 +21055,7 @@
             }
         },
         "deathsHandEmblem": {
-            "name": "Death's Hand Emblem",
+            "name": "Death's Hand",
             "description": {
                 "general": "A dangerous omen amongst the waves"
             }
@@ -21502,6 +21502,36 @@
             "name": "Night Bark",
             "description": {
                 "general": "A worthy upgrade for a true pirate metalhead"
+            }
+        },
+        "theKeepersWay": {
+            "name": "The Keeper's Way",
+            "description": {
+                "general": "A trail of white lilies left in their wake"
+            }
+        },
+        "wrathskull": {
+            "name": "Wrathskull",
+            "description": {
+                "general": "Dark jaws rise to claim the living"
+            }
+        },
+        "bonesEdge": {
+            "name": "Bone's Edge",
+            "description": {
+                "general": "Signaling the dawn of a new epoch"
+            }
+        },
+        "fossilMoss": {
+            "name": "Fossil Moss",
+            "description": {
+                "general": "Shades of prehistory"
+            }
+        },
+        "stormOil": {
+            "name": "Storm Oil",
+            "description": {
+                "general": "Darker than the deepest trench"
             }
         }
     }
