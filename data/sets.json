@@ -1650,5 +1650,9 @@
     "crimsonStreak": {
         "id": "crimsonStreak",
         "type": "player"
+    },
+    "apexTitan": {
+        "id": "apexTitan",
+        "type": "ship"
     }
 }

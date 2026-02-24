@@ -31174,5 +31174,39 @@
         "obtainable": ["twitchDrop","twitchDropLilywhiteTV"],
         "dateAdded": "2026-02-24",
         "lastUpdated": "2026-02-24"
+    },
+    "wrathskull": {
+        "id": "wrathskull",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "apexTitan",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-24",
+        "lastUpdated": "2026-02-24"
+    },
+    "bonesEdge": {
+        "id": "bonesEdge",
+        "type": "sailsPattern",
+        "set": "apexTitan",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-24",
+        "lastUpdated": "2026-02-24"
+    },
+    "fossilMoss": {
+        "id": "fossilMoss",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "apexTitan",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-24",
+        "lastUpdated": "2026-02-24"
+    },
+    "stormOil": {
+        "id": "stormOil",
+        "type": "hull",
+        "set": "apexTitan",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-02-24",
+        "lastUpdated": "2026-02-24"
     }
 }
