@@ -28593,13 +28593,13 @@
         "dateAdded": "2025-10-28",
         "lastUpdated": "2025-10-28"
     },
-    "coilsOfFate": {
-        "id": "coilsOfFate",
+    "serpentsTouch": {
+        "id": "serpentsTouch",
         "type": "sailsEmblem",
         "set": "coilsOfFate",
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-11-11",
-        "lastUpdated": "2025-11-11"
+        "lastUpdated": "2026-02-24"
     },
     "burrowingMadness": {
         "id": "burrowingMadness",
