@@ -133,7 +133,8 @@
     },
     "theAzureRoyale": {
         "id": "theAzureRoyale",
-        "type": "eliteWarship"
+        "type": "eliteWarship",
+        "faction": "azureFleet"
     },
     "theGreatShadow": {
         "id": "theGreatShadow",
