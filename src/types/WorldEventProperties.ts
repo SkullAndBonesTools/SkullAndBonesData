@@ -1,1 +1,1 @@
-export type WorldEventType = "convoy" | "eliteWarship" | "seaMonster" | "spectralShip" | "warEvent";
+export type WorldEventType = "convoy" | "eliteWarship" | "seaMonster" | "spectralShip" | "warEvent" | "militaryBase";

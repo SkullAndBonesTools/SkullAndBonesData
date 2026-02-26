@@ -14305,9 +14305,10 @@
         "type": "chest",
         "value": 1,
         "weight": 100,
-        "obtainable": "defeatMegafortWolvenhol",
+        "worldEvent": "megafortWolvenhol",
+        "obtainable": "defeatMegafort",
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-02-26"
     },
     "teulingsMaterialsChest1": {
         "id": "teulingsMaterialsChest1",

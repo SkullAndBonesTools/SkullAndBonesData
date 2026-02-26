@@ -366,5 +366,10 @@
     "jawsOfRetribution": {
         "id": "jawsOfRetribution",
         "type": "seaMonster"
+    },
+    "megafortWolvenhol": {
+        "id": "megafortWolvenhol",
+        "type": "militaryBase",
+        "faction": "dutchMerchantCompany"
     }
 }
