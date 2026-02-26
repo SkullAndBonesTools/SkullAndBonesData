@@ -19512,6 +19512,7 @@
     "rakshasasRage": {
         "id": "rakshasasRage",
         "type": "figureHead",
+        "tier": 1,
         "season": "shadowsOfTheDeep",
         "set": "rakshasa",
         "effect": "emissive",
@@ -19525,15 +19526,15 @@
             "artisansRefinementPack": 3
         },
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2026-02-26"
     },
     "rakshasaTheFiend": {
         "id": "rakshasaTheFiend",
         "type": "figureHead",
+        "tier": 2,
         "season": "shadowsOfTheDeep",
         "set": "rakshasa",
         "basic": "readyRakshasa",
-        "upgrades": ["rakshasasRage"],
         "effect": ["emissive","combatReactive"],
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "required": {
@@ -19544,7 +19545,7 @@
             "artisansRefinementPack": 5
         },
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2026-02-26"
     },
     "bloodOnSand": {
         "id": "bloodOnSand",
