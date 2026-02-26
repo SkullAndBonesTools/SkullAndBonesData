@@ -65,7 +65,8 @@
     "iceAndEasy": {
         "id": "iceAndEasy",
         "type": "convoy",
-        "faction": "dutchMerchantCompany"
+        "faction": "dutchMerchantCompany",
+        "event": "summerFiesta"
     },
     "chorusOfHavoc": {
         "id": "chorusOfHavoc",
@@ -134,7 +135,8 @@
     "theAzureRoyale": {
         "id": "theAzureRoyale",
         "type": "eliteWarship",
-        "faction": "azureFleet"
+        "faction": "azureFleet",
+        "event": "azureSolstice"
     },
     "theGreatShadow": {
         "id": "theGreatShadow",
@@ -171,17 +173,20 @@
     "theHonorlessMizerja": {
         "id": "theHonorlessMizerja",
         "type": "eliteWarship",
-        "faction": "clanOfFara"
+        "faction": "clanOfFara",
+        "event": "theHonorless"
     },
     "theHonorlessDianSinaga": {
         "id": "theHonorlessDianSinaga",
         "type": "eliteWarship",
-        "faction": "dominionOfRempah"
+        "faction": "dominionOfRempah",
+        "event": "theHonorless"
     },
     "theHonorlessAhPak": {
         "id": "theHonorlessAhPak",
         "type": "eliteWarship",
-        "faction": "pirates"
+        "faction": "pirates",
+        "event": "theHonorless"
     },
     "shadesOfTheRonin": {
         "id": "shadesOfTheRonin",
@@ -315,7 +320,8 @@
     "theWeepingMother": {
         "id": "theWeepingMother",
         "type": "eliteWarship",
-        "faction": "weepingSpecters"
+        "faction": "weepingSpecters",
+        "event": "darktideLullaby"
     },
     "soleilRoyal": {
         "id": "soleilRoyal",
@@ -325,17 +331,20 @@
     "reapItAndWeep": {
         "id": "reapItAndWeep",
         "type": "eliteWarship",
-        "faction": "theUnhallowed"
+        "faction": "theUnhallowed",
+        "event": "requiemOfTheLost"
     },
     "reaperOfTheLost": {
         "id": "reaperOfTheLost",
         "type": "eliteWarship",
-        "faction": "theUnhallowed"
+        "faction": "theUnhallowed",
+        "event": "requiemOfTheLost"
     },
     "azureHarbinger": {
         "id": "azureHarbinger",
         "type": "eliteWarship",
-        "faction": "azureFleet"
+        "faction": "azureFleet",
+        "event": "azureSolstice"
     },
     "warCargo": {
         "id": "warCargo",
