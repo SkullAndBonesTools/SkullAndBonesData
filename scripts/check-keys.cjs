@@ -55,6 +55,11 @@ for (const key in dataObj) {
         failed = true;
         continue;
     }
+    if(item.basic && !item.tier) {
+        console.error(`Missing 'tier' for upgraded key "${key}" in ${dataPath}`);
+        failed = true;
+        continue;
+    }
     if (item.id !== key) {
         console.error(`Mismatch: key "${key}" does not match id "${item.id}" in ${dataPath}`);
         failed = true;
