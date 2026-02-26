@@ -30045,7 +30045,7 @@
         },
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-02-26"
     },
     "boundCurses": {
         "id": "boundCurses",
@@ -30064,7 +30064,7 @@
         },
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-02-26"
     },
     "oneLastBreath": {
         "id": "oneLastBreath",
