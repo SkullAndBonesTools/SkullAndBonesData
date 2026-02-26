@@ -3130,6 +3130,16 @@
             "description": {
                 "general": "This weapon can be charged to pierce through enemies, dealing damage as it pierces. Damage decreases per hit"
             }
+        },
+        "redSunrise": {
+            "name": "Red Sunrise",
+            "description": {
+                "general": [
+                    "Hits have a 15% chance to trigger Taunted on the target. Targets that are already Taunted will become afflicted with Unlucky Taunt",
+                    "Unlucky Taunt inflicts 250 damage per second and can be stacked up to 5 times",
+                    "Armed Bonus: Hits have 50% chance to trigger Taunted"
+                ]
+            }
         }
     }
 }

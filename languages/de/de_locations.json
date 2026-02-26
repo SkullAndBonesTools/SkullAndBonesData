@@ -228,7 +228,7 @@
         "accountLedgerSainteAnne": "Ist/war beim Kontobuch während des Events zu kaufen",
         "defeatingMoonshiners": "Erhalten, wenn man Gegner der Schwarzbrenner-Piraten Fraktion besiegt",
         "twitchDropChargingCharlie": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Charging_Charlie",
-        "defeatMegafortWolvenhol": "Erhalten durch das Besiegen der DMC Großfestung Wolfsgrube",
+        "defeatMegafort": "Obtained when defeating the Megafort",
         "twitchDropDeathwish": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von D3ATHWISH",
         "twitchDropDarktidesLullabyRelease": "Twitch Drop zur Veröffentlichung des Dunkelflut-Wiegenlied-Events",
         "eventPass": "Event-Pass",
@@ -253,9 +253,9 @@
         "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
         "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft",
         "twitchDropStartYear2Season4": "Twitch Drops zu Beginn von {{eyeOfTheBeast}}",
-        "zamaharibuEyeReward": "Reward for handing in Zamaharibu's Eye at the Sea People Hunter Master at Outpost Lanitra",
-        "megaLestariEyeReward": "Reward for handing in Mega Lestari's Eye at the Sea People Hunter Master at Outpost Lanitra",
-        "krakenInkGlandsReward": "Reward for handing in Kraken Ink Glands at the Sea People Hunter Master at Outpost Lanitra",
-        "twitchDropLilywhiteTV": "Time-limited twitch drop during a livestream from LilywhiteTV"
+        "zamaharibuEyeReward": "Belohnung fürs Abgeben des Auges des Zamaharibu beim Meisterjäger des Seevolks im Außenposten Lanitra",
+        "megaLestariEyeReward": "Belohnung fürs Abgeben des Auges des Mega-Lestari beim Meisterjäger des Seevolks im Außenposten Lanitra",
+        "krakenInkGlandsReward": "Belohnung fürs Abgeben der Tintendrüsen des Kraken beim Meisterjäger des Seevolks im Außenposten Lanitra",
+        "twitchDropLilywhiteTV": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von LilywhiteTV"
     }
 }
