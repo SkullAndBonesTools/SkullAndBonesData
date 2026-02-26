@@ -30031,6 +30031,7 @@
     "lastRestraint": {
         "id": "lastRestraint",
         "type": "figureHead",
+        "tier": 1,
         "effect": "emissive",
         "set": "sunkenWatchers",
         "basic": "barnaclesAndChains",
@@ -30049,6 +30050,7 @@
     "boundCurses": {
         "id": "boundCurses",
         "type": "figureHead",
+        "tier": 2,
         "effect": ["emissive","combatReactive"],
         "set": "sunkenWatchers",
         "basic": "barnaclesAndChains",
