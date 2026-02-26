@@ -3136,7 +3136,7 @@
             "description": {
                 "general": [
                     "Hits have a 15% chance to trigger Taunted on the target. Targets that are already Taunted will become afflicted with Unlucky Taunt",
-                    "Unlocuky Taunt inflicts 250 damage per second and can be stacked up to 5 times",
+                    "Unlucky Taunt inflicts 250 damage per second and can be stacked up to 5 times",
                     "Armed Bonus: Hits have 50% chance to trigger Taunted"
                 ]
             }
