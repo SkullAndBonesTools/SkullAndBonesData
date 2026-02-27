@@ -10025,9 +10025,9 @@
         "type": "crewLook",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-05-29",
-        "lastUpdated": "2024-05-29"
+        "lastUpdated": "2026-02-24"
     },
     "fotsy": {
         "id": "fotsy",
@@ -11128,9 +11128,9 @@
         "effect": "emissive",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-24"
     },
     "fatefulBattlegrounds": {
         "id": "fatefulBattlegrounds",
@@ -11145,36 +11145,36 @@
         "type": "sailsEmblem",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "demiseAtDusk": {
         "id": "demiseAtDusk",
         "type": "hull",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "gleamAndGrandeur": {
         "id": "gleamAndGrandeur",
         "type": "sailsPattern",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "eminence": {
         "id": "eminence",
         "type": "nameplate",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "diabolicalDevourer": {
         "id": "diabolicalDevourer",
@@ -11189,9 +11189,9 @@
         "type": "ornaments",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "nightsKeeper": {
         "id": "nightsKeeper",
@@ -11199,53 +11199,53 @@
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
         "effect": "emissive",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-02-24"
     },
     "gildedWatcher": {
         "id": "gildedWatcher",
         "type": "trophy",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "prowlerRevealed": {
         "id": "prowlerRevealed",
         "type": "firework",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "twilightStalkers": {
         "id": "twilightStalkers",
         "type": "crowsNest",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "vaneOfTheVoid": {
         "id": "vaneOfTheVoid",
         "type": "helmDecor",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "umbralWheel": {
         "id": "umbralWheel",
         "type": "wheel",
         "set": "ebonVessel",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-02"
+        "lastUpdated": "2026-02-24"
     },
     "pawnToNone": {
         "id": "pawnToNone",
@@ -11937,9 +11937,9 @@
         "id": "shuffling",
         "type": "emote",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-09",
-        "lastUpdated": "2024-06-09"
+        "lastUpdated": "2026-02-24"
     },
     "lePouf": {
         "id": "lePouf",
