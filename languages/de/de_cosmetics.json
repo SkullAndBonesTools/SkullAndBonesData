@@ -20185,39 +20185,39 @@
             }
         },
         "turnersTricorn": {
-            "name": "Turner's Tricorn",
+            "name": "Turners Dreispitz",
             "description": {
-                "general": "There's a reason they call him \"Two-Face\""
+                "general": "Es gibt einen Grund, warum man ihn \"Doppelzunge\" nennt."
             }
         },
         "washedOvercoat": {
-            "name": "Washed Overcoat",
+            "name": "Verwaschener Mantel",
             "description": {
-                "general": "These colors do not mark you for any faction"
+                "general": "Diese Farben zeigen nicht, zu welcher Fraktion du gehörst."
             }
         },
         "megacorpLeggings": {
-            "name": "Megacorp Leggings",
+            "name": "Kompanie-Beinkleid",
             "description": {
-                "general": "An old life of rules and regulations"
+                "general": "Ein altes Leben voller Regeln und Vorschriften."
             }
         },
         "colorsOfTheWind": {
-            "name": "Colors of the Wind",
+            "name": "Die Farben des Windes",
             "description": {
-                "general": "Dyed on the fly, per your allegiance"
+                "general": "Färbt sich spontan, je nach deiner Loyalität."
             }
         },
         "turnersBand": {
-            "name": "Turner's Band",
+            "name": "Turners Riemen",
             "description": {
-                "general": "Voila! Perfect for entertaining customers."
+                "general": "Voilà! Perfekt, um Kunden zu unterhalten."
             }
         },
         "buckledShoesCR": {
-            "name": "Buckled Shoes",
+            "name": "Schnallenschuhe",
             "description": {
-                "general": "Too bad you have to sully yourself for silver"
+                "general": "Schade, dass du dich für Silber beschmutzen musst."
             }
         },
         "flameScourge": {
@@ -20227,45 +20227,45 @@
             }
         },
         "motherOfTeeth": {
-            "name": "Mother of Teeth",
+            "name": "Mutter des Zahns",
             "description": {
-                "general": "Worn by those who've faced the abyss and lived"
+                "general": "Getragen von denen, die dem Abgrund ins Auge gesehen und überlebt haben."
             }
         },
         "fangscript": {
-            "name": "Fangscript",
+            "name": "Reißzahnschrift",
             "description": {
-                "general": "Read only by the marked"
+                "general": "Nur von Gezeichneten zu lesen."
             }
         },
         "voidcaller": {
-            "name": "Voidcaller",
+            "name": "Abgrundrufer",
             "description": {
-                "general": "Torn by storms, blessed by silence"
+                "general": "Von Stürmen zerrissen, von Stille gesegnet."
             }
         },
         "krakensReach": {
-            "name": "Kraken's Reach",
+            "name": "Griff des Kraken",
             "description": {
-                "general": "Beyond fear, into the realm of monsters"
+                "general": "Jenseits der Furcht, ins Reich der Monster."
             }
         },
         "fangcoil": {
-            "name": "Fangcoil",
+            "name": "Reißzahnspule",
             "description": {
-                "general": "It uncoils from the deep, shaped for the kill"
+                "general": "Es dringt aus der Tiefe hervor, bereit zu töten."
             }
         },
         "depthdweller": {
-            "name": "Depthdweller",
+            "name": "Bewohner der Untiefen",
             "description": {
-                "general": "Cloaked in shadow, hardened by the hunt"
+                "general": "Von Schatten umhüllt, durch die Jagd gestählt."
             }
         },
         "divineSlayer": {
-            "name": "Divine Slayer",
+            "name": "Göttlicher Töter",
             "description": {
-                "general": "A name whispered by beasts and men"
+                "general": "Ein Name, geflüstert von Bestien und Menschen zugleich."
             }
         },
         "hidePiercer": {
@@ -20275,27 +20275,27 @@
             }
         },
         "velvetViper": {
-            "name": "Velvet Viper",
+            "name": "Samtene Viper",
             "description": {
-                "general": "The softest touch hides the sharpest fangs"
+                "general": "Die sanfteste Berührung verbirgt die schärfsten Reißzähne."
             }
         },
         "coiledDeceit": {
-            "name": "Coiled Deceit",
+            "name": "Die gewundene Täuschung",
             "description": {
-                "general": "Silk threads twist. A serpent waits. The kiss is fatal."
+                "general": "Seidenfäden verflechten sich. Eine Schlange wartet. Der Kuss ist tödlich."
             }
         },
         "perfumedDeath": {
-            "name": "Perfumed Death",
+            "name": "Parfümierter Tod",
             "description": {
-                "general": "Deep emerald. Traces of incense. Whispers to the fold."
+                "general": "Tiefes Smaragdgrün. Ein Hauch von Weihrauch. Flüstert der Herde zu."
             }
         },
         "gildedVenom": {
-            "name": "Gilded Venom",
+            "name": "Vergoldetes Gift",
             "description": {
-                "general": "Midnight lacquer. A sheen like oil. Death wears a noble face."
+                "general": "Mitternachtslack. Er schimmert wie Öl. Der Tod hat ein edles Gesicht."
             }
         },
         "forsakenOne": {
@@ -20341,15 +20341,15 @@
             }
         },
         "guttedGlitter": {
-            "name": "Gutted Glitter",
+            "name": "Ausweidender Glitzer",
             "description": {
-                "general": "A painful (but sparkly) warning"
+                "general": "Eine schmerzhafte (aber glitzernde) Warnung."
             }
         },
         "ghostly": {
-            "name": "Ghostly",
+            "name": "Geistchen",
             "description": {
-                "general": "One eye, one paw and nice cursed lives"
+                "general": "Ein Auge, eine Pfote und neun verfluchte Leben."
             }
         },
         "wickedGreen": {
@@ -20437,141 +20437,141 @@
             }
         },
         "lordOftheWake": {
-            "name": "Lord of the Wake",
+            "name": "Fürst der Welle",
             "description": {
-                "general": "A gorgeous cloak that blinds whoever dares to look"
+                "general": "Ein wunderschöner Umhang, der jeden blendet, der es wagt, hinzusehen."
             }
         },
         "huntHeeled": {
-            "name": "Hunt-Heeled",
+            "name": "Jagdabsätze",
             "description": {
-                "general": "The hunt never ends, just changes tides"
+                "general": "Die Jagd hört nie auf, nur die Gezeiten ändern sich."
             }
         },
         "sandyBottoms": {
-            "name": "Sandy Bottoms",
+            "name": "Sandige Hose",
             "description": {
-                "general": "\"Dust them off, will ya?\""
+                "general": "\"Klopft sie mal ab, ja?\""
             }
         },
         "heartOfTheBeast": {
-            "name": "Heart of the Beast",
+            "name": "Herz der Bestie",
             "description": {
-                "general": "You too can be the Kraken's emotional support human"
+                "general": "Auch du kannst der Assistenzmensch des Kraken sein."
             }
         },
         "aBehemothsDream": {
-            "name": "A Behemoth's Dream",
+            "name": "Traum eines Kolosses",
             "description": {
-                "general": "Swallowed by the depths and spat back out"
+                "general": "Von den Tiefen verschluckt und wieder ausgespuckt."
             }
         },
         "krakensKiss": {
-            "name": "Kraken's Kiss",
+            "name": "Kuss des Kraken",
             "description": {
-                "general": "For those who enjoy getting the life sucked out of them"
+                "general": "Für alle, die es mögen, wenn ihnen das Leben ausgesaugt wird."
             }
         },
         "squidGrip": {
-            "name": "Squid Grip",
+            "name": "Tintenfischgriff",
             "description": {
-                "general": "Fashioned from pure Kraken hide"
+                "general": "Hergestellt aus reiner Krakenhaut."
             }
         },
         "tentacleTrinkets": {
-            "name": "Tentacle Trinkets",
+            "name": "Tentakel-Schmuckstücke",
             "description": {
-                "general": "Magic charms to lure the ol' beastie from the deep"
+                "general": "Magische Amulette, um das alte Ungeheuer aus der Tiefe zu locken."
             }
         },
         "inkGaze": {
-            "name": "Ink Gaze",
+            "name": "Tintenblick",
             "description": {
-                "general": "\"I've seen the monster, I swear!\""
+                "general": "\"Ich hab das Monster gesehen, ich schwöre es!\""
             }
         },
         "leftToDie": {
-            "name": "Left to Die",
+            "name": "Zum Sterben zurückgelassen",
             "description": {
-                "general": "Fashioned from the back-skin of betrayers"
+                "general": "Gefertigt aus der Rückenhaut von Verrätern."
             }
         },
         "wrathwrap": {
-            "name": "Wrathwrap",
+            "name": "Zornumhang",
             "description": {
-                "general": "May your anger never go unfelt"
+                "general": "Möge deine Wut niemals ungespürt bleiben."
             }
         },
         "spectreOfVengeance": {
-            "name": "Spectre of Vengeance",
+            "name": "Gespenst der Rache",
             "description": {
-                "general": "\"You can run, you can hide, but you can't escape my style.\""
+                "general": "\"Du kannst rennen und dich verstecken, aber du kannst meinem Stil nicht entkommen.\""
             }
         },
         "seaRotten": {
-            "name": "Sea Rotten",
+            "name": "Verdorben auf See",
             "description": {
-                "general": "Better dead than sailing with cowards"
+                "general": "Lieber tot als mit Feiglingen zu segeln."
             }
         },
         "redTide": {
-            "name": "Red Tide",
+            "name": "Rote Flut",
             "description": {
-                "general": "They took your ship but left you with a mean neck scarf"
+                "general": "Die haben dir dein Schiff genommen, aber ein schickes Halstuch dagelassen."
             }
         },
         "sadPants": {
-            "name": "Sad Pants",
+            "name": "Traurige Hose",
             "description": {
-                "general": "Made from a flour sack and ship rope. Perfect to wallow in."
+                "general": "Aus einem Mehlsack und Schiffstau gemacht. Perfekt, um sich darin jämmerlich zu fühlen."
             }
         },
         "rippedSoles": {
-            "name": "Ripped Soles",
+            "name": "Zerrissene Sohlen",
             "description": {
-                "general": "The good thing is -- spite keeps you standing"
+                "general": "Das Gute daran - Verachtung hält dich aufrecht."
             }
         },
         "frayedAndForsworn": {
-            "name": "Frayed and Forsworn",
+            "name": "Ausgefranst und abgeschworen",
             "description": {
-                "general": "A deep neckline so you can get stabbed in the heart"
+                "general": "Ein tiefer Ausschnitt, damit man dir ins Herz stechen kann."
             }
         },
         "betrayalsGleam": {
-            "name": "Betrayal's Gleam",
+            "name": "Glanz des Verrats",
             "description": {
-                "general": "Hard to hang what won't stay dead"
+                "general": "Schwer, etwas zu hängen, das nicht tot bleibt."
             }
         },
         "theShadeless": {
-            "name": "The Shadeless",
+            "name": "Schattenlos",
             "description": {
-                "general": "A coronation in all but name"
+                "general": "Eine Krönung in jeder Hinsicht, nur ohne den Namen."
             }
         },
         "gunpowderGarnet": {
-            "name": "Gunpowder Garnet",
+            "name": "Schießpulver-Granat",
             "description": {
-                "general": "Smooth as ambition and stolen tribute"
+                "general": "So glatt wie Ehrgeiz und gestohlene Huldigung."
             }
         },
         "regentsResolve": {
-            "name": "Regent's Resolve",
+            "name": "Entschlossenheit des Regenten",
             "description": {
-                "general": "Swirls for those who rule without crowns"
+                "general": "Schnörkel für die, die ohne Krone regieren."
             }
         },
         "lostHeir": {
-            "name": "Lost Heir",
+            "name": "Verlorener Erbe",
             "description": {
-                "general": "Laurels won, swords crossed"
+                "general": "Hart erkämpfte Lorbeeren, gekreuzte Schwerter."
             }
         },
         "milesTheMenace": {
-            "name": "Miles the Menace",
+            "name": "Der gefährliche Miles",
             "description": {
-                "general": "\"Yarrr! He always be stealing me nuts!\""
+                "general": "\"Yarrr! Er klaut mir immer meine Nüsse!\""
             }
         },
         "crownOfBlades": {
@@ -20641,33 +20641,33 @@
             }
         },
         "reefMud": {
-            "name": "Reef Mud",
+            "name": "Schlammfarben",
             "description": {
-                "general": "A touch of ink and seaweed forest"
+                "general": "Ein Hauch Tinte und Algengewächs."
             }
         },
         "kelpAndWood": {
-            "name": "Kelp and Wood",
+            "name": "Seetang und Holz",
             "description": {
-                "general": "May the souls of ancient beasts carry you far"
+                "general": "Mögen die Seelen der alten Tiere Euch weit tragen."
             }
         },
         "predatorsFury": {
-            "name": "Predator's Fury",
+            "name": "Wut des Raubtiers",
             "description": {
-                "general": "\"Hark! Something stirs beneath the waves!\""
+                "general": "\"Hört! Da bewegt sich was unter den Wellen!\""
             }
         },
         "slithermark": {
-            "name": "Slithermark",
+            "name": "Tentakelzeichen",
             "description": {
-                "general": "A ghastly imprint, a herald of terror"
+                "general": "Ein schrecklicher Abdruck, ein Vorbote des Grauens."
             }
         },
         "whatDwellsBeneath": {
-            "name": "What Dwells Beneath",
+            "name": "Was im Untergrund lauert",
             "description": {
-                "general": "Etchings to accompany you to the deep"
+                "general": "Zeichen, die euch in die Tiefe begleiten."
             }
         },
         "anAncientsCall": {
@@ -20677,15 +20677,15 @@
             }
         },
         "sacredHunter": {
-            "name": "Sacred Hunter",
+            "name": "Heiliger Jäger",
             "description": {
-                "general": "A hard-won title, respected by all"
+                "general": "Ein hart erkämpfter Titel, der von allen hochgeschätzt wird."
             }
         },
         "crackleclaw": {
-            "name": "Crackleclaw",
+            "name": "Knirschende Klaue",
             "description": {
-                "general": "Your First Mate thinks they're gnarly"
+                "general": "Euer erster Offizier sagt: \"Knorrig.\""
             }
         },
         "tentacledTidings": {
@@ -20713,333 +20713,333 @@
             }
         },
         "opulentFanfare": {
-            "name": "Opulent Fanfare",
+            "name": "Prunkvolle Fanfare",
             "description": {
-                "general": "Somestimes, you have to toot your own horn"
+                "general": "Manchmal muss man die eigene Trommel rühren."
             }
         },
         "bleachedBone": {
-            "name": "Bleached Bone",
+            "name": "Gebleichte Knochen",
             "description": {
-                "general": "Salt-eaten. Pale as corpses in the deep."
+                "general": "Vom Salz zerfressen. Blass wie Leichen der Tiefe."
             }
         },
         "leviathansLure": {
-            "name": "Leviathan's Lure",
+            "name": "Verlockung des Leviathan",
             "description": {
-                "general": "Primordial. The ocean's lungs. Every breath carries dread."
+                "general": "Uranfänglich. Die Lunge des Ozeans. Jeder Atemzug bringt Grauen"
             }
         },
         "anchorfang": {
-            "name": "Anchorfang",
+            "name": "Ankerreißzahn",
             "description": {
-                "general": "Iron and tooth entwined. A symbol of dominion, or doom."
+                "general": "Eisen und Zahn zusammen verbunden. Ein Symbol der Herrschaft oder des Untergangs."
             }
         },
         "mawscript": {
-            "name": "Mawscript",
+            "name": "Schlundschrift",
             "description": {
-                "general": "Jagged lines. A warning etched. Few live to read it."
+                "general": "Zerfurchte Linien. Eine eingravierte Warnung. Nur wenige überleben, um sie zu lesen."
             }
         },
         "barnaclesAndChains": {
-            "name": "Barnacles and Chains",
+            "name": "Rankenfüßer und Ketten",
             "description": {
-                "general": "Something to tip you off the edge"
+                "general": "Etwas, das Euch um den Verstand bringt."
             }
         },
         "lastRestraint": {
-            "name": "Last Restraint",
+            "name": "Letzte Fesseln",
             "description": {
-                "general": "Held down for eternity"
+                "general": "Angekettet für die Ewigkeit."
             }
         },
         "boundCurses": {
-            "name": "Bound Curses",
+            "name": "Gebundene Flüche",
             "description": {
-                "general": "\"Who says you can't glow while drowning?\""
+                "general": "\"Wer behauptet, dass man nicht glänzen kann, während man ertrinkt?\""
             }
         },
         "oneLastBreath": {
-            "name": "One Last Breath",
+            "name": "Ein letzter Atemzug",
             "description": {
-                "general": "Waterproof, even at the bottom of the ocean"
+                "general": "Wasserfest, selbst am Grunde des Meeres."
             }
         },
         "moistSails": {
-            "name": "Moist Sails",
+            "name": "Feuchte Segel",
             "description": {
-                "general": "Dyed in rotten seaweed"
+                "general": "Gefärbt mit verfaulten Algen."
             }
         },
         "shipShackled": {
-            "name": "Ship Shackled",
+            "name": "Schiffsgefesselt",
             "description": {
-                "general": "A chorus of chains"
+                "general": "Ein Chor der Ketten."
             }
         },
         "cryOfTheDeep": {
-            "name": "Cry of the Deep",
+            "name": "Schrei der Tiefe",
             "description": {
-                "general": "For those who deserve the depths"
+                "general": "Für alle, die die Tiefe verdienen."
             }
         },
         "sunkenFiend": {
-            "name": "Sunken Fiend",
+            "name": "Versunkener Feind",
             "description": {
-                "general": "Truly, a fate well deserved"
+                "general": "Tatsächlich ein wohlverdientes Schicksal."
             }
         },
         "coralAndBone": {
-            "name": "Coral and Bone",
+            "name": "Korallen und Knochen",
             "description": {
-                "general": "Pretty things to go down with"
+                "general": "Schöne Dinge zum Sterben."
             }
         },
         "griefmaiden": {
-            "name": "Griefmaiden",
+            "name": "Kummermädchen",
             "description": {
-                "general": "Please don't ask her to smile"
+                "general": "Bittet sie nicht zu lächeln."
             }
         },
         "gildlocked": {
-            "name": "Gildlocked",
+            "name": "Vergoldet und verschlüsselt",
             "description": {
-                "general": "A mournful tome of romantic poetry"
+                "general": "Ein melancholisches Werk romantischer Poesie."
             }
         },
         "gloomwake": {
-            "name": "Gloomwake",
+            "name": "Finsterwache",
             "description": {
-                "general": "A cursed share, just for you"
+                "general": "Ein verfluchter Schatten, nur für Euch."
             }
         },
         "velvetVeil": {
-            "name": "Velvet Veil",
+            "name": "Samtiger Schleier",
             "description": {
-                "general": "\"May you face nothing but loss and misery!\""
+                "general": "\"Möget Ihr nur Verluste und Unglück erleben!\""
             }
         },
         "lovelost": {
-            "name": "Lovelost",
+            "name": "Liebeskummer",
             "description": {
-                "general": "Embroidered with wrath"
+                "general": "Gestickt mit Zorn."
             }
         },
         "truthkeeper": {
-            "name": "Truthkeeper",
+            "name": "Hüter der Wahrheit",
             "description": {
-                "general": "For the double-crosser you truly are"
+                "general": "Für den Verräter, der Ihr tatsächlich seid."
             }
         },
         "eyesOfFury": {
-            "name": "Eyes of Fury",
+            "name": "Augen der Wut",
             "description": {
-                "general": "\"Look kindly upon her.\""
+                "general": "\"Seid freundlich zu ihr.\""
             }
         },
         "deadwakeWheel": {
-            "name": "Deadwake",
+            "name": "Todeswache",
             "description": {
-                "general": "Helmed by the dead, dredged by the hollowed"
+                "general": "Von den Toten gesteuert, von den Ausgehöhlten ausgegraben."
             }
         },
         "jaeger": {
             "name": "Jaeger",
             "description": {
-                "general": "The name whispered before the strike"
+                "general": "Der Name erklingt genau vor dem Schlag."
             }
         },
         "hookmaw": {
-            "name": "Hookmaw",
+            "name": "Hakenschlund",
             "description": {
-                "general": "Grips the prow with steel and spite"
+                "general": "Ergreift den Bug mit Stahl und Boshaftigkeit."
             }
         },
         "boundlessTrail": {
-            "name": "Boundless Trail",
+            "name": "Grenzenloser Pfad",
             "description": {
-                "general": "Burnished steel, from the boundless chase"
+                "general": "Polierter Stahl aus der grenzenlosen Jagd."
             }
         },
         "stalkweave": {
-            "name": "Stalkweave",
+            "name": "Pirschgeflecht",
             "description": {
-                "general": "Crimson cloth, marked by golden prey"
+                "general": "Blutrotes Tuch, markiert von der goldenen Beute."
             }
         },
         "spikemark": {
-            "name": "Spikemark",
+            "name": "Stachelmarke",
             "description": {
-                "general": "Hunt without mercy"
+                "general": "Jage ohne Gnade."
             }
         },
         "jaegersPursuit": {
-            "name": "Jaeger's Pursuit",
+            "name": "Jagdverfolgung",
             "description": {
-                "general": "Draped in spoils, bound by the thrill of the hunt"
+                "general": "Mit Beute geschmückt, gefesselt von der Lust am Jagen."
             }
         },
         "trenchbound": {
-            "name": "Trenchbound",
+            "name": "Tiefseegraben",
             "description": {
-                "general": "A thrilling descent to the sea's darkest depths"
+                "general": "Ein aufregender Abstieg in die dunkelsten Tiefen des Meeres."
             }
         },
         "wailingWaders": {
-            "name": "Wailing Waders",
+            "name": "Klagende Watstiefel",
             "description": {
-                "general": "The weight of the deep clings to your heels"
+                "general": "Das Gewicht der Tiefe haftet dir an den Fersen."
             }
         },
         "waterlogged": {
-            "name": "Waterlogged",
+            "name": "Wasserdurchtränkt",
             "description": {
-                "general": "Always remember where you last sank"
+                "general": "Merk dir stets, wo du zuletzt gesunken bist."
             }
         },
         "tricorneOfRuin": {
-            "name": "Tricorne of Ruin",
+            "name": "Dreispitz des Ruins",
             "description": {
-                "general": "Never breaches the chaos above"
+                "general": "Durchbricht niemals das Chaos oben."
             }
         },
         "seaweedsClasp": {
-            "name": "Seaweed's Clasp",
+            "name": "Algenschnalle",
             "description": {
-                "general": "Woven from study deep-sea plants"
+                "general": "Gewebt aus robustem Tiefseepflanzen."
             }
         },
         "tidebinders": {
-            "name": "Tidebinders",
+            "name": "Gezeitenbinder",
             "description": {
-                "general": "Drag your foes into the abyss"
+                "general": "Zieh deine Feinde in den Abgrund."
             }
         },
         "watchersGaze": {
-            "name": "Watcher's Gaze",
+            "name": "Blick des Beobachters",
             "description": {
-                "general": "The abyss takes your sight, but gives you its gaze"
+                "general": "Der Abgrund nimmt dir die Sicht, gibt dir aber seinen Blick."
             }
         },
         "theDrownedCreed": {
-            "name": "The Drowned Creed",
+            "name": "Das versunkene Credo",
             "description": {
-                "general": "The sea sings its own scripture"
+                "general": "Das Meer singt seine eigene Schrift."
             }
         },
         "huntersBindings": {
-            "name": "Hunter's Bindings",
+            "name": "Jägerwickel",
             "description": {
-                "general": "Ready to take down man or beast"
+                "general": "Bereit, Mensch oder Tier zu erlegen."
             }
         },
         "bonebreakersVow": {
-            "name": "Bonebreaker's Vow",
+            "name": "Schwur des Knochenbrechers",
             "description": {
-                "general": "Worn tight, so nothing slips. Neither prey, nor nerve."
+                "general": "Eng anliegend, damit nichts verloren geht. Weder Beute noch Nerven."
             }
         },
         "theBlindHunt": {
-            "name": "The Blind Hunt",
+            "name": "Die blinde Jagd",
             "description": {
-                "general": "You don't need both eyes to see fear"
+                "general": "Du brauchst nicht beide Augen, um Angst zu sehen."
             }
         },
         "skinnersTricorne": {
-            "name": "Skinner's Tricorne",
+            "name": "Dreispitz des Häuters",
             "description": {
-                "general": "Keeps the sun out and the stench in"
+                "general": "Hält die Sonne fern und den Gestank zurück."
             }
         },
         "fangOfDominion": {
-            "name": "Fang of Dominion",
+            "name": "Fangzahn der Herrschaft",
             "description": {
-                "general": "\"The sea made me a pirate. The wilds made their master.\""
+                "general": "\"Das Meer hat mich zum Piraten gemacht. Die Wildnis zu ihrem Meister.\""
             }
         },
         "trophyStriders": {
-            "name": "Trophy Striders",
+            "name": "Trophäenschreiter",
             "description": {
-                "general": "Hide tough enough to outlast the hunt"
+                "general": "Haut, die robust genug ist, um die Jagd zu überstehen."
             }
         },
         "trackmarked": {
-            "name": "Trackmarked",
+            "name": "Spurzeichnung",
             "description": {
-                "general": "For silent steps across the trail"
+                "general": "Für leise Schritte auf dem Weg."
             }
         },
         "warlordsHide": {
-            "name": "Warlord's Hide",
+            "name": "Haut des Kriegsherrn",
             "description": {
-                "general": "Layered in fur and leather -- warmth, armor, and warning alike"
+                "general": "Mit Fell und Leder überzogen - Wärme, Schutz und Warnung zugleich."
             }
         },
         "savageScript": {
-            "name": "Savage Script",
+            "name": "Wilde Schrift",
             "description": {
-                "general": "Each mark in remembrance of your kills"
+                "general": "Jede Markierung erinnert an deine Tötungen."
             }
         },
         "keeperOfCoin": {
-            "name": "Keeper of Coin",
+            "name": "Hüter der Münze",
             "description": {
-                "general": "Gold can either buy loyalty, or bury it"
+                "general": "Gold kann Loyalität kaufen oder begraben."
             }
         },
         "fortunesHold": {
-            "name": "Fortune's Hold",
+            "name": "Glücksgriff",
             "description": {
-                "general": "Valor and riches are but a grasp away"
+                "general": "Tapferkeit und Reichtum sind nur eine Handbreit entfernt."
             }
         },
         "masterOfShadows": {
-            "name": "Master of Shadows",
+            "name": "Meister der Schatten",
             "description": {
-                "general": "Soft whispers of a cursed past"
+                "general": "Leises Flüstern einer verfluchten Vergangenheit"
             }
         },
         "boldBrass": {
-            "name": "Bold Brass",
+            "name": "Kühnes Messing",
             "description": {
-                "general": "Twirl fate and foe around your finger"
+                "general": "Wickle das Schicksal und deine Gegner um den Finger."
             }
         },
         "moonlitTricorne": {
-            "name": "Moonlit Tricorne",
+            "name": "Mondbeschienener Dreispitz",
             "description": {
-                "general": "Memories of moonlight kills and ark water"
+                "general": "Erinnerungen an Morde im Mondlicht und dunkles Wasser."
             }
         },
         "silkTouch": {
-            "name": "Silk Touch",
+            "name": "Seidene Berührung",
             "description": {
-                "general": "Even a rogue enjoys sophistication"
+                "general": "Selbst ein Abtrünniger mag Kultiviertheit."
             }
         },
         "quiltedStrides": {
-            "name": "Quilted Strides",
+            "name": "Gesteppte Schritte",
             "description": {
-                "general": "A unique mix of quilted leather and gold filigree"
+                "general": "Eine einzigartige Mischung aus gestepptem Leder und Goldfiligran."
             }
         },
         "gallantborn": {
-            "name": "Gallantborn",
+            "name": "Galant geboren",
             "description": {
-                "general": "For fine steps across ballrooms and ship decks"
+                "general": "Für elegante Schritte in Festsälen und auf Schiffsdecks."
             }
         },
         "theBaronOfBaroque": {
-            "name": "The Baron of Baroque",
+            "name": "Der Baron des Barock",
             "description": {
-                "general": "A truly opulent piece of clothing"
+                "general": "Ein wahrhaft opulentes Kleidungsstück."
             }
         },
         "ahoy": {
-            "name": "Ahoy!",
+            "name": "Ahoi!",
             "description": {
-                "general": "\"Nice ta meet ya, Cully!\""
+                "general": "\"Schön, dich zu sehen, Sprotte!\""
             }
         },
         "theChasmsCall": {
@@ -21055,7 +21055,7 @@
             }
         },
         "deathsHandEmblem": {
-            "name": "Death's Hand",
+            "name": "Todeshand",
             "description": {
                 "general": "Ein gefährliches Omen in den Wellen."
             }
@@ -21067,33 +21067,33 @@
             }
         },
         "hardfoot": {
-            "name": "Hardfoot",
+            "name": "Hartfuß",
             "description": {
-                "general": "Solid under pressure, just like its owner"
+                "general": "Solide unter Druck, genau wie sein Besitzer."
             }
         },
         "hauteMagnifique": {
             "name": "Haute Magnifique",
             "description": {
-                "general": "\"Ooh, fancy symbol, that!\""
+                "general": "\"Ooh, schönes Symbol, ja!\""
             }
         },
         "cobaltCorsair": {
-            "name": "Cobalt Corsair",
+            "name": "Kobalt-Korsar",
             "description": {
-                "general": "For sails that catch wind and glory"
+                "general": "Für Segel, die Wind und Ruhm einfangen."
             }
         },
         "crownmetal": {
-            "name": "Crownmetal",
+            "name": "Kronmetall",
             "description": {
-                "general": "Tempered and burnished for war"
+                "general": "Für den Krieg gestählt und poliert."
             }
         },
         "nobleflame": {
-            "name": "Nobleflame",
+            "name": "Edle Flamme",
             "description": {
-                "general": "Gilded in royal filigree"
+                "general": "Mit königlicher Filigranarbeit verziert."
             }
         },
         "lionsRoar": {
@@ -21151,57 +21151,57 @@
             }
         },
         "streetCinch": {
-            "name": "Street Cinch",
+            "name": "Straßengürtel",
             "description": {
-                "general": "\"You hold your gun here, your coin here, and your nerve here.\""
+                "general": "\"Hier steckst du deine Waffe hin, hier dein Geld und hier deine Nerven.\""
             }
         },
         "docksideDeals": {
-            "name": "Dockside Deals",
+            "name": "Händel am Dock",
             "description": {
-                "general": "\"He thought I'd shake on it. I did -- after I took his finger.\""
+                "general": "\"Er dachte, ich würde ihm die Hand schütteln. Das tat ich auch - nachdem ich ihm den Finger abnahm.\""
             }
         },
         "dingleDangles": {
-            "name": "Dingle Dangles",
+            "name": "Schneeglöckchen",
             "description": {
-                "general": "Repurposed brass rolled in gold dust"
+                "general": "Umfunktioniertes Messing, in Goldstaub gerollt."
             }
         },
         "cutpursesLuck": {
-            "name": "Cutpurse's Luck",
+            "name": "Glück des Taschendiebs",
             "description": {
-                "general": "\"Pure gold, warm from another's pocket.\""
+                "general": "\"Reines Gold, warm aus der Tasche eines anderen.\""
             }
         },
         "theOldGuard": {
-            "name": "The Old Guard",
+            "name": "Die alte Garde",
             "description": {
-                "general": "\"Every scar under this brim's got a story.\""
+                "general": "\"Jede Narbe unter dieser Krempe hat eine Geschichte.\""
             }
         },
         "strungPromises": {
-            "name": "Strung Promises",
+            "name": "Aufgereihte Versprechen",
             "description": {
-                "general": "\"He swore he'd find me agin. I swore I wouldn't wait that long.\""
+                "general": "\"Er schwor, mich wiederzufinden. Ich schwor, nicht so lange zu warten.\""
             }
         },
         "bilgeRatsCut": {
-            "name": "Bilge Rat's Cut",
+            "name": "Anteil der Bilgenratte",
             "description": {
-                "general": "\"They laughed at the patchwork. Then, I took their throats.\""
+                "general": "\"Sie lachten über das Flickwerk. Da durchtrennte ich ihnen die Kehle.\""
             }
         },
         "dockrunners": {
-            "name": "Dockrunners",
+            "name": "Dockläufer",
             "description": {
-                "general": "\"Swift enough to chase a purse. Silent enough to make a kill.\""
+                "general": "\"Schnell genug, um eine Geldbörse zu jagen. Leise genug, um zu töten.\""
             }
         },
         "scrappySuede": {
-            "name": "Scrappy Suede",
+            "name": "Bruchstückhaftes Wildleder",
             "description": {
-                "general": "Messy but magnificent"
+                "general": "Schlampig, aber prächtig."
             }
         },
         "netherworld": {
