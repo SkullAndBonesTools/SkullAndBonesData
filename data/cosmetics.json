@@ -11896,9 +11896,9 @@
         "type": "faceAccessory",
         "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-09",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2026-02-24"
     },
     "fourCorners": {
         "id": "fourCorners",
@@ -12119,36 +12119,36 @@
         "type": "waist",
         "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2026-02-24"
     },
     "nightsongPants": {
         "id": "nightsongPants",
         "type": "bottom",
         "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2026-02-24"
     },
     "highSnapBoots": {
         "id": "highSnapBoots",
         "type": "footwear",
         "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2026-02-24"
     },
     "ceremonialLongcoat": {
         "id": "ceremonialLongcoat",
         "type": "torso",
         "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-06-12",
-        "lastUpdated": "2024-06-12"
+        "lastUpdated": "2026-02-24"
     },
     "knottedJute": {
         "id": "knottedJute",
@@ -14097,18 +14097,20 @@
     "brassBracers": {
         "id": "brassBracers",
         "type": "forearm",
+        "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-08-01",
-        "lastUpdated": "2024-08-01"
+        "lastUpdated": "2026-02-24"
     },
     "bloodstoneRing": {
         "id": "bloodstoneRing",
         "type": "hand",
+        "set": "ebonPirate",
         "season": "chorusOfHavoc",
-        "obtainable": "premiumPass",
+        "obtainable": ["premiumPass", "ubisoftStore"],
         "dateAdded": "2024-08-01",
-        "lastUpdated": "2024-08-01"
+        "lastUpdated": "2026-02-24"
     },
     "eternalSpring": {
         "id": "eternalSpring",
