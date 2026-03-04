@@ -30784,9 +30784,10 @@
         "id": "soulReaper",
         "type": "figureHead",
         "set": "silverSpectre",
+        "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-17",
-        "lastUpdated": "2026-02-17"
+        "lastUpdated": "2026-03-04"
     },
     "hellfiresShine": {
         "id": "hellfiresShine",
