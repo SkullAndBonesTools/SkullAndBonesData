@@ -823,9 +823,10 @@
             "furniture": [5,1],
             "ultimate": [1,1]
         },
+        "obtainable": "foundingCelebratoryChest",
         "perks": ["grit","colossal","abundantGunports"],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-09"
     },
     "sloopOfWar": {
         "id": "sloopOfWar",
