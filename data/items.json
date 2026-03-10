@@ -15894,13 +15894,13 @@
         "rateOfFire": 0,
         "reloadSpeed": 3500,
         "optimalRange": 400,
-        "projectileSpeed": 210,
+        "projectileSpeed": 400,
         "perks": [
             "causticAmmo",
             "toxic3"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-10"
     },
     "stormtongue": {
         "id": "stormtongue",
