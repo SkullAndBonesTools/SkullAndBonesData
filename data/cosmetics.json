@@ -533,9 +533,9 @@
     "jyn": {
         "id": "jyn",
         "type": "pet",
-        "obtainable": "twitchAllAboardCommunityEventWinningFleet",
+        "obtainable": [["twitchDrop","twitchAllAboardCommunityEventWinningFleet"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-16"
+        "lastUpdated": "2026-03-12"
     },
     "sheldon": {
         "id": "sheldon",
@@ -25796,33 +25796,33 @@
         "id": "rattleTheBars",
         "type": "sailsPattern",
         "set": "cagedFury",
-        "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+        "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-03-12"
     },
     "ironTang": {
         "id": "ironTang",
         "type": "sailsColor",
         "set": "cagedFury",
-        "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+        "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-03-12"
     },
     "stingingSun": {
         "id": "stingingSun",
         "type": "hull",
         "set": "cagedFury",
-        "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+        "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-03-12"
     },
     "freeRein": {
         "id": "freeRein",
         "type": "sailsEmblem",
         "set": "cagedFury",
-        "obtainable": ["twitchDrop","twitchDropDarktidesLullabyRelease"],
+        "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-03-12"
     },
     "soulSpurned": {
         "id": "soulSpurned",
@@ -28923,33 +28923,33 @@
         "type": "sailsColor",
         "effect": "emissive",
         "set": "burningWhispers",
-        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
         "dateAdded": "2025-12-10",
-        "lastUpdated": "2025-12-10"
+        "lastUpdated": "2026-03-12"
     },
     "embersInTheNight": {
         "id": "embersInTheNight",
         "type": "hull",
         "set": "burningWhispers",
-        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
         "dateAdded": "2025-12-10",
-        "lastUpdated": "2025-12-10"
+        "lastUpdated": "2026-03-12"
     },
     "bloodDemands": {
         "id": "bloodDemands",
         "type": "sailsPattern",
         "set": "burningWhispers",
-        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
         "dateAdded": "2025-12-10",
-        "lastUpdated": "2025-12-10"
+        "lastUpdated": "2026-03-12"
     },
     "dreadStirs": {
         "id": "dreadStirs",
         "type": "sailsEmblem",
         "set": "burningWhispers",
-        "obtainable": "twitchDropAzureSolsticeY2S3",
+        "obtainable": [["twitchDrop","twitchDropAzureSolsticeY2S3"]],
         "dateAdded": "2025-12-10",
-        "lastUpdated": "2025-12-10"
+        "lastUpdated": "2026-03-12"
     },
     "ferociousGuardian": {
         "id": "ferociousGuardian",
@@ -30633,18 +30633,18 @@
         "type": "hull",
         "set": "friendlyFoes",
         "season": "eyeOfTheBeast",
-        "obtainable": "twitchDropStartYear2Season4",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-12"
     },
     "twoFacedGrin": {
         "id": "twoFacedGrin",
         "type": "sailsEmblem",
         "set": "friendlyFoes",
         "season": "eyeOfTheBeast",
-        "obtainable": "twitchDropStartYear2Season4",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-12"
     },
     "crimsonCreed": {
         "id": "crimsonCreed",
@@ -30652,18 +30652,18 @@
         "effect": "emissive",
         "set": "friendlyFoes",
         "season": "eyeOfTheBeast",
-        "obtainable": "twitchDropStartYear2Season4",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-12"
     },
     "intricateSchemes": {
         "id": "intricateSchemes",
         "type": "sailsPattern",
         "set": "friendlyFoes",
         "season": "eyeOfTheBeast",
-        "obtainable": "twitchDropStartYear2Season4",
+        "obtainable": [["twitchDrop","twitchDropStartYear2Season4"]],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-03-12"
     },
     "sunShimmer": {
         "id": "sunShimmer",
@@ -31174,9 +31174,9 @@
     "theKeepersWay": {
         "id": "theKeepersWay",
         "type": "sailsEmblem",
-        "obtainable": ["twitchDrop","twitchDropLilywhiteTV"],
+        "obtainable": [["twitchDrop","twitchDropLilywhiteTV"]],
         "dateAdded": "2026-02-24",
-        "lastUpdated": "2026-02-24"
+        "lastUpdated": "2026-03-12"
     },
     "wrathskull": {
         "id": "wrathskull",
@@ -31215,8 +31215,8 @@
     "rubyOfTheReefs": {
         "id": "rubyOfTheReefs",
         "type": "sailsEmblem",
-        "obtainable": ["twitchDrop","twitchDropRubyNXT"],
+        "obtainable": [["twitchDrop","twitchDropRubyNXT"]],
         "dateAdded": "2026-03-10",
-        "lastUpdated": "2026-03-10"
+        "lastUpdated": "2026-03-12"
     }
 }
