@@ -1,6 +1,7 @@
 import shipsData from '../../data/ships.json';
 import { ShipArchetype, ShipSize, SlotWithGunports, SlotWithGunportsAcrossDecks } from '../types/ShipProperties';
 import { Contract, Contracts } from './contracts';
+import { Item, Items } from './items';
 import { Material, Materials } from './materials';
 import { Season, Seasons } from './seasons';
 
@@ -12,6 +13,7 @@ export class Ship {
         public readonly archetype: ShipArchetype,
         public readonly contract: Contract | undefined,
         public readonly blueprint: string | string[] | undefined,
+        public readonly obtainable: string | Item | Array<string | Item> | Array<Array<string | Item> | Item | string> | undefined,
         public readonly season: Season | undefined,
         public readonly hitpoints: number,
         public readonly braceStrength: number,
@@ -56,6 +58,37 @@ export class Ship {
                 required.set(Materials[requiredMaterial], quantity as number);
             }
         }
+        let obtainable = rawData.obtainable ?? undefined;
+        if(Array.isArray(obtainable)) {
+            const _obtainable = new Array<Array<string | Item> | string | Item>();
+            for(const obtainableKey of rawData.obtainable as Array<keyof typeof Items>) {
+                if (Array.isArray(obtainableKey)) {
+                    const obtainableGroup = new Array<string | Item>();
+                    for (const subKey of obtainableKey as Array<keyof typeof Items>) {
+                        const obtainableItem = Items[subKey];
+                        if (obtainableItem && obtainableItem.type === "chest") {
+                            obtainableGroup.push(obtainableItem);
+                        } else {
+                            obtainableGroup.push(subKey);
+                        }
+                    }
+                    _obtainable.push(obtainableGroup);
+                } else {
+                    const obtainableItem = Items[obtainableKey];
+                    if (obtainableItem && obtainableItem.type === "chest") {
+                        _obtainable.push(obtainableItem);
+                    } else {
+                        _obtainable.push(obtainableKey);
+                    }
+                }
+            }
+            obtainable = _obtainable;
+        } else if(obtainable) {
+            const obtainableItem = Items[rawData.obtainable as keyof typeof Items];
+            if (obtainableItem && obtainableItem.type === "chest") {
+                obtainable = obtainableItem;
+            }
+        }
 
         return new Ship(
             rawData.id,
@@ -64,6 +97,7 @@ export class Ship {
             rawData.archetype,
             rawData.contract ? Contracts[contract] : undefined,
             rawData.blueprint ?? undefined,
+            obtainable,
             season ? Seasons[season] : undefined,
             rawData.hitpoints,
             rawData.braceStrength,
