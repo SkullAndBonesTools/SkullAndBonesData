@@ -31211,5 +31211,12 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-24",
         "lastUpdated": "2026-02-24"
+    },
+    "rubyOfTheReefs": {
+        "id": "rubyOfTheReefs",
+        "type": "sailsEmblem",
+        "obtainable": ["twitchDrop","twitchDropRubyNXT"],
+        "dateAdded": "2026-03-10",
+        "lastUpdated": "2026-03-10"
     }
 }
