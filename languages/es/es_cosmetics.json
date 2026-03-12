@@ -21533,6 +21533,12 @@
             "description": {
                 "general": "Darker than the deepest trench"
             }
+        },
+        "rubyOfTheReefs": {
+            "name": "Ruby of the Reefs",
+            "description": {
+                "general": "A song as sharp as swords; sweet as stolen rum"
+            }
         }
     }
 }

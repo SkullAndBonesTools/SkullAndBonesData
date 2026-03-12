@@ -20143,45 +20143,45 @@
             }
         },
         "batavianTricorn": {
-            "name": "Batavian Tricorn",
+            "name": "Batavia-Dreispitz",
             "description": {
-                "general": "Typically worn by the Governor-General of DMC forces"
+                "general": "Wird üblicherweise vom Generalgouverneur der NHG-Streitkräfte getragen."
             }
         },
         "peperduurPatch": {
-            "name": "Peperduur Patch",
+            "name": "Peperduur-Augenklappe",
             "description": {
-                "general": "An eye for pepper, and all the profit it brings"
+                "general": "Ein Auge für Pfeffer und all den Gewinn, den er bringt."
             }
         },
         "justNiceJustacorps": {
-            "name": "Just-nice Justacorps",
+            "name": "Kleine Kompanie",
             "description": {
-                "general": "Tailor-made for your frame; far from standard issue"
+                "general": "Maßgeschneidert für deine Statur, weit entfernt vom Standardmodell."
             }
         },
         "petticoatBreeches": {
-            "name": "Petticoat Breeches",
+            "name": "Rheingrafenhose",
             "description": {
-                "general": "Some say your dealings are petty; those people can pissoff"
+                "general": "Manche halten dein Handeln für \"pump-ös\"; sollen sie doch."
             }
         },
         "steenkerkCravat": {
-            "name": "Steenkerk Cravat",
+            "name": "Steenkerk-Krawatte",
             "description": {
-                "general": "Loosely tied, like one's morals"
+                "general": "Locker gebunden, wie die Moral des Trägers."
             }
         },
         "turnersBelt": {
-            "name": "Turner's Belt",
+            "name": "Turners Gürtel",
             "description": {
-                "general": "Pull it tight when it's time for a fight"
+                "general": "Schnall ihn enger, wenn es Zeit für einen Kampf ist."
             }
         },
         "slippedSoles": {
-            "name": "Slipped Soles",
+            "name": "Rutschige Sohlen",
             "description": {
-                "general": "Easy for switching sides on the fly"
+                "general": "Einfach zum schnellen Seitenwechsel."
             }
         },
         "turnersTricorn": {
@@ -21532,6 +21532,12 @@
             "name": "Sturmöl",
             "description": {
                 "general": "Dunkler als der tiefste Tiefseegraben."
+            }
+        },
+        "rubyOfTheReefs": {
+            "name": "Rubin der Riffe",
+            "description": {
+                "general": "Ein Lied, scharf wie Schwerter; süß wie gestohlener Rum."
             }
         }
     }
