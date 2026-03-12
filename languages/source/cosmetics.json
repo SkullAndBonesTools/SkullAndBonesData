@@ -21533,6 +21533,30 @@
             "description": {
                 "general": "Darker than the deepest trench"
             }
+        },
+        "darkSepulchre": {
+            "name": "Dark Sepulchre",
+            "description": {
+                "general": "Shadows seep into the timbers, the scent of iron and salt"
+            }
+        },
+        "huntersVeil": {
+            "name": "Hunter's Veil",
+            "description": {
+                "general": "Black silk kissed by moonlight. Whispers of romance and ruin."
+            }
+        },
+        "thronsInBloom": {
+            "name": "Thorns in Bloom",
+            "description": {
+                "general": "Barbs and blossoms coil, binding prey in beauty and cruelty alike"
+            }
+        },
+        "wreathedSkull": {
+            "name": "Wreathed Skull",
+            "description": {
+                "general": "A grin wreathed in roses"
+            }
         }
     }
 }

@@ -1658,5 +1658,9 @@
     "badAndBaroque": {
         "id": "badAndBaroque",
         "type": "ship"
+    },
+    "velvetRequiem": {
+        "id": "velvetRequiem",
+        "type": "ship"
     }
 }

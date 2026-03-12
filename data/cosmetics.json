@@ -31211,5 +31211,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-02-24",
         "lastUpdated": "2026-02-24"
+    },
+    "darkSepulchre": {
+        "id": "darkSepulchre",
+        "type": "hull",
+        "set": "velvetRequiem",
+        "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+        "dateAdded": "2026-XX-XX",
+        "lastUpdated": "2026-XX-XX"
+    },
+    "huntersVeil": {
+        "id": "huntersVeil",
+        "type": "sailsColor",
+        "set": "velvetRequiem",
+        "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+        "dateAdded": "2026-XX-XX",
+        "lastUpdated": "2026-XX-XX"
+    },
+    "thornsInBloom": {
+        "id": "thornsInBloom",
+        "type": "sailsPattern",
+        "set": "velvetRequiem",
+        "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+        "dateAdded": "2026-XX-XX",
+        "lastUpdated": "2026-XX-XX"
+    },
+    "wreathedSkull": {
+        "id": "wreathedSkull",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "set": "velvetRequiem",
+        "obtainable": "Y2S4AnniversarySailEmblemContentReward",
+        "dateAdded": "2026-XX-XX",
+        "lastUpdated": "2026-XX-XX"
     }
 }
