@@ -11429,23 +11429,26 @@
         "id": "horridClutches",
         "type": "sailsEmblem",
         "set": "horridClutches",
+        "season": "chorusOfHavoc",
         "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2026-03-13"
     },
     "inTheShallows": {
         "id": "inTheShallows",
         "type": "sailsColor",
+        "season": "chorusOfHavoc",
         "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-03-13"
     },
     "watersGuardian": {
         "id": "watersGuardian",
         "type": "hull",
+        "season": "chorusOfHavoc",
         "obtainable": [["twitchDrop","twitchDropStartSeason2"]],
         "dateAdded": "2024-06-04",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-03-13"
     },
     "gearUp": {
         "id": "gearUp",
@@ -17730,10 +17733,9 @@
     "beardBehavior": {
         "id": "beardBehavior",
         "type": "sailsEmblem",
-        "season": "intoTheDragonsWake",
         "obtainable": [["twitchDrop","twitchDropBehavingBeardly"]],
         "dateAdded": "2024-09-29",
-        "lastUpdated": "2024-09-29"
+        "lastUpdated": "2026-03-13"
     },
     "bowtieBenny": {
         "id": "bowtieBenny",
@@ -21235,17 +21237,19 @@
         "id": "ritualBearers",
         "type": "sailsEmblem",
         "set": "monsoonWarlord",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
         "dateAdded": "2025-02-18",
-        "lastUpdated": "2025-02-18"
+        "lastUpdated": "2026-03-13"
     },
     "scrapedSides": {
         "id": "scrapedSides",
         "type": "sailsPattern",
         "set": "monsoonWarlord",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
         "dateAdded": "2025-02-18",
-        "lastUpdated": "2025-02-18"
+        "lastUpdated": "2026-03-13"
     },
     "hydraUnleashed": {
         "id": "hydraUnleashed",
@@ -21258,89 +21262,100 @@
         "id": "bloodiedKarsts",
         "type": "hull",
         "set": "monsoonWarlord",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
         "dateAdded": "2025-03-06",
-        "lastUpdated": "2025-03-06"
+        "lastUpdated": "2026-03-13"
     },
     "emeraldDeltas": {
         "id": "emeraldDeltas",
         "type": "sailsColor",
         "set": "monsoonWarlord",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropAroundFirstAnniversary"]],
         "dateAdded": "2025-03-06",
-        "lastUpdated": "2025-03-06"
+        "lastUpdated": "2026-03-13"
     },
     "boundlessDream": {
         "id": "boundlessDream",
         "type": "hull",
         "set": "eternalWill",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropYear2Showcase"]],
         "dateAdded": "2025-04-14",
-        "lastUpdated": "2025-04-14"
+        "lastUpdated": "2026-03-13"
     },
     "neverEnding": {
         "id": "neverEnding",
         "type": "sailsColor",
         "set": "eternalWill",
+        "season": "shadowsOfTheDeep",
         "obtainable": [["twitchDrop","twitchDropYear2Showcase"]],
         "dateAdded": "2025-04-14",
-        "lastUpdated": "2025-04-14"
+        "lastUpdated": "2026-03-13"
     },
     "burnishedBright": {
         "id": "burnishedBright",
         "type": "sailsColor",
         "set": "firesOfIndustry",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-03-13"
     },
     "theVandalsCometh": {
         "id": "theVandalsCometh",
         "type": "hull",
         "set": "firesOfIndustry",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-03-13"
     },
     "agelessResolve": {
         "id": "agelessResolve",
         "type": "figureHead",
         "set": "firesOfIndustry",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season1"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-03-13"
     },
     "mightIsRight": {
         "id": "mightIsRight",
         "type": "sailsEmblem",
         "set": "firesOfIndustry",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-06-10"
+        "lastUpdated": "2026-03-13"
     },
     "chainedDestiny": {
         "id": "chainedDestiny",
         "type": "sailsPattern",
         "set": "firesOfIndustry",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropReleaseDeathtidesSecondWave"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-06-10"
+        "lastUpdated": "2026-03-13"
     },
     "supremacyBound": {
         "id": "supremacyBound",
         "type": "sailsEmblem",
         "set": "eternalWill",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropReleaseDeathtides"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-05-27"
+        "lastUpdated": "2026-03-13"
     },
     "bonfiresCheer": {
         "id": "bonfiresCheer",
         "type": "sailsPattern",
         "set": "eternalWill",
+        "season": "ascentIntoChaos",
         "obtainable": [["twitchDrop","twitchDropReleaseDeathtides"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-05-27"
+        "lastUpdated": "2026-03-13"
     },
     "twilightTricorne": {
         "id": "twilightTricorne",
@@ -24220,34 +24235,38 @@
         "id": "washedGray",
         "type": "hull",
         "set": "wickedCorsair",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-08-13"
+        "lastUpdated": "2026-03-13"
     },
     "bleakBanners": {
         "id": "bleakBanners",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "wickedCorsair",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-08-13"
+        "lastUpdated": "2026-03-13"
     },
     "headsWillRoll": {
         "id": "headsWillRoll",
         "type": "sailsEmblem",
         "set": "wickedCorsair",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-08-13"
+        "lastUpdated": "2026-03-13"
     },
     "flamingWill": {
         "id": "flamingWill",
         "type": "sailsPattern",
         "set": "wickedCorsair",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season2"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-08-13"
+        "lastUpdated": "2026-03-13"
     },
     "sunsHome": {
         "id": "sunsHome",
@@ -25796,33 +25815,37 @@
         "id": "rattleTheBars",
         "type": "sailsPattern",
         "set": "cagedFury",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2026-03-12"
+        "lastUpdated": "2026-03-13"
     },
     "ironTang": {
         "id": "ironTang",
         "type": "sailsColor",
         "set": "cagedFury",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2026-03-12"
+        "lastUpdated": "2026-03-13"
     },
     "stingingSun": {
         "id": "stingingSun",
         "type": "hull",
         "set": "cagedFury",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2026-03-12"
+        "lastUpdated": "2026-03-13"
     },
     "freeRein": {
         "id": "freeRein",
         "type": "sailsEmblem",
         "set": "cagedFury",
+        "season": "oathsOfWar",
         "obtainable": [["twitchDrop","twitchDropDarktidesLullabyRelease"]],
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2026-03-12"
+        "lastUpdated": "2026-03-13"
     },
     "soulSpurned": {
         "id": "soulSpurned",
@@ -26655,34 +26678,38 @@
         "id": "theNextLife",
         "type": "hull",
         "set": "kingOfChains",
+        "season": "gutsAndGlory",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-13"
     },
     "steelySmile": {
         "id": "steelySmile",
         "type": "sailsColor",
         "effect": "emissive",
         "set": "kingOfChains",
+        "season": "gutsAndGlory",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-13"
     },
     "buccaneersRevenge": {
         "id": "buccaneersRevenge",
         "type": "sailsEmblem",
         "set": "kingOfChains",
+        "season": "gutsAndGlory",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-13"
     },
     "borrowedTime": {
         "id": "borrowedTime",
         "type": "sailsPattern",
         "set": "kingOfChains",
+        "season": "gutsAndGlory",
         "obtainable": [["twitchDrop","twitchDropStartYear2Season3"]],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-03-13"
     },
     "sovereignOfTheSea": {
         "id": "sovereignOfTheSea",
