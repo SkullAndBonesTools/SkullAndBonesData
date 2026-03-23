@@ -3103,6 +3103,54 @@
             "description": {
                 "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
             }
+        },
+        "torpedoes": {
+            "name": "鱼雷",
+            "description": {
+                "general": "适用于任意鱼雷发射器武器的弹药"
+            }
+        },
+        "oilCanisters": {
+            "name": "油罐",
+            "description": {
+                "general": "适用于任意海洋之火武器的弹药"
+            }
+        },
+        "mortarBombs": {
+            "name": "迫击炮炮弹",
+            "description": {
+                "general": "适用于任意迫击炮类武器的弹药"
+            }
+        },
+        "ballistaBolts": {
+            "name": "弩炮弩箭",
+            "description": {
+                "general": "适用于任意弩炮类武器的弹药"
+            }
+        },
+        "cannonballs": {
+            "name": "大炮炮弹",
+            "description": {
+                "general": "适用于任意大炮类武器的弹药"
+            }
+        },
+        "bombardBombs": {
+            "name": "射石炮炮弹",
+            "description": {
+                "general": "适用于任意射石炮类武器的弹药"
+            }
+        },
+        "rockets": {
+            "name": "火箭",
+            "description": {
+                "general": "适用于任意火箭发射器类武器的弹药"
+            }
+        },
+        "buoyShells": {
+            "name": "浮标炮弹",
+            "description": {
+                "general": "适用于任意弹射武器的弹药"
+            }
         }
     }
 }

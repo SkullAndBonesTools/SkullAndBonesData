@@ -3103,6 +3103,54 @@
             "description": {
                 "general": "Taken from the head of an elusive master predator, unmatched in ferocity"
             }
+        },
+        "torpedoes": {
+            "name": "Torpedoes",
+            "description": {
+                "general": "Ammunition for any Torpedo Launcher Weapon."
+            }
+        },
+        "oilCanisters": {
+            "name": "Oil Canisters",
+            "description": {
+                "general": "Ammunition for any SeaFire Weapon."
+            }
+        },
+        "mortarBombs": {
+            "name": "Mortar Bombs",
+            "description": {
+                "general": "Ammunition for any Mortar Weapon."
+            }
+        },
+        "ballistaBolts": {
+            "name": "Ballista Bolts",
+            "description": {
+                "general": "Ammunition for any Ballista Weapon."
+            }
+        },
+        "cannonballs": {
+            "name": "Cannonballs",
+            "description": {
+                "general": "Ammunition for any Cannon Weapon."
+            }
+        },
+        "bombardBombs": {
+            "name": "Bombard Bombs",
+            "description": {
+                "general": "Ammunition for any Bombard Weapon."
+            }
+        },
+        "rockets": {
+            "name": "Rockets",
+            "description": {
+                "general": "Ammunition for any Rocket Launcher Weapon."
+            }
+        },
+        "buoyShells": {
+            "name": "Buoy Shells",
+            "description": {
+                "general": "Ammunition for any Springloader Weapon."
+            }
         }
     }
 }

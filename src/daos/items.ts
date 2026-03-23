@@ -15,6 +15,7 @@ export class Item {
         public readonly season: Season,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
+        public readonly ammunitionType: string | Item,
         public readonly tier?: Tier,
         public readonly blueprint?: string,
         public readonly value?: number,
@@ -70,6 +71,7 @@ export class Item {
             Seasons[season],
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),
+            rawData.ammunitionType ?? undefined,
             rawData.tier,
             rawData.blueprint ?? undefined,
             rawData.value ?? undefined,
@@ -99,16 +101,16 @@ export class Item {
         );
     }
 
-    public static updateObtainableWithItems(key:string, rawData:any, items: Record<string, Item>) {
-        if(!rawData.obtainable) return;
-        if(Array.isArray(rawData.obtainable)) {
+    public static updateObtainableWithItems(key: string, rawData: any, items: Record<string, Item>) {
+        if (!rawData.obtainable) return;
+        if (Array.isArray(rawData.obtainable)) {
             const obtainable = new Array<Array<string | Item> | string | Item>();
-            for(const obtainableKey of rawData.obtainable) {
+            for (const obtainableKey of rawData.obtainable) {
                 if (Array.isArray(obtainableKey)) {
                     const obtainableGroup = new Array<string | Item>();
                     for (const subKey of obtainableKey) {
                         const obtainableItem = items[subKey];
-                        if (obtainableItem && obtainableItem.type === "chest") {
+                        if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                             obtainableGroup.push(obtainableItem);
                         } else {
                             obtainableGroup.push(subKey);
@@ -117,7 +119,7 @@ export class Item {
                     obtainable.push(obtainableGroup);
                 } else {
                     const obtainableItem = items[obtainableKey];
-                    if (obtainableItem && obtainableItem.type === "chest") {
+                    if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                         obtainable.push(obtainableItem);
                     } else {
                         obtainable.push(obtainableKey);
@@ -127,7 +129,7 @@ export class Item {
             items[key].obtainable = obtainable;
         } else {
             const obtainableItem = items[rawData.obtainable];
-            if (obtainableItem && obtainableItem.type === "chest") {
+            if (obtainableItem && (obtainableItem.type === "chest" || obtainableItem.type === "ammunition")) {
                 items[key].obtainable = obtainableItem;
             }
         }
