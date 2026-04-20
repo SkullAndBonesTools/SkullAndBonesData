@@ -2,7 +2,8 @@
     "compilerOptions": {
         "target": "ES2021",
         "module": "ESNext",
-        "moduleResolution": "Node",
+        "ignoreDeprecations": "6.0",
+        "moduleResolution": "node",
         "outDir": "dist",
         "rootDir": "src",
         "declaration": true,
