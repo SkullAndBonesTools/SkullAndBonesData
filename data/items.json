@@ -302,9 +302,9 @@
             "raider",
             "piercing2"
         ],
-        "obtainable": ["darktideChest","hauntedReapersCache"],
+        "obtainable": ["darktideChest","hauntedReapersCache","crazedNianStrongbox"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-04-20"
     },
     "carronade": {
         "id": "carronade",
@@ -651,8 +651,9 @@
             "raider",
             "burning2"
         ],
+        "obtainable": ["crazedNianStrongbox"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-04-20"
     },
     "cannonballCrate": {
         "id": "cannonballCrate",
@@ -10941,7 +10942,8 @@
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
             "ascendedDarktideLullabyEventCache",
-            "ascendedLegendOfTheNianEventCache"
+            "ascendedLegendOfTheNianEventCache",
+            "crazedNianStrongbox"
         ],
         "value": 1,
         "weight": 500,
@@ -11326,6 +11328,7 @@
         "blueprint": "idolOfTheBeastStatue",
         "obtainable": [
             "nianStrongbox",
+            "crazedNianStrongbox",
             "idolOfTheBeastStatue"
         ],
         "dateAdded": "2025-01-14",
@@ -15830,12 +15833,12 @@
         "gearScore": 20,
         "required": {},
         "event": "legendOfTheNian",
-        "obtainable": "idolOfTheBeastStatue",
+        "obtainable": ["idolOfTheBeastStatue","nianStrongbox","crazedNianStrongbox"],
         "perks": [
             "apothecaryToolBench"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-04-20"
     },
     "anatomyCabinet": {
         "id": "anatomyCabinet",
