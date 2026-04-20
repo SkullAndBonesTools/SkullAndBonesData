@@ -31398,43 +31398,43 @@
     "gatorsHide": {
         "id": "gatorsHide",
         "type": "hull",
-        "set": "crocodillo",
+        "set": "crocodilosWrath",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
         "dateAdded": "2026-03-24",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-04-20"
     },
     "deathRoll": {
         "id": "deathRoll",
         "type": "sailsPattern",
-        "set": "crocodillo",
+        "set": "crocodilosWrath",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
         "dateAdded": "2026-03-24",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-04-20"
     },
     "crimsonSplash": {
         "id": "crimsonSplash",
         "type": "sailsColor",
         "effect": "emissive",
-        "set": "crocodillo",
+        "set": "crocodilosWrath",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
         "dateAdded": "2026-03-24",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-04-20"
     },
     "mawUnleashed": {
         "id": "mawUnleashed",
         "type": "sailsEmblem",
-        "set": "crocodillo",
+        "set": "crocodilosWrath",
         "event": "legendOfTheNian",
         "season": "eyeOfTheBeast",
         "obtainable": "eventPass",
         "dateAdded": "2026-03-24",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-04-20"
     },
     "snarlweave": {
         "id": "snarlweave",
