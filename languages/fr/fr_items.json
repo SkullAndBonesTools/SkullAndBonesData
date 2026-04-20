@@ -3109,6 +3109,18 @@
             "description": {
                 "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
             }
+        },
+        "ascendedBlightmawChest": {
+            "name": "Ascended Blightmaw Chest",
+            "description": {
+                "general": "An ornate chest containing unknown treasures. Some claim to have heard weeping from within."
+            }
+        },
+        "ascendedLegendOfTheNianEventCache": {
+            "name": "Ascended Event Cache (Legend of the Nian)",
+            "description": {
+                "general": "Contains an Ascended Event weapon."
+            }
         }
     }
 }

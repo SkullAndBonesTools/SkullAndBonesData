@@ -295,6 +295,10 @@
         "hallowedFlare": {
             "name": "Hallowed Flare",
             "description": "This flare has an air that is disturbing yet whimsical. It almost seems to be cackling at you."
+        },
+        "nianFlare": {
+            "name": "Nian Flare",
+            "description": "Anchored coins coiled onto the beast, fate destined to be sealed by its greed."
         }
     }
 }
