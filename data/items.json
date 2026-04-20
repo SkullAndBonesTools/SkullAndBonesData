@@ -10940,7 +10940,8 @@
             "nianStrongbox",
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
-            "ascendedDarktideLullabyEventCache"
+            "ascendedDarktideLullabyEventCache",
+            "ascendedLegendOfTheNianEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -12662,9 +12663,10 @@
             "ascendedEventCache",
             "darktideAltarTelokPenjarah",
             "ascendedDarktideLullabyEventCache",
-            "ascendedRequiemOfTheLostEventCache"
+            "ascendedRequiemOfTheLostEventCache",
+            "ascendedLegendOfTheNianEventCache"
         ],
-        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost"],
+        "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost","legendOfTheNian"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12682,7 +12684,7 @@
             "combustion3"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2026-04-20"
     },
     "fireCulverin1": {
         "id": "fireCulverin1",
@@ -13927,13 +13929,14 @@
         "type": "torpedo",
         "rarity": "epic",
         "season": "oathsOfWar",
-        "event": ["darktideLullaby","azureSolstice"],
+        "event": ["darktideLullaby","azureSolstice","legendOfTheNian"],
         "obtainable": [
             "darktideAltarTelokPenjarah",
             "darktideChest",
             "ascendedHellgateSerpentChest",
             "ascendedDarktideLullabyEventCache",
-            "ascendedAzureSolsticeEventCache"
+            "ascendedAzureSolsticeEventCache",
+            "ascendedLegendOfTheNianEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -13951,7 +13954,7 @@
             "flooding2"
         ],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-12-09"
+        "lastUpdated": "2026-04-20"
     },
     "stormVigil": {
         "id": "stormVigil",
@@ -15901,7 +15904,7 @@
         "rarity": "epic",
         "season": "eyeOfTheBeast",
         "event": "legendOfTheNian",
-        "obtainable": ["idolOfTheBeastStatue","crazedNianStrongbox"],
+        "obtainable": ["idolOfTheBeastStatue","crazedNianStrongbox","ascendedBlightmawChest","ascendedLegendOfTheNianEventCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15916,7 +15919,7 @@
             "toxic3"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-04-20"
     },
     "stormtongue": {
         "id": "stormtongue",
@@ -16101,5 +16104,35 @@
         "weight": 100,
         "dateAdded": "2026-03-24",
         "lastUpdated": "2026-03-24"
+    },
+    "ascendedBlightmawChest": {
+        "id": "ascendedBlightmawChest",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "event": "legendOfTheNian",
+        "obtainable": ["idolOfTheBeastStatue","eventPass"],
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "halfTaels": 1500
+        },
+        "dateAdded": "2026-04-20",
+        "lastUpdated": "2026-04-20"
+    },
+    "ascendedLegendOfTheNianEventCache": {
+        "id": "ascendedLegendOfTheNianEventCache",
+        "rarity": "epic",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "event": "legendOfTheNian",
+        "obtainable": "idolOfTheBeastStatue",
+        "value": 1,
+        "weight": 100,
+        "required": {
+            "halfTaels": 1300
+        },
+        "dateAdded": "2026-04-20",
+        "lastUpdated": "2026-04-20"
     }
 }
