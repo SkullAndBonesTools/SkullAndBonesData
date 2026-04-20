@@ -2169,9 +2169,9 @@
             }
         },
         "nianStrongbox": {
-            "name": "Nian Strongbox",
+            "name": "Nian-Schatulle",
             "description": {
-                "general": "A chest from the ship that used the local legend of the Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+                "general": "Eine Truhe von dem Schiff, das die lokale Legende des Nians nutzte, um Angst zu säen und unglückliche Opfer auszurauben. Dem Sieger steht die Beute zu."
             }
         },
         "opwellingTreasureChest": {
@@ -3105,9 +3105,21 @@
             }
         },
         "crazedNianStrongbox": {
-            "name": "Crazed Nian Strongbox",
+            "name": "Schatulle des Wirren Nian",
             "description": {
-                "general": "A chest from the ship that used the fabled local legend of the Crazed Nian to sow fear and rob unfortunate targets. To the victor go the spoils."
+                "general": "Eine Truhe von dem Schiff, das die lokale Legende des Wirren Nians nutzte, um Angst zu säen und unglückliche Opfer auszurauben. Dem Sieger steht die Beute zu."
+            }
+        },
+        "ascendedBlightmawChest": {
+            "name": "Aufgestiegene Pestschlund-Truhe",
+            "description": {
+                "general": "Eine verzierte Truhe mit unbekannten Schätzen. Angeblich hört man hin und wieder ein Weinen aus der Truhe."
+            }
+        },
+        "ascendedLegendOfTheNianEventCache": {
+            "name": "\"Aufgestiegen\"-Eventlager (Legende des Nian)",
+            "description": {
+                "general": "Enthält eine aufgestiegene Event-Waffe"
             }
         }
     }

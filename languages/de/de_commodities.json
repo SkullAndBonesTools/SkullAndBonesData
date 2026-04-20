@@ -295,6 +295,10 @@
         "hallowedFlare": {
             "name": "Geweihtes Leuchtsignal",
             "description": "Dieses Leuchtsignal ist gleichzeitig verstörend und drollig. Es scheint fast zu kichern."
+        },
+        "nianFlare": {
+            "name": "Nian-Leuchtsignal",
+            "description": "Verankerte Münzen wickelten sich um das Biest, dessen Schicksal durch seine Gier besiegelt sein sollte."
         }
     }
 }

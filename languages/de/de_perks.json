@@ -2899,7 +2899,7 @@
             "description": {
                 "general": [
                     "Der Schaden, der mit einer Waffe vom Typ Überflutung aus einer Entfernung von mehr als 200 m verursacht wird, erhöht \"Überflutungsschaden\"  für 10 s um 13 %",
-                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1%",
+                    "Für jede Projektilgeschwindigkeit-Erhöhung um 1% für Waffen durch Boni wird der Überflutungsschaden dieser Waffe um 1% erhöht. ",
                     "Erhöht den Schaden an gegnerischen Schiffen mit dem Effekt \"Überflutet\" um 10 %"
                 ]
             }
