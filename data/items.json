@@ -10934,7 +10934,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "shadowsOfTheDeep",
-        "event": ["enterTheNian","moonshineLarceny","darktideLullaby"],
+        "event": ["enterTheNian","moonshineLarceny","darktideLullaby","legendOfTheNian"],
         "obtainable": [
             "idolOfTheBeastStatue",
             "nianStrongbox",
@@ -10951,13 +10951,21 @@
         "reloadSpeed": 6000,
         "optimalRange": 600,
         "projectileSpeed": 210,
-        "required": {},
+        "blueprint": "idolOfTheBeastStatue",
+        "required": {
+            "purifiedSaltpeter": 10,
+            "dryCastingSand": 10,
+            "naphtha": 5,
+            "gannetDenseNiter": 1,
+            "wyrmVolatileNapalm": 1,
+            "silver": 3300
+        },
         "perks": [
             "chainReaction",
             "explosive1"
         ],
         "dateAdded": "2025-01-14",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-04-20"
     },
     "agnisFury": {
         "id": "agnisFury",
@@ -11300,20 +11308,27 @@
         "type": "utilityFurniture",
         "rarity": "rare",
         "season": "shadowsOfTheDeep",
-        "event": "enterTheNian",
+        "event": ["enterTheNian","legendOfTheNian"],
         "weight": 80,
         "gearScore": 20,
         "value": 1,
         "perks": [
             "floatCollars"
         ],
-        "required": {},
+        "required": {
+            "roselleCloth": 25,
+            "purifiedSaltpeter": 14,
+            "rubber": 7,
+            "eelsTwine": 4,
+            "silver": 3600
+        },
+        "blueprint": "idolOfTheBeastStatue",
         "obtainable": [
             "nianStrongbox",
             "idolOfTheBeastStatue"
         ],
         "dateAdded": "2025-01-14",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-04-20"
     },
     "mineClearingLocker": {
         "id": "mineClearingLocker",
