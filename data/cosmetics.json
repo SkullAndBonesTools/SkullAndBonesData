@@ -29727,7 +29727,6 @@
     "regentsResolve": {
         "id": "regentsResolve",
         "type": "sailsPattern",
-        "effect": "emissive",
         "set": "gildedCoronation",
         "required": {
             "silverLions": 250
