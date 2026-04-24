@@ -1678,5 +1678,9 @@
     "deathlyWishes": {
         "id": "deathlyWishes",
         "type": "player"
+    },
+    "oranjeDominion": {
+        "id": "oranjeDominion",
+        "type": "ship"
     }
 }

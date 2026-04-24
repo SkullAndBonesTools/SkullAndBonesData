@@ -30619,43 +30619,43 @@
     "lionsRoar": {
         "id": "lionsRoar",
         "type": "sailsEmblem",
-        "set": "",
+        "set": "oranjeDominion",
         "season": "eyeOfTheBeast",
         "obtainable": "retributionWarRewardWonTerritory1",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-04-06"
+        "lastUpdated": "2026-04-24"
     },
     "flameWind": {
         "id": "flameWind",
         "type": "sailsColor",
-        "set": "",
+        "set": "oranjeDominion",
         "effect": "emissive",
         "season": "eyeOfTheBeast",
         "obtainable": "retributionWarRewardWonTerritory4",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-04-06"
+        "lastUpdated": "2026-04-24"
     },
     "zwartGoud": {
         "id": "zwartGoud",
         "type": "hull",
-        "set": "",
+        "set": "oranjeDominion",
         "season": "eyeOfTheBeast",
         "obtainable": "retributionWarRewardWonTerritory7",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-04-06"
+        "lastUpdated": "2026-04-24"
     },
     "helmBanier": {
         "id": "helmBanier",
         "type": "sailsPattern",
-        "set": "",
+        "set": "oranjeDominion",
         "season": "eyeOfTheBeast",
         "obtainable": "retributionWarRewardWonTerritory11",
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-04-06"
+        "lastUpdated": "2026-04-24"
     },
     "brassbound": {
         "id": "brassbound",
