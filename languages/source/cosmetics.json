@@ -21833,6 +21833,18 @@
             "description": {
                 "general": "A flaming aura worthy of a DMC win"
             }
+        },
+        "frostflare": {
+            "name": "Frostflare",
+            "description": {
+                "general": "A royal aura worthy of the merciless Compagnie"
+            }
+        },
+        "flamewake": {
+            "name": "Flamewake",
+            "description": {
+                "general": "The blazing pride of the DMC"
+            }
         }
     }
 }

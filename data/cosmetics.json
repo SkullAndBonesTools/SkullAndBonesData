@@ -31707,5 +31707,25 @@
         "obtainable": "retributionWarWinReward",
         "dateAdded": "2026-05-05",
         "lastUpdated": "2026-05-05"
+    },
+    "frostflare": {
+        "id": "frostflare",
+        "type": "aura",
+        "season": "shatteredSeas",
+        "effect": "bossKillReactive",
+        "faction": "compagnieRoyale",
+        "obtainable": "dominionWarWinReward",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "flamewake": {
+        "id": "flamewake",
+        "type": "aura",
+        "season": "shatteredSeas",
+        "effect": "bossKillReactive",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "dominionWarWinReward",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
