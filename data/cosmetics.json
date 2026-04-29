@@ -31635,5 +31635,25 @@
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
         "dateAdded": "2026-03-31",
         "lastUpdated": "2026-03-31"
+    },
+    "bleuFury": {
+        "id": "bleuFury",
+        "type": "aura",
+        "season": "eyeOfTheBeast",
+        "effect": "bossKillReactive",
+        "faction": "compagnieRoyale",
+        "obtainable": "retributionWarWinReward",
+        "dateAdded": "2026-05-05",
+        "lastUpdated": "2026-05-05"
+    },
+    "oranjeWinds": {
+        "id": "oranjeWinds",
+        "type": "aura",
+        "season": "eyeOfTheBeast",
+        "effect": "bossKillReactive",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "retributionWarWinReward",
+        "dateAdded": "2026-05-05",
+        "lastUpdated": "2026-05-05"
     }
 }

@@ -21791,6 +21791,18 @@
             "description": {
                 "general": "A grin wreathed in roses"
             }
+        },
+        "bleuFury": {
+            "name": "Bleu Fury",
+            "description": {
+                "general": "A stunning show of Compagnie colors"
+            }
+        },
+        "oranjeWinds": {
+            "name": "Oranje Winds",
+            "description": {
+                "general": "A flaming aura worthy of a DMC win"
+            }
         }
     }
 }
