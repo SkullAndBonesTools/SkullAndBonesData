@@ -31687,5 +31687,25 @@
         "faction": "compagnieRoyale",
         "dateAdded": "2026-04-12",
         "lastUpdated": "2026-04-12"
+    },
+    "bleuFury": {
+        "id": "bleuFury",
+        "type": "aura",
+        "season": "eyeOfTheBeast",
+        "effect": "bossKillReactive",
+        "faction": "compagnieRoyale",
+        "obtainable": "retributionWarWinReward",
+        "dateAdded": "2026-05-05",
+        "lastUpdated": "2026-05-05"
+    },
+    "oranjeWinds": {
+        "id": "oranjeWinds",
+        "type": "aura",
+        "season": "eyeOfTheBeast",
+        "effect": "bossKillReactive",
+        "faction": "dutchMerchantCompany",
+        "obtainable": "retributionWarWinReward",
+        "dateAdded": "2026-05-05",
+        "lastUpdated": "2026-05-05"
     }
 }
