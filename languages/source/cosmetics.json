@@ -21845,6 +21845,36 @@
             "description": {
                 "general": "The blazing pride of the DMC"
             }
+        },
+        "auricPride": {
+            "name": "Auric Pride",
+            "description": {
+                "general": "\"A lion without its pride quickly becomes prey.\""
+            }
+        },
+        "sablesilkCloak": {
+            "name": "Sablesilk Cloak",
+            "description": {
+                "general": "Blind your foes with your immense fortune"
+            }
+        },
+        "lionheartPlate": {
+            "name": "Lionheart Plate",
+            "description": {
+                "general": "Glory belongs to those who dare"
+            }
+        },
+        "fortunesRoar": {
+            "name": "Fortune's Roar",
+            "description": {
+                "general": "\"I seize the seas and siphon its gold.\""
+            }
+        },
+        "coinkeeper": {
+            "name": "Coinkeeper",
+            "description": {
+                "general": "\"Always keep your paws on the prize, Captain.\""
+            }
         }
     }
 }

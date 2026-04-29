@@ -31727,5 +31727,57 @@
         "obtainable": "dominionWarWinReward",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "auricPride": {
+        "id": "auricPride",
+        "type": "sailsEmblem",
+        "set": "maneOfGlory",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory1",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "sablesilkCloak": {
+        "id": "sablesilkCloak",
+        "type": "sailsColor",
+        "set": "maneOfGlory",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory4",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "lionheartPlate": {
+        "id": "lionheartPlate",
+        "type": "hull",
+        "set": "maneOfGlory",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory5",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "fortunesRoar": {
+        "id": "fortunesRoar",
+        "type": "sailsPattern",
+        "set": "maneOfGlory",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory8",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "coinkeeper": {
+        "id": "coinkeeper",
+        "type": "nameplate",
+        "set": "maneOfGlory",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory11",
+        "faction": "dutchMerchantCompany",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
     }
 }
