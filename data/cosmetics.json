@@ -31608,24 +31608,24 @@
         "type": "hull",
         "set": "velvetRequiem",
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
-        "dateAdded": "2026-XX-XX",
-        "lastUpdated": "2026-XX-XX"
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     },
     "huntersVeil": {
         "id": "huntersVeil",
         "type": "sailsColor",
         "set": "velvetRequiem",
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
-        "dateAdded": "2026-XX-XX",
-        "lastUpdated": "2026-XX-XX"
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     },
     "thornsInBloom": {
         "id": "thornsInBloom",
         "type": "sailsPattern",
         "set": "velvetRequiem",
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
-        "dateAdded": "2026-XX-XX",
-        "lastUpdated": "2026-XX-XX"
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     },
     "wreathedSkull": {
         "id": "wreathedSkull",
@@ -31633,7 +31633,7 @@
         "effect": "animated",
         "set": "velvetRequiem",
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
-        "dateAdded": "2026-XX-XX",
-        "lastUpdated": "2026-XX-XX"
+        "dateAdded": "2026-03-31",
+        "lastUpdated": "2026-03-31"
     }
 }
