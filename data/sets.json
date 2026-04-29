@@ -1686,5 +1686,9 @@
     "velvetRequiem": {
         "id": "velvetRequiem",
         "type": "ship"
+    },
+    "masqueRenegade": {
+        "id": "masqueRenegade",
+        "type": "ship"
     }
 }

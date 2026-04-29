@@ -31635,5 +31635,55 @@
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
         "dateAdded": "2026-03-31",
         "lastUpdated": "2026-03-31"
+    },
+    "azureRogue": {
+        "id": "azureRogue",
+        "type": "sailsEmblem",
+        "set": "masqueRenegade",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory1",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "moonlitShadow": {
+        "id": "moonlitShadow",
+        "type": "sailsColor",
+        "set": "masqueRenegade",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory4",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "phantomsWake": {
+        "id": "phantomsWake",
+        "type": "hull",
+        "set": "masqueRenegade",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory5",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "deathGripSP": {
+        "id": "deathGripSP",
+        "type": "sailsPattern",
+        "set": "masqueRenegade",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory8",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
+    },
+    "boucanier": {
+        "id": "boucanier",
+        "type": "nameplate",
+        "set": "masqueRenegade",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarRewardWonTerritory11",
+        "faction": "compagnieRoyale",
+        "dateAdded": "2026-04-12",
+        "lastUpdated": "2026-04-12"
     }
 }

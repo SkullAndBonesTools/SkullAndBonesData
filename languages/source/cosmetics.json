@@ -21791,6 +21791,36 @@
             "description": {
                 "general": "A grin wreathed in roses"
             }
+        },
+        "azureRogue": {
+            "name": "Azure Rogue",
+            "description": {
+                "general": "\"I hunt where even moonlight fears to shine.\""
+            }
+        },
+        "moonlitShadow": {
+            "name": "Moonlit Shadow",
+            "description": {
+                "general": "Sail unseen. Strike from the dark."
+            }
+        },
+        "phantomsWake": {
+            "name": "Phantom's Wake",
+            "description": {
+                "general": "Silent as the abyss, and just as deadly"
+            }
+        },
+        "deathGripSP": {
+            "name": "Death Grip",
+            "description": {
+                "general": "Choke your foes with deadly winds"
+            }
+        },
+        "boucanier": {
+            "name": "Boucanier",
+            "description": {
+                "general": "\"Lawless. Ruthless. Only the wind has seen my face.\""
+            }
         }
     }
 }
