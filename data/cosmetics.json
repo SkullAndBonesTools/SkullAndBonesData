@@ -31812,5 +31812,37 @@
         "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "embersOfRevenge": {
+        "id": "embersOfRevenge",
+        "type": "sailsEmblem",
+        "set": "eternalInferno",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "flamingGallows": {
+        "id": "flamingGallows",
+        "type": "sailsPattern",
+        "set": "eternalInferno",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "murkwind": {
+        "id": "murkwind",
+        "type": "sailsColor",
+        "set": "eternalInferno",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "freshBruisewood": {
+        "id": "freshBruisewood",
+        "type": "hull",
+        "set": "eternalInferno",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

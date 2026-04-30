@@ -21899,6 +21899,30 @@
             "description": {
                 "general": "Every rib gleams with the promise of revenge"
             }
+        },
+        "embersOfRevenge": {
+            "name": "Embers of Revenge",
+            "description": {
+                "general": "\"Some fires never die... they simply wait to devour you.\""
+            }
+        },
+        "flamingGallows": {
+            "name": "Flaming Gallows",
+            "description": {
+                "general": "\"One sight of my sails kills all hope, mate.\""
+            }
+        },
+        "murkwind": {
+            "name": "Murkwind",
+            "description": {
+                "general": "Unleash gales of ash and rot on your enemies"
+            }
+        },
+        "freshBruisewood": {
+            "name": "Fresh Bruisewood",
+            "description": {
+                "general": "\"Every slight will be repaid in blood.\""
+            }
         }
     }
 }
