@@ -1694,5 +1694,9 @@
     "maneOfGlory": {
         "id": "maneOfGlory",
         "type": "ship"
+    },
+    "fumesOfDoom": {
+        "id": "fumesOfDoom",
+        "type": "ship"
     }
 }

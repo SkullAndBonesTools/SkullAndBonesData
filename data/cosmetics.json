@@ -31779,5 +31779,38 @@
         "faction": "dutchMerchantCompany",
         "dateAdded": "2026-04-12",
         "lastUpdated": "2026-04-12"
+    },
+    "executionersMark": {
+        "id": "executionersMark",
+        "type": "sailsEmblem",
+        "set": "fumesOfDoom",
+        "effect": "animated",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "grimsGaze": {
+        "id": "grimsGaze",
+        "type": "sailsPattern",
+        "set": "fumesOfDoom",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "hemlockVeil": {
+        "id": "hemlockVeil",
+        "type": "sailsColor",
+        "set": "fumesOfDoom",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "venomsapLacquer": {
+        "id": "venomsapLacquer",
+        "type": "hull",
+        "set": "fumesOfDoom",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

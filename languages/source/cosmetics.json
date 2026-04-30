@@ -21875,6 +21875,30 @@
             "description": {
                 "general": "\"Always keep your paws on the prize, Captain.\""
             }
+        },
+        "executionersMark": {
+            "name": "Executioner's Mark",
+            "description": {
+                "general": "\"You burned my past. Now choke on my smoke.\""
+            }
+        },
+        "grimsGaze": {
+            "name": "Grim's Gaze",
+            "description": {
+                "general": "\"In the thick fog, I watch you... waiting.\""
+            }
+        },
+        "hemlockVeil": {
+            "name": "Hemlock Veil",
+            "description": {
+                "general": "\"Take a deep breath, matey. It's your last one.\""
+            }
+        },
+        "venomsapLacquer": {
+            "name": "Venomsap Lacquer",
+            "description": {
+                "general": "Every rib gleams with the promise of revenge"
+            }
         }
     }
 }
