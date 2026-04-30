@@ -21941,6 +21941,48 @@
             "description": {
                 "general": "Tear through decks with fangs of fire"
             }
+        },
+        "tidecleaved": {
+            "name": "Tidecleaved",
+            "description": {
+                "general": "A mark of beauty, wielding ruin"
+            }
+        },
+        "quietWind": {
+            "name": "Quiet Wind",
+            "description": {
+                "general": "Purple cloth, with silence and lure"
+            }
+        },
+        "songFromTheDeep": {
+            "name": "Song from the Deep",
+            "description": {
+                "general": "Dark as betrayal, slick as a promise"
+            }
+        },
+        "mawsLure": {
+            "name": "Maw's Lure",
+            "description": {
+                "general": "Calls the tide, in song and ruin"
+            }
+        },
+        "wispskin": {
+            "name": "Wispskin",
+            "description": {
+                "general": "Tentacled grace, to beckon and devour"
+            }
+        },
+        "seaHeart": {
+            "name": "Sea Heart",
+            "description": {
+                "general": "Beats beneath the waves, never breaks"
+            }
+        },
+        "crownOfDrowning": {
+            "name": "Crown of Drowning",
+            "description": {
+                "general": "A skull held, song sung, silence reigned"
+            }
         }
     }
 }

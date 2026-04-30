@@ -31868,5 +31868,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "tidecleaved": {
+        "id": "tidecleaved",
+        "type": "sailsEmblem",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "quietWind": {
+        "id": "quietWind",
+        "type": "sailsPattern",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "songFromTheDeep": {
+        "id": "songFromTheDeep",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "mawsLure": {
+        "id": "mawsLure",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wispskin": {
+        "id": "wispskin",
+        "type": "hull",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "seaHeart": {
+        "id": "seaHeart",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "songOfTheSirens",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "crownOfDrowning": {
+        "id": "crownOfDrowning",
+        "type": "trophy",
+        "set": "songOfTheSirens",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
