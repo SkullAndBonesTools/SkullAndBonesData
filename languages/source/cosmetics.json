@@ -21923,6 +21923,24 @@
             "description": {
                 "general": "\"Every slight will be repaid in blood.\""
             }
+        },
+        "jawsOfThunder": {
+            "name": "Jaws of Thunder",
+            "description": {
+                "general": "\"Only broken hulls and shattered skulls left in me wake.\""
+            }
+        },
+        "bluefireScourge": {
+            "name": "Bluefire Scourge",
+            "description": {
+                "general": "\"Torch 'em all to ashes.\""
+            }
+        },
+        "burningMaw": {
+            "name": "Burning Maw",
+            "description": {
+                "general": "Tear through decks with fangs of fire"
+            }
         }
     }
 }
