@@ -31928,5 +31928,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "curtainfall": {
+        "id": "curtainfall",
+        "type": "sailsEmblem",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "mortisMasque": {
+        "id": "mortisMasque",
+        "type": "sailsPattern",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "gangrenesGrip": {
+        "id": "gangrenesGrip",
+        "type": "sailsColor",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "maestroOfBones": {
+        "id": "maestroOfBones",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deathsJest": {
+        "id": "deathsJest",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "stageOfWails": {
+        "id": "stageOfWails",
+        "type": "hull",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deadManic": {
+        "id": "deadManic",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "deathsCue",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

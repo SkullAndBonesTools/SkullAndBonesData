@@ -21983,6 +21983,48 @@
             "description": {
                 "general": "A skull held, song sung, silence reigned"
             }
+        },
+        "curtainfall": {
+            "name": "Curtainfall",
+            "description": {
+                "general": "None escape the final act"
+            }
+        },
+        "mortisMasque": {
+            "name": "Mortis Masque",
+            "description": {
+                "general": "\"Alas, your little tale ends in blood.\""
+            }
+        },
+        "gangrenesGrip": {
+            "name": "Gangrene's Grip",
+            "description": {
+                "general": "\"Rotting winds sing a fine dirge, Captain.\""
+            }
+        },
+        "maestroOfBones": {
+            "name": "Maestro of Bones",
+            "description": {
+                "general": "\"Every dying scream is a note in my symphony.\""
+            }
+        },
+        "deathsJest": {
+            "name": "Death's Jest",
+            "description": {
+                "general": "\"All the world's a stage, and I bring the house down.\""
+            }
+        },
+        "stageOfWails": {
+            "name": "Stage of Wails",
+            "description": {
+                "general": "Death performs on every plank"
+            }
+        },
+        "deadManic": {
+            "name": "Dead Manic",
+            "description": {
+                "general": "\"I do love an entertaining death.\""
+            }
         }
     }
 }
