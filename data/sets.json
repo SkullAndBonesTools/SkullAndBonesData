@@ -1698,5 +1698,29 @@
     "fumesOfDoom": {
         "id": "fumesOfDoom",
         "type": "ship"
+    },
+    "songOfTheSirens": {
+        "id": "songOfTheSirens",
+        "type": "ship"
+    },
+    "eternalInferno": {
+        "id": "eternalInferno",
+        "type": "ship"
+    },
+    "deathsCue": {
+        "id": "deathsCue",
+        "type": "ship"
+    },
+    "burningBeast": {
+        "id": "burningBeast",
+        "type": "ship"
+    },
+    "huntersWrath": {
+        "id": "huntersWrath",
+        "type": "ship"
+    },
+    "shadowBlade": {
+        "id": "shadowBlade",
+        "type": "ship"
     }
 }
