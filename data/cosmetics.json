@@ -13094,9 +13094,10 @@
     "darkTidebringers": {
         "id": "darkTidebringers",
         "type": "crewLook",
+        "set": "shadowBlade",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-07-02",
-        "lastUpdated": "2024-07-02"
+        "lastUpdated": "2026-05-12"
     },
     "heartyHandshake": {
         "id": "heartyHandshake",
@@ -31992,6 +31993,66 @@
         "id": "cindermist",
         "type": "aura",
         "effect": "bossKillReactive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "cinderGrin": {
+        "id": "cinderGrin",
+        "type": "sailsEmblem",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deathflare": {
+        "id": "deathflare",
+        "type": "sailsPattern",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "veilOfAsh": {
+        "id": "veilOfAsh",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theCryptwarden": {
+        "id": "theCryptwarden",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deathstainedDeep": {
+        "id": "deathstainedDeep",
+        "type": "hull",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theSilence": {
+        "id": "theSilence",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "shadowBlade",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "huntersHelm": {
+        "id": "huntersHelm",
+        "type": "wheel",
+        "set": "shadowBlade",
+        "effect": "emissive",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"

@@ -22031,6 +22031,48 @@
             "description": {
                 "general": "From the furnace of rage"
             }
+        },
+        "cinderGrin": {
+            "name": "Cinder Grin",
+            "description": {
+                "general": "\"When I come for you, the whole damn sea lights up.\""
+            }
+        },
+        "deathflare": {
+            "name": "Deathflare",
+            "description": {
+                "general": "\"Death wears my face.\""
+            }
+        },
+        "veilOfAsh": {
+            "name": "Veil of Ash",
+            "description": {
+                "general": "\"If you can see me, you're already dead.\""
+            }
+        },
+        "theCryptwarden": {
+            "name": "The Cryptwarden",
+            "description": {
+                "general": "\"Tyrants pay their dues in blood and bone.\""
+            }
+        },
+        "deathstainedDeep": {
+            "name": "Deathstained Deep",
+            "description": {
+                "general": "\"Plans are pretty, but my dagger is faster.\""
+            }
+        },
+        "theSilence": {
+            "name": "The Silence",
+            "description": {
+                "general": "\"You won't hear me -- that's your warning.\""
+            }
+        },
+        "huntersHelm": {
+            "name": "Hunter's Helm",
+            "description": {
+                "general": "\"Spin the wheel... and watch the rats scatter.\""
+            }
         }
     }
 }
