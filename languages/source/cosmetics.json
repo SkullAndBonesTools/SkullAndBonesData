@@ -22025,6 +22025,12 @@
             "description": {
                 "general": "\"I do love an entertaining death.\""
             }
+        },
+        "cindermist": {
+            "name": "Cindermist",
+            "description": {
+                "general": "From the furnace of rage"
+            }
         }
     }
 }

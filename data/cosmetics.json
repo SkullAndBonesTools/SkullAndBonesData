@@ -31987,5 +31987,13 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "cindermist": {
+        "id": "cindermist",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
