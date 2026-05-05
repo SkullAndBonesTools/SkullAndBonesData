@@ -32115,5 +32115,59 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "fangsOfTheDeep": {
+        "id": "fangsOfTheDeep",
+        "type": "shipSkin",
+        "pieces": ["figureHead","ornaments","nameplate","crowsNest"],
+        "effect": ["emissive","combatReactive"],
+        "ship": "sambuk",
+        "season": "shatteredSeas",
+        "set": "burningBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "abyssmaw": {
+        "id": "abyssmaw",
+        "type": "sailsEmblem",
+        "set": "burningBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "windeater": {
+        "id": "windeater",
+        "type": "sailsPattern",
+        "set": "burningBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "blackwaterVeil": {
+        "id": "blackwaterVeil",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "burningBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bonescaleShard": {
+        "id": "bonescaleShard",
+        "type": "hull",
+        "set": "burningBeast",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "spinehelm": {
+        "id": "spinehelm",
+        "type": "wheel",
+        "set": "burningBeast",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

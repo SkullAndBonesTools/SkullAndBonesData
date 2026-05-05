@@ -22115,6 +22115,42 @@
             "description": {
                 "general": "True justice is the law of the jungle"
             }
+        },
+        "fangsOfTheDeep": {
+            "name": "Fangs of the Deep",
+            "description": {
+                "general": "Awaken the beast within"
+            }
+        },
+        "abyssmaw": {
+            "name": "Abyssmaw",
+            "description": {
+                "general": "\"Plunder the seas, and sink in its jaws.\""
+            }
+        },
+        "windeater": {
+            "name": "Windeater",
+            "description": {
+                "general": "No storm can break what is born at sea"
+            }
+        },
+        "blackwaterVeil": {
+            "name": "Blackwater Veil",
+            "description": {
+                "general": "\"I rule these waters -- and you are out of your depth.\""
+            }
+        },
+        "bonescaleShard": {
+            "name": "Bonescale Shard",
+            "description": {
+                "general": "Forged from bone, hide, and the fire of the deep"
+            }
+        },
+        "spinehelm": {
+            "name": "Spinehelm",
+            "description": {
+                "general": "Hunt every inch of the ocean"
+            }
         }
     }
 }
