@@ -32376,5 +32376,14 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "wetMeGulletBeer": {
+        "id": "wetMeGulletBeer",
+        "type": "firework",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

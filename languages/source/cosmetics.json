@@ -22283,6 +22283,12 @@
             "description": {
                 "general": "Because one tattoo is never enough"
             }
+        },
+        "wetMeGulletBeer": {
+            "name": "Wet Me Gullet Beer",
+            "description": {
+                "general": "\"Only thing better than rum is stolen rum!\""
+            }
         }
     }
 }
