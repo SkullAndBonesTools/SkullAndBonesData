@@ -31631,11 +31631,10 @@
     "wreathedSkull": {
         "id": "wreathedSkull",
         "type": "sailsEmblem",
-        "effect": "animated",
         "set": "velvetRequiem",
         "obtainable": "Y2S4AnniversarySailEmblemContentReward",
         "dateAdded": "2026-03-31",
-        "lastUpdated": "2026-03-31"
+        "lastUpdated": "2026-05-05"
     },
     "azureRogue": {
         "id": "azureRogue",
