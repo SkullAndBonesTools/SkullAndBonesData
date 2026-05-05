@@ -32276,5 +32276,105 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "tricornOfTrance": {
+        "id": "tricornOfTrance",
+        "type": "headwear",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "daydreamers": {
+        "id": "daydreamers",
+        "type": "faceAccessory",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "highNoonHalter": {
+        "id": "highNoonHalter",
+        "type": "torso",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "gardenia": {
+        "id": "gardenia",
+        "type": "neck",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "nomadicWraps": {
+        "id": "nomadicWraps",
+        "type": "forearm",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wineSaddle": {
+        "id": "wineSaddle",
+        "type": "waist",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "moonsandRings": {
+        "id": "moonsandRings",
+        "type": "hand",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "driftclothTrousers": {
+        "id": "driftclothTrousers",
+        "type": "bottom",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "beachyBoots": {
+        "id": "beachyBoots",
+        "type": "footwear",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "sunburntInk": {
+        "id": "sunburntInk",
+        "type": "bodyCosmetics",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "set": "summerDreams",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

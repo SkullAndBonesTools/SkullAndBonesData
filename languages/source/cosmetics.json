@@ -22223,6 +22223,66 @@
             "description": {
                 "general": "\"Who said yer shins don't need protectin'?\""
             }
+        },
+        "tricornOfTrance": {
+            "name": "Tricorn of Trance",
+            "description": {
+                "general": "Turns heads and sparks daydreams"
+            }
+        },
+        "daydreamers": {
+            "name": "Daydreamers",
+            "description": {
+                "general": "Great for keeping out the sun and avoiding eye contact"
+            }
+        },
+        "highNoonHalter": {
+            "name": "High Noon Halter",
+            "description": {
+                "general": "\"Catch the wind and burn yer back!\""
+            }
+        },
+        "gardenia": {
+            "name": "Gardenia",
+            "description": {
+                "general": "For the wild child in your stoic pirate heart"
+            }
+        },
+        "nomadicWraps": {
+            "name": "Nomadic Wraps",
+            "description": {
+                "general": "Well earned bits and bobs from around the world"
+            }
+        },
+        "wineSaddle": {
+            "name": "Wine Saddle",
+            "description": {
+                "general": "Enough room to lug around a couple bottles of red"
+            }
+        },
+        "moonsandRings": {
+            "name": "Moonsand Rings",
+            "description": {
+                "general": "Earned on late night treasure hunts"
+            }
+        },
+        "driftclothTrousers": {
+            "name": "Driftcloth Trousers",
+            "description": {
+                "general": "Pants that chase the wind... and trouble"
+            }
+        },
+        "beachyBoots": {
+            "name": "Beachy Boots",
+            "description": {
+                "general": "Dust them upside down -- these are home to a crab or two"
+            }
+        },
+        "sunburntInk": {
+            "name": "Sunburnt Ink",
+            "description": {
+                "general": "Because one tattoo is never enough"
+            }
         }
     }
 }
