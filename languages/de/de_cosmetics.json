@@ -21767,6 +21767,42 @@
             "description": {
                 "general": "Stille Schritte an vergessenen Ufern."
             }
+        },
+        "darkSepulchre": {
+            "name": "Dunkles Sepulcrum",
+            "description": {
+                "general": "Schatten winden sich ins Holz, der Geruch von Eisen und Salz."
+            }
+        },
+        "huntersVeil": {
+            "name": "Schleier des Jägers",
+            "description": {
+                "general": "Schwarze Seide, vom Mondlicht geküsst. Flüstert von Romantik und Untergang."
+            }
+        },
+        "thronsInBloom": {
+            "name": "Blühende Dornen",
+            "description": {
+                "general": "Dornen und Blüten winden sich und fangen ihre Beute mit Schönheit und Grausamkeit ein."
+            }
+        },
+        "wreathedSkull": {
+            "name": "Bekränzter Schädel",
+            "description": {
+                "general": "Ein Grinsen mit einem Rosenkranz."
+            }
+        },
+        "bleuFury": {
+            "name": "Blaue Raserei",
+            "description": {
+                "general": "Eine atemberaubende Schau in Compagnie Farben."
+            }
+        },
+        "oranjeWinds": {
+            "name": "Oranje-Winde",
+            "description": {
+                "general": "Eine flammende Aura, die eines NHG-Sieges würdig ist."
+            }
         }
     }
 }
