@@ -32220,5 +32220,61 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "leonasTricorne": {
+        "id": "leonasTricorne",
+        "type": "headwear",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "queensCommand": {
+        "id": "queensCommand",
+        "type": "torso",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "rococoRoar": {
+        "id": "rococoRoar",
+        "type": "neck",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "prideguard": {
+        "id": "prideguard",
+        "type": "forearm",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "sigilOfSavagery": {
+        "id": "sigilOfSavagery",
+        "type": "waist",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "sabreSlashed": {
+        "id": "sabreSlashed",
+        "type": "bottom",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "greavesOfGlory": {
+        "id": "greavesOfGlory",
+        "type": "footwear",
+        "set": "leonasLegend",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

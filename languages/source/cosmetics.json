@@ -22181,6 +22181,48 @@
             "description": {
                 "general": "\"The best parties end in screams.\""
             }
+        },
+        "leonasTricorne": {
+            "name": "Leona's Tricorne",
+            "description": {
+                "general": "\"Ain't no bounty hunter as savage as she was...\""
+            }
+        },
+        "queensCommand": {
+            "name": "Queen's Command",
+            "description": {
+                "general": "Untamed, unlovable, unassailable"
+            }
+        },
+        "rococoRoar": {
+            "name": "Rococo Roar",
+            "description": {
+                "general": "\"She dies quite fashionably, I hear...\""
+            }
+        },
+        "prideguard": {
+            "name": "Prideguard",
+            "description": {
+                "general": "\"Even a lion's jaws can't tear through these.\""
+            }
+        },
+        "sigilOfSavagery": {
+            "name": "Sigil of Savagery",
+            "description": {
+                "general": "A fierce combination of rare leather and silverwork"
+            }
+        },
+        "sabreSlashed": {
+            "name": "Sabre Slashed",
+            "description": {
+                "general": "These need some darning"
+            }
+        },
+        "greavesOfGlory": {
+            "name": "Greaves of Glory",
+            "description": {
+                "general": "\"Who said yer shins don't need protectin'?\""
+            }
         }
     }
 }
