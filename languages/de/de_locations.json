@@ -256,7 +256,7 @@
         "azureHarbingerReward": "Erhalten beim Besiegen des Azurblauen Vorboten",
         "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}",
         "factionWarWinReward": "Belohnung für den Sieg der Fraktion im Fraktionskrieg",
-        "retributionWarWinReward": "Reward for that faction to win the Retribution War",
+        "retributionWarWinReward": "Belohnung für den Sieg der Fraktion im Vergeltungskrieg",
         "purchasableWithSilverLionsAtTheFoundingChest": "Ist/war mit Silberlöwen in der Gründungstruhe in Sainte Anne während des Ereignisses kaufbar",
         "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
         "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft",
@@ -266,6 +266,6 @@
         "krakenInkGlandsReward": "Belohnung fürs Abgeben der Tintendrüsen des Kraken beim Meisterjäger des Seevolks im Außenposten Lanitra",
         "twitchDropLilywhiteTV": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von LilywhiteTV",
         "twitchDropRubyNXT": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von RubyNXT",
-        "Y2S4AnniversarySailEmblemContentReward": "Reward for winning or being under the top 10 (shortlisted) submissions for the Year 2 Season 4 Anniversary Sail Emblem design contest"
+        "Y2S4AnniversarySailEmblemContentReward": "Belohnung für das Gewinnen oder Platzieren unter den Top 10 im J2S4 Anniversary Sail Emblem Design Contest"
     }
 }
