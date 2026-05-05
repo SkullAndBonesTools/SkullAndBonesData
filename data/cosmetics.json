@@ -25195,13 +25195,13 @@
     "keepItFlowing": {
         "id": "keepItFlowing",
         "type": "figureHead",
-        "effect": "emissive",
+        "effect": ["emissive","combatReactive"],
         "set": "bootlegBill",
         "event": "moonshineLarceny",
         "season": "oathsOfWar",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2025-07-22",
-        "lastUpdated": "2025-07-22"
+        "lastUpdated": "2026-05-12"
     },
     "pricelessSecrets": {
         "id": "pricelessSecrets",
@@ -32167,6 +32167,28 @@
         "set": "burningBeast",
         "effect": "emissive",
         "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "countEmTwice": {
+        "id": "countEmTwice",
+        "type": "ornaments",
+        "effect": "emissive",
+        "set": "bootlegBill",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "heraldsOfGold": {
+        "id": "heraldsOfGold",
+        "type": "helmDecor",
+        "set": "bootlegBill",
+        "effect": "emissive",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     }

@@ -22151,6 +22151,18 @@
             "description": {
                 "general": "Hunt every inch of the ocean"
             }
+        },
+        "countEmTwice": {
+            "name": "Count 'Em Twice",
+            "description": {
+                "general": "\"Men rot. Pay me in wine or coin.\""
+            }
+        },
+        "heraldsOfGold": {
+            "name": "Heralds of Gold",
+            "description": {
+                "general": "\"Profit over honor, matey.\""
+            }
         }
     }
 }
