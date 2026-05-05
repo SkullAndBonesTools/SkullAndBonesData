@@ -22073,6 +22073,48 @@
             "description": {
                 "general": "\"Spin the wheel... and watch the rats scatter.\""
             }
+        },
+        "pridemark": {
+            "name": "Pridemark",
+            "description": {
+                "general": "\"Attack my pride... and perish.\""
+            }
+        },
+        "roaringTide": {
+            "name": "Roaring Tide",
+            "description": {
+                "general": "\"None can tell where the storm ends and I begin.\""
+            }
+        },
+        "bloodstiffenedHide": {
+            "name": "Bloodstiffened Hide",
+            "description": {
+                "general": "Stalk your prey through shadow and storm"
+            }
+        },
+        "seaBeastsRevenge": {
+            "name": "Sea Beast's Revenge",
+            "description": {
+                "general": "The struck beast attacks to kill"
+            }
+        },
+        "freshBonewood": {
+            "name": "Fresh Bonewood",
+            "description": {
+                "general": "Prowl the seas, marking your dominion in blood"
+            }
+        },
+        "silvermane": {
+            "name": "Silvermane",
+            "description": {
+                "general": "The hunt begins"
+            }
+        },
+        "preysEnd": {
+            "name": "Prey's End",
+            "description": {
+                "general": "True justice is the law of the jungle"
+            }
         }
     }
 }

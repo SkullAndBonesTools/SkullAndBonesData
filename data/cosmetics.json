@@ -32055,5 +32055,65 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "pridemark": {
+        "id": "pridemark",
+        "type": "sailsEmblem",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "roaringTide": {
+        "id": "roaringTide",
+        "type": "sailsPattern",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bloodstiffenedHide": {
+        "id": "bloodstiffenedHide",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "seaBeastsRevenge": {
+        "id": "seaBeastsRevenge",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "freshBonewood": {
+        "id": "freshBonewood",
+        "type": "hull",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "silvermane": {
+        "id": "silvermane",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "preysEnd": {
+        "id": "preysEnd",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "huntersWrath",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
