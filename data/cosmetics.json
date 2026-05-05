@@ -32201,5 +32201,14 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "aisha": {
+        "id": "aisha",
+        "type": "pet",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

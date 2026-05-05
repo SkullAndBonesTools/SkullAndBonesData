@@ -22169,6 +22169,12 @@
             "description": {
                 "general": "Born of shadow and smoke"
             }
+        },
+        "aisha": {
+            "name": "Aisha",
+            "description": {
+                "general": "Her vibe is contagious. No cure known."
+            }
         }
     }
 }
