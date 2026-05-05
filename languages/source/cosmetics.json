@@ -22163,6 +22163,12 @@
             "description": {
                 "general": "\"Profit over honor, matey.\""
             }
+        },
+        "twilightCloak": {
+            "name": "Twilight Cloak",
+            "description": {
+                "general": "Born of shadow and smoke"
+            }
         }
     }
 }
