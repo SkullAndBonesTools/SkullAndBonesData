@@ -32210,5 +32210,15 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "kingpinsHangover": {
+        "id": "kingpinsHangover",
+        "type": "bombardWeaponSkin",
+        "effect": "emissive",
+        "event": "moonshineLarceny",
+        "season": "shatteredSeas",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

@@ -22175,6 +22175,12 @@
             "description": {
                 "general": "Her vibe is contagious. No cure known."
             }
+        },
+        "kingpinsHangover": {
+            "name": "Kingpin's Hangover",
+            "description": {
+                "general": "\"The best parties end in screams.\""
+            }
         }
     }
 }
