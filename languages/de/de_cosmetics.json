@@ -21780,10 +21780,10 @@
                 "general": "Schwarze Seide, vom Mondlicht geküsst. Flüstert von Romantik und Untergang."
             }
         },
-        "thronsInBloom": {
-            "name": "Blühende Dornen",
+        "thornsInBloom": {
+            "name": "Thorns in Bloom",
             "description": {
-                "general": "Dornen und Blüten winden sich und fangen ihre Beute mit Schönheit und Grausamkeit ein."
+                "general": "Barbs and blossoms coil, binding prey in beauty and cruelty alike"
             }
         },
         "wreathedSkull": {
