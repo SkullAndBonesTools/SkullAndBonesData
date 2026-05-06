@@ -22343,6 +22343,60 @@
             "description": {
                 "general": ""
             }
+        },
+        "windWarrior": {
+            "name": "Wind Warrior",
+            "description": {
+                "general": "Shields you from dust storms and hides your nasty teeth"
+            }
+        },
+        "opalescent": {
+            "name": "Opalescent",
+            "description": {
+                "general": "\"Stared right into the sun, I did!\""
+            }
+        },
+        "privateersPelt": {
+            "name": "Privateer's Pelt",
+            "description": {
+                "general": "Thick fur for thin morals"
+            }
+        },
+        "scrapyardTotems": {
+            "name": "Scrapyard Totems",
+            "description": {
+                "general": "Charms stolen off a foe, a friend and mummy dearest"
+            }
+        },
+        "scrapIronBracer": {
+            "name": "Scrap Iron Bracer",
+            "description": {
+                "general": "Dented, rusted, reliable -- just like the rogue wearin' it"
+            }
+        },
+        "deathsKeeper": {
+            "name": "Death's Keeper",
+            "description": {
+                "general": "Fastened tight, like a jaw that never loosens"
+            }
+        },
+        "chunkyChaps": {
+            "name": "Chunky Chaps",
+            "description": {
+                "general": "A vintage piece from Florentine d'Alesso's first collection"
+            }
+        },
+        "steelstep": {
+            "name": "Steelstep",
+            "description": {
+                "general": "The last thing you want from these is a kick in the chest"
+            }
+        },
+        "survivorsMarks": {
+            "name": "Survivor's Marks",
+            "description": {
+                "general": "Cut deep. Healed poorly. Worn proudly."
+            }
         }
     }
 }

@@ -32457,5 +32457,77 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "windWarrior": {
+        "id": "windWarrior",
+        "type": "faceAccessory",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "opalescent": {
+        "id": "opalescent",
+        "type": "eyeColor",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "privateersPelt": {
+        "id": "privateersPelt",
+        "type": "torso",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "scrapyardTotems": {
+        "id": "scrapyardTotems",
+        "type": "neck",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "scrapIronBracer": {
+        "id": "scrapIronBracer",
+        "type": "forearm",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deathsKeeper": {
+        "id": "deathsKeeper",
+        "type": "waist",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "chunkyChaps": {
+        "id": "chunkyChaps",
+        "type": "bottom",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "steelstep": {
+        "id": "steelstep",
+        "type": "footwear",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "survivorsMarks": {
+        "id": "survivorsMarks",
+        "type": "bodyCosmetics",
+        "set": "wastelandWarrior",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
