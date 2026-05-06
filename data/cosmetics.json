@@ -32538,8 +32538,8 @@
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
-    "windrider": {
-        "id": "windrider",
+    "windriderSP": {
+        "id": "windriderSP",
         "type": "sailsPattern",
         "set": "jadeProwler",
         "obtainable": "ubisoftStore",
