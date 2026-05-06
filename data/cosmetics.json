@@ -32529,5 +32529,64 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "raidersScar": {
+        "id": "raidersScar",
+        "type": "sailsEmblem",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "windrider": {
+        "id": "windrider",
+        "type": "sailsPattern",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bloodiedCanopy": {
+        "id": "bloodiedCanopy",
+        "type": "sailsColor",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "clawsOfConquest": {
+        "id": "clawsOfConquest",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "emeraldWildbark": {
+        "id": "emeraldWildbark",
+        "type": "hull",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "stormHowler": {
+        "id": "stormHowler",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "nightStalker": {
+        "id": "nightStalker",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "jadeProwler",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

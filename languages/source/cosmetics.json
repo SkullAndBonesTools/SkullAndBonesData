@@ -22397,6 +22397,48 @@
             "description": {
                 "general": "Cut deep. Healed poorly. Worn proudly."
             }
+        },
+        "raidersScar": {
+            "name": "Raider's Scar",
+            "description": {
+                "general": ""
+            }
+        },
+        "windrider": {
+            "name": "Windrider",
+            "description": {
+                "general": ""
+            }
+        },
+        "bloodiedCanopy": {
+            "name": "Bloodied Canopy",
+            "description": {
+                "general": ""
+            }
+        },
+        "clawsOfConquest": {
+            "name": "Claws of Conquest",
+            "description": {
+                "general": ""
+            }
+        },
+        "emeraldWildbark": {
+            "name": "Emerald Wildbark",
+            "description": {
+                "general": ""
+            }
+        },
+        "stormHowler": {
+            "name": "Storm Howler",
+            "description": {
+                "general": ""
+            }
+        },
+        "nightStalker": {
+            "name": "Night Stalker",
+            "description": {
+                "general": ""
+            }
         }
     }
 }

@@ -1738,5 +1738,13 @@
     "wastelandWarrior": {
         "id": "wastelandWarrior",
         "type": "player"
+    },
+    "jadeProwler": {
+        "id": "jadeProwler",
+        "type": "ship"
+    },
+    "libertysHorn": {
+        "id": "libertysHorn",
+        "type": "ship"
     }
 }
