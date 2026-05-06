@@ -32654,5 +32654,42 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "markOfRebellion": {
+        "id": "markOfRebellion",
+        "type": "sailsEmblem",
+        "season": "eyeOfTheBeast",
+        "set": "ashesOfAllegiance",
+        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "dateAdded": "2026-05-06",
+        "lastUpdated": "2026-05-06"
+    },
+    "rusttide": {
+        "id": "rusttide",
+        "type": "hull",
+        "season": "eyeOfTheBeast",
+        "set": "ashesOfAllegiance",
+        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "dateAdded": "2026-05-06",
+        "lastUpdated": "2026-05-06"
+    },
+    "wornAllegiance": {
+        "id": "wornAllegiance",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "eyeOfTheBeast",
+        "set": "ashesOfAllegiance",
+        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "dateAdded": "2026-05-06",
+        "lastUpdated": "2026-05-06"
+    },
+    "whisperedRuin": {
+        "id": "whisperedRuin",
+        "type": "sailsPattern",
+        "season": "eyeOfTheBeast",
+        "set": "ashesOfAllegiance",
+        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "dateAdded": "2026-05-06",
+        "lastUpdated": "2026-05-06"
     }
 }
