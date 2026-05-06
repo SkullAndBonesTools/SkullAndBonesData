@@ -32385,5 +32385,77 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "gildcoinTricorne": {
+        "id": "gildcoinTricorne",
+        "type": "headwear",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "beadsOfWisdom": {
+        "id": "beadsOfWisdom",
+        "type": "faceAccessory",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "feverGreen": {
+        "id": "feverGreen",
+        "type": "eyeColor",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "poetsCoat": {
+        "id": "poetsCoat",
+        "type": "torso",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "pendantOfPeril": {
+        "id": "pendantOfPeril",
+        "type": "neck",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "stolenSash": {
+        "id": "stolenSash",
+        "type": "waist",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "oceanEyes": {
+        "id": "oceanEyes",
+        "type": "hand",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "breezyPleats": {
+        "id": "breezyPleats",
+        "type": "bottom",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "suedeStrides": {
+        "id": "suedeStrides",
+        "type": "footwear",
+        "set": "theBohemian",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

@@ -22289,6 +22289,60 @@
             "description": {
                 "general": "\"Only thing better than rum is stolen rum!\""
             }
+        },
+        "gildcoinTricorne": {
+            "name": "Gildcoin Tricorne",
+            "description": {
+                "general": ""
+            }
+        },
+        "beadsOfWisdom": {
+            "name": "Beads of Wisdom",
+            "description": {
+                "general": ""
+            }
+        },
+        "feverGreen": {
+            "name": "Fever Green",
+            "description": {
+                "general": ""
+            }
+        },
+        "poetsCoat": {
+            "name": "Poet's Coat",
+            "description": {
+                "general": ""
+            }
+        },
+        "pendantOfPeril": {
+            "name": "Pendant of Peril",
+            "description": {
+                "general": ""
+            }
+        },
+        "stolenSash": {
+            "name": "Stolen Sash",
+            "description": {
+                "general": ""
+            }
+        },
+        "oceanEyes": {
+            "name": "Ocean Eyes",
+            "description": {
+                "general": ""
+            }
+        },
+        "breezyPleats": {
+            "name": "Breezy Pleats",
+            "description": {
+                "general": ""
+            }
+        },
+        "suedeStrides": {
+            "name": "Suede Strides",
+            "description": {
+                "general": ""
+            }
         }
     }
 }

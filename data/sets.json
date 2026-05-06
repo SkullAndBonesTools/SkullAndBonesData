@@ -1730,5 +1730,13 @@
     "leonasLegend": {
         "id": "leonasLegend",
         "type": "player"
+    },
+    "theBohemian": {
+        "id": "theBohemian",
+        "type": "player"
+    },
+    "wastelandWarrior": {
+        "id": "wastelandWarrior",
+        "type": "player"
     }
 }
