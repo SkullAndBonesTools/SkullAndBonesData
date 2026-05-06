@@ -32588,5 +32588,71 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "warBellow": {
+        "id": "warBellow",
+        "type": "sailsEmblem",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "steelStampede": {
+        "id": "steelStampede",
+        "type": "sailsPattern",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "razorweave": {
+        "id": "razorweave",
+        "type": "sailsColor",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "rebelCharge": {
+        "id": "rebelCharge",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bloodyAnvil": {
+        "id": "bloodyAnvil",
+        "type": "hull",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "hornedOne": {
+        "id": "hornedOne",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theShatteredYoke": {
+        "id": "theShatteredYoke",
+        "type": "wheel",
+        "effect": "emissive",
+        "set": "libertysHorn",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "emberHorn": {
+        "id": "emberHorn",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

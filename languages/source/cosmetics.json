@@ -22439,6 +22439,54 @@
             "description": {
                 "general": ""
             }
+        },
+        "warBellow": {
+            "name": "War Bellow",
+            "description": {
+                "general": "Take up your steel and reclaim the seas"
+            }
+        },
+        "steelStampede": {
+            "name": "Steel Stampede",
+            "description": {
+                "general": "The oceans roar as your cutlass swings"
+            }
+        },
+        "razorweave": {
+            "name": "Razorweave",
+            "description": {
+                "general": "Slice the winds to wreak your revenge"
+            }
+        },
+        "rebelCharge": {
+            "name": "Rebel Charge",
+            "description": {
+                "general": "When the bull charged, none shall stand"
+            }
+        },
+        "bloodyAnvil": {
+            "name": "Bloody Anvil",
+            "description": {
+                "general": "Forged in tears, sweat, and spilled blood"
+            }
+        },
+        "hornedOne": {
+            "name": "Horned One",
+            "description": {
+                "general": "Beware the rage of the chained"
+            }
+        },
+        "theShatteredYoke": {
+            "name": "The Shattered Yoke",
+            "description": {
+                "general": "\"Freedom is our North Star.\""
+            }
+        },
+        "emberHorn": {
+            "name": "Ember Horn",
+            "description": {
+                "general": "The rebellion's fiery roar"
+            }
         }
     }
 }
