@@ -16322,5 +16322,50 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "hullcarver": {
+        "id": "hullcarver",
+        "type": "culverin",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "obtainable": ["smugglerPass","smugglerPassPinnacleStore"],
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 1307,
+        "rateOfFire": 150,
+        "reloadSpeed": 6000,
+        "optimalRange": 600,
+        "projectileSpeed": 210,
+        "perks": [
+            "pulverize",
+            "piercing3"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "atmasToll": {
+        "id": "atmasToll",
+        "type": "demicannon",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "event": "moonshineLarceny",
+        "obtainable": ["accountLedgerSainteAnne"],
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 4,
+        "damagePerShot": 328,
+        "rateOfFire": 0,
+        "reloadSpeed": 3500,
+        "optimalRange": 400,
+        "projectileSpeed": 400,
+        "perks": [
+            "mysticMend",
+            "burning2"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

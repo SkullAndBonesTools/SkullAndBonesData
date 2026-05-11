@@ -3134,6 +3134,18 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "hullcarver": {
+            "name": "Hullcarver",
+            "description": {
+                "general": "A high fire-rate weapon that devastates targets with multiple shots."
+            }
+        },
+        "atmasToll": {
+            "name": "Atma's Toll",
+            "description": {
+                "general": "Inscribed with an ancient mystical script, this sinister weapon is capable of reaving its enemies while restoring its master."
+            }
         }
     }
 }

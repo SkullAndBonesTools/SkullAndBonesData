@@ -3196,6 +3196,24 @@
                     "Increases Brace Strength Recovery by 25%"
                 ]
             }
+        },
+        "pulverize": {
+            "name": "Pulverize",
+            "description": {
+                "general": [
+                    "After landing 6 consecutive hits, increase this weapon's damage by 12% for 25s. If the target is Punctured, hits increase weapon damage up to 18% instead",
+                    "Missing a hit removes this effect"
+                ]
+            }
+        },
+        "mysticMend": {
+            "name": "Mystic Mend",
+            "description": {
+                "general": [
+                    "Heals for 10% of damage dealt",
+                    "Hitting 16 projectiles in one salvo increases mending amount received from this weapon to 35% for 16s"
+                ]
+            }
         }
     }
 }
