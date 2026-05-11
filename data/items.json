@@ -16367,5 +16367,28 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "blightbearer": {
+        "id": "blightbearer",
+        "type": "longGun",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 2050,
+        "rateOfFire": 600,
+        "reloadSpeed": 7200,
+        "optimalRange": 1000,
+        "projectileSpeed": 350,
+        "perks": [
+            "sickly",
+            "toxic2",
+            "piercing1"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

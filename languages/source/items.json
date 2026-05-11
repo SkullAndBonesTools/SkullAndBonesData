@@ -3146,6 +3146,12 @@
             "description": {
                 "general": "Inscribed with an ancient mystical script, this sinister weapon is capable of reaving its enemies while restoring its master."
             }
+        },
+        "blightbearer": {
+            "name": "Blightbearer",
+            "description": {
+                "general": "A precise Poison weapon, prized by La Peste's lackeys for its strength against fortified ships."
+            }
         }
     }
 }

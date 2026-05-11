@@ -823,6 +823,7 @@
         "toxic": {
             "name": "Toxic",
             "description": {
+                "2": "Adds 20% of damage as Toxic Damage",
                 "3": "Adds 30% of damage as Toxic Damage"
             }
         },
@@ -3212,6 +3213,15 @@
                 "general": [
                     "Heals for 10% of damage dealt",
                     "Hitting 16 projectiles in one salvo increases mending amount received from this weapon to 35% for 16s"
+                ]
+            }
+        },
+        "sickly": {
+            "name": "Sickly",
+            "description": {
+                "general": [
+                    "For each 1% Brace Strength missing from the target, deal 0.5% more weapon damage with this weapon up to 15%",
+                    "If the target is Poisoned, gain an extra 30%"
                 ]
             }
         }
