@@ -3158,6 +3158,12 @@
             "description": {
                 "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
             }
+        },
+        "deBreker": {
+            "name": "De Breker",
+            "description": {
+                "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
+            }
         }
     }
 }

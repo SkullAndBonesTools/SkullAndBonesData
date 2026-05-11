@@ -3232,6 +3232,15 @@
                     "20% of damage dealt restores Hull Health, increasing by 20% for every additional target within the impact radius, up to a maximum of 60%"
                 ]
             }
+        },
+        "oceansSnare": {
+            "name": "Ocean's Snare",
+            "description": {
+                "general": [
+                    "Hits from this weapon reduce the target's sailing speed by an additional 12% when they are Flooded",
+                    "Hits on stationary targets or targets affected by Flooded or Torn Sails status deal 60% more damage"
+                ]
+            }
         }
     }
 }

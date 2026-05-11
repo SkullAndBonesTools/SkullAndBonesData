@@ -16415,5 +16415,31 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "deBreker": {
+        "id": "deBreker",
+        "type": "mortar",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "obtainable": "dominionWarEffortReward",
+        "value": 1,
+        "weight": 1000,
+        "gearScore": 91,
+        "projectilesPerShot": 1,
+        "damagePerShot": 10660,
+        "rateOfFire": 0,
+        "reloadSpeed": 20000,
+        "optimalRange": 600,
+        "timeToTarget": 5750,
+        "blastRadius": 50,
+        "required": {},
+        "perks": [
+            "oceansSnare",
+            "flooding3",
+            "blast",
+            "noDefaultCrit"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
