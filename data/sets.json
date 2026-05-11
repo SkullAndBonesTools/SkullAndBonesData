@@ -1750,5 +1750,29 @@
     "ashesOfAllegiance": {
         "id": "ashesOfAllegiance",
         "type": "ship"
+    },
+    "theGunSaint": {
+        "id": "theGunSaint",
+        "type": "ship"
+    },
+    "exileRoyal": {
+        "id": "exileRoyal",
+        "type": "ship"
+    },
+    "hellfireReign": {
+        "id": "hellfireReign",
+        "type": "ship"
+    },
+    "cursedDjinns": {
+        "id": "cursedDjinns",
+        "type": "ship"
+    },
+    "renegadeRoyale": {
+        "id": "renegadeRoyale",
+        "type": "player"
+    },
+    "demonKing": {
+        "id": "demonKing",
+        "type": "player"
     }
 }

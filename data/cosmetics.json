@@ -32691,5 +32691,448 @@
         "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
         "dateAdded": "2026-05-06",
         "lastUpdated": "2026-05-06"
+    },
+    "johnnyBlue": {
+        "id": "johnnyBlue",
+        "type": "pet",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "hairlessHenrietta": {
+        "id": "hairlessHenrietta",
+        "type": "pet",
+        "season": "shatteredSeas",
+        "obtainable": [["premiumPass","smugglerPassFinalReward"]],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deathsHalo": {
+        "id": "deathsHalo",
+        "type": "sailsEmblem",
+        "set": "theGunSaint",
+        "season": "shatteredSeas",
+        "obtainable": [["premiumPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bonecharkOak": {
+        "id": "bonecharkOak",
+        "type": "hull",
+        "set": "theGunSaint",
+        "season": "shatteredSeas",
+        "obtainable": [["premiumPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "soulsShroud": {
+        "id": "soulsShroud",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "set": "theGunSaint",
+        "season": "shatteredSeas",
+        "obtainable": [["premiumPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "sermonOfAsh": {
+        "id": "sermonOfAsh",
+        "type": "sailsPattern",
+        "set": "theGunSaint",
+        "season": "shatteredSeas",
+        "obtainable": [["premiumPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "nightMaresStrike": {
+        "id": "nightMaresStrike",
+        "type": "figureHead",
+        "effect": "emissive",
+        "set": "exileRoyal",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "silkBlade": {
+        "id": "silkBlade",
+        "type": "nameplate",
+        "effect": "emissive",
+        "set": "exileRoyal",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theWildGlory": {
+        "id": "theWildGlory",
+        "type": "trophy",
+        "effect": "emissive",
+        "set": "exileRoyal",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theStormingSteed": {
+        "id": "theStormingSteed",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "exileRoyal",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "renegadesPlate": {
+        "id": "renegadesPlate",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "exileRoyal",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "midnightMane": {
+        "id": "midnightMane",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "exileRoyal",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "shadowCharge": {
+        "id": "shadowCharge",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "exileRoyal",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wrathOfHell": {
+        "id": "wrathOfHell",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "daimon": {
+        "id": "daimon",
+        "type": "nameplate",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theInfernalMaws": {
+        "id": "theInfernalMaws",
+        "type": "ornaments",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "burningOath": {
+        "id": "burningOath",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "tidesOfAsh": {
+        "id": "tidesOfAsh",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "emberblood": {
+        "id": "emberblood",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "pyrebound": {
+        "id": "pyrebound",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "hellfireReign",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "driftwoodPhantom": {
+        "id": "driftwoodPhantom",
+        "type": "figureHead",
+        "upgrades": ["moonlitPhantom","gildedPhantom"],
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "moonlitPhantom": {
+        "id": "moonlitPhantom",
+        "type": "figureHead",
+        "effect": "emissive",
+        "tier": 1,
+        "basic": "driftwoodPhantom",
+        "upgrades": ["gildedPhantom"],
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "gildedPhantom": {
+        "id": "gildedPhantom",
+        "type": "figureHead",
+        "effect": ["emissive","combatReactive"],
+        "tier": 2,
+        "basic": "driftwoodPhantom",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "jinni": {
+        "id": "jinni",
+        "type": "nameplate",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "eyeOfTheDjinn": {
+        "id": "eyeOfTheDjinn",
+        "type": "wheel",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "midnightMirage": {
+        "id": "midnightMirage",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theEternalSpectre": {
+        "id": "theEternalSpectre",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wraithshade": {
+        "id": "wraithshade",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "fiendOfTheSeas": {
+        "id": "fiendOfTheSeas",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "cursedDjinns",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "traitorsCinch": {
+        "id": "traitorsCinch",
+        "type": "waist",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "breakawayBandit": {
+        "id": "breakawayBandit",
+        "type": "forearm",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "rebelsight": {
+        "id": "rebelsight",
+        "type": "faceAccessory",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "garnetsAndGoldust": {
+        "id": "garnetsAndGoldust",
+        "type": "hand",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bicorneNoir": {
+        "id": "bicorneNoir",
+        "type": "headwear",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "aRoguesLuck": {
+        "id": "aRoguesLuck",
+        "type": "neck",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "pilferedPants": {
+        "id": "pilferedPants",
+        "type": "bottom",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "blackstep": {
+        "id": "blackstep",
+        "type": "footwear",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "liarsFlair": {
+        "id": "liarsFlair",
+        "type": "torso",
+        "set": "renegadeRoyale",
+        "season": "shatteredSeas",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "raidersWrath": {
+        "id": "raidersWrath",
+        "type": "waist",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "infernalLeather": {
+        "id": "infernalLeather",
+        "type": "forearm",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "perilsPrize": {
+        "id": "perilsPrize",
+        "type": "headwear",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "theDevilsTeeth": {
+        "id": "theDevilsTeeth",
+        "type": "neck",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "scorchedBottoms": {
+        "id": "scorchedBottoms",
+        "type": "bottom",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "killersKickers": {
+        "id": "killersKickers",
+        "type": "footwear",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "silkenRogue": {
+        "id": "silkenRogue",
+        "type": "torso",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "sevenHells": {
+        "id": "sevenHells",
+        "type": "bodyCosmetics",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "firesight": {
+        "id": "firesight",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "demonKing",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

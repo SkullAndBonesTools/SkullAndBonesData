@@ -22511,6 +22511,288 @@
             "description": {
                 "general": "Chaos stitched into every gust"
             }
+        },
+        "johnnyBlue": {
+            "name": "Johnny Blue",
+            "description": {
+                "general": "This azure macaw has plenty of pirate gossip to share"
+            }
+        },
+        "hairlessHenrietta": {
+            "name": "Hairless Henrietta",
+            "description": {
+                "general": "Always keeps her pistols loaded and skin moisturised"
+            }
+        },
+        "deathsHalo": {
+            "name": "Death's Halo",
+            "description": {
+                "general": "No faith truer than that in a loaded cannon"
+            }
+        },
+        "bonecharkOak": {
+            "name": "Bonechark Oak",
+            "description": {
+                "general": "Scatter the ashes of your enemies"
+            }
+        },
+        "soulsShroud": {
+            "name": "Souls' Shroud",
+            "description": {
+                "general": "Whisper your foes' last rites to the wind"
+            }
+        },
+        "sermonOfAsh": {
+            "name": "Sermon of Ash",
+            "description": {
+                "general": "\"Kneel before the broadside, and say your prayers.\""
+            }
+        },
+        "nightMaresStrike": {
+            "name": "Night Mare's Strike",
+            "description": {
+                "general": "None can outrun a nightmare"
+            }
+        },
+        "silkBlade": {
+            "name": "Silk Blade",
+            "description": {
+                "general": "The quietest cuts run deepest"
+            }
+        },
+        "theWildGlory": {
+            "name": "The Wild Glory",
+            "description": {
+                "general": "Honor rides with the untamed"
+            }
+        },
+        "theStormingSteed": {
+            "name": "The Storming Steed",
+            "description": {
+                "general": "Power belongs to those who seize it"
+            }
+        },
+        "renegadesPlate": {
+            "name": "Renegade's Plate",
+            "description": {
+                "general": "In a storm, trust only your own two hands"
+            }
+        },
+        "midnightMane": {
+            "name": "Midnight Mane",
+            "description": {
+                "general": "True power thrives in the dark"
+            }
+        },
+        "shadowCharge": {
+            "name": "Shadow Charge",
+            "description": {
+                "general": "\"I am the thunder on the horizon.\""
+            }
+        },
+        "wrathOfHell": {
+            "name": "Wrath of Hell",
+            "description": {
+                "general": "\"Bow to my flame, or swim with the damned.\""
+            }
+        },
+        "daimon": {
+            "name": "Daimon",
+            "description": {
+                "general": "\"All paths lead to me.\""
+            }
+        },
+        "theInfernalMaws": {
+            "name": "The Infernal Maws",
+            "description": {
+                "general": "No scent as sweet as a foe's charred flesh"
+            }
+        },
+        "burningOath": {
+            "name": "Burning Oath",
+            "description": {
+                "general": "To break an oath is to burn"
+            }
+        },
+        "tidesOfAsh": {
+            "name": "Tides of Ash",
+            "description": {
+                "general": "The road to power is paved with traitors' corpses"
+            }
+        },
+        "emberblood": {
+            "name": "Emberblood",
+            "description": {
+                "general": "Do not flee the fire. Become it."
+            }
+        },
+        "pyrebound": {
+            "name": "Pyrebound",
+            "description": {
+                "general": "Fire crowns the fearless"
+            }
+        },
+        "driftwoodPhantom": {
+            "name": "Driftwood Phantom",
+            "description": {
+                "general": "The path to vengeance is lit by cunning"
+            }
+        },
+        "moonlitPhantom": {
+            "name": "Moonlit Phantom",
+            "description": {
+                "general": "Nothing can kill what belongs to death"
+            }
+        },
+        "gildedPhantom": {
+            "name": "Gilded Phantom",
+            "description": {
+                "general": "Nothing pierces hearts like cold, hard gold"
+            }
+        },
+        "jinni": {
+            "name": "Jinni",
+            "description": {
+                "general": "\"Death failed. Magic endured. I am eternal.\""
+            }
+        },
+        "eyeOfTheDjinn": {
+            "name": "Eye of the Djinn",
+            "description": {
+                "general": "It finds all, curses all, reaps all"
+            }
+        },
+        "midnightMirage": {
+            "name": "Midnight Mirage",
+            "description": {
+                "general": "Sorcery and royal blood make such pretty paint"
+            }
+        },
+        "theEternalSpectre": {
+            "name": "The Eternal Spectre",
+            "description": {
+                "general": "Death is only the beginning..."
+            }
+        },
+        "wraithshade": {
+            "name": "Wraithshade",
+            "description": {
+                "general": "No chains. No masters. Only your blade and the sea."
+            }
+        },
+        "fiendOfTheSeas": {
+            "name": "Fiend of the Seas",
+            "description": {
+                "general": "Driven by phantom winds and endless screams"
+            }
+        },
+        "traitorsCinch": {
+            "name": "Traitor's Cinch",
+            "description": {
+                "general": "Buckled the night an officer broke their oath"
+            }
+        },
+        "breakawayBandit": {
+            "name": "Breakaway Bandit",
+            "description": {
+                "general": "Feed no one's coffers but your own"
+            }
+        },
+        "rebelsight": {
+            "name": "Rebelsight",
+            "description": {
+                "general": "For eyes that learned to see beyond the banner"
+            }
+        },
+        "garnetsAndGoldust": {
+            "name": "Garnets and Goldust",
+            "description": {
+                "general": "Rings paid in blood and stolen pay"
+            }
+        },
+        "bicorneNoir": {
+            "name": "Bicorne Noir",
+            "description": {
+                "general": "Worn by a pirate who answered to no court"
+            }
+        },
+        "aRoguesLuck": {
+            "name": "A Rogue's Luck",
+            "description": {
+                "general": "Fortune earned through betrayal, not prayer"
+            }
+        },
+        "pilferedPants": {
+            "name": "Pilfered Pants",
+            "description": {
+                "general": "Smooth -- like a deserter sneaking off at dawn"
+            }
+        },
+        "blackstep": {
+            "name": "Blackstep",
+            "description": {
+                "general": "\"You'd wise to refuse the straight path.\""
+            }
+        },
+        "liarsFlair": {
+            "name": "Liar's Flair",
+            "description": {
+                "general": "Soft black leather, intricate stitches and silent heels"
+            }
+        },
+        "raidersWrath": {
+            "name": "Raider's Wrath",
+            "description": {
+                "general": "A stylish belt for all your demonic belongings"
+            }
+        },
+        "infernalLeather": {
+            "name": "Infernal Leather",
+            "description": {
+                "general": "This season's hottest, must-have item!"
+            }
+        },
+        "perilsPrize": {
+            "name": "Peril's Prize",
+            "description": {
+                "general": "\"Traded my soul for this bloody hat!\""
+            }
+        },
+        "theDevilsTeeth": {
+            "name": "The Devil's Teeth",
+            "description": {
+                "general": "Scratches when you put it on, screams when you take it off"
+            }
+        },
+        "scorchedBottoms": {
+            "name": "Scorched Bottoms",
+            "description": {
+                "general": "\"Can't call yerself a pirate if yet butt ain't sweaty.\""
+            }
+        },
+        "killersKickers": {
+            "name": "Killer's Kickers",
+            "description": {
+                "general": "There's still a smidge of blood on the heels"
+            }
+        },
+        "silkenRogue": {
+            "name": "Silken Rogue",
+            "description": {
+                "general": "\"No amount of finery can hide your cold, black heart.\""
+            }
+        },
+        "sevenHells": {
+            "name": "Seven Hells",
+            "description": {
+                "general": "A reminder that you've braved hell and back"
+            }
+        },
+        "firesight": {
+            "name": "Firesight",
+            "description": {
+                "general": "A glare so furious, it sets everything ablaze"
+            }
         }
     }
 }
