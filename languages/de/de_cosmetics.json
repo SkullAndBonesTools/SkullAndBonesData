@@ -21781,9 +21781,9 @@
             }
         },
         "thornsInBloom": {
-            "name": "Thorns in Bloom",
+            "name": "Blühende Dornen",
             "description": {
-                "general": "Barbs and blossoms coil, binding prey in beauty and cruelty alike"
+                "general": "Dornen und Blüten winden sich und fangen ihre Beute mit Schönheit und Grausamkeit ein."
             }
         },
         "wreathedSkull": {
@@ -21802,6 +21802,30 @@
             "name": "Oranje-Winde",
             "description": {
                 "general": "Eine flammende Aura, die eines NHG-Sieges würdig ist."
+            }
+        },
+        "markOfRebellion": {
+            "name": "Zeichen der Rebellion",
+            "description": {
+                "general": "Schädel, Stahl und Sand - die Zeit der Könige läuft ab."
+            }
+        },
+        "rusttide": {
+            "name": "Rostige Wellen",
+            "description": {
+                "general": "Warme Farbtöne für diejenigen, die das verblasste Licht suchen."
+            }
+        },
+        "wornAllegiance": {
+            "name": "Getragene Zugehörigkeit",
+            "description": {
+                "general": "Verblasste Mäntel von denen, die die Gezeiten verändern."
+            }
+        },
+        "whisperedRuin": {
+            "name": "Geflüster des Untergangs",
+            "description": {
+                "general": "Chaos, das in jeden Windstoß eingewoben ist."
             }
         }
     }
