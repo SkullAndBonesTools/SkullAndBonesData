@@ -21803,6 +21803,30 @@
             "description": {
                 "general": "A flaming aura worthy of a DMC win"
             }
+        },
+        "markOfRebellion": {
+            "name": "Mark of Rebellion",
+            "description": {
+                "general": "Skull, steel, and sand -- time runs out for kings"
+            }
+        },
+        "rusttide": {
+            "name": "Rusttide",
+            "description": {
+                "general": "Lukewarm tones for those chasing the faded light"
+            }
+        },
+        "wornAllegiance": {
+            "name": "Worn Allegiance",
+            "description": {
+                "general": "Faded coats from those who change tides"
+            }
+        },
+        "whisperedRuin": {
+            "name": "Whispered Ruin",
+            "description": {
+                "general": "Chaos stitched into every gust"
+            }
         }
     }
 }
