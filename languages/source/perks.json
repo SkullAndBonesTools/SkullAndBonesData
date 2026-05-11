@@ -3257,6 +3257,49 @@
                     "Bracing hits from Punctured targets increases Armor Rating by 5% up to 15% and Piercing Weapon damage by 3% up to 9% for 30s"
                 ]
             }
+        },
+        "drownedOrgan": {
+            "description": {
+                "general": [
+                    "Mending Weapons deal 20% more weapon damage while your ship is below 60% Hull Health",
+                    "Mending Weapons gain 1% Secondary Damage per 1% Hull Health missing up to 30%",
+                    "Increases Max Hull Health by 1% per Mending weapon equipped"
+                ]
+            }
+        },
+        "royalRammingWorks": {
+            "description": {
+                "general": [
+                    "Ramming instantly builds 50% of the Punctured status effect on the target, and additionally causes the target to slow down by 20% for 20s",
+                    "If the target is Punctured, it will receive 15% more damage from Piercing weapons",
+                    "Targets within 250m receive 7% more Punctured status charge"
+                ]
+            }
+        },
+        "floodwardenStation": {
+            "description": {
+                "general": [
+                    "Each consecutive hit increases Flooding charges applied by 2% and damage dealt by 2%, stacking up to a maximum of 20% for each effect. Missing a shot will reset the stacks",
+                    "Take 10% less weapon damage from enemies afflicted with Flooded",
+                    "Increases duration of the Flooded status effect on a target by 10%"
+                ]
+            }
+        },
+        "hullMarkersTable": {
+            "description": {
+                "general": [
+                    "Broadside weapon hits have a 5% chance to apply an Impact Mark. Affected targets receive 20% more damage from every cannonball ammo for 20s",
+                    "For every Cannonball ammo weapon equipped, Secondary Damage of equipped weapons increases by 5%"
+                ]
+            }
+        },
+        "physiciansLedger": {
+            "description": {
+                "general": [
+                    "Increases Secondary Damage dealt by Mending Weapons by 8% per consecutive hit up to 35% for 5s",
+                    "Increases Projectile Speed of Mending Weapons by 12%"
+                ]
+            }
         }
     }
 }

@@ -16491,5 +16491,82 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "drownedOrgan": {
+        "id": "drownedOrgan",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "event": ["theHonorless","darktideLullaby","moonshineLarceny"],
+        "obtainable": ["theHelmEvent","darktideAltarTelokPenjarah","accountLedgerSainteAnne"],
+        "perks": [
+            "drownedOrgan"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "royalRammingWorks": {
+        "id": "royalRammingWorks",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "dominionWarEffortReward",
+        "perks": [
+            "royalRammingWorks"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "floodwardenStation": {
+        "id": "floodwardenStation",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "perks": [
+            "floodwardenStation"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "hullMarkersTable": {
+        "id": "hullMarkersTable",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "smugglerPass",
+        "perks": [
+            "hullMarkersTable"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "physiciansLedger": {
+        "id": "physiciansLedger",
+        "type": "offensiveFurniture",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 80,
+        "gearScore": 25,
+        "event": "moonshineLarceny",
+        "obtainable": "accountLedgerSainteAnne",
+        "perks": [
+            "physiciansLedger"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

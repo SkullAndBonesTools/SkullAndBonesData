@@ -3176,6 +3176,36 @@
             "description": {
                 "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
             }
+        },
+        "drownedOrgan": {
+            "name": "Drowned Organ",
+            "description": {
+                "general": "Enhances Mending weapons while the ship is at lower Hull Health. An ancient organ crafted from rust-caked pipes, found in the bowels of a Compagnie warship."
+            }
+        },
+        "royalRammingWorks": {
+            "name": "Royal Ramming Works",
+            "description": {
+                "general": "A ramming-focused royal armament that rapidly builds Punctured status, slows targets, amplifies piercing damage, and passivly weakens nearby enemies."
+            }
+        },
+        "floodwardenStation": {
+            "name": "Floodwarden Station",
+            "description": {
+                "general": "Consecutive hits increase Flooding and damage. Missing resets stacks. Flooded enemies deal less damage and remain flooded longer."
+            }
+        },
+        "hullMarkersTable": {
+            "name": "Hull Marker's Table",
+            "description": {
+                "general": "Broadside hits may leave an Impact Mark, turning the target into a damage magnet for cannon fire. Marked hulls take increased cannonball damage, while every cannonball weapon aboard quietly boosts your secondary damage."
+            }
+        },
+        "physiciansLedger": {
+            "name": "Physician's Ledger",
+            "description": {
+                "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
+            }
         }
     }
 }
