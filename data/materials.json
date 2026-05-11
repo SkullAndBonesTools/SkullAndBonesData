@@ -934,5 +934,9 @@
             "deepIron": 5,
             "masterworkKit": 1
         }
+    },
+    "nightshadePearl": {
+        "rarity": "epic",
+        "category": "specialized"
     }
 }
