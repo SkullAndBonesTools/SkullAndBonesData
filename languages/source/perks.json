@@ -3140,6 +3140,62 @@
                     "Consecutive hits on the same target also restores Brace Strength by 2% per hit"
                 ]
             }
+        },
+        "ironThunder": {
+            "name": "Iron Thunder",
+            "description": {
+                "general": [
+                    "This ship gains a second row of lower deck weaponry",
+                    "Weapons equipped will deal 10% more weapon damage within 350m",
+                    "This ship gradually charges the status \"Iron Thunder\" over 1.5 seconds when it is not reloading any non-auxiliary weapon, which increases damage dealt by 65%. \"Iron Thunder\" is removed after 3 seconds on damage dealt to targets",
+                    "Allied XSML, SML and MED ships within 500m gain 10% increased damage for 30s while \"Iron Thunder\" is active"
+                ]
+            }
+        },
+        "redWake": {
+            "name": "Red Wake",
+            "description": {
+                "general": [
+                    "Increase damage dealt to targets within 250m by 35% when \"Iron Thunder\" is active",
+                    "On fully charging \"Iron Thunder\" or upon destroying a target, confer \"Red Wake\" status on your ship, which increases top speed by 50% for 15 seconds"
+                ]
+            }
+        },
+        "galleonUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 93600",
+                    "Increases Brace Strength to 18720"
+                ],
+                "2": [
+                    "Increases Cargo to 190000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 13kn",
+                    "Increases Trimming Speed to 17kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 105930",
+                    "Increases Brace Strength to 21186"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Red Wake' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 116523",
+                    "Increases Brace Strength to 23304",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
         }
     }
 }

@@ -943,5 +943,64 @@
         "perks": ["colossal","abundantGunports","flagbearer"],
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "galleon": {
+        "id": "galleon",
+        "size": "large",
+        "type": "ships",
+        "archetype": "dps",
+        "blueprint": "smugglerPass45Reward",
+        "season": "shatteredSeas",
+        "hitpoints": 90000,
+        "braceStrength": 18000,
+        "braceStrengthRecovery": 1,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 5,
+            "fullSail": 10,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 100,
+            "cargoMaxWeight": 160000
+        },
+        "required": {
+            "magnetiteIngot": 15,
+            "wormDrive": 15,
+            "precisionDrillingBit": 10,
+            "torsionSpring": 10,
+            "xanthousStone": 5,
+            "deepIron": 10,
+            "orcaIntricateApparatus": 1,
+            "eelSturdyRopes": 1,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": [1,1],
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "leftSideWeapon": [1,{
+                "top": 6,
+                "lower": 11
+            }],
+            "rightSideWeapon": [1,{
+                "top": 6,
+                "lower": 11
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": [1,{
+                "top": 2
+            }],
+            "furniture": [5,1],
+            "ultimate": [1,1]
+        },
+        "perks": ["colossal","abundantGunports","ironThunder"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

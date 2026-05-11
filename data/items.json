@@ -16137,5 +16137,190 @@
         },
         "dateAdded": "2026-04-20",
         "lastUpdated": "2026-04-20"
+    },
+    "galleonUpgrade1": {
+        "id": "galleonUpgrade1",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 1,
+        "value": 1,
+        "required": {
+            "rubber": 15,
+            "greenheartPlank": 15,
+            "purifiedSaltpeter": 10,
+            "deepIron": 30,
+            "upgradeParts": 6,
+            "silver": 18000
+        },
+        "perks": [
+            "galleonUpgrade1"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade2": {
+        "id": "galleonUpgrade2",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 2,
+        "value": 1,
+        "required": {
+            "gannetsSaltpeter": 8,
+            "whiteAriaShipPart": 4,
+            "yellowDragonBanner": 5,
+            "deepIron": 35,
+            "upgradeParts": 8,
+            "silver": 25000
+        },
+        "perks": [
+            "galleonUpgrade2"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade3": {
+        "id": "galleonUpgrade3",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 3,
+        "value": 1,
+        "required": {
+            "azureDragonHead": 5,
+            "precisionDrillingBit": 10,
+            "screwMechanism": 20,
+            "deepIron": 35,
+            "upgradeParts": 10,
+            "piecesOfEight": 1250
+        },
+        "perks": [
+            "galleonUpgrade3",
+            "deepBlue"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade4": {
+        "id": "galleonUpgrade4",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 4,
+        "value": 1,
+        "required": {
+            "orcasMechanism": 5,
+            "cogwheel": 10,
+            "zincIngot": 15,
+            "deepIron": 40,
+            "upgradeParts": 12,
+            "monstrousTooth": 5,
+            "piecesOfEight": 4000
+        },
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03,
+            "toxic": 0
+        },
+        "perks": [
+            "galleonUpgrade4"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade5": {
+        "id": "galleonUpgrade5",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 5,
+        "value": 1,
+        "required": {
+            "phoenixPinion": 8,
+            "purifiedSaltpeter": 15,
+            "sinewString": 12,
+            "precisionDrillingBit": 12,
+            "deepIronPlates": 5,
+            "upgradeParts": 12,
+            "piecesOfEight": 6500
+        },
+        "damageMitigation": {
+            "explosive": 0.1,
+            "flooding": 0,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.03,
+            "electric": 0.03,
+            "toxic": 0
+        },
+        "perks": [
+            "galleonUpgrade5"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade6": {
+        "id": "galleonUpgrade6",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 6,
+        "value": 1,
+        "required": {
+            "planetaryGearset": 15,
+            "lightningDragonClaw": 8,
+            "gannetsSaltpeter": 5,
+            "eelSturdyRopes": 3,
+            "deepIronPlates": 7,
+            "upgradeParts": 14,
+            "etherealAshes": 5,
+            "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0.15,
+            "flooding": 0.05,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.05,
+            "toxic": 0
+        },
+        "perks": [
+            "galleonUpgrade6",
+            "redWake"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "galleonUpgrade7": {
+        "id": "galleonUpgrade7",
+        "type": "shipUpgrade",
+        "season": "shatteredSeas",
+        "tier": 7,
+        "value": 1,
+        "required": {
+            "xanthousGemstone": 5,
+            "hubacHeirloom": 15,
+            "putrefiedLestariSkin": 5,
+            "deepIronPlates": 10,
+            "upgradeParts": 14,
+            "masterworkKit": 3,
+            "vengefulEssence": 10,
+            "piecesOfEight": 15000,
+            "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0.2,
+            "flooding": 0.1,
+            "fire": 0,
+            "tearing": 0,
+            "piercing": 0.15,
+            "electric": 0.1,
+            "toxic": 0
+        },
+        "perks": [
+            "galleonUpgrade7"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
