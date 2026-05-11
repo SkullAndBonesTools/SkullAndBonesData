@@ -3164,6 +3164,18 @@
             "description": {
                 "general": "A heavy bombardment weapon, coveted by the Dutch for its devastating fire and ability to slow down enemies."
             }
+        },
+        "floodbound": {
+            "name": "Floodbound",
+            "description": {
+                "general": "A portion of weapon damage dealt to the Brace Health of nearby Flooded targets is converted back into Hull Health, turning any surrounding chaos and rising water into a steady source of recovery."
+            }
+        },
+        "needleShield": {
+            "name": "Needle Shield",
+            "description": {
+                "general": "Bracing against hits from Punctured targets strengthens your defenses and Piercing weapon damage for a short time with this armor, which uses your enemy's weakness to boost your own protection."
+            }
         }
     }
 }
