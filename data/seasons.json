@@ -59,7 +59,7 @@
         "index": 8,
         "id": "eyeOfTheBeast",
         "startDate": "2026-02-10",
-        "endDate": "2026-05-12",
+        "endDate": "2026-05-11",
         "color": "#0CAEA6"
     },
     "shatteredSeas": {
@@ -67,6 +67,6 @@
         "id": "shatteredSeas",
         "startDate": "2026-05-12",
         "endDate": "2026-08-18",
-        "color": "#FFFFFF"
+        "color": "#D4A734"
     }
 }
