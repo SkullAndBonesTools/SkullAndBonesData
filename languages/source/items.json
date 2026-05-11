@@ -3152,6 +3152,12 @@
             "description": {
                 "general": "A precise Poison weapon, prized by La Peste's lackeys for its strength against fortified ships."
             }
+        },
+        "soulsnatcher": {
+            "name": "Soulsnatcher",
+            "description": {
+                "general": "Recovers Hull Health depending on how many enemies hit with a single projectile. A cursed weapon forged in the forgotten rituals of the Fara."
+            }
         }
     }
 }

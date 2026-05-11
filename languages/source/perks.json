@@ -3224,6 +3224,14 @@
                     "If the target is Poisoned, gain an extra 30%"
                 ]
             }
+        },
+        "hauntingMend": {
+            "name": "Haunting Mend",
+            "description": {
+                "general": [
+                    "20% of damage dealt restores Hull Health, increasing by 20% for every additional target within the impact radius, up to a maximum of 60%"
+                ]
+            }
         }
     }
 }
