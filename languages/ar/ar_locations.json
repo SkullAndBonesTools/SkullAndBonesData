@@ -161,6 +161,7 @@
         "williamBlackwoodRotatingStoreOathsOfWar": "Is/was purchasable at William Blackwood's rotating store during {{oathsOfWar}}",
         "williamBlackwoodRotatingStoreGutsAndGlory": "Is/was purchasable at William Blackwood's rotating store during {{gutsAndGlory}}",
         "williamBlackwoodRotatingStoreEyeOfTheBeast": "Is/was purchasable at William Blackwood's rotating store during {{eyeOfTheBeast}}",
+        "williamBlackwoodRotatingStoreShatteredSeas": "Is/was purchasable at William Blackwood's rotating store during {{shatteredSeas}}",
         "ungwanaConvoyTreasureChest": "Possible drop of Ungwana Treasure Chest (obtained when defeating ships of an Ungwana Merchant Convoy)",
         "rempahConvoyTreasureChest": "Possible drop of Rempah Treasure Chest (obtained when defeating ships of an Rempah Merchant Convoy)",
         "faraConvoyTreasureChest": "Possible drop of Fara Treasure Chest (obtained when defeating ships of an Fara Merchant Convoy)",
@@ -197,6 +198,7 @@
         "williamBlackwoodSeasonalItemOathsOfWar": "Is/was purchasable as seasonal item in William Blackwood's store during {{oathsOfWar}}",
         "williamBlackwoodSeasonalItemGutsAndGlory": "Is/was purchasable as seasonal item in William Blackwood's store during {{gutsAndGlory}}",
         "williamBlackwoodSeasonalItemEyeOfTheBeast": "Is/was purchasable as seasonal item in William Blackwood's store during {{eyeOfTheBeast}}",
+        "williamBlackwoodSeasonalItemShatteredSeas": "Is/was purchasable as seasonal item in William Blackwood's store during {{shatteredSeas}}",
         "corruptCompagnieOfficerOutpost": "Corrupt Compagnie Officer at several Outposts",
         "corruptDmcOfficerOutpost": "Corrupt DMC Officer at several Outposts",
         "ungwanaMerchantOutpost": "Ungwana Merchant at several Outposts",
@@ -250,6 +252,12 @@
         "retributionWarRewardWonTerritory7": "Reward for winning seven territories in the Retribution War with the aligned faction",
         "retributionWarRewardWonTerritory8": "Reward for winning eight territories in the Retribution War with the aligned faction",
         "retributionWarRewardWonTerritory11": "Reward for winning eleven territories in the Retribution War with the aligned faction",
+        "dominionWarEffortReward": "Reward for contributing War Assets to the Dominion War",
+        "dominionWarRewardWonTerritory1": "Reward for winning one territory in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory4": "Reward for winning four territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory5": "Reward for winning five territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory8": "Reward for winning eight territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory11": "Reward for winning eleven territories in the Dominion War with the aligned faction",
         "twitchDropSpammals": "Time-limited twitch drop during a livestream from Spammals",
         "unboundReaperReward": "Obtained when defeating the Unbound Reaper",
         "dropDuringMythicLaPesteEncounter": "Possible drop from La Peste's reinforcements during the Mythic La Peste encounter",
@@ -257,6 +265,7 @@
         "twitchDropAzureSolsticeY2S3": "Twitch Drop during the Azure Solstice event in {{gutsAndGlory}}",
         "factionWarWinReward": "Reward for that faction to win the Faction War",
         "retributionWarWinReward": "Reward for that faction to win the Retribution War",
+        "dominionWarWinReward": "Reward for that faction to win the Dominion War",
         "purchasableWithSilverLionsAtTheFoundingChest": "Is/was purchasable with Silver Lions at the Founding Chest in Saint Anne during the Event",
         "rewardForCompleting8EventChallenges": "Reward for completing 8 Challenges of the Event",
         "williamBlackwoodStore": "Is/was purchasable in William Blackwood's store",
@@ -267,6 +276,7 @@
         "twitchDropLilywhiteTV": "Time-limited twitch drop during a livestream from LilywhiteTV",
         "twitchDropRubyNXT": "Time-limited twitch drop during a livestream from RubyNXT",
         "Y2S4AnniversarySailEmblemContentReward": "Reward for winning or being under the top 10 (shortlisted) submissions for the Year 2 Season 4 Anniversary Sail Emblem design contest",
-        "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream"
+        "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream",
+        "twitchDropYear3Season1": "Twitch Drops at the start of {{shatteredSeas}}"
     }
 }

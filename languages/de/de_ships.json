@@ -107,6 +107,12 @@
             "description": {
                 "general": "Ein Schiff, das sich dadurch auszeichnet, den Verlauf einer Schlacht zu kontrollieren und zu lenken. Es wird von den Kapitänen der Compagnie Royale und von Piraten bevorzugt, die die Herrschaft über die Meere anstreben."
             }
+        },
+        "galleon": {
+            "name": "Galleon",
+            "description": {
+                "general": "A ship reforged to excel in close-ranger slaughter and dominance. Spanish in origin, it is coveted by pirates and companies alike, and commandeered by only the boldest captains."
+            }
         }
     }
 }
