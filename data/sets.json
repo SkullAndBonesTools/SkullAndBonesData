@@ -1774,5 +1774,9 @@
     "demonKing": {
         "id": "demonKing",
         "type": "player"
+    },
+    "tripleTrouble": {
+        "id": "tripleTrouble",
+        "type": "ship"
     }
 }

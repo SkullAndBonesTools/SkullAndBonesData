@@ -22793,6 +22793,30 @@
             "description": {
                 "general": "A glare so furious, it sets everything ablaze"
             }
+        },
+        "swirlsOfChaos": {
+            "name": "Swirls of Chaos",
+            "description": {
+                "general": "Winding lines that promise chaos"
+            }
+        },
+        "verdantMenace": {
+            "name": "Verdant Menace",
+            "description": {
+                "general": "ATones of forest and gold to brave the wind"
+            }
+        },
+        "gildedGloom": {
+            "name": "Gilded Gloom",
+            "description": {
+                "general": "Darkness broods and gold dares to glimmer"
+            }
+        },
+        "triosEnd": {
+            "name": "Trio's End",
+            "description": {
+                "general": "Three lives ended with one knife's work"
+            }
         }
     }
 }

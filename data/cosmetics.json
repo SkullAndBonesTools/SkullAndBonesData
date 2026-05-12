@@ -33134,5 +33134,41 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "swirlsOfChaos": {
+        "id": "swirlsOfChaos",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "tripleTrouble",
+        "obtainable": "twitchDropYear3Season1",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "verdantMenace": {
+        "id": "verdantMenace",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "tripleTrouble",
+        "obtainable": "twitchDropYear3Season1",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "gildedGloom": {
+        "id": "gildedGloom",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "tripleTrouble",
+        "obtainable": "twitchDropYear3Season1",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "triosEnd": {
+        "id": "triosEnd",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "tripleTrouble",
+        "obtainable": "twitchDropYear3Season1",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
