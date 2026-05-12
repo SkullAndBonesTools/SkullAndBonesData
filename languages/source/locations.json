@@ -279,6 +279,7 @@
         "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream",
         "twitchDropYear3Season1": "Twitch Drops at the start of {{shatteredSeas}}",
         "ubisoftStoreSeasonalStarterPack": "Reward when buying the Seasonal Starter Pack from the Ubisoft Ingame Store",
-        "ubisoftStoreSeasonalBox": "Reward when buying the Seasonal Box from the Ubisoft Ingame Store"
+        "ubisoftStoreSeasonalBox": "Reward when buying the Seasonal Box from the Ubisoft Ingame Store",
+        "ubisoftStoreSeasonalBoatload": "Reward when buying the Seasonal Boatload from the Ubisoft Ingame Store"
     }
 }

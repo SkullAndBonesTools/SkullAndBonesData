@@ -22865,6 +22865,12 @@
             "description": {
                 "general": "Blind the despots and sear them to dust and bone"
             }
+        },
+        "goldenFlicker": {
+            "name": "Golden Flicker",
+            "description": {
+                "general": "Lit up by fortune"
+            }
         }
     }
 }

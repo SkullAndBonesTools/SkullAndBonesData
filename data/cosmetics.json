@@ -33245,5 +33245,14 @@
         "obtainable": "ubisoftStoreSeasonalBox",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "goldenFlicker": {
+        "id": "goldenFlicker",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "season": "shatteredSeas",
+        "obtainable": "ubisoftStoreSeasonalBoatload",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
