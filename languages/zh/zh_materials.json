@@ -627,6 +627,10 @@
         "deepIronPlates": {
             "name": "深铁板",
             "description": ""
+        },
+        "nightshadePearl": {
+            "name": "Nightshade Pearl",
+            "description": "A dark and mysterious pearl that comes from various dubious sources ranging from something that is being harvested from the Kraken to being highly sought after in underground trades involving lots of powerful figures."
         }
     }
 }
