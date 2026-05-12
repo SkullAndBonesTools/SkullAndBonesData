@@ -33208,5 +33208,42 @@
         "obtainable": "ubisoftStoreSeasonalStarterPack",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "flamefang": {
+        "id": "flamefang",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "dragonblood",
+        "obtainable": "ubisoftStoreSeasonalBox",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "goldfleckedRoar": {
+        "id": "goldfleckedRoar",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "dragonblood",
+        "obtainable": "ubisoftStoreSeasonalBox",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wyrmscaleArmor": {
+        "id": "wyrmscaleArmor",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "dragonblood",
+        "obtainable": "ubisoftStoreSeasonalBox",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "scorchingSkies": {
+        "id": "scorchingSkies",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "dragonblood",
+        "obtainable": "ubisoftStoreSeasonalBox",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

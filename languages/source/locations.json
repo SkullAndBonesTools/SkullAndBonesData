@@ -278,6 +278,7 @@
         "Y2S4AnniversarySailEmblemContentReward": "Reward for winning or being under the top 10 (shortlisted) submissions for the Year 2 Season 4 Anniversary Sail Emblem design contest",
         "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream",
         "twitchDropYear3Season1": "Twitch Drops at the start of {{shatteredSeas}}",
-        "ubisoftStoreSeasonalStarterPack": "Reward when buying the Seasonal Starter Pack from the Ubisoft Ingame Store"
+        "ubisoftStoreSeasonalStarterPack": "Reward when buying the Seasonal Starter Pack from the Ubisoft Ingame Store",
+        "ubisoftStoreSeasonalBox": "Reward when buying the Seasonal Box from the Ubisoft Ingame Store"
     }
 }

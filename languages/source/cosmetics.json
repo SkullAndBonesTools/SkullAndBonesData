@@ -22841,6 +22841,30 @@
             "description": {
                 "general": "\"Plucked heartstrings make such sweet music, man.\""
             }
+        },
+        "flamefang": {
+            "name": "Flamefang",
+            "description": {
+                "general": "\"Steal from my sea, burn in my storm.\""
+            }
+        },
+        "goldfleckedRoar": {
+            "name": "Goldflecked Roar",
+            "description": {
+                "general": "\"Courage is the only currency the sea respects.\""
+            }
+        },
+        "wyrmscaleArmor": {
+            "name": "Wyrmscale Armor",
+            "description": {
+                "general": "What is forged in fire can never drown"
+            }
+        },
+        "scorchingSkies": {
+            "name": "Scorching Skies",
+            "description": {
+                "general": "Blind the despots and sear them to dust and bone"
+            }
         }
     }
 }
