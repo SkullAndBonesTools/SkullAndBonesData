@@ -161,6 +161,7 @@
         "williamBlackwoodRotatingStoreOathsOfWar": "Ist/war während {{oathsOfWar}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreGutsAndGlory": "Ist/war während {{gutsAndGlory}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
         "williamBlackwoodRotatingStoreEyeOfTheBeast": "Ist/war während {{eyeOfTheBeast}} in William Blackwoods zeitlich begrenztem Geschäft erhältlich",
+        "williamBlackwoodRotatingStoreShatteredSeas": "Is/was purchasable at William Blackwood's rotating store during {{shatteredSeas}}",
         "ungwanaConvoyTreasureChest": "Mögliche Belohnung aus Ungwana Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Ungwana Händlerkonvoi)",
         "rempahConvoyTreasureChest": "Mögliche Belohnung aus Rempah Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Rempah Händlerkonvoi)",
         "faraConvoyTreasureChest": "Mögliche Belohnung aus Fara Schatzkiste (erhalten beim Versenken eines Schiffes aus einem Fara Händlerkonvoi)",
@@ -197,6 +198,7 @@
         "williamBlackwoodSeasonalItemOathsOfWar": "Ist/war während {{oathsOfWar}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemGutsAndGlory": "Ist/war während {{gutsAndGlory}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
         "williamBlackwoodSeasonalItemEyeOfTheBeast": "Ist/war während {{eyeOfTheBeast}} als saisonaler Gegenstand in William Blackwoods Geschäft erhältlich",
+        "williamBlackwoodSeasonalItemShatteredSeas": "Is/was purchasable as seasonal item in William Blackwood's store during {{shatteredSeas}}",
         "corruptCompagnieOfficerOutpost": "Korrupter Offizier der Compagnie",
         "corruptDmcOfficerOutpost": "Korrupter Offizier der NHG",
         "ungwanaMerchantOutpost": "Ungwanischer Händler bei verschiedenen Außenposten",
@@ -250,6 +252,12 @@
         "retributionWarRewardWonTerritory7": "Belohnung für das Erobern von sieben Gebieten im Vergeltungskrieg mit der zugehörigen Fraktion",
         "retributionWarRewardWonTerritory8": "Belohnung für das Erobern von acht Gebieten im Vergeltungskrieg mit der zugehörigen Fraktion",
         "retributionWarRewardWonTerritory11": "Belohnung für das Erobern von elf Gebieten im Vergeltungskrieg mit der zugehörigen Fraktion",
+        "dominionWarEffortReward": "Reward for contributing War Assets to the Dominion War",
+        "dominionWarRewardWonTerritory1": "Reward for winning one territory in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory4": "Reward for winning four territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory5": "Reward for winning five territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory8": "Reward for winning eight territories in the Dominion War with the aligned faction",
+        "dominionWarRewardWonTerritory11": "Reward for winning eleven territories in the Dominion War with the aligned faction",
         "twitchDropSpammals": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von Spammals",
         "unboundReaperReward": "Erhalten beim Versenken des Ungebundenen Schnitters",
         "dropDuringMythicLaPesteEncounter": "Mögliche Belohnung von La Pestes Verstärkungen während der mythischen La Peste-Begegnung",
@@ -257,6 +265,7 @@
         "twitchDropAzureSolsticeY2S3": "Twitch Drop während des Azur-Sonnenwenden Events in {{gutsAndGlory}}",
         "factionWarWinReward": "Belohnung für den Sieg der Fraktion im Fraktionskrieg",
         "retributionWarWinReward": "Belohnung für den Sieg der Fraktion im Vergeltungskrieg",
+        "dominionWarWinReward": "Reward for that faction to win the Dominion War",
         "purchasableWithSilverLionsAtTheFoundingChest": "Ist/war mit Silberlöwen in der Gründungstruhe in Sainte Anne während des Ereignisses kaufbar",
         "rewardForCompleting8EventChallenges": "Belohnung für den Abschluss von 8 Herausforderungen während des Events",
         "williamBlackwoodStore": "Ist/war kaufbar in William Blackwoods Geschäft",
@@ -267,6 +276,7 @@
         "twitchDropLilywhiteTV": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von LilywhiteTV",
         "twitchDropRubyNXT": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von RubyNXT",
         "Y2S4AnniversarySailEmblemContentReward": "Belohnung für das Gewinnen oder Platzieren unter den Top 10 im J2S4 Anniversary Sail Emblem Design Contest",
-        "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream"
+        "twitchDropYear3Showcase": "Twitch Drop during the Year 3 Showcase livestream",
+        "twitchDropYear3Season1": "Twitch Drops at the start of {{shatteredSeas}}"
     }
 }
