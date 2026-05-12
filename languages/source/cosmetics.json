@@ -22817,6 +22817,30 @@
             "description": {
                 "general": "Three lives ended with one knife's work"
             }
+        },
+        "dreadnote": {
+            "name": "Dreadnote",
+            "description": {
+                "general": "\"Your rising pulse is my favorite rhythm.\""
+            }
+        },
+        "waveshredder": {
+            "name": "Waveshredder",
+            "description": {
+                "general": "Your blood beats to the wild call of freedom"
+            }
+        },
+        "deadwindWhistle": {
+            "name": "Deadwind Whistle",
+            "description": {
+                "general": "A riff for every ruin"
+            }
+        },
+        "balladOfBlood": {
+            "name": "Ballad of Blood",
+            "description": {
+                "general": "\"Plucked heartstrings make such sweet music, man.\""
+            }
         }
     }
 }

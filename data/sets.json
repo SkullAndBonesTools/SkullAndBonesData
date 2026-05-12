@@ -1778,5 +1778,9 @@
     "tripleTrouble": {
         "id": "tripleTrouble",
         "type": "ship"
+    },
+    "anthemOfAnarchy": {
+        "id": "anthemOfAnarchy",
+        "type": "ship"
     }
 }

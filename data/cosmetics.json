@@ -33170,5 +33170,43 @@
         "obtainable": "twitchDropYear3Season1",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "dreadnote": {
+        "id": "dreadnote",
+        "type": "sailsEmblem",
+        "effect": "animated",
+        "season": "shatteredSeas",
+        "set": "anthemOfAnarchy",
+        "obtainable": "ubisoftStoreSeasonalStarterPack",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "waveshredder": {
+        "id": "waveshredder",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "anthemOfAnarchy",
+        "obtainable": "ubisoftStoreSeasonalStarterPack",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "deadwindWhistle": {
+        "id": "deadwindWhistle",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "anthemOfAnarchy",
+        "obtainable": "ubisoftStoreSeasonalStarterPack",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "balladOfBlood": {
+        "id": "balladOfBlood",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "anthemOfAnarchy",
+        "obtainable": "ubisoftStoreSeasonalStarterPack",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
