@@ -17622,6 +17622,12 @@
                 "general": "Sleek on the deck and in the midst of danger"
             }
         },
+        "bloomstrike": {
+            "name": "Bloomstrike",
+            "description": {
+                "general": "\"Pretty enough for a party, sharp enough to end one.\""
+            }
+        },
         "finalNotes": {
             "name": "Final Notes",
             "description": {

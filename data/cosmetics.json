@@ -25333,6 +25333,16 @@
         "dateAdded": "2025-07-22",
         "lastUpdated": "2025-07-22"
     },
+    "bloomstrike": {
+        "id": "bloomstrike",
+        "type": "bodyCosmetics",
+        "set": "carnivalOfCool",
+        "event": "moonshineLarceny",
+        "season": "oathsOfWar",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2025-07-22",
+        "lastUpdated": "2026-05-12"
+    },
     "finalNotes": {
         "id": "finalNotes",
         "type": "sailsEmblem",
