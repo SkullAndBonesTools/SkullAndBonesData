@@ -1786,5 +1786,9 @@
     "dragonblood": {
         "id": "dragonblood",
         "type": "ship"
+    },
+    "desertMarauder": {
+        "id": "desertMarauder",
+        "type": "ship"
     }
 }

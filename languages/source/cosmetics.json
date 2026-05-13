@@ -22877,6 +22877,60 @@
             "description": {
                 "general": "Lit up by fortune"
             }
+        },
+        "sunplunderCinch": {
+            "name": "Sunplunder Cinch",
+            "description": {
+                "general": "Holds steel, coin and borrowed wishes"
+            }
+        },
+        "wishboundArmlet": {
+            "name": "Wishbound Armlet",
+            "description": {
+                "general": "Etched with old sigils that tell of a djinn's tale"
+            }
+        },
+        "nomadOfTheNight": {
+            "name": "Nomad of the Night",
+            "description": {
+                "general": "keeps out the sun, the sand and the wretched heat"
+            }
+        },
+        "djinnsmoke": {
+            "name": "Djinnsmoke",
+            "description": {
+                "general": "A comfortable neck scarf dyed with a rare pigment"
+            }
+        },
+        "whisperstitch": {
+            "name": "Whisperstitch",
+            "description": {
+                "general": "Dust-grey pants from the shores of Arabia"
+            }
+        },
+        "crescentmark": {
+            "name": "Crescentmark",
+            "description": {
+                "general": "The crescent's for luck, the scuffs are from ignoring it"
+            }
+        },
+        "mirageborne": {
+            "name": "Mirageborne",
+            "description": {
+                "general": "Worn by those who cross dunes by day and spectres by night"
+            }
+        },
+        "glitterskin": {
+            "name": "Glitterskin",
+            "description": {
+                "general": "Like a desert night burned into your skin"
+            }
+        },
+        "desertMoon": {
+            "name": "Desert Moon",
+            "description": {
+                "general": "\"I see your fate -- death clings to it like a haze.\""
+            }
         }
     }
 }

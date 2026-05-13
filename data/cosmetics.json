@@ -33277,5 +33277,87 @@
         "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "sunplunderCinch": {
+        "id": "sunplunderCinch",
+        "type": "waist",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wishboundArmlet": {
+        "id": "wishboundArmlet",
+        "type": "forearm",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "nomadOfTheNight": {
+        "id": "nomadOfTheNight",
+        "type": "headwear",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "djinnsmoke": {
+        "id": "djinnsmoke",
+        "type": "neck",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "whisperstitch": {
+        "id": "whisperstitch",
+        "type": "bottom",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "crescentmark": {
+        "id": "crescentmark",
+        "type": "footwear",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "mirageborne": {
+        "id": "mirageborne",
+        "type": "torso",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "glitterskin": {
+        "id": "glitterskin",
+        "type": "bodyCosmetics",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "desertMoon": {
+        "id": "desertMoon",
+        "type": "eyeColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "desertMarauder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
