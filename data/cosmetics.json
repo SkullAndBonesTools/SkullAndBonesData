@@ -22960,108 +22960,108 @@
         "type": "sailsEmblem",
         "set": "fortuneFounders",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "lostAndFallen": {
         "id": "lostAndFallen",
         "type": "sailsPattern",
         "set": "fortuneFounders",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "moneySpinner": {
         "id": "moneySpinner",
         "type": "sailsColor",
         "set": "fortuneFounders",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "regaliaOfDawn": {
         "id": "regaliaOfDawn",
         "type": "torso",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "eternalOpulence": {
         "id": "eternalOpulence",
         "type": "footwear",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "starlightBefalls": {
         "id": "starlightBefalls",
         "type": "bottom",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "pendantOfMortality": {
         "id": "pendantOfMortality",
         "type": "neck",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "theSunKissedDuke": {
         "id": "theSunKissedDuke",
         "type": "headwear",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "dualityOfSplendor": {
         "id": "dualityOfSplendor",
         "type": "hand",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "embroideredVeil": {
         "id": "embroideredVeil",
         "type": "faceAccessory",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "danubeGloves": {
         "id": "danubeGloves",
         "type": "forearm",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "eclipseGirdle": {
         "id": "eclipseGirdle",
         "type": "waist",
         "set": "brillianceBegets",
         "season": "ascentIntoChaos",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-05-13"
     },
     "wolfishWaves": {
         "id": "wolfishWaves",
@@ -23543,36 +23543,36 @@
         "type": "nameplate",
         "set": "fortuneFounders",
         "season": "oathsOfWar",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-05-13"
     },
     "consumingDesire": {
         "id": "consumingDesire",
         "type": "wheel",
         "set": "fortuneFounders",
         "season": "gutsAndGlory",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-05-13"
     },
     "allWeCovet": {
         "id": "allWeCovet",
         "type": "figureHead",
         "set": "fortuneFounders",
         "season": "eyeOfTheBeast",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-05-13"
     },
     "forgeAndFrolic": {
         "id": "forgeAndFrolic",
         "type": "hull",
         "set": "fortuneFounders",
         "season": "oathsOfWar",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-05-13"
     },
     "takeTheAscendant": {
         "id": "takeTheAscendant",
@@ -25150,16 +25150,16 @@
     "sunkissedSeadogs": {
         "id": "sunkissedSeadogs",
         "type": "crewLook",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-05-13"
     },
     "blindingMoves": {
         "id": "blindingMoves",
         "type": "emote",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-15"
+        "lastUpdated": "2026-05-13"
     },
     "lawlessWays": {
         "id": "lawlessWays",
@@ -27736,17 +27736,17 @@
         "id": "jua",
         "type": "pet",
         "season": "gutsAndGlory",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-10-28",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2026-05-13"
     },
     "raiseYourCup": {
         "id": "raiseYourCup",
         "type": "emote",
         "season": "gutsAndGlory",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-10-28",
-        "lastUpdated": "2025-10-28"
+        "lastUpdated": "2026-05-13"
     },
     "walkingRemains": {
         "id": "walkingRemains",
@@ -30710,9 +30710,9 @@
         "type": "aura",
         "effect": "bossKillReactive",
         "season": "eyeOfTheBeast",
-        "obtainable": "ubisoftStoreSeasonalPack",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-05-13"
     },
     "streetCinch": {
         "id": "streetCinch",
@@ -33237,7 +33237,7 @@
         "type": "sailsPattern",
         "season": "shatteredSeas",
         "set": "dragonblood",
-        "obtainable": "ubisoftStoreSeasonalBox",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -33246,7 +33246,7 @@
         "type": "sailsEmblem",
         "season": "shatteredSeas",
         "set": "dragonblood",
-        "obtainable": "ubisoftStoreSeasonalBox",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -33255,7 +33255,7 @@
         "type": "hull",
         "season": "shatteredSeas",
         "set": "dragonblood",
-        "obtainable": "ubisoftStoreSeasonalBox",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -33265,7 +33265,7 @@
         "effect": "emissive",
         "season": "shatteredSeas",
         "set": "dragonblood",
-        "obtainable": "ubisoftStoreSeasonalBox",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -33274,7 +33274,7 @@
         "type": "aura",
         "effect": "bossKillReactive",
         "season": "shatteredSeas",
-        "obtainable": "ubisoftStoreSeasonalBoatload",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     }
