@@ -735,5 +735,13 @@
         "goal": 1000000,
         "dateAdded": "2026-02-10",
         "lastUpdated": "2026-02-10"
+    },
+    "claimToFameY3S1": {
+        "id": "claimToFameY3S1",
+        "category": "seasonal",
+        "season": "shatteredSeas",
+        "goal": 200000,
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
