@@ -32908,7 +32908,13 @@
         "upgrades": ["gildedPhantom"],
         "season": "shatteredSeas",
         "set": "cursedDjinns",
-        "obtainable": "ubisoftStore",
+        "required": {
+            "greenheartPlank": 7,
+            "phoenixPinion": 3,
+            "azureDragonHead": 3,
+            "artisansRefinementPack": 3
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -32920,7 +32926,14 @@
         "basic": "driftwoodPhantom",
         "season": "shatteredSeas",
         "set": "cursedDjinns",
-        "obtainable": "ubisoftStore",
+        "required": {
+            "phoenixBeak": 5,
+            "azureDragonHead": 5,
+            "jadePhoenixStatue": 2,
+            "yellowDragonBanner": 2,
+            "artisansRefinementPack": 5
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
