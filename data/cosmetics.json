@@ -33359,5 +33359,101 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "ceruleanKnot": {
+        "id": "ceruleanKnot",
+        "type": "waist",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "drunkardsCuffs": {
+        "id": "drunkardsCuffs",
+        "type": "forearm",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "scratchyPatchy": {
+        "id": "scratchyPatchy",
+        "type": "faceAccessory",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "driftersCrown": {
+        "id": "driftersCrown",
+        "type": "headwear",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "oseanasCurse": {
+        "id": "oseanasCurse",
+        "type": "neck",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "skywash": {
+        "id": "skywash",
+        "type": "bottom",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "crabbersBoots": {
+        "id": "crabbersBoots",
+        "type": "footwear",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "opalweave": {
+        "id": "opalweave",
+        "type": "torso",
+        "season": "shatteredSeas",
+        "set": "opalIslander",
+        "required": {
+            "gildmarks": 200
+        },
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

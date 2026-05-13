@@ -22931,6 +22931,54 @@
             "description": {
                 "general": "\"I see your fate -- death clings to it like a haze.\""
             }
+        },
+        "ceruleanKnot": {
+            "name": "Cerulean Knot",
+            "description": {
+                "general": "An iconic shade for the shady trader you are"
+            }
+        },
+        "drunkardsCuffs": {
+            "name": "Drunkard's Cuffs",
+            "description": {
+                "general": "Made loose by rum and poor decisions"
+            }
+        },
+        "scratchyPatchy": {
+            "name": "Scratchy Patchy",
+            "description": {
+                "general": "Not comfortable, but oddly reliable"
+            }
+        },
+        "driftersCrown": {
+            "name": "Drifter's Crown",
+            "description": {
+                "general": "\"Don't need to sit on a throne to be king of the seas, eh?\""
+            }
+        },
+        "oseanasCurse": {
+            "name": "Oseana's Curse",
+            "description": {
+                "general": "\"Cursed, sure -- mostly by sandfleas.\""
+            }
+        },
+        "skywash": {
+            "name": "Skywash",
+            "description": {
+                "general": "Trousers faded by open skies and salt air"
+            }
+        },
+        "crabbersBoots": {
+            "name": "Crabber's Boots",
+            "description": {
+                "general": "Reliable when decks are wet and tempers run short"
+            }
+        },
+        "opalweave": {
+            "name": "Opalweave",
+            "description": {
+                "general": "Thrifted from a spice trader's closet"
+            }
         }
     }
 }

@@ -1789,6 +1789,10 @@
     },
     "desertMarauder": {
         "id": "desertMarauder",
-        "type": "ship"
+        "type": "player"
+    },
+    "opalIslander": {
+        "id": "opalIslander",
+        "type": "player"
     }
 }
