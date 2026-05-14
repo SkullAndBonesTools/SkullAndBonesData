@@ -651,9 +651,9 @@
             "raider",
             "burning2"
         ],
-        "obtainable": ["crazedNianStrongbox"],
+        "obtainable": ["crazedNianStrongbox","bloodiedStrongbox"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2026-04-20"
+        "lastUpdated": "2026-05-14"
     },
     "cannonballCrate": {
         "id": "cannonballCrate",
@@ -4406,7 +4406,7 @@
         "rarity": "rare",
         "season": "release",
         "requiredRank": "kingpin1",
-        "obtainable": ["moonshineChest","moonshineStrongbox","harbingersStrongbox"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","harbingersStrongbox","bloodiedStrongbox"],
         "blueprint": "theHelm",
         "value": 1,
         "weight": 500,
@@ -4432,7 +4432,7 @@
             "piercing1"
         ],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-12-09"
+        "lastUpdated": "2026-05-14"
     },
     "dardanellesGun": {
         "id": "dardanellesGun",
@@ -9164,7 +9164,8 @@
         "event": "summerFiesta",
         "obtainable": [
             "convoyShipDrop",
-            "williamBlackwoodRotatingStore"
+            "williamBlackwoodRotatingStore",
+            "bloodiedStrongbox"
         ],
         "blueprint": "williamBlackwoodRotatingStoreOathsOfWar",
         "required": {
@@ -9180,7 +9181,7 @@
             "leatherFashioningStation1"
         ],
         "dateAdded": "2024-07-05",
-        "lastUpdated": "2025-10-07"
+        "lastUpdated": "2026-05-14"
     },
     "lestariTrophy": {
         "id": "lestariTrophy",
@@ -16501,12 +16502,12 @@
         "weight": 250,
         "gearScore": 35,
         "event": ["theHonorless","darktideLullaby","moonshineLarceny"],
-        "obtainable": ["theHelmEvent","darktideAltarTelokPenjarah","accountLedgerSainteAnne"],
+        "obtainable": ["theHelmEvent","darktideAltarTelokPenjarah","accountLedgerSainteAnne","bloodiedStrongbox"],
         "perks": [
             "drownedOrgan"
         ],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-14"
     },
     "royalRammingWorks": {
         "id": "royalRammingWorks",
