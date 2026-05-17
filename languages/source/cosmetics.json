@@ -23057,6 +23057,18 @@
             "description": {
                 "general": "\"Let's scorch the seas, matey!\""
             }
+        },
+        "firestorm": {
+            "name": "Firestorm",
+            "description": {
+                "general": "Rise from the ashes of war"
+            }
+        },
+        "bladesAblaze": {
+            "name": "Blades Ablaze",
+            "description": {
+                "general": "Born for a burning world"
+            }
         }
     }
 }

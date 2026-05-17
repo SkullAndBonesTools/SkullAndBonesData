@@ -33589,5 +33589,24 @@
         "obtainable": "premiumEventPass",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "firestorm": {
+        "id": "firestorm",
+        "type": "aura",
+        "season": "shatteredSeas",
+        "effect": "bossKillReactive",
+        "event": "theHonorless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bladesAblaze": {
+        "id": "bladesAblaze",
+        "type": "firework",
+        "season": "shatteredSeas",
+        "event": "theHonorless",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
