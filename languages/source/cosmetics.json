@@ -23069,6 +23069,60 @@
             "description": {
                 "general": "Born for a burning world"
             }
+        },
+        "goldenChild": {
+            "name": "Golden Child",
+            "description": {
+                "general": "Tilted just enough to suggest disdain"
+            }
+        },
+        "outcastsGlare": {
+            "name": "Outcast's Glare",
+            "description": {
+                "general": "Let one eye be spared the truth"
+            }
+        },
+        "honorlessFinery": {
+            "name": "Honorless Finery",
+            "description": {
+                "general": "Virtue lost to gold thread"
+            }
+        },
+        "turncoatsTreasure": {
+            "name": "Turncoat's Treasure",
+            "description": {
+                "general": "These beads gleam most when worn in poor company"
+            }
+        },
+        "pridebound": {
+            "name": "Pridebound",
+            "description": {
+                "general": "Heavy enough to feel important"
+            }
+        },
+        "heirloomOfExcess": {
+            "name": "Heirloom of Excess",
+            "description": {
+                "general": "Disgustingly extravagant"
+            }
+        },
+        "snakeskin": {
+            "name": "Snakeskin",
+            "description": {
+                "general": "They remember sins the wearer forgets"
+            }
+        },
+        "foesFiligree": {
+            "name": "Foe's Filigree",
+            "description": {
+                "general": "Soft with use, immaculate in appearance"
+            }
+        },
+        "bloodshedBoots": {
+            "name": "Bloodshed Boots",
+            "description": {
+                "general": "Warm leather, cold heart"
+            }
         }
     }
 }

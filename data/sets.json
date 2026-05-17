@@ -1802,5 +1802,9 @@
     "rogueOWar": {
         "id": "rogueOWar",
         "type": "ship"
+    },
+    "narcissus": {
+        "id": "narcissus",
+        "type": "player"
     }
 }

@@ -33608,5 +33608,95 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "goldenChild": {
+        "id": "goldenChild",
+        "type": "headwear",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "outcastsGlare": {
+        "id": "outcastsGlare",
+        "type": "faceAccessory",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "honorlessFinery": {
+        "id": "honorlessFinery",
+        "type": "torso",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "turncoatsTreasure": {
+        "id": "turncoatsTreasure",
+        "type": "neck",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "pridebound": {
+        "id": "pridebound",
+        "type": "forearm",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "heirloomOfExcess": {
+        "id": "heirloomOfExcess",
+        "type": "waist",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "snakeskin": {
+        "id": "snakeskin",
+        "type": "hand",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "foesFiligree": {
+        "id": "foesFiligree",
+        "type": "bottom",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "bloodshedBoots": {
+        "id": "bloodshedBoots",
+        "type": "footwear",
+        "season": "shatteredSeas",
+        "set": "narcissus",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
