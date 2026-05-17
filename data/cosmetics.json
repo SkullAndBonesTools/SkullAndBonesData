@@ -33455,5 +33455,80 @@
         "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "cutthroatCorsair": {
+        "id": "cutthroatCorsair",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "effect": "animated",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "warborn": {
+        "id": "warborn",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "battlecryBanner": {
+        "id": "battlecryBanner",
+        "type": "sailsColor",
+        "effect": "emissive",
+        "season": "shatteredSeas",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "ignisBellona": {
+        "id": "ignisBellona",
+        "type": "figureHead",
+        "season": "shatteredSeas",
+        "effect": "emissive",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "crimsonCurrents": {
+        "id": "crimsonCurrents",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "turncoat": {
+        "id": "turncoat",
+        "type": "nameplate",
+        "season": "shatteredSeas",
+        "effect": "emissive",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "foehunter": {
+        "id": "foehunter",
+        "type": "wheel",
+        "season": "shatteredSeas",
+        "effect": "emissive",
+        "set": "rogueOWar",
+        "event": "theHonorless",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

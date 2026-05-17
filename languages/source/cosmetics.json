@@ -22979,6 +22979,48 @@
             "description": {
                 "general": "Thrifted from a spice trader's closet"
             }
+        },
+        "cutthroatCorsair": {
+            "name": "Cutthroat Corsair",
+            "description": {
+                "general": "\"It's funny how fast loyalty dies against my blade.\""
+            }
+        },
+        "warborn": {
+            "name": "Warborn",
+            "description": {
+                "general": "\"Carnage runs in our veins.\""
+            }
+        },
+        "battlecryBanner": {
+            "name": "Battlecry Banner",
+            "description": {
+                "general": "Weathered by blood, primed for battle"
+            }
+        },
+        "ignisBellona": {
+            "name": "Ignis Bellona",
+            "description": {
+                "general": "The goddess of war sails with you, Captain"
+            }
+        },
+        "crimsonCurrents": {
+            "name": "Crimson Currents",
+            "description": {
+                "general": "\"The seas run red in my wake.\""
+            }
+        },
+        "turncoat": {
+            "name": "Turncoat",
+            "description": {
+                "general": "\"Trust only the sword in your hand.\""
+            }
+        },
+        "foehunter": {
+            "name": "Foehunter",
+            "description": {
+                "general": "\"Allegiance is a shackle, mate.\""
+            }
         }
     }
 }
