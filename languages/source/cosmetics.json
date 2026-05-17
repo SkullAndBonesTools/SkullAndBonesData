@@ -23021,6 +23021,42 @@
             "description": {
                 "general": "\"Allegiance is a shackle, mate.\""
             }
+        },
+        "windsOfRust": {
+            "name": "Winds of Rust",
+            "description": {
+                "general": "\"The strongest hulls crumble before my will.\""
+            }
+        },
+        "goldspike": {
+            "name": "Goldspike",
+            "description": {
+                "general": "\"Take what glitters, and leave what bleeds.\""
+            }
+        },
+        "blindingBlades": {
+            "name": "Blinding Blades",
+            "description": {
+                "general": "Fortune favors a sharp sword"
+            }
+        },
+        "wraithwoodSheen": {
+            "name": "Wraithwood Sheen",
+            "description": {
+                "general": "Rich mahogany streaked with your foe's blood"
+            }
+        },
+        "grimsGilt": {
+            "name": "Grim's Gilt",
+            "description": {
+                "general": "Ashes to riches, dust to gold"
+            }
+        },
+        "treasonsFurnace": {
+            "name": "Treason's Furnace",
+            "description": {
+                "general": "\"Let's scorch the seas, matey!\""
+            }
         }
     }
 }

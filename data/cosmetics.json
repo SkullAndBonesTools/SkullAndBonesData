@@ -33530,5 +33530,64 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "windsOfRust": {
+        "id": "windsOfRust",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "gildedMaw",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "goldspike": {
+        "id": "goldspike",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "gildedMaw",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "blindingBlades": {
+        "id": "blindingBlades",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "gildedMaw",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "wraithwoodSheen": {
+        "id": "wraithwoodSheen",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "gildedMaw",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "grimsGilt": {
+        "id": "grimsGilt",
+        "type": "firework",
+        "season": "shatteredSeas",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "treasonsFurnace": {
+        "id": "treasonsFurnace",
+        "type": "demicannonWeaponSkin",
+        "season": "shatteredSeas",
+        "effect": "emissive",
+        "event": "theHonorless",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
