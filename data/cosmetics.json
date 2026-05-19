@@ -25771,9 +25771,10 @@
     "courtingDeath": {
         "id": "courtingDeath",
         "type": "sailsEmblem",
+        "removed": "2026-05-19",
         "obtainable": [["twitchDrop","twitchDropDeathwish"]],
         "dateAdded": "2025-08-12",
-        "lastUpdated": "2025-08-13"
+        "lastUpdated": "2026-05-19"
     },
     "lawsOfBattle": {
         "id": "lawsOfBattle",

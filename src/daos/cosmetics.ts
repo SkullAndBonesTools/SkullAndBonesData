@@ -39,7 +39,11 @@ export class Cosmetic {
         */
         public readonly bounty?: string,
         public readonly event?: Event,
-        public readonly worldEvent?: WorldEvent | WorldEvent[]
+        public readonly worldEvent?: WorldEvent | WorldEvent[],
+        /**
+         * Timestamp of when the cosmetic was removed from the game. Use only for completely removed pieces.
+         */
+        public readonly removed?: Date
     ) {}
 
     public static fromRawData(rawData: any): Cosmetic {
@@ -112,7 +116,8 @@ export class Cosmetic {
             rawData.requiredRank ?? undefined,
             rawData.bounty ?? undefined,
             rawData.event ? Events[event] : undefined,
-            worldEvent ?? undefined
+            worldEvent ?? undefined,
+            rawData.removed ? new Date(rawData.removed) : undefined
         );
     }
 
