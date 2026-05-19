@@ -23123,6 +23123,12 @@
             "description": {
                 "general": "Warm leather, cold heart"
             }
+        },
+        "wingsOfChaos": {
+            "name": "Wings of Chaos",
+            "description": {
+                "general": "A fierce and feathery warning"
+            }
         }
     }
 }

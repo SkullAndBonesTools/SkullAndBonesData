@@ -3303,33 +3303,33 @@
         "id": "theMurkyDeep",
         "type": "hull",
         "set": "fishersOfMen",
-        "obtainable": ["friendReferralProgram","friendReferralProgramTier2"],
+        "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-05-19"
     },
     "theLuringLurker": {
         "id": "theLuringLurker",
         "type": "sailsColor",
         "set": "fishersOfMen",
-        "obtainable": ["friendReferralProgram","friendReferralProgramTier3"],
+        "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-05-19"
     },
     "rakeAndRip": {
         "id": "rakeAndRip",
         "type": "sailsPattern",
         "set": "fishersOfMen",
-        "obtainable": ["friendReferralProgram","friendReferralProgramTier4"],
+        "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-05-19"
     },
     "theAngler": {
         "id": "theAngler",
         "type": "sailsEmblem",
         "set": "fishersOfMen",
-        "obtainable": ["friendReferralProgram","friendReferralProgramTier5"],
+        "obtainable": [["friendReferralProgram","friendReferralProgramTier1"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-05-19"
     },
     "skinWalkers": {
         "id": "skinWalkers",
@@ -33698,5 +33698,12 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "wingsOfChaos": {
+        "id": "wingsOfChaos",
+        "type": "firework",
+        "obtainable": [["friendReferralProgram","friendReferralProgramTier2"]],
+        "dateAdded": "2026-05-19",
+        "lastUpdated": "2026-05-19"
     }
 }
