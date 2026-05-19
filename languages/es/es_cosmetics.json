@@ -17622,6 +17622,12 @@
                 "general": "Sleek on the deck and in the midst of danger"
             }
         },
+        "bloomstrike": {
+            "name": "Bloomstrike",
+            "description": {
+                "general": "\"Pretty enough for a party, sharp enough to end one.\""
+            }
+        },
         "finalNotes": {
             "name": "Final Notes",
             "description": {
@@ -22285,7 +22291,7 @@
             }
         },
         "wetMeGulletBeer": {
-            "name": "Wet Me Gullet Beer",
+            "name": "Wet Me Gullet (Beer)",
             "description": {
                 "general": "\"Only thing better than rum is stolen rum!\""
             }
@@ -22816,6 +22822,312 @@
             "name": "Trio's End",
             "description": {
                 "general": "Three lives ended with one knife's work"
+            }
+        },
+        "dreadnote": {
+            "name": "Dreadnote",
+            "description": {
+                "general": "\"Your rising pulse is my favorite rhythm.\""
+            }
+        },
+        "waveshredder": {
+            "name": "Waveshredder",
+            "description": {
+                "general": "Your blood beats to the wild call of freedom"
+            }
+        },
+        "deadwindWhistle": {
+            "name": "Deadwind Whistle",
+            "description": {
+                "general": "A riff for every ruin"
+            }
+        },
+        "balladOfBlood": {
+            "name": "Ballad of Blood",
+            "description": {
+                "general": "\"Plucked heartstrings make such sweet music, man.\""
+            }
+        },
+        "flamefang": {
+            "name": "Flamefang",
+            "description": {
+                "general": "\"Steal from my sea, burn in my storm.\""
+            }
+        },
+        "goldfleckedRoar": {
+            "name": "Goldflecked Roar",
+            "description": {
+                "general": "\"Courage is the only currency the sea respects.\""
+            }
+        },
+        "wyrmscaleArmor": {
+            "name": "Wyrmscale Armor",
+            "description": {
+                "general": "What is forged in fire can never drown"
+            }
+        },
+        "scorchingSkies": {
+            "name": "Scorching Skies",
+            "description": {
+                "general": "Blind the despots and sear them to dust and bone"
+            }
+        },
+        "goldenFlicker": {
+            "name": "Golden Flicker",
+            "description": {
+                "general": "Lit up by fortune"
+            }
+        },
+        "sunplunderCinch": {
+            "name": "Sunplunder Cinch",
+            "description": {
+                "general": "Holds steel, coin and borrowed wishes"
+            }
+        },
+        "wishboundArmlet": {
+            "name": "Wishbound Armlet",
+            "description": {
+                "general": "Etched with old sigils that tell of a djinn's tale"
+            }
+        },
+        "nomadOfTheNight": {
+            "name": "Nomad of the Night",
+            "description": {
+                "general": "keeps out the sun, the sand and the wretched heat"
+            }
+        },
+        "djinnsmoke": {
+            "name": "Djinnsmoke",
+            "description": {
+                "general": "A comfortable neck scarf dyed with a rare pigment"
+            }
+        },
+        "whisperstitch": {
+            "name": "Whisperstitch",
+            "description": {
+                "general": "Dust-grey pants from the shores of Arabia"
+            }
+        },
+        "crescentmark": {
+            "name": "Crescentmark",
+            "description": {
+                "general": "The crescent's for luck, the scuffs are from ignoring it"
+            }
+        },
+        "mirageborne": {
+            "name": "Mirageborne",
+            "description": {
+                "general": "Worn by those who cross dunes by day and spectres by night"
+            }
+        },
+        "glitterskin": {
+            "name": "Glitterskin",
+            "description": {
+                "general": "Like a desert night burned into your skin"
+            }
+        },
+        "desertMoon": {
+            "name": "Desert Moon",
+            "description": {
+                "general": "\"I see your fate -- death clings to it like a haze.\""
+            }
+        },
+        "ceruleanKnot": {
+            "name": "Cerulean Knot",
+            "description": {
+                "general": "An iconic shade for the shady trader you are"
+            }
+        },
+        "drunkardsCuffs": {
+            "name": "Drunkard's Cuffs",
+            "description": {
+                "general": "Made loose by rum and poor decisions"
+            }
+        },
+        "scratchyPatchy": {
+            "name": "Scratchy Patchy",
+            "description": {
+                "general": "Not comfortable, but oddly reliable"
+            }
+        },
+        "driftersCrown": {
+            "name": "Drifter's Crown",
+            "description": {
+                "general": "\"Don't need to sit on a throne to be king of the seas, eh?\""
+            }
+        },
+        "oseanasCurse": {
+            "name": "Oseana's Curse",
+            "description": {
+                "general": "\"Cursed, sure -- mostly by sandfleas.\""
+            }
+        },
+        "skywash": {
+            "name": "Skywash",
+            "description": {
+                "general": "Trousers faded by open skies and salt air"
+            }
+        },
+        "crabbersBoots": {
+            "name": "Crabber's Boots",
+            "description": {
+                "general": "Reliable when decks are wet and tempers run short"
+            }
+        },
+        "opalweave": {
+            "name": "Opalweave",
+            "description": {
+                "general": "Thrifted from a spice trader's closet"
+            }
+        },
+        "cutthroatCorsair": {
+            "name": "Cutthroat Corsair",
+            "description": {
+                "general": "\"It's funny how fast loyalty dies against my blade.\""
+            }
+        },
+        "warborn": {
+            "name": "Warborn",
+            "description": {
+                "general": "\"Carnage runs in our veins.\""
+            }
+        },
+        "battlecryBanner": {
+            "name": "Battlecry Banner",
+            "description": {
+                "general": "Weathered by blood, primed for battle"
+            }
+        },
+        "ignisBellona": {
+            "name": "Ignis Bellona",
+            "description": {
+                "general": "The goddess of war sails with you, Captain"
+            }
+        },
+        "crimsonCurrents": {
+            "name": "Crimson Currents",
+            "description": {
+                "general": "\"The seas run red in my wake.\""
+            }
+        },
+        "turncoat": {
+            "name": "Turncoat",
+            "description": {
+                "general": "\"Trust only the sword in your hand.\""
+            }
+        },
+        "foehunter": {
+            "name": "Foehunter",
+            "description": {
+                "general": "\"Allegiance is a shackle, mate.\""
+            }
+        },
+        "windsOfRust": {
+            "name": "Winds of Rust",
+            "description": {
+                "general": "\"The strongest hulls crumble before my will.\""
+            }
+        },
+        "goldspike": {
+            "name": "Goldspike",
+            "description": {
+                "general": "\"Take what glitters, and leave what bleeds.\""
+            }
+        },
+        "blindingBlades": {
+            "name": "Blinding Blades",
+            "description": {
+                "general": "Fortune favors a sharp sword"
+            }
+        },
+        "wraithwoodSheen": {
+            "name": "Wraithwood Sheen",
+            "description": {
+                "general": "Rich mahogany streaked with your foe's blood"
+            }
+        },
+        "grimsGilt": {
+            "name": "Grim's Gilt",
+            "description": {
+                "general": "Ashes to riches, dust to gold"
+            }
+        },
+        "treasonsFurnace": {
+            "name": "Treason's Furnace",
+            "description": {
+                "general": "\"Let's scorch the seas, matey!\""
+            }
+        },
+        "firestorm": {
+            "name": "Firestorm",
+            "description": {
+                "general": "Rise from the ashes of war"
+            }
+        },
+        "bladesAblaze": {
+            "name": "Blades Ablaze",
+            "description": {
+                "general": "Born for a burning world"
+            }
+        },
+        "goldenChild": {
+            "name": "Golden Child",
+            "description": {
+                "general": "Tilted just enough to suggest disdain"
+            }
+        },
+        "outcastsGlare": {
+            "name": "Outcast's Glare",
+            "description": {
+                "general": "Let one eye be spared the truth"
+            }
+        },
+        "honorlessFinery": {
+            "name": "Honorless Finery",
+            "description": {
+                "general": "Virtue lost to gold thread"
+            }
+        },
+        "turncoatsTreasure": {
+            "name": "Turncoat's Treasure",
+            "description": {
+                "general": "These beads gleam most when worn in poor company"
+            }
+        },
+        "pridebound": {
+            "name": "Pridebound",
+            "description": {
+                "general": "Heavy enough to feel important"
+            }
+        },
+        "heirloomOfExcess": {
+            "name": "Heirloom of Excess",
+            "description": {
+                "general": "Disgustingly extravagant"
+            }
+        },
+        "snakeskin": {
+            "name": "Snakeskin",
+            "description": {
+                "general": "They remember sins the wearer forgets"
+            }
+        },
+        "foesFiligree": {
+            "name": "Foe's Filigree",
+            "description": {
+                "general": "Soft with use, immaculate in appearance"
+            }
+        },
+        "bloodshedBoots": {
+            "name": "Bloodshed Boots",
+            "description": {
+                "general": "Warm leather, cold heart"
+            }
+        },
+        "wingsOfChaos": {
+            "name": "Wings of Chaos",
+            "description": {
+                "general": "A fierce and feathery warning"
             }
         }
     }
