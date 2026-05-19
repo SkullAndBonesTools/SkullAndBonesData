@@ -267,6 +267,10 @@
         "tarnisher": {
             "name": "Tarnisher",
             "description": "Deal %s damage to weakpoints in The Nian"
+        },
+        "claimToFameY3S1": {
+            "name": "Claim to Fame (Y3S1)",
+            "description": "Gain %s Infamy in Year 3 Season 1"
         }
     }
 }

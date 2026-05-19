@@ -3296,7 +3296,7 @@
         "physiciansLedger": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage dealt by Mending Weapons by 8% per consecutive hit up to 35% for 5s",
+                    "Increases Secondary Damage dealt by Mending Weapons by 7% per consecutive hit up to 35% for 5s",
                     "Increases Projectile Speed of Mending Weapons by 12%"
                 ]
             }
