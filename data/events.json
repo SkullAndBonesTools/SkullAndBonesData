@@ -29,11 +29,11 @@
     },
     "gloryAdorned": {
         "id": "gloryAdorned",
-        "seasons": ["ascentIntoChaos","oathsOfWar","gutsAndGlory"]
+        "seasons": ["ascentIntoChaos","oathsOfWar","gutsAndGlory","shatteredSeas"]
     },
     "theHonorless": {
         "id": "theHonorless",
-        "seasons": ["ascentIntoChaos"]
+        "seasons": ["ascentIntoChaos","shatteredSeas"]
     },
     "darktideLullaby": {
         "id": "darktideLullaby",
@@ -41,7 +41,7 @@
     },
     "moonshineLarceny": {
         "id": "moonshineLarceny",
-        "seasons": ["oathsOfWar","gutsAndGlory"]
+        "seasons": ["oathsOfWar","gutsAndGlory","shatteredSeas"]
     },
     "legendOfTheNian": {
         "id": "legendOfTheNian",
