@@ -12102,6 +12102,7 @@
         "id": "silverSentinel",
         "rarity": "epic",
         "season": "ascentIntoChaos",
+        "blueprint": "smugglerPassPinnacleStore",
         "type": "armor",
         "value": 1,
         "weight": 500,
@@ -12116,13 +12117,20 @@
             "electric": 0.1,
             "toxic": 0.1
         },
-        "required": {},
+        "required": {
+            "wormDrive": 13,
+            "planetaryGearset": 13,
+            "precisionDrillingBit": 10,
+            "orcaIntricateApparatus": 1,
+            "eelSturdyRopes": 1,
+            "silver": 3800
+        },
         "obtainable": "smugglerPass",
         "perks": [
             "vigilance"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-05-24"
     },
     "floodingBombard1": {
         "id": "floodingBombard1",
@@ -12444,6 +12452,7 @@
         "rarity": "epic",
         "season": "ascentIntoChaos",
         "obtainable": "smugglerPass",
+        "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -12453,7 +12462,14 @@
         "reloadSpeed": 7200,
         "optimalRange": 1000,
         "projectileSpeed": 350,
-        "required": {},
+        "required": {
+            "purifiedSaltpeter": 10,
+            "sinewString": 7,
+            "naphtha": 7,
+            "rubber": 7,
+            "gannetDenseNiter": 1,
+            "silver": 3630
+        },
         "perks": [
             "impendingBoom",
             "siege",
@@ -12461,7 +12477,7 @@
             "piercing1"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-05-24"
     },
     "alecto": {
         "id": "alecto",
@@ -12971,32 +12987,50 @@
         "type": "majorFurniture",
         "rarity": "epic",
         "season": "ascentIntoChaos",
+        "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "purifiedSaltpeter": 13,
+            "naphtha": 5,
+            "sinewString": 5,
+            "rubber": 5,
+            "precisionDrillingBit": 5,
+            "orcaIntricateApparatus": 2,
+            "silver": 5760
+        },
         "obtainable": "smugglerPass",
         "perks": [
             "emergencyLocker"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-05-24"
     },
     "wyrmsBreathChurner": {
         "id": "wyrmsBreathChurner",
         "type": "majorFurniture",
         "rarity": "epic",
         "season": "ascentIntoChaos",
+        "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "required": {},
+        "required": {
+            "dryCastingSand": 8,
+            "purifiedSaltpeter": 8,
+            "wormDrive": 10,
+            "planetaryGearset": 10,
+            "naphtha": 5,
+            "gannetDenseNiter": 2,
+            "silver": 5760
+        },
         "obtainable": "smugglerPass",
         "perks": [
             "wyrmsBreathChurner"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-05-24"
     },
     "markOfTheWolf": {
         "id": "markOfTheWolf",
