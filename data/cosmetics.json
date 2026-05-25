@@ -13617,13 +13617,13 @@
         "dateAdded": "2024-07-10",
         "lastUpdated": "2024-07-10"
     },
-    "elDoradoanWarriorBoots": {
-        "id": "elDoradoanWarriorBoots",
+    "goldenStride": {
+        "id": "goldenStride",
         "type": "footwear",
         "set": "leopardKing",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-07-10",
-        "lastUpdated": "2024-07-10"
+        "lastUpdated": "2026-05-25"
     },
     "realmsGate": {
         "id": "realmsGate",
