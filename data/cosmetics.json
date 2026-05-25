@@ -11830,12 +11830,13 @@
         "id": "bloodOfCaliban",
         "type": "figureHead",
         "season": "chorusOfHavoc",
+        "set": "moonstruck",
         "worldEvent": "anguishFromTheAbyss",
         "bounty": "anguishFromTheAbyss",
         "effect": ["emissive","combatReactive"],
         "obtainable": "rodeMaangodinChest",
         "dateAdded": "2024-06-08",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-05-25"
     },
     "lanunWaistband": {
         "id": "lanunWaistband",
