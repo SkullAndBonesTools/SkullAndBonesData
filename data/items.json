@@ -16636,5 +16636,44 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "mortarPowderbench": {
+        "id": "mortarPowderbench",
+        "type": "offensiveFurniture",
+        "rarity": "uncommon",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 175,
+        "gearScore": 15,
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "perks": "mortarPowderbench",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "rocketPowderbench": {
+        "id": "rocketPowderbench",
+        "type": "offensiveFurniture",
+        "rarity": "uncommon",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 175,
+        "gearScore": 15,
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "perks": "rocketPowderbench",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
+    },
+    "springloaderPowderbench": {
+        "id": "springloaderPowderbench",
+        "type": "offensiveFurniture",
+        "rarity": "uncommon",
+        "season": "shatteredSeas",
+        "value": 1,
+        "weight": 175,
+        "gearScore": 15,
+        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "perks": "springloaderPowderbench",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

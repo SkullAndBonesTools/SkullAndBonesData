@@ -3212,6 +3212,24 @@
             "description": {
                 "general": "A precise weapon of French design that shatters the hulls of their foes."
             }
+        },
+        "mortarPowderbench": {
+            "name": "Mortar Powderbench",
+            "description": {
+                "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
+            }
+        },
+        "rocketPowderbench": {
+            "name": "Rocket Powderbench",
+            "description": {
+                "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
+            }
+        },
+        "springloaderPowderbench": {
+            "name": "Springloader Powderbench",
+            "description": {
+                "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
+            }
         }
     }
 }
