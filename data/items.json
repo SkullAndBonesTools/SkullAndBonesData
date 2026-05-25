@@ -16612,5 +16612,29 @@
         ],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "lAiguille": {
+        "id": "lAiguille",
+        "rarity": "epic",
+        "season": "shatteredSeas",
+        "requiredSize": "medium",
+        "type": "springloader",
+        "gearScore": 91,
+        "value": 1,
+        "weight": 1000,
+        "damagePerShot": 3075,
+        "projectilesPerShot": 1,
+        "rateOfFire": 0,
+        "reloadSpeed": 20000,
+        "optimalRange": 400,
+        "timeToTarget": 2700,
+        "required": {},
+        "perks": [
+            "splinter",
+            "piercing2",
+            "explosive2"
+        ],
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }

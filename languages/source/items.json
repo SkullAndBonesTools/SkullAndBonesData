@@ -3206,6 +3206,12 @@
             "description": {
                 "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
             }
+        },
+        "lAiguille": {
+            "name": "L'Aiguille",
+            "description": {
+                "general": "A precise weapon of French design that shatters the hulls of their foes."
+            }
         }
     }
 }
