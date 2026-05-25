@@ -4,6 +4,7 @@ import { Faction, Factions } from "./factions";
 export class Region {
     constructor(
         public readonly id: string,
+        public readonly dataType: "region",
         public readonly factions: Faction[],
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date
@@ -16,6 +17,7 @@ export class Region {
         });
         return new Region(
             rawData.id,
+            "region",
             factions,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated)

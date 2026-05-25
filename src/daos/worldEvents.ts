@@ -6,6 +6,7 @@ import { Faction, Factions } from './factions';
 export class WorldEvent {
     constructor(
         public readonly id: string,
+        public readonly dataType: "worldEvent",
         public readonly type: WorldEventType,
         public readonly faction?: Faction,
         public readonly event?: Event
@@ -16,6 +17,7 @@ export class WorldEvent {
         const event = rawData.event as keyof typeof Events;
         return new WorldEvent(
             rawData.id,
+            "worldEvent",
             rawData.type as WorldEventType,
             faction ? Factions[faction] : undefined,
             event ? Events[event] : undefined

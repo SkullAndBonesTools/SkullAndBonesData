@@ -2,14 +2,16 @@ import contractsData from '../../data/contracts.json';
 
 export class Contract {
     constructor(
-        public readonly id: string
+        public readonly id: string,
+        public readonly dataType: "contract"
     ) {}
 
     public static loadContracts(): Record<string, Contract> {
         const contracts: Record<string, Contract> = {};
         for (const [key, value] of Object.entries(contractsData)) {
             contracts[key] = new Contract(
-                value.id
+                value.id,
+                "contract"
             );
         }
         return contracts;

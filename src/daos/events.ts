@@ -4,6 +4,7 @@ import { Season, Seasons } from './seasons';
 export class Event {
     constructor(
         public readonly id: string,
+        public readonly dataType: "event",
         public readonly seasons: Season[]
     ) {}
 
@@ -16,6 +17,7 @@ export class Event {
             });
             events[key] = new Event(
                 value.id,
+                "event",
                 seasons
             );
         }

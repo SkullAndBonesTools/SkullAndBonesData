@@ -8,6 +8,7 @@ import { Faction, Factions } from "./factions";
 export class Commodity {
     constructor(
         public readonly id: string,
+        public readonly dataType: "commodity",
         public readonly rarity: Rarity,
         public readonly category: CommodityCategory,
         public readonly event?: Event,
@@ -23,6 +24,7 @@ export class Commodity {
 
         return new Commodity(
             rawData.id,
+            "commodity",
             rawData.rarity as Rarity,
             rawData.category as CommodityCategory,
             event ? Events[event] : undefined,

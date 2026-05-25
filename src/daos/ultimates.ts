@@ -6,6 +6,7 @@ import { Season, Seasons } from './seasons';
 export class Ultimate {
     constructor(
         public readonly id: string,
+        public readonly dataType: "ultimate",
         public readonly type: UltimateType,
         public readonly rarity: Rarity,
         public readonly season: Season,
@@ -20,6 +21,7 @@ export class Ultimate {
             const season = value.season as keyof typeof Seasons;
             ultimates[key] = new Ultimate(
                 value.id,
+                "ultimate",
                 value.type as UltimateType,
                 value.rarity as Rarity,
                 Seasons[season],

@@ -4,6 +4,7 @@ export class Season {
     constructor(
         public readonly index: number,
         public readonly id: string,
+        public readonly dataType: "season",
         public readonly startDate: Date,
         public readonly endDate: Date,
         public readonly color: string
@@ -15,6 +16,7 @@ export class Season {
             seasons[key] = new Season(
                 value.index,
                 value.id,
+                "season",
                 new Date(value.startDate),
                 new Date(value.endDate),
                 value.color

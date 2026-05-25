@@ -5,6 +5,7 @@ import { Region, Regions } from "./regions";
 export class Territory {
     constructor(
         public readonly id: string,
+        public readonly dataType: "territory",
         public readonly factions: Faction[],
         public readonly region: Region,
         public readonly dateAdded: Date,
@@ -19,6 +20,7 @@ export class Territory {
         const region = rawData.region as keyof typeof Regions;
         return new Territory(
             rawData.id,
+            "territory",
             factions,
             Regions[region],
             new Date(rawData.dateAdded),

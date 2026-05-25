@@ -4,6 +4,7 @@ import { SetType } from '../types/SetProperties';
 export class Set {
     constructor(
         public readonly id: string,
+        public readonly dataType: "set",
         public readonly type: SetType
     ) {}
 
@@ -12,6 +13,7 @@ export class Set {
         for (const [key, value] of Object.entries(setsData)) {
             sets[key] = new Set(
                 value.id,
+                "set",
                 value.type as SetType
             );
         }

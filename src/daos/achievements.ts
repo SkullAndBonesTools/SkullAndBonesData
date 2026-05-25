@@ -7,6 +7,7 @@ import { WorldEvent, WorldEvents } from "./worldEvents";
 export class Achievement {
     constructor(
         public readonly id: string,
+        public readonly dataType: "achievement",
         public readonly tier: number | undefined,
         public readonly category: AchievementCategory,
         public readonly season: Season,
@@ -25,6 +26,7 @@ export class Achievement {
             : WorldEvents[rawData.worldEvent as keyof typeof WorldEvents];
         return new Achievement(
             key,
+            "achievement",
             rawData.tier ?? undefined,
             rawData.category as AchievementCategory,
             Seasons[season],

@@ -5,6 +5,7 @@ import { Season, Seasons } from "./seasons";
 export class Faction {
     constructor(
         public readonly id: string,
+        public readonly dataType: "faction",
         public readonly firstAppearingSeason: Season,
         public readonly event: Event | undefined,
         public readonly dateAdded: Date,
@@ -16,6 +17,7 @@ export class Faction {
         const event = rawData.event as keyof typeof Events;
         return new Faction(
             rawData.id,
+            "faction",
             Seasons[season],
             event ? Events[event] : undefined,
             new Date(rawData.dateAdded),

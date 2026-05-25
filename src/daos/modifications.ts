@@ -10,6 +10,7 @@ export type ModificationVariant = {
 export class Modification {
     constructor(
         public readonly id: string,
+        public readonly dataType: "modification",
         public readonly effectType: EffectType | undefined,
         public readonly damageType: DamageType | undefined,
         // Determines if the modification can only be applied to a weapon that includes the specific damage type.
@@ -29,6 +30,7 @@ export class Modification {
         }));
         return new Modification(
             rawData.id,
+            "modification",
             rawData.effectType ?? undefined,
             rawData.damageType ?? undefined,
             rawData.requiredDamageType ?? undefined,

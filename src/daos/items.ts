@@ -11,6 +11,7 @@ import { WorldEvent, WorldEvents } from './worldEvents';
 export class Item {
     constructor(
         public readonly id: string,
+        public readonly dataType: "item",
         public readonly type: GeneralType | WeaponType | FurnitureType,
         public readonly season: Season,
         public readonly dateAdded: Date,
@@ -66,6 +67,7 @@ export class Item {
 
         return new Item(
             rawData.id,
+            "item",
             rawData.type,
             Seasons[season],
             new Date(rawData.dateAdded),

@@ -14,6 +14,7 @@ import { WorldEvent, WorldEvents } from './worldEvents';
 export class Cosmetic {
     constructor(
         public readonly id: string,
+        public readonly dataType: "cosmetic",
         public readonly type: ShipCosmeticType | PlayerOutfitType | PlayerAppearanceType,
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
@@ -97,6 +98,7 @@ export class Cosmetic {
         
         return new Cosmetic(
             rawData.id,
+            "cosmetic",
             rawData.type,
             new Date(rawData.dateAdded),
             new Date(rawData.lastUpdated),

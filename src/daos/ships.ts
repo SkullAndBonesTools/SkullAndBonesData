@@ -8,6 +8,7 @@ import { Season, Seasons } from './seasons';
 export class Ship {
     constructor(
         public readonly id: string,
+        public readonly dataType: "ship",
         public readonly size: ShipSize,
         public readonly type: string,
         public readonly archetype: ShipArchetype,
@@ -92,6 +93,7 @@ export class Ship {
 
         return new Ship(
             rawData.id,
+            "ship",
             rawData.size,
             rawData.type,
             rawData.archetype,

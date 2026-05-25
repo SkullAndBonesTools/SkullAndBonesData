@@ -6,6 +6,7 @@ import { Faction, Factions } from "./factions";
 
 export class Material {
     id!: string;
+    dataType!: "material";
     rarity!: Rarity;
     category!: MaterialCategory;
     required?: Map<Material, number>;
@@ -16,6 +17,7 @@ export class Material {
 
     constructor(id: string, rarity: Rarity, category: MaterialCategory, requiredRank?: string, faction?: Faction, event?: Event, deprecated?: boolean) {
         this.id = id;
+        this.dataType = "material";
         this.rarity = rarity;
         this.category = category;
         this.requiredRank = requiredRank;
