@@ -14938,6 +14938,7 @@
     "imperialDragons": {
         "id": "imperialDragons",
         "type": "crewLook",
+        "set": "shipOfDragons",
         "season": "intoTheDragonsWake",
         "required": {
             "sovereigns": 200
