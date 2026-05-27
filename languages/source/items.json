@@ -3230,6 +3230,12 @@
             "description": {
                 "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
             }
+        },
+        "verdantHuntsChest": {
+            "name": "Verdant Hunt's Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+            }
         }
     }
 }

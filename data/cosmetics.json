@@ -32403,73 +32403,73 @@
         "id": "gildcoinTricorne",
         "type": "headwear",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "beadsOfWisdom": {
         "id": "beadsOfWisdom",
         "type": "faceAccessory",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "feverGreen": {
         "id": "feverGreen",
         "type": "eyeColor",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "poetsCoat": {
         "id": "poetsCoat",
         "type": "torso",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "pendantOfPeril": {
         "id": "pendantOfPeril",
         "type": "neck",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "stolenSash": {
         "id": "stolenSash",
         "type": "waist",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "oceanEyes": {
         "id": "oceanEyes",
         "type": "hand",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "breezyPleats": {
         "id": "breezyPleats",
         "type": "bottom",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "suedeStrides": {
         "id": "suedeStrides",
         "type": "footwear",
         "set": "theBohemian",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "windWarrior": {
         "id": "windWarrior",
@@ -32547,60 +32547,60 @@
         "id": "raidersScar",
         "type": "sailsEmblem",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "windriderSP": {
         "id": "windriderSP",
         "type": "sailsPattern",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "bloodiedCanopy": {
         "id": "bloodiedCanopy",
         "type": "sailsColor",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "clawsOfConquest": {
         "id": "clawsOfConquest",
         "type": "figureHead",
         "effect": "emissive",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "emeraldWildbark": {
         "id": "emeraldWildbark",
         "type": "hull",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "stormHowler": {
         "id": "stormHowler",
         "type": "nameplate",
         "effect": "emissive",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "nightStalker": {
         "id": "nightStalker",
         "type": "wheel",
         "effect": "emissive",
         "set": "jadeProwler",
-        "obtainable": "ubisoftStore",
+        "obtainable": ["ubisoftStore","verdantHuntsChest"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     },
     "warBellow": {
         "id": "warBellow",
