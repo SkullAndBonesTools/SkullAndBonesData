@@ -16646,7 +16646,7 @@
         "weight": 175,
         "gearScore": 15,
         "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
-        "perks": "mortarPowderbench",
+        "perks": ["mortarPowderbench"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -16659,7 +16659,7 @@
         "weight": 175,
         "gearScore": 15,
         "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
-        "perks": "rocketPowderbench",
+        "perks": ["rocketPowderbench"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
@@ -16672,7 +16672,7 @@
         "weight": 175,
         "gearScore": 15,
         "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
-        "perks": "springloaderPowderbench",
+        "perks": ["springloaderPowderbench"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
