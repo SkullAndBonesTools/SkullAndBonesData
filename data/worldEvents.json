@@ -370,7 +370,8 @@
     },
     "theDrowningPlague": {
         "id": "theDrowningPlague",
-        "type": "eliteWarship"
+        "type": "eliteWarship",
+        "faction": "fleetOfPestilence"
     },
     "jawsOfRetribution": {
         "id": "jawsOfRetribution",
