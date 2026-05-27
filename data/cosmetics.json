@@ -2334,8 +2334,11 @@
     "dusksDoor": {
         "id": "dusksDoor",
         "type": "sailsPattern",
+        "set": "ghostShip",
+        "contract": "oceansApart",
+        "obtainable": "ghostShipChest",
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-03-19"
+        "lastUpdated": "2026-05-27"
     },
     "thornsReach": {
         "id": "thornsReach",
