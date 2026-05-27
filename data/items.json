@@ -16681,11 +16681,11 @@
         "rarity": "legendary",
         "season": "shatteredSeas",
         "type": "chest",
-        "worldEvent": ["chorusOfHavoc","thePlagueKing","theLoomingShadow","theDrowningPlague","theGreatShadow"],
+        "worldEvent": ["chorusOfHavoc","theGloriousPhoenix","thePlagueKing","theLoomingShadow","theDrowningPlague","theGreatShadow"],
         "obtainable": "theVerdantHunt",
         "value": 1,
         "weight": 100,
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-05-26"
     }
 }
