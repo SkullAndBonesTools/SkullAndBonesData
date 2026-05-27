@@ -3300,6 +3300,36 @@
                     "Increases Projectile Speed of Mending Weapons by 12%"
                 ]
             }
+        },
+        "splinter": {
+            "name": "Splinter",
+            "description": {
+                "general": [
+                    "Targets within the weapon's area of operation have a 30% chance to be instantly Punctured",
+                    "Punctured targets within the area of operation lose 2% Armor Rating per second up to 14%"
+                ]
+            }
+        },
+        "mortarPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Mortar by 15%"
+                ]
+            }
+        },
+        "rocketPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Rockets by 15%"
+                ]
+            }
+        },
+        "springloaderPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Springloader by 15%"
+                ]
+            }
         }
     }
 }

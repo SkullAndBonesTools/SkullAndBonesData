@@ -44,6 +44,8 @@
         "theHelmSeasonAscentIntoChaos": "Is/was purchasable in the Helm (Yanita, Houma) during {{ascentIntoChaos}}",
         "theHelmSeasonOathsOfWar": "Is/was purchasable in the Helm (Yanita, Houma) during {{oathsOfWar}}",
         "theHelmSeasonGutsAndGlory": "Is/was purchasable in the Helm (Yanita, Houma) during {{gutsAndGlory}}",
+        "theHelmSeasonEyeOfTheBeast": "Is/was purchasable in the Helm (Yanita, Houma) during {{eyeOfTheBeast}}",
+        "theHelmSeasonShatteredSeas": "Is/was purchasable in the Helm (Yanita, Houma) during {{shatteredSeas}}",
         "theHelmEvent": "Is/was purchasable in the Helm (Yanita, Houma) during that event",
         "outpostLostCityOfPrei": "Avant-poste Cité perdue de Prei",
         "outpostReturnFleetBight": "Avant-poste Baie du retour de flotte",
@@ -280,6 +282,7 @@
         "twitchDropYear3Season1": "Twitch Drops at the start of {{shatteredSeas}}",
         "ubisoftStoreSeasonalStarterPack": "Reward when buying the Seasonal Starter Pack from the Ubisoft Ingame Store",
         "ubisoftStoreSeasonalBox": "Reward when buying the Seasonal Box from the Ubisoft Ingame Store",
-        "ubisoftStoreSeasonalBoatload": "Reward when buying the Seasonal Boatload from the Ubisoft Ingame Store"
+        "ubisoftStoreSeasonalBoatload": "Reward when buying the Seasonal Boatload from the Ubisoft Ingame Store",
+        "theVerdantHunt": "Rare drop as part of the Verdant Hunt when defeating any of the listed world events during the first 6 weeks of {{shatteredSeas}}"
     }
 }

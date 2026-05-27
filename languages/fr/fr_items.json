@@ -3206,6 +3206,36 @@
             "description": {
                 "general": "Enhances the effectiveness of Mending weapons after prolonged use. Others have ventured further, studying the effects of shot sizes, angles, and bodily entry points."
             }
+        },
+        "lAiguille": {
+            "name": "L'Aiguille",
+            "description": {
+                "general": "A precise weapon of French design that shatters the hulls of their foes."
+            }
+        },
+        "mortarPowderbench": {
+            "name": "Mortar Powderbench",
+            "description": {
+                "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
+            }
+        },
+        "rocketPowderbench": {
+            "name": "Rocket Powderbench",
+            "description": {
+                "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
+            }
+        },
+        "springloaderPowderbench": {
+            "name": "Springloader Powderbench",
+            "description": {
+                "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
+            }
+        },
+        "verdantHuntsChest": {
+            "name": "Verdant Hunt's Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
+            }
         }
     }
 }
