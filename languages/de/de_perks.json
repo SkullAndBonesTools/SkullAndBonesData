@@ -823,7 +823,7 @@
         "toxic": {
             "name": "Toxisch",
             "description": {
-                "2": "Adds 20% of damage as Toxic Damage",
+                "2": "Fügt 20 % des Schadens als Giftschaden zu",
                 "3": "Fügt 30 % des Schadens als Giftschaden hinzu"
             }
         },
@@ -3143,135 +3143,135 @@
             }
         },
         "ironThunder": {
-            "name": "Iron Thunder",
+            "name": "Eiserner Donner",
             "description": {
                 "general": [
-                    "This ship gains a second row of lower deck weaponry",
-                    "Weapons equipped will deal 10% more weapon damage within 350m",
-                    "This ship gradually charges the status \"Iron Thunder\" over 1.5 seconds when it is not reloading any non-auxiliary weapon, which increases damage dealt by 65%. \"Iron Thunder\" is removed after 3 seconds on damage dealt to targets",
-                    "Allied XSML, SML and MED ships within 500m gain 10% increased damage for 30s while \"Iron Thunder\" is active"
+                    "Dieses Schiff erhält eine zweite Reihe an Unterdeck-Bewaffnung",
+                    "Ausgerüstete Waffen verursachen innerhalb von 350 m, 10% mehr Waffenschaden",
+                    "Dieses Schiff lädt allmählich im Laufe von 1.5 Sek. den Status \"Eiserner Donner\" auf, wenn keine Nicht-Hilfswaffen nachgeladen werden, wodurch sich der verursachte Schaden um 65% erhöht. \"Eiserner Donner\" wird nach 3 Sek. entfernt, sobald Zielen Schaden zugefügt wurde",
+                    "Während \"Eiserner Donner\" aktiv ist, erhalten verbündete extra--kleine, kleine und mittlere Schiffe innerhalb von 500, 30 Sek. lang 10% erhöhten Schaden"
                 ]
             }
         },
         "redWake": {
-            "name": "Red Wake",
+            "name": "Rotes Kielwasser",
             "description": {
                 "general": [
-                    "Increase damage dealt to targets within 250m by 35% when \"Iron Thunder\" is active",
-                    "On fully charging \"Iron Thunder\" or upon destroying a target, confer \"Red Wake\" status on your ship, which increases top speed by 50% for 15 seconds"
+                    "Erhöht den Schaden an Zielen innerhalb von 250 m um 35%, wenn \"Eiserner Donner\" aktiv ist",
+                    "Wenn \"Eiserner Donner\" voll aufgeladen ist oder ein Ziel zerstört wird, wird deinem Schiff \"Rotes Kielwasser\" gewährt, wodurch die Höchstgeschwindigkeit 15 Sek. lang um 50% erhöht wird"
                 ]
             }
         },
         "galleonUpgrade": {
             "description": {
                 "1": [
-                    "Increases Hull Health to 93600",
-                    "Increases Brace Strength to 18720"
+                    "Rumpfzustand wird auf 93600 erhöht",
+                    "Deckungsstärke wird auf 18720 erhöht"
                 ],
                 "2": [
-                    "Increases Cargo to 190000"
+                    "Fracht wird auf 190000 erhöht"
                 ],
                 "3": [
-                    "Increases Base Ship Rank to 6",
-                    "Increases Top Speed to 13kn",
-                    "Increases Trimming Speed to 17kn",
-                    "Adds 'Deep Blue' perk"
+                    "Grundschiffsrang wird auf 6 erhöht",
+                    "Höchstgeschwindigkeit wird auf 13kn erhöht",
+                    "Trimmgeschwindigkeit wird auf 17kn erhöht",
+                    "Fügt den Vorteil \"Blaue Tiefe\" hinzu"
                 ],
                 "4": [
-                    "Increases Hull Health to 105930",
-                    "Increases Brace Strength to 21186"
+                    "Rumpfzustand wird auf 105930 erhöht",
+                    "Deckungsstärke wird auf 21186 erhöht"
                 ],
                 "5": [
-                    "Increases Base Ship Rank to 7",
-                    "Increases Furniture Slots to 6"
+                    "Grundschiffsrang wird auf 7 erhöht",
+                    "Ausstattungsplätze wird auf 6 erhöht"
                 ],
                 "6": [
-                    "Increases Base Ship Rank to 8",
-                    "Increases Brace Strength Recovery by 12.5%",
-                    "Adds 'Red Wake' perk"
+                    "Grundschiffsrang wird auf 8 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 12.5% erhöht",
+                    "Fügt den Vorteil \"Rote Welle\" hinzu"
                 ],
                 "7": [
-                    "Increases Base Ship Rank to 9",
-                    "Increases Hull Health to 116523",
-                    "Increases Brace Strength to 23304",
-                    "Increases Brace Strength Recovery by 25%"
+                    "Grundschiffsrang wird auf 9 erhöht",
+                    "Rumpfzustand wird auf 116523 erhöht",
+                    "Deckungsstärke wird auf 23304 erhöht",
+                    "Deckungsstärken-Wiederherstellung wird um 25% erhöht"
                 ]
             }
         },
         "pulverize": {
-            "name": "Pulverize",
+            "name": "Pulverisieren",
             "description": {
                 "general": [
-                    "After landing 6 consecutive hits, increase this weapon's damage by 12% for 25s. If the target is Punctured, hits increase weapon damage up to 18% instead",
-                    "Missing a hit removes this effect"
+                    "Nachdem 6 aufeinanderfolgende Treffer gelandet wurden, erhöht sich der Waffenschaden um 12% für 25 Sek. Ist das Ziel von Durchstochen betroffen, erhöhen Treffer den Waffenschaden stattdessen um 18%",
+                    "Fehlschüsse entfernen den Effekt"
                 ]
             }
         },
         "mysticMend": {
-            "name": "Mystic Mend",
+            "name": "Mystische Instandsetzung",
             "description": {
                 "general": [
-                    "Heals for 10% of damage dealt",
-                    "Hitting 16 projectiles in one salvo increases mending amount received from this weapon to 35% for 16s"
+                    "Heilt in Höhe von 10% des verursachten Schadens",
+                    "Wenn 16 Projektile einer Salve treffen, erhöht sich die Heilmenge dieser Waffe 16 Sek. lang um 35%"
                 ]
             }
         },
         "sickly": {
-            "name": "Sickly",
+            "name": "Kränklich",
             "description": {
                 "general": [
-                    "For each 1% Brace Strength missing from the target, deal 0.5% more weapon damage with this weapon up to 15%",
-                    "If the target is Poisoned, gain an extra 30%"
+                    "Pro fehlende 1% Deckungsstärke des Zieles verursacht diese Waffe 0.5% Waffenschaden zusätzlich (max 15%)",
+                    "Ist das Ziel von Vergiftet betroffen, erhählst zu zusätzlich 30%"
                 ]
             }
         },
         "hauntingMend": {
-            "name": "Haunting Mend",
+            "name": "Verstörende Heilung",
             "description": {
                 "general": [
-                    "20% of damage dealt restores Hull Health, increasing by 20% for every additional target within the impact radius, up to a maximum of 60%"
+                    "20% des verursachten Schadens stellen Rumpfzustand wieder her, wobei sich dieser Wert für jedes weitere Ziel im Explosionsradius um 20% erhöht (bis max. 60%)"
                 ]
             }
         },
         "oceansSnare": {
-            "name": "Ocean's Snare",
+            "name": "Schlinge der See",
             "description": {
                 "general": [
-                    "Hits from this weapon reduce the target's sailing speed by an additional 12% when they are Flooded",
-                    "Hits on stationary targets or targets affected by Flooded or Torn Sails status deal 60% more damage"
+                    "Treffer dieser Waffe verringern die Segelgeschwindigkeit von Gegnern zusätzlich um 12%, wenn diese von Überflutet betroffen sind",
+                    "Treffer bei stationären Zielen oder Zielen, die von Überflutet oder Zerrissene Segel betroffen sind, verursachen zusätzlich 60% mehr Schaden"
                 ]
             }
         },
         "tideOfRestoration": {
-            "name": "Tide of Restoration",
+            "name": "Reparierende Gezeiten",
             "description": {
                 "general": [
-                    "20% of weapon damage dealt to your Brace Strength by Flooded targets within 150m is restores as Hull Health to your ship"
+                    "20% des zugefügten Waffenschaden an dir (Deckungsstärke) von Überflutet Zielen innerhalb von 150 m wird als Rumpfzustand deines Schiffes wiederhergestellt"
                 ]
             }
         },
         "brackishBite": {
-            "name": "Brackish Bite",
+            "name": "Brackwasserbiss",
             "description": {
                 "general": [
-                    "Bracing hits from Punctured targets increases Armor Rating by 5% up to 15% and Piercing Weapon damage by 3% up to 9% for 30s"
+                    "Wenn du in Deckung durch Ziele mit Durchstochen getroffen wirst, erhöht sich dein Panzerungswert um 5% (bis zu 15% stapelbar) und der Durchschlagwaffenschaden um 3% (bis 9% stapelbar). Hält 30 Sek. lang an"
                 ]
             }
         },
         "drownedOrgan": {
             "description": {
                 "general": [
-                    "Mending Weapons deal 20% more weapon damage while your ship is below 60% Hull Health",
-                    "Mending Weapons gain 1% Secondary Damage per 1% Hull Health missing up to 30%",
-                    "Increases Max Hull Health by 1% per Mending weapon equipped"
+                    "Heilende Waffen verursacht 20% mehr Waffenschaden, wenn dein Schiff unter 60% Rumpfzustand ist",
+                    "Heilende Waffen erhält 1% Sekundärschaden pro fehlende 1% Rumpfzustand, bis zu 30%",
+                    "Erhöht Maximaler Rumpfzustand um 1% pro ausgerüstete Heilungs-Waffe"
                 ]
             }
         },
         "royalRammingWorks": {
             "description": {
                 "general": [
-                    "Ramming instantly builds 50% of the Punctured status effect on the target, and additionally causes the target to slow down by 20% for 20s",
-                    "If the target is Punctured, it will receive 15% more damage from Piercing weapons",
+                    "Rammen baut beim Ziel sofort 50% des Statuseffekts Durchstochen auf. Zudem wird das Ziel 20 Sek. lang um 20% verlangsamt",
+                    "Wenn das Ziel von Durchstochen betroffen ist, erleidet es 15% mehr Schaden durch Durchschlagswaffen",
                     "Targets within 250m receive 7% more Punctured status charge"
                 ]
             }
@@ -3281,15 +3281,15 @@
                 "general": [
                     "Each consecutive hit increases Flooding charges applied by 2% and damage dealt by 2%, stacking up to a maximum of 20% for each effect. Missing a shot will reset the stacks",
                     "Take 10% less weapon damage from enemies afflicted with Flooded",
-                    "Increases duration of the Flooded status effect on a target by 10%"
+                    "Die Dauer des Statuseffekts \"Überflutet\" auf einem Ziel wird um 10% erhöht"
                 ]
             }
         },
         "hullMarkersTable": {
             "description": {
                 "general": [
-                    "Broadside weapon hits have a 5% chance to apply an Impact Mark. Affected targets receive 20% more damage from every cannonball ammo for 20s",
-                    "For every Cannonball ammo weapon equipped, Secondary Damage of equipped weapons increases by 5%"
+                    "Breitseitentreffer fügen mit einer Chance von 5% \"Einschlagsmarkierung\" zu. Betroffene Zeile erleiden 20 Sek. lang 20% mehr Schaden durch Kanonenkugelwaffen",
+                    "Für jede ausgerüstete Kanonenkugelwaffe wird der Sekundärschaden ausgerüsteter Waffen um 5% erhöht"
                 ]
             }
         },
@@ -3297,7 +3297,37 @@
             "description": {
                 "general": [
                     "Increases Secondary Damage dealt by Mending Weapons by 7% per consecutive hit up to 35% for 5s",
-                    "Increases Projectile Speed of Mending Weapons by 12%"
+                    "Projektilgeschwindigkeit von Heilenden Waffen wird um 12% erhöht"
+                ]
+            }
+        },
+        "splinter": {
+            "name": "Splinter",
+            "description": {
+                "general": [
+                    "Targets within the weapon's area of operation have a 30% chance to be instantly Punctured",
+                    "Punctured targets within the area of operation lose 2% Armor Rating per second up to 14%"
+                ]
+            }
+        },
+        "mortarPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Mortar by 15%"
+                ]
+            }
+        },
+        "rocketPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Rockets by 15%"
+                ]
+            }
+        },
+        "springloaderPowderbench": {
+            "description": {
+                "general": [
+                    "Reduces Time-to-Target of Springloader by 15%"
                 ]
             }
         }

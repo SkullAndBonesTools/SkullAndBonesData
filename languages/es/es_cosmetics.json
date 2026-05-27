@@ -9648,10 +9648,10 @@
                 "general": "La excepción dentro de un atuendo más bien irregular."
             }
         },
-        "elDoradoanWarriorBoots": {
-            "name": "Guerrero de El Dorado",
+        "goldenStride": {
+            "name": "Golden Stride",
             "description": {
-                "general": "Cuidado con las puntas foliáceas verdosas, son letales al tacto."
+                "general": "Even gold comes from the deep earth"
             }
         },
         "realmsGate": {
