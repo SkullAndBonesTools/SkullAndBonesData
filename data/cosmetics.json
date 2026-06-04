@@ -25706,6 +25706,7 @@
         "id": "calypsosCurse",
         "type": "crewLook",
         "set": "drownedWitch",
+        "season": "oathsOfWar",
         "obtainable": "premiumPass",
         "dateAdded": "2025-08-05",
         "lastUpdated": "2026-06-04"
