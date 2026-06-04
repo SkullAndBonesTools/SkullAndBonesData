@@ -16152,13 +16152,12 @@
         "id": "fieryJustice",
         "type": "sailsColor",
         "set": "phoenixWings",
-        "effect": "emissive",
         "season": "intoTheDragonsWake",
         "bounty": "theGloriousPhoenix",
         "worldEvent": "theGloriousPhoenix",
         "obtainable": "phoenixsTalonStrongbox",
         "dateAdded": "2024-08-27",
-        "lastUpdated": "2024-08-27"
+        "lastUpdated": "2026-06-05"
     },
     "wingsOnTheWind": {
         "id": "wingsOnTheWind",
