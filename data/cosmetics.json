@@ -25705,9 +25705,10 @@
     "calypsosCurse": {
         "id": "calypsosCurse",
         "type": "crewLook",
+        "set": "drownedWitch",
         "obtainable": "premiumPass",
         "dateAdded": "2025-08-05",
-        "lastUpdated": "2025-08-05"
+        "lastUpdated": "2026-06-04"
     },
     "heedDeath": {
         "id": "heedDeath",
