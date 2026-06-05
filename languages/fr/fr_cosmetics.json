@@ -10405,9 +10405,9 @@
             }
         },
         "pointedFate": {
-            "name": "Destin en pointillé",
+            "name": "Long for Death",
             "description": {
-                "general": "Les flèches indiquent le chemin du paradis ou de l'enfer"
+                "general": "Better to die free than to be made an example of"
             }
         },
         "chaosSwirls": {
@@ -23128,6 +23128,12 @@
             "name": "Wings of Chaos",
             "description": {
                 "general": "A fierce and feathery warning"
+            }
+        },
+        "captainOfTheDeep": {
+            "name": "Captain of the Deep",
+            "description": {
+                "general": "For the one who faces what others fear"
             }
         }
     }

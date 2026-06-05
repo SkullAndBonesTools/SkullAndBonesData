@@ -109,9 +109,9 @@
             }
         },
         "galleon": {
-            "name": "Galleon",
+            "name": "Galeone",
             "description": {
-                "general": "A ship reforged to excel in close-ranger slaughter and dominance. Spanish in origin, it is coveted by pirates and companies alike, and commandeered by only the boldest captains."
+                "general": "Eine Schiffsneuschmiedung, um sich in Nahkampfgemezeln hervorzutun. Ursprünglich aus Spanien stammend ist die Galeone bei Piraten und Kompanien gleichermaßen begehrt. Und sie wird nur von den mutigsten Kaptn's kommandiert."
             }
         }
     }

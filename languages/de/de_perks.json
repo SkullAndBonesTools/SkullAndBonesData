@@ -3272,15 +3272,15 @@
                 "general": [
                     "Rammen baut beim Ziel sofort 50% des Statuseffekts Durchstochen auf. Zudem wird das Ziel 20 Sek. lang um 20% verlangsamt",
                     "Wenn das Ziel von Durchstochen betroffen ist, erleidet es 15% mehr Schaden durch Durchschlagswaffen",
-                    "Targets within 250m receive 7% more Punctured status charge"
+                    "Ziele innerhalb von 250 m erleiden 7% mehr Statuseffekt-Aufladungen für Durchstochen"
                 ]
             }
         },
         "floodwardenStation": {
             "description": {
                 "general": [
-                    "Each consecutive hit increases Flooding charges applied by 2% and damage dealt by 2%, stacking up to a maximum of 20% for each effect. Missing a shot will reset the stacks",
-                    "Take 10% less weapon damage from enemies afflicted with Flooded",
+                    "Jeder aufeinanderfolgende Treffer erhöht die zugefügten Aufladungen von Überflutung um 2% und den verursachten Schaden um 2% (Max. für beide Effekte: 20%). Das Verfehlen eines Schusses setzt die Aufladungen zurück",
+                    "Erleide 10% weniger Waffenschaden von Gegnern, die mit Überflutet belegt sind",
                     "Die Dauer des Statuseffekts \"Überflutet\" auf einem Ziel wird um 10% erhöht"
                 ]
             }
@@ -3296,38 +3296,38 @@
         "physiciansLedger": {
             "description": {
                 "general": [
-                    "Increases Secondary Damage dealt by Mending Weapons by 7% per consecutive hit up to 35% for 5s",
+                    "Erhöht 5 Sek. lang Sekundärschaden verursacht durch Heilende Waffen pro aufeinanderfolgendem Treffer um 7% (max. 35%)",
                     "Projektilgeschwindigkeit von Heilenden Waffen wird um 12% erhöht"
                 ]
             }
         },
         "splinter": {
-            "name": "Splinter",
+            "name": "Splitter",
             "description": {
                 "general": [
-                    "Targets within the weapon's area of operation have a 30% chance to be instantly Punctured",
-                    "Punctured targets within the area of operation lose 2% Armor Rating per second up to 14%"
+                    "Ziele im Bereich dieser Waffe werden mit 30% Chance sofort Durchstochen",
+                    "Durchstochen-Ziele im Bereich dieser Waffe verlieren pro Sekunde 2% Panzerungswert (max. 14%)"
                 ]
             }
         },
         "mortarPowderbench": {
             "description": {
                 "general": [
-                    "Reduces Time-to-Target of Mortar by 15%"
+                    "Zeit-zum-Ziel von Mörser wird um 15% verringert"
                 ]
             }
         },
         "rocketPowderbench": {
             "description": {
                 "general": [
-                    "Reduces Time-to-Target of Rockets by 15%"
+                    "Zeit-zum-Ziel von Raketen werden um 15% verringert"
                 ]
             }
         },
         "springloaderPowderbench": {
             "description": {
                 "general": [
-                    "Reduces Time-to-Target of Springloader by 15%"
+                    "Zeit-zum-Ziel von Bojen werden um 15% verringert"
                 ]
             }
         }
