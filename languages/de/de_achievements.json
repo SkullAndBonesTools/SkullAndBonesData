@@ -270,7 +270,7 @@
         },
         "claimToFameY3S1": {
             "name": "Berühmtheit (J3S1)",
-            "description": "Gain %s Infamy in Year 3 Season 1"
+            "description": "Erhalte %s Ruhm in Jahr 3 Saison 1."
         }
     }
 }

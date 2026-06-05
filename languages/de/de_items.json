@@ -3210,25 +3210,25 @@
         "lAiguille": {
             "name": "L'Aiguille",
             "description": {
-                "general": "A precise weapon of French design that shatters the hulls of their foes."
+                "general": "Eine präzise Waffe französischen Designs, die die Rümpfe ihrer Feinde vernichtet."
             }
         },
         "mortarPowderbench": {
-            "name": "Mortar Powderbench",
+            "name": "Mörser-Werkbank",
             "description": {
-                "general": "Enhances Mortar Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Mortar shells mid-flight."
+                "general": "Verbessert Mörserwaffen und verringert die Zeit, bis das Projektil das Ziel erreicht. Eine Bank, die zur Optimierung der Windscherung bei Mörsern verwendet wird."
             }
         },
         "rocketPowderbench": {
-            "name": "Rocket Powderbench",
+            "name": "Raketen-Werkbank",
             "description": {
-                "general": "Enhances Rocket Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Rockets mid-flight."
+                "general": "Verbessert Raketenwaffen und verringert die Zeit, bis das Projektil das Ziel erreicht. Eine Bank, die zur Optimierung der Windscherung bei Raketen verwendet wird."
             }
         },
         "springloaderPowderbench": {
-            "name": "Springloader Powderbench",
+            "name": "Sprunglader-Werkbank",
             "description": {
-                "general": "Enhances Springloader Weapons and reduces time for the projectile to reach targets. A bench used to optimize wind shear on Buoys mid-flight."
+                "general": "Verbessert Sprunglader-Waffen und verringert die Zeit, bis das Projektil das Ziel erreicht. Eine Bank, die zur Optimierung der Windscherung bei Bojen verwendet wird."
             }
         },
         "verdantHuntsChest": {

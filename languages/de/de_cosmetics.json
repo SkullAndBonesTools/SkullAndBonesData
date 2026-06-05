@@ -10405,9 +10405,9 @@
             }
         },
         "pointedFate": {
-            "name": "Gerichtetes Schicksal",
+            "name": "Sehnen nach dem Tod",
             "description": {
-                "general": "Die Pfeile markieren den Weg zum Himmel oder zur Hölle"
+                "general": "Lieber in Freiheit sterben, als zur Abschreckung herzuhalten"
             }
         },
         "chaosSwirls": {
@@ -23128,6 +23128,12 @@
             "name": "Wings of Chaos",
             "description": {
                 "general": "A fierce and feathery warning"
+            }
+        },
+        "captainOfTheDeep": {
+            "name": "Käpt'n der Tiefen",
+            "description": {
+                "general": "Für jene, die Dinge konfrontieren, die andere fürchten."
             }
         }
     }
