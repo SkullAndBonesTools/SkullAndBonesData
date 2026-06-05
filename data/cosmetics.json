@@ -33730,5 +33730,13 @@
         "obtainable": [["friendReferralProgram","friendReferralProgramTier2"]],
         "dateAdded": "2026-05-19",
         "lastUpdated": "2026-05-19"
+    },
+    "captainOfTheDeep": {
+        "id": "captainOfTheDeep",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "obtainable": [["twitchDrop","twitchDropCaptainGTI"]],
+        "dateAdded": "2026-05-26",
+        "lastUpdated": "2026-05-26"
     }
 }

@@ -23129,6 +23129,12 @@
             "description": {
                 "general": "A fierce and feathery warning"
             }
+        },
+        "captainOfTheDeep": {
+            "name": "Captain of the Deep",
+            "description": {
+                "general": "For the one who faces what others fear"
+            }
         }
     }
 }
