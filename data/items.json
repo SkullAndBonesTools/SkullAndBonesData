@@ -15811,12 +15811,12 @@
         "gearScore": 297,
         "armor": 1150,
         "damageMitigation": {
-            "explosive": 0.2,
+            "explosive": 0,
             "flooding": 0.3,
-            "fire": 0.2,
+            "fire": 0,
             "tearing": 0,
             "piercing": 0.3,
-            "electric": 0.4,
+            "electric": 0.2,
             "toxic": 0.1
         },
         "obtainable": "smugglerPass",
@@ -15824,7 +15824,7 @@
             "primordialHides"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-06-05"
     },
     "tidesReprieve": {
         "id": "tidesReprieve",
