@@ -17,3 +17,4 @@ export const PlayerAppearanceTypes = [
     "hair", "facialHair", "eyeColor"
 ] as const;
 export type PlayerAppearanceType = (typeof PlayerAppearanceTypes)[number];
+export type InofficialCosmeticType = "setPiece";

@@ -1,5 +1,5 @@
 import cosmeticsData from '../../data/cosmetics.json';
-import { CosmeticEffect, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from '../types/CosmeticProperties';
+import { CosmeticEffect, InofficialCosmeticType, PlayerAppearanceType, PlayerOutfitType, ShipCosmeticType } from '../types/CosmeticProperties';
 import { Rarity } from '../types/Rarity';
 import { Contract, Contracts } from './contracts';
 import { Event, Events } from './events';
@@ -44,7 +44,11 @@ export class Cosmetic {
         /**
          * Timestamp of when the cosmetic was removed from the game. Use only for completely removed pieces.
          */
-        public readonly removed?: Date
+        public readonly removed?: Date,
+        /**
+         * Indicates if some part of the information is not present like this in-game.
+         */
+        public readonly inofficial?: InofficialCosmeticType
     ) {}
 
     public static fromRawData(rawData: any): Cosmetic {
@@ -119,7 +123,8 @@ export class Cosmetic {
             rawData.bounty ?? undefined,
             rawData.event ? Events[event] : undefined,
             worldEvent ?? undefined,
-            rawData.removed ? new Date(rawData.removed) : undefined
+            rawData.removed ? new Date(rawData.removed) : undefined,
+            rawData.inofficial as InofficialCosmeticType | undefined
         );
     }
 

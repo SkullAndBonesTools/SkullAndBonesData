@@ -14942,13 +14942,14 @@
         "id": "imperialDragons",
         "type": "crewLook",
         "set": "shipOfDragons",
+        "inofficial": "setPiece",
         "season": "intoTheDragonsWake",
         "required": {
             "sovereigns": 200
         },
         "obtainable": "theHelmSeasonal",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2026-05-25"
+        "lastUpdated": "2026-06-05"
     },
     "skyTerror": {
         "id": "skyTerror",
@@ -14994,10 +14995,12 @@
     "medusaTouched": {
         "id": "medusaTouched",
         "type": "crewLook",
+        "set": "medusaScorned",
+        "inofficial": "setPiece",
         "season": "intoTheDragonsWake",
         "obtainable": "premiumPass",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2024-08-22"
+        "lastUpdated": "2026-06-05"
     },
     "firelight": {
         "id": "firelight",
@@ -17433,9 +17436,11 @@
     "kumihosSkulk": {
         "id": "kumihosSkulk",
         "type": "crewLook",
+        "set": "kumihoShip",
+        "inofficial": "setPiece",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-09-24",
-        "lastUpdated": "2024-09-24"
+        "lastUpdated": "2026-06-05"
     },
     "legendOfKumiho": {
         "id": "legendOfKumiho",
@@ -18237,9 +18242,11 @@
         "type": "crewLook",
         "season": "shadowsOfTheDeep",
         "event": "azureSolstice",
+        "set": "wintersBite",
+        "inofficial": "setPiece",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2024-12-03",
-        "lastUpdated": "2024-12-03"
+        "lastUpdated": "2026-06-05"
     },
     "hattersTrademark": {
         "id": "hattersTrademark",
@@ -18728,10 +18735,12 @@
     "rakshasasWarriors": {
         "id": "rakshasasWarriors",
         "type": "crewLook",
+        "set": "rakshasa",
+        "inofficial": "setPiece",
         "season": "shadowsOfTheDeep",
         "obtainable": "premiumPass",
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2026-06-05"
     },
     "dragonOfFortune": {
         "id": "dragonOfFortune",
@@ -19770,20 +19779,24 @@
     "nautilianRascals": {
         "id": "nautilianRascals",
         "type": "crewLook",
+        "set": "nautilian",
+        "inofficial": "setPiece",
         "obtainable": "ubisoftStore",
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-12-10"
+        "lastUpdated": "2026-06-05"
     },
     "maharajasKnights": {
         "id": "maharajasKnights",
         "type": "crewLook",
         "season": "shadowsOfTheDeep",
+        "set": "maharajaShip",
+        "inofficial": "setPiece",
         "obtainable": "theHelmSeasonal",
         "required": {
             "sovereigns": 200
         },
         "dateAdded": "2024-11-19",
-        "lastUpdated": "2024-11-19"
+        "lastUpdated": "2026-06-05"
     },
     "treasuredForever": {
         "id": "treasuredForever",
@@ -22159,10 +22172,12 @@
     "sunkenSouls": {
         "id": "sunkenSouls",
         "type": "crewLook",
+        "set": "innerDepths",
+        "inofficial": "setPiece",
         "season": "ascentIntoChaos",
         "obtainable": "premiumPass",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-06-05"
     },
     "theGloriousDead": {
         "id": "theGloriousDead",
@@ -25154,9 +25169,11 @@
     "sunkissedSeadogs": {
         "id": "sunkissedSeadogs",
         "type": "crewLook",
+        "set": "fortuneFounders",
+        "inofficial": "setPiece",
         "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2026-05-13"
+        "lastUpdated": "2026-06-05"
     },
     "blindingMoves": {
         "id": "blindingMoves",
@@ -25705,10 +25722,11 @@
         "id": "calypsosCurse",
         "type": "crewLook",
         "set": "drownedWitch",
+        "inofficial": "setPiece",
         "season": "oathsOfWar",
         "obtainable": "premiumPass",
         "dateAdded": "2025-08-05",
-        "lastUpdated": "2026-06-04"
+        "lastUpdated": "2026-06-05"
     },
     "heedDeath": {
         "id": "heedDeath",
