@@ -374,5 +374,10 @@
         "rarity": "common",
         "category": "event",
         "event": "mooncakeRegatta"
+    },
+    "cipherMooncake": {
+        "rarity": "common",
+        "category": "event",
+        "event": "mooncakeRegatta"
     }
 }

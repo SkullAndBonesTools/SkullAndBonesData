@@ -303,6 +303,10 @@
         "encryptedMooncake": {
             "name": "Encrypted Mooncake",
             "description": "An encrypted message is hidden within this delicate mooncake."
+        },
+        "cipherMooncake": {
+            "name": "Cipher Mooncake",
+            "description": "A re-encrypted mooncake needs to be handled carefully."
         }
     }
 }
