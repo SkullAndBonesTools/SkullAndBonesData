@@ -833,7 +833,7 @@
     },
     "madCollectorShip": {
         "id": "madCollectorShip",
-        "type": "player"
+        "type": "ship"
     },
     "zeussChariot": {
         "id": "zeussChariot",
