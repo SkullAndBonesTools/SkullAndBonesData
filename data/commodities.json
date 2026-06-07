@@ -369,5 +369,10 @@
         "rarity": "epic",
         "category": "summoningBell",
         "event": "legendOfTheNian"
+    },
+    "encryptedMooncake": {
+        "rarity": "common",
+        "category": "event",
+        "event": "mooncakeRegatta"
     }
 }
