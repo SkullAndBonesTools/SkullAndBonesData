@@ -205,7 +205,7 @@
     },
     "hessels": {
         "id": "hessels",
-        "type": "ship"
+        "type": "player"
     },
     "viciousJackal": {
         "id": "viciousJackal",
@@ -297,7 +297,7 @@
     },
     "anpakasDespair": {
         "id": "anpakasDespair",
-        "type": "ship"
+        "type": "player"
     },
     "eastIndiesBrigand": {
         "id": "eastIndiesBrigand",
