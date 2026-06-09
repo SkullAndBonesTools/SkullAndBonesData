@@ -857,7 +857,7 @@
     },
     "madCollector": {
         "id": "madCollector",
-        "type": "ship"
+        "type": "player"
     },
     "azureTouched": {
         "id": "azureTouched",
