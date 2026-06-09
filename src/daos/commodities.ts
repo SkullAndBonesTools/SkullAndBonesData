@@ -17,13 +17,13 @@ export class Commodity {
         public readonly deprecated?: boolean
     ) {}
 
-    public static fromRawData(rawData: any): Commodity {
+    public static fromRawData(key: string, rawData: any): Commodity {
         const event = rawData.event as keyof typeof Events;
         const faction = rawData.faction as keyof typeof Factions;
         const contract = rawData.contract as keyof typeof Contracts;
 
         return new Commodity(
-            rawData.id,
+            key,
             "commodity",
             rawData.rarity as Rarity,
             rawData.category as CommodityCategory,
@@ -37,7 +37,7 @@ export class Commodity {
     public static loadCommodities(): Record<string, Commodity> {
         const commodities: Record<string, Commodity> = {};
         for (const [key, value] of Object.entries(commoditiesData)) {
-            commodities[key] = Commodity.fromRawData(value);
+            commodities[key] = Commodity.fromRawData(key, value);
         }
         return commodities;
     }
