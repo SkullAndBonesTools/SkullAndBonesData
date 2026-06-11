@@ -2083,7 +2083,7 @@
             }
         },
         "theMiscreant": {
-            "name": "Der Missetäter",
+            "name": "The Miscreant",
             "description": {
                 "general": "Du hast dich mit dem Schatz davongemacht, Schändlicher."
             }
@@ -16615,7 +16615,7 @@
             }
         },
         "eyeOnThePrizeWheel": {
-            "name": "Die Beute im Blick",
+            "name": "Eye on the Prize",
             "description": {
                 "general": "Verliere nie aus den Augen, worum du spielst."
             }

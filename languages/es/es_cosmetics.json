@@ -2083,7 +2083,7 @@
             }
         },
         "theMiscreant": {
-            "name": "elDiscreto",
+            "name": "The Miscreant",
             "description": {
                 "general": "Os llevasteis el tesoro, nos hicisteis daño"
             }
@@ -16615,7 +16615,7 @@
             }
         },
         "eyeOnThePrizeWheel": {
-            "name": "Eye on the Prize Wheel",
+            "name": "Eye on the Prize",
             "description": {
                 "general": "Never lose sight of what you're playing for"
             }
