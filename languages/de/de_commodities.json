@@ -299,6 +299,14 @@
         "nianFlare": {
             "name": "Nian-Leuchtsignal",
             "description": "Verankerte Münzen wickelten sich um das Biest, dessen Schicksal durch seine Gier besiegelt sein sollte."
+        },
+        "encryptedMooncake": {
+            "name": "Encrypted Mooncake",
+            "description": "An encrypted message is hidden within this delicate mooncake."
+        },
+        "cipherMooncake": {
+            "name": "Cipher Mooncake",
+            "description": "A re-encrypted mooncake needs to be handled carefully."
         }
     }
 }

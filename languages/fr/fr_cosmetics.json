@@ -2083,7 +2083,7 @@
             }
         },
         "theMiscreant": {
-            "name": "Le Mécréant",
+            "name": "The Miscreant",
             "description": {
                 "general": "Vous vous êtes enfuis avec le trésor, vous nous avez fait du tort"
             }
@@ -16615,7 +16615,7 @@
             }
         },
         "eyeOnThePrizeWheel": {
-            "name": "Eye on the Prize Wheel",
+            "name": "Eye on the Prize",
             "description": {
                 "general": "Never lose sight of what you're playing for"
             }
