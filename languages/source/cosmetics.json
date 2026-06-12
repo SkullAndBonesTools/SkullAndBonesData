@@ -23183,6 +23183,18 @@
             "description": {
                 "general": "Plunder in style"
             }
+        },
+        "brinyBottoms": {
+            "name": "Briny Bottoms",
+            "description": {
+                "general": "Still does its job, no?"
+            }
+        },
+        "shadyLeggings": {
+            "name": "Shady Leggings",
+            "description": {
+                "general": "Protect the cargo. Don't get spotted."
+            }
         }
     }
 }

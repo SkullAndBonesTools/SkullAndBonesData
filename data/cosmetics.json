@@ -33794,5 +33794,17 @@
         "type": "headwear",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
+    },
+    "brinyBottoms": {
+        "id": "brinyBottoms",
+        "type": "bottom",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "shadyLeggings": {
+        "id": "shadyLeggings",
+        "type": "bottom",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
     }
 }
