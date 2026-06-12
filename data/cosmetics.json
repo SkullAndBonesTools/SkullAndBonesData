@@ -33788,5 +33788,11 @@
         "obtainable": "settlementKencur",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
+    },
+    "corsairsPeak": {
+        "id": "corsairsPeak",
+        "type": "headwear",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
     }
 }

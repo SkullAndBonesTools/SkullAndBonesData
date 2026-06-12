@@ -23177,6 +23177,12 @@
             "description": {
                 "general": "Even other Rempah vessels were not spared the predations of the Orang Lanun"
             }
+        },
+        "corsairsPeak": {
+            "name": "Corsair's Peak",
+            "description": {
+                "general": "Plunder in style"
+            }
         }
     }
 }
