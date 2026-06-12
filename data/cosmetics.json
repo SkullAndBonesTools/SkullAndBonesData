@@ -9469,7 +9469,7 @@
         },
         "obtainable": "rogueTraderHenriettaQuint",
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-06-12"
     },
     "seasprayedPants": {
         "id": "seasprayedPants",
@@ -33792,12 +33792,6 @@
     "corsairsPeak": {
         "id": "corsairsPeak",
         "type": "headwear",
-        "dateAdded": "2026-06-12",
-        "lastUpdated": "2026-06-12"
-    },
-    "brinyBottoms": {
-        "id": "brinyBottoms",
-        "type": "bottom",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
     },

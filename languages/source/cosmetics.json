@@ -6913,7 +6913,7 @@
             }
         },
         "rippedSkirt": {
-            "name": "Ripped Skirt",
+            "name": "Briny Bottoms",
             "description": {
                 "general": "Still does its job, no?"
             }
@@ -23182,12 +23182,6 @@
             "name": "Corsair's Peak",
             "description": {
                 "general": "Plunder in style"
-            }
-        },
-        "brinyBottoms": {
-            "name": "Briny Bottoms",
-            "description": {
-                "general": "Still does its job, no?"
             }
         },
         "shadyLeggings": {
