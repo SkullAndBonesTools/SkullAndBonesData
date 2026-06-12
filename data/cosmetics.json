@@ -8729,9 +8729,9 @@
         "id": "rempahRaiderSandals",
         "type": "footwear",
         "set": "rempahRaider",
-        "obtainable": "vanityAtelier",
+        "obtainable": ["vanityAtelier","settlementKotaLama"],
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-05-08"
+        "lastUpdated": "2026-06-12"
     },
     "lanunLegband": {
         "id": "lanunLegband",
@@ -33746,5 +33746,47 @@
         "obtainable": "courtingDeathReplacement",
         "dateAdded": "2026-06-11",
         "lastUpdated": "2026-06-11"
+    },
+    "lanunBracelet": {
+        "id": "lanunBracelet",
+        "type": "forearm",
+        "obtainable": "settlementKotaLama",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "lanunGarment": {
+        "id": "lanunGarment",
+        "type": "torso",
+        "obtainable": "settlementDamai",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "lanunManchette": {
+        "id": "lanunManchette",
+        "type": "forearm",
+        "obtainable": "settlementKotaLama",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "coxswainBelt": {
+        "id": "coxswainBelt",
+        "type": "waist",
+        "obtainable": "settlementSangdad",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "lanunNeckwear": {
+        "id": "lanunNeckwear",
+        "type": "neck",
+        "obtainable": "settlementSangdad",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "lanunBottoms": {
+        "id": "lanunBottoms",
+        "type": "bottom",
+        "obtainable": "settlementKencur",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
     }
 }

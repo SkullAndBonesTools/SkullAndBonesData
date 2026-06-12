@@ -23141,6 +23141,42 @@
             "description": {
                 "general": "Death comes swift and quiet"
             }
+        },
+        "lanunBracelet": {
+            "name": "Lanun Bracelet",
+            "description": {
+                "general": "The spray of salt and call of the tides entice the Rempah"
+            }
+        },
+        "lanunGarment": {
+            "name": "Lanun Garment",
+            "description": {
+                "general": "The chaos of Rahma's war has also led to opportunity, for those Rempah willing to seize it"
+            }
+        },
+        "lanunManchette": {
+            "name": "Lanun Manchette",
+            "description": {
+                "general": "Rempah fertility cults revered snakes as deities of the waters, bringing fortune and favor"
+            }
+        },
+        "coxswainBelt": {
+            "name": "Coxswain Belt",
+            "description": {
+                "general": "\"Holds my sarong in place. Lets me steer. What more does a tradesman of the Rempah need?\""
+            }
+        },
+        "lanunNeckwear": {
+            "name": "Lanun Neckwear",
+            "description": {
+                "general": "Rempah accessory draped around the neck. So ragged as to be unrecognizable."
+            }
+        },
+        "lanunBottoms": {
+            "name": "Lanun Bottoms",
+            "description": {
+                "general": "Even other Rempah vessels were not spared the predations of the Orang Lanun"
+            }
         }
     }
 }

@@ -285,6 +285,10 @@
         "ubisoftStoreSeasonalBoatload": "Reward when buying the Seasonal Boatload from the Ubisoft Ingame Store",
         "theVerdantHunt": "Rare drop as part of the Verdant Hunt when defeating any of the listed world events during the first 6 weeks of {{shatteredSeas}}",
         "twitchDropCaptainGTI": "Time-limited twitch drop during a livestream from CaptainGTI",
-        "courtingDeathReplacement": "Received as replacement for the Courting Death (D3ATHWISH) sails emblem"
+        "courtingDeathReplacement": "Received as replacement for the Courting Death (D3ATHWISH) sails emblem",
+        "settlementKotaLama": "Settlement Kota Lama",
+        "settlementDamai": "Settlement Damai",
+        "settlementSangdad": "Settlement Sangdad",
+        "settlementKencur": "Settlement Kencur"
     }
 }
