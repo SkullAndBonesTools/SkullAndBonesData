@@ -23135,6 +23135,12 @@
             "description": {
                 "general": "For the one who faces what others fear"
             }
+        },
+        "skimwing": {
+            "name": "Skimwing",
+            "description": {
+                "general": "Death comes swift and quiet"
+            }
         }
     }
 }

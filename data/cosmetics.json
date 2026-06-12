@@ -33738,5 +33738,13 @@
         "obtainable": [["twitchDrop","twitchDropCaptainGTI"]],
         "dateAdded": "2026-05-26",
         "lastUpdated": "2026-05-26"
+    },
+    "skimwing": {
+        "id": "skimwing",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "obtainable": "courtingDeathReplacement",
+        "dateAdded": "2026-06-11",
+        "lastUpdated": "2026-06-11"
     }
 }
