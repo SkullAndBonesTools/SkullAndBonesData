@@ -23195,6 +23195,24 @@
             "description": {
                 "general": "Protect the cargo. Don't get spotted."
             }
+        },
+        "kinolyForearms": {
+            "name": "Kinoly Forearms",
+            "description": {
+                "general": "The fists of the Fara King's guard are ever clenched with the promise of violence"
+            }
+        },
+        "kinolyGarment": {
+            "name": "Kinoly Garment",
+            "description": {
+                "general": "The Fara believe that the neglected spirits of their ancestors rise as vengeful ghosts"
+            }
+        },
+        "kinolyBelt": {
+            "name": "Kinoly Belt",
+            "description": {
+                "general": "Threads of lamba ripple like seagrass in a storm. The Fara shall endure."
+            }
         }
     }
 }

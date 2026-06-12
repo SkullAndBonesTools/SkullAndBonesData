@@ -33806,5 +33806,26 @@
         "type": "bottom",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
+    },
+    "kinolyForearms": {
+        "id": "kinolyForearms",
+        "type": "forearm",
+        "obtainable": "settlementHovohovo",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "kinolyGarment": {
+        "id": "kinolyGarment",
+        "type": "torso",
+        "obtainable": "settlementHovohovo",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "kinolyBelt": {
+        "id": "kinolyBelt",
+        "type": "waist",
+        "obtainable": "settlementHovohovo",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
     }
 }
