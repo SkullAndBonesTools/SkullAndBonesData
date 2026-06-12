@@ -291,6 +291,7 @@
         "settlementSangdad": "Settlement Sangdad",
         "settlementKencur": "Settlement Kencur",
         "settlementHovohovo": "Settlement Hovohovo",
-        "settlementTanjona": "Settlement Tanjona"
+        "settlementTanjona": "Settlement Tanjona",
+        "codeHuntCommunityEvent": "Obtained via the Code Hunt community event on Skull and Bones Tools"
     }
 }

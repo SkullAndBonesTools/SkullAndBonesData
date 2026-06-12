@@ -23213,6 +23213,12 @@
             "description": {
                 "general": "A belt worn by the free men and women of Fara society"
             }
+        },
+        "covenantOfCraft": {
+            "name": "Covenant of Craft",
+            "description": {
+                "general": "The mark of a craftsman, bearing both wisdom and sharp steel"
+            }
         }
     }
 }

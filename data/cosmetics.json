@@ -33828,5 +33828,13 @@
         "obtainable": "settlementTanjona",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
+    },
+    "covenantOfCraft": {
+        "id": "covenantOfCraft",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "obtainable": "codeHuntCommunityEvent",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
     }
 }
