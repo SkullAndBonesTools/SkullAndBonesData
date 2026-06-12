@@ -421,7 +421,7 @@
     },
     "suaveSeadogPlayer": {
         "id": "suaveSeadogPlayer",
-        "type": "ship"
+        "type": "player"
     },
     "legendOfLestari": {
         "id": "legendOfLestari",
