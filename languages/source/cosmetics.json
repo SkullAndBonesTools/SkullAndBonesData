@@ -23213,6 +23213,12 @@
             "description": {
                 "general": "Threads of lamba ripple like seagrass in a storm. The Fara shall endure."
             }
+        },
+        "hovaBelt": {
+            "name": "Hova Belt",
+            "description": {
+                "general": "A belt worn by the free men and women of Fara society"
+            }
         }
     }
 }

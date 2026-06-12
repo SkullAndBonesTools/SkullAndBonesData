@@ -6217,9 +6217,9 @@
         "id": "faraFuryTop",
         "type": "torso",
         "set": "faraFury",
-        "obtainable": "",
+        "obtainable": "settlementTanjona",
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-04-30"
+        "lastUpdated": "2026-06-12"
     },
     "gunrunnerTop": {
         "id": "gunrunnerTop",
@@ -33825,6 +33825,13 @@
         "id": "kinolyBelt",
         "type": "waist",
         "obtainable": "settlementHovohovo",
+        "dateAdded": "2026-06-12",
+        "lastUpdated": "2026-06-12"
+    },
+    "hovaBelt": {
+        "id": "hovaBelt",
+        "type": "waist",
+        "obtainable": "settlementTanjona",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
     }
