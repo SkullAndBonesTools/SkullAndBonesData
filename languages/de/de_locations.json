@@ -284,6 +284,14 @@
         "ubisoftStoreSeasonalBox": "Belohnung beim Kauf der Saisonalen Box aus dem Ubisoft Ingame Store",
         "ubisoftStoreSeasonalBoatload": "Belohnung beim Kauf der Saisonalen Bootsladung aus dem Ubisoft Ingame Store",
         "theVerdantHunt": "Seltene Belohnung, der Sommergrünen Jagd, beim Abschließen einer der gelisteten Weltereignisse während der ersten 6 Woche von {{shatteredSeas}}",
-        "twitchDropCaptainGTI": "Time-limited twitch drop during a livestream from CaptainGTI"
+        "twitchDropCaptainGTI": "Zeitlich begrenzter Twitch-Drop während eines Livestreams von CaptainGTI",
+        "courtingDeathReplacement": "Erhalten als Ersatz für das \"Dem Tod huldigen\" (D3ATHWISH) Segel Emblem",
+        "settlementKotaLama": "Siedlung Kota Lama",
+        "settlementDamai": "Siedlung Damai",
+        "settlementSangdad": "Siedlung Sangdad",
+        "settlementKencur": "Siedlung Kencur",
+        "settlementHovohovo": "Siedlung Hovohovo",
+        "settlementTanjona": "Siedlung Tanjona",
+        "codeHuntCommunityEvent": "Erhalten via dem \"Code Jagd\" Community Event auf Skull and Bones Tools"
     }
 }

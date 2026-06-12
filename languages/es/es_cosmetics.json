@@ -6913,7 +6913,7 @@
             }
         },
         "rippedSkirt": {
-            "name": "Falda rasgada",
+            "name": "Briny Bottoms",
             "description": {
                 "general": "Sigue haciendo su trabajo, ¿no?"
             }
@@ -23134,6 +23134,90 @@
             "name": "Captain of the Deep",
             "description": {
                 "general": "For the one who faces what others fear"
+            }
+        },
+        "skimwing": {
+            "name": "Skimwing",
+            "description": {
+                "general": "Death comes swift and quiet"
+            }
+        },
+        "lanunBracelet": {
+            "name": "Lanun Bracelet",
+            "description": {
+                "general": "The spray of salt and call of the tides entice the Rempah"
+            }
+        },
+        "lanunGarment": {
+            "name": "Lanun Garment",
+            "description": {
+                "general": "The chaos of Rahma's war has also led to opportunity, for those Rempah willing to seize it"
+            }
+        },
+        "lanunManchette": {
+            "name": "Lanun Manchette",
+            "description": {
+                "general": "Rempah fertility cults revered snakes as deities of the waters, bringing fortune and favor"
+            }
+        },
+        "coxswainBelt": {
+            "name": "Coxswain Belt",
+            "description": {
+                "general": "\"Holds my sarong in place. Lets me steer. What more does a tradesman of the Rempah need?\""
+            }
+        },
+        "lanunNeckwear": {
+            "name": "Lanun Neckwear",
+            "description": {
+                "general": "Rempah accessory draped around the neck. So ragged as to be unrecognizable."
+            }
+        },
+        "lanunBottoms": {
+            "name": "Lanun Bottoms",
+            "description": {
+                "general": "Even other Rempah vessels were not spared the predations of the Orang Lanun"
+            }
+        },
+        "corsairsPeak": {
+            "name": "Corsair's Peak",
+            "description": {
+                "general": "Plunder in style"
+            }
+        },
+        "shadyLeggings": {
+            "name": "Shady Leggings",
+            "description": {
+                "general": "Protect the cargo. Don't get spotted."
+            }
+        },
+        "kinolyForearms": {
+            "name": "Kinoly Forearms",
+            "description": {
+                "general": "The fists of the Fara King's guard are ever clenched with the promise of violence"
+            }
+        },
+        "kinolyGarment": {
+            "name": "Kinoly Garment",
+            "description": {
+                "general": "The Fara believe that the neglected spirits of their ancestors rise as vengeful ghosts"
+            }
+        },
+        "kinolyBelt": {
+            "name": "Kinoly Belt",
+            "description": {
+                "general": "Threads of lamba ripple like seagrass in a storm. The Fara shall endure."
+            }
+        },
+        "hovaBelt": {
+            "name": "Hova Belt",
+            "description": {
+                "general": "A belt worn by the free men and women of Fara society"
+            }
+        },
+        "covenantOfCraft": {
+            "name": "Covenant of Craft",
+            "description": {
+                "general": "The mark of a craftsman, bearing both wisdom and sharp steel"
             }
         }
     }
