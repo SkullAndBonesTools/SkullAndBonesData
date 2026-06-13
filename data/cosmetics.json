@@ -11838,8 +11838,9 @@
         "bounty": "anguishFromTheAbyss",
         "effect": ["emissive","combatReactive"],
         "obtainable": "rodeMaangodinChest",
+        "inofficial": "setPiece",
         "dateAdded": "2024-06-08",
-        "lastUpdated": "2026-05-25"
+        "lastUpdated": "2026-06-13"
     },
     "lanunWaistband": {
         "id": "lanunWaistband",
