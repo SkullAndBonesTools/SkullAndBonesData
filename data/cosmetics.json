@@ -671,8 +671,9 @@
     "warmRaidersOutfit": {
         "id": "warmRaidersOutfit",
         "type": "crewLook",
+        "obtainable": "fallenCaptainsChest",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-16"
+        "lastUpdated": "2026-03-23"
     },
     "heartySwashbucklers": {
         "id": "heartySwashbucklers",
@@ -1654,9 +1655,9 @@
         "id": "rustShade",
         "type": "hull",
         "contract": "armsAndGuns",
-        "obtainable": "contractReward",
+        "obtainable": ["contractReward", "fallenCaptainsChest"],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-04-12"
+        "lastUpdated": "2026-03-23"
     },
     "calibansHour": {
         "id": "calibansHour",
@@ -1987,9 +1988,9 @@
         "id": "rustDye",
         "type": "sailsColor",
         "contract": "aSeaworthyShip",
-        "obtainable": "contractReward",
+        "obtainable": ["contractReward","fallenCaptainsChest"],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-04-12"
+        "lastUpdated": "2026-03-23"
     },
     "sainteAnnesShore": {
         "id": "sainteAnnesShore",
@@ -2974,8 +2975,9 @@
     "theWild": {
         "id": "theWild",
         "type": "sailsEmblem",
+        "obtainable": "fallenCaptainsChest",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2026-03-23"
     },
     "unyieldingAnchor": {
         "id": "unyieldingAnchor",
@@ -3157,8 +3159,9 @@
     "theRampant": {
         "id": "theRampant",
         "type": "sailsEmblem",
+        "obtainable": "fallenCaptainsChest",
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-03-22"
+        "lastUpdated": "2026-03-23"
     },
     "gorgonsGaze": {
         "id": "gorgonsGaze",
