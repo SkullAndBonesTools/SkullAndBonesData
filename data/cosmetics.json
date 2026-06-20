@@ -582,8 +582,10 @@
     "faraGarbs": {
         "id": "faraGarbs",
         "type": "crewLook",
+        "set": "fara",
+        "inofficial": "setPiece",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-16"
+        "lastUpdated": "2026-06-20"
     },
     "ungwanaGarbs": {
         "id": "ungwanaGarbs",
