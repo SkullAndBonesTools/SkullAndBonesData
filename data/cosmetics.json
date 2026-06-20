@@ -659,8 +659,10 @@
     "seaPeopleGarbs": {
         "id": "seaPeopleGarbs",
         "type": "crewLook",
+        "set": "seaPeoplesWays",
+        "inofficial": "setPiece",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-16"
+        "lastUpdated": "2026-06-20"
     },
     "theMarinierers": {
         "id": "theMarinierers",
