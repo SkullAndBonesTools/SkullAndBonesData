@@ -588,8 +588,10 @@
     "ungwanaGarbs": {
         "id": "ungwanaGarbs",
         "type": "crewLook",
+        "set": "ungwanaHunter",
+        "inofficial": "setPiece",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-03-16"
+        "lastUpdated": "2026-06-20"
     },
     "theSeasoned": {
         "id": "theSeasoned",
