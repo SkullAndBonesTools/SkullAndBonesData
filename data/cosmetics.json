@@ -33843,5 +33843,13 @@
         "obtainable": "codeHuntCommunityEvent",
         "dateAdded": "2026-06-12",
         "lastUpdated": "2026-06-12"
+    },
+    "alQisas": {
+        "id": "alQisas",
+        "type": "sailsEmblem",
+        "season": "release",
+        "obtainable": "frenchGraphicNovel",
+        "dateAdded": "2026-06-21",
+        "lastUpdated": "2026-06-21"
     }
 }
