@@ -23219,6 +23219,12 @@
             "description": {
                 "general": "Das Zeichen eines Handwerkers verheißt sowohl Weisheit als auch scharfen Stahl."
             }
+        },
+        "alQisas": {
+            "name": "Al Qisas",
+            "description": {
+                "general": "Trouble looms on the water, and fury boils in her veins"
+            }
         }
     }
 }
