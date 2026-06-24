@@ -8742,9 +8742,9 @@
     "lanunLegband": {
         "id": "lanunLegband",
         "type": "footwear",
-        "obtainable": "",
+        "obtainable": "dianSinagaTreasureChest",
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-05-06"
+        "lastUpdated": "2026-06-24"
     },
     "rezekiFootwear": {
         "id": "rezekiFootwear",
