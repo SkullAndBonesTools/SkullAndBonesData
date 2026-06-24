@@ -12732,9 +12732,11 @@
     "vengefulRegalia": {
         "id": "vengefulRegalia",
         "type": "facialHair",
+        "set": "balladOfBloodyBones",
+        "inofficial": "setPiece",
         "obtainable": ["premiumEdition","ubisoftSupport"],
         "dateAdded": "2024-06-25",
-        "lastUpdated": "2024-06-25"
+        "lastUpdated": "2026-06-22"
     },
     "goldBearer": {
         "id": "goldBearer",
