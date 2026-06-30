@@ -33853,5 +33853,45 @@
         "obtainable": "frenchGraphicNovel",
         "dateAdded": "2026-06-21",
         "lastUpdated": "2026-06-21"
+    },
+    "heartlock": {
+        "id": "heartlock",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "silentSeadog",
+        "event": "moonshineLarceny",
+        "obtainable": ["twitchDrop","twitchDropMoonshineLarcenyY3S1"],
+        "dateAdded": "2026-06-30",
+        "lastUpdated": "2026-06-30"
+    },
+    "quietKills": {
+        "id": "quietKills",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "silentSeadog",
+        "event": "moonshineLarceny",
+        "obtainable": ["twitchDrop","twitchDropMoonshineLarcenyY3S1"],
+        "dateAdded": "2026-06-30",
+        "lastUpdated": "2026-06-30"
+    },
+    "silentWinds": {
+        "id": "silentWinds",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "silentSeadog",
+        "event": "moonshineLarceny",
+        "obtainable": ["twitchDrop","twitchDropMoonshineLarcenyY3S1"],
+        "dateAdded": "2026-06-30",
+        "lastUpdated": "2026-06-30"
+    },
+    "stopYappin": {
+        "id": "stopYappin",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "silentSeadog",
+        "event": "moonshineLarceny",
+        "obtainable": ["twitchDrop","twitchDropMoonshineLarcenyY3S1"],
+        "dateAdded": "2026-06-30",
+        "lastUpdated": "2026-06-30"
     }
 }

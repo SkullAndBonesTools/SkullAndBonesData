@@ -1806,5 +1806,9 @@
     "narcissus": {
         "id": "narcissus",
         "type": "player"
+    },
+    "silentSeadog": {
+        "id": "silentSeadog",
+        "type": "ship"
     }
 }

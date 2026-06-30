@@ -23225,6 +23225,30 @@
             "description": {
                 "general": "Trouble looms on the water, and fury boils in her veins"
             }
+        },
+        "heartlock": {
+            "name": "Heartlock",
+            "description": {
+                "general": "Where secrets rest and grudges grow"
+            }
+        },
+        "quietKills": {
+            "name": "Quiet Kills",
+            "description": {
+                "general": "\"If they notice this color, it's already too late for 'em.\""
+            }
+        },
+        "silentWinds": {
+            "name": "Silent Winds",
+            "description": {
+                "general": "Deathly silent, unless you let one rip"
+            }
+        },
+        "stopYappin": {
+            "name": "Stop Yappin'",
+            "description": {
+                "general": "\"Yer doin' me head in!\""
+            }
         }
     }
 }
