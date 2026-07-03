@@ -507,7 +507,8 @@
     },
     "engineer": {
         "id": "engineer",
-        "type": "ship"
+        "type": "ship",
+        "inofficial": true
     },
     "versailles": {
         "id": "versailles",
@@ -691,7 +692,8 @@
     },
     "theBattleJunk": {
         "id": "theBattleJunk",
-        "type": "ship"
+        "type": "ship",
+        "inofficial": true
     },
     "blackBazaar": {
         "id": "blackBazaar",
