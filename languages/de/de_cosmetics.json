@@ -8331,7 +8331,7 @@
         "peacock": {
             "name": "Pfau",
             "description": {
-                "general": "Wozu ist Reichtum gut, wenn ihn niemand bestaunt?"
+                "general": "What good are riches if there's no one to see its splendor?"
             }
         },
         "bourgeoisieGarbs": {
@@ -22801,75 +22801,75 @@
             }
         },
         "swirlsOfChaos": {
-            "name": "Swirls of Chaos",
+            "name": "Wirbel des Chaos",
             "description": {
-                "general": "Winding lines that promise chaos"
+                "general": "Sich windende Linien, die Chaos versprechen."
             }
         },
         "verdantMenace": {
-            "name": "Verdant Menace",
+            "name": "Sommergrüne Bedrohung",
             "description": {
-                "general": "ATones of forest and gold to brave the wind"
+                "general": "Waldfarbene und goldene Töne, die sich dem Wind widersetzen."
             }
         },
         "gildedGloom": {
-            "name": "Gilded Gloom",
+            "name": "Vergoldete Düsternis",
             "description": {
-                "general": "Darkness broods and gold dares to glimmer"
+                "general": "Dunkelheit brütet und Gold erkühnt sich zu strahlen."
             }
         },
         "triosEnd": {
-            "name": "Trio's End",
+            "name": "Ende des Trios",
             "description": {
-                "general": "Three lives ended with one knife's work"
+                "general": "Drei Leben, mit einem Messer genommen."
             }
         },
         "dreadnote": {
-            "name": "Dreadnote",
+            "name": "Schreckensnote",
             "description": {
-                "general": "\"Your rising pulse is my favorite rhythm.\""
+                "general": "\"Dein steigender Puls ist mein liebster Rhythmus.\""
             }
         },
         "waveshredder": {
-            "name": "Waveshredder",
+            "name": "Wellenschlitzer",
             "description": {
-                "general": "Your blood beats to the wild call of freedom"
+                "general": "Dein Blut pulsiert zum wilden Ruf der Freiheit."
             }
         },
         "deadwindWhistle": {
-            "name": "Deadwind Whistle",
+            "name": "Totenwindpfeifen",
             "description": {
-                "general": "A riff for every ruin"
+                "general": "Ein Riff für jeden Untergang."
             }
         },
         "balladOfBlood": {
-            "name": "Ballad of Blood",
+            "name": "Ballade des Blutes",
             "description": {
-                "general": "\"Plucked heartstrings make such sweet music, man.\""
+                "general": "\"Rausgezupfte Herzsehnen sorgen wahrlich für melodische Klänge, Mann.\""
             }
         },
         "flamefang": {
-            "name": "Flamefang",
+            "name": "Flammenfangzahn",
             "description": {
-                "general": "\"Steal from my sea, burn in my storm.\""
+                "general": "\"Stiehl von der See, und mein Sturm wird dich versengen.\""
             }
         },
         "goldfleckedRoar": {
-            "name": "Goldflecked Roar",
+            "name": "Goldbeflecktes Gebrüll",
             "description": {
-                "general": "\"Courage is the only currency the sea respects.\""
+                "general": "\"Mut ist die einzige Währung, die die Meere respektieren.\""
             }
         },
         "wyrmscaleArmor": {
-            "name": "Wyrmscale Armor",
+            "name": "Lindwurmpanzerung",
             "description": {
-                "general": "What is forged in fire can never drown"
+                "general": "Was in Feuer geschmiedet wurde, kann nicht ertrinken."
             }
         },
         "scorchingSkies": {
-            "name": "Scorching Skies",
+            "name": "Brennende Himmel",
             "description": {
-                "general": "Blind the despots and sear them to dust and bone"
+                "general": "Blendet die Despoten und zerreibt sie zu Staub und Knochen."
             }
         },
         "goldenFlicker": {
@@ -22981,69 +22981,69 @@
             }
         },
         "cutthroatCorsair": {
-            "name": "Cutthroat Corsair",
+            "name": "Halsabschneider-Korsar",
             "description": {
-                "general": "\"It's funny how fast loyalty dies against my blade.\""
+                "general": "\"Schon komisch, wie rasch Loyalität im Angesicht meiner Klinge vergeht.\""
             }
         },
         "warborn": {
-            "name": "Warborn",
+            "name": "Kind des Krieges",
             "description": {
-                "general": "\"Carnage runs in our veins.\""
+                "general": "\"Uns liegt das Gemetzel im Blut.\""
             }
         },
         "battlecryBanner": {
-            "name": "Battlecry Banner",
+            "name": "Banner des Kriegsschreis",
             "description": {
-                "general": "Weathered by blood, primed for battle"
+                "general": "Verwittert durch Blut, bereit für den Kampf."
             }
         },
         "ignisBellona": {
             "name": "Ignis Bellona",
             "description": {
-                "general": "The goddess of war sails with you, Captain"
+                "general": "Die Göttin des Krieges segelt mit dir, Käpt'n."
             }
         },
         "crimsonCurrents": {
-            "name": "Crimson Currents",
+            "name": "Blutrote Strömungen",
             "description": {
-                "general": "\"The seas run red in my wake.\""
+                "general": "\"In meinem Kielwasser färben sich die Meere rot.\""
             }
         },
         "turncoat": {
-            "name": "Turncoat",
+            "name": "Überläufer",
             "description": {
-                "general": "\"Trust only the sword in your hand.\""
+                "general": "\"Vertraut nur dem Schwert in Eurer Hand.\""
             }
         },
         "foehunter": {
-            "name": "Foehunter",
+            "name": "Feindesjäger",
             "description": {
-                "general": "\"Allegiance is a shackle, mate.\""
+                "general": "\"Bündnisse sind nichts als Fesseln.\""
             }
         },
         "windsOfRust": {
-            "name": "Winds of Rust",
+            "name": "Rostwinde",
             "description": {
-                "general": "\"The strongest hulls crumble before my will.\""
+                "general": "\"Mein Wille triumphiert selbst über die stärksten Rümpfe.\""
             }
         },
         "goldspike": {
-            "name": "Goldspike",
+            "name": "Goldstachel",
             "description": {
-                "general": "\"Take what glitters, and leave what bleeds.\""
+                "general": "\"Nimm, was glitzert. Lass zurück, was blutet.\""
             }
         },
         "blindingBlades": {
-            "name": "Blinding Blades",
+            "name": "Blendende Klingen",
             "description": {
-                "general": "Fortune favors a sharp sword"
+                "general": "Das Glück begünstigt ein scharfes Schwert."
             }
         },
         "wraithwoodSheen": {
-            "name": "Wraithwood Sheen",
+            "name": "Gespensterholzglanz",
             "description": {
-                "general": "Rich mahogany streaked with your foe's blood"
+                "general": "Reiches, vom Blut deiner Feinde durchzogenes Mahagoni."
             }
         },
         "grimsGilt": {
@@ -23223,7 +23223,31 @@
         "alQisas": {
             "name": "Al Qisas",
             "description": {
-                "general": "Trouble looms on the water, and fury boils in her veins"
+                "general": "Auf dem Wasser lauert Ärger und in ihren Adern kocht die Wut."
+            }
+        },
+        "heartlock": {
+            "name": "Herzschloss",
+            "description": {
+                "general": "Wo Geheimnisse ruhen und Groll gedeiht."
+            }
+        },
+        "quietKills": {
+            "name": "Stille Tötet",
+            "description": {
+                "general": "\"Wenn sie diese Farbe bemerken, ist es schon zu spät für sie.\""
+            }
+        },
+        "silentWinds": {
+            "name": "Stille Winde",
+            "description": {
+                "general": "Tödliche Stille. Außer du lässt einen fahren."
+            }
+        },
+        "stopYappin": {
+            "name": "Halt die Klappe!",
+            "description": {
+                "general": "\"Du machst mich noch wahnsinnig!\""
             }
         }
     }
