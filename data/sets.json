@@ -1529,7 +1529,8 @@
     },
     "aCloseStep": {
         "id": "aCloseStep",
-        "type": "player"
+        "type": "player",
+        "inofficial": true
     },
     "connoisseurOfWar": {
         "id": "connoisseurOfWar",
