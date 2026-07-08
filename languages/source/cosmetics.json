@@ -23249,6 +23249,12 @@
             "description": {
                 "general": "\"Yer doin' me head in!\""
             }
+        },
+        "razorfinPlate": {
+            "name": "Razorfin Plate",
+            "description": {
+                "general": "Slice through your foes to rule the seas"
+            }
         }
     }
 }

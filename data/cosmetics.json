@@ -33893,5 +33893,15 @@
         "obtainable": ["twitchDrop","twitchDropMoonshineLarcenyY3S1"],
         "dateAdded": "2026-06-30",
         "lastUpdated": "2026-06-30"
+    },
+    "razorfinPlate": {
+        "id": "razorfinPlate",
+        "type": "armorSkin",
+        "season": "shatteredSeas",
+        "set": "burningBeast",
+        "inofficial": "setPiece",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-07-07",
+        "lastUpdated": "2026-07-07"
     }
 }
