@@ -22290,10 +22290,10 @@
                 "general": "Because one tattoo is never enough"
             }
         },
-        "wetMeGulletBeer": {
-            "name": "Wet Me Gullet (Beer)",
+        "flagonsUp": {
+            "name": "Flagons Up",
             "description": {
-                "general": "\"Only thing better than rum is stolen rum!\""
+                "general": "\"Raise yer cup to chaos, matey.\""
             }
         },
         "gildcoinTricorne": {
@@ -23248,6 +23248,36 @@
             "name": "Halt die Klappe!",
             "description": {
                 "general": "\"Du machst mich noch wahnsinnig!\""
+            }
+        },
+        "razorfinPlate": {
+            "name": "Scharfflossenplatte",
+            "description": {
+                "general": "Durchschneide den Feind, regiere die See."
+            }
+        },
+        "creedOfShadows": {
+            "name": "Glaubensbekenntnis der Schatten",
+            "description": {
+                "general": "Alles für die Bruderschaft"
+            }
+        },
+        "forTheBrotherhood": {
+            "name": "Für die Bruderschaft",
+            "description": {
+                "general": "Eine unsichtbare Hand entscheidet über das Schicksal."
+            }
+        },
+        "rebelsCause": {
+            "name": "Sache der Rebellen",
+            "description": {
+                "general": "Was begehrt ein Pirat wirklich?"
+            }
+        },
+        "assassinsEyes": {
+            "name": "Augen des Assassinen",
+            "description": {
+                "general": "Ein treuer Freund, der sieht, was du nicht siehst"
             }
         }
     }

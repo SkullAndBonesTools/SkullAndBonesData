@@ -22290,10 +22290,10 @@
                 "general": "Because one tattoo is never enough"
             }
         },
-        "wetMeGulletBeer": {
-            "name": "Wet Me Gullet (Beer)",
+        "flagonsUp": {
+            "name": "Flagons Up",
             "description": {
-                "general": "\"Only thing better than rum is stolen rum!\""
+                "general": "\"Raise yer cup to chaos, matey.\""
             }
         },
         "gildcoinTricorne": {
@@ -23248,6 +23248,36 @@
             "name": "Stop Yappin'",
             "description": {
                 "general": "\"Yer doin' me head in!\""
+            }
+        },
+        "razorfinPlate": {
+            "name": "Razorfin Plate",
+            "description": {
+                "general": "Slice through your foes to rule the seas"
+            }
+        },
+        "creedOfShadows": {
+            "name": "Creed of Shadows",
+            "description": {
+                "general": "All for the Brotherhood"
+            }
+        },
+        "forTheBrotherhood": {
+            "name": "For the Brotherhood",
+            "description": {
+                "general": "An unseen hand decides fate"
+            }
+        },
+        "rebelsCause": {
+            "name": "Rebel's Cause",
+            "description": {
+                "general": "What does a pirate truly covet?"
+            }
+        },
+        "assassinsEyes": {
+            "name": "Assassin's Eyes",
+            "description": {
+                "general": "A faithful friend who sees what you cannot"
             }
         }
     }
