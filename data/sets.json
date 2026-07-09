@@ -1815,5 +1815,9 @@
     "silentSeadog": {
         "id": "silentSeadog",
         "type": "ship"
+    },
+    "jackdaw": {
+        "id": "jackdaw",
+        "type": "ship"
     }
 }

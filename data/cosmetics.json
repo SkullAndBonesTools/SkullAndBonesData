@@ -33903,5 +33903,38 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-07-07",
         "lastUpdated": "2026-07-07"
+    },
+    "creedOfShadows": {
+        "id": "creedOfShadows",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "jackdaw",
+        "obtainable": "acbfrLaunchGift",
+        "dateAdded": "2026-07-09",
+        "lastUpdated": "2026-07-09"
+    },
+    "forTheBrotherhood": {
+        "id": "forTheBrotherhood",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "jackdaw",
+        "dateAdded": "2026-07-09",
+        "lastUpdated": "2026-07-09"
+    },
+    "rebelsCause": {
+        "id": "rebelsCause",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "jackdaw",
+        "dateAdded": "2026-07-09",
+        "lastUpdated": "2026-07-09"
+    },
+    "assassinsEyes": {
+        "id": "assassinsEyes",
+        "type": "figureHead",
+        "season": "shatteredSeas",
+        "set": "jackdaw",
+        "dateAdded": "2026-07-09",
+        "lastUpdated": "2026-07-09"
     }
 }

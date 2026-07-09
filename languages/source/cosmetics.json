@@ -23255,6 +23255,30 @@
             "description": {
                 "general": "Slice through your foes to rule the seas"
             }
+        },
+        "creedOfShadows": {
+            "name": "Creed of Shadows",
+            "description": {
+                "general": "All for the Brotherhood"
+            }
+        },
+        "forTheBrotherhood": {
+            "name": "For the Brotherhood",
+            "description": {
+                "general": "An unseen hand decides fate"
+            }
+        },
+        "rebelsCause": {
+            "name": "Rebel's Cause",
+            "description": {
+                "general": "What does a pirate truly covet?"
+            }
+        },
+        "assassinsEyes": {
+            "name": "Assassin's Eyes",
+            "description": {
+                "general": "A faithful friend who sees what you cannot"
+            }
         }
     }
 }
