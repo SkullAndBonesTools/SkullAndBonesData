@@ -294,6 +294,7 @@
         "settlementTanjona": "Settlement Tanjona",
         "codeHuntCommunityEvent": "Obtained via the Code Hunt community event on Skull and Bones Tools",
         "frenchGraphicNovel": "Obtained when purchasing the french graphic novel Skull & Bones: Sans Pitié",
-        "twitchDropMoonshineLarcenyY3S1": "Twitch Drop during the Moonshine Larceny event in {{shatteredSeas}}"
+        "twitchDropMoonshineLarcenyY3S1": "Twitch Drop during the Moonshine Larceny event in {{shatteredSeas}}",
+        "acbfrLaunchGift": "Gifted to all players for the launch of Assassin's Creed Black Flag Resynced"
     }
 }
