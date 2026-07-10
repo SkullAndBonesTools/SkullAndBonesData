@@ -16140,6 +16140,15 @@
         "dateAdded": "2026-02-14",
         "lastUpdated": "2026-02-14"
     },
+    "fallenCaptainsChest": {
+        "id": "fallenCaptainsChest",
+        "season": "eyeOfTheBeast",
+        "type": "chest",
+        "rarity": "legendary",
+        "weight": 100,
+        "dateAdded": "2026-03-23",
+        "lastUpdated": "2026-03-23"
+    },
     "crazedNianStrongbox": {
         "id": "crazedNianStrongbox",
         "rarity": "epic",
