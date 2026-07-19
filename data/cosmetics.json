@@ -4282,9 +4282,9 @@
     "sailmakerWaistband": {
         "id": "sailmakerWaistband",
         "type": "waist",
-        "obtainable": "mizerjaTreasureChest",
+        "obtainable": ["mizerjaTreasureChest","tangenaRabeTreasureChest"],
         "dateAdded": "2024-04-02",
-        "lastUpdated": "2024-04-02"
+        "lastUpdated": "2026-07-19"
     },
     "scallywag": {
         "id": "scallywag",
