@@ -32704,18 +32704,18 @@
         "type": "sailsEmblem",
         "season": "eyeOfTheBeast",
         "set": "ashesOfAllegiance",
-        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "obtainable": ["twitchDrop","twitchDropTheDeck","twitchDropYear3Showcase"],
         "dateAdded": "2026-05-06",
-        "lastUpdated": "2026-05-06"
+        "lastUpdated": "2026-07-17"
     },
     "rusttide": {
         "id": "rusttide",
         "type": "hull",
         "season": "eyeOfTheBeast",
         "set": "ashesOfAllegiance",
-        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "obtainable": ["twitchDrop","twitchDropTheDeck","twitchDropYear3Showcase"],
         "dateAdded": "2026-05-06",
-        "lastUpdated": "2026-05-06"
+        "lastUpdated": "2026-07-17"
     },
     "wornAllegiance": {
         "id": "wornAllegiance",
@@ -32723,18 +32723,18 @@
         "effect": "emissive",
         "season": "eyeOfTheBeast",
         "set": "ashesOfAllegiance",
-        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "obtainable": ["twitchDrop","twitchDropTheDeck","twitchDropYear3Showcase"],
         "dateAdded": "2026-05-06",
-        "lastUpdated": "2026-05-06"
+        "lastUpdated": "2026-07-17"
     },
     "whisperedRuin": {
         "id": "whisperedRuin",
         "type": "sailsPattern",
         "season": "eyeOfTheBeast",
         "set": "ashesOfAllegiance",
-        "obtainable": ["twitchDrop","twitchDropYear3Showcase"],
+        "obtainable": ["twitchDrop","twitchDropTheDeck","twitchDropYear3Showcase"],
         "dateAdded": "2026-05-06",
-        "lastUpdated": "2026-05-06"
+        "lastUpdated": "2026-07-17"
     },
     "johnnyBlue": {
         "id": "johnnyBlue",
