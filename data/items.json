@@ -16544,13 +16544,13 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "event": ["theHonorless","darktideLullaby","moonshineLarceny"],
-        "obtainable": ["theHelmEvent","darktideAltarTelokPenjarah","accountLedgerSainteAnne","bloodiedStrongbox"],
+        "event": "theHonorless",
+        "obtainable": ["theHelmEvent","bloodiedStrongbox"],
         "perks": [
             "drownedOrgan"
         ],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-14"
+        "lastUpdated": "2026-07-23"
     },
     "royalRammingWorks": {
         "id": "royalRammingWorks",
