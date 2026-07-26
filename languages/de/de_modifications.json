@@ -442,6 +442,134 @@
         "jester": {
             "name": "Hofnarr",
             "description": "Nach dem Erleiden von \"Verspottet\" werden Panzerungswert und Deckungsstärken-Wiederherstellung für 15 Sek. um %s-%s erhöht"
+        },
+        "lifeline": {
+            "name": "Rettungsanker",
+            "description": "Gewährt reparierten Zielen 10 Sek lang Rettungsanker. Rettungsanker wird ausgelöst und wird ein Ziel um %s-%s% reparieren, wenn der Rumpfzustand 15% oder weniger beträgt. Das Anwenden von Rettungsanker besitzt eine interne Abklingzeit von 5 Sekunden"
+        },
+        "purify": {
+            "name": "Reinigen",
+            "description": "Erhöht die Reparatur um %s-%s%. Jeder Reparaturschuss auf ein Ziel besitzt eine Chance von 10%, einen aktiven Statuseffekt des Ziels zu entfernen"
+        },
+        "flashFlood": {
+            "name": "Blitzflut",
+            "description": "%s-%s% Chance, beim Treffen eines Schwachpunkts den Statuseffekt Überflutet auszulösen. Bei aufeinanderfolgenden Schwachpunkttreffern erhöht sich die Chance um 2%, bis maximal 40%. Wird zurückgesetzt, wenn 10 Sekunden lang keine Ziele getroffen werden"
+        },
+        "waterlogged": {
+            "name": "Wasserdurchtränkt",
+            "description": "Ziele, die mit dem Statuseffekt Überflutet belegt sind, erleiden zusätzlich %s-%s schweren Schaden"
+        },
+        "corpseExplosiveBomb": {
+            "name": "Leichenbombe",
+            "description": "Beim Tod des Ziels wird eine Explosion ausgelöst, die allen Zielen innerhalb von 200m %s-%s% Explosionsschaden zufügt"
+        },
+        "megaCorpseBomb": {
+            "name": "Mega-Leichenbombe",
+            "description": "Beim Tod des Ziels wird eine Explosion ausgelöst, die allen Zielen innerhalb von 300m %s-%s% Explosionsschaden zufügt und diese mit dem Statuseffekt Erschüttert belegt"
+        },
+        "lightningStrike": {
+            "name": "Blitzschlag",
+            "description": "Fügt %s-%s% Schaden als Elektroschaden hinzu. Jeder Treffer erhöht die Chance, das Ziel mit dem Statuseffekt Sturmgepeitscht zu belegen, um 2%, bis maximal 40%. Wird zurückgesetzt, wenn 10 Sekunden lang keine Ziele getroffen werden"
+        },
+        "voltaicCharge": {
+            "name": "Voltaische Ladung",
+            "description": "Füge einem Ziel zusätzlich %s-%s% Elektroschaden hinzu, wenn es den Statuseffekt Sturmgepeitscht auslöst"
+        },
+        "enduringEmbers": {
+            "name": "Ausdauernde Glut",
+            "description": "Jeder Treffer fügt über 10 Sekunden %s-%s Brandschaden hinzu"
+        },
+        "wildfire": {
+            "name": "Flächenbrand",
+            "description": "Fügt %s-%s% Brandschaden zu, wenn dem Ziel der Statuseffekt In Brand auferlegt wird. Ziele in einem Radius von 300m erhalten den Statuseffekt In Brand"
+        },
+        "piercingStrike": {
+            "name": "Durchbohrender Schlag",
+            "description": "%s-%s% Chance, beim Treffen eines Schwachpunkts den Statuseffekt Durchstoßen auszulösen. Bei aufeinanderfolgenden Schwachpunkttreffern erhöht sich die Chance um 2%, bis maximal 40%. Wird zurückgesetzt, wenn 10 Sekunden lang keine Ziele getroffen werden"
+        },
+        "armorPiercing": {
+            "name": "Panzerbrechend",
+            "description": "Treffer ignorieren 10% der Durchschlagsresistenz des Ziels. Dies wird auf %s-%s% erhöht, wenn das Ziel mit dem Statuseffekt Durchstochen belegt ist"
+        },
+        "outbreak": {
+            "name": "Ausbruch",
+            "description": "%s-%s% Chance, beim Treffen eines Schwachpunkts den Statuseffekt Vergiftet auszulösen. Bei aufeinanderfolgenden Schwachpunkttreffern erhöht sich die Chance um 2%, bis maximal 40%. Wird zurückgesetzt, wenn 10 Sekunden lang keine Ziele getroffen werden"
+        },
+        "corrosive": {
+            "name": "Korrosiv",
+            "description": "%s-%s% des Giftschadens verringert 10 Sekunden lang die Deckungsstärke. Kann mit aufeinanderfolgenden Treffern nicht zurückgesetzt oder gestapelt werden"
+        },
+        "severeDamageRemoval": {
+            "name": "Beseitigung schweren Schadens",
+            "description": "Repariert %s-%s% schweren Schaden, wenn du in Deckung bist. Hat nach Aktivierung eine Abklingzeit von 7 Sekunden"
+        },
+        "blowback": {
+            "name": "Rückschlag",
+            "description": "Löst einen Fluten-Flächeneffekt aus, der nach Ablauf des Statuseffekts Überflutet gegnerischen Zielen innerhalb von 300m %s-%s Überflutungsschaden zufügt"
+        },
+        "tsunami": {
+            "name": "Tsunami",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Überflutungsschaden zu. Die Überflutungsresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
+        },
+        "ironCurtain": {
+            "name": "Eiserner Vorhang",
+            "description": "Stellt nach Ablauf des Statuseffekt Durchstochen 10 Sekunden lang %s-%s% Panzerungswert wieder her"
+        },
+        "adeptSpikingIntegration": {
+            "name": "Geschickt mit Stachel-Einbau",
+            "description": "Je 10% Durchschlagend-Resistenz wird %s-%s Panzerung hinzugefügt"
+        },
+        "penetratingStrike": {
+            "name": "Durchdringender Schlag",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Durchschlagsschaden zu. Die Durchschlagsresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
+        },
+        "fortifiedPlates": {
+            "name": "Verstärkte Platten",
+            "description": "Erhöht pro 10% Explosionsresistenz die Deckungsstärke um %s-%s%"
+        },
+        "reactivePlating": {
+            "name": "Reaktive Platten",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Explosionsschaden zu. Die Explosionsresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
+        },
+        "aftershock": {
+            "name": "Nachbeben",
+            "description": "Stellt nach Ablauf des Statuseffekts Erschüttert 10 Sekunden lang %s-%s% Deckungsstärke wieder her"
+        },
+        "burningBull": {
+            "name": "Flammender Stier",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Brandschaden zu. Die Brandresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
+        },
+        "immolation": {
+            "name": "Selbstverbrennung",
+            "description": "Wird deinem Schiff In Brand zugefügt, werden alle Gegner innerhalb eines 300m Radius von einer Brandschaden-Flächeneffekt-Explosion betroffen, und ihnen wird In Brand zugefügt. Außerdem erhältst du einen Bonus von %s-%s% auf Feuerschaden gegen Feinde. Der Brandschaden-Bonus wird nach Ablauf von In Brand entfernt"
+        },
+        "worldOnFire": {
+            "name": "Welt in Flammen",
+            "description": "Löst einen Flächeneffekt aus, der nach Ablauf des Statuseffekt In Brand innerhalb von 300m %s-%s Brandschaden zufügt"
+        },
+        "lightingRod": {
+            "name": "Blitzableiter",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Elektroschaden zu. Die Elektroresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
+        },
+        "chargedUp": {
+            "name": "Aufgeladen",
+            "description": "Erhöht 15 Sekunden lang die Wendegeschwindigkeit um 15% und den verursachten Elektroschaden um %s-%s%, wenn mit dem Statuseffekt Sturmgepeitscht belegt"
+        },
+        "resistanceField": {
+            "name": "Widerstandsfeld",
+            "description": "Erhöht die Segelgeschwindigkeit für jeweils 10% Elektroresistenz um %s-%s%"
+        },
+        "freshAir": {
+            "name": "Frische Luft",
+            "description": "Stellt nach Ablauf des Statuseffekts Vergiftet 10 Sekunden lang %s-%s% Ausdauer der Besatzung wieder her"
+        },
+        "pharmakon": {
+            "name": "Pharmakon",
+            "description": "Erhöht die maximale Ausdauer der Besatzung pro 10% Giftresistenz um %s-%s%"
+        },
+        "fatalStrike": {
+            "name": "Tödlicher Schlag",
+            "description": "Fügt beim Rammen zusätzlich %s-%s Giftschaden zu. Die Giftresistenz des Ziels wird 10 Sekunden lang um 30% verringert"
         }
     }
 }

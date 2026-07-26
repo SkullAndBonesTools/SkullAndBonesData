@@ -2900,7 +2900,7 @@
             "description": {
                 "general": [
                     "进水型武器对200米外的目标造成伤害，进水伤害提升13%，持续10秒",
-                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1%",
+                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1% up to 30%",
                     "对带有进水效果的敌方船只造成的伤害增加10%"
                 ]
             }
