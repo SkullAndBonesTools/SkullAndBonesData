@@ -1576,5 +1576,213 @@
         "grade": "special",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2025-10-21"
+    },
+    "lifeline": {
+        "id": "lifeline",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
+                "range": [0.108, 0.227]
+            }
+        ],
+        "repairAccess": "exclusive",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "purify": {
+        "id": "purify",
+        "variants": [
+            {
+                "itemType": ["springloader","longGun","culverin","mortar","bombard","rocket"],
+                "range": [0.108, 0.227]
+            }
+        ],
+        "repairAccess": "exclusive",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "flashFlood": {
+        "id": "flashFlood",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.11, 0.23]
+            }
+        ],
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "waterlogged": {
+        "id": "waterlogged",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.05, 0.09]
+            }
+        ],
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "corpseExplosiveBomb": {
+        "id": "corpseExplosiveBomb",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [1.55, 2.25]
+            }
+        ],
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "megaCorpseBomb": {
+        "id": "megaCorpseBomb",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.82, 1.14]
+            }
+        ],
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "lightningStrike": {
+        "id": "lightningStrike",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.04, 0.07]
+            }
+        ],
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "voltaicCharge": {
+        "id": "voltaicCharge",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [1.1, 2.5]
+            }
+        ],
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "enduringEmbers": {
+        "id": "enduringEmbers",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.12, 0.4]
+            }
+        ],
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "wildfire": {
+        "id": "wildfire",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [1.1, 2.5]
+            }
+        ],
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "piercingStrike": {
+        "id": "piercingStrike",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.11, 0.23]
+            }
+        ],
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "armorPiercing": {
+        "id": "armorPiercing",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.13, 0.22]
+            }
+        ],
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "outbreak": {
+        "id": "outbreak",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.11, 0.23]
+            }
+        ],
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "corrosive": {
+        "id": "corrosive",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.11, 0.23]
+            }
+        ],
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
     }
 }

@@ -442,6 +442,62 @@
         "jester": {
             "name": "Jester",
             "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
+        },
+        "lifeline": {
+            "name": "Lifeline",
+            "description": "Apply Lifeline to repaired targets for 10 seconds. Lifeline will trigger and repair target for %s-%s% when Hull Health is 15% or lower. Lifeline cannot be applied again for 5 seconds after effect has been triggered"
+        },
+        "purify": {
+            "name": "Purify",
+            "description": "Increase Repair by %s-%s%. Every repair shot on a target has a 10% chance to remove an active status effect on the target"
+        },
+        "flashFlood": {
+            "name": "Flash Flood",
+            "description": "%s-%s% chance to trigger the Flooded status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "waterlogged": {
+            "name": "Waterlogged",
+            "description": "Targets that have the Flooded status effect will take an additional %s-%s% of Severe Damage"
+        },
+        "corpseExplosiveBomb": {
+            "name": "Corpse Explosive Bomb",
+            "description": "On target death, causes an explosion that deals %s-%s% Explosive Damage to all targets within 200m"
+        },
+        "megaCorpseBomb": {
+            "name": "Mega Corpse Bomb",
+            "description": "On target death, causes an explosion that deals %s-%s% Explosive Damage and applies Shell-shocked status effect to all targets within 300m"
+        },
+        "lightningStrike": {
+            "name": "Lightning Strike",
+            "description": "Adds %s-%s% damage as Electric Damage. Every hit on a target increases the chance to apply the Stormstruck status effect by 2%, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "voltaicCharge": {
+            "name": "Voltaic Charge",
+            "description": "Deal additional %s-%s% Electric Damage on a target when it triggers the Stormstruck status effect"
+        },
+        "enduringEmbers": {
+            "name": "Enduring Embers",
+            "description": "Every hit deals %s-%s% as Burning Damage over 10 seconds"
+        },
+        "wildfire": {
+            "name": "Wildfire",
+            "description": "Deals %s-%s% Burning Damage when the Ablaze status effect is applied to a target. Ablaze will be applied to targets in a radius of 300m"
+        },
+        "piercingStrike": {
+            "name": "Piercing Strike",
+            "description": "%s-%s% chance to apply the Punctured status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "armorPiercing": {
+            "name": "Armor Piercing",
+            "description": "Hits ignore 10% of the target's Piercing Resistance. Effect increases to %s-%s% if the target has the Punctured status effect"
+        },
+        "outbreak": {
+            "name": "Outbreak",
+            "description": "%s-%s% chance to trigger the Poisoned status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "corrosive": {
+            "name": "Corrosive",
+            "description": "%s-%s% of Toxic Damage reduces brace Strength for 10 seconds. Cannot be stacked or reset on subsequent hits"
         }
     }
 }
