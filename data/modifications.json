@@ -1805,7 +1805,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [521.2, 818.7]
+                "range": [521, 819]
             }
         ],
         "damageType": "flooding",
@@ -1955,7 +1955,7 @@
         "variants": [
             {
                 "itemType": ["armor"],
-                "range": [521.2, 818.7]
+                "range": [521, 819]
             }
         ],
         "damageType": "burning",
