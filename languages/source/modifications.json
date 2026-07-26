@@ -498,6 +498,78 @@
         "corrosive": {
             "name": "Corrosive",
             "description": "%s-%s% of Toxic Damage reduces brace Strength for 10 seconds. Cannot be stacked or reset on subsequent hits"
+        },
+        "severeDamageRemoval": {
+            "name": "Severe Damage Removal",
+            "description": "Repairs %s-%s% Severe Damage when Bracing. 7s cooldown when triggered"
+        },
+        "blowback": {
+            "name": "Blowback",
+            "description": "Releases an area-of-effect flooding blast that inflicts %s-%s flooding damage to enemy targets within 300m radius at the end of the Flooded status effect"
+        },
+        "tsunami": {
+            "name": "Tsunami",
+            "description": "Deals %s-%s Flooding Damage when ramming a target. Reduces the target's Flooding Resistance by 30% for 10 seconds"
+        },
+        "ironCurtain": {
+            "name": "Iron Curtain",
+            "description": "Increases Armor Rating by %s-%s% for 10 seconds at the end of the Punctured status effect"
+        },
+        "adeptSpikingIntegration": {
+            "name": "Adept Spiking Integration",
+            "description": "Every 10% of Piercing Resistance adds %s-%s Armor"
+        },
+        "penetratingStrike": {
+            "name": "Penetrating Strike",
+            "description": "Deals additional %s-%s Piercing Damage when ramming a target. Reduces its Piercing Resistance by 30% for 10 seconds"
+        },
+        "fortifiedPlates": {
+            "name": "Fortified Plates",
+            "description": "Increases %s-%s% of Brace Strength for every 10% of Explosive Resistance"
+        },
+        "reactivePlating": {
+            "name": "Reactive Plating",
+            "description": "Deals additional %s-%s Explosive Damage when ramming a target. Reduces its Explosive Resistance by 30% for 10 seconds"
+        },
+        "aftershock": {
+            "name": "Aftershock",
+            "description": "Gains %s-%s% of Brace Strength at the end of the Shell-shocked status effect for 10 seconds"
+        },
+        "burningBull": {
+            "name": "Burning Bull",
+            "description": "Deals additional %s-%s Burning Damage when ramming a target. Reduces its Burning Resistance by 30% for 10 seconds"
+        },
+        "immolation": {
+            "name": "Immolation",
+            "description": "When the Ablaze status is applied on your ship, a Burning area-of-effect blast is released to all nearby enemies within a 300m radius, inflicting them with the Ablazed Status. You gain %s-%s% boost to Fire damage done to enemy targets. Boost to Burning damage will be removed at the end of the Ablazed Status"
+        },
+        "worldOnFire": {
+            "name": "World on Fire",
+            "description": "Releases an area-of-effect blast does %s-%s Burning Damage within 300m at the end of the Ablaze status effect"
+        },
+        "lightingRod": {
+            "name": "Lighting Rod",
+            "description": "Deals additional %s-%s Electric Damage when ramming a target. Reduces its Electric Resistance by 30% for 10 seconds"
+        },
+        "chargedUp": {
+            "name": "Charged Up",
+            "description": "Increases Turning Speed by 15% and Electric damage dealt by %s-%s% for 15s when afflicted by the Stormstruck status effect"
+        },
+        "resistanceField": {
+            "name": "Resistance Field",
+            "description": "Increase Sailing Speed by %s-%s% for every 10% of Electric Resistance"
+        },
+        "freshAir": {
+            "name": "Fresh Air",
+            "description": "Increases Crew Stamina Recovery by %s-%s% for 10 seconds at the end of the Poisoned status effect"
+        },
+        "pharmakon": {
+            "name": "Pharmakon",
+            "description": "Increases Maximum Crew Stamina by %s-%s% for every 10% of Toxic Resistance"
+        },
+        "fatalStrike": {
+            "name": "Fatal Strike",
+            "description": "Deals additional %s-%s Toxic Damage when ramming a target. Reduces its Toxic Resistance by 30% for 10 seconds"
         }
     }
 }

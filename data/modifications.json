@@ -1784,5 +1784,275 @@
         "grade": "mythic",
         "dateAdded": "2026-07-26",
         "lastUpdated": "2026-07-26"
+    },
+    "severeDamageRemoval": {
+        "id": "severeDamageRemoval",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.2, 0.4]
+            }
+        ],
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "blowback": {
+        "id": "blowback",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [521.2, 818.7]
+            }
+        ],
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "tsunami": {
+        "id": "tsunami",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "flooding",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "ironCurtain": {
+        "id": "ironCurtain",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.7, 0.9]
+            }
+        ],
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "adeptSpikingIntegration": {
+        "id": "adeptSpikingIntegration",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [132, 237]
+            }
+        ],
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "penetratingStrike": {
+        "id": "penetratingStrike",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "piercing",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "fortifiedPlates": {
+        "id": "fortifiedPlates",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.05, 0.09]
+            }
+        ],
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "reactivePlating": {
+        "id": "reactivePlating",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "aftershock": {
+        "id": "aftershock",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.4, 0.6]
+            }
+        ],
+        "damageType": "explosive",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "burningBull": {
+        "id": "burningBull",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "immolation": {
+        "id": "immolation",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.1, 0.2]
+            }
+        ],
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "worldOnFire": {
+        "id": "worldOnFire",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [521.2, 818.7]
+            }
+        ],
+        "damageType": "burning",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "lightingRod": {
+        "id": "lightingRod",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "chargedUp": {
+        "id": "chargedUp",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.21, 0.35]
+            }
+        ],
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "resistanceField": {
+        "id": "resistanceField",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.032, 0.067]
+            }
+        ],
+        "damageType": "electric",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "freshAir": {
+        "id": "freshAir",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.5, 0.8]
+            }
+        ],
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "pharmakon": {
+        "id": "pharmakon",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [0.03, 0.1]
+            }
+        ],
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
+    },
+    "fatalStrike": {
+        "id": "fatalStrike",
+        "variants": [
+            {
+                "itemType": ["armor"],
+                "range": [1100, 2300]
+            }
+        ],
+        "damageType": "toxic",
+        "repairAccess": "none",
+        "dropOnly": false,
+        "grade": "mythic",
+        "dateAdded": "2026-07-26",
+        "lastUpdated": "2026-07-26"
     }
 }
