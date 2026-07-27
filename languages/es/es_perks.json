@@ -2900,7 +2900,7 @@
             "description": {
                 "general": [
                     "Dealing damage with a Flooding Weapon from over 200m away, increases Flooding Damage by 13% for 10s",
-                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1%",
+                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1% up to 30%",
                     "Increases damage to enemy ships with the Flooded effect by 10%"
                 ]
             }

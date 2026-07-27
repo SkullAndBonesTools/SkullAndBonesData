@@ -442,6 +442,134 @@
         "jester": {
             "name": "Jester",
             "description": "Upon being afflicted with Taunted, increase Armor Rating and Brace Strength Recovery by %s-%s% for 15 seconds"
+        },
+        "lifeline": {
+            "name": "Lifeline",
+            "description": "Apply Lifeline to repaired targets for 10 seconds. Lifeline will trigger and repair target for %s-%s% when Hull Health is 15% or lower. Lifeline cannot be applied again for 5 seconds after effect has been triggered"
+        },
+        "purify": {
+            "name": "Purify",
+            "description": "Increase Repair by %s-%s%. Every repair shot on a target has a 10% chance to remove an active status effect on the target"
+        },
+        "flashFlood": {
+            "name": "Flash Flood",
+            "description": "%s-%s% chance to trigger the Flooded status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "waterlogged": {
+            "name": "Waterlogged",
+            "description": "Targets that have the Flooded status effect will take an additional %s-%s% of Severe Damage"
+        },
+        "corpseExplosiveBomb": {
+            "name": "Corpse Explosive Bomb",
+            "description": "On target death, causes an explosion that deals %s-%s% Explosive Damage to all targets within 200m"
+        },
+        "megaCorpseBomb": {
+            "name": "Mega Corpse Bomb",
+            "description": "On target death, causes an explosion that deals %s-%s% Explosive Damage and applies Shell-shocked status effect to all targets within 300m"
+        },
+        "lightningStrike": {
+            "name": "Lightning Strike",
+            "description": "Adds %s-%s% damage as Electric Damage. Every hit on a target increases the chance to apply the Stormstruck status effect by 2%, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "voltaicCharge": {
+            "name": "Voltaic Charge",
+            "description": "Deal additional %s-%s% Electric Damage on a target when it triggers the Stormstruck status effect"
+        },
+        "enduringEmbers": {
+            "name": "Enduring Embers",
+            "description": "Every hit deals %s-%s% as Burning Damage over 10 seconds"
+        },
+        "wildfire": {
+            "name": "Wildfire",
+            "description": "Deals %s-%s% Burning Damage when the Ablaze status effect is applied to a target. Ablaze will be applied to targets in a radius of 300m"
+        },
+        "piercingStrike": {
+            "name": "Piercing Strike",
+            "description": "%s-%s% chance to apply the Punctured status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "armorPiercing": {
+            "name": "Armor Piercing",
+            "description": "Hits ignore 10% of the target's Piercing Resistance. Effect increases to %s-%s% if the target has the Punctured status effect"
+        },
+        "outbreak": {
+            "name": "Outbreak",
+            "description": "%s-%s% chance to trigger the Poisoned status effect when hitting a weakpoint on a target. Increases the chance by 2% with consecutive weakpoint hits, up to a maximum of 40%. This resets after 10 seconds of not hitting any targets"
+        },
+        "corrosive": {
+            "name": "Corrosive",
+            "description": "%s-%s% of Toxic Damage reduces brace Strength for 10 seconds. Cannot be stacked or reset on subsequent hits"
+        },
+        "severeDamageRemoval": {
+            "name": "Severe Damage Removal",
+            "description": "Repairs %s-%s% Severe Damage when Bracing. 7s cooldown when triggered"
+        },
+        "blowback": {
+            "name": "Blowback",
+            "description": "Releases an area-of-effect flooding blast that inflicts %s-%s flooding damage to enemy targets within 300m radius at the end of the Flooded status effect"
+        },
+        "tsunami": {
+            "name": "Tsunami",
+            "description": "Deals %s-%s Flooding Damage when ramming a target. Reduces the target's Flooding Resistance by 30% for 10 seconds"
+        },
+        "ironCurtain": {
+            "name": "Iron Curtain",
+            "description": "Increases Armor Rating by %s-%s% for 10 seconds at the end of the Punctured status effect"
+        },
+        "adeptSpikingIntegration": {
+            "name": "Adept Spiking Integration",
+            "description": "Every 10% of Piercing Resistance adds %s-%s Armor"
+        },
+        "penetratingStrike": {
+            "name": "Penetrating Strike",
+            "description": "Deals additional %s-%s Piercing Damage when ramming a target. Reduces its Piercing Resistance by 30% for 10 seconds"
+        },
+        "fortifiedPlates": {
+            "name": "Fortified Plates",
+            "description": "Increases %s-%s% of Brace Strength for every 10% of Explosive Resistance"
+        },
+        "reactivePlating": {
+            "name": "Reactive Plating",
+            "description": "Deals additional %s-%s Explosive Damage when ramming a target. Reduces its Explosive Resistance by 30% for 10 seconds"
+        },
+        "aftershock": {
+            "name": "Aftershock",
+            "description": "Gains %s-%s% of Brace Strength at the end of the Shell-shocked status effect for 10 seconds"
+        },
+        "burningBull": {
+            "name": "Burning Bull",
+            "description": "Deals additional %s-%s Burning Damage when ramming a target. Reduces its Burning Resistance by 30% for 10 seconds"
+        },
+        "immolation": {
+            "name": "Immolation",
+            "description": "When the Ablaze status is applied on your ship, a Burning area-of-effect blast is released to all nearby enemies within a 300m radius, inflicting them with the Ablazed Status. You gain %s-%s% boost to Fire damage done to enemy targets. Boost to Burning damage will be removed at the end of the Ablazed Status"
+        },
+        "worldOnFire": {
+            "name": "World on Fire",
+            "description": "Releases an area-of-effect blast does %s-%s Burning Damage within 300m at the end of the Ablaze status effect"
+        },
+        "lightingRod": {
+            "name": "Lighting Rod",
+            "description": "Deals additional %s-%s Electric Damage when ramming a target. Reduces its Electric Resistance by 30% for 10 seconds"
+        },
+        "chargedUp": {
+            "name": "Charged Up",
+            "description": "Increases Turning Speed by 15% and Electric damage dealt by %s-%s% for 15s when afflicted by the Stormstruck status effect"
+        },
+        "resistanceField": {
+            "name": "Resistance Field",
+            "description": "Increase Sailing Speed by %s-%s% for every 10% of Electric Resistance"
+        },
+        "freshAir": {
+            "name": "Fresh Air",
+            "description": "Increases Crew Stamina Recovery by %s-%s% for 10 seconds at the end of the Poisoned status effect"
+        },
+        "pharmakon": {
+            "name": "Pharmakon",
+            "description": "Increases Maximum Crew Stamina by %s-%s% for every 10% of Toxic Resistance"
+        },
+        "fatalStrike": {
+            "name": "Fatal Strike",
+            "description": "Deals additional %s-%s Toxic Damage when ramming a target. Reduces its Toxic Resistance by 30% for 10 seconds"
         }
     }
 }
