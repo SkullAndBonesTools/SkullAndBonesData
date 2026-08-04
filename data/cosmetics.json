@@ -4905,8 +4905,9 @@
     "seaPeopleNomadHeadwear": {
         "id": "seaPeopleNomadHeadwear",
         "type": "headwear",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-04-14"
+        "lastUpdated": "2026-08-04"
     },
     "masinaHeadwear": {
         "id": "masinaHeadwear",
@@ -5856,9 +5857,9 @@
     "seaPeopleNomadNecklace": {
         "id": "seaPeopleNomadNecklace",
         "type": "neck",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-04-28"
+        "lastUpdated": "2026-08-04"
     },
     "nomadNeckwear": {
         "id": "nomadNeckwear",
@@ -6460,9 +6461,9 @@
     "nomadGarment": {
         "id": "nomadGarment",
         "type": "torso",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-04-30"
+        "lastUpdated": "2026-08-04"
     },
     "nomadTop": {
         "id": "nomadTop",
@@ -7242,9 +7243,9 @@
     "nomadBelt": {
         "id": "nomadBelt",
         "type": "waist",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-05-04"
+        "lastUpdated": "2026-08-04"
     },
     "nomadWaistband": {
         "id": "nomadWaistband",
@@ -8339,9 +8340,9 @@
     "nomadForearms": {
         "id": "nomadForearms",
         "type": "forearm",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-05-05"
+        "lastUpdated": "2026-08-04"
     },
     "riggerBracelets": {
         "id": "riggerBracelets",
@@ -8814,9 +8815,9 @@
     "nomadFootwear": {
         "id": "nomadFootwear",
         "type": "footwear",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-05-06"
+        "lastUpdated": "2026-08-04"
     },
     "wornSandals": {
         "id": "wornSandals",
@@ -9456,9 +9457,9 @@
     "nomadBottoms": {
         "id": "nomadBottoms",
         "type": "bottom",
-        "obtainable": "",
+        "obtainable": "settlementPalisadeBay",
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-05-07"
+        "lastUpdated": "2026-08-04"
     },
     "nomadLeggings": {
         "id": "nomadLeggings",
