@@ -13,7 +13,7 @@
     },
     "requiemOfTheLost": {
         "id": "requiemOfTheLost",
-        "seasons": ["intoTheDragonsWake","gutsAndGlory"]
+        "seasons": ["intoTheDragonsWake","gutsAndGlory","crimsonWaters"]
     },
     "azureSolstice": {
         "id": "azureSolstice",
@@ -37,7 +37,7 @@
     },
     "darktideLullaby": {
         "id": "darktideLullaby",
-        "seasons": ["oathsOfWar"]
+        "seasons": ["oathsOfWar","crimsonWaters"]
     },
     "moonshineLarceny": {
         "id": "moonshineLarceny",
