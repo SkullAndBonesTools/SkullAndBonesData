@@ -1002,5 +1002,64 @@
         "perks": ["colossal","abundantGunports","ironThunder"],
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "junk": {
+        "id": "junk",
+        "size": "large",
+        "type": "ships",
+        "archetype": "dps",
+        "blueprint": "smugglerPass45Reward",
+        "season": "crimsonWaters",
+        "hitpoints": 85000,
+        "braceStrength": 17000,
+        "braceStrengthRecovery": 1,
+        "stamina": 100,
+        "baseRank": 5,
+        "sailSpeed": {
+            "halfSail": 5,
+            "fullSail": 11,
+            "travelSail": 14
+        },
+        "cargo": {
+            "cargoSlots": 100,
+            "cargoMaxWeight": 160000
+        },
+        "required": {
+            "greenheartPlank": 15,
+            "phoenixBeak": 10,
+            "phoenixPinion": 10,
+            "zincIngot": 15,
+            "deepIron": 10,
+            "wyrmVolatileNapalm": 1,
+            "gannetDenseNiter": 1,
+            "silver": 12000
+        },
+        "slots": {
+            "attachement": [1,1],
+            "frontWeapon": [1,{
+                "top": 2,
+                "lower": 4
+            }],
+            "leftSideWeapon": [1,{
+                "top": 6,
+                "lower": 8
+            }],
+            "rightSideWeapon": [1,{
+                "top": 6,
+                "lower": 8
+            }],
+            "aftWeapon": [1,{
+                "top": 2
+            }],
+            "auxiliaryWeapon": [1,{
+                "top": 2,
+                "lower": 2
+            }],
+            "furniture": [5,1],
+            "ultimate": [1,1]
+        },
+        "perks": ["colossal","abundantGunports","infernalEmbers"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

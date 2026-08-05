@@ -3330,6 +3330,16 @@
                     "Reduces Time-to-Target of Springloader by 15%"
                 ]
             }
+        },
+        "infernalEmbers": {
+            "name": "Infernal Embers",
+            "description": {
+                "general": [
+                    "Weapon hits on target enemies apply one stack of Ember up to 20 stacks for 5 seconds which decays one by one. Ember decreases Armor Rating by 2% and Fire Resistance by 2% per stack",
+                    "Gain a stack of Inferno when hitting an enemy with max Ember stacks, up to 10 stacks, which lasts 5 seconds. Inferno decreases Reload Time by 0.5% and increases Weapon Damage by 3% per stack",
+                    "Allied XSML, SML and MED ships within 500 meters gain half of the bonus provided by Inferno"
+                ]
+            }
         }
     }
 }
