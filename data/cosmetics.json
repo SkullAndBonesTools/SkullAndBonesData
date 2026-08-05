@@ -34403,5 +34403,77 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "sanctity": {
+        "id": "sanctity",
+        "type": "headwear",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "purity": {
+        "id": "purity",
+        "type": "eyeColor",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "divinity": {
+        "id": "divinity",
+        "type": "torso",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "absolution": {
+        "id": "absolution",
+        "type": "neck",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "authority": {
+        "id": "authority",
+        "type": "forearm",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ordinance": {
+        "id": "ordinance",
+        "type": "waist",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "order": {
+        "id": "order",
+        "type": "bottom",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "devoutness": {
+        "id": "devoutness",
+        "type": "footwear",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "penance": {
+        "id": "penance",
+        "type": "bodyCosmetics",
+        "set": "doctrineOfFaith",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

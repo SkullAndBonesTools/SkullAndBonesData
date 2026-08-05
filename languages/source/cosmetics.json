@@ -23591,6 +23591,60 @@
             "description": {
                 "general": "Moonlight shows us what we truly are"
             }
+        },
+        "sanctity": {
+            "name": "Sanctity",
+            "description": {
+                "general": "Will is worn as truth"
+            }
+        },
+        "purity": {
+            "name": "Purity",
+            "description": {
+                "general": "Of purpose, or none at all"
+            }
+        },
+        "divinity": {
+            "name": "Divinity",
+            "description": {
+                "general": "Suffers no fools, nor doubt"
+            }
+        },
+        "absolution": {
+            "name": "Absolution",
+            "description": {
+                "general": "Mercy is granted through judgment"
+            }
+        },
+        "authority": {
+            "name": "Authority",
+            "description": {
+                "general": "Judgment is carried out in full"
+            }
+        },
+        "ordinance": {
+            "name": "Ordinance",
+            "description": {
+                "general": "Duty is bound without question"
+            }
+        },
+        "order": {
+            "name": "Order",
+            "description": {
+                "general": "All steps follow sacred law"
+            }
+        },
+        "devoutness": {
+            "name": "Devoutness",
+            "description": {
+                "general": "No path strays from the cause"
+            }
+        },
+        "penance": {
+            "name": "Penance",
+            "description": {
+                "general": "Sin is visible to all"
+            }
         }
     }
 }
