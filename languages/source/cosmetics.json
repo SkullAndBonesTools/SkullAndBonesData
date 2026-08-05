@@ -23855,6 +23855,30 @@
             "description": {
                 "general": "Feed the depths"
             }
+        },
+        "dragonmarked": {
+            "name": "Dragonmarked",
+            "description": {
+                "general": "Fly the colors that have swallowed a thousand fleets"
+            }
+        },
+        "jadeSkies": {
+            "name": "Jade Skies",
+            "description": {
+                "general": "Silks worthy of a warlord"
+            }
+        },
+        "bloodlacquer": {
+            "name": "Bloodlacquer",
+            "description": {
+                "general": "Every plank stained with the spoils of war"
+            }
+        },
+        "stormdrake": {
+            "name": "Stormdrake",
+            "description": {
+                "general": "Where the dragon flies, dominion follows"
+            }
         }
     }
 }

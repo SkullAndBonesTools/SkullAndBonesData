@@ -1867,5 +1867,9 @@
     "rogueStringer": {
         "id": "rogueStringer",
         "type": "ship"
+    },
+    "dragonlord": {
+        "id": "dragonlord",
+        "type": "ship"
     }
 }

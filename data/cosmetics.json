@@ -34823,5 +34823,42 @@
         "obtainable": "premiumEventPass",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "dragonmarked": {
+        "id": "dragonmarked",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "dragonlord",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "jadeSkies": {
+        "id": "jadeSkies",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "dragonlord",
+        "effect": "emissive",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "bloodlacquer": {
+        "id": "bloodlacquer",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "dragonlord",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "stormdrake": {
+        "id": "stormdrake",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "dragonlord",
+        "obtainable": [["smugglerPass","smugglerPass50Reward"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
