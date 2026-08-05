@@ -460,6 +460,10 @@
         "venomsWake": "Venom's Wake Set",
         "valhallasCall": "Valhalla's Call Set",
         "soulHarvest": "Soul Harvest Set",
-        "chargeOfDeath": "Charge of Death Set"
+        "chargeOfDeath": "Charge of Death Set",
+        "silverConquest": "Silver Conquest Set",
+        "doctrineOfFaith": "Doctrine of Faith Set",
+        "dreadtide": "Dreadtide Set",
+        "stormchaser": "Stormchaser Set"
     }
 }

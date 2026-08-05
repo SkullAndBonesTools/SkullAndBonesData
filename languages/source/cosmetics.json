@@ -23561,6 +23561,36 @@
             "description": {
                 "general": "Charge forth and conquer the seas"
             }
+        },
+        "corsairsCarapace": {
+            "name": "Corsair's Carapace",
+            "description": {
+                "general": "The sea armors those it cannot drown"
+            }
+        },
+        "clawedCrown": {
+            "name": "Clawed Crown",
+            "description": {
+                "general": "Where the depths claim dominion"
+            }
+        },
+        "barnacleMaw": {
+            "name": "Barnacle Maw",
+            "description": {
+                "general": "Flesh yields to the forever deep"
+            }
+        },
+        "abysslit": {
+            "name": "Abysslit",
+            "description": {
+                "general": "The sight of cold light piercing the seas"
+            }
+        },
+        "eternalCurse": {
+            "name": "Eternal Curse",
+            "description": {
+                "general": "Moonlight shows us what we truly are"
+            }
         }
     }
 }

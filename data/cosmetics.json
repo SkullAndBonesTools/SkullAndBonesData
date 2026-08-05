@@ -34358,5 +34358,50 @@
         "obtainable": "williamBlackwoodStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "corsairsCarapace": {
+        "id": "corsairsCarapace",
+        "type": "characterSuit",
+        "pieces": ["neck","torso","waist","forearm","hand","bottom","footwear"],
+        "set": "dreadtide",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "clawedCrown": {
+        "id": "clawedCrown",
+        "type": "headwear",
+        "set": "dreadtide",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "barnacleMaw": {
+        "id": "barnacleMaw",
+        "type": "faceAccessory",
+        "set": "dreadtide",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "abysslit": {
+        "id": "abysslit",
+        "type": "eyeColor",
+        "set": "dreadtide",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "eternalCurse": {
+        "id": "eternalCurse",
+        "type": "bodyCosmetics",
+        "set": "dreadtide",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

@@ -1847,5 +1847,21 @@
     "chargeOfDeath": {
         "id": "chargeOfDeath",
         "type": "ship"
+    },
+    "silverConquest": {
+        "id": "silverConquest",
+        "type": "player"
+    },
+    "doctrineOfFaith": {
+        "id": "doctrineOfFaith",
+        "type": "player"
+    },
+    "dreadtide": {
+        "id": "dreadtide",
+        "type": "player"
+    },
+    "stormchaser": {
+        "id": "stormchaser",
+        "type": "player"
     }
 }
