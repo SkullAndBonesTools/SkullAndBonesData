@@ -296,6 +296,18 @@
         "frenchGraphicNovel": "Obtained when purchasing the french graphic novel Skull & Bones: Sans Pitié",
         "twitchDropMoonshineLarcenyY3S1": "Twitch Drop during the Moonshine Larceny event in {{shatteredSeas}}",
         "acbfrLaunchGift": "Gifted to all players for the launch of Assassin's Creed Black Flag Resynced between the 6th July and 11th August 2026",
-        "settlementPalisadeBay": "Sea People Settlement Palisade Bay"
+        "settlementPalisadeBay": "Sea People Settlement Palisade Bay",
+        "contractRewarddressedToKill": "Reward for completing the 'Dressed to Kill' contract",
+        "contractRewardIdleEarls": "Reward for completing the 'Idle Earls' contract",
+        "contractRewardPoorCompagnie": "Reward for completing the 'Poor Compagnie' contract",
+        "contractRewardTheMarquis": "Reward for completing the 'The Marquis' contract",
+        "contractRewardThrillOfTheHunt": "Reward for completing the 'Thrill of the Hunt' contract",
+        "contractRewardThePirateRound": "Reward for completing the 'The Pirate Round' contract",
+        "contractRewardCutthroatJacks": "Reward for completing the 'Cutthroat Jacks' contract",
+        "contractRewardBoTelORhum": "Reward for completing the 'Bo' tel o' Rhum' contract",
+        "contractRewardRelicsOfThePast": "Reward for completing the 'Relics of the Past' contract",
+        "contractRewardHeighSeasHeist": "Reward for completing the 'Heigh Seas Heist' contract",
+        "contractRewardWeSeekWarriors": "Reward for completing the 'We Seek Warriors' contract",
+        "contractRewardAncestralRights": "Reward for completing the 'Ancestral Rights' contract"
     }
 }

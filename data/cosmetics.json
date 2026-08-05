@@ -517,10 +517,9 @@
     "maurine": {
         "id": "maurine",
         "type": "pet",
-        "contract": "dressedToKill",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewarddressedToKill"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-04-12"
+        "lastUpdated": "2026-08-04"
     },
     "captainCalico": {
         "id": "captainCalico",
@@ -604,10 +603,9 @@
     "dmcGarbs": {
         "id": "dmcGarbs",
         "type": "crewLook",
-        "contract": "idleEarls",
-        "obtainable": [["contractReward","outpostTheRuinedLighthouse"]],
+        "obtainable": [["contractReward","contractRewardIdleEarls","outpostTheRuinedLighthouse"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "theVeterans": {
         "id": "theVeterans",
@@ -869,10 +867,9 @@
         "id": "gildedWheel",
         "type": "wheel",
         "set": "compagnieCosmetics",
-        "contract": "poorCompagnie",
-        "obtainable": [["contractReward","outpostFortLouis"]],
+        "obtainable": [["contractReward","contractRewardPoorCompagnie","outpostFortLouis"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "bloodGodsHelm": {
         "id": "bloodGodsHelm",
@@ -923,10 +920,9 @@
     "trophyRack": {
         "id": "trophyRack",
         "type": "wheel",
-        "contract": "theMarquis",
-        "obtainable": [["contractReward","outpostReturnFleetBight"]],
+        "obtainable": [["contractReward","contractRewardTheMarquis","outpostReturnFleetBight"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-04"
     },
     "northStar": {
         "id": "northStar",
@@ -943,10 +939,9 @@
         "id": "interwoven",
         "type": "wheel",
         "set": "seaPeoplesWays",
-        "contract": "thrillOfTheHunt",
-        "obtainable": [["contractReward","outpostLanitra"]],
+        "obtainable": [["contractReward","contractRewardThrillOfTheHunt","outpostLanitra"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "goldenrodWheel": {
         "id": "goldenrodWheel",
@@ -1041,10 +1036,9 @@
         "id": "theInsatiable",
         "type": "nameplate",
         "set": "scurlocks",
-        "contract": "thePirateRound",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardThePirateRound"]],
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-04"
     },
     "despoiler": {
         "id": "despoiler",
@@ -1122,10 +1116,9 @@
         "id": "nobleGrace",
         "type": "ornaments",
         "set": "dmcCosmetics",
-        "contract": "cutthroatJacks",
-        "obtainable": [["contractReward","outpostTheRuinedLighthouse"]],
+        "obtainable": [["contractReward","contractRewardCutthroatJacks","outpostTheRuinedLighthouse"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-04"
     },
     "embeddedSpears": {
         "id": "embeddedSpears",
@@ -1146,19 +1139,17 @@
         "id": "resplendentTrim",
         "type": "ornaments",
         "set": "compagnieCosmetics",
-        "contract": "boTelORhum",
-        "obtainable": [["contractReward","outpostMotherOfShipwrecks"]],
+        "obtainable": [["contractReward","contractRewardBoTelORhum","outpostMotherOfShipwrecks"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "boneforged": {
         "id": "boneforged",
         "type": "ornaments",
         "set": "seaPeoplesWays",
-        "contract": "relicsOfThePast",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardRelicsOfThePast"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2026-08-04"
     },
     "flintsGaze": {
         "id": "flintsGaze",
@@ -1202,10 +1193,9 @@
         "id": "scurlocksPrince",
         "type": "ornaments",
         "set": "scurlocks",
-        "contract": "heighSeasHeist",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardHeighSeasHeist"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-04"
     },
     "unfetteredSoul": {
         "id": "unfetteredSoul",
@@ -1241,10 +1231,9 @@
         "id": "huntersHonor",
         "type": "ornaments",
         "set": "ungwanaHunter",
-        "contract": "weSeekWarriors",
-        "obtainable": [["contractReward","outpostDragonsBack"]],
+        "obtainable": [["contractReward","contractRewardWeSeekWarriors","outpostDragonsBack"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "fabledOfferings": {
         "id": "fabledOfferings",
@@ -1259,10 +1248,9 @@
         "id": "clansTapestry",
         "type": "ornaments",
         "set": "fara",
-        "contract": "ancestralRights",
-        "obtainable": [["contractReward","outpostSacredTree"]],
+        "obtainable": [["contractReward","contractRewardAncestralRights","outpostSacredTree"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "plaguesWake": {
         "id": "plaguesWake",
@@ -9148,10 +9136,9 @@
         "id": "compagnieEliteLeggings",
         "type": "bottom",
         "set": "compagnieElite",
-        "contract": "boTelORhum",
-        "obtainable": [["contractReward","outpostMotherOfShipwrecks"]],
+        "obtainable": [["contractReward","contractRewardBoTelORhum","outpostMotherOfShipwrecks"]],
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-04"
     },
     "coastguardBreeches": {
         "id": "coastguardBreeches",
