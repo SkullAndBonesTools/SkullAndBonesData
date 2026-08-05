@@ -21466,9 +21466,10 @@
         "type": "figureHead",
         "effect": "emissive",
         "set": "dreadnought",
+        "upgrades": ["oWrathfulOne","oInfernalOne"],
         "obtainable": "ubisoftStore",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-04-15"
+        "lastUpdated": "2026-08-18"
     },
     "grandFate": {
         "id": "grandFate",
@@ -33986,6 +33987,85 @@
         "type": "hull",
         "set": "venomsWake",
         "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "grimsFlourish": {
+        "id": "grimsFlourish",
+        "type": "ornaments",
+        "set": "theAvowed",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "avowed": {
+        "id": "avowed",
+        "type": "nameplate",
+        "set": "theAvowed",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deadmansOath": {
+        "id": "deadmansOath",
+        "type": "wheel",
+        "set": "theAvowed",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ironspine": {
+        "id": "ironspine",
+        "type": "ornaments",
+        "set": "dreadnought",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "dreadshriek": {
+        "id": "dreadshriek",
+        "type": "trophy",
+        "set": "dreadnought",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "oWrathfulOne": {
+        "id": "oWrathfulOne",
+        "type": "figureHead",
+        "set": "dreadnought",
+        "tier": 1,
+        "basic": "oFearlessOne",
+        "effect": "emissive",
+        "required": {
+            "greenheartPlank": 7,
+            "phoenixPinion": 3,
+            "azureDragonHead": 3,
+            "artisansRefinementPack": 3
+        },
+        "upgrades": ["oInfernalOne"],
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "oInfernalOne": {
+        "id": "oInfernalOne",
+        "type": "figureHead",
+        "set": "dreadnought",
+        "tier": 2,
+        "effect": ["emissive","combatReactive"],
+        "basic": "oFearlessOne",
+        "required": {
+            "phoenixBeak": 5,
+            "azureDragonHead": 5,
+            "jadePhoenixStatue": 2,
+            "yellowDragonBanner": 2,
+            "artisansRefinementPack": 5
+        },
+        "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     }

@@ -23327,6 +23327,48 @@
             "description": {
                 "general": "Polished with the ashes of your foes"
             }
+        },
+        "grimsFlourish": {
+            "name": "Grim's Flourish",
+            "description": {
+                "general": "The dead make fine decor"
+            }
+        },
+        "avowed": {
+            "name": "Avowed",
+            "description": {
+                "general": "\"My oath is sealed in steel and blood.\""
+            }
+        },
+        "deadmansOath": {
+            "name": "Deadman's Oath",
+            "description": {
+                "general": "\"Every course I set ends in someone's ruin.\""
+            }
+        },
+        "ironspine": {
+            "name": "Ironspine",
+            "description": {
+                "general": "Cold thorns fit for the most feared ships"
+            }
+        },
+        "dreadshriek": {
+            "name": "Dreadshriek",
+            "description": {
+                "general": "The last sound your enemies make, immortalized in steel"
+            }
+        },
+        "oWrathfulOne": {
+            "name": "O Wrathful One",
+            "description": {
+                "general": "The air crackles with its presence"
+            }
+        },
+        "oInfernalOne": {
+            "name": "O Infernal One",
+            "description": {
+                "general": "Gaze upon it and lose all hope"
+            }
         }
     }
 }
