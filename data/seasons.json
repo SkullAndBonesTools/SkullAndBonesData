@@ -66,7 +66,14 @@
         "index": 9,
         "id": "shatteredSeas",
         "startDate": "2026-05-12",
-        "endDate": "2026-08-18",
+        "endDate": "2026-08-17",
         "color": "#D4A734"
+    },
+    "crimsonWaters": {
+        "index": 10,
+        "id": "crimsonWaters",
+        "startDate": "2026-08-18",
+        "endDate": "2026-11-17",
+        "color": "#F1B300"
     }
 }
