@@ -34762,5 +34762,66 @@
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "deadmansDance": {
+        "id": "deadmansDance",
+        "type": "firework",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "bloodrust": {
+        "id": "bloodrust",
+        "type": "hull",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "rogueStringer",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "puppeteerOfChaos": {
+        "id": "puppeteerOfChaos",
+        "type": "sailsEmblem",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "rogueStringer",
+        "effect": "animated",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "marionettesMark": {
+        "id": "marionettesMark",
+        "type": "sailsPattern",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "rogueStringer",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "shadowVeil": {
+        "id": "shadowVeil",
+        "type": "sailsColor",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "rogueStringer",
+        "effect": "emissive",
+        "obtainable": "eventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "crimsonOmen": {
+        "id": "crimsonOmen",
+        "type": "torpedoWeaponSkin",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "effect": "emissive",
+        "obtainable": "premiumEventPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

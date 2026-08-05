@@ -23819,6 +23819,42 @@
             "description": {
                 "general": "The winds lead you to feast and glory"
             }
+        },
+        "deadmansDance": {
+            "name": "Deadman's Dance",
+            "description": {
+                "general": "There is no escape..."
+            }
+        },
+        "bloodrust": {
+            "name": "Bloodrust",
+            "description": {
+                "general": "Bleeds rust and still outsails 'em all"
+            }
+        },
+        "puppeteerOfChaos": {
+            "name": "Puppeteer of Chaos",
+            "description": {
+                "general": "\"Every ship on these seas dances to me tune.\""
+            }
+        },
+        "marionettesMark": {
+            "name": "Marionette's Mark",
+            "description": {
+                "general": "Hold every horizon in your palm"
+            }
+        },
+        "shadowVeil": {
+            "name": "Shadow Veil",
+            "description": {
+                "general": "Sails as dark as your heart"
+            }
+        },
+        "crimsonOmen": {
+            "name": "Crimson Omen",
+            "description": {
+                "general": "Feed the depths"
+            }
         }
     }
 }

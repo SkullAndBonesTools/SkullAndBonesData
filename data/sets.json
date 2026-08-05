@@ -1863,5 +1863,9 @@
     "stormchaser": {
         "id": "stormchaser",
         "type": "player"
+    },
+    "rogueStringer": {
+        "id": "rogueStringer",
+        "type": "ship"
     }
 }
