@@ -23303,6 +23303,30 @@
             "description": {
                 "general": "Every hit just made it stronger"
             }
+        },
+        "barbedbone": {
+            "name": "Barbed Bone",
+            "description": {
+                "general": "Hooked and ready to draw blood"
+            }
+        },
+        "deathweb": {
+            "name": "Deathweb",
+            "description": {
+                "general": "Spin your poison across the seas"
+            }
+        },
+        "breathOBlight": {
+            "name": "Breath O' Blight",
+            "description": {
+                "general": "As dark and deadly as the abyss itself"
+            }
+        },
+        "ashplate": {
+            "name": "Ashplate",
+            "description": {
+                "general": "Polished with the ashes of your foes"
+            }
         }
     }
 }

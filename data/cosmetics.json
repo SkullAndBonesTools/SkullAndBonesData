@@ -33956,5 +33956,37 @@
         "obtainable": "ubisoftStoreFreeClaim",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "barbedbone": {
+        "id": "barbedbone",
+        "type": "sailsEmblem",
+        "set": "venomsWake",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deathweb": {
+        "id": "deathweb",
+        "type": "sailsPattern",
+        "set": "venomsWake",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "breathOBlight": {
+        "id": "breathOBlight",
+        "type": "sailsColor",
+        "set": "venomsWake",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ashplate": {
+        "id": "ashplate",
+        "type": "hull",
+        "set": "venomsWake",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
