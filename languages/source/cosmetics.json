@@ -23699,6 +23699,60 @@
             "description": {
                 "general": "Marked by every tempest survived"
             }
+        },
+        "masterOfTheSeas": {
+            "name": "Master of the Seas",
+            "description": {
+                "general": "A snug fit over smug shoulders"
+            }
+        },
+        "championsChoice": {
+            "name": "Champion's Choice",
+            "description": {
+                "general": "Keeps you steady amidst rogue waves and drunken fiends"
+            }
+        },
+        "holdfastLeathers": {
+            "name": "Holdfast Leathers",
+            "description": {
+                "general": "\"More like hole-fast leathers!\""
+            }
+        },
+        "amethystRomance": {
+            "name": "Amethyst Romance",
+            "description": {
+                "general": "Commanders can be casanovas too"
+            }
+        },
+        "whitewaterBrim": {
+            "name": "Whitewater Brim",
+            "description": {
+                "general": "Made from shark hide, finished under a merciless sun"
+            }
+        },
+        "rightOfRule": {
+            "name": "Right of Rule",
+            "description": {
+                "general": "Power has a habit of showing off"
+            }
+        },
+        "eyeOfAscension": {
+            "name": "Eye of Ascension",
+            "description": {
+                "general": "Victory may cost an eye, but coin buys you pretty things"
+            }
+        },
+        "highwaterGuard": {
+            "name": "Highwater Guard",
+            "description": {
+                "general": "Stops attacks by blades, fists and teeth"
+            }
+        },
+        "worldbound": {
+            "name": "Worldbound",
+            "description": {
+                "general": "\"Can't conquer the world when your pants are falling off, can you?\""
+            }
         }
     }
 }

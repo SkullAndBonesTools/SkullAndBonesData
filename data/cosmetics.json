@@ -34549,5 +34549,104 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "masterOfTheSeas": {
+        "id": "masterOfTheSeas",
+        "type": "torso",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "championsChoice": {
+        "id": "championsChoice",
+        "type": "footwear",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "holdfastLeathers": {
+        "id": "holdfastLeathers",
+        "type": "bottom",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "amethystRomance": {
+        "id": "amethystRomance",
+        "type": "neck",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "whitewaterBrim": {
+        "id": "whitewaterBrim",
+        "type": "headwear",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "rightOfRule": {
+        "id": "rightOfRule",
+        "type": "hand",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "eyeOfAscension": {
+        "id": "eyeOfAscension",
+        "type": "faceAccessory",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "highwaterGuard": {
+        "id": "highwaterGuard",
+        "type": "forearm",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "worldbound": {
+        "id": "worldbound",
+        "type": "waist",
+        "set": "silverConquest",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
