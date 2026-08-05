@@ -23279,6 +23279,30 @@
             "description": {
                 "general": "A faithful friend who sees what you cannot"
             }
+        },
+        "steeltongue": {
+            "name": "Steeltongue",
+            "description": {
+                "general": "\"Yer blade ain't got nothing' on me, matey.\""
+            }
+        },
+        "ghostfire": {
+            "name": "Ghostfire",
+            "description": {
+                "general": "\"Spot 'em and say yer prayers, Captain.\""
+            }
+        },
+        "windsOfDoom": {
+            "name": "Winds of Doom",
+            "description": {
+                "general": "Every gust carries the promise of ruin"
+            }
+        },
+        "woundwood": {
+            "name": "Woundwood",
+            "description": {
+                "general": "Every hit just made it stronger"
+            }
         }
     }
 }

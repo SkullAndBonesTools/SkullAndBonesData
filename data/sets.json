@@ -1819,5 +1819,29 @@
     "jackdaw": {
         "id": "jackdaw",
         "type": "ship"
+    },
+    "clawsOfTheAbyss": {
+        "id": "clawsOfTheAbyss",
+        "type": "ship"
+    },
+    "stormreaver": {
+        "id": "stormreaver",
+        "type": "ship"
+    },
+    "grimflare": {
+        "id": "grimflare",
+        "type": "ship"
+    },
+    "venomsWake": {
+        "id": "venomsWake",
+        "type": "ship"
+    },
+    "valhallasCall": {
+        "id": "valhallasCall",
+        "type": "ship"
+    },
+    "soulHarvest": {
+        "id": "soulHarvest",
+        "type": "ship"
     }
 }

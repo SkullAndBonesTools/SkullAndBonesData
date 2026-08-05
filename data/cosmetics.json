@@ -33924,5 +33924,37 @@
         "set": "jackdaw",
         "dateAdded": "2026-07-09",
         "lastUpdated": "2026-07-09"
+    },
+    "steeltongue": {
+        "id": "steeltongue",
+        "type": "sailsEmblem",
+        "set": "grimflare",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ghostfire": {
+        "id": "ghostfire",
+        "type": "sailsPattern",
+        "set": "grimflare",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "windsOfDoom": {
+        "id": "windsOfDoom",
+        "type": "sailsColor",
+        "set": "grimflare",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "woundwood": {
+        "id": "woundwood",
+        "type": "hull",
+        "set": "grimflare",
+        "obtainable": "ubisoftStoreFreeClaim",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
