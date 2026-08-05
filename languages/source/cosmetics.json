@@ -23753,6 +23753,72 @@
             "description": {
                 "general": "\"Can't conquer the world when your pants are falling off, can you?\""
             }
+        },
+        "emberwinds": {
+            "name": "Emberwinds",
+            "description": {
+                "general": "Hot on their trail and closing fast"
+            }
+        },
+        "flairewraith": {
+            "name": "Flairewraith",
+            "description": {
+                "general": "Ambition burns brighter than any flame"
+            }
+        },
+        "soulthirst": {
+            "name": "Soulthirst",
+            "description": {
+                "general": "Wield an ancient hunger across the seas"
+            }
+        },
+        "theDriftingDead": {
+            "name": "The Drifting Dead",
+            "description": {
+                "general": "\"Follow my light into eternal darkness.\""
+            }
+        },
+        "bloodsilk": {
+            "name": "Bloodsilk",
+            "description": {
+                "general": "Fly the colors of terror"
+            }
+        },
+        "eternalReaper": {
+            "name": "Eternal Reaper",
+            "description": {
+                "general": "None escape the tides of death"
+            }
+        },
+        "dreadglow": {
+            "name": "Dreadglow",
+            "description": {
+                "general": "Lit by the souls of your enemies"
+            }
+        },
+        "ashwake": {
+            "name": "Ashwake",
+            "description": {
+                "general": "Leave no survivors behind"
+            }
+        },
+        "hungryGhost": {
+            "name": "Hungry Ghost",
+            "description": {
+                "general": "\"The light at the end... was always me.\""
+            }
+        },
+        "theLastRite": {
+            "name": "The Last Rite",
+            "description": {
+                "general": "Scatter your enemies to the sky"
+            }
+        },
+        "reapervane": {
+            "name": "Reapervane",
+            "description": {
+                "general": "The winds lead you to feast and glory"
+            }
         }
     }
 }

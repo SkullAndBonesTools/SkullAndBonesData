@@ -34648,5 +34648,119 @@
         "obtainable": "williamBlackwoodStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "emberwinds": {
+        "id": "emberwinds",
+        "type": "aura",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "flairewraith": {
+        "id": "flairewraith",
+        "type": "firework",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "soulthirst": {
+        "id": "soulthirst",
+        "type": "sailsEmblem",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": "animated",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "theDriftingDead": {
+        "id": "theDriftingDead",
+        "type": "sailsPattern",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "bloodsilk": {
+        "id": "bloodsilk",
+        "type": "sailsColor",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "eternalReaper": {
+        "id": "eternalReaper",
+        "type": "figureHead",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": ["emissive","combatReactive"],
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "dreadglow": {
+        "id": "dreadglow",
+        "type": "ornaments",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ashwake": {
+        "id": "ashwake",
+        "type": "hull",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "hungryGhost": {
+        "id": "hungryGhost",
+        "type": "nameplate",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "theLastRite": {
+        "id": "theLastRite",
+        "type": "trophy",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "reapervane": {
+        "id": "reapervane",
+        "type": "helmDecor",
+        "event": "darktideLullaby",
+        "season": "crimsonWaters",
+        "set": "soulHarvest",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
