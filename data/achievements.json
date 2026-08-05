@@ -743,5 +743,13 @@
         "goal": 200000,
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
+    },
+    "claimToFameY3S2": {
+        "id": "claimToFameY3S2",
+        "category": "seasonal",
+        "season": "crimsonWaters",
+        "goal": 200000,
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
