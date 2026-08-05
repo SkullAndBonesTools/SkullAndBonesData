@@ -23645,6 +23645,60 @@
             "description": {
                 "general": "Sin is visible to all"
             }
+        },
+        "fulmination": {
+            "name": "Fulmination",
+            "description": {
+                "general": "A battered brim to face unyielding winds"
+            }
+        },
+        "thunderstruckFA": {
+            "name": "Thunderstruck",
+            "description": {
+                "general": "You know there's no turning back"
+            }
+        },
+        "stormbound": {
+            "name": "Stormbound",
+            "description": {
+                "general": "A cloak that gathers wind and wears the storm"
+            }
+        },
+        "navigatorsCharm": {
+            "name": "Navigator's Charm",
+            "description": {
+                "general": "Measures of distance and fate carried close"
+            }
+        },
+        "groundedGuardians": {
+            "name": "Grounded Guardians",
+            "description": {
+                "general": "For when the lightning strikes"
+            }
+        },
+        "wayfinder": {
+            "name": "Wayfinder",
+            "description": {
+                "general": "Eyes each tempest as your last"
+            }
+        },
+        "galeWorn": {
+            "name": "Gale-Worn",
+            "description": {
+                "general": "Hardened by long miles under open skies"
+            }
+        },
+        "tempestTreads": {
+            "name": "Tempest Treads",
+            "description": {
+                "general": "Where lesser paths would turn back"
+            }
+        },
+        "skyscrawl": {
+            "name": "Skyscrawl",
+            "description": {
+                "general": "Marked by every tempest survived"
+            }
         }
     }
 }

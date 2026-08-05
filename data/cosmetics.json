@@ -34475,5 +34475,79 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "fulmination": {
+        "id": "fulmination",
+        "type": "headwear",
+        "set": "stormchaser",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "thunderstruckFA": {
+        "id": "thunderstruckFA",
+        "type": "faceAccessory",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "stormbound": {
+        "id": "stormbound",
+        "type": "torso",
+        "set": "stormchaser",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "navigatorsCharm": {
+        "id": "navigatorsCharm",
+        "type": "neck",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "groundedGuardians": {
+        "id": "groundedGuardians",
+        "type": "forearm",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "wayfinder": {
+        "id": "wayfinder",
+        "type": "waist",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "galeWorn": {
+        "id": "galeWorn",
+        "type": "bottom",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "tempestTreads": {
+        "id": "tempestTreads",
+        "type": "footwear",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "skyscrawl": {
+        "id": "skyscrawl",
+        "type": "bodyCosmetics",
+        "set": "stormchaser",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
