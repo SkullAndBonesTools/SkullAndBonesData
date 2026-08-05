@@ -34068,5 +34068,66 @@
         "obtainable": ["ubisoftStore","upgradeWithMaterials"],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "ivoryFang": {
+        "id": "ivoryFang",
+        "type": "springloaderWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "gildedDoom": {
+        "id": "gildedDoom",
+        "type": "culverinWeaponSkin",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "valkyrs": {
+        "id": "valkyrs",
+        "type": "shipSkin",
+        "effect": ["emissive","combatReactive"],
+        "pieces": ["figureHead","ornaments","nameplate"],
+        "ship": "barque",
+        "season": "crimsonWaters",
+        "set": "valhallasCall",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "gildedApostate": {
+        "id": "gildedApostate",
+        "type": "sailsEmblem",
+        "set": "valhallasCall",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "conquerersCrest": {
+        "id": "conquerersCrest",
+        "type": "sailsPattern",
+        "set": "valhallasCall",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "shroudsilk": {
+        "id": "shroudsilk",
+        "type": "sailsColor",
+        "set": "valhallasCall",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "spoilsOfHeaven": {
+        "id": "spoilsOfHeaven",
+        "type": "hull",
+        "set": "valhallasCall",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

@@ -23369,6 +23369,48 @@
             "description": {
                 "general": "Gaze upon it and lose all hope"
             }
+        },
+        "ivoryFang": {
+            "name": "Ivory Fang",
+            "description": {
+                "general": "Carved to kill"
+            }
+        },
+        "gildedDoom": {
+            "name": "Gilded Doom",
+            "description": {
+                "general": "Deliver death with style"
+            }
+        },
+        "valkyrs": {
+            "name": "Valkyrs",
+            "description": {
+                "general": "\"Mine is the hand that guides Death's scythe.\""
+            }
+        },
+        "gildedApostate": {
+            "name": "Gilded Apostate",
+            "description": {
+                "general": "\"I see your future and it is hell.\""
+            }
+        },
+        "conquerersCrest": {
+            "name": "Conquerer's Crest",
+            "description": {
+                "general": "\"I'd rather die in battle than live on my knees.\""
+            }
+        },
+        "shroudsilk": {
+            "name": "Shroudsilk",
+            "description": {
+                "general": "Every death deserves its pomp"
+            }
+        },
+        "spoilsOfHeaven": {
+            "name": "Spoils of Heaven",
+            "description": {
+                "general": "Only the finest carvings for the sharpest blade"
+            }
         }
     }
 }
