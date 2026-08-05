@@ -23519,6 +23519,48 @@
             "description": {
                 "general": "\"I know every inc of those waters -- you're already dead.\""
             }
+        },
+        "crownOfRuin": {
+            "name": "Crown of Ruin",
+            "description": {
+                "general": "No throne is claimed without blood"
+            }
+        },
+        "undefeated": {
+            "name": "Undefeated",
+            "description": {
+                "general": "Terror of the seven seas"
+            }
+        },
+        "deathsChallenger": {
+            "name": "Death's Challenger",
+            "description": {
+                "general": "The sovereign of doom"
+            }
+        },
+        "tridentsEdge": {
+            "name": "Trident's Edge",
+            "description": {
+                "general": "Sharp enough to draw blood"
+            }
+        },
+        "midnightShroud": {
+            "name": "Midnight Shroud",
+            "description": {
+                "general": "Power is seized in the shadows"
+            }
+        },
+        "reignOfDread": {
+            "name": "Reign of Dread",
+            "description": {
+                "general": "A violet nightmare to consume us all"
+            }
+        },
+        "abyssRider": {
+            "name": "Abyss Rider",
+            "description": {
+                "general": "Charge forth and conquer the seas"
+            }
         }
     }
 }

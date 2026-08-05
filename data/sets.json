@@ -1843,5 +1843,9 @@
     "soulHarvest": {
         "id": "soulHarvest",
         "type": "ship"
+    },
+    "chargeOfDeath": {
+        "id": "chargeOfDeath",
+        "type": "ship"
     }
 }

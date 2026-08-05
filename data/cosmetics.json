@@ -34280,5 +34280,83 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "crownOfRuin": {
+        "id": "crownOfRuin",
+        "type": "shipSkin",
+        "ship": "barque",
+        "required": {
+            "abyssalEssence": 1000
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "undefeated": {
+        "id": "undefeated",
+        "type": "nameplate",
+        "set": "chargeOfDeath",
+        "required": {
+            "abyssalEssence": 500
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deathsChallenger": {
+        "id": "deathsChallenger",
+        "type": "figureHead",
+        "set": "chargeOfDeath",
+        "effect": "emissive",
+        "required": {
+            "abyssalEssence": 1000
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "tridentsEdge": {
+        "id": "tridentsEdge",
+        "type": "sailsPattern",
+        "set": "chargeOfDeath",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "midnightShroud": {
+        "id": "midnightShroud",
+        "type": "sailsColor",
+        "set": "chargeOfDeath",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "reignOfDread": {
+        "id": "reignOfDread",
+        "type": "hull",
+        "set": "chargeOfDeath",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "abyssRider": {
+        "id": "abyssRider",
+        "type": "sailsEmblem",
+        "set": "chargeOfDeath",
+        "required": {
+            "abyssalEssence": 300
+        },
+        "obtainable": "williamBlackwoodStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
