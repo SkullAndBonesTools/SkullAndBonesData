@@ -34129,5 +34129,87 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "stormcloak": {
+        "id": "stormcloak",
+        "type": "aura",
+        "effect": "bossKillReactive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "reaversCrown": {
+        "id": "reaversCrown",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deathsGrin": {
+        "id": "deathsGrin",
+        "type": "sailsEmblem",
+        "set": "stormreaver",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "veinsOfThunder": {
+        "id": "veinsOfThunder",
+        "type": "sailsPattern",
+        "set": "stormreaver",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "stormhide": {
+        "id": "stormhide",
+        "type": "sailsColor",
+        "set": "stormreaver",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "grimsCharge": {
+        "id": "grimsCharge",
+        "type": "figureHead",
+        "set": "stormreaver",
+        "effect": ["emissive","combatReactive"],
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "splitoak": {
+        "id": "splitoak",
+        "type": "hull",
+        "set": "stormreaver",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "blackbolt": {
+        "id": "blackbolt",
+        "type": "nameplate",
+        "set": "stormreaver",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deadstock": {
+        "id": "deadstock",
+        "type": "trophy",
+        "set": "stormreaver",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "roguesGrin": {
+        "id": "roguesGrin",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

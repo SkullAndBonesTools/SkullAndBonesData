@@ -23411,6 +23411,66 @@
             "description": {
                 "general": "Only the finest carvings for the sharpest blade"
             }
+        },
+        "stormcloak": {
+            "name": "Stormcloak",
+            "description": {
+                "general": "Quick and deadly as lightning"
+            }
+        },
+        "reaversCrown": {
+            "name": "Reaver's Crown",
+            "description": {
+                "general": "Fortune rains from the skies"
+            }
+        },
+        "deathsGrin": {
+            "name": "Death's Grin",
+            "description": {
+                "general": "\"Ah, you're a joke on my seas, Cully.\""
+            }
+        },
+        "veinsOfThunder": {
+            "name": "Veins of Thunder",
+            "description": {
+                "general": "\"Rage in my blood, a blade in my hand...\""
+            }
+        },
+        "stormhide": {
+            "name": "Stormhide",
+            "description": {
+                "general": "The tempest your foes will never see coming"
+            }
+        },
+        "grimsCharge": {
+            "name": "Grim's Charge",
+            "description": {
+                "general": "Fear strikes right before the storm"
+            }
+        },
+        "splitoak": {
+            "name": "Splitoak",
+            "description": {
+                "general": "Split by lightning, toughened for it"
+            }
+        },
+        "blackbolt": {
+            "name": "Blackbolt",
+            "description": {
+                "general": "The deadliest cuts come from the shadows"
+            }
+        },
+        "deadstock": {
+            "name": "Deadstock",
+            "description": {
+                "general": "\"I'll drink the sea dry before you take me, Captain!\""
+            }
+        },
+        "roguesGrin": {
+            "name": "Rogue's Grin",
+            "description": {
+                "general": "Clear skies, clean plunder"
+            }
         }
     }
 }
