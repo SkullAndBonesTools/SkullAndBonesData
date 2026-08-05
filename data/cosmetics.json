@@ -34211,5 +34211,74 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "ironclawWarden": {
+        "id": "ironclawWarden",
+        "type": "sailsEmblem",
+        "set": "clawsOfTheAbyss",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "fathomsGrip": {
+        "id": "fathomsGrip",
+        "type": "sailsPattern",
+        "set": "clawsOfTheAbyss",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "siltshadow": {
+        "id": "siltshadow",
+        "type": "sailsColor",
+        "set": "clawsOfTheAbyss",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "risingVise": {
+        "id": "risingVise",
+        "type": "figureHead",
+        "set": "clawsOfTheAbyss",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "crustedBite": {
+        "id": "crustedBite",
+        "type": "ornaments",
+        "set": "clawsOfTheAbyss",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "dredgewood": {
+        "id": "dredgewood",
+        "type": "hull",
+        "set": "clawsOfTheAbyss",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "clawmarked": {
+        "id": "clawmarked",
+        "type": "nameplate",
+        "set": "clawsOfTheAbyss",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "eyeOfTheCarapace": {
+        "id": "eyeOfTheCarapace",
+        "type": "wheel",
+        "set": "clawsOfTheAbyss",
+        "effect": "emissive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

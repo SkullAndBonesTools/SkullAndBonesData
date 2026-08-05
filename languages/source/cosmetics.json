@@ -23471,6 +23471,54 @@
             "description": {
                 "general": "Clear skies, clean plunder"
             }
+        },
+        "ironclawWarden": {
+            "name": "Ironclaw Warden",
+            "description": {
+                "general": "\"The sea belongs to those who live in it, Captain.\""
+            }
+        },
+        "fathomsGrip": {
+            "name": "Fathom's Grip",
+            "description": {
+                "general": "The deep never releases what it has claimed"
+            }
+        },
+        "siltshadow": {
+            "name": "Siltshadow",
+            "description": {
+                "general": "Neither shore nor sea betrays your presence"
+            }
+        },
+        "risingVise": {
+            "name": "Rising Vise",
+            "description": {
+                "general": "\"Your only warning, cully, will be your crackin' hull.\""
+            }
+        },
+        "crustedBite": {
+            "name": "Crusted Bite",
+            "description": {
+                "general": "Forged by the fury of a thousand tides"
+            }
+        },
+        "dredgewood": {
+            "name": "Dredgewood",
+            "description": {
+                "general": "Pulled from the seabed, soaked in vengeance"
+            }
+        },
+        "clawmarked": {
+            "name": "Clawmarked",
+            "description": {
+                "general": "\"My waters. My law.\""
+            }
+        },
+        "eyeOfTheCarapace": {
+            "name": "Eye of the Carapace",
+            "description": {
+                "general": "\"I know every inc of those waters -- you're already dead.\""
+            }
         }
     }
 }
