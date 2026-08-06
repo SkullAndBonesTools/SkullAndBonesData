@@ -34620,6 +34620,7 @@
         "id": "eyeOfAscension",
         "type": "faceAccessory",
         "set": "silverConquest",
+        "effect": "emissive",
         "required": {
             "abyssalEssence": 300
         },
