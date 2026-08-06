@@ -1871,5 +1871,29 @@
     "dragonlord": {
         "id": "dragonlord",
         "type": "ship"
+    },
+    "royalReckoning": {
+        "id": "royalReckoning",
+        "type": "ship"
+    },
+    "twilightExecutioner": {
+        "id": "twilightExecutioner",
+        "type": "ship"
+    },
+    "pyresPlunder": {
+        "id": "pyresPlunder",
+        "type": "ship"
+    },
+    "hellbound": {
+        "id": "hellbound",
+        "type": "player"
+    },
+    "gravewind": {
+        "id": "gravewind",
+        "type": "player"
+    },
+    "roguebreaker": {
+        "id": "roguebreaker",
+        "type": "player"
     }
 }

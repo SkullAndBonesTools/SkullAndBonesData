@@ -34876,5 +34876,207 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "sovereignScroll": {
+        "id": "sovereignScroll",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "midnightRegalia": {
+        "id": "midnightRegalia",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "abyssalMantle": {
+        "id": "abyssalMantle",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "gildedDecree": {
+        "id": "gildedDecree",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "obtainable": "smugglerPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "rogueBreaker": {
+        "id": "rogueBreaker",
+        "type": "nameplate",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "royalScourge": {
+        "id": "royalScourge",
+        "type": "figureHead",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "goldspoke": {
+        "id": "goldspoke",
+        "type": "wheel",
+        "season": "crimsonWaters",
+        "set": "royalReckoning",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "wraithscorch": {
+        "id": "wraithscorch",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "shroudweft": {
+        "id": "shroudweft",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "grimsheen": {
+        "id": "grimsheen",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "dreadTrinity": {
+        "id": "dreadTrinity",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deadlock": {
+        "id": "deadlock",
+        "type": "trophy",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "graveWind": {
+        "id": "graveWind",
+        "type": "nameplate",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "oathbreakersEnd": {
+        "id": "oathbreakersEnd",
+        "type": "figureHead",
+        "season": "crimsonWaters",
+        "set": "twilightExecutioner",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "hookEm": {
+        "id": "hookEm",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "effect": "animated",
+        "obtainable": "smugglerPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deadeyeHelm": {
+        "id": "deadeyeHelm",
+        "type": "wheel",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deathpike": {
+        "id": "deathpike",
+        "type": "figureHead",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "warbrand": {
+        "id": "warbrand",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "riotborne": {
+        "id": "riotborne",
+        "type": "nameplate",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "emberhide": {
+        "id": "emberhide",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "scorchoak": {
+        "id": "scorchoak",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "pyresPlunder",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

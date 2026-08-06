@@ -23891,6 +23891,132 @@
             "description": {
                 "general": "Cuts rope-ends, pinkies, and pride, then blinks sweetly"
             }
+        },
+        "sovereignScroll": {
+            "name": "Sovereign Scroll",
+            "description": {
+                "general": "A gold pennant for the ship that writes the law"
+            }
+        },
+        "midnightRegalia": {
+            "name": "Midnight Regalia",
+            "description": {
+                "general": "Always fly your finest to an execution"
+            }
+        },
+        "abyssalMantle": {
+            "name": "Abyssal Mantle",
+            "description": {
+                "general": "Cloaked in shadow and crowned in ivory"
+            }
+        },
+        "gildedDecree": {
+            "name": "Gilded Decree",
+            "description": {
+                "general": "\"Judgement finds everyone eventually, captain.\""
+            }
+        },
+        "rogueBreaker": {
+            "name": "Roguebreaker",
+            "description": {
+                "general": "A noble name for an elegant reckoning"
+            }
+        },
+        "royalScourge": {
+            "name": "Royal Scourge",
+            "description": {
+                "general": "Glory belongs to those who dare"
+            }
+        },
+        "goldspoke": {
+            "name": "Goldspoke",
+            "description": {
+                "general": "Even the tides yield to blue blood"
+            }
+        },
+        "wraithscorch": {
+            "name": "Wraithscorch",
+            "description": {
+                "general": "Leave nothing behind but scorch marks and terror"
+            }
+        },
+        "shroudweft": {
+            "name": "Shroudweft",
+            "description": {
+                "general": "Buffeted by the screams of the damned"
+            }
+        },
+        "grimsheen": {
+            "name": "Grimsheen",
+            "description": {
+                "general": "In the end, the dark overtakes all"
+            }
+        },
+        "dreadTrinity": {
+            "name": "Dread Trinity",
+            "description": {
+                "general": "\"I collect what's owed in screams and bone.\""
+            }
+        },
+        "deadlock": {
+            "name": "Deadlock",
+            "description": {
+                "general": "For those as pitiless as the sea"
+            }
+        },
+        "graveWind": {
+            "name": "Grave Wind",
+            "description": {
+                "general": "The breeze carries your foes' death rattles"
+            }
+        },
+        "oathbreakersEnd": {
+            "name": "Oathbreaker's End",
+            "description": {
+                "general": "\"Traitors dig their own graves, cully.\""
+            }
+        },
+        "hookEm": {
+            "name": "Hook 'Em",
+            "description": {
+                "general": "\"Eh, that jaw talked too much.\""
+            }
+        },
+        "deadeyeHelm": {
+            "name": "Deadeye Helm",
+            "description": {
+                "general": "Death follows at every turn..."
+            }
+        },
+        "deathpike": {
+            "name": "Deathpike",
+            "description": {
+                "general": "Impaled, burnt, and left as a warning"
+            }
+        },
+        "warbrand": {
+            "name": "Warbrand",
+            "description": {
+                "general": "The herald of doom"
+            }
+        },
+        "riotborne": {
+            "name": "Riotborne",
+            "description": {
+                "general": "Nothing can burn what is born in carnage"
+            }
+        },
+        "emberhide": {
+            "name": "Emberhide",
+            "description": {
+                "general": "Seared by a hundred victory fires"
+            }
+        },
+        "scorchoak": {
+            "name": "Scorchoak",
+            "description": {
+                "general": "Charred through and reforged with stolen gold"
+            }
         }
     }
 }
