@@ -24017,6 +24017,162 @@
             "description": {
                 "general": "Charred through and reforged with stolen gold"
             }
+        },
+        "binderbrand": {
+            "name": "Binderbrand",
+            "description": {
+                "general": "Where past wrongs are bound forever"
+            }
+        },
+        "searingGrip": {
+            "name": "Searing Grip",
+            "description": {
+                "general": "Where fury burns, waiting to strike"
+            }
+        },
+        "ashenMarked": {
+            "name": "Ashen Marked",
+            "description": {
+                "general": "Where eternal damnation is worn"
+            }
+        },
+        "pyrecrest": {
+            "name": "Pyrecrest",
+            "description": {
+                "general": "Where the mind turns to vengeance"
+            }
+        },
+        "hellbrand": {
+            "name": "Hellbrand",
+            "description": {
+                "general": "Where the brand bites deepest"
+            }
+        },
+        "burntEnds": {
+            "name": "Burnt Ends",
+            "description": {
+                "general": "Where rage runs unchecked"
+            }
+        },
+        "moltenSouls": {
+            "name": "Molten Souls",
+            "description": {
+                "general": "Where ruin is left in your wake"
+            }
+        },
+        "infernalMantle": {
+            "name": "Infernal Mantle",
+            "description": {
+                "general": "Where the rage is held at bay"
+            }
+        },
+        "smoldered": {
+            "name": "Smoldered",
+            "description": {
+                "general": "Where guilty are burned alive"
+            }
+        },
+        "threadedRestraint": {
+            "name": "Threaded Restraint",
+            "description": {
+                "general": "Dominion over the unruly"
+            }
+        },
+        "engravedEdict": {
+            "name": "Engraved Edict",
+            "description": {
+                "general": "Every strike to enforce order"
+            }
+        },
+        "imperialGaze": {
+            "name": "Imperial Gaze",
+            "description": {
+                "general": "A stare that compels obedience"
+            }
+        },
+        "commandantTricorne": {
+            "name": "Commandant Tricorne",
+            "description": {
+                "general": "A command piece bound by rank and reprisal"
+            }
+        },
+        "ledgerBreeches": {
+            "name": "Ledger Breeches",
+            "description": {
+                "general": "Stitched with the quiet tally of broken crews"
+            }
+        },
+        "marchOfTheNines": {
+            "name": "March of the Nines",
+            "description": {
+                "general": "For the long road to order"
+            }
+        },
+        "officerCuirass": {
+            "name": "Officer Cuirass",
+            "description": {
+                "general": "Worn by those who quell rebellion"
+            }
+        },
+        "ironGrip": {
+            "name": "Iron Grip",
+            "description": {
+                "general": "Issue judgment, each ring a mark of consequence"
+            }
+        },
+        "stillBreath": {
+            "name": "Still Breath",
+            "description": {
+                "general": "Chains tighten where life falters"
+            }
+        },
+        "widowsRestraint": {
+            "name": "Widow's Restraint",
+            "description": {
+                "general": "Bindings that know when to strike"
+            }
+        },
+        "sepulchral": {
+            "name": "Sepulchral",
+            "description": {
+                "general": "Hollow gaze that heralds quiet ends"
+            }
+        },
+        "carrionPlume": {
+            "name": "Carrion Plume",
+            "description": {
+                "general": "Shadow-crowned, marking hunters unseen"
+            }
+        },
+        "whisperlocked": {
+            "name": "Whisperlocked",
+            "description": {
+                "general": "A cold gleam settling where breath fails"
+            }
+        },
+        "nightlace": {
+            "name": "Nightlace",
+            "description": {
+                "general": "Each step drawn through shadow"
+            }
+        },
+        "duskfallen": {
+            "name": "Duskfallen",
+            "description": {
+                "general": "Steps that arrive with a final sigh"
+            }
+        },
+        "deadlyRequiem": {
+            "name": "Deadly Requiem",
+            "description": {
+                "general": "Clad for elegant execution"
+            }
+        },
+        "darkrites": {
+            "name": "Darkrites",
+            "description": {
+                "general": "Born in shadow and storm"
+            }
         }
     }
 }

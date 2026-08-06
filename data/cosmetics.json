@@ -35078,5 +35078,242 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "binderbrand": {
+        "id": "binderbrand",
+        "type": "waist",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "searingGrip": {
+        "id": "searingGrip",
+        "type": "forearm",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ashenMarked": {
+        "id": "ashenMarked",
+        "type": "faceAccessory",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "pyrecrest": {
+        "id": "pyrecrest",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "hellbrand": {
+        "id": "hellbrand",
+        "type": "neck",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "burntEnds": {
+        "id": "burntEnds",
+        "type": "bottom",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "moltenSouls": {
+        "id": "moltenSouls",
+        "type": "footwear",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "infernalMantle": {
+        "id": "infernalMantle",
+        "type": "torso",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "effect": "emissive",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "smoldered": {
+        "id": "smoldered",
+        "type": "bodyCosmetics",
+        "season": "crimsonWaters",
+        "set": "hellbound",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "threadedRestraint": {
+        "id": "threadedRestraint",
+        "type": "waist",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "engravedEdict": {
+        "id": "engravedEdict",
+        "type": "forearm",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "imperialGaze": {
+        "id": "imperialGaze",
+        "type": "faceAccessory",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "commandantTricorne": {
+        "id": "commandantTricorne",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ledgerBreeches": {
+        "id": "ledgerBreeches",
+        "type": "bottom",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "marchOfTheNines": {
+        "id": "marchOfTheNines",
+        "type": "footwear",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "officerCuirass": {
+        "id": "officerCuirass",
+        "type": "torso",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ironGrip": {
+        "id": "ironGrip",
+        "type": "hand",
+        "season": "crimsonWaters",
+        "set": "roguebreaker",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "stillBreath": {
+        "id": "stillBreath",
+        "type": "waist",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "widowsRestraint": {
+        "id": "widowsRestraint",
+        "type": "forearm",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "sepulchral": {
+        "id": "sepulchral",
+        "type": "faceAccessory",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "carrionPlume": {
+        "id": "carrionPlume",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "whisperlocked": {
+        "id": "whisperlocked",
+        "type": "neck",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "nightlace": {
+        "id": "nightlace",
+        "type": "bottom",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "duskfallen": {
+        "id": "duskfallen",
+        "type": "footwear",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "deadlyRequiem": {
+        "id": "deadlyRequiem",
+        "type": "torso",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "darkrites": {
+        "id": "darkrites",
+        "type": "bodyCosmetics",
+        "season": "crimsonWaters",
+        "set": "gravewind",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
