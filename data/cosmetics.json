@@ -35316,5 +35316,13 @@
         "obtainable": "premiumPass",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "callOfThePhoenix": {
+        "id": "callOfThePhoenix",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "obtainable": "dailyLoginReward28",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

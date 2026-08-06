@@ -24173,6 +24173,12 @@
             "description": {
                 "general": "Born in shadow and storm"
             }
+        },
+        "callOfThePhoenix": {
+            "name": "Call of the Phoenix",
+            "description": {
+                "general": "When the skystalker calls, one answers, or risks being reborn"
+            }
         }
     }
 }
