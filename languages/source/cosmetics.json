@@ -23879,6 +23879,18 @@
             "description": {
                 "general": "Where the dragon flies, dominion follows"
             }
+        },
+        "miso": {
+            "name": "Miso",
+            "description": {
+                "general": "Soft paws, softer gaze; begs for fish like it's the first"
+            }
+        },
+        "spikey": {
+            "name": "Spikey",
+            "description": {
+                "general": "Cuts rope-ends, pinkies, and pride, then blinks sweetly"
+            }
         }
     }
 }

@@ -34860,5 +34860,21 @@
         "obtainable": [["smugglerPass","smugglerPass50Reward"]],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "miso": {
+        "id": "miso",
+        "type": "pet",
+        "season": "crimsonWaters",
+        "obtainable": [["smugglerPass","smugglerPassFinalReward"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "spikey": {
+        "id": "spikey",
+        "type": "pet",
+        "season": "crimsonWaters",
+        "obtainable": "premiumPass",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
