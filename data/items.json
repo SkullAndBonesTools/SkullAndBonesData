@@ -16714,5 +16714,19 @@
         "weight": 100,
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-26"
+    },
+    "cheese": {
+        "id": "cheese",
+        "type": "consumable",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "weight": 10,
+        "buffDuration": 1800,
+        "required": {},
+        "perks": [
+            "cheese"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

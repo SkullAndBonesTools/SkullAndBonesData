@@ -3340,6 +3340,15 @@
                     "Allied XSML, SML and MED ships within 500 meters gain half of the bonus provided by Inferno"
                 ]
             }
+        },
+        "cheese": {
+            "description": {
+                "general": [
+                    "-5% Reload Time",
+                    "Increases Stamina Regen by 30%",
+                    "Increases Brace Strength by 20%"
+                ]
+            }
         }
     }
 }
