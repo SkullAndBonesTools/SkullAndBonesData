@@ -13925,6 +13925,7 @@
         "type": "demicannon",
         "rarity": "epic",
         "season": "oathsOfWar",
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
             "smugglerPassPinnacleStore"
@@ -13943,8 +13944,16 @@
             "tearing3",
             "electric2"
         ],
+        "required": {
+            "magnetiteIngot": 15,
+            "wormDrive": 8,
+            "torsionSpring": 6,
+            "sinewString": 6,
+            "eelSturdyRopes": 2,
+            "silver": 3300
+        },
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "ashbreaker": {
         "id": "ashbreaker",
@@ -14096,13 +14105,22 @@
             "electric": 0.35,
             "toxic": 0.05
         },
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": "smugglerPass",
         "perks": [
             "entrenched",
             "bastion"
         ],
+        "required": {
+            "deepIronPlates": 2,
+            "wormDrive": 10,
+            "dryCastingSand": 10,
+            "sinewString": 7,
+            "eelSturdyRopes": 2,
+            "silver": 3800
+        },
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-18"
     },
     "novaArma": {
         "id": "novaArma",
@@ -14158,12 +14176,21 @@
         "gearScore": 25,
         "value": 1,
         "weight": 80,
+        "blueprint": "smugglerPassPinnacleStore",
         "obtainable": ["smugglerPass","moonshineChest","moonshineStrongbox"],
         "perks": [
             "acceleratedGunrailSmithy"
         ],
+        "required": {
+            "deepIron": 6,
+            "planetaryGearset": 6,
+            "wormDrive": 8,
+            "precisionDrillingBit": 8,
+            "orcaIntricateApparatus": 2,
+            "silver": 4680
+        },
         "dateAdded": "2025-07-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "ammoPrimingBench": {
         "id": "ammoPrimingBench",
