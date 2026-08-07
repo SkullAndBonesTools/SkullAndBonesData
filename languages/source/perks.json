@@ -3349,6 +3349,31 @@
                     "Increases Brace Strength by 20%"
                 ]
             }
+        },
+        "infernalArtificersBench": {
+            "description": {
+                "general": [
+                    "60% of Explosive Damage dealt to a target with Shell-Shocked is dealt as Burning Damage. 40% of the Burning Damage dealt to a target with Ablaze is dealt as Explosive Damage",
+                    "Increase Shell-Shocked and Ablaze charge rate by 10%"
+                ]
+            }
+        },
+        "hellshotSmithy": {
+            "description": {
+                "general": [
+                    "Dealing at least 2000 Burning Damage in a single hit to a target applies the Charred status effect to them for 30s. While Charred, targets receive 30% more Burning Damage from your ship and increase the Torn Sails status charge received by 15%. Charred targets that are also Ablaze will build Charred status on targets within 150m",
+                    "10% of the Burning Damage dealt to a target which is Ablaze is also dealt to enemy ships within 150m"
+                ]
+            }
+        },
+        "stElmosChains": {
+            "description": {
+                "general": [
+                    "Dealing Electric Damage to Flooded targets also deals 50% of the Electric Damage to other nearby targets within 150m",
+                    "Deal 50% more Electric Damage to Flooded targets",
+                    "Increases duration of the Flooded effect on enemy ships by 10%"
+                ]
+            }
         }
     }
 }

@@ -16728,5 +16728,50 @@
         ],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "infernalArtificersBench": {
+        "id": "infernalArtificersBench",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "williamBlackwoodSeasonalItemCrimsonWaters",
+        "perks": [
+            "infernalArtificersBench"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "hellshotSmithy": {
+        "id": "hellshotSmithy",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "smugglerPass",
+        "perks": [
+            "hellshotSmithy"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "stElmosChains": {
+        "id": "stElmosChains",
+        "type": "majorFurniture",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "value": 1,
+        "weight": 250,
+        "gearScore": 35,
+        "obtainable": "factionWarEffortReward",
+        "perks": [
+            "stElmosChains"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

@@ -3242,6 +3242,24 @@
             "description": {
                 "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
             }
+        },
+        "infernalArtificersBench": {
+            "name": "Infernal Artificer's Bench",
+            "description": {
+                "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+            }
+        },
+        "hellshotSmithy": {
+            "name": "Hellshot Smithy",
+            "description": {
+                "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+            }
+        },
+        "stElmosChains": {
+            "name": "St. Elmo's Chains",
+            "description": {
+                "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+            }
         }
     }
 }
