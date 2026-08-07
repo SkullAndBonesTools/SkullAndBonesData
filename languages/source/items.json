@@ -3260,6 +3260,18 @@
             "description": {
                 "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
             }
+        },
+        "pyroclasm": {
+            "name": "Pyroclasm",
+            "description": {
+                "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+            }
+        },
+        "leDrac": {
+            "name": "Le Drac",
+            "description": {
+                "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+            }
         }
     }
 }

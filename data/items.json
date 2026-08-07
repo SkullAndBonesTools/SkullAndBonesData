@@ -16773,5 +16773,55 @@
         ],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "pyroclasm": {
+        "id": "pyroclasm",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1250,
+        "damageMitigation": {
+            "explosive": 0.05,
+            "flooding": 0.3,
+            "fire": 0.2,
+            "tearing": 0,
+            "piercing": 0.1,
+            "electric": 0.1,
+            "toxic": 0.05
+        },
+        "obtainable": "smugglerPass",
+        "perks": [
+            "stokedInferno"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "leDrac": {
+        "id": "leDrac",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "armor",
+        "value": 1,
+        "weight": 500,
+        "gearScore": 297,
+        "armor": 1250,
+        "damageMitigation": {
+            "explosive": 0.1,
+            "flooding": 0.2,
+            "fire": 0.3,
+            "tearing": 0,
+            "piercing": 0.05,
+            "electric": 0.05,
+            "toxic": 0.1
+        },
+        "obtainable": "smugglerPass",
+        "perks": [
+            "floodstrike"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

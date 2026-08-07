@@ -3374,6 +3374,20 @@
                     "Increases duration of the Flooded effect on enemy ships by 10%"
                 ]
             }
+        },
+        "stokedInferno": {
+            "description": {
+                "general": [
+                    "Bracing hits from Ablaze targets builds a Burning explosion dealing 10% of Brace Strength as Burning Damage in a 150m radius. Each braced hit increases this by 10%, up to 70%. The explosion triggers when Bracing is released"
+                ]
+            }
+        },
+        "floodstrike": {
+            "description": {
+                "general": [
+                    "Bracing hits from Flooded targets primes an explosion, dealing 10% of Brace Strength as Explosive Damage. Each braced hit increases this primed Explosive Damage by 10%, up to 70% for 30s. Ram a target to detonate"
+                ]
+            }
         }
     }
 }
