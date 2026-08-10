@@ -5,7 +5,8 @@ import { DamageType, EffectType, Grade, RepairAccess } from '../types/Modificati
 export type ModificationVariant = {
     type: "default" | "adept",
     itemType: WeaponType[] | "armor",
-    range: number[]
+    range: number[],
+    dropOnly: boolean
 }
 
 export class Modification {
@@ -17,7 +18,6 @@ export class Modification {
         // Determines if the modification can only be applied to a weapon that includes the specific damage type.
         public readonly requiredDamageType: DamageType | undefined,
         public readonly variants: ModificationVariant[],
-        public readonly dropOnly: boolean,
         public readonly repairAccess: RepairAccess,
         public readonly grade: Grade,
         public readonly dateAdded: Date,
@@ -29,6 +29,7 @@ export class Modification {
             type: variant.type || "default",
             itemType: variant.itemType,
             range: variant.range,
+            dropOnly: variant.dropOnly ?? false
         }));
         return new Modification(
             rawData.id,
@@ -37,7 +38,6 @@ export class Modification {
             rawData.damageType ?? undefined,
             rawData.requiredDamageType ?? undefined,
             variants,
-            rawData.dropOnly,
             rawData.repairAccess as RepairAccess,
             rawData.grade as Grade,
             new Date(rawData.dateAdded),

@@ -76,13 +76,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "burning",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -114,13 +114,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.163, 0.19]
+                "range": [0.163, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "increaseDamage",
         "damageType": "overall",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -135,13 +135,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "electric",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -281,13 +281,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "piercing",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -302,13 +302,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "explosive",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -339,13 +339,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "flooding",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -535,13 +535,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","seaFire","torpedo","ballista"],
-                "range": [0.51, 0.58]
+                "range": [0.51, 0.58],
+                "dropOnly": true
             }
         ],
         "effectType": "increaseCritDamage",
         "damageType": "overall",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -584,11 +584,11 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.51, 0.58]
+                "range": [0.51, 0.58],
+                "dropOnly": true
             }
         ],
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -653,14 +653,14 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.433, 0.48]
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "burning",
         "requiredDamageType": "burning",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -709,14 +709,14 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.433, 0.48]
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "piercing",
         "requiredDamageType": "piercing",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -731,14 +731,14 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.433, 0.48]
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "electric",
         "requiredDamageType": "electric",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -803,11 +803,11 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.144, 0.176]
+                "range": [0.144, 0.176],
+                "dropOnly": true
             }
         ],
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
         "lastUpdated": "2026-08-18"
@@ -1164,13 +1164,13 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.161, 0.19]
+                "range": [0.161, 0.19],
+                "dropOnly": true
             }
         ],
         "effectType": "addElementalDamage",
         "damageType": "toxic",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "basic",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2026-08-18"
@@ -1202,14 +1202,14 @@
             {
                 "type": "adept",
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.433, 0.48]
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "toxic",
         "requiredDamageType": "toxic",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-10-21",
         "lastUpdated": "2026-08-18"
