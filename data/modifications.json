@@ -75,7 +75,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -113,7 +113,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.163, 0.19],
                 "dropOnly": true
             }
@@ -134,7 +134,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -280,7 +280,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -301,7 +301,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -338,7 +338,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -534,7 +534,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","seaFire","torpedo","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.51, 0.58],
                 "dropOnly": true
             }
@@ -583,7 +583,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.51, 0.58],
                 "dropOnly": true
             }
@@ -652,7 +652,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
@@ -708,7 +708,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
@@ -730,7 +730,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
@@ -752,7 +752,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
@@ -774,7 +774,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
@@ -812,7 +812,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.144, 0.176],
                 "dropOnly": true
             }
@@ -1173,7 +1173,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -1211,7 +1211,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "itemType": ["longGun","culverin","demicannon","ballista"],
                 "range": [0.433, 0.48],
                 "dropOnly": true
             }
