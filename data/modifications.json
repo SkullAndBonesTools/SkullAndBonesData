@@ -2134,5 +2134,33 @@
         "grade": "mythic",
         "dateAdded": "2026-07-26",
         "lastUpdated": "2026-07-26"
+    },
+    "phantomRound": {
+        "id": "phantomRound",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon"],
+                "range": [0.16, 0.25],
+                "dropOnly": true
+            }
+        ],
+        "repairAccess": "none",
+        "grade": "mythic",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "perforate": {
+        "id": "perforate",
+        "variants": [
+            {
+                "itemType": ["longGun","culverin","demicannon"],
+                "range": [0.65, 0.77],
+                "dropOnly": true
+            }
+        ],
+        "repairAccess": "none",
+        "grade": "mythic",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
