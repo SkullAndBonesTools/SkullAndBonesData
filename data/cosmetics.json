@@ -33532,8 +33532,8 @@
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
     },
-    "turncoat": {
-        "id": "turncoat",
+    "bloodhunter": {
+        "id": "bloodhunter",
         "type": "nameplate",
         "season": "shatteredSeas",
         "effect": "emissive",
@@ -33541,7 +33541,7 @@
         "event": "theHonorless",
         "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-08-18"
     },
     "foehunter": {
         "id": "foehunter",
