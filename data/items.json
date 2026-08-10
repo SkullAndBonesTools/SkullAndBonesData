@@ -16966,5 +16966,192 @@
         ],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade1": {
+        "id": "junkUpgrade1",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 1,
+        "value": 1,
+        "required": {
+            "purifiedSaltpeter": 10,
+            "naphtha": 15,
+            "crudeSaltpeter": 10,
+            "deepIron": 30,
+            "upgradeParts": 5,
+            "silver": 18000
+        },
+        "perks": [
+            "junkUpgrade1"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade2": {
+        "id": "junkUpgrade2",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 2,
+        "value": 1,
+        "required": {
+            "phoenixBeak": 5,
+            "lightningDragonClaw": 4,
+            "xanthousStone": 5,
+            "deepIron": 35,
+            "upgradeParts": 8,
+            "silver": 25000
+        },
+        "perks": [
+            "junkUpgrade2"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade3": {
+        "id": "junkUpgrade3",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 3,
+        "value": 1,
+        "required": {
+            "wyrmVolatileNapalm": 2,
+            "precisionDrillingBit": 5,
+            "screwMechanism": 10,
+            "deepIron": 35,
+            "upgradeParts": 10,
+            "piecesOfEight": 1250
+        },
+        "perks": [
+            "junkUpgrade3",
+            "deepBlue"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade4": {
+        "id": "junkUpgrade4",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 4,
+        "value": 1,
+        "required": {
+            "azureDragonHead": 5,
+            "xanthousStone": 5,
+            "crudeSaltpeter": 5,
+            "rubber": 3,
+            "deepIron": 40,
+            "upgradeParts": 12,
+            "piecesOfEight": 4000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.05,
+            "fire": 0.05,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0,
+            "toxic": 0
+        },
+        "perks": [
+            "junkUpgrade4"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade5": {
+        "id": "junkUpgrade5",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 5,
+        "value": 1,
+        "required": {
+            "lightningDragonClaw": 10,
+            "purifiedSaltpeter": 15,
+            "naphtha": 12,
+            "deepIronPlates": 5,
+            "upgradeParts": 12,
+            "monstrousTooth": 5,
+            "piecesOfEight": 6500
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.1,
+            "fire": 0.1,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.03,
+            "toxic": 0.03
+        },
+        "perks": [
+            "junkUpgrade5"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade6": {
+        "id": "junkUpgrade6",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 6,
+        "value": 1,
+        "required": {
+            "jadePhoenixStatue": 10,
+            "azureDragonHead": 10,
+            "torsionSpring": 10,
+            "juniperPlank": 10,
+            "roselleCloth": 5,
+            "deepIronPlates": 7,
+            "upgradeParts": 14,
+            "etherealAshes": 5,
+            "piecesOfEight": 10000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.15,
+            "fire": 0.15,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.05,
+            "toxic": 0.05
+        },
+        "perks": [
+            "junkUpgrade6",
+            "infernalSeas"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "junkUpgrade7": {
+        "id": "junkUpgrade7",
+        "type": "shipUpgrade",
+        "season": "crimsonWaters",
+        "tier": 7,
+        "value": 1,
+        "required": {
+            "magnetiteIngot": 10,
+            "phoenixPinion": 10,
+            "phoenixBeak": 10,
+            "yellowDragonBanner": 4,
+            "deepIronPlates": 10,
+            "upgradeParts": 14,
+            "masterworkKit": 3,
+            "vengefulEssence": 5,
+            "piecesOfEight": 15000,
+            "silver": 50000
+        },
+        "damageMitigation": {
+            "explosive": 0,
+            "flooding": 0.2,
+            "fire": 0.2,
+            "tearing": 0,
+            "piercing": 0,
+            "electric": 0.1,
+            "toxic": 0.1
+        },
+        "perks": [
+            "junkUpgrade7"
+        ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

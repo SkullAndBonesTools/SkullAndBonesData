@@ -3438,6 +3438,50 @@
                     "Fires a volley of 15 heavy rockets instead of many smaller rockets. Each hit reduces the target's Fire Mitigation by 1.5%, up to 22.5%, if the target is Ablaze, lasting for the duration of the status"
                 ]
             }
+        },
+        "infernalSeas": {
+            "name": "Infernal Seas",
+            "description": {
+                "general": [
+                    "On attaining max stacks of Inferno, the next weapon hit on an enemy target will trigger a fiery explosion dealing 200% of your Weapon Damage as Fire damage in 150m radius. Effect has a 20 seconds cooldown"
+                ]
+            }
+        },
+        "junkUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 88400",
+                    "Increases Brace Strength to 17680"
+                ],
+                "2": [
+                    "Increases Cargo to 190000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 90950",
+                    "Increases Brace Strength to 18190"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Infernal Seas' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 104593",
+                    "Increases Brace Strength to 20919",
+                    "Increases Brace Strength Recovery by 25%"
+                ]
+            }
         }
     }
 }
