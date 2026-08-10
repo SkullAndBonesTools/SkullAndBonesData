@@ -3272,6 +3272,42 @@
             "description": {
                 "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
             }
+        },
+        "scorchSong": {
+            "name": "Scorch Song",
+            "description": {
+                "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+            }
+        },
+        "drowningHellion": {
+            "name": "Drowning Hellion",
+            "description": {
+                "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+            }
+        },
+        "anathema": {
+            "name": "Anathema",
+            "description": {
+                "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+            }
+        },
+        "drakonsJaws": {
+            "name": "Drakon's Jaws",
+            "description": {
+                "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+            }
+        },
+        "clawsOfTheDeep": {
+            "name": "Claws of the Deep",
+            "description": {
+                "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+            }
+        },
+        "hellfire": {
+            "name": "Hellfire",
+            "description": {
+                "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+            }
         }
     }
 }

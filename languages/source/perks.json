@@ -3376,6 +3376,7 @@
             }
         },
         "stokedInferno": {
+            "name": "Stoked Inferno",
             "description": {
                 "general": [
                     "Bracing hits from Ablaze targets builds a Burning explosion dealing 10% of Brace Strength as Burning Damage in a 150m radius. Each braced hit increases this by 10%, up to 70%. The explosion triggers when Bracing is released"
@@ -3383,9 +3384,58 @@
             }
         },
         "floodstrike": {
+            "name": "Floodstrike",
             "description": {
                 "general": [
                     "Bracing hits from Flooded targets primes an explosion, dealing 10% of Brace Strength as Explosive Damage. Each braced hit increases this primed Explosive Damage by 10%, up to 70% for 30s. Ram a target to detonate"
+                ]
+            }
+        },
+        "ignition": {
+            "name": "Ignition",
+            "description": {
+                "general": [
+                    "Trigger an explosion when the target is either Ablaze or Shell-Shocked. Ignition's explosions deals 1000 Explosive Damage and an additional 20% weapon damage as Explosive Damage per hit. Consecutive shots increase this bonus up to 500%. This effect cannot trigger again for 30s"
+                ]
+            }
+        },
+        "seasFury": {
+            "name": "Sea's Fury",
+            "description": {
+                "general": [
+                    "Each volley has a 15% chance to deal 100% Flooding Damage as Severe Damage. Every 5 hits increases this chance by 15%, up to 75%. If the target is Flooded, deal 200% Flooding Damage as Severe Damage instead"
+                ]
+            }
+        },
+        "rottingAmmo": {
+            "name": "Rotting Ammo",
+            "description": {
+                "general": [
+                    "For every 50m away the target is, deal 10% more Toxic Damage up to 100%. If target receives 5000 Toxic Damage while Poisoned, trigger a Toxic explosion dealing 40% of the weapon's damage as Toxic Damage to enemies within 150m. This effect has a cooldown of 60s"
+                ]
+            }
+        },
+        "burningThirst": {
+            "name": "Burning Thirst",
+            "description": {
+                "general": [
+                    "Trigger an explosion when the target is either Ablaze or Flooded. Burning Thirst's explosion deals 1000 Flooding Damage and an additional 20% weapon damage as Flooding Damage per hit. Consecutive hits increase this bonus up to 500%. This effect cannot trigger again for 30s"
+                ]
+            }
+        },
+        "sinkingImpale": {
+            "name": "Sinking Impale",
+            "description": {
+                "general": [
+                    "This weapon can be charged up to pierce through enemies, dealing damage as it pierces. Hits on a target have a 10% chance to instantly apply the Flooded status effect to them. Flooded targets take 3% more weapon damage per hit, up to 12%, from this weapon"
+                ]
+            }
+        },
+        "burningArtillery": {
+            "name": "Burning Artillery",
+            "description": {
+                "general": [
+                    "Fires a volley of 15 heavy rockets instead of many smaller rockets. Each hit reduces the target's Fire Mitigation by 1.5%, up to 22.5%, if the target is Ablaze, lasting for the duration of the status"
                 ]
             }
         }
