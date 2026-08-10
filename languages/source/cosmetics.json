@@ -24179,6 +24179,18 @@
             "description": {
                 "general": "When the skystalker calls, one answers, or risks being reborn"
             }
+        },
+        "fathomGaze": {
+            "name": "Fathom Gaze",
+            "description": {
+                "general": "The deep reveals its secrets to the bold"
+            }
+        },
+        "paleVisions": {
+            "name": "Pale Visions",
+            "description": {
+                "general": "Your instincts say it all"
+            }
         }
     }
 }

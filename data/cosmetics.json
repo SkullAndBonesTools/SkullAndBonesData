@@ -35324,5 +35324,19 @@
         "obtainable": "dailyLoginReward28",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "fathomGaze": {
+        "id": "fathomGaze",
+        "type": "hull",
+        "set": "seeingHeart",
+        "dateAdded": "2024-12-11",
+        "lastUpdated": "2026-08-18"
+    },
+    "paleVisions": {
+        "id": "paleVisions",
+        "type": "sailsColor",
+        "set": "seeingHeart",
+        "dateAdded": "2024-12-11",
+        "lastUpdated": "2026-08-18"
     }
 }
