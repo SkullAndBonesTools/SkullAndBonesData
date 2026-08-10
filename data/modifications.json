@@ -749,16 +749,21 @@
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
                 "range": [0.225, 0.375]
+            },
+            {
+                "type": "adept",
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "explosive",
         "requiredDamageType": "explosive",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-08-18"
     },
     "amplifiedFlooding": {
         "id": "amplifiedFlooding",
@@ -766,16 +771,21 @@
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
                 "range": [0.225, 0.375]
+            },
+            {
+                "type": "adept",
+                "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
+                "range": [0.433, 0.48],
+                "dropOnly": true
             }
         ],
         "effectType": "bonusElementalDamage",
         "damageType": "flooding",
         "requiredDamageType": "flooding",
         "repairAccess": "none",
-        "dropOnly": false,
         "grade": "advanced",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2025-05-25"
+        "lastUpdated": "2026-08-18"
     },
     "tearing": {
         "id": "tearing",
