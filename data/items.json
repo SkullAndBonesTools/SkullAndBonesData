@@ -783,7 +783,7 @@
         "damageMitigation": {
             "explosive": 0.17,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0
         },
@@ -809,7 +809,7 @@
         "damageMitigation": {
             "explosive": 0.23,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0
         },
@@ -836,7 +836,7 @@
         "damageMitigation": {
             "explosive": 0.29,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0
         },
@@ -864,7 +864,7 @@
         "damageMitigation": {
             "explosive": 0.34,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0
         },
@@ -892,7 +892,7 @@
         "damageMitigation": {
             "explosive": 0.38,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0
         },
@@ -926,7 +926,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.21
         },
@@ -952,7 +952,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.28
         },
@@ -979,7 +979,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.33
         },
@@ -1007,7 +1007,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.38
         },
@@ -1035,7 +1035,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.42
         },
@@ -1065,7 +1065,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.26,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.08
         },
@@ -1093,7 +1093,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.33,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.13
         },
@@ -1122,7 +1122,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.39,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.18
         },
@@ -1152,7 +1152,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.16,
+            "burning": 0.16,
             "tearing": 0,
             "piercing": 0.16
         },
@@ -1180,7 +1180,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.23,
+            "burning": 0.23,
             "tearing": 0,
             "piercing": 0.23
         },
@@ -1209,7 +1209,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.29,
+            "burning": 0.29,
             "tearing": 0,
             "piercing": 0.29
         },
@@ -1239,7 +1239,7 @@
         "damageMitigation": {
             "explosive": 0.04,
             "flooding": 0.33,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.12
         },
@@ -1271,7 +1271,7 @@
         "damageMitigation": {
             "explosive": 0.06,
             "flooding": 0.4,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15
         },
@@ -1304,7 +1304,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.24,
-            "fire": 0.24,
+            "burning": 0.24,
             "tearing": 0,
             "piercing": 0.24
         },
@@ -1336,7 +1336,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.3,
-            "fire": 0.3,
+            "burning": 0.3,
             "tearing": 0,
             "piercing": 0.3
         },
@@ -1368,7 +1368,7 @@
         "damageMitigation": {
             "explosive": 0.35,
             "flooding": 0,
-            "fire": 0.18,
+            "burning": 0.18,
             "tearing": 0,
             "piercing": 0.2,
             "toxic": 0.2
@@ -1403,7 +1403,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.3,
-            "fire": 0.3,
+            "burning": 0.3,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.2,
@@ -1445,7 +1445,7 @@
         "damageMitigation": {
             "explosive": 0.25,
             "flooding": 0.25,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0.15,
             "toxic": 0.25
@@ -1484,7 +1484,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.15,
-            "fire": 0.25,
+            "burning": 0.25,
             "tearing": 0,
             "piercing": 0.25,
             "toxic": 0.28
@@ -1519,7 +1519,7 @@
         "damageMitigation": {
             "explosive": 0.24,
             "flooding": 0.12,
-            "fire": 0.12,
+            "burning": 0.12,
             "tearing": 0,
             "piercing": 0.3,
             "electric": 0.12,
@@ -6192,7 +6192,7 @@
         "damageMitigation": {
             "explosive": 0.25,
             "flooding": 0.25,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.25,
             "electric": 0.25
@@ -6224,7 +6224,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.15,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.15
@@ -6558,7 +6558,7 @@
         "damageMitigation": {
             "explosive": 0.18,
             "flooding": 0,
-            "fire": 0.28,
+            "burning": 0.28,
             "tearing": 0,
             "piercing": 0.12
         },
@@ -6591,7 +6591,7 @@
         "damageMitigation": {
             "explosive": 0.23,
             "flooding": 0,
-            "fire": 0.33,
+            "burning": 0.33,
             "tearing": 0,
             "piercing": 0.17
         },
@@ -6623,7 +6623,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.23,
-            "fire": 0.18,
+            "burning": 0.18,
             "tearing": 0,
             "piercing": 0.35
         },
@@ -6990,7 +6990,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.35,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0,
             "toxic": 0.18
@@ -7134,7 +7134,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03
         },
@@ -7161,7 +7161,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.1,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05
         },
@@ -7188,7 +7188,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.15,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.1,
             "toxic": 0.05
@@ -7218,7 +7218,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.2,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15
         },
@@ -7294,7 +7294,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.03,
+            "burning": 0.03,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0.03
@@ -7321,7 +7321,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.05
@@ -7349,7 +7349,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.1,
@@ -7380,7 +7380,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0.15
@@ -7457,7 +7457,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.02,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0.02
@@ -7484,7 +7484,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.05
@@ -7512,7 +7512,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.1,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.1,
@@ -7543,7 +7543,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.15,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.15
@@ -7620,7 +7620,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.03,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -7647,7 +7647,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -7675,7 +7675,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.1,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -7706,7 +7706,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.15,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -7783,7 +7783,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0
@@ -7810,7 +7810,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0
@@ -7838,7 +7838,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
@@ -7869,7 +7869,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0
@@ -7953,7 +7953,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0.03,
+            "burning": 0.03,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -7980,7 +7980,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -8009,7 +8009,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0,
@@ -8041,7 +8041,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -8125,7 +8125,7 @@
         "damageMitigation": {
             "explosive": 0.03,
             "flooding": 0.03,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0
@@ -8152,7 +8152,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0
@@ -8181,7 +8181,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.1,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
@@ -8213,7 +8213,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.15,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.05
@@ -8297,7 +8297,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0.03,
+            "burning": 0.03,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -8324,7 +8324,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.1,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -8353,7 +8353,7 @@
         "damageMitigation": {
             "explosive": 0.5,
             "flooding": 0.15,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -8385,7 +8385,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.2,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0,
             "electric": 0
@@ -8469,7 +8469,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.03,
+            "burning": 0.03,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03
@@ -8497,7 +8497,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.05
@@ -8526,7 +8526,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1,
@@ -8558,7 +8558,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.15
@@ -8641,7 +8641,7 @@
         "damageMitigation": {
             "explosive": 0.02,
             "flooding": 0,
-            "fire": 0.02,
+            "burning": 0.02,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03
@@ -8669,7 +8669,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.05
@@ -8698,7 +8698,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.1,
@@ -8730,7 +8730,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.2
@@ -8813,7 +8813,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.02,
-            "fire": 0.02,
+            "burning": 0.02,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0
@@ -8841,7 +8841,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0
@@ -8870,7 +8870,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.1,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0,
@@ -8902,7 +8902,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.15,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0
@@ -9673,7 +9673,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.16,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.2,
@@ -9860,7 +9860,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.1,
-            "fire": 0.35,
+            "burning": 0.35,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.05,
@@ -10271,7 +10271,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.12,
-            "fire": 0.22,
+            "burning": 0.22,
             "tearing": 0,
             "piercing": 0.17,
             "electric": 0.09,
@@ -10305,7 +10305,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.1,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.36
@@ -10439,7 +10439,7 @@
         "damageMitigation": {
             "explosive": 0.03,
             "flooding": 0.03,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03
@@ -10467,7 +10467,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.05
@@ -10496,7 +10496,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.1,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.1,
@@ -10528,7 +10528,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.15,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.2
@@ -10831,7 +10831,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.03,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0
@@ -10859,7 +10859,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0
@@ -10888,7 +10888,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.1,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0.05,
@@ -10920,7 +10920,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.15,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0
@@ -11083,7 +11083,7 @@
         "damageMitigation": {
             "explosive": 0.27,
             "flooding": 0.17,
-            "fire": 0.07,
+            "burning": 0.07,
             "tearing": 0,
             "piercing": 0.27,
             "electric": 0.05,
@@ -11111,7 +11111,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.3,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.25,
             "electric": 0.15,
@@ -11145,7 +11145,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.15,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.1,
@@ -11911,7 +11911,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03
@@ -11939,7 +11939,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.05
@@ -11967,7 +11967,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1,
@@ -11998,7 +11998,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.15
@@ -12021,7 +12021,7 @@
         "damageMitigation": {
             "explosive": 0.4,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0.12
@@ -12048,7 +12048,7 @@
         "damageMitigation": {
             "explosive": 0.25,
             "flooding": 0.1,
-            "fire": 0.4,
+            "burning": 0.4,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1
@@ -12076,7 +12076,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.3,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.2,
@@ -12111,7 +12111,7 @@
         "damageMitigation": {
             "explosive": 0.35,
             "flooding": 0.15,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.1,
@@ -13818,7 +13818,7 @@
         "damageMitigation": {
             "explosive": 0.03,
             "flooding": 0,
-            "fire": 0.03,
+            "burning": 0.03,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03
@@ -13847,7 +13847,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.05
@@ -13877,7 +13877,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0.1,
+            "burning": 0.1,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1
@@ -13909,7 +13909,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0,
-            "fire": 0.2,
+            "burning": 0.2,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.2
@@ -14063,7 +14063,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.12,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.4,
             "electric": 0.15
@@ -14090,7 +14090,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.05,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0.35,
@@ -14116,7 +14116,7 @@
         "damageMitigation": {
             "explosive": 0.30,
             "flooding": 0.2,
-            "fire": 0.15,
+            "burning": 0.15,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.15
@@ -14866,7 +14866,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.25,
-            "fire": 0.4,
+            "burning": 0.4,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.25,
@@ -14891,7 +14891,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.4,
-            "fire": 0.25,
+            "burning": 0.25,
             "tearing": 0.45,
             "piercing": 0.1,
             "electric": 0,
@@ -14916,7 +14916,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.28,
-            "fire": 0.25,
+            "burning": 0.25,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.1,
@@ -15267,7 +15267,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0,
@@ -15296,7 +15296,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0,
@@ -15326,7 +15326,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.1,
             "electric": 0,
@@ -15358,7 +15358,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0,
@@ -15639,7 +15639,7 @@
         "damageMitigation": {
             "explosive": 0.03,
             "flooding": 0.03,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -15669,7 +15669,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -15700,7 +15700,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.1,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -15733,7 +15733,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.2,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0,
@@ -15788,7 +15788,7 @@
         "damageMitigation": {
             "explosive": 0.3,
             "flooding": 0.1,
-            "fire": 0.3,
+            "burning": 0.3,
             "tearing": 0,
             "piercing": 0.25,
             "electric": 0.2,
@@ -15813,7 +15813,7 @@
         "damageMitigation": {
             "explosive": 0,
             "flooding": 0.3,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.3,
             "electric": 0.2,
@@ -15838,7 +15838,7 @@
         "damageMitigation": {
             "explosive": 0.5,
             "flooding": 0.15,
-            "fire": 0.45,
+            "burning": 0.45,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.2,
@@ -16261,7 +16261,7 @@
         "damageMitigation": {
             "explosive": 0.05,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0,
             "electric": 0.03,
@@ -16291,7 +16291,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.03,
             "electric": 0.03,
@@ -16322,7 +16322,7 @@
         "damageMitigation": {
             "explosive": 0.15,
             "flooding": 0.05,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.05,
             "electric": 0.05,
@@ -16355,7 +16355,7 @@
         "damageMitigation": {
             "explosive": 0.2,
             "flooding": 0.1,
-            "fire": 0,
+            "burning": 0,
             "tearing": 0,
             "piercing": 0.15,
             "electric": 0.1,
@@ -16498,7 +16498,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.2,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.3,
             "electric": 0.05,
@@ -16523,7 +16523,7 @@
         "damageMitigation": {
             "explosive": 0.1,
             "flooding": 0.3,
-            "fire": 0.05,
+            "burning": 0.05,
             "tearing": 0,
             "piercing": 0.2,
             "electric": 0.05,
