@@ -10047,6 +10047,7 @@
         "obtainable": [
             [
                 "contractReward",
+                "contractRewardTheMooncakeRegatta3",
                 "shipwrightSainteAnne"
             ],
             "mooncakeRegattaChest",
@@ -10057,7 +10058,7 @@
             "firstMatesLedger"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-10"
     },
     "kinckelsLaboratory1": {
         "id": "kinckelsLaboratory1",

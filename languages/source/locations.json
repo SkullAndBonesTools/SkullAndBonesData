@@ -350,6 +350,7 @@
         "contractRewardCurtainCall": "Reward for completing the 'Curtain Call' contract",
         "contractRewardMelodicMayhem": "Reward for completing the 'Melodic Mayhem' contract",
         "contractRewardAPiratesDeal": "Reward for completing the 'A Pirates Deal' contract",
-        "contractRewardNewHorizons": "Reward for completing the 'New Horizons' contract"
+        "contractRewardNewHorizons": "Reward for completing the 'New Horizons' contract",
+        "contractRewardTheMooncakeRegatta3": "Reward for completing the 'The Mooncake Regatta III' contract"
     }
 }
