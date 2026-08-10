@@ -1690,7 +1690,7 @@
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.11, 0.23]
+                "range": [0.11, 0.27]
             }
         ],
         "damageType": "flooding",
@@ -1698,14 +1698,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "waterlogged": {
         "id": "waterlogged",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.05, 0.09]
+                "range": [0.05, 0.1]
             }
         ],
         "damageType": "flooding",
@@ -1713,14 +1713,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "corpseExplosiveBomb": {
         "id": "corpseExplosiveBomb",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [1.55, 2.25]
+                "range": [1.55, 2.5]
             }
         ],
         "damageType": "explosive",
@@ -1728,14 +1728,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "megaCorpseBomb": {
         "id": "megaCorpseBomb",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.82, 1.14]
+                "range": [0.82, 1.25]
             }
         ],
         "damageType": "explosive",
@@ -1743,14 +1743,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "lightningStrike": {
         "id": "lightningStrike",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.04, 0.07]
+                "range": [0.04, 0.08]
             }
         ],
         "damageType": "electric",
@@ -1758,14 +1758,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "voltaicCharge": {
         "id": "voltaicCharge",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [1.1, 2.5]
+                "range": [1.1, 3]
             }
         ],
         "damageType": "electric",
@@ -1773,14 +1773,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "enduringEmbers": {
         "id": "enduringEmbers",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.12, 0.4]
+                "range": [0.12, 0.5]
             }
         ],
         "damageType": "burning",
@@ -1788,14 +1788,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "wildfire": {
         "id": "wildfire",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [1.1, 2.5]
+                "range": [1.1, 3]
             }
         ],
         "damageType": "burning",
@@ -1803,14 +1803,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "piercingStrike": {
         "id": "piercingStrike",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.11, 0.23]
+                "range": [0.11, 0.27]
             }
         ],
         "damageType": "piercing",
@@ -1818,14 +1818,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "armorPiercing": {
         "id": "armorPiercing",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.13, 0.22]
+                "range": [0.13, 0.25]
             }
         ],
         "damageType": "piercing",
@@ -1833,14 +1833,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "outbreak": {
         "id": "outbreak",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.11, 0.23]
+                "range": [0.11, 0.27]
             }
         ],
         "damageType": "toxic",
@@ -1848,14 +1848,14 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "corrosive": {
         "id": "corrosive",
         "variants": [
             {
                 "itemType": ["longGun","culverin","demicannon","rocket","seaFire","bombard","mortar","torpedo","springloader","ballista"],
-                "range": [0.11, 0.23]
+                "range": [0.11, 0.27]
             }
         ],
         "damageType": "toxic",
@@ -1863,7 +1863,7 @@
         "dropOnly": false,
         "grade": "mythic",
         "dateAdded": "2026-07-26",
-        "lastUpdated": "2026-07-26"
+        "lastUpdated": "2026-08-18"
     },
     "severeDamageRemoval": {
         "id": "severeDamageRemoval",
