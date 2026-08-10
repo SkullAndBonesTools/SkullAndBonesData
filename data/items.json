@@ -12083,7 +12083,7 @@
             "toxic": 0.1
         },
         "required": {
-            "woodPitch": 10,
+            "planetaryGearset": 10,
             "wormDrive": 10,
             "torsionSpring": 7,
             "precisionDrillingBit": 7,
@@ -12096,7 +12096,7 @@
             "euphoria"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-10"
     },
     "silverSentinel": {
         "id": "silverSentinel",

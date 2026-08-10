@@ -1,5 +1,3 @@
-
-
 // Arabic
 import ar_achievements from '../languages/ar/ar_achievements.json';
 import ar_commodities from '../languages/ar/ar_commodities.json';
