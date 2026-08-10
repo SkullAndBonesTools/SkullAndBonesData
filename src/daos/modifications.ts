@@ -3,6 +3,7 @@ import { WeaponType } from '../types/ItemProperties';
 import { DamageType, EffectType, Grade, RepairAccess } from '../types/ModificationProperties';
 
 export type ModificationVariant = {
+    type: "default" | "adept",
     itemType: WeaponType[] | "armor",
     range: number[]
 }
@@ -25,6 +26,7 @@ export class Modification {
 
     public static fromRawData(rawData: any): Modification {
         const variants: ModificationVariant[] = rawData.variants.map((variant: any) => ({
+            type: variant.type || "default",
             itemType: variant.itemType,
             range: variant.range,
         }));
