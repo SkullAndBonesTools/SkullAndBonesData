@@ -17,7 +17,7 @@ export class Item {
         public readonly dateAdded: Date,
         public readonly lastUpdated: Date,
         public readonly tier?: Tier,
-        public readonly blueprint?: string,
+        public readonly blueprint?: string | Array<string> | Array<Array<string> | string>,
         public readonly value?: number,
         public readonly weight?: number,
         public readonly gearScore?: number,

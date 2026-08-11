@@ -1601,9 +1601,9 @@
         "type": "hull",
         "set": "sainteAnneCosmetics",
         "contract": "supplyAndDemand",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardSupplyAndDemand","commodityTraderSaintAnne"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "insidersHullHues": {
         "id": "insidersHullHues",
@@ -1648,9 +1648,9 @@
         "id": "rustShade",
         "type": "hull",
         "contract": "armsAndGuns",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardArmsAndGuns"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-04-12"
+        "lastUpdated": "2026-08-10"
     },
     "calibansHour": {
         "id": "calibansHour",
@@ -1668,9 +1668,9 @@
         "type": "figureHead",
         "contract": "theForeignMenace",
         "set": "ungwanaHunter",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardTheForeignMenace"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-04-11"
+        "lastUpdated": "2026-08-10"
     },
     "calibansOffering": {
         "id": "calibansOffering",
@@ -1731,9 +1731,9 @@
         "type": "figureHead",
         "set": "compagnieCosmetics",
         "contract": "theRoyaleExit",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardTheRoyaleExit"]],
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-04-11"
+        "lastUpdated": "2026-08-10"
     },
     "tasteMyHammer": {
         "id": "tasteMyHammer",
@@ -1914,9 +1914,9 @@
         "type": "sailsColor",
         "set": "fara",
         "contract": "ancestralRights",
-        "obtainable": [["contractReward","outpostSacredTree"]],
+        "obtainable": [["contractReward","contractRewardAncestralRights","outpostSacredTree"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "sunsetHorizon": {
         "id": "sunsetHorizon",
@@ -1981,18 +1981,18 @@
         "id": "rustDye",
         "type": "sailsColor",
         "contract": "aSeaworthyShip",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardASeaworthyShip"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-04-12"
+        "lastUpdated": "2026-08-10"
     },
     "sainteAnnesShore": {
         "id": "sainteAnnesShore",
         "type": "sailsColor",
         "set": "sainteAnneCosmetics",
         "contract": "supplyAndDemand",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardSupplyAndDemand","commodityTraderSaintAnne"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "foolsGold": {
         "id": "foolsGold",
@@ -2090,9 +2090,9 @@
         "type": "sailsColor",
         "set": "ungwanaHunter",
         "contract": "weSeekWarriors",
-        "obtainable": [["contractReward","outpostDragonsBack"]],
+        "obtainable": [["contractReward","contractRewardWeSeekWarriors","outpostDragonsBack"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "pioneersSails": {
         "id": "pioneersSails",
@@ -2242,9 +2242,9 @@
         "type": "sailsColor",
         "set": "seaPeoplesWays",
         "contract": "relicsOfThePast",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardRelicsOfThePast"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2026-08-10"
     },
     "mauveDye": {
         "id": "mauveDye",
@@ -2271,9 +2271,9 @@
         "type": "sailsColor",
         "set": "compagnieCosmetics",
         "contract": "delicateAlliance",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardDelicateAlliance"]],
         "dateAdded": "2024-03-18",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "fearTheHaar": {
         "id": "fearTheHaar",
@@ -2561,9 +2561,9 @@
         "type": "sailsPattern",
         "set": "sainteAnneCosmetics",
         "contract": "supplyAndDemand",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardSupplyAndDemand","commodityTraderSaintAnne"]],
         "dateAdded": "2024-03-19",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "theSunsJudgement": {
         "id": "theSunsJudgement",
@@ -2796,9 +2796,9 @@
         "type": "sailsEmblem",
         "set": "seaPeoplesWays",
         "contract": "fatesInTheStars",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardFatesInTheStars"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-05-26"
+        "lastUpdated": "2026-08-10"
     },
     "defacementOfArms": {
         "id": "defacementOfArms",
@@ -3292,9 +3292,9 @@
         "season": "ragingTides",
         "contract": "theEnchroachingEpidemic",
         "effect": "emissive",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardTheEnchroachingEpidemic"]],
         "dateAdded": "2024-03-22",
-        "lastUpdated": "2024-06-06"
+        "lastUpdated": "2026-08-10"
     },
     "theMurkyDeep": {
         "id": "theMurkyDeep",
@@ -3698,9 +3698,9 @@
         "id": "fleurDeLis",
         "type": "firework",
         "contract": "heighSeasHeist",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardHeighSeasHeist"]],
         "dateAdded": "2024-03-25",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "parimesGuardian": {
         "id": "parimesGuardian",
@@ -4660,9 +4660,9 @@
         "id": "threaten",
         "type": "emote",
         "contract": "unwelcomeAboard",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardUnwelcomeAboard"]],
         "dateAdded": "2024-04-12",
-        "lastUpdated": "2024-04-14"
+        "lastUpdated": "2026-08-10"
     },
     "dappledLeatherHat": {
         "id": "dappledLeatherHat",
@@ -4736,9 +4736,9 @@
         "set": "anpakasDespair",
         "season": "ragingTides",
         "contract": "theAfricanAilment",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardTheAfricanAilment"]],
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-05-15"
+        "lastUpdated": "2026-08-10"
     },
     "lautanHeadwear": {
         "id": "lautanHeadwear",
@@ -4753,9 +4753,9 @@
         "type": "headwear",
         "set": "compagnieElite",
         "contract": "poorCompagnie",
-        "obtainable": [["contractReward","outpostFortLouis"]],
+        "obtainable": [["contractReward","contractRewardPoorCompagnie","outpostFortLouis"]],
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "admiralsDuty": {
         "id": "admiralsDuty",
@@ -4869,9 +4869,9 @@
         "type": "headwear",
         "set": "untamedFury",
         "contract": "unchartedWaters",
-        "obtainable": ["vanityAtelier",["contractReward","outpostBukkitCandi"]],
+        "obtainable": ["vanityAtelier",["contractReward","contractRewardUnchartedWaters","outpostBukkitCandi"]],
         "dateAdded": "2024-04-14",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "sailmakerHeadwear": {
         "id": "sailmakerHeadwear",
@@ -5127,9 +5127,9 @@
         "type": "faceAccessory",
         "set": "imara",
         "contract": "weSeekWarriors",
-        "obtainable": [["contractReward","outpostDragonsBack"]],
+        "obtainable": [["contractReward","contractRewardWeSeekWarriors","outpostDragonsBack"]],
         "dateAdded": "2024-04-15",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "skulkersEyepatch": {
         "id": "skulkersEyepatch",
@@ -5415,9 +5415,9 @@
         "contract": "thePersuingPlague",
         "season": "ragingTides",
         "effect": "emissive",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardThePersuingPlague"]],
         "dateAdded": "2024-04-20",
-        "lastUpdated": "2024-06-08"
+        "lastUpdated": "2026-08-10"
     },
     "royaltyOTheSea": {
         "id": "royaltyOTheSea",
@@ -5794,9 +5794,9 @@
         "id": "renegadeNecklace",
         "type": "neck",
         "contract": "strikeTheIron",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardStrikeTheIron"]],
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "kayaRayaNecklace": {
         "id": "kayaRayaNecklace",
@@ -5838,9 +5838,9 @@
         "type": "neck",
         "set": "masina",
         "contract": "thrillOfTheHunt",
-        "obtainable": [["contractReward","outpostLanitra"]],
+        "obtainable": [["contractReward","contractRewardThrillOfTheHunt","outpostLanitra"]],
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "seaPeopleNomadNecklace": {
         "id": "seaPeopleNomadNecklace",
@@ -5892,9 +5892,9 @@
         "type": "neck",
         "set": "imara",
         "contract": "weSeekWarriors",
-        "obtainable": ["outpostSunkenGoldmine",["contractReward","outpostDragonsBack"]],
+        "obtainable": ["outpostSunkenGoldmine",["contractReward","contractRewardWeSeekWarriors","outpostDragonsBack"]],
         "dateAdded": "2024-04-28",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "blazingVengeance": {
         "id": "blazingVengeance",
@@ -6190,9 +6190,9 @@
         "id": "officerVestments",
         "type": "torso",
         "contract": "cutthroatJacks",
-        "obtainable": [["contractReward","outpostTheRuinedLighthouse"]],
+        "obtainable": [["contractReward","contractRewardCutthroatJacks","outpostTheRuinedLighthouse"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "hovaGarment": {
         "id": "hovaGarment",
@@ -6344,18 +6344,18 @@
         "id": "boatmakerGarment",
         "type": "torso",
         "contract": "economicEspionage",
-        "obtainable": [["contractReward","outpostParujarsCry"]],
+        "obtainable": [["contractReward","contractRewardEconomicEspionage","outpostParujarsCry"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "lautanTop": {
         "id": "lautanTop",
         "type": "torso",
         "set": "eastIndiesBrigand",
         "contract": "economicEspionage",
-        "obtainable": ["vanityAtelier",["contractReward","outpostParujarsCry"]],
+        "obtainable": ["vanityAtelier",["contractReward","contractRewardEconomicEspionage","outpostParujarsCry"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "renegadeWrappings": {
         "id": "renegadeWrappings",
@@ -6383,17 +6383,17 @@
         "id": "deckhandTatters",
         "type": "torso",
         "contract": "brokeredGround",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardBrokeredGround"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "deckhandTopRefined": {
         "id": "deckhandTopRefined",
         "type": "torso",
         "contract": "blastYeTowers",
-        "obtainable": ["vanityAtelier",["contractReward","outpostKarstLookout"]],
+        "obtainable": ["vanityAtelier",["contractReward","contractRewardBlastYeTowers","outpostKarstLookout"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "burgundyBaubleCoat": {
         "id": "burgundyBaubleCoat",
@@ -6465,9 +6465,9 @@
         "type": "torso",
         "set": "masina",
         "contract": "thrillOfTheHunt",
-        "obtainable": [["contractReward","outpostLanitra"]],
+        "obtainable": [["contractReward","contractRewardThrillOfTheHunt","outpostLanitra"]],
         "dateAdded": "2024-04-30",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "tiedTowel": {
         "id": "tiedTowel",
@@ -6762,25 +6762,25 @@
         "id": "patchedLeggings",
         "type": "bottom",
         "contract": "brokeredGround",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardBrokeredGround"]],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "tangledStrings": {
         "id": "tangledStrings",
         "type": "waist",
         "contract": "brokeredGround",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardBrokeredGround"]],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "roguishGloves": {
         "id": "roguishGloves",
         "type": "forearm",
         "contract": "brokeredGround",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardBrokeredGround"]],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "deckhandForearms": {
         "id": "deckhandForearms",
@@ -6811,9 +6811,9 @@
         "type": "forearm",
         "set": "eastIndiesBrigand",
         "contract": "strikeTheIron",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardStrikeTheIron"]],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "mutinousPants": {
         "id": "mutinousPants",
@@ -6822,17 +6822,17 @@
         "required": {
             "silver": 400
         },
-        "obtainable": ["contractReward","rogueTraderRosettaLaw"],
+        "obtainable": [["contractReward","contractRewardStrikeTheIron"],"rogueTraderRosettaLaw"],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-08-10"
     },
     "legBindings": {
         "id": "legBindings",
         "type": "footwear",
         "contract": "strikeTheIron",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardStrikeTheIron"]],
         "dateAdded": "2024-05-02",
-        "lastUpdated": "2024-05-02"
+        "lastUpdated": "2026-08-10"
     },
     "chasersBelt": {
         "id": "chasersBelt",
@@ -7071,9 +7071,9 @@
         "type": "waist",
         "set": "faraFury",
         "contract": "ancestralRights",
-        "obtainable": [["contractReward","outpostSacredTree"]],
+        "obtainable": [["contractReward","contractRewardAncestralRights","outpostSacredTree"]],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "abyssalWaistband": {
         "id": "abyssalWaistband",
@@ -7179,17 +7179,17 @@
         "id": "renegadeBelt",
         "type": "waist",
         "contract": "untoldTreasures",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardUntoldTreasures","commodityTraderSaintAnne"]],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "renegadeWaistband": {
         "id": "renegadeWaistband",
         "type": "waist",
         "contract": "untoldTreasures",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardUntoldTreasures","commodityTraderSaintAnne"]],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "rezekiBelt": {
         "id": "rezekiBelt",
@@ -7224,9 +7224,9 @@
         "id": "deckhandWaistbandAlternate",
         "type": "waist",
         "contract": "smugglersCurse",
-        "obtainable": [["contractReward","outpostKarstLookout"]],
+        "obtainable": [["contractReward","contractRewardSmugglersCurse","outpostKarstLookout"]],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "nomadBelt": {
         "id": "nomadBelt",
@@ -7309,9 +7309,9 @@
         "type": "waist",
         "set": "masina",
         "contract": "fatesInTheStars",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardFatesInTheStars"]],
         "dateAdded": "2024-05-04",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2026-08-10"
     },
     "bountysBandolier": {
         "id": "bountysBandolier",
@@ -8032,9 +8032,9 @@
         "type": "forearm",
         "set": "faraFury",
         "contract": "ancestralRights",
-        "obtainable": [["contractReward","outpostSacredTree"]],
+        "obtainable": [["contractReward","contractRewardAncestralRights","outpostSacredTree"]],
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "kinolyBracers": {
         "id": "kinolyBracers",
@@ -8251,9 +8251,9 @@
         "id": "deckhandWristguard",
         "type": "forearm",
         "contract": "hungryMermaids",
-        "obtainable": [["contractReward","outpostTheNecropolis"]],
+        "obtainable": [["contractReward","contractRewardHungryMermaids","outpostTheNecropolis"]],
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "sailmakerArmlet": {
         "id": "sailmakerArmlet",
@@ -8314,9 +8314,9 @@
         "type": "forearm",
         "set": "masina",
         "contract": "fatesInTheStars",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardFatesInTheStars"]],
         "dateAdded": "2024-05-05",
-        "lastUpdated": "2024-05-13"
+        "lastUpdated": "2026-08-10"
     },
     "nomadBracers": {
         "id": "nomadBracers",
@@ -8746,9 +8746,9 @@
         "id": "rogueFlipFlops",
         "type": "footwear",
         "contract": "theMarquis",
-        "obtainable": [["contractReward","outpostReturnFleetBight"]],
+        "obtainable": [["contractReward","contractRewardTheMarquis","outpostReturnFleetBight"]],
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "makeshiftSlippers": {
         "id": "makeshiftSlippers",
@@ -8782,9 +8782,9 @@
         "type": "footwear",
         "set": "masina",
         "contract": "relicsOfThePast",
-        "obtainable": [["contractReward","outpostVoronaFalls"]],
+        "obtainable": [["contractReward","contractRewardRelicsOfThePast","outpostVoronaFalls"]],
         "dateAdded": "2024-05-06",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "vazimbaFootwear": {
         "id": "vazimbaFootwear",
@@ -9370,9 +9370,9 @@
         "id": "mutinousSkirt",
         "type": "bottom",
         "contract": "untoldTreasures",
-        "obtainable": [["contractReward","commodityTraderSaintAnne"]],
+        "obtainable": [["contractReward","contractRewardUntoldTreasures","commodityTraderSaintAnne"]],
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "lautanLeggings": {
         "id": "lautanLeggings",
@@ -9437,9 +9437,9 @@
         "type": "bottom",
         "set": "masina",
         "contract": "relicsOfThePast",
-        "obtainable": [["contractReward","outpostVoronaFalls"]],
+        "obtainable": [["contractReward","contractRewardRelicsOfThePast","outpostVoronaFalls"]],
         "dateAdded": "2024-05-07",
-        "lastUpdated": "2024-07-16"
+        "lastUpdated": "2026-08-10"
     },
     "nomadBottoms": {
         "id": "nomadBottoms",
@@ -11376,9 +11376,9 @@
         "season": "chorusOfHavoc",
         "contract": "stolenCrescendo",
         "effect": "emissive",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardStolenCrescendo"]],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-11"
+        "lastUpdated": "2026-08-10"
     },
     "ominousOvertures": {
         "id": "ominousOvertures",
@@ -13861,25 +13861,25 @@
         "id": "dissidentFootwear",
         "type": "footwear",
         "contract": "inForSkins",
-        "obtainable": [["contractReward","refineryTelokPenjarah"]],
+        "obtainable": [["contractReward","contractRewardInForSkins","refineryTelokPenjarah"]],
         "dateAdded": "2024-07-17",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "dissidentFootgear": {
         "id": "dissidentFootgear",
         "type": "footwear",
         "contract": "inForSkins",
-        "obtainable": [["contractReward","refineryTelokPenjarah"]],
+        "obtainable": [["contractReward","contractRewardInForSkins","refineryTelokPenjarah"]],
         "dateAdded": "2024-07-17",
-        "lastUpdated": "2024-07-17"
+        "lastUpdated": "2026-08-10"
     },
     "theVile": {
         "id": "theVile",
         "type": "sailsEmblem",
         "contract": "ourInheritedLand",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardOurInheritedLand"]],
         "dateAdded": "2024-07-19",
-        "lastUpdated": "2024-09-21"
+        "lastUpdated": "2026-08-10"
     },
     "tillyTwilight": {
         "id": "tillyTwilight",
@@ -21195,9 +21195,9 @@
         "event": "theFounding",
         "season": "shadowsOfTheDeep",
         "contract": "theExeterCollection",
-        "obtainable": "contractReward",
+        "obtainable": [["contractReward","contractRewardTheExeterCollection"]],
         "dateAdded": "2025-02-18",
-        "lastUpdated": "2025-02-18"
+        "lastUpdated": "2026-08-10"
     },
     "chandrika": {
         "id": "chandrika",
@@ -21205,9 +21205,9 @@
         "contract": "aVictoryLap",
         "event": "theFounding",
         "season": "shadowsOfTheDeep",
-        "obtainable": ["contractReward","buyingSilverLionsWithSovereigns"],
+        "obtainable": [["contractReward","contractRewardAVictoryLap"],"buyingSilverLionsWithSovereigns"],
         "dateAdded": "2025-02-18",
-        "lastUpdated": "2025-02-18"
+        "lastUpdated": "2026-08-10"
     },
     "circleOfTrust": {
         "id": "circleOfTrust",
