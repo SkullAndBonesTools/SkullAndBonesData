@@ -23279,6 +23279,30 @@
             "description": {
                 "general": "A faithful friend who sees what you cannot"
             }
+        },
+        "ironOaths": {
+            "name": "Iron Oaths",
+            "description": {
+                "general": "\"The last cut is always mine, matey.\""
+            }
+        },
+        "mottledDuskglaze": {
+            "name": "Mottled Duskglaze",
+            "description": {
+                "general": "\"Ah, the sun is setting on your petty schemes.\""
+            }
+        },
+        "nightshadeVeil": {
+            "name": "Nightshade Veil",
+            "description": {
+                "general": "The darkest nights forge the sharpest blades"
+            }
+        },
+        "steelflarePortent": {
+            "name": "Steelflare Portent",
+            "description": {
+                "general": "\"I've survived mutiny and storm... you're just one rat.\""
+            }
         }
     }
 }
