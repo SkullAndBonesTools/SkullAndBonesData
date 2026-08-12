@@ -1819,5 +1819,9 @@
     "jackdaw": {
         "id": "jackdaw",
         "type": "ship"
+    },
+    "revenantsRapier": {
+        "id": "revenantsRapier",
+        "type": "ship"
     }
 }
