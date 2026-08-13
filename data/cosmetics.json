@@ -35374,5 +35374,23 @@
         "obtainable": [["twitchDrop","twitchDropTheDeck","twitchDropY3S2Preview"]],
         "dateAdded": "2026-08-12",
         "lastUpdated": "2026-08-12"
+    },
+    "jadefire": {
+        "id": "jadefire",
+        "type": "firework",
+        "season": "crimsonWaters",
+        "faction": "phoenixsTalon",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "duelingStars": {
+        "id": "duelingStars",
+        "type": "firework",
+        "season": "crimsonWaters",
+        "faction": "compagnieRoyale",
+        "obtainable": "factionWarWinReward",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

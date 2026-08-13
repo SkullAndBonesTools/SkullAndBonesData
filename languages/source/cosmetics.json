@@ -24215,6 +24215,18 @@
             "description": {
                 "general": "\"I've survived mutiny and storm... you're just one rat.\""
             }
+        },
+        "jadefire": {
+            "name": "Jadefire",
+            "description": {
+                "general": "Flameborn and ready to plunder"
+            }
+        },
+        "duelingStars": {
+            "name": "Dueling Stars",
+            "description": {
+                "general": "Where blades cross, legends are born"
+            }
         }
     }
 }
