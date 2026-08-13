@@ -24227,6 +24227,12 @@
             "description": {
                 "general": "Where blades cross, legends are born"
             }
+        },
+        "nutty": {
+            "name": "Nutty",
+            "description": {
+                "general": "Are you sure you're not cracked in the head?"
+            }
         }
     }
 }

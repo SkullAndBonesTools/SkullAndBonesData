@@ -35392,5 +35392,16 @@
         "obtainable": "factionWarWinReward",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "nutty": {
+        "id": "nutty",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "required": {
+            "coconut": 300
+        },
+        "obtainable": [["entrepreneurHardheadJoe","outpostGrandeFalaise"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
