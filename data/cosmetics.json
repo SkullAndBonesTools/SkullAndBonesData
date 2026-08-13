@@ -11271,9 +11271,9 @@
     "skullAndBones": {
         "id": "skullAndBones",
         "type": "sailsEmblem",
-        "obtainable": [["twitchDrop","twitchDropGameAwards"]],
+        "obtainable": ["twitchDrop","twitchDropGameAwards",["twitchDropTheDeck","twitchDropY3S2Preview"]],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2024-06-15"
+        "lastUpdated": "2026-08-12"
     },
     "rageIchor": {
         "id": "rageIchor",
@@ -35338,5 +35338,41 @@
         "set": "seeingHeart",
         "dateAdded": "2024-12-11",
         "lastUpdated": "2026-08-18"
+    },
+    "ironOaths": {
+        "id": "ironOaths",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "revenantsRapier",
+        "obtainable": [["twitchDrop","twitchDropTheDeck","twitchDropY3S2Preview"]],
+        "dateAdded": "2026-08-12",
+        "lastUpdated": "2026-08-12"
+    },
+    "mottledDuskglaze": {
+        "id": "mottledDuskglaze",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "revenantsRapier",
+        "obtainable": [["twitchDrop","twitchDropTheDeck","twitchDropY3S2Preview"]],
+        "dateAdded": "2026-08-12",
+        "lastUpdated": "2026-08-12"
+    },
+    "nightshadeVeil": {
+        "id": "nightshadeVeil",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "revenantsRapier",
+        "obtainable": [["twitchDrop","twitchDropTheDeck","twitchDropY3S2Preview"]],
+        "dateAdded": "2026-08-12",
+        "lastUpdated": "2026-08-12"
+    },
+    "steelflarePortent": {
+        "id": "steelflarePortent",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "revenantsRapier",
+        "obtainable": [["twitchDrop","twitchDropTheDeck","twitchDropY3S2Preview"]],
+        "dateAdded": "2026-08-12",
+        "lastUpdated": "2026-08-12"
     }
 }

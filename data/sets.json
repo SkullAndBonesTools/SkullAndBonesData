@@ -1895,5 +1895,9 @@
     "roguebreaker": {
         "id": "roguebreaker",
         "type": "player"
+    },
+    "revenantsRapier": {
+        "id": "revenantsRapier",
+        "type": "ship"
     }
 }
