@@ -17229,10 +17229,11 @@
         "type": "chest",
         "value": 1,
         "weight": 500,
+        "worldEvent": "heraldsOfTheAbyss",
         "required": {
             "abyssalEssence": 600
         },
-        "obtainable": "williamBlackwoodAbyssalStore",
+        "obtainable": ["worldEventReward","williamBlackwoodAbyssalStore"],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -17243,10 +17244,11 @@
         "type": "chest",
         "value": 1,
         "weight": 500,
+        "worldEvent": "heraldsOfTheAbyss",
         "required": {
             "abyssalEssence": 600
         },
-        "obtainable": "williamBlackwoodAbyssalStore",
+        "obtainable": ["worldEventReward","williamBlackwoodAbyssalStore"],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     }
