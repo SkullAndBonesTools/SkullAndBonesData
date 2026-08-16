@@ -34285,10 +34285,11 @@
         "id": "crownOfRuin",
         "type": "shipSkin",
         "ship": "barque",
+        "pieces": [],
         "required": {
             "abyssalEssence": 1000
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34299,7 +34300,7 @@
         "required": {
             "abyssalEssence": 500
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34311,7 +34312,7 @@
         "required": {
             "abyssalEssence": 1000
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34322,7 +34323,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34333,7 +34334,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34344,7 +34345,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34355,7 +34356,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34557,7 +34558,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34568,7 +34569,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34579,7 +34580,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34590,7 +34591,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34601,7 +34602,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34612,7 +34613,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34624,7 +34625,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34635,7 +34636,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -34646,7 +34647,7 @@
         "required": {
             "abyssalEssence": 300
         },
-        "obtainable": "williamBlackwoodStore",
+        "obtainable": "williamBlackwoodAbyssalStore",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
