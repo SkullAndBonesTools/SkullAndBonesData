@@ -3321,6 +3321,18 @@
                 "6": "Upgrades the ship level from 5 to 6.",
                 "7": "Upgrades the ship level from 6 to 7."
             }
+        },
+        "ascendedDrakonsJawsChest": {
+            "name": "Ascended Drakon's Jaws Chest",
+            "description": {
+                "general": "Contains an Ascended Drakon's Jaws"
+            }
+        },
+        "dredgedArmoryCache": {
+            "name": "Dredged Armory Cache",
+            "description": {
+                "general": "A cached dredged from the depths with various weapons including ascended weapons"
+            }
         }
     }
 }

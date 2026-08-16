@@ -546,6 +546,7 @@
         "reloadSpeed": 3500,
         "optimalRange": 250,
         "projectileSpeed": 400,
+        "obtainable": ["dredgedArmoryCache"],
         "required": {
             "silver": 2380,
             "magnetiteIngot": 12,
@@ -558,7 +559,7 @@
             "flooding2"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "zamzama1": {
         "id": "zamzama1",
@@ -2136,6 +2137,7 @@
         "reloadSpeed": 1000,
         "projectileSpeed": 700,
         "optimalRange": 900,
+        "obtainable": ["dredgedArmoryCache"],
         "required": {
             "silver": 3960,
             "roselleCloth": 8,
@@ -2149,7 +2151,7 @@
             "piercing2"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "greatSpringald1": {
         "id": "greatSpringald1",
@@ -4701,8 +4703,9 @@
             "piercing2",
             "burning1"
         ],
+        "obtainable": ["dredgedArmoryCache"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "repairLongGun1": {
         "id": "repairLongGun1",
@@ -4959,9 +4962,9 @@
             "arming",
             "flooding3"
         ],
-        "obtainable": ["darktideChest","whiteAriaChest","blackAriaChest"],
+        "obtainable": ["darktideChest","whiteAriaChest","blackAriaChest","dredgedArmoryCache"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2026-08-10"
+        "lastUpdated": "2026-08-18"
     },
     "shalei1": {
         "id": "shalei1",
@@ -12826,9 +12829,9 @@
         "perks": [
             "burning2"
         ],
-        "obtainable": ["darktideChest"],
+        "obtainable": ["darktideChest","dredgedArmoryCache"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2026-08-18"
     },
     "brickbreaker1": {
         "id": "brickbreaker1",
@@ -14753,10 +14756,10 @@
         "value": 1,
         "weight": 100,
         "required": {
-            "heartfeltWish": 1350
+            "heartfeltWish": 900
         },
         "dateAdded": "2025-09-02",
-        "lastUpdated": "2025-09-02"
+        "lastUpdated": "2026-08-18"
     },
     "contractCache": {
         "id": "contractCache",
@@ -16913,7 +16916,9 @@
         "event": "darktideLullaby",
         "obtainable": [
             "darktideAltarTelokPenjarah",
-            "eventPass"
+            "eventPass",
+            "ascendedDrakonsJawsChest",
+            "ascendedDarktideLullabyEventCache"
         ],
         "value": 1,
         "weight": 500,
@@ -17163,6 +17168,33 @@
         "perks": [
             "junkUpgrade7"
         ],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "ascendedDrakonsJawsChest": {
+        "id": "ascendedDrakonsJawsChest",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "event": "darktideLullaby",
+        "value": 1,
+        "weight": 100,
+        "obtainable": "darktideAltarTelokPenjarah",
+        "required": {
+            "heartfeltWish": 1800
+        },
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "dredgedArmoryCache": {
+        "id": "dredgedArmoryCache",
+        "rarity": "epic",
+        "season": "crimsonWaters",
+        "type": "chest",
+        "event": "darktideLullaby",
+        "worldEvent": "theWeepingMother",
+        "value": 1,
+        "weight": 100,
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     }
