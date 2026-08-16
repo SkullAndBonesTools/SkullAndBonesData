@@ -35380,7 +35380,7 @@
         "type": "firework",
         "season": "crimsonWaters",
         "faction": "phoenixsTalon",
-        "obtainable": "factionWarWinReward",
+        "obtainable": "emberWarWinReward",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },
@@ -35389,7 +35389,7 @@
         "type": "firework",
         "season": "crimsonWaters",
         "faction": "compagnieRoyale",
-        "obtainable": "factionWarWinReward",
+        "obtainable": "emberWarWinReward",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
     },

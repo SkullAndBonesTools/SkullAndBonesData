@@ -16779,7 +16779,7 @@
         "value": 1,
         "weight": 250,
         "gearScore": 35,
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "emberWarEffortReward",
         "perks": [
             "stElmosChains"
         ],
@@ -16948,7 +16948,7 @@
         "reloadSpeed": 2000,
         "projectileSpeed": 588,
         "optimalRange": 600,
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "emberWarEffortReward",
         "perks": [
             "sinkingImpale",
             "flooding2",
@@ -16962,7 +16962,7 @@
         "type": "rocket",
         "rarity": "epic",
         "season": "crimsonWaters",
-        "obtainable": "factionWarEffortReward",
+        "obtainable": "emberWarEffortReward",
         "value": 1,
         "weight": 1000,
         "gearScore": 91,
