@@ -3333,6 +3333,30 @@
             "description": {
                 "general": "A cached dredged from the depths with various weapons including ascended weapons"
             }
+        },
+        "abyssalCache": {
+            "name": "Abyssal Cache",
+            "description": {
+                "general": "Contains Weapons with Chance for Basic Adept Mods"
+            }
+        },
+        "adeptCannonStrongbox": {
+            "name": "Adept Cannon Strongbox",
+            "description": {
+                "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+            }
+        },
+        "maelstromCannonStrongbox": {
+            "name": "Maelstrom Cannon Strongbox",
+            "description": {
+                "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+            }
+        },
+        "maelstromBallistaStrongbox": {
+            "name": "Maelstrom Ballista Strongbox",
+            "description": {
+                "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+            }
         }
     }
 }
