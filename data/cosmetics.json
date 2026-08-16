@@ -35404,5 +35404,46 @@
         "obtainable": [["entrepreneurHardheadJoe","outpostGrandeFalaise"]],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "lEtoile": {
+        "id": "lEtoile",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "coatOStars",
+        "faction": "compagnieRoyale",
+        "obtainable": "emberWarRewardWonTerritory1",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "celestine": {
+        "id": "celestine",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "coatOStars",
+        "effect": "emissive",
+        "faction": "compagnieRoyale",
+        "obtainable": "emberWarRewardWonTerritory4",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "midnightSovereign": {
+        "id": "midnightSovereign",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "coatOStars",
+        "faction": "compagnieRoyale",
+        "obtainable": "emberWarRewardWonTerritory7",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "writInGold": {
+        "id": "writInGold",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "coatOStars",
+        "faction": "compagnieRoyale",
+        "obtainable": "emberWarRewardWonTerritory11",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

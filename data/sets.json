@@ -1899,5 +1899,9 @@
     "revenantsRapier": {
         "id": "revenantsRapier",
         "type": "ship"
+    },
+    "coatOStars": {
+        "id": "coatOStars",
+        "type": "ship"
     }
 }

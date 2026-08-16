@@ -24233,6 +24233,30 @@
             "description": {
                 "general": "Are you sure you're not cracked in the head?"
             }
+        },
+        "lEtoile": {
+            "name": "L'Étoile",
+            "description": {
+                "general": "Your lodestar to glory"
+            }
+        },
+        "celestine": {
+            "name": "Celestine",
+            "description": {
+                "general": "Dark silks that hide you until it's too late for your foes"
+            }
+        },
+        "midnightSovereign": {
+            "name": "Midnight Sovereign",
+            "description": {
+                "general": "As dark and unyielding as the deep seas"
+            }
+        },
+        "writInGold": {
+            "name": "Writ in Gold",
+            "description": {
+                "general": "Every sail bears the weight of royal command"
+            }
         }
     }
 }
