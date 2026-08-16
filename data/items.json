@@ -210,7 +210,10 @@
         "perks": [
             "tearing2"
         ],
-        "obtainable": ["abyssalCache"],
+        "obtainable": [
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2026-08-18"
     },
@@ -303,9 +306,14 @@
             "raider",
             "piercing2"
         ],
-        "obtainable": ["darktideChest","hauntedReapersCache","crazedNianStrongbox"],
+        "obtainable": [
+            "darktideChest",
+            "hauntedReapersCache",
+            "crazedNianStrongbox",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2026-04-20"
+        "lastUpdated": "2026-08-18"
     },
     "carronade": {
         "id": "carronade",
@@ -549,7 +557,11 @@
         "reloadSpeed": 3500,
         "optimalRange": 250,
         "projectileSpeed": 400,
-        "obtainable": ["dredgedArmoryCache","abyssalCache"],
+        "obtainable": [
+            "dredgedArmoryCache",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "required": {
             "silver": 2380,
             "magnetiteIngot": 12,
@@ -655,7 +667,12 @@
             "raider",
             "burning2"
         ],
-        "obtainable": ["crazedNianStrongbox","bloodiedStrongbox","abyssalCache"],
+        "obtainable": [
+            "crazedNianStrongbox",
+            "bloodiedStrongbox",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2024-02-12",
         "lastUpdated": "2026-08-18"
     },
@@ -4706,7 +4723,11 @@
             "piercing2",
             "burning1"
         ],
-        "obtainable": ["dredgedArmoryCache","abyssalCache"],
+        "obtainable": [
+            "dredgedArmoryCache",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2026-08-18"
     },
@@ -4808,7 +4829,8 @@
         "requiredRank": "kingpin1",
         "obtainable": [
             "personScurlock",
-            "abyssalCache"
+            "abyssalCache",
+            "maelstromCannonStrongbox"
         ],
         "blueprint": "personScurlockSainteAnne",
         "value": 1,
@@ -6088,7 +6110,13 @@
         "rarity": "rare",
         "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
-        "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic","abyssalCache"],
+        "obtainable": [
+            "laPestesStrongbox",
+            "dropDuringMythicLaPesteEncounter",
+            "laPestesLockerMythic",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "blueprint": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 500,
@@ -9805,14 +9833,17 @@
         "contract": "dragonAndPhoenix",
         "bounty": "theGloriousPhoenix",
         "worldEvent": "theGloriousPhoenix",
-        "obtainable": "phoenixsTalonStrongbox",
+        "obtainable": [
+            "phoenixsTalonStrongbox",
+            "maelstromCannonStrongbox"
+        ],
         "perks": [
             "eighteenStrikes",
             "provoking",
             "burning2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2026-08-10"
+        "lastUpdated": "2026-08-18"
     },
     "baneOfTenSuns": {
         "id": "baneOfTenSuns",
@@ -10251,7 +10282,14 @@
         "type": "longGun",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1","adeptCannonStrongbox","abyssalCache"],
+        "obtainable": [
+            "smugglerPass",
+            "williamBlackwoodRotatingStore",
+            "teulingsWeaponChest1",
+            "adeptCannonStrongbox",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 500,
@@ -12365,7 +12403,10 @@
             "tearing2",
             "piercing1"
         ],
-        "obtainable": ["abyssalCache"],
+        "obtainable": [
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -12440,7 +12481,13 @@
             "theHelm",
             "corruptDmcOfficerOutpost"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache","abyssalCache"],
+        "obtainable": [
+            "moonshineChest",
+            "moonshineStrongbox",
+            "hauntedReapersCache",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12611,7 +12658,10 @@
         "perks": [
             "combustion2"
         ],
-        "obtainable": ["abyssalCache"],
+        "obtainable": [
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -12699,7 +12749,10 @@
         "perks": [
             "piercing2"
         ],
-        "obtainable": ["abyssalCache"],
+        "obtainable": [
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -12715,7 +12768,8 @@
             "darktideAltarTelokPenjarah",
             "ascendedDarktideLullabyEventCache",
             "ascendedRequiemOfTheLostEventCache",
-            "ascendedLegendOfTheNianEventCache"
+            "ascendedLegendOfTheNianEventCache",
+            "maelstromCannonStrongbox"
         ],
         "event": ["theHonorless","moonshineLarceny","darktideLullaby","requiemOfTheLost","legendOfTheNian"],
         "value": 1,
@@ -12735,7 +12789,7 @@
             "combustion3"
         ],
         "dateAdded": "2025-05-06",
-        "lastUpdated": "2026-04-20"
+        "lastUpdated": "2026-08-18"
     },
     "fireCulverin1": {
         "id": "fireCulverin1",
@@ -12836,7 +12890,12 @@
         "perks": [
             "burning2"
         ],
-        "obtainable": ["darktideChest","dredgedArmoryCache","abyssalCache"],
+        "obtainable": [
+            "darktideChest",
+            "dredgedArmoryCache",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -12924,7 +12983,13 @@
             ],
             "theHelm"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox","darktideChest","abyssalCache"],
+        "obtainable": [
+            "moonshineChest",
+            "moonshineStrongbox",
+            "darktideChest",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12977,7 +13042,10 @@
             "unison",
             "tearing3"
         ],
-        "obtainable": "abyssalCache",
+        "obtainable": [
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -13951,7 +14019,8 @@
         "blueprint": "smugglerPassPinnacleStore",
         "obtainable": [
             "smugglerPass",
-            "smugglerPassPinnacleStore"
+            "smugglerPassPinnacleStore",
+            "maelstromCannonStrongbox"
         ],
         "value": 1,
         "weight": 500,
@@ -16024,7 +16093,11 @@
         "type": "culverin",
         "rarity": "rare",
         "season": "eyeOfTheBeast",
-        "obtainable": ["williamBlackwoodSeasonalItemEyeOfTheBeast","abyssalCache"],
+        "obtainable": [
+            "williamBlackwoodSeasonalItemEyeOfTheBeast",
+            "abyssalCache",
+            "maelstromCannonStrongbox"
+        ],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
