@@ -210,8 +210,9 @@
         "perks": [
             "tearing2"
         ],
+        "obtainable": ["abyssalCache"],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "basilisk1": {
         "id": "basilisk1",
@@ -316,7 +317,9 @@
             "smugglerPass",
             "williamBlackwoodRotatingStore",
             "teulingsWeaponChest1",
-            "laPestesLockerMythic"
+            "laPestesLockerMythic",
+            "adeptCannonStrongbox",
+            "abyssalCache"
         ],
         "value": 1,
         "weight": 500,
@@ -340,7 +343,7 @@
             "flooding1"
         ],
         "dateAdded": "2024-02-27",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-18"
     },
     "demicannon1": {
         "id": "demicannon1",
@@ -546,7 +549,7 @@
         "reloadSpeed": 3500,
         "optimalRange": 250,
         "projectileSpeed": 400,
-        "obtainable": ["dredgedArmoryCache"],
+        "obtainable": ["dredgedArmoryCache","abyssalCache"],
         "required": {
             "silver": 2380,
             "magnetiteIngot": 12,
@@ -652,9 +655,9 @@
             "raider",
             "burning2"
         ],
-        "obtainable": ["crazedNianStrongbox","bloodiedStrongbox"],
+        "obtainable": ["crazedNianStrongbox","bloodiedStrongbox","abyssalCache"],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2026-05-14"
+        "lastUpdated": "2026-08-18"
     },
     "cannonballCrate": {
         "id": "cannonballCrate",
@@ -2137,7 +2140,7 @@
         "reloadSpeed": 1000,
         "projectileSpeed": 700,
         "optimalRange": 900,
-        "obtainable": ["dredgedArmoryCache"],
+        "obtainable": ["dredgedArmoryCache","abyssalCache"],
         "required": {
             "silver": 3960,
             "roselleCloth": 8,
@@ -2228,7 +2231,7 @@
         "season": "release",
         "requiredRank": "kingpin1",
         "blueprint": "seaPeopleHunterMasterOutpostLanitra",
-        "obtainable": ["slayersChest","gildedSlayersChest"],
+        "obtainable": ["slayersChest","gildedSlayersChest","abyssalCache"],
         "value": 1,
         "weight": 750,
         "gearScore": 83,
@@ -2253,7 +2256,7 @@
             "tearing2"
         ],
         "dateAdded": "2024-02-12",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-18"
     },
     "twinWinchBallista": {
         "id": "twinWinchBallista",
@@ -4703,7 +4706,7 @@
             "piercing2",
             "burning1"
         ],
-        "obtainable": ["dredgedArmoryCache"],
+        "obtainable": ["dredgedArmoryCache","abyssalCache"],
         "dateAdded": "2024-02-05",
         "lastUpdated": "2026-08-18"
     },
@@ -4804,7 +4807,8 @@
         "season": "release",
         "requiredRank": "kingpin1",
         "obtainable": [
-            "personScurlock"
+            "personScurlock",
+            "abyssalCache"
         ],
         "blueprint": "personScurlockSainteAnne",
         "value": 1,
@@ -4830,7 +4834,7 @@
             "tearing2"
         ],
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "scurlocksChasers": {
         "id": "scurlocksChasers",
@@ -5993,7 +5997,7 @@
         "rarity": "epic",
         "season": "chorusOfHavoc",
         "blueprint": "theHelmSeasonOathsOfWar",
-        "obtainable": ["theHelmSeasonChorusOfHavoc","legacyCache3","legacyCache1"],
+        "obtainable": ["theHelmSeasonChorusOfHavoc","legacyCache3","legacyCache1","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -6016,7 +6020,7 @@
             "ricochet"
         ],
         "dateAdded": "2024-05-25",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2026-08-18"
     },
     "laPiqure1": {
         "id": "laPiqure1",
@@ -6084,7 +6088,7 @@
         "rarity": "rare",
         "season": "chorusOfHavoc",
         "worldEvent": "thePlagueKing",
-        "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic"],
+        "obtainable": ["laPestesStrongbox","dropDuringMythicLaPesteEncounter","laPestesLockerMythic","abyssalCache"],
         "blueprint": "williamBlackwoodRotatingStore",
         "value": 1,
         "weight": 500,
@@ -6108,7 +6112,7 @@
             "toxic3"
         ],
         "dateAdded": "2024-06-02",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-18"
     },
     "theWarhammer": {
         "id": "theWarhammer",
@@ -9750,7 +9754,7 @@
         "blueprint": ["seaPeopleHunterMasterOutpostLanitra"],
         "bounty": "divineRetribution",
         "worldEvent": "divineRetribution",
-        "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest"],
+        "obtainable": ["elderShadowbeastChest","slayersChest","gildedSlayersChest","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -9773,7 +9777,7 @@
             "electric2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-12-16"
+        "lastUpdated": "2026-08-18"
     },
     "phoenixTalons": {
         "id": "phoenixTalons",
@@ -9843,14 +9847,14 @@
             "orcaIntricateApparatus": 1,
             "silver": 3960
         },
-        "obtainable": "commanderZhangsChest",
+        "obtainable": ["commanderZhangsChest","abyssalCache"],
         "perks": [
             "unrelentingDrill",
             "longDraw",
             "piercing3"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2026-08-10"
+        "lastUpdated": "2026-08-18"
     },
     "phoenixCrest": {
         "id": "phoenixCrest",
@@ -10247,7 +10251,7 @@
         "type": "longGun",
         "rarity": "epic",
         "season": "intoTheDragonsWake",
-        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1"],
+        "obtainable": ["smugglerPass","williamBlackwoodRotatingStore","teulingsWeaponChest1","adeptCannonStrongbox","abyssalCache"],
         "blueprint": "smugglerPassPinnacleStore",
         "value": 1,
         "weight": 500,
@@ -10272,7 +10276,7 @@
             "piercing2"
         ],
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-12-09"
+        "lastUpdated": "2026-08-18"
     },
     "immortalVessel": {
         "id": "immortalVessel",
@@ -12361,8 +12365,9 @@
             "tearing2",
             "piercing1"
         ],
+        "obtainable": ["abyssalCache"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "farscourge1": {
         "id": "farscourge1",
@@ -12435,7 +12440,7 @@
             "theHelm",
             "corruptDmcOfficerOutpost"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","hauntedReapersCache","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12459,7 +12464,7 @@
             "piercing1"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "langeKartouwe": {
         "id": "langeKartouwe",
@@ -12606,8 +12611,9 @@
         "perks": [
             "combustion2"
         ],
+        "obtainable": ["abyssalCache"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "piercingDemicannon1": {
         "id": "piercingDemicannon1",
@@ -12693,8 +12699,9 @@
         "perks": [
             "piercing2"
         ],
+        "obtainable": ["abyssalCache"],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-08-18"
     },
     "kleineKartouwe": {
         "id": "kleineKartouwe",
@@ -12829,7 +12836,7 @@
         "perks": [
             "burning2"
         ],
-        "obtainable": ["darktideChest","dredgedArmoryCache"],
+        "obtainable": ["darktideChest","dredgedArmoryCache","abyssalCache"],
         "dateAdded": "2025-04-15",
         "lastUpdated": "2026-08-18"
     },
@@ -12917,7 +12924,7 @@
             ],
             "theHelm"
         ],
-        "obtainable": ["moonshineChest","moonshineStrongbox","darktideChest"],
+        "obtainable": ["moonshineChest","moonshineStrongbox","darktideChest","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -12940,7 +12947,7 @@
             "combustion2"
         ],
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2025-09-04"
+        "lastUpdated": "2026-08-18"
     },
     "urbansGreatGun": {
         "id": "urbansGreatGun",
@@ -12970,8 +12977,9 @@
             "unison",
             "tearing3"
         ],
+        "obtainable": "abyssalCache",
         "dateAdded": "2025-04-15",
-        "lastUpdated": "2026-08-10"
+        "lastUpdated": "2026-08-18"
     },
     "bilgefireBarrels": {
         "id": "bilgefireBarrels",
@@ -15147,7 +15155,7 @@
         "type": "culverin",
         "rarity": "epic",
         "season": "gutsAndGlory",
-        "obtainable": ["smugglerPass","smugglerPassPinnacleStore"],
+        "obtainable": ["smugglerPass","smugglerPassPinnacleStore","adeptCannonStrongbox"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -15162,7 +15170,7 @@
             "toxic3"
         ],
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2025-10-21"
+        "lastUpdated": "2026-08-18"
     },
     "blightbringer": {
         "id": "blightbringer",
@@ -16016,7 +16024,7 @@
         "type": "culverin",
         "rarity": "rare",
         "season": "eyeOfTheBeast",
-        "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
+        "obtainable": ["williamBlackwoodSeasonalItemEyeOfTheBeast","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 83,
@@ -16031,7 +16039,7 @@
             "combustion1"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-03-24"
+        "lastUpdated": "2026-08-18"
     },
     "reachwarden": {
         "id": "reachwarden",
@@ -16119,7 +16127,7 @@
         "projectileSpeed": 588,
         "optimalRange": 600,
         "required": {},
-        "obtainable": "williamBlackwoodSeasonalItemEyeOfTheBeast",
+        "obtainable": ["williamBlackwoodSeasonalItemEyeOfTheBeast","abyssalCache"],
         "perks": [
             "chargedBarb",
             "impale",
@@ -16127,7 +16135,7 @@
             "piercing2"
         ],
         "dateAdded": "2026-02-10",
-        "lastUpdated": "2026-02-10"
+        "lastUpdated": "2026-08-18"
     },
     "foundersCache": {
         "id": "foundersCache",
@@ -16460,7 +16468,7 @@
         "type": "longGun",
         "rarity": "epic",
         "season": "shatteredSeas",
-        "obtainable": "williamBlackwoodSeasonalItemShatteredSeas",
+        "obtainable": ["williamBlackwoodSeasonalItemShatteredSeas","abyssalCache"],
         "value": 1,
         "weight": 500,
         "gearScore": 91,
@@ -16476,7 +16484,7 @@
             "piercing1"
         ],
         "dateAdded": "2026-05-12",
-        "lastUpdated": "2026-05-12"
+        "lastUpdated": "2026-08-18"
     },
     "soulsnatcher": {
         "id": "soulsnatcher",
