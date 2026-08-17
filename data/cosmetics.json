@@ -35445,5 +35445,46 @@
         "obtainable": "emberWarRewardWonTerritory11",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "hellsHerald": {
+        "id": "hellsHerald",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "theCinderborn",
+        "faction": "phoenixsTalon",
+        "obtainable": "emberWarRewardWonTerritory1",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "goldsearedSilk": {
+        "id": "goldsearedSilk",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "theCinderborn",
+        "effect": "emissive",
+        "faction": "phoenixsTalon",
+        "obtainable": "emberWarRewardWonTerritory4",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "rubyReign": {
+        "id": "rubyReign",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "theCinderborn",
+        "faction": "phoenixsTalon",
+        "obtainable": "emberWarRewardWonTerritory7",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "edictOfFlames": {
+        "id": "edictOfFlames",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "theCinderborn",
+        "faction": "phoenixsTalon",
+        "obtainable": "emberWarRewardWonTerritory11",
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

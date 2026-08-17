@@ -1903,5 +1903,9 @@
     "coatOStars": {
         "id": "coatOStars",
         "type": "ship"
+    },
+    "theCinderborn": {
+        "id": "theCinderborn",
+        "type": "ship"
     }
 }

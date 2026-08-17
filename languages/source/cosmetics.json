@@ -24257,6 +24257,30 @@
             "description": {
                 "general": "Every sail bears the weight of royal command"
             }
+        },
+        "hellsHerald": {
+            "name": "Hell's Herald",
+            "description": {
+                "general": "Torment awaits all those who sight it"
+            }
+        },
+        "goldsearedSilk": {
+            "name": "Goldseared Silk",
+            "description": {
+                "general": "Mark the horizon with your glory"
+            }
+        },
+        "rubyReign": {
+            "name": "Ruby Reign",
+            "description": {
+                "general": "Crowned with the blood of those who defy you"
+            }
+        },
+        "edictOfFlames": {
+            "name": "Edict of Flames",
+            "description": {
+                "general": "\"I never negotiate, Captain.\""
+            }
         }
     }
 }
