@@ -756,6 +756,7 @@
         "id": "shatteredSeas",
         "category": "legends",
         "badgeOnly": true,
+        "worldEvent": ["kraken","theDrowningPlague","theGreatShadow"],
         "season": "shatteredSeas",
         "dateAdded": "2026-05-12",
         "lastUpdated": "2026-05-12"
