@@ -751,5 +751,13 @@
         "goal": 200000,
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "shatteredSeas": {
+        "id": "shatteredSeas",
+        "category": "legends",
+        "badgeOnly": true,
+        "season": "shatteredSeas",
+        "dateAdded": "2026-05-12",
+        "lastUpdated": "2026-05-12"
     }
 }
