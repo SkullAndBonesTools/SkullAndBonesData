@@ -1907,5 +1907,9 @@
     "theCinderborn": {
         "id": "theCinderborn",
         "type": "ship"
+    },
+    "rootsOfRuin": {
+        "id": "rootsOfRuin",
+        "type": "ship"
     }
 }

@@ -24281,6 +24281,30 @@
             "description": {
                 "general": "\"I never negotiate, Captain.\""
             }
+        },
+        "mossyGravewood": {
+            "name": "Mossy Gravewood",
+            "description": {
+                "general": "Bark nourished by countless corpses"
+            }
+        },
+        "rotbreath": {
+            "name": "Rotbreath",
+            "description": {
+                "general": "A cloud of mold to rot your foes to the bone"
+            }
+        },
+        "maraudersGash": {
+            "name": "Marauder's Gash",
+            "description": {
+                "general": "Quick and quiet as poison ivy"
+            }
+        },
+        "nooseOfThorns": {
+            "name": "Noose of Thorns",
+            "description": {
+                "general": "\"Welcome to my jungle, mate -- shame you won't see the dawn.\""
+            }
         }
     }
 }

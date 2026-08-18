@@ -35486,5 +35486,41 @@
         "obtainable": "emberWarRewardWonTerritory11",
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "mossyGravewood": {
+        "id": "mossyGravewood",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "rootsOfRuin",
+        "obtainable": [["twitchDrop","twitchDropYear3Season2"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "rotbreath": {
+        "id": "rotbreath",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "rootsOfRuin",
+        "obtainable": [["twitchDrop","twitchDropYear3Season2"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "maraudersGash": {
+        "id": "maraudersGash",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "rootsOfRuin",
+        "obtainable": [["twitchDrop","twitchDropYear3Season2"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
+    },
+    "nooseOfThorns": {
+        "id": "nooseOfThorns",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "rootsOfRuin",
+        "obtainable": [["twitchDrop","twitchDropYear3Season2"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }
