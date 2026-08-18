@@ -271,6 +271,14 @@
         "claimToFameY3S1": {
             "name": "Claim to Fame (Y3S1)",
             "description": "Gain %s Infamy in Year 3 Season 1"
+        },
+        "claimToFameY3S2": {
+            "name": "Claim to Fame (Y3S2)",
+            "description": "Gain %s Infamy in Year 3 Season 2"
+        },
+        "shatteredSeas": {
+            "name": "Shattered Seas",
+            "description": "Complete the Kraken, The Drowning Plague (Mythic La Peste) and The Great Shadow (Mythic Vikram Rajan) world events."
         }
     }
 }

@@ -2075,7 +2075,7 @@
             "description": {
                 "general": [
                     "Erhöht 10 Sek. lang Schaden gegen Gebäude um 50% und den erlittenen Schwachpunkt-Schaden um 30%",
-                    "Waffentreffer haben eine Chance von 20%, 15 Sek. lang Wut bei dir auszulösen, wodurch der Breitseite-Waffenschaden um 20% erhöht wird",
+                    "Weapon hits have a 30% chance to trigger Fury on self for 15 seconds, boosting Broadside Weapon Damage by 30%",
                     "Solange dies aktiv ist, können Breitseite-Treffer eine Explosion mit 700 Schaden alle 3 Sek. verursachen mit einem Sprengradius von 100m"
                 ]
             }
@@ -2572,7 +2572,7 @@
             "name": "Schneid",
             "description": {
                 "general": [
-                    "Du erhältst einen Stapel \"Schneid\", wenn du Schaden erleidest. Jeder Stapel Schneid erhöht die Panzerung um 40 (max. 10 Stapel). Jeder Stapel Schneid hält 15 Sekunden lang an.",
+                    "Gain a stack of Grit when you take damage. Each stack of Grit increases Armor by 50, up to a maximum of 10 stacks. Each stack of Grit lasts 15 seconds",
                     "Verbündete extra-kleine, kleine und mittlere Schiffe im Umkreis von 200 Metern erleiden um 10% reduzierten Schaden. Hast du 10 Stapel Schneid, wird der Schaden stattdessen um 20% reduziert."
                 ]
             }
@@ -2630,7 +2630,7 @@
             "description": {
                 "general": [
                     "Bei 10 Stapeln Schneid gewährt das Erleiden von Schaden dir \"Entschlossenheit\".",
-                    "Entschlossenheit stellt bei Aktivierung 10% Deckungsstärke wider her, verringert den Schaden durch Statuseffekte um 20% und erhöht die Generierung von Bedrohung 10 Sekunden lang um 100%"
+                    "Resolve restores 20% Brace Strength on activation, decreases status effect damage by 20% and increases threat generation by 100% for 10 seconds"
                 ]
             }
         },
@@ -2881,7 +2881,7 @@
         "gimbalRingStores": {
             "description": {
                 "general": [
-                    "Triffst du ein Ziel, das mehr als 180 m entfernt ist, so wird der Schaden von Halbkanonen für 12 s um 17 % erhöht ",
+                    "For every Demicannon weapon equipped, increase weapon damage of equipped weapons by 5%",
                     "Projektilgeschwindigkeit von Halbkanonen wird um 14 % erhöht ",
                     "Maximale Reichweite von Halbkanonen wird um 12 % erhöht"
                 ]
@@ -2900,7 +2900,7 @@
             "description": {
                 "general": [
                     "Der Schaden, der mit einer Waffe vom Typ Überflutung aus einer Entfernung von mehr als 200 m verursacht wird, erhöht \"Überflutungsschaden\"  für 10 s um 13 %",
-                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1% up to 30%",
+                    "For every 1% increase in Projectile Speed of Weapons through bonuses, increase Flooding Damage of those weapons by 1% up to 15%",
                     "Erhöht den Schaden an gegnerischen Schiffen mit dem Effekt \"Überflutet\" um 10 %"
                 ]
             }
@@ -3328,6 +3328,158 @@
             "description": {
                 "general": [
                     "Zeit-zum-Ziel von Bojen werden um 15% verringert"
+                ]
+            }
+        },
+        "infernalEmbers": {
+            "name": "Infernal Embers",
+            "description": {
+                "general": [
+                    "Weapon hits on target enemies apply one stack of Ember up to 20 stacks for 5 seconds which decays one by one. Ember decreases Armor Rating by 2% and Fire Resistance by 2% per stack",
+                    "Gain a stack of Inferno when hitting an enemy with max Ember stacks, up to 10 stacks, which lasts 5 seconds. Inferno decreases Reload Time by 0.5% and increases Weapon Damage by 3% per stack",
+                    "Allied XSML, SML and MED ships within 500 meters gain half of the bonus provided by Inferno"
+                ]
+            }
+        },
+        "cheese": {
+            "description": {
+                "general": [
+                    "-5% Reload Time",
+                    "Increases Stamina Regen by 30%",
+                    "Increases Brace Strength by 20%"
+                ]
+            }
+        },
+        "infernalArtificersBench": {
+            "description": {
+                "general": [
+                    "60% of Explosive Damage dealt to a target with Shell-Shocked is dealt as Burning Damage. 40% of the Burning Damage dealt to a target with Ablaze is dealt as Explosive Damage",
+                    "Increase Shell-Shocked and Ablaze charge rate by 10%"
+                ]
+            }
+        },
+        "hellshotSmithy": {
+            "description": {
+                "general": [
+                    "Dealing at least 2000 Burning Damage in a single hit to a target applies the Charred status effect to them for 30s. While Charred, targets receive 30% more Burning Damage from your ship and increase the Torn Sails status charge received by 15%. Charred targets that are also Ablaze will build Charred status on targets within 150m",
+                    "10% of the Burning Damage dealt to a target which is Ablaze is also dealt to enemy ships within 150m"
+                ]
+            }
+        },
+        "stElmosChains": {
+            "description": {
+                "general": [
+                    "Dealing Electric Damage to Flooded targets also deals 50% of the Electric Damage to other nearby targets within 150m",
+                    "Deal 50% more Electric Damage to Flooded targets",
+                    "Increases duration of the Flooded effect on enemy ships by 10%"
+                ]
+            }
+        },
+        "stokedInferno": {
+            "name": "Stoked Inferno",
+            "description": {
+                "general": [
+                    "Bracing hits from Ablaze targets builds a Burning explosion dealing 10% of Brace Strength as Burning Damage in a 150m radius. Each braced hit increases this by 10%, up to 70%. The explosion triggers when Bracing is released"
+                ]
+            }
+        },
+        "floodstrike": {
+            "name": "Floodstrike",
+            "description": {
+                "general": [
+                    "Bracing hits from Flooded targets primes an explosion, dealing 10% of Brace Strength as Explosive Damage. Each braced hit increases this primed Explosive Damage by 10%, up to 70% for 30s. Ram a target to detonate"
+                ]
+            }
+        },
+        "ignition": {
+            "name": "Ignition",
+            "description": {
+                "general": [
+                    "Trigger an explosion when the target is either Ablaze or Shell-Shocked. Ignition's explosions deals 1000 Explosive Damage and an additional 20% weapon damage as Explosive Damage per hit. Consecutive shots increase this bonus up to 500%. This effect cannot trigger again for 30s"
+                ]
+            }
+        },
+        "seasFury": {
+            "name": "Sea's Fury",
+            "description": {
+                "general": [
+                    "Each volley has a 15% chance to deal 100% Flooding Damage as Severe Damage. Every 5 hits increases this chance by 15%, up to 75%. If the target is Flooded, deal 200% Flooding Damage as Severe Damage instead"
+                ]
+            }
+        },
+        "rottingAmmo": {
+            "name": "Rotting Ammo",
+            "description": {
+                "general": [
+                    "For every 50m away the target is, deal 10% more Toxic Damage up to 100%. If target receives 5000 Toxic Damage while Poisoned, trigger a Toxic explosion dealing 40% of the weapon's damage as Toxic Damage to enemies within 150m. This effect has a cooldown of 60s"
+                ]
+            }
+        },
+        "burningThirst": {
+            "name": "Burning Thirst",
+            "description": {
+                "general": [
+                    "Trigger an explosion when the target is either Ablaze or Flooded. Burning Thirst's explosion deals 1000 Flooding Damage and an additional 20% weapon damage as Flooding Damage per hit. Consecutive hits increase this bonus up to 500%. This effect cannot trigger again for 30s"
+                ]
+            }
+        },
+        "sinkingImpale": {
+            "name": "Sinking Impale",
+            "description": {
+                "general": [
+                    "This weapon can be charged up to pierce through enemies, dealing damage as it pierces. Hits on a target have a 10% chance to instantly apply the Flooded status effect to them. Flooded targets take 3% more weapon damage per hit, up to 12%, from this weapon"
+                ]
+            }
+        },
+        "burningArtillery": {
+            "name": "Burning Artillery",
+            "description": {
+                "general": [
+                    "Fires a volley of 15 heavy rockets instead of many smaller rockets. Each hit reduces the target's Fire Mitigation by 1.5%, up to 22.5%, if the target is Ablaze, lasting for the duration of the status"
+                ]
+            }
+        },
+        "infernalSeas": {
+            "name": "Infernal Seas",
+            "description": {
+                "general": [
+                    "On attaining max stacks of Inferno, the next weapon hit on an enemy target will trigger a fiery explosion dealing 200% of your Weapon Damage as Fire damage in 150m radius. Effect has a 20 seconds cooldown"
+                ]
+            }
+        },
+        "junkUpgrade": {
+            "description": {
+                "1": [
+                    "Increases Hull Health to 88400",
+                    "Increases Brace Strength to 17680"
+                ],
+                "2": [
+                    "Increases Cargo to 190000"
+                ],
+                "3": [
+                    "Increases Base Ship Rank to 6",
+                    "Increases Top Speed to 12kn",
+                    "Increases Trimming Speed to 16kn",
+                    "Adds 'Deep Blue' perk"
+                ],
+                "4": [
+                    "Increases Hull Health to 90950",
+                    "Increases Brace Strength to 18190"
+                ],
+                "5": [
+                    "Increases Base Ship Rank to 7",
+                    "Increases Furniture Slots to 6"
+                ],
+                "6": [
+                    "Increases Base Ship Rank to 8",
+                    "Increases Brace Strength Recovery by 12.5%",
+                    "Adds 'Infernal Seas' perk"
+                ],
+                "7": [
+                    "Increases Base Ship Rank to 9",
+                    "Increases Hull Health to 104593",
+                    "Increases Brace Strength to 20919",
+                    "Increases Brace Strength Recovery by 25%"
                 ]
             }
         }

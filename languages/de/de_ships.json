@@ -113,6 +113,12 @@
             "description": {
                 "general": "Eine Schiffsneuschmiedung, um sich in Nahkampfgemezeln hervorzutun. Ursprünglich aus Spanien stammend ist die Galeone bei Piraten und Kompanien gleichermaßen begehrt. Und sie wird nur von den mutigsten Kaptn's kommandiert."
             }
+        },
+        "junk": {
+            "name": "Junk",
+            "description": {
+                "general": "A ship forged by flame, excelling at Weapon Damage and boasting a Quick Reload Time. This powder keg was reforged from ruin by the pirates of Telok Penjarah, every shot reducing the target's Armor and Fire Resistance before the final barrage."
+            }
         }
     }
 }
