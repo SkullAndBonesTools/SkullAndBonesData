@@ -22293,7 +22293,7 @@
         "flagonsUp": {
             "name": "Flagons Up",
             "description": {
-                "general": "\"Raise yer cup to chaos, matey.\""
+                "general": "\"Rum in me belly, mischief in me bones.\""
             }
         },
         "gildcoinTricorne": {
@@ -24280,6 +24280,42 @@
             "name": "Edict of Flames",
             "description": {
                 "general": "\"I never negotiate, Captain.\""
+            }
+        },
+        "mossyGravewood": {
+            "name": "Mossy Gravewood",
+            "description": {
+                "general": "Bark nourished by countless corpses"
+            }
+        },
+        "rotbreath": {
+            "name": "Rotbreath",
+            "description": {
+                "general": "A cloud of mold to rot your foes to the bone"
+            }
+        },
+        "maraudersGash": {
+            "name": "Marauder's Gash",
+            "description": {
+                "general": "Quick and quiet as poison ivy"
+            }
+        },
+        "nooseOfThorns": {
+            "name": "Noose of Thorns",
+            "description": {
+                "general": "\"Welcome to my jungle, mate -- shame you won't see the dawn.\""
+            }
+        },
+        "leviathansWrath": {
+            "name": "Zorn des Leviathans",
+            "description": {
+                "general": "Die Tiefen fordern, was ihnen gebührt."
+            }
+        },
+        "boomingFortunes": {
+            "name": "Donnerndes Glück",
+            "description": {
+                "general": "Nur hier wegen der Beute."
             }
         }
     }

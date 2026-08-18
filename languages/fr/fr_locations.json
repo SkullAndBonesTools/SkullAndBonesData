@@ -365,6 +365,7 @@
         "twitchDropY3S2Preview": "Twitch Drop during the Y3S2 Preview (The Deck) livestream",
         "entrepreneurHardheadJoe": "Entrepreneur Hardhead Joe",
         "williamBlackwoodAbyssalStore": "Is/was purchasable in William Blackwood's abyssal store",
-        "worldEventReward": "Possible reward from the world event(s)"
+        "worldEventReward": "Possible reward from the world event(s)",
+        "twitchDropYear3Season2": "Twitch Drops at the start of {{crimsonWaters}}"
     }
 }

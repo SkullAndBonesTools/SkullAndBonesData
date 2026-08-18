@@ -273,12 +273,12 @@
             "description": "Erhalte %s Ruhm in Jahr 3 Saison 1."
         },
         "claimToFameY3S2": {
-            "name": "Claim to Fame (Y3S2)",
-            "description": "Gain %s Infamy in Year 3 Season 2"
+            "name": "Berühmtheit (J3S2)",
+            "description": "Erhalte %s Ruhm in Jahr 3 Saison 2 durch Aktivitäten im Spiel."
         },
         "shatteredSeas": {
-            "name": "Shattered Seas",
-            "description": "Complete the Kraken, The Drowning Plague (Mythic La Peste) and The Great Shadow (Mythic Vikram Rajan) world events."
+            "name": "Zerschmetterte See",
+            "description": "Schließe die Weltereignisse Kraken, Ertrinkende Plage (Mythischer La Peste) und Der Große Schatten (Mythischer Vikram Rajan) ab."
         }
     }
 }
