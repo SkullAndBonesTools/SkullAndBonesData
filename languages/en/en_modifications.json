@@ -578,6 +578,17 @@
         "fatalStrike": {
             "name": "Fatal Strike",
             "description": "Deals additional %s-%s Toxic Damage when ramming a target. Reduces its Toxic Resistance by 30% for 10 seconds"
+        },
+        "phantomRound": {
+            "name": "Phantom Round",
+            "description": "%s-%s% chance per shot to fire additional projectiles"
+        },
+        "perforate": {
+            "name": "Perforate",
+            "description": [
+                "On hitting a Weakpoint, gain Perforate for 10 seconds",
+                "While Perforate is active, projectiles fired from weapons with the Perforate mod pierce through targets, dealing %s-%s% damage up to 3 enemy behind"
+            ]
         }
     }
 }

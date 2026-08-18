@@ -3236,6 +3236,127 @@
             "description": {
                 "general": "An opulent chest which may contain cosmetics from The Bohemian Set and Jade Prowler Set."
             }
+        },
+        "cheese": {
+            "name": "Cheese",
+            "description": {
+                "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
+            }
+        },
+        "infernalArtificersBench": {
+            "name": "Infernal Artificer's Bench",
+            "description": {
+                "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+            }
+        },
+        "hellshotSmithy": {
+            "name": "Hellshot Smithy",
+            "description": {
+                "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+            }
+        },
+        "stElmosChains": {
+            "name": "St. Elmo's Chains",
+            "description": {
+                "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+            }
+        },
+        "pyroclasm": {
+            "name": "Pyroclasm",
+            "description": {
+                "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+            }
+        },
+        "leDrac": {
+            "name": "Le Drac",
+            "description": {
+                "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+            }
+        },
+        "scorchSong": {
+            "name": "Scorch Song",
+            "description": {
+                "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+            }
+        },
+        "drowningHellion": {
+            "name": "Drowning Hellion",
+            "description": {
+                "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+            }
+        },
+        "anathema": {
+            "name": "Anathema",
+            "description": {
+                "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+            }
+        },
+        "drakonsJaws": {
+            "name": "Drakon's Jaws",
+            "description": {
+                "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+            }
+        },
+        "clawsOfTheDeep": {
+            "name": "Claws of the Deep",
+            "description": {
+                "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+            }
+        },
+        "hellfire": {
+            "name": "Hellfire",
+            "description": {
+                "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+            }
+        },
+        "junkUpgrade": {
+            "name": "Junk Upgrade",
+            "description": {
+                "general": "Ship upgrade for the Junk.",
+                "1": "Upgrades the ship level from 0 to 1.",
+                "2": "Upgrades the ship level from 1 to 2.",
+                "3": "Upgrades the ship level from 2 to 3.",
+                "4": "Upgrades the ship level from 3 to 4.",
+                "5": "Upgrades the ship level from 4 to 5.",
+                "6": "Upgrades the ship level from 5 to 6.",
+                "7": "Upgrades the ship level from 6 to 7."
+            }
+        },
+        "ascendedDrakonsJawsChest": {
+            "name": "Ascended Drakon's Jaws Chest",
+            "description": {
+                "general": "Contains an Ascended Drakon's Jaws"
+            }
+        },
+        "dredgedArmoryCache": {
+            "name": "Dredged Armory Cache",
+            "description": {
+                "general": "A cached dredged from the depths with various weapons including ascended weapons"
+            }
+        },
+        "abyssalCache": {
+            "name": "Abyssal Cache",
+            "description": {
+                "general": "Contains Weapons with Chance for Basic Adept Mods"
+            }
+        },
+        "adeptCannonStrongbox": {
+            "name": "Adept Cannon Strongbox",
+            "description": {
+                "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+            }
+        },
+        "maelstromCannonStrongbox": {
+            "name": "Maelstrom Cannon Strongbox",
+            "description": {
+                "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+            }
+        },
+        "maelstromBallistaStrongbox": {
+            "name": "Maelstrom Ballista Strongbox",
+            "description": {
+                "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+            }
         }
     }
 }
