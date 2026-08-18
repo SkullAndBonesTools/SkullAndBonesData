@@ -35532,5 +35532,13 @@
         "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "boomingFortunes": {
+        "id": "boomingFortunes",
+        "type": "firework",
+        "season": "crimsonWaters",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

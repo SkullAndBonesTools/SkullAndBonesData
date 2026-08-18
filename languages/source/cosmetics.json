@@ -24311,6 +24311,12 @@
             "description": {
                 "general": "The deep shall claim its dues"
             }
+        },
+        "boomingFortunes": {
+            "name": "Booming Fortunes",
+            "description": {
+                "general": "In it for the loot"
+            }
         }
     }
 }
