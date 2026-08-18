@@ -65,6 +65,9 @@
         },
         "weepingSpecters": {
             "name": "Klagende Schemen"
+        },
+        "abyssalFleet": {
+            "name": "Abyssal Fleet"
         }
     }
 }
