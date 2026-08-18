@@ -35522,5 +35522,15 @@
         "obtainable": [["twitchDrop","twitchDropYear3Season2"]],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "leviathansWrath": {
+        "id": "leviathansWrath",
+        "type": "figureHead",
+        "season": "crimsonWaters",
+        "set": "dragonblood",
+        "effect": "emissive",
+        "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBoatload"]],
+        "dateAdded": "2026-08-18",
+        "lastUpdated": "2026-08-18"
     }
 }

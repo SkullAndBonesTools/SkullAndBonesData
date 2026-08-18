@@ -24305,6 +24305,12 @@
             "description": {
                 "general": "\"Welcome to my jungle, mate -- shame you won't see the dawn.\""
             }
+        },
+        "leviathansWrath": {
+            "name": "Leviathan's Wrath",
+            "description": {
+                "general": "The deep shall claim its dues"
+            }
         }
     }
 }
