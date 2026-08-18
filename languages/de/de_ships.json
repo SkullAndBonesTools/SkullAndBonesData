@@ -115,9 +115,9 @@
             }
         },
         "junk": {
-            "name": "Junk",
+            "name": "Dschunke",
             "description": {
-                "general": "A ship forged by flame, excelling at Weapon Damage and boasting a Quick Reload Time. This powder keg was reforged from ruin by the pirates of Telok Penjarah, every shot reducing the target's Armor and Fire Resistance before the final barrage."
+                "general": "Ein aus Flammen geschmiedetes Schiff, das sich durch Waffenschaden auszeichnet und eine schnelle Nachladezeit aufweist. Dieses wahre Pulverfass wurde von den Piraten von Telok Penjarah aus den Trümmern neu gefertigt; jeder Schuss verringert die Panzerung und Feuerresistenz des Ziels vor dem finalen Sperrfeuer."
             }
         }
     }

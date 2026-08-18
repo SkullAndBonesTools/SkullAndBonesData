@@ -61,8 +61,8 @@
             "description": "Besiege Elite-Kriegsschiffe und sammle Event-Punkte, um im Event-Pass Belohnungen freizuschalten."
         },
         "abyssalEssence": {
-            "name": "Abyssal Essence",
-            "description": "An unknown substance with the appearance of liquid ruby. Rumored to be linked  to the Philosopher's Stone of legends. Some claim that it moves like it is alive."
+            "name": "Abgrundtiefe Essenz",
+            "description": "Eine unbekannte Substanz, die wie flüssiger Rubin anmutet. Sie soll mit dem legendären Stein der Weisen in Verbindung stehen. Einige sagen, sie bewege sich, als ob sie lebendig wäre."
         },
         "coconut": {
             "name": "Kokosnuss",
@@ -633,11 +633,11 @@
             "description": ""
         },
         "nightshadePearl": {
-            "name": "Nightshade Pearl",
-            "description": "A dark and mysterious pearl that comes from various dubious sources ranging from something that is being harvested from the Kraken to being highly sought after in underground trades involving lots of powerful figures."
+            "name": "Nachtschattenperle",
+            "description": "Eine dunkle und geheimnisvolle Perle, deren Herkunft unergründlich und dubios ist: Sie könnte sowohl vom Kraken gewonnen werden als auch eine heißbegehrte Ware im Untergrundhandel sein, an dem viele einflussreiche Persönlichkeiten beteiligt sind."
         },
         "ascensionFlux": {
-            "name": "Ascension Flux",
+            "name": "Aufstiegsfluss",
             "description": ""
         }
     }
