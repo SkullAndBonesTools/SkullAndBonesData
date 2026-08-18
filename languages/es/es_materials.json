@@ -60,6 +60,10 @@
             "name": "Event Pass Points",
             "description": "Accumulate event points by defeating Elite Warships from this event to unlock rewards in the Event Pass."
         },
+        "abyssalEssence": {
+            "name": "Abyssal Essence",
+            "description": "An unknown substance with the appearance of liquid ruby. Rumored to be linked  to the Philosopher's Stone of legends. Some claim that it moves like it is alive."
+        },
         "coconut": {
             "name": "Coco",
             "description": "Alimento esencial en una isla desierta"
@@ -631,6 +635,10 @@
         "nightshadePearl": {
             "name": "Nightshade Pearl",
             "description": "A dark and mysterious pearl that comes from various dubious sources ranging from something that is being harvested from the Kraken to being highly sought after in underground trades involving lots of powerful figures."
+        },
+        "ascensionFlux": {
+            "name": "Ascension Flux",
+            "description": ""
         }
     }
 }
