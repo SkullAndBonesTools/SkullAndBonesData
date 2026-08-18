@@ -139,25 +139,25 @@ import ultimates from '../languages/source/ultimates.json';
 import worldEvents from '../languages/source/worldEvents.json';
 
 type LanguageData = {
-    achievements: typeof achievements.achievements;
-    commodities: typeof commodities.commodities;
-    contracts: typeof contracts.contracts;
-    cosmetics: typeof cosmetics.cosmetics;
-    events: typeof events.events;
-    factions: typeof factions.factions;
-    items: typeof items.items;
-    locations: { [key in keyof typeof locations.locations]: string };
-    materials: typeof materials.materials;
-    modifications: typeof modifications.modifications;
-    modificationVariants: typeof modifications.modificationVariants;
-    regions: typeof regions.regions;
-    perks: typeof perks.perks;
-    seasons: typeof seasons.seasons;
-    sets: typeof sets.sets;
-    ships: typeof ships.ships;
-    territories: typeof territories.territories;
-    ultimates: typeof ultimates.ultimates;
-    worldEvents: typeof worldEvents.worldEvents;
+    achievements: typeof en_achievements.achievements;
+    commodities: typeof en_commodities.commodities;
+    contracts: typeof en_contracts.contracts;
+    cosmetics: typeof en_cosmetics.cosmetics;
+    events: typeof en_events.events;
+    factions: typeof en_factions.factions;
+    items: typeof en_items.items;
+    locations: { [key in keyof typeof en_locations.locations]: string };
+    materials: typeof en_materials.materials;
+    modifications: typeof en_modifications.modifications;
+    modificationVariants: typeof en_modifications.modificationVariants;
+    regions: typeof en_regions.regions;
+    perks: typeof en_perks.perks;
+    seasons: typeof en_seasons.seasons;
+    sets: typeof en_sets.sets;
+    ships: typeof en_ships.ships;
+    territories: typeof en_territories.territories;
+    ultimates: typeof en_ultimates.ultimates;
+    worldEvents: typeof en_worldEvents.worldEvents;
 };
 
 type LanguagesType = {

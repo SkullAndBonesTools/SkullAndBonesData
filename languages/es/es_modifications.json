@@ -1,4 +1,12 @@
 {
+    "modificationVariants": {
+        "default": {
+            "prefix": ""
+        },
+        "adept": {
+            "prefix": "Adept "
+        }
+    },
     "modifications": {
         "direPiercing": {
             "name": "Perforación terrible",
