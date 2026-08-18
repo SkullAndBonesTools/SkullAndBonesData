@@ -335,12 +335,13 @@
         "id": "courtlyClamshell",
         "type": "crowsNest",
         "set": "ashenLady",
+        "effect": "emissive",
         "required": {
             "piecesOfEight": 1000
         },
         "obtainable": "theHelm",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-08-18"
     },
     "backYouDevils": {
         "id": "backYouDevils",
@@ -478,13 +479,13 @@
         "id": "sirensSoul",
         "type": "trophy",
         "set": "ashenLady",
-        "effect": "combatReactive",
+        "effect": ["emissive","combatReactive"],
         "required": {
             "piecesOfEight": 750
         },
         "obtainable": "theHelm",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-08-18"
     },
     "spearsOfGold": {
         "id": "spearsOfGold",
@@ -884,12 +885,13 @@
         "id": "aDreadfulTurn",
         "type": "wheel",
         "set": "ashenLady",
+        "effect": "emissive",
         "required": {
             "piecesOfEight": 750
         },
         "obtainable": "theHelm",
         "dateAdded": "2024-03-16",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-08-18"
     },
     "clansHelm": {
         "id": "clansHelm",
@@ -1155,12 +1157,13 @@
         "id": "flintsGaze",
         "type": "ornaments",
         "set": "ashenLady",
+        "effect": "emissive",
         "required": {
             "piecesOfEight": 1500
         },
         "obtainable": "theHelm",
         "dateAdded": "2024-03-17",
-        "lastUpdated": "2024-06-22"
+        "lastUpdated": "2026-08-18"
     },
     "theElderVane": {
         "id": "theElderVane",
