@@ -118,25 +118,46 @@ import zh_territories from '../languages/zh/zh_territories.json';
 import zh_ultimates from '../languages/zh/zh_ultimates.json';
 import zh_worldEvents from '../languages/zh/zh_worldEvents.json';
 
+// Source
+import achievements from '../languages/source/achievements.json';
+import commodities from '../languages/source/commodities.json';
+import contracts from '../languages/source/contracts.json';
+import cosmetics from '../languages/source/cosmetics.json';
+import events from '../languages/source/events.json';
+import factions from '../languages/source/factions.json';
+import items from '../languages/source/items.json';
+import locations from '../languages/source/locations.json';
+import materials from '../languages/source/materials.json';
+import modifications from '../languages/source/modifications.json';
+import regions from '../languages/source/regions.json';
+import perks from '../languages/source/perks.json';
+import seasons from '../languages/source/seasons.json';
+import sets from '../languages/source/sets.json';
+import ships from '../languages/source/ships.json';
+import territories from '../languages/source/territories.json';
+import ultimates from '../languages/source/ultimates.json';
+import worldEvents from '../languages/source/worldEvents.json';
+
 type LanguageData = {
-    achievements: typeof en_achievements.achievements;
-    commodities: typeof en_commodities.commodities;
-    contracts: typeof en_contracts.contracts;
-    cosmetics: typeof en_cosmetics.cosmetics;
-    events: typeof en_events.events;
-    factions: typeof en_factions.factions;
-    items: typeof en_items.items;
-    locations: { [key in keyof typeof en_locations.locations]: string };
-    materials: typeof en_materials.materials;
-    modifications: typeof en_modifications.modifications;
-    regions: typeof en_regions.regions;
-    perks: typeof en_perks.perks;
-    seasons: typeof en_seasons.seasons;
-    sets: typeof en_sets.sets;
-    ships: typeof en_ships.ships;
-    territories: typeof en_territories.territories;
-    ultimates: typeof en_ultimates.ultimates;
-    worldEvents: typeof en_worldEvents.worldEvents;
+    achievements: typeof achievements.achievements;
+    commodities: typeof commodities.commodities;
+    contracts: typeof contracts.contracts;
+    cosmetics: typeof cosmetics.cosmetics;
+    events: typeof events.events;
+    factions: typeof factions.factions;
+    items: typeof items.items;
+    locations: { [key in keyof typeof locations.locations]: string };
+    materials: typeof materials.materials;
+    modifications: typeof modifications.modifications;
+    modificationVariants: typeof modifications.modificationVariants;
+    regions: typeof regions.regions;
+    perks: typeof perks.perks;
+    seasons: typeof seasons.seasons;
+    sets: typeof sets.sets;
+    ships: typeof ships.ships;
+    territories: typeof territories.territories;
+    ultimates: typeof ultimates.ultimates;
+    worldEvents: typeof worldEvents.worldEvents;
 };
 
 type LanguagesType = {
@@ -178,6 +199,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(ar_locations, ar_seasons),
         materials: ar_materials.materials,
         modifications: ar_modifications.modifications,
+        modificationVariants: ar_modifications.modificationVariants,
         regions: ar_regions.regions,
         perks: ar_perks.perks,
         seasons: ar_seasons.seasons,
@@ -198,6 +220,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(de_locations, de_seasons),
         materials: de_materials.materials,
         modifications: de_modifications.modifications,
+        modificationVariants: de_modifications.modificationVariants,
         regions: de_regions.regions,
         perks: de_perks.perks,
         seasons: de_seasons.seasons,
@@ -218,6 +241,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(en_locations, en_seasons),
         materials: en_materials.materials,
         modifications: en_modifications.modifications,
+        modificationVariants: en_modifications.modificationVariants,
         regions: en_regions.regions,
         perks: en_perks.perks,
         seasons: en_seasons.seasons,
@@ -238,6 +262,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(es_locations, es_seasons),
         materials: es_materials.materials,
         modifications: es_modifications.modifications,
+        modificationVariants: es_modifications.modificationVariants,
         regions: es_regions.regions,
         perks: es_perks.perks,
         seasons: es_seasons.seasons,
@@ -258,6 +283,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(fr_locations, fr_seasons),
         materials: fr_materials.materials,
         modifications: fr_modifications.modifications,
+        modificationVariants: fr_modifications.modificationVariants,
         regions: fr_regions.regions,
         perks: fr_perks.perks,
         seasons: fr_seasons.seasons,
@@ -278,6 +304,7 @@ export const Languages: LanguagesType = {
         locations: preprocessLocations(zh_locations, zh_seasons),
         materials: zh_materials.materials,
         modifications: zh_modifications.modifications,
+        modificationVariants: zh_modifications.modificationVariants,
         regions: zh_regions.regions,
         perks: zh_perks.perks,
         seasons: zh_seasons.seasons,
