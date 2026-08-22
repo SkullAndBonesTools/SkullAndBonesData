@@ -35543,5 +35543,41 @@
         "obtainable": [["ubisoftStoreSeasonalPack","ubisoftStoreSeasonalBox"]],
         "dateAdded": "2026-08-18",
         "lastUpdated": "2026-08-18"
+    },
+    "northStarSP": {
+        "id": "northStarSP",
+        "type": "sailsPattern",
+        "season": "shatteredSeas",
+        "set": "rebelRaider",
+        "obtainable": "galleonPhotomodeContestReward",
+        "dateAdded": "2026-08-22",
+        "lastUpdated": "2026-08-22"
+    },
+    "roguewine": {
+        "id": "roguewine",
+        "type": "hull",
+        "season": "shatteredSeas",
+        "set": "rebelRaider",
+        "obtainable": "galleonPhotomodeContestReward",
+        "dateAdded": "2026-08-22",
+        "lastUpdated": "2026-08-22"
+    },
+    "horizonHunter": {
+        "id": "horizonHunter",
+        "type": "sailsEmblem",
+        "season": "shatteredSeas",
+        "set": "rebelRaider",
+        "obtainable": "galleonPhotomodeContestReward",
+        "dateAdded": "2026-08-22",
+        "lastUpdated": "2026-08-22"
+    },
+    "recklessWinds": {
+        "id": "recklessWinds",
+        "type": "sailsColor",
+        "season": "shatteredSeas",
+        "set": "rebelRaider",
+        "obtainable": "galleonPhotomodeContestReward",
+        "dateAdded": "2026-08-22",
+        "lastUpdated": "2026-08-22"
     }
 }

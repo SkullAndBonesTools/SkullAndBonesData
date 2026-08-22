@@ -1911,5 +1911,9 @@
     "rootsOfRuin": {
         "id": "rootsOfRuin",
         "type": "ship"
+    },
+    "rebelRaider": {
+        "id": "rebelRaider",
+        "type": "ship"
     }
 }
