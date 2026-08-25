@@ -35579,5 +35579,12 @@
         "obtainable": "galleonPhotomodeContestReward",
         "dateAdded": "2026-08-22",
         "lastUpdated": "2026-08-22"
+    },
+    "pyromane": {
+        "id": "pyromane",
+        "type": "firework",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-08-25",
+        "lastUpdated": "2026-08-25"
     }
 }

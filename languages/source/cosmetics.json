@@ -24341,6 +24341,12 @@
             "description": {
                 "general": "Shines brighter than a raider's coin"
             }
+        },
+        "pyromane": {
+            "name": "Pyromane",
+            "description": {
+                "general": "Ignite a wildfire"
+            }
         }
     }
 }
