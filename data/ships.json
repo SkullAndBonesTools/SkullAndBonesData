@@ -1049,11 +1049,11 @@
                 "lower": 8
             }],
             "aftWeapon": [1,{
-                "top": 2
-            }],
-            "auxiliaryWeapon": [1,{
                 "top": 2,
                 "lower": 2
+            }],
+            "auxiliaryWeapon": [1,{
+                "top": 2
             }],
             "furniture": [5,1],
             "ultimate": [1,1]
