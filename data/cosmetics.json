@@ -34657,11 +34657,12 @@
     "emberwinds": {
         "id": "emberwinds",
         "type": "aura",
+        "effect": "combatReactive",
         "event": "darktideLullaby",
         "season": "crimsonWaters",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-08-29"
     },
     "flairewraith": {
         "id": "flairewraith",
