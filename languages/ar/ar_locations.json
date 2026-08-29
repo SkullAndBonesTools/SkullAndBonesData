@@ -366,6 +366,7 @@
         "entrepreneurHardheadJoe": "Entrepreneur Hardhead Joe",
         "williamBlackwoodAbyssalStore": "Is/was purchasable in William Blackwood's abyssal store",
         "worldEventReward": "Possible reward from the world event(s)",
-        "twitchDropYear3Season2": "Twitch Drops at the start of {{crimsonWaters}}"
+        "twitchDropYear3Season2": "Twitch Drops at the start of {{crimsonWaters}}",
+        "galleonPhotomodeContestReward": "Reward for the top 10 community-voted submissions of the Galleon Photomode Contest"
     }
 }

@@ -24317,6 +24317,36 @@
             "description": {
                 "general": "Nur hier wegen der Beute."
             }
+        },
+        "northStarSP": {
+            "name": "North Star",
+            "description": {
+                "general": "Like the needle of a compass, a mark to guide your way"
+            }
+        },
+        "roguewine": {
+            "name": "Roguewine",
+            "description": {
+                "general": "The color of fine wine and restless rebellion"
+            }
+        },
+        "horizonHunter": {
+            "name": "Horizon Hunter",
+            "description": {
+                "general": "For those truly happy at the world's edge"
+            }
+        },
+        "recklessWinds": {
+            "name": "Reckless Winds",
+            "description": {
+                "general": "Shines brighter than a raider's coin"
+            }
+        },
+        "pyromane": {
+            "name": "Pyromane",
+            "description": {
+                "general": "Ignite a wildfire"
+            }
         }
     }
 }
