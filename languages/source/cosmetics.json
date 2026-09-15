@@ -24377,6 +24377,12 @@
             "description": {
                 "general": "Seize every gust to sail to glory"
             }
+        },
+        "stormlash": {
+            "name": "Stormlash",
+            "description": {
+                "general": "One strike ends all"
+            }
         }
     }
 }

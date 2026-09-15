@@ -35640,5 +35640,13 @@
         "obtainable": [["twitchDrop","twitchDropRequiemOfTheLostY3S2"]],
         "dateAdded": "2026-09-15",
         "lastUpdated": "2026-09-15"
+    },
+    "stormlash": {
+        "id": "stormlash",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "obtainable": [["twitchDrop","twitchDropPlatinumGodGames"]],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
     }
 }
