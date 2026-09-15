@@ -168,7 +168,8 @@
     "gloryAdorned": {
         "id": "gloryAdorned",
         "type": "convoy",
-        "faction": "dominionOfRempah"
+        "faction": "dominionOfRempah",
+        "event": "gloryAdorned"
     },
     "theHonorlessMizerja": {
         "id": "theHonorlessMizerja",
@@ -398,5 +399,16 @@
         "id": "heraldsOfTheAbyss",
         "type": "warfleet",
         "faction": "abyssalFleet"
+    },
+    "abyssalEnvoy": {
+        "id": "abyssalEnvoy",
+        "type": "eliteWarship",
+        "faction": "abyssalFleet"
+    },
+    "gloryAdornedResynced": {
+        "id": "gloryAdornedResynced",
+        "type": "convoy",
+        "faction": "pirates",
+        "event": "gloryAdorned"
     }
 }
