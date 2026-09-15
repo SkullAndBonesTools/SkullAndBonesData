@@ -3357,6 +3357,12 @@
             "description": {
                 "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
             }
+        },
+        "blackFlagCosmeticsChest": {
+            "name": "Black Flag Cosmetics Chest",
+            "description": {
+                "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
+            }
         }
     }
 }

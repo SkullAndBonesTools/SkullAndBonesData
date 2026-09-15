@@ -1,15 +1,59 @@
 {
     "seasons": {
-        "release": "0 - Jeu de Base",
-        "ragingTides": "1 - Marées déchaînées",
-        "chorusOfHavoc": "2 - Chorus du Chaos",
-        "intoTheDragonsWake": "3 - Dans le sillage du Dragon",
-        "shadowsOfTheDeep": "4 - Ombres des Profondeurs",
-        "ascentIntoChaos": "Y2S1 - Ascent into Chaos",
-        "oathsOfWar": "Y2S2 - Oaths of War",
-        "gutsAndGlory": "Y2S3 - Guts and Glory",
-        "eyeOfTheBeast": "Y2S4 - Eye of the Beast",
-        "shatteredSeas": "Y3S1 - Shattered Seas",
-        "crimsonWaters": "Y3S2 - Crimson Waters"
+        "release": {
+            "name": "Release",
+            "shortName": "Y1S0",
+            "fullName": "Y1S0 - Release"
+        },
+        "ragingTides": {
+            "name": "Raging Tides",
+            "shortName": "Y1S1",
+            "fullName": "Y1S1 - Raging Tides"
+        },
+        "chorusOfHavoc": {
+            "name": "Chorus of Havoc",
+            "shortName": "Y1S2",
+            "fullName": "Y1S2 - Chorus of Havoc"
+        },
+        "intoTheDragonsWake": {
+            "name": "Into the Dragon's Wake",
+            "shortName": "Y1S3",
+            "fullName": "Y1S3 - Into the Dragon's Wake"
+        },
+        "shadowsOfTheDeep": {
+            "name": "Shadows of the Deep",
+            "shortName": "Y1S4",
+            "fullName": "Y1S4 - Shadows of the Deep"
+        },
+        "ascentIntoChaos": {
+            "name": "Ascent into Chaos",
+            "shortName": "Y2S1",
+            "fullName": "Y2S1 - Ascent into Chaos"
+        },
+        "oathsOfWar": {
+            "name": "Oaths of War",
+            "shortName": "Y2S2",
+            "fullName": "Y2S2 - Oaths of War"
+        },
+        "gutsAndGlory": {
+            "name": "Guts and Glory",
+            "shortName": "Y2S3",
+            "fullName": "Y2S3 - Guts and Glory"
+        },
+        "eyeOfTheBeast": {
+            "name": "Eye of the Beast",
+            "shortName": "Y2S4",
+            "fullName": "Y2S4 - Eye of the Beast"
+        },
+        "shatteredSeas": {
+            "name": "Shattered Seas",
+            "shortName": "Y3S1",
+            "fullName": "Y3S1 - Shattered Seas"
+        },
+        "crimsonWaters": {
+            "name": "Crimson Waters",
+            "shortName": "Y3S2",
+            "fullName": "Y3S2 - Crimson Waters"
+        }
     }
 }

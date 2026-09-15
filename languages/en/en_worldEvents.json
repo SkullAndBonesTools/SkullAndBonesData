@@ -1,84 +1,268 @@
 {
     "worldEvents": {
-        "anguishFromTheAbyss": "Anguish from the Abyss",
-        "tidesOfTerror": "Tides of Terror",
-        "theMizerja": "The Mizerja",
-        "theOpwelling": "The Opwelling",
-        "thePlagueKing": "The Plague King (La Peste Domain)",
-        "caperingTheCape": "Capering the Cape",
-        "anAllianceOfConvenience": "An Alliance of Convenience",
-        "theRempahResupply": "The Rempah Resupply",
-        "guidedByGuile": "Guided by Guile",
-        "symphonieMortelle": "Symphonie Mortelle",
-        "verseOfVengeance": "Verse of Vengeance",
-        "verseOfRemorse": "Verse of Remorse",
-        "riskTheRisingTide": "Risk the Rising Tide",
-        "iceAndEasy": "Ice & Easy",
-        "chorusOfHavoc": "Chorus of Havoc (Hubac Twins Domain)",
-        "divineRetribution": "Divine Retribution",
-        "opulentOpportunity": "Opulent Opportunity",
-        "easternExchange": "Eastern Exchange",
-        "flamesOfTheDragon": "Flames of the Dragon",
-        "theGloriousPhoenix": "The Glorious Phoenix (Li Tian Ning Domain)",
-        "theSerpentsWrath": "The Serpent's Wrath",
-        "flamesOfThePhoenix": "Flames of the Phoenix",
-        "baitAndSwitch": "Bait and Switch",
-        "stolenTreasures": "Stolen Treasures",
-        "curseOfTheSchaduw": "Curse of the Schaduw",
-        "theLoomingShadow": "The Looming Shadow (Vikram Rajan Domain)",
-        "reaversVengeance": "Reaver's Vengeance",
-        "theWolfHunter": "The Wolf Hunter",
-        "theAzureRoyale": "The Azure Royale",
-        "theGreatShadow": "The Great Shadow (Mythic Vikram Rajan)",
-        "undyingMaw": "Undying Maw",
-        "payingDues": "Paying Dues",
-        "scurlocksPrecious": "Scurlock's Precious",
-        "thickAsThieves": "Thick as Thieves",
-        "gloryAdorned": "Glory Adorned",
-        "theHonorlessMizerja": "The Honorless: Mizerja",
-        "theHonorlessDianSinaga": "The Honorless: Dian Sinaga",
-        "theHonorlessAhPak": "The Honorless: Ah Pak",
-        "shadesOfTheRonin": "Shades of the Ronin",
-        "fangsOfTheFara": "Fangs of the Fara",
-        "hunterHunted": "Hunter, Hunted",
-        "watchTheThrone": "Watch the Throne",
-        "aTreacherousTurn": "A Treacherous Turn",
-        "aShowOfStrength": "A Show of Strength",
-        "fromTheDeep": "From the Deep",
-        "profitablePoison": "Profitable Poison",
-        "farReachesForTheFara": "Far Reaches for the Fara",
-        "drownedSorrows": "Drowned Sorrows",
-        "aHushedHold": "A Hushed Hold",
-        "theVanishing": "The Vanishing",
-        "silentDeath": "Silent Death",
-        "convoyOfHighSpirits": "Convoy of High Spirits",
-        "shapesInTheWater": "Shapes in the Water",
-        "spoilsOfWar": "Spoils of War",
-        "aPerilousPathToProfits": "A Perilous Path to Profits",
-        "maladiousMeasures": "Maladious Measures",
-        "colonialShipment": "Colonial Shipment",
-        "apparativeApparitions": "Apparative Apparitions",
-        "violentTendencies": "Violent Tendencies",
-        "aLongMarch": "A Long March",
-        "theManicMoonshinerFleet": "The Manic Moonshiner Fleet",
-        "deadMansMoonshine": "Dead Man's Moonshine",
-        "moonshineMadness": "Moonshine Madness",
-        "bloodDrunk": "Blood Drunk",
-        "theWeepingMother": "The Weeping Mother",
-        "soleilRoyal": "Soleil Royal",
-        "reapItAndWeep": "Reap It & Weep",
-        "reaperOfTheLost": "Reaper of the Lost",
-        "azureHarbinger": "Azure Harbinger",
-        "warCargo": "War Cargo",
-        "warConvoy": "War Convoy",
-        "opstuwing": "Mighty Opwelling",
-        "soleilImperial": "Mighty Soleil Royal",
-        "kraken": "Kraken",
-        "theDrowningPlague": "The Drowning Plague (Mythic La Peste)",
-        "jawsOfRetribution": "Jaws of Retribution",
-        "megafortWolvenhol": "Megafort Wolvenhol",
-        "legendOfTheNian": "Legend of the Nian",
-        "crazedNian": "Crazed Nian",
-        "heraldsOfTheAbyss": "Heralds of the Abyss"
+        "anguishFromTheAbyss": {
+            "name": "Anguish from the Abyss (Rode Maangodin Domain)",
+            "description": "The Maangodin, a vengeful specter trapped in its own torment, returns to spread his anguish upon the seas of the living."
+        },
+        "tidesOfTerror": {
+            "name": "Tides of Terror"
+        },
+        "theMizerja": {
+            "name": "The Mizerja"
+        },
+        "theOpwelling": {
+            "name": "The Opwelling"
+        },
+        "thePlagueKing": {
+            "name": "The Plague King (La Peste Domain)"
+        },
+        "caperingTheCape": {
+            "name": "Capering the Cape"
+        },
+        "anAllianceOfConvenience": {
+            "name": "An Alliance of Convenience"
+        },
+        "theRempahResupply": {
+            "name": "The Rempah Resupply"
+        },
+        "guidedByGuile": {
+            "name": "Guided by Guile"
+        },
+        "symphonieMortelle": {
+            "name": "Symphonie Mortelle"
+        },
+        "verseOfVengeance": {
+            "name": "Verse of Vengeance"
+        },
+        "verseOfRemorse": {
+            "name": "Verse of Remorse"
+        },
+        "riskTheRisingTide": {
+            "name": "Risk the Rising Tide"
+        },
+        "iceAndEasy": {
+            "name": "Ice & Easy"
+        },
+        "chorusOfHavoc": {
+            "name": "Chorus of Havoc (The Hubac Twins Domain)",
+            "description": "The Compagnie's sword and spear, the Hubac Twins, are at the height of their strength. It is time to take the fight to them and halt their advance."
+        },
+        "divineRetribution": {
+            "name": "Divine Retribution"
+        },
+        "opulentOpportunity": {
+            "name": "Opulent Opportunity"
+        },
+        "easternExchange": {
+            "name": "Eastern Exchange"
+        },
+        "flamesOfTheDragon": {
+            "name": "Flames of the Dragon"
+        },
+        "theGloriousPhoenix": {
+            "name": "The Glorious Phoenix (Li Tian Ning Domain)"
+        },
+        "theSerpentsWrath": {
+            "name": "The Serpent's Wrath"
+        },
+        "flamesOfThePhoenix": {
+            "name": "Flames of the Phoenix"
+        },
+        "baitAndSwitch": {
+            "name": "Bait and Switch"
+        },
+        "stolenTreasures": {
+            "name": "Stolen Treasures"
+        },
+        "curseOfTheSchaduw": {
+            "name": "Curse of the Schaduw"
+        },
+        "theLoomingShadow": {
+            "name": "The Looming Shadow (Vikram Rajan Domain)"
+        },
+        "reaversVengeance": {
+            "name": "Reaver's Vengeance (Risen Zamaharibu)"
+        },
+        "theWolfHunter": {
+            "name": "The Wolf Hunter"
+        },
+        "theAzureRoyale": {
+            "name": "The Azure Royale"
+        },
+        "theGreatShadow": {
+            "name": "The Great Shadow (Mythic Vikram Rajan)"
+        },
+        "undyingMaw": {
+            "name": "Undying Maw (Risen Mega Lestari)",
+            "description": "There have been sightings of Lestari in these waters. But something is off about the beast, as though it has been tainted by Vikram's influence."
+        },
+        "payingDues": {
+            "name": "Paying Dues"
+        },
+        "scurlocksPrecious": {
+            "name": "Scurlock's Precious"
+        },
+        "thickAsThieves": {
+            "name": "Thick as Thieves"
+        },
+        "gloryAdorned": {
+            "name": "Glory Adorned"
+        },
+        "theHonorlessMizerja": {
+            "name": "The Honorless: Mizerja"
+        },
+        "theHonorlessDianSinaga": {
+            "name": "The Honorless: Dian Sinaga"
+        },
+        "theHonorlessAhPak": {
+            "name": "The Honorless: Ah Pak"
+        },
+        "shadesOfTheRonin": {
+            "name": "Shades of the Ronin"
+        },
+        "fangsOfTheFara": {
+            "name": "Fangs of the Fara (Tangena Rabe)",
+            "description": "Captain Tangena Rabe is the Fara's latest deadly weapon against their sworn enemy, the Sea People."
+        },
+        "hunterHunted": {
+            "name": "Hunter, Hunted (Joka Kubwa)",
+            "description": "Joka Kubwa, a zealous Ungwanan officer, seeks to scour the coast of all outside influence, be it French or pirate."
+        },
+        "watchTheThrone": {
+            "name": "Watch the Throne (Ah Pak)",
+            "description": "The Eels corsair known as Ah Pak has arrived in the Open Seas to establish himself as the Kingpin of Kingpins. Show him who truly rules the waves."
+        },
+        "aTreacherousTurn": {
+            "name": "A Treacherous Turn (Dian Sinaga)",
+            "description": "Captain Dian Sinaga seeks to betray her Rempah comrades. Turn the tables on the traitor and claim a reward."
+        },
+        "aShowOfStrength": {
+            "name": "A Show of Strength (Dirk Ankeren)",
+            "description": "Incrensed by reports of rebel activity, the DMC has sent Dirk Ankeren, a brutal enforcer, to stake their claim."
+        },
+        "fromTheDeep": {
+            "name": "From the Deep (Kuharibu)",
+            "description": "In the Open Seas, numerous ships have gone missing. Survivors whisper of an \"ancient terror\", something monstrous emerging from the deep, taking ships whole."
+        },
+        "profitablePoison": {
+            "name": "Profitable Poison"
+        },
+        "farReachesForTheFara": {
+            "name": "Far Reaches for the Fara"
+        },
+        "drownedSorrows": {
+            "name": "Drowned Sorrows"
+        },
+        "aHushedHold": {
+            "name": "A Hushed Hold"
+        },
+        "theVanishing": {
+            "name": "The Vanishing (Lestari)",
+            "description": "A massive shark-like creature stalks the seas in search of prey, threatening trade and leaving seafarers terrified"
+        },
+        "silentDeath": {
+            "name": "Silent Death (Mega Lestari Domain)",
+            "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+        },
+        "convoyOfHighSpirits": {
+            "name": "Convoy of High Spirits"
+        },
+        "shapesInTheWater": {
+            "name": "Shapes in the Water"
+        },
+        "spoilsOfWar": {
+            "name": "Spoils of War"
+        },
+        "aPerilousPathToProfits": {
+            "name": "A Perilous Path to Profits"
+        },
+        "maladiousMeasures": {
+            "name": "Maladious Measures"
+        },
+        "colonialShipment": {
+            "name": "Colonial Shipment"
+        },
+        "apparativeApparitions": {
+            "name": "Apparative Apparitions"
+        },
+        "violentTendencies": {
+            "name": "Violent Tendencies"
+        },
+        "aLongMarch": {
+            "name": "A Long March"
+        },
+        "theManicMoonshinerFleet": {
+            "name": "The Manic Moonshiner Fleet"
+        },
+        "deadMansMoonshine": {
+            "name": "Dead Man's Moonshine"
+        },
+        "moonshineMadness": {
+            "name": "Moonshine Madness"
+        },
+        "bloodDrunk": {
+            "name": "Blood Drunk (Galvin Roche)",
+            "description": "Captain Galvin Roche is on a drunken spree of murder and mayhem against the Ungwana. Sober him up with cannon-fire and reap the rewards."
+        },
+        "theWeepingMother": {
+            "name": "The Weeping Mother"
+        },
+        "soleilRoyal": {
+            "name": "Soleil Royal"
+        },
+        "reapItAndWeep": {
+            "name": "Reap It & Weep"
+        },
+        "reaperOfTheLost": {
+            "name": "Reaper of the Lost"
+        },
+        "azureHarbinger": {
+            "name": "Azure Harbinger"
+        },
+        "warCargo": {
+            "name": "War Cargo"
+        },
+        "warConvoy": {
+            "name": "War Convoy"
+        },
+        "opstuwing": {
+            "name": "Mighty Opwelling"
+        },
+        "soleilImperial": {
+            "name": "Mighty Soleil Royal"
+        },
+        "kraken": {
+            "name": "Kraken",
+            "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+        },
+        "theDrowningPlague": {
+            "name": "The Drowning Plague (Mythic La Peste)"
+        },
+        "jawsOfRetribution": {
+            "name": "Jaws of Retribution (Zamaharibu Domain)",
+            "description": "Scores of ships in the region have been decimated by an unknown foe"
+        },
+        "megafortWolvenhol": {
+            "name": "Megafort Wolvenhol",
+            "description": "Band with 5 other Captains to steal a hoard of ascended materials held within the Megafort"
+        },
+        "legendOfTheNian": {
+            "name": "Legend of the Nian"
+        },
+        "crazedNian": {
+            "name": "Crazed Nian"
+        },
+        "heraldsOfTheAbyss": {
+            "name": "Heralds of the Abyss",
+            "description": "Shadows from beyond lurk at the edge of reality. Draw forth the Abyssal Fleet and banish them from this realm."
+        },
+        "abyssalEnvoy": {
+            "name": "Abyssal Envoy",
+            "description": "A ghostly dread that whispers ruin emerges from the splintering tides. A cursed envoy of horrors to come."
+        },
+        "gloryAdornedResynced": {
+            "name": "Glory Adorned: Resynced",
+            "description": "Look out for merchant convoys donning unique Cosmetics. Defeat them and stand to claim those cosmetics for your ship!"
+        }
     }
 }

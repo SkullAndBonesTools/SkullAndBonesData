@@ -1,84 +1,268 @@
 {
     "worldEvents": {
-        "anguishFromTheAbyss": "Leid aus der Tiefe",
-        "tidesOfTerror": "Schreckensflut",
-        "theMizerja": "Die Mizerja",
-        "theOpwelling": "Die Opwelling",
-        "thePlagueKing": "Der Seuchenkönig (La Peste Domäne)",
-        "caperingTheCape": "Auf zum Kap, Käpt'n!",
-        "anAllianceOfConvenience": "Eine Zweckallianz",
-        "theRempahResupply": "Neue Lieferung an die Rempah",
-        "guidedByGuile": "Ein verwegener Plan",
-        "symphonieMortelle": "Symphonie Mortelle",
-        "verseOfVengeance": "Vers der Vergeltung",
-        "verseOfRemorse": "Vers der Reue",
-        "riskTheRisingTide": "Mit der steigenden Flut",
-        "iceAndEasy": "Eiskaltes Entgeld",
-        "chorusOfHavoc": "Triumphales Unheil (Hubac-Zwillinge Domäne)",
-        "divineRetribution": "Göttliche Strafe",
-        "opulentOpportunity": "Günstige Gelegenheit",
-        "easternExchange": "Östlicher Austausch",
-        "flamesOfTheDragon": "Glorreiche Tugend",
-        "theGloriousPhoenix": "Der ruhmreiche Phönix (Li Tian Ning Domäne)",
-        "theSerpentsWrath": "Der Zorn der Schlange",
-        "flamesOfThePhoenix": "Flammen des Phönix",
-        "baitAndSwitch": "Lockvogeltaktik",
-        "stolenTreasures": "Gestohlene Schätze",
-        "curseOfTheSchaduw": "Der Fluch der Schaduw",
-        "theLoomingShadow": "Drohender Schatten (Vikram Rajan Domäne)",
-        "reaversVengeance": "Vergeltung des Plünderers",
-        "theWolfHunter": "Der Wolfsjäger",
-        "theAzureRoyale": "Die Azur Royal",
-        "theGreatShadow": "Der Große Schatten (Mythischer Vikram Rajan)",
-        "undyingMaw": "Unsterblicher Schlund",
-        "payingDues": "Beitragszahlungen",
-        "scurlocksPrecious": "Scurlocks Schatz",
-        "thickAsThieves": "Wie Pech und Schwefel",
-        "gloryAdorned": "Zu Ehren des Ruhms",
-        "theHonorlessMizerja": "Ehrenlos: Mizerja",
-        "theHonorlessDianSinaga": "Ehrenlos: Dian Sinaga",
-        "theHonorlessAhPak": "Ehrenlos: Ah Pak",
-        "shadesOfTheRonin": "Shades of the Ronin",
-        "fangsOfTheFara": "Fangzähne der Fara",
-        "hunterHunted": "Jäger und Gejagte",
-        "watchTheThrone": "Kampf um den Thron",
-        "aTreacherousTurn": "Eine verräterische Abkehr",
-        "aShowOfStrength": "Demonstration von Stärke",
-        "fromTheDeep": "Aus der Tiefe",
-        "profitablePoison": "Profitable Poison",
-        "farReachesForTheFara": "Far Reaches for the Fara",
-        "drownedSorrows": "Ertränkte Sorgen",
-        "aHushedHold": "A Hushed Hold",
-        "theVanishing": "Das Verschwinden",
-        "silentDeath": "Stiller Tod",
-        "convoyOfHighSpirits": "Convoy of High Spirits",
-        "shapesInTheWater": "Formen im Wasser",
-        "spoilsOfWar": "Spoils of War",
-        "aPerilousPathToProfits": "Ein gefährlicher Weg zum Gewinn",
-        "maladiousMeasures": "Tückische Maßnahmen",
-        "colonialShipment": "Koloniale Lieferung",
-        "apparativeApparitions": "Apparative Apparitions",
-        "violentTendencies": "Violent Tendencies",
-        "aLongMarch": "Ein langer Marsch",
-        "theManicMoonshinerFleet": "Die Manische Schwarzbrenner Flotte",
-        "deadMansMoonshine": "Selbstgebrannter des toten Mannes",
-        "moonshineMadness": "Moonshine Madness",
-        "bloodDrunk": "Im Blutrausch",
-        "theWeepingMother": "Die klagende Mutter",
-        "soleilRoyal": "Soleil Royal",
-        "reapItAndWeep": "Blutige Ernte",
-        "reaperOfTheLost": "Schnitter der Verlorenen",
-        "azureHarbinger": "Azurblauer Vorbote",
-        "warCargo": "Kriegsfracht",
-        "warConvoy": "Kriegskonvoi",
-        "opstuwing": "Mächtige Opwelling",
-        "soleilImperial": "Mächtige Soleil Royal",
-        "kraken": "Kraken",
-        "theDrowningPlague": "Ertrinkende Plage (Mythischer La Peste)",
-        "jawsOfRetribution": "Schlund der Vergeltung",
-        "megafortWolvenhol": "Großfestung Wolvenhol",
-        "legendOfTheNian": "Legende des Nian",
-        "crazedNian": "Wirres Nian",
-        "heraldsOfTheAbyss": "Heralds of the Abyss"
+        "anguishFromTheAbyss": {
+            "name": "Leid aus der Tiefe (Rode Maangodin Domäne)",
+            "description": "Die Maangodin ist ein rachsüchtiger Geist, gefangen in ihrer eigenen Qual. Sie ist zurückgekehrt, um den Meeren der Lebenden Leid zu bringen."
+        },
+        "tidesOfTerror": {
+            "name": "Schreckensflut"
+        },
+        "theMizerja": {
+            "name": "Die Mizerja"
+        },
+        "theOpwelling": {
+            "name": "Die Opwelling"
+        },
+        "thePlagueKing": {
+            "name": "Der Seuchenkönig (La Peste Domäne)"
+        },
+        "caperingTheCape": {
+            "name": "Auf zum Kap, Käpt'n!"
+        },
+        "anAllianceOfConvenience": {
+            "name": "Eine Zweckallianz"
+        },
+        "theRempahResupply": {
+            "name": "Neue Lieferung an die Rempah"
+        },
+        "guidedByGuile": {
+            "name": "Ein verwegener Plan"
+        },
+        "symphonieMortelle": {
+            "name": "Symphonie Mortelle"
+        },
+        "verseOfVengeance": {
+            "name": "Vers der Vergeltung"
+        },
+        "verseOfRemorse": {
+            "name": "Vers der Reue"
+        },
+        "riskTheRisingTide": {
+            "name": "Mit der steigenden Flut"
+        },
+        "iceAndEasy": {
+            "name": "Eiskaltes Entgeld"
+        },
+        "chorusOfHavoc": {
+            "name": "Triumphales Unheil (Hubac-Zwillinge Domäne)",
+            "description": "The Compagnie's sword and spear, the Hubac Twins, are at the height of their strength. It is time to take the fight to them and halt their advance."
+        },
+        "divineRetribution": {
+            "name": "Göttliche Strafe"
+        },
+        "opulentOpportunity": {
+            "name": "Günstige Gelegenheit"
+        },
+        "easternExchange": {
+            "name": "Östlicher Austausch"
+        },
+        "flamesOfTheDragon": {
+            "name": "Glorreiche Tugend"
+        },
+        "theGloriousPhoenix": {
+            "name": "Der ruhmreiche Phönix (Li Tian Ning Domäne)"
+        },
+        "theSerpentsWrath": {
+            "name": "Der Zorn der Schlange"
+        },
+        "flamesOfThePhoenix": {
+            "name": "Flammen des Phönix"
+        },
+        "baitAndSwitch": {
+            "name": "Lockvogeltaktik"
+        },
+        "stolenTreasures": {
+            "name": "Gestohlene Schätze"
+        },
+        "curseOfTheSchaduw": {
+            "name": "Der Fluch der Schaduw"
+        },
+        "theLoomingShadow": {
+            "name": "Drohender Schatten (Vikram Rajan Domäne)"
+        },
+        "reaversVengeance": {
+            "name": "Vergeltung des Plünderers (Aufgestiegener Zamaharibu)"
+        },
+        "theWolfHunter": {
+            "name": "Der Wolfsjäger"
+        },
+        "theAzureRoyale": {
+            "name": "Die Azur Royal"
+        },
+        "theGreatShadow": {
+            "name": "Der Große Schatten (Mythischer Vikram Rajan)"
+        },
+        "undyingMaw": {
+            "name": "Unsterblicher Schlund (Aufgestiegener Mega-Lestari)",
+            "description": "In diesen Gewässern ist Lestari gesichtet worden. Doch irgendetwas ist an der Bestie seltsam - ganz so, als wäre sie von Vikrams Einfluss befleckt."
+        },
+        "payingDues": {
+            "name": "Beitragszahlungen"
+        },
+        "scurlocksPrecious": {
+            "name": "Scurlocks Schatz"
+        },
+        "thickAsThieves": {
+            "name": "Wie Pech und Schwefel"
+        },
+        "gloryAdorned": {
+            "name": "Zu Ehren des Ruhms"
+        },
+        "theHonorlessMizerja": {
+            "name": "Ehrenlos: Mizerja"
+        },
+        "theHonorlessDianSinaga": {
+            "name": "Ehrenlos: Dian Sinaga"
+        },
+        "theHonorlessAhPak": {
+            "name": "Ehrenlos: Ah Pak"
+        },
+        "shadesOfTheRonin": {
+            "name": "Shades of the Ronin"
+        },
+        "fangsOfTheFara": {
+            "name": "Fangzähne der Fara (Tangena Rabe)",
+            "description": "Käpt'n Tangena Rabe ist die tödlichste Waffe der Fara gegen ihren Erzfeind, das Seevolk."
+        },
+        "hunterHunted": {
+            "name": "Jäger und Gejagte (Joka Kubwa)",
+            "description": "Der fanatische ungwanische Offizier Joka Kubwa will die Lüste von jeglichem Einfluss von außen säubern, seien es Franzosen oder Piraten."
+        },
+        "watchTheThrone": {
+            "name": "Kampf um den Thron (Ah Pak)",
+            "description": "Ah Pak, ein Korsar der Aale, hat die offene See erreicht, um sich als Oberster der Piratenfürsten zu behaupten. Zeig ihm, wer auf diesen Wellen wirklich das Sagen hat."
+        },
+        "aTreacherousTurn": {
+            "name": "Eine verräterische Abkehr (Dian Sinaga)",
+            "description": "Käpt'n Dian Sinaga will ihr eigenes Volk hintergehen. Dreh den Spieß um und hole dir eine Belohnung."
+        },
+        "aShowOfStrength": {
+            "name": "Demonstration von Stärke (Dirk Ankeren)",
+            "description": "Erzürnt über die Aufständischen entsendet die Handelsgesellschaft den brutalen Vollstrecker Dirk Ankeren."
+        },
+        "fromTheDeep": {
+            "name": "Aus der Tiefe (Kuharibu)",
+            "description": "Auf offener See sind zahlreiche Schiffe verschwunden. Überlebende flüstern von einem \"uralten Schrecken\", etwas Ungeheuerlichem, das aus der Tiefe auftaucht und ganze Schiffe verschlingt."
+        },
+        "profitablePoison": {
+            "name": "Profitable Poison"
+        },
+        "farReachesForTheFara": {
+            "name": "Far Reaches for the Fara"
+        },
+        "drownedSorrows": {
+            "name": "Ertränkte Sorgen"
+        },
+        "aHushedHold": {
+            "name": "A Hushed Hold"
+        },
+        "theVanishing": {
+            "name": "Das Verschwinden (Lestari)",
+            "description": "Eine gewaltige, haifischähnliche Kreatur jagt im Meer nach Beute. Dies gefährdet den Handel und verängstigt die Seefahrer."
+        },
+        "silentDeath": {
+            "name": "Stiller Tod (Mega-Lestari Domäne)",
+            "description": "A shadow has been spotted lurking in the waters below, a prowling threat from the depths..."
+        },
+        "convoyOfHighSpirits": {
+            "name": "Convoy of High Spirits"
+        },
+        "shapesInTheWater": {
+            "name": "Formen im Wasser"
+        },
+        "spoilsOfWar": {
+            "name": "Spoils of War"
+        },
+        "aPerilousPathToProfits": {
+            "name": "Ein gefährlicher Weg zum Gewinn"
+        },
+        "maladiousMeasures": {
+            "name": "Tückische Maßnahmen"
+        },
+        "colonialShipment": {
+            "name": "Koloniale Lieferung"
+        },
+        "apparativeApparitions": {
+            "name": "Apparative Apparitions"
+        },
+        "violentTendencies": {
+            "name": "Violent Tendencies"
+        },
+        "aLongMarch": {
+            "name": "Ein langer Marsch"
+        },
+        "theManicMoonshinerFleet": {
+            "name": "Die Manische Schwarzbrenner Flotte"
+        },
+        "deadMansMoonshine": {
+            "name": "Selbstgebrannter des toten Mannes"
+        },
+        "moonshineMadness": {
+            "name": "Moonshine Madness"
+        },
+        "bloodDrunk": {
+            "name": "Im Blutrausch (Galvin Roche)",
+            "description": "Käpt'n Galvin Roche richtet im Vollrausch Tod und Chaos bei den Ungwanern an. Verpass ihm ein paar ernüchternde Breitseiten und hol dir die Belohnung."
+        },
+        "theWeepingMother": {
+            "name": "Die klagende Mutter"
+        },
+        "soleilRoyal": {
+            "name": "Soleil Royal"
+        },
+        "reapItAndWeep": {
+            "name": "Blutige Ernte"
+        },
+        "reaperOfTheLost": {
+            "name": "Schnitter der Verlorenen"
+        },
+        "azureHarbinger": {
+            "name": "Azurblauer Vorbote"
+        },
+        "warCargo": {
+            "name": "Kriegsfracht"
+        },
+        "warConvoy": {
+            "name": "Kriegskonvoi"
+        },
+        "opstuwing": {
+            "name": "Mächtige Opwelling"
+        },
+        "soleilImperial": {
+            "name": "Mächtige Soleil Royal"
+        },
+        "kraken": {
+            "name": "Kraken",
+            "description": "Ein Schatten wurde in den Wassern unter uns gesichtet, ein lauernder Schrecken aus der Tiefe..."
+        },
+        "theDrowningPlague": {
+            "name": "Ertrinkende Plage (Mythischer La Peste)"
+        },
+        "jawsOfRetribution": {
+            "name": "Schlund der Vergeltung (Zamaharibu Domäne)",
+            "description": "Scores of ships in the region have been decimated by an unknown foe"
+        },
+        "megafortWolvenhol": {
+            "name": "Großfestung Wolvenhol",
+            "description": "Tu dich mit 5 anderen Käpt'ns zusammen, um einen Schatz aus aufgestiegenen Materialien aus der Großfestung zu stehlen."
+        },
+        "legendOfTheNian": {
+            "name": "Legende des Nian"
+        },
+        "crazedNian": {
+            "name": "Wirres Nian"
+        },
+        "heraldsOfTheAbyss": {
+            "name": "Herolde des Abgrunds",
+            "description": "Schatten der jenseitigen Welt lauern am Rande der Realität. Bring die Abgrundflotte zum Vorschein und verbanne sie in ihr eigenes Reich."
+        },
+        "abyssalEnvoy": {
+            "name": "Abgrundtiefer Gesandter",
+            "description": "Ein geisterhaftes Grauen, das von Verfall flüstert, entsteigt den brechenden Gezeiten. Ein fluchbeladener Gesandter der kommenden Schrecken."
+        },
+        "gloryAdornedResynced": {
+            "name": "Zu Ehren des Ruhms: Resynced",
+            "description": "Halte Ausschau nach Handelskonvois, die mit einzigartigen Verschönerungen ausgestattet sind. Besiege sie und erhalte diese Verschönerungen für dein Schiff!"
+        }
     }
 }
