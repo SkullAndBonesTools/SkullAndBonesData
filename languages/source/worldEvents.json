@@ -1,7 +1,8 @@
 {
     "worldEvents": {
         "anguishFromTheAbyss": {
-            "name": "Anguish from the Abyss"
+            "name": "Anguish from the Abyss (Rode Maangodin Domain)",
+            "description": "The Maangodin, a vengeful specter trapped in its own torment, returns to spread his anguish upon the seas of the living."
         },
         "tidesOfTerror": {
             "name": "Tides of Terror"
