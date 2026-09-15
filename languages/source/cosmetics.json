@@ -24353,6 +24353,30 @@
             "description": {
                 "general": "No amount of coin is worth one's liberty"
             }
+        },
+        "freedomsCall": {
+            "name": "Freedom's Call",
+            "description": {
+                "general": "\"True liberty is the open sea.\""
+            }
+        },
+        "tidesplitter": {
+            "name": "Tidesplitter",
+            "description": {
+                "general": "\"Raise yer flask to chaos and coin, matey!\""
+            }
+        },
+        "brinehardenedHide": {
+            "name": "Brinehardened Hide",
+            "description": {
+                "general": "Salt-soaked and born of slaughter"
+            }
+        },
+        "windhook": {
+            "name": "Windhook",
+            "description": {
+                "general": "Seize every gust to sail to glory"
+            }
         }
     }
 }

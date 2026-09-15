@@ -35603,5 +35603,41 @@
         "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
         "dateAdded": "2026-09-15",
         "lastUpdated": "2026-09-15"
+    },
+    "freedomsCall": {
+        "id": "freedomsCall",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "roguesBounty",
+        "obtainable": [["twitchDrop","twitchDropRequiemOfTheLostY3S2"]],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
+    },
+    "tidesplitter": {
+        "id": "tidesplitter",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "set": "roguesBounty",
+        "obtainable": [["twitchDrop","twitchDropRequiemOfTheLostY3S2"]],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
+    },
+    "brinehardenedHide": {
+        "id": "brinehardenedHide",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "set": "roguesBounty",
+        "obtainable": [["twitchDrop","twitchDropRequiemOfTheLostY3S2"]],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
+    },
+    "windhook": {
+        "id": "windhook",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "set": "roguesBounty",
+        "obtainable": [["twitchDrop","twitchDropRequiemOfTheLostY3S2"]],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
     }
 }

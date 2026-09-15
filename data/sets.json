@@ -1915,5 +1915,9 @@
     "rebelRaider": {
         "id": "rebelRaider",
         "type": "ship"
+    },
+    "roguesBounty": {
+        "id": "roguesBounty",
+        "type": "ship"
     }
 }
