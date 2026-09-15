@@ -33901,33 +33901,40 @@
         "type": "sailsEmblem",
         "season": "shatteredSeas",
         "set": "jackdaw",
-        "obtainable": "acbfrLaunchGift",
+        "event": "gloryAdorned",
+        "obtainable": ["acbfrLaunchGift","ubisoftStore","resyncedCosmeticsChest"],
         "dateAdded": "2026-07-09",
-        "lastUpdated": "2026-07-09"
+        "lastUpdated": "2026-09-15"
     },
     "forTheBrotherhood": {
         "id": "forTheBrotherhood",
         "type": "sailsColor",
         "season": "shatteredSeas",
         "set": "jackdaw",
+        "event": "gloryAdorned",
+        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
         "dateAdded": "2026-07-09",
-        "lastUpdated": "2026-07-09"
+        "lastUpdated": "2026-09-15"
     },
     "rebelsCause": {
         "id": "rebelsCause",
         "type": "hull",
         "season": "shatteredSeas",
         "set": "jackdaw",
+        "event": "gloryAdorned",
+        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
         "dateAdded": "2026-07-09",
-        "lastUpdated": "2026-07-09"
+        "lastUpdated": "2026-09-15"
     },
     "assassinsEyes": {
         "id": "assassinsEyes",
         "type": "figureHead",
         "season": "shatteredSeas",
         "set": "jackdaw",
+        "event": "gloryAdorned",
+        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
         "dateAdded": "2026-07-09",
-        "lastUpdated": "2026-07-09"
+        "lastUpdated": "2026-09-15"
     },
     "steeltongue": {
         "id": "steeltongue",
