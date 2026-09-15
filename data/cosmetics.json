@@ -33902,7 +33902,7 @@
         "season": "shatteredSeas",
         "set": "jackdaw",
         "event": "gloryAdorned",
-        "obtainable": ["acbfrLaunchGift","ubisoftStore","resyncedCosmeticsChest"],
+        "obtainable": ["acbfrLaunchGift","ubisoftStore","blackFlagCosmeticsChest"],
         "dateAdded": "2026-07-09",
         "lastUpdated": "2026-09-15"
     },
@@ -33912,7 +33912,7 @@
         "season": "shatteredSeas",
         "set": "jackdaw",
         "event": "gloryAdorned",
-        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
+        "obtainable": ["ubisoftStore","blackFlagCosmeticsChest"],
         "dateAdded": "2026-07-09",
         "lastUpdated": "2026-09-15"
     },
@@ -33922,7 +33922,7 @@
         "season": "shatteredSeas",
         "set": "jackdaw",
         "event": "gloryAdorned",
-        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
+        "obtainable": ["ubisoftStore","blackFlagCosmeticsChest"],
         "dateAdded": "2026-07-09",
         "lastUpdated": "2026-09-15"
     },
@@ -33932,7 +33932,7 @@
         "season": "shatteredSeas",
         "set": "jackdaw",
         "event": "gloryAdorned",
-        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
+        "obtainable": ["ubisoftStore","blackFlagCosmeticsChest"],
         "dateAdded": "2026-07-09",
         "lastUpdated": "2026-09-15"
     },
@@ -35600,7 +35600,7 @@
         "type": "characterSuit",
         "season": "crimsonWaters",
         "event": "gloryAdorned",
-        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
+        "obtainable": ["ubisoftStore","blackFlagCosmeticsChest"],
         "dateAdded": "2026-09-15",
         "lastUpdated": "2026-09-15"
     },
