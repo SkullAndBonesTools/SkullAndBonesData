@@ -171,7 +171,7 @@ type LanguagesType = {
 
 function preprocessLocations(
     locationsObj: { locations: Record<string, string> },
-    seasonsObj: { seasons: Record<string, string> }
+    seasonsObj: { seasons: Record<string, { name: string, shortName: string, fullName: string }> }
 ): Record<keyof typeof en_locations.locations, string> {
     const seasonKeys = Object.keys(seasonsObj.seasons) as Array<keyof typeof seasonsObj.seasons>;
     const processed: Record<string, string> = {};
@@ -180,7 +180,7 @@ function preprocessLocations(
         let value = locationsObj.locations[locationKey];
         seasonKeys.forEach(seasonKey => {
             const placeholder = `{{${String(seasonKey)}}}`;
-            value = value.replaceAll(placeholder, seasonsObj.seasons[seasonKey]);
+            value = value.replaceAll(placeholder, seasonsObj.seasons[seasonKey].name);
         });
         processed[key] = value;
     }
