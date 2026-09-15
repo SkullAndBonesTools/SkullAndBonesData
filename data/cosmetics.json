@@ -35598,6 +35598,7 @@
     "aPiratesPath": {
         "id": "aPiratesPath",
         "type": "characterSuit",
+        "pieces": ["headwear","faceAccessory","neck","torso","waist","forearm","bottom","footwear"],
         "season": "crimsonWaters",
         "event": "gloryAdorned",
         "obtainable": ["ubisoftStore","blackFlagCosmeticsChest"],
