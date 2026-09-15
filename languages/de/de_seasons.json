@@ -1,15 +1,59 @@
 {
     "seasons": {
-        "release": "J1S0 - Release",
-        "ragingTides": "J1S1 - Tobende Gezeiten",
-        "chorusOfHavoc": "J1S2 - Triumphales Unheil",
-        "intoTheDragonsWake": "J1S3 - Im Sog des Drachen",
-        "shadowsOfTheDeep": "J1S4 - Schatten der Untiefe",
-        "ascentIntoChaos": "J2S1 - Hinauf ins Chaos",
-        "oathsOfWar": "J2S2 - Kriegsgeschwüre",
-        "gutsAndGlory": "J2S3 - Ruhm und Ehre",
-        "eyeOfTheBeast": "J2S4 - Im Auge der Bestie",
-        "shatteredSeas": "J3S1 - Zerschmetterte See",
-        "crimsonWaters": "J3S2 - Blutrote Gewässer"
+        "release": {
+            "name": "Release",
+            "shortName": "J1S0",
+            "fullName": "J1S0 - Release"
+        },
+        "ragingTides": {
+            "name": "Tobende Gezeiten",
+            "shortName": "J1S1",
+            "fullName": "J1S1 - Tobende Gezeiten"
+        },
+        "chorusOfHavoc": {
+            "name": "Triumphales Unheil",
+            "shortName": "J1S2",
+            "fullName": "J1S2 - Triumphales Unheil"
+        },
+        "intoTheDragonsWake": {
+            "name": "Im Sog des Drachen",
+            "shortName": "J1S3",
+            "fullName": "J1S3 - Im Sog des Drachen"
+        },
+        "shadowsOfTheDeep": {
+            "name": "Schatten der Untiefe",
+            "shortName": "J1S4",
+            "fullName": "J1S4 - Schatten der Untiefe"
+        },
+        "ascentIntoChaos": {
+            "name": "Hinauf ins Chaos",
+            "shortName": "J2S1",
+            "fullName": "J2S1 - Hinauf ins Chaos"
+        },
+        "oathsOfWar": {
+            "name": "Kriegsgeschwüre",
+            "shortName": "J2S2",
+            "fullName": "J2S2 - Kriegsgeschwüre"
+        },
+        "gutsAndGlory": {
+            "name": "Ruhm und Ehre",
+            "shortName": "J2S3",
+            "fullName": "J2S3 - Ruhm und Ehre"
+        },
+        "eyeOfTheBeast": {
+            "name": "Im Auge der Bestie",
+            "shortName": "J2S4",
+            "fullName": "J2S4 - Im Auge der Bestie"
+        },
+        "shatteredSeas": {
+            "name": "Zerschmetterte See",
+            "shortName": "J3S1",
+            "fullName": "J3S1 - Zerschmetterte See"
+        },
+        "crimsonWaters": {
+            "name": "Blutrote Gewässer",
+            "shortName": "J3S2",
+            "fullName": "J3S2 - Blutrote Gewässer"
+        }
     }
 }
