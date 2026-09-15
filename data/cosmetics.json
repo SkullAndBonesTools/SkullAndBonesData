@@ -35587,5 +35587,14 @@
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-25",
         "lastUpdated": "2026-08-25"
+    },
+    "aPiratesPath": {
+        "id": "aPiratesPath",
+        "type": "characterSuit",
+        "season": "crimsonWaters",
+        "event": "gloryAdorned",
+        "obtainable": ["ubisoftStore","resyncedCosmeticsChest"],
+        "dateAdded": "2026-09-15",
+        "lastUpdated": "2026-09-15"
     }
 }

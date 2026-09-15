@@ -24347,6 +24347,12 @@
             "description": {
                 "general": "Ignite a wildfire"
             }
+        },
+        "aPiratesPath": {
+            "name": "A Pirate's Path",
+            "description": {
+                "general": "No amount of coin is worth one's liberty"
+            }
         }
     }
 }
