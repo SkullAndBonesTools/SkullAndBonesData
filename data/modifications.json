@@ -75,7 +75,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -85,7 +85,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "direBurning": {
         "id": "direBurning",
@@ -113,7 +113,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.163, 0.19],
                 "dropOnly": true
             }
@@ -123,7 +123,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "shock": {
         "id": "shock",
@@ -134,7 +134,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -144,7 +144,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "rapidReload": {
         "id": "rapidReload",
@@ -280,7 +280,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -290,7 +290,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "combustion": {
         "id": "combustion",
@@ -301,7 +301,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -311,7 +311,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "pierce": {
         "id": "pierce",
@@ -338,7 +338,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -348,7 +348,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-05-05",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "haste": {
         "id": "haste",
@@ -1173,7 +1173,7 @@
             },
             {
                 "type": "adept",
-                "itemType": ["longGun","culverin","demicannon","ballista"],
+                "itemType": ["torpedo","longGun","culverin","demicannon","ballista"],
                 "range": [0.161, 0.19],
                 "dropOnly": true
             }
@@ -1183,7 +1183,7 @@
         "repairAccess": "none",
         "grade": "basic",
         "dateAdded": "2025-10-21",
-        "lastUpdated": "2026-08-18"
+        "lastUpdated": "2026-09-24"
     },
     "direToxic": {
         "id": "direToxic",
