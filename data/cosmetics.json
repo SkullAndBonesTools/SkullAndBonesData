@@ -35648,5 +35648,13 @@
         "obtainable": [["twitchDrop","twitchDropPlatinumGodGames"]],
         "dateAdded": "2026-09-15",
         "lastUpdated": "2026-09-15"
+    },
+    "raidersBet": {
+        "id": "raidersBet",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "obtainable": [["twitchDrop","twitchDropSupereloy77"]],
+        "dateAdded": "2026-09-25",
+        "lastUpdated": "2026-09-25"
     }
 }
