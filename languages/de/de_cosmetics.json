@@ -24383,6 +24383,12 @@
             "description": {
                 "general": "One strike ends all"
             }
+        },
+        "raidersBet": {
+            "name": "Einsatz des Banditen",
+            "description": {
+                "general": "\"Die schnellste Hand kriegt alles.\""
+            }
         }
     }
 }
