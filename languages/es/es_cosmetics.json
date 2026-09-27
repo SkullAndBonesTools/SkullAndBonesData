@@ -24383,6 +24383,12 @@
             "description": {
                 "general": "One strike ends all"
             }
+        },
+        "raidersBet": {
+            "name": "Raider's Bet",
+            "description": {
+                "general": "\"The quickest hand takes all.\""
+            }
         }
     }
 }
