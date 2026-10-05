@@ -379,5 +379,9 @@
         "rarity": "common",
         "category": "event",
         "event": "mooncakeRegatta"
+    },
+    "warAssets": {
+        "rarity": "legendary",
+        "category": "factionWar"
     }
 }
