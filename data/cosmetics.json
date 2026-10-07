@@ -34664,12 +34664,12 @@
     "emberwinds": {
         "id": "emberwinds",
         "type": "aura",
-        "effect": "combatReactive",
+        "effect": "bossKillReactive",
         "event": "darktideLullaby",
         "season": "crimsonWaters",
         "obtainable": "ubisoftStore",
         "dateAdded": "2026-08-18",
-        "lastUpdated": "2026-08-29"
+        "lastUpdated": "2026-10-07"
     },
     "flairewraith": {
         "id": "flairewraith",
@@ -35656,5 +35656,183 @@
         "obtainable": [["twitchDrop","twitchDropSupereloy77"]],
         "dateAdded": "2026-09-25",
         "lastUpdated": "2026-09-25"
+    },
+    "hexlight": {
+        "id": "hexlight",
+        "type": "firework",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "spectersmoke": {
+        "id": "spectersmoke",
+        "type": "aura",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "effect": "bossKillReactive",
+        "obtainable": "ubisoftStore",
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "grimjoy": {
+        "id": "grimjoy",
+        "type": "sailsEmblem",
+        "season": "crimsonWaters",
+        "set": "reapersRevel",
+        "effect": "animated",
+        "event": "requiemOfTheLost",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "wraithsmoke": {
+        "id": "wraithsmoke",
+        "type": "sailsPattern",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "reapersRevel",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "duskbleed": {
+        "id": "duskbleed",
+        "type": "sailsColor",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "reapersRevel",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "soulReaver": {
+        "id": "soulReaver",
+        "type": "figureHead",
+        "season": "crimsonWaters",
+        "set": "reapersRevel",
+        "event": "requiemOfTheLost",
+        "effect": ["emissive","combatReactive"],
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "deadMansParade": {
+        "id": "deadMansParade",
+        "type": "ornaments",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "reapersRevel",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "gravemistSheen": {
+        "id": "gravemistSheen",
+        "type": "hull",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "reapersRevel",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "bonehunter": {
+        "id": "bonehunter",
+        "type": "nameplate",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "reapersRevel",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "theDisquiet": {
+        "id": "theDisquiet",
+        "type": "headwear",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "ossuaryFace": {
+        "id": "ossuaryFace",
+        "type": "faceAccessory",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "hollowlight": {
+        "id": "hollowlight",
+        "type": "eyeColor",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "wraithtaken": {
+        "id": "wraithtaken",
+        "type": "torso",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "gravehook": {
+        "id": "gravehook",
+        "type": "forearm",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "effect": "emissive",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "thornbind": {
+        "id": "thornbind",
+        "type": "waist",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "midnightMass": {
+        "id": "midnightMass",
+        "type": "bottom",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
+    },
+    "gravewoken": {
+        "id": "gravewoken",
+        "type": "footwear",
+        "season": "crimsonWaters",
+        "event": "requiemOfTheLost",
+        "set": "wraithbloom",
+        "obtainable": ["ubisoftStore","ubisoftStoreRedeemableWithEventToken"],
+        "dateAdded": "2026-10-06",
+        "lastUpdated": "2026-10-06"
     }
 }

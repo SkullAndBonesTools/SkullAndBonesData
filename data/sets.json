@@ -1919,5 +1919,13 @@
     "roguesBounty": {
         "id": "roguesBounty",
         "type": "ship"
+    },
+    "reapersRevel": {
+        "id": "reapersRevel",
+        "type": "ship"
+    },
+    "wraithbloom": {
+        "id": "wraithbloom",
+        "type": "player"
     }
 }
