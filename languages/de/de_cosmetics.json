@@ -24389,6 +24389,108 @@
             "description": {
                 "general": "\"Die schnellste Hand kriegt alles.\""
             }
+        },
+        "hexlight": {
+            "name": "Fluchlicht",
+            "description": {
+                "general": "Die verfluchte Stunde steht an..."
+            }
+        },
+        "spectersmoke": {
+            "name": "Gespensterrauch",
+            "description": {
+                "general": "Bereit, in diesen Gewässern umherzuspuken?"
+            }
+        },
+        "grimjoy": {
+            "name": "Grimmfreud",
+            "description": {
+                "general": "\"Es geht doch nichts über Furcht, um zu wissen, dass man noch lebt. Vorerst.\""
+            }
+        },
+        "wraithsmoke": {
+            "name": "Gespensterqualm",
+            "description": {
+                "general": "\"Ein Anblick wird dir den Atem rauben.\""
+            }
+        },
+        "duskbleed": {
+            "name": "Dämmerblut",
+            "description": {
+                "general": "Mit den Schrecken der Geisterstunde gewebt."
+            }
+        },
+        "soulReaver": {
+            "name": "Seelenschnitter",
+            "description": {
+                "general": "\"Na los, komm hervor, Sprotte. Es ist Zeit zum Jagen.\""
+            }
+        },
+        "deadMansParade": {
+            "name": "Parade des toten Mannes",
+            "description": {
+                "general": "Wer spuken will, braucht eine gute Prozession."
+            }
+        },
+        "gravemistSheen": {
+            "name": "Grabnebel-Glanz",
+            "description": {
+                "general": "Es gibt keinen schöneren Anblick als ein mit Kadavern geschmücktes Kielwasser."
+            }
+        },
+        "bonehunter": {
+            "name": "Knochenjäger",
+            "description": {
+                "general": "\"Diese Gewässer gehören denen, die auf ihnen herumspuken.\""
+            }
+        },
+        "theDisquiet": {
+            "name": "Die Unruhe",
+            "description": {
+                "general": "Für jene, die nie ruhen."
+            }
+        },
+        "ossuaryFace": {
+            "name": "Beinhaus",
+            "description": {
+                "general": "Wo das Leben einst Gestalt annahm."
+            }
+        },
+        "hollowlight": {
+            "name": "Leerlicht",
+            "description": {
+                "general": "Ein tödlicher Blick. Durch etwas darunter entflammt."
+            }
+        },
+        "wraithtaken": {
+            "name": "Geisteranspruch",
+            "description": {
+                "general": "Eine leere Form, von einer schleichenden Blüte verzehrt."
+            }
+        },
+        "gravehook": {
+            "name": "Grabeshaken",
+            "description": {
+                "general": "Eisen und Knochen, wo Verfall das Fleisch befällt."
+            }
+        },
+        "thornbind": {
+            "name": "Dornenband",
+            "description": {
+                "general": "Festgezurrt, wo die Fäulnis sich zu verbreiten beginnt."
+            }
+        },
+        "midnightMass": {
+            "name": "Mitternachtsmesse",
+            "description": {
+                "general": "Betet, dass die Verderbnis nicht zu tief reicht."
+            }
+        },
+        "gravewoken": {
+            "name": "Graberweckung",
+            "description": {
+                "general": "Hinterlässt das Echo unvollendeter Dinge."
+            }
         }
     }
 }
