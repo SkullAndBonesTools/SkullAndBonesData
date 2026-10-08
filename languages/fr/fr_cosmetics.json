@@ -24389,6 +24389,108 @@
             "description": {
                 "general": "\"The quickest hand takes all.\""
             }
+        },
+        "hexlight": {
+            "name": "Hexlight",
+            "description": {
+                "general": "The cursed hour looms..."
+            }
+        },
+        "spectersmoke": {
+            "name": "Spectersmoke",
+            "description": {
+                "general": "Haunt these waters"
+            }
+        },
+        "grimjoy": {
+            "name": "Grimjoy",
+            "description": {
+                "general": "\"Nothin' like fear to know you're alive, matey -- for now.\""
+            }
+        },
+        "wraithsmoke": {
+            "name": "Wraithsmoke",
+            "description": {
+                "general": "\"One sight will stop yer breath in yer throat.\""
+            }
+        },
+        "duskbleed": {
+            "name": "Duskbleed",
+            "description": {
+                "general": "Woven with the terrors of the witching hour"
+            }
+        },
+        "soulReaver": {
+            "name": "Soul Reaver",
+            "description": {
+                "general": "\"Come on out, cully, it's huntin' time.\""
+            }
+        },
+        "deadMansParade": {
+            "name": "Dead Man's Parade",
+            "description": {
+                "general": "Every good haunting needs a procession"
+            }
+        },
+        "gravemistSheen": {
+            "name": "Gravemist Sheen",
+            "description": {
+                "general": "No sweeter sight than a wake paved in corpses"
+            }
+        },
+        "bonehunter": {
+            "name": "Bonehunter",
+            "description": {
+                "general": "\"Those seas belong to those who haunt 'em.\""
+            }
+        },
+        "theDisquiet": {
+            "name": "The Disquiet",
+            "description": {
+                "general": "For one who will not rest"
+            }
+        },
+        "ossuaryFace": {
+            "name": "Ossuary",
+            "description": {
+                "general": "Where life once held shape"
+            }
+        },
+        "hollowlight": {
+            "name": "Hollowlight",
+            "description": {
+                "general": "A deadly stare lit by something beneath"
+            }
+        },
+        "wraithtaken": {
+            "name": "Wraithtaken",
+            "description": {
+                "general": "A hollow form consumed by a creeping bloom"
+            }
+        },
+        "gravehook": {
+            "name": "Gravehook",
+            "description": {
+                "general": "Iron and bone where decay grips the flesh"
+            }
+        },
+        "thornbind": {
+            "name": "Thornbind",
+            "description": {
+                "general": "Cinched tight where the rot begins to spread"
+            }
+        },
+        "midnightMass": {
+            "name": "Midnight Mass",
+            "description": {
+                "general": "Pray the corruption does not run deep"
+            }
+        },
+        "gravewoken": {
+            "name": "Gravewoken",
+            "description": {
+                "general": "Leaves the echo of things undone"
+            }
         }
     }
 }

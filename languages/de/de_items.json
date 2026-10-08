@@ -3238,94 +3238,94 @@
             }
         },
         "cheese": {
-            "name": "Cheese",
+            "name": "Käse",
             "description": {
-                "general": "Aged to perfection and tough as barnacled hull wood, this hearty cheese wheel can keep a crew fed through the fiercest storms -- and doubles as a fine bargaining chip in shady ports."
+                "general": "Zur Perfektion gereift und so zäh wie Rumpfholz voller Seepocken. Dieser kräftige Käse stillt den Hunger einer Besatzung, auch wenn tosende Stürme toben. Und kann in fragwürdigen Häfen als Verhandlungsmasse verwandt werden."
             }
         },
         "infernalArtificersBench": {
-            "name": "Infernal Artificer's Bench",
+            "name": "Höllenhandwerker-Werkbank",
             "description": {
-                "general": "A volatile workstation that enhances the application of Shell-Shocked and Ablaze status effects, reduces reload time for Explosive and Burning weapons, and amplifies damage against afflicted targets."
+                "general": "Ein brandgefährlicher Arbeitsplatz, der die Fähigkeit verbessert, Erschüttert und In Brand zuzufügen, Nachladezeit für explosive und brennende Waffen verringert und Schaden gegen betroffene Ziele erhöht."
             }
         },
         "hellshotSmithy": {
-            "name": "Hellshot Smithy",
+            "name": "Höllenschuss-Schmiede",
             "description": {
-                "general": "A forbidden shipboard forge, built to enhance the Ablaze status effect and spread Burning damage across enemy targets."
+                "general": "Eine verbotene Schiffsschmiede zur Verbesserung des Statuseffekts In Brand und zur Verteilung von Brandschaden auf Gegnerziele."
             }
         },
         "stElmosChains": {
-            "name": "St. Elmo's Chains",
+            "name": "Ketten von Sankt Elm",
             "description": {
-                "general": "A deadly fitting that enhances Lightning weapons, dealing significantly more electrical damage to Flooded targets."
+                "general": "Eine tödliche Ausstattung, die Blitzschlag-Waffen verbessert und überfluteten Zielen signifikant höheren elektrischen Schaden zufügt."
             }
         },
         "pyroclasm": {
-            "name": "Pyroclasm",
+            "name": "Pyroklasmus",
             "description": {
-                "general": "A vicious raider's armor, forged in an obsession with fire. Bracing enemy attacks builds a fiery explosion that damages nearby targets and spreads flames."
+                "general": "Die Panzerung eines grausamen Plünderers, geschmiedet aus der Besessenheit für Feuer. Das Abwehren von feindlichen Angriffen erzeugt eine brandgefährliche Explosion, die Ziele in der Nähe schädigt und Flammen verbreitet."
             }
         },
         "leDrac": {
             "name": "Le Drac",
             "description": {
-                "general": "Worn by those who charge first. Bracing hits builds an explosion that can be triggered by ramming a target."
+                "general": "Wird von denen getragen, die ihre Wut hochkochen lassen. Wenn du in Deckung getroffen wirst, baut sich eine Explosion auf, die durch das Rammen eines Ziels ausgelöst werden kann."
             }
         },
         "scorchSong": {
-            "name": "Scorch Song",
+            "name": "Lied der Feuersbrunst",
             "description": {
-                "general": "A fiery weapon that triggers devastating explosions, ramping up damage with each hit."
+                "general": "Eine feurige Waffe, die verheerende Explosionen auslöst und den Schaden mit jedem Treffer steigert."
             }
         },
         "drowningHellion": {
-            "name": "Drowning Hellion",
+            "name": "Untergehender Teufelsbraten",
             "description": {
-                "general": "A hull-shredding Demi-cannon built to Flood enemy ships with impunity."
+                "general": "Eine Halbkanone, die Rümpfe zerfetzt und dazu gebaut ist, feindliche Schiffe nach Belieben zu fluten."
             }
         },
         "anathema": {
             "name": "Anathema",
             "description": {
-                "general": "A vile weapon that spreads La Peste's toxins and blasts illness across enemy ships."
+                "general": "Eine grausame Waffe, die La Pestes Giftstoffe versprüht und Krankheiten über feindliche Schiffe verbreitet."
             }
         },
         "drakonsJaws": {
-            "name": "Drakon's Jaws",
+            "name": "Drakon-Kiefer",
             "description": {
-                "general": "An ingenious weapon that triggers burning blasts on impact, intensifying against Flooded targets."
+                "general": "Eine raffinierte Waffe, die beim Aufprall brennende Explosionen auslöst, deren Wirkung gegen überflutete Ziele verstärkt wird."
             }
         },
         "clawsOfTheDeep": {
-            "name": "Claws of the Deep",
+            "name": "Klauen der Untiefe",
             "description": {
-                "general": "A precise perforator of ship hulls that tears holes through its targets to send them to their watery graves."
+                "general": "Durchschlägt präzise Schiffsrümpfe, reißt Löcher in ihre Ziele und schickt diese in ihr nasses Grab."
             }
         },
         "hellfire": {
-            "name": "Hellfire",
+            "name": "Höllenfeuer",
             "description": {
-                "general": "A heavy rocket weapon that burns away its target's Fire Mitigation with consecutive hits."
+                "general": "Eine schwere Raketenwaffe, die durch aufeinanderfolgende Treffer die Feuerresistenz des Ziels zunichte macht."
             }
         },
         "junkUpgrade": {
-            "name": "Junk Upgrade",
+            "name": "Dschunke Verbesserungen",
             "description": {
-                "general": "Ship upgrade for the Junk.",
-                "1": "Upgrades the ship level from 0 to 1.",
-                "2": "Upgrades the ship level from 1 to 2.",
-                "3": "Upgrades the ship level from 2 to 3.",
-                "4": "Upgrades the ship level from 3 to 4.",
-                "5": "Upgrades the ship level from 4 to 5.",
-                "6": "Upgrades the ship level from 5 to 6.",
-                "7": "Upgrades the ship level from 6 to 7."
+                "general": "Schiffsverbesserung für die Dschunke.",
+                "1": "Aufwertung der Verbesserungsstufe von 0 auf 1.",
+                "2": "Aufwertung der Verbesserungsstufe von 1 auf 2.",
+                "3": "Aufwertung der Verbesserungsstufe von 2 auf 3.",
+                "4": "Aufwertung der Verbesserungsstufe von 3 auf 4",
+                "5": "Aufwertung der Verbesserungsstufe von 4 auf 5.",
+                "6": "Aufwertung der Verbesserungsstufe von 5 auf 6.",
+                "7": "Aufwertung der Verbesserungsstufe von 6 auf 7."
             }
         },
         "ascendedDrakonsJawsChest": {
-            "name": "Ascended Drakon's Jaws Chest",
+            "name": "Aufgestiegene Drakon-Kiefer Truhe",
             "description": {
-                "general": "Contains an Ascended Drakon's Jaws"
+                "general": "Enthät Drakon-Kiefer (aufgestiegen)"
             }
         },
         "dredgedArmoryCache": {
@@ -3341,27 +3341,27 @@
             }
         },
         "adeptCannonStrongbox": {
-            "name": "Adept Cannon Strongbox",
+            "name": "Schatulle der Profikanone",
             "description": {
-                "general": "Contains a Cannonball type weapon with a Basic Adept Mod"
+                "general": "Beinhaltet eine Waffe des Typs Kanonenkugel mit einer Einfachen Profimodifikation."
             }
         },
         "maelstromCannonStrongbox": {
-            "name": "Maelstrom Cannon Strongbox",
+            "name": "Schatulle der Mahlstrom-Kanone",
             "description": {
-                "general": "Contains Cannonball type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+                "general": "Beinhaltet Kanonen-Waffen mit einer Chance auf Einfache und Verbesserte Profimodifikationen und exklusive Mythische Modifikationen."
             }
         },
         "maelstromBallistaStrongbox": {
-            "name": "Maelstrom Ballista Strongbox",
+            "name": "Schatulle der Mahlstrom-Ballista",
             "description": {
-                "general": "Contains Ballista type Weapons with Chance for Basic & Advanced Adept Mods and Exclusive Mythic Mods"
+                "general": "Beinhaltet Ballista-Waffen mit einer Chance auf Einfache und Verbesserte Profimodifikationen und exklusive Mythische Modifikationen."
             }
         },
         "blackFlagCosmeticsChest": {
-            "name": "Black Flag Cosmetics Chest",
+            "name": "Schwarze Flagge Verschönerungstruhe",
             "description": {
-                "general": "An opulent chest which may contain cosmetics that are part of the Jackdaw Set."
+                "general": "Eine opulente Truhe, in der sich möglicherweise Verschönerungen befinden, die Teil vom \"Dohle\" Set sind."
             }
         }
     }

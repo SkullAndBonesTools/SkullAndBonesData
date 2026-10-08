@@ -307,6 +307,10 @@
         "cipherMooncake": {
             "name": "Cipher Mooncake",
             "description": "A re-encrypted mooncake needs to be handled carefully."
+        },
+        "warAssets": {
+            "name": "Kriegsgerät",
+            "description": "Eine offizielle Anforderung für diversen Militärbedarf. In den richtigen Händen kann dieses Dokument dazu verwendet werden, Kriegsvorräte für deinen bevorzugten Patron zu sichern."
         }
     }
 }
