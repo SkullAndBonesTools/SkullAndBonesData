@@ -686,9 +686,10 @@
         "required": {
             "metalSalvage": 2
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "bombardBombCrate": {
         "id": "bombardBombCrate",
@@ -702,9 +703,10 @@
             "metalSalvage": 1,
             "rustyNail": 1
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "ballistaBoltCrate": {
         "id": "ballistaBoltCrate",
@@ -719,9 +721,10 @@
             "brokenPlank": 1,
             "tornSail": 2
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "seaFireOilCrate": {
         "id": "seaFireOilCrate",
@@ -736,9 +739,10 @@
             "scavengedWood": 2,
             "tornSail": 2
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "mortarBombCrate": {
         "id": "mortarBombCrate",
@@ -753,9 +757,10 @@
             "brokenPlank": 2,
             "tornSail": 3
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "rocketCrate": {
         "id": "rocketCrate",
@@ -770,9 +775,10 @@
             "brokenPlank": 2,
             "rustyNail": 3
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "torpedoCrate": {
         "id": "torpedoCrate",
@@ -787,9 +793,10 @@
             "scavengedWood": 1,
             "tornSail": 2
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-02-05",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "ironHusk1": {
         "id": "ironHusk1",
@@ -6696,9 +6703,10 @@
             "metalSalvage": 2,
             "scavengedWood": 2
         },
+        "removed": "2026-10-19",
         "obtainable": "denHawker",
         "dateAdded": "2024-06-01",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "springloaderFurnace1": {
         "id": "springloaderFurnace1",
@@ -9318,8 +9326,9 @@
             "teakPlank": 3,
             "fineSisal": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeSeaFireOilCrate2": {
         "id": "deluxeSeaFireOilCrate2",
@@ -9334,8 +9343,9 @@
             "teakPlank": 3,
             "nickelIngot": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeCannonballCrate2": {
         "id": "deluxeCannonballCrate2",
@@ -9348,8 +9358,9 @@
         "required": {
             "bronzeIngot": 5
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeMortarBombCrate2": {
         "id": "deluxeMortarBombCrate2",
@@ -9364,8 +9375,9 @@
             "teakPlank": 3,
             "fineSisal": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeRocketCrate2": {
         "id": "deluxeRocketCrate2",
@@ -9380,8 +9392,9 @@
             "irokoPlank": 3,
             "bronzeIngot": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeBuoyShellsCrate2": {
         "id": "deluxeBuoyShellsCrate2",
@@ -9396,8 +9409,9 @@
             "nickelIngot": 3,
             "teakPlank": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeBombardBombCrate2": {
         "id": "deluxeBombardBombCrate2",
@@ -9411,8 +9425,9 @@
             "bronzeIngot": 3,
             "nickelIngot": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeTorpedoCrate2": {
         "id": "deluxeTorpedoCrate2",
@@ -9427,8 +9442,9 @@
             "irokoPlank": 3,
             "fineLinen": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeBallistaBoltCrate1": {
         "id": "deluxeBallistaBoltCrate1",
@@ -9443,8 +9459,9 @@
             "acaciaPlank": 3,
             "fineJute": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeCannonballCrate1": {
         "id": "deluxeCannonballCrate1",
@@ -9457,8 +9474,9 @@
         "required": {
             "castIronIngot": 5
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeBombardBombCrate1": {
         "id": "deluxeBombardBombCrate1",
@@ -9472,8 +9490,9 @@
             "castIronIngot": 3,
             "bronzeIngot": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeTorpedoCrate1": {
         "id": "deluxeTorpedoCrate1",
@@ -9488,8 +9507,9 @@
             "acaciaPlank": 3,
             "fineJute": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeSeaFireOilCrate1": {
         "id": "deluxeSeaFireOilCrate1",
@@ -9504,8 +9524,9 @@
             "acaciaPlank": 4,
             "bronzeIngot": 2
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeMortarBombCrate1": {
         "id": "deluxeMortarBombCrate1",
@@ -9520,8 +9541,9 @@
             "irokoPlank": 3,
             "fineLinen": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeRocketCrate1": {
         "id": "deluxeRocketCrate1",
@@ -9536,8 +9558,9 @@
             "irokoPlank": 2,
             "castIronIngot": 4
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "deluxeBuoyShellsCrate1": {
         "id": "deluxeBuoyShellsCrate1",
@@ -9552,8 +9575,9 @@
             "castIronIngot": 3,
             "acaciaPlank": 3
         },
+        "removed": "2026-10-19",
         "dateAdded": "2024-08-22",
-        "lastUpdated": "2025-07-29"
+        "lastUpdated": "2026-10-19"
     },
     "whiteJade": {
         "id": "whiteJade",
