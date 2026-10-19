@@ -24491,6 +24491,12 @@
             "description": {
                 "general": "Leaves the echo of things undone"
             }
+        },
+        "boneReaver": {
+            "name": "Bone Reaver",
+            "description": {
+                "general": "Every shot carries a curse"
+            }
         }
     }
 }

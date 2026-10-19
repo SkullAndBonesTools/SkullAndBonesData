@@ -24491,6 +24491,12 @@
             "description": {
                 "general": "Hinterlässt das Echo unvollendeter Dinge."
             }
+        },
+        "boneReaver": {
+            "name": "Knochenplünderer",
+            "description": {
+                "general": "Jeder Schuss bringt einen Fluch."
+            }
         }
     }
 }
